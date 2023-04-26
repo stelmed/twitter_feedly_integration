@@ -6,190 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 16:22:13 +0000</lastBuildDate>
-    <item>
-      <title>@KordingLab 😂</title>
-      <link>https://twitter.com/TrackingActions/status/1650954051817730059</link>
-      <description>@KordingLab 😂</description>
-      <content:encoded>@KordingLab 😂&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1650954051817730059"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:04:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @TheVetFuturist: 🚀Ready, set, analyze! 🐾 Dive into the #deeplabcut challenge! 🏆
-Show off your top tracking skills with a standout video/…</title>
-      <link>https://twitter.com/TrackingActions/status/1650954343099559974</link>
-      <description>RT @TheVetFuturist: 🚀Ready, set, analyze! 🐾 Dive into the #deeplabcut challenge! 🏆
-Show off your top tracking skills with a standout video/…</description>
-      <content:encoded>RT @TheVetFuturist: 🚀Ready, set, analyze! 🐾 Dive into the #deeplabcut challenge! 🏆
-Show off your top tracking skills with a standout video/…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1650954343099559974"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>iCytSnFR
-Depositor: Henry Lester
-Purpose: Develop a family of genetically encoded fluorescent biosensors for nicotinic agonists, termed iDrugSnFRs, thus enabling optical subcellular pharmacokinetics for nicotinic agonists
-
-https://t.co/IMftXI9aQ0 https://t.co/3LXtD3cPhg</title>
-      <link>https://twitter.com/Addgene/status/1650954842787967011</link>
-      <description>iCytSnFR
-Depositor: Henry Lester
-Purpose: Develop a family of genetically encoded fluorescent biosensors for nicotinic agonists, termed iDrugSnFRs, thus enabling optical subcellular pharmacokinetics for nicotinic agonists
-
-https://t.co/IMftXI9aQ0 https://t.co/3LXtD3cPhg</description>
-      <content:encoded>iCytSnFR
-Depositor: Henry Lester
-Purpose: Develop a family of genetically encoded fluorescent biosensors for nicotinic agonists, termed iDrugSnFRs, thus enabling optical subcellular pharmacokinetics for nicotinic agonists
-
-https://t.co/IMftXI9aQ0 https://t.co/3LXtD3cPhg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1650954842787967011"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FulerG7WwAAoW0F.jpg" length="480" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 20:08:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voltage imaging reveals that hippocampal interneurons tune memory-encoding pyramidal sequences  https://t.co/b66D8ekTFy #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1650956712549969928</link>
-      <description>Voltage imaging reveals that hippocampal interneurons tune memory-encoding pyramidal sequences  https://t.co/b66D8ekTFy #biorxiv_neursci</description>
-      <content:encoded>Voltage imaging reveals that hippocampal interneurons tune memory-encoding pyramidal sequences  https://t.co/b66D8ekTFy #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1650956712549969928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Direction-dependent neural control of finger dexterity in humans  https://t.co/blUKaGICBU #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1650956805608992781</link>
-      <description>Direction-dependent neural control of finger dexterity in humans  https://t.co/blUKaGICBU #biorxiv_neursci</description>
-      <content:encoded>Direction-dependent neural control of finger dexterity in humans  https://t.co/blUKaGICBU #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1650956805608992781"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:15:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Individual word representations dissociate from linguistic context along a cortical unimodal to heteromodal gradient  https://t.co/Kzkom6CrU3 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1650956896671526915</link>
-      <description>Individual word representations dissociate from linguistic context along a cortical unimodal to heteromodal gradient  https://t.co/Kzkom6CrU3 #biorxiv_neursci</description>
-      <content:encoded>Individual word representations dissociate from linguistic context along a cortical unimodal to heteromodal gradient  https://t.co/Kzkom6CrU3 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1650956896671526915"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:16:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>An energy costly architecture of neuromodulators for human brain evolution and cognition  https://t.co/KqA7Okl6pw #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1650957024430026758</link>
-      <description>An energy costly architecture of neuromodulators for human brain evolution and cognition  https://t.co/KqA7Okl6pw #biorxiv_neursci</description>
-      <content:encoded>An energy costly architecture of neuromodulators for human brain evolution and cognition  https://t.co/KqA7Okl6pw #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1650957024430026758"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inhibitory neurons control the consolidation of neural assemblies via adaptation to selective stimuli  https://t.co/1SrGPmvEIM #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1650957109738045441</link>
-      <description>Inhibitory neurons control the consolidation of neural assemblies via adaptation to selective stimuli  https://t.co/1SrGPmvEIM #biorxiv_neursci</description>
-      <content:encoded>Inhibitory neurons control the consolidation of neural assemblies via adaptation to selective stimuli  https://t.co/1SrGPmvEIM #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1650957109738045441"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:17:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @n_gao96: Excited that @icmlconf will publish our work on Generalizing Neural Wave Functions!
-
-We are the first to show that a single NN…</title>
-      <link>https://twitter.com/sofroniewn/status/1650957431600713728</link>
-      <description>RT @n_gao96: Excited that @icmlconf will publish our work on Generalizing Neural Wave Functions!
-
-We are the first to show that a single NN…</description>
-      <content:encoded>RT @n_gao96: Excited that @icmlconf will publish our work on Generalizing Neural Wave Functions!
-
-We are the first to show that a single NN…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1650957431600713728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Rosalind Franklin truly contributed to the discovery of DNA’s structure https://t.co/beHcvs8StN</title>
-      <link>https://twitter.com/HenryYin19/status/1650959418744541186</link>
-      <description>What Rosalind Franklin truly contributed to the discovery of DNA’s structure https://t.co/beHcvs8StN</description>
-      <content:encoded>What Rosalind Franklin truly contributed to the discovery of DNA’s structure https://t.co/beHcvs8StN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HenryYin19/status/1650959418744541186"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:26:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Review in @NatRevDrugDisc summarizes the progress and lessons learned with COVID-19 drug discovery, and discusses platform trial design for the development of therapeutics to tackle COVID-19, long COVID and pathogenic coronaviruses in future outbreaks. https://t.co/g51D9AuXEJ https://t.co/btZmOEdFtv</title>
-      <link>https://twitter.com/NaturePortfolio/status/1650965424740216837</link>
-      <description>A Review in @NatRevDrugDisc summarizes the progress and lessons learned with COVID-19 drug discovery, and discusses platform trial design for the development of therapeutics to tackle COVID-19, long COVID and pathogenic coronaviruses in future outbreaks. https://t.co/g51D9AuXEJ https://t.co/btZmOEdFtv</description>
-      <content:encoded>A Review in @NatRevDrugDisc summarizes the progress and lessons learned with COVID-19 drug discovery, and discusses platform trial design for the development of therapeutics to tackle COVID-19, long COVID and pathogenic coronaviruses in future outbreaks. https://t.co/g51D9AuXEJ https://t.co/btZmOEdFtv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1650965424740216837"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FuloSaOXsAAr6kd.png" length="1200" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 20:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>fingers crossed! https://t.co/qEIni3IxA2</title>
-      <link>https://twitter.com/andpru/status/1650966818201255947</link>
-      <description>fingers crossed! https://t.co/qEIni3IxA2</description>
-      <content:encoded>fingers crossed! https://t.co/qEIni3IxA2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1650966818201255947"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:55:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lights, camera, action potential! 🧠⚡️
-
-In our latest #BasicallyScience, we're exploring how neurons talk to each other using their own chemical language and how we can eavesdrop on them. 👀
-
-#NeuroTwitter #SciComm #Neuroscience https://t.co/odgoAzPuid</title>
-      <link>https://twitter.com/AllenInstitute/status/1650966942373617666</link>
-      <description>Lights, camera, action potential! 🧠⚡️
-
-In our latest #BasicallyScience, we're exploring how neurons talk to each other using their own chemical language and how we can eavesdrop on them. 👀
-
-#NeuroTwitter #SciComm #Neuroscience https://t.co/odgoAzPuid</description>
-      <content:encoded>Lights, camera, action potential! 🧠⚡️
-
-In our latest #BasicallyScience, we're exploring how neurons talk to each other using their own chemical language and how we can eavesdrop on them. 👀
-
-#NeuroTwitter #SciComm #Neuroscience https://t.co/odgoAzPuid&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1650966942373617666"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FulpqpTWAAMAyXB.jpg" length="668" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 20:56:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AIHCluster: Minimizing the risks of #anesthesia-related side effects is a top priority. AIH 1 uses deep recurrent #neuralnetworks to id…</title>
-      <link>https://twitter.com/SimWieg/status/1650967093443952645</link>
-      <description>RT @AIHCluster: Minimizing the risks of #anesthesia-related side effects is a top priority. AIH 1 uses deep recurrent #neuralnetworks to id…</description>
-      <content:encoded>RT @AIHCluster: Minimizing the risks of #anesthesia-related side effects is a top priority. AIH 1 uses deep recurrent #neuralnetworks to id…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SimWieg/status/1650967093443952645"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 20:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>The evolution of the nervous system may have followed multiple paths and risen independently in two early lineages of animals, a new Science study finds in comb jellies.
-
-The results offer a new perspective on neuronal networks and neurotransmission. https://t.co/NmLzng82FJ https://t.co/rsfxOlpHlH</title>
-      <link>https://twitter.com/ScienceMagazine/status/1650967986839121921</link>
-      <description>The evolution of the nervous system may have followed multiple paths and risen independently in two early lineages of animals, a new Science study finds in comb jellies.
-
-The results offer a new perspective on neuronal networks and neurotransmission. https://t.co/NmLzng82FJ https://t.co/rsfxOlpHlH</description>
-      <content:encoded>The evolution of the nervous system may have followed multiple paths and risen independently in two early lineages of animals, a new Science study finds in comb jellies.
-
-The results offer a new perspective on neuronal networks and neurotransmission. https://t.co/NmLzng82FJ https://t.co/rsfxOlpHlH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1650967986839121921"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FulqoaHXsAAKK9i.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 21:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers have created hybrids of biological motor protein and nonmotor #DNA binding domains that walk unidirectionally on synthetic DNA tracks containing the recognition sites for the DNA binding domains.
-
-Learn more on #DNADay: https://t.co/kKwiG2S84z #SciencePerspective https://t.co/PTddG6SFqc</title>
-      <link>https://twitter.com/ScienceMagazine/status/1650967988755898373</link>
-      <description>Researchers have created hybrids of biological motor protein and nonmotor #DNA binding domains that walk unidirectionally on synthetic DNA tracks containing the recognition sites for the DNA binding domains.
-
-Learn more on #DNADay: https://t.co/kKwiG2S84z #SciencePerspective https://t.co/PTddG6SFqc</description>
-      <content:encoded>Researchers have created hybrids of biological motor protein and nonmotor #DNA binding domains that walk unidirectionally on synthetic DNA tracks containing the recognition sites for the DNA binding domains.
-
-Learn more on #DNADay: https://t.co/kKwiG2S84z #SciencePerspective https://t.co/PTddG6SFqc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1650967988755898373"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FulqopTXgA8nDMD.jpg" length="689" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 21:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @vardi: Ban on Tenure for New Faculty Hires Passes Texas Senate https://t.co/wRAgWUolDk</title>
-      <link>https://twitter.com/TheBrunoCortex/status/1650969193997651969</link>
-      <description>RT @vardi: Ban on Tenure for New Faculty Hires Passes Texas Senate https://t.co/wRAgWUolDk</description>
-      <content:encoded>RT @vardi: Ban on Tenure for New Faculty Hires Passes Texas Senate https://t.co/wRAgWUolDk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1650969193997651969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 21:05:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Very proud of this preprint from our lab on multi-day voltage imaging of PV and SST interneurons in hippocampal CA1 during learning and performance of a working memory task! This was led by @JiannisTax, with important contributions from @BlakeMadruga and @michaelzlin. https://t.co/vwp8aPU01z</title>
-      <link>https://twitter.com/pgolshani/status/1650969219222360074</link>
-      <description>Very proud of this preprint from our lab on multi-day voltage imaging of PV and SST interneurons in hippocampal CA1 during learning and performance of a working memory task! This was led by @JiannisTax, with important contributions from @BlakeMadruga and @michaelzlin. https://t.co/vwp8aPU01z</description>
-      <content:encoded>Very proud of this preprint from our lab on multi-day voltage imaging of PV and SST interneurons in hippocampal CA1 during learning and performance of a working memory task! This was led by @JiannisTax, with important contributions from @BlakeMadruga and @michaelzlin. https://t.co/vwp8aPU01z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/pgolshani/status/1650969219222360074"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 21:05:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @elianeubalijoro: Bravo to the inimitable @jaspernotwell and Hēmi Whaanga, w such a wonderful group for this amazing accomplishment to e…</title>
-      <link>https://twitter.com/tyrell_turing/status/1650972960742572032</link>
-      <description>RT @elianeubalijoro: Bravo to the inimitable @jaspernotwell and Hēmi Whaanga, w such a wonderful group for this amazing accomplishment to e…</description>
-      <content:encoded>RT @elianeubalijoro: Bravo to the inimitable @jaspernotwell and Hēmi Whaanga, w such a wonderful group for this amazing accomplishment to e…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1650972960742572032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 21:20:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Apr 2023 17:15:07 +0000</lastBuildDate>
     <item>
       <title>Our institutions are operating now under a set of very perverse incentives that are already biting back on the students. https://t.co/biiW39hDJy</title>
       <link>https://twitter.com/andpru/status/1650975238828572672</link>
@@ -2209,6 +2026,183 @@ https://t.co/A08awy2bkk https://t.co/Z4ZoR3WbX7&lt;blockquote class="twitter-twe
       <description>New Research: The role of wrist-worn technology in the management of Parkinson’s disease in daily life: A narrative review https://t.co/YauZvL5Mmy #Neuroinformatics</description>
       <content:encoded>New Research: The role of wrist-worn technology in the management of Parkinson’s disease in daily life: A narrative review https://t.co/YauZvL5Mmy #Neuroinformatics&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1651260233669554176"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 26 Apr 2023 16:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>𝗗𝗼 𝗽𝗹𝗮𝗻𝘁𝘀 𝗵𝗮𝘃𝗲 𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝘃𝗲 𝗰𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀 𝗮𝗻𝗱 𝘀𝗲𝗻𝘁𝗶𝗲𝗻𝗰𝗲?
+My basic suggestions on original piece by Miguel Segundo-Ortin and Paco Calvo.
+Basically apply rigorous criteria from lots of vertebrate/invertebrate research
+https://t.co/xyjc9oSgYc</title>
+      <link>https://twitter.com/PessoaBrain/status/1651261254181240833</link>
+      <description>𝗗𝗼 𝗽𝗹𝗮𝗻𝘁𝘀 𝗵𝗮𝘃𝗲 𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝘃𝗲 𝗰𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀 𝗮𝗻𝗱 𝘀𝗲𝗻𝘁𝗶𝗲𝗻𝗰𝗲?
+My basic suggestions on original piece by Miguel Segundo-Ortin and Paco Calvo.
+Basically apply rigorous criteria from lots of vertebrate/invertebrate research
+https://t.co/xyjc9oSgYc</description>
+      <content:encoded>𝗗𝗼 𝗽𝗹𝗮𝗻𝘁𝘀 𝗵𝗮𝘃𝗲 𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝘃𝗲 𝗰𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀 𝗮𝗻𝗱 𝘀𝗲𝗻𝘁𝗶𝗲𝗻𝗰𝗲?
+My basic suggestions on original piece by Miguel Segundo-Ortin and Paco Calvo.
+Basically apply rigorous criteria from lots of vertebrate/invertebrate research
+https://t.co/xyjc9oSgYc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651261254181240833"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 16:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here's the original paper on plants. I think it's a fascinating line of inquiry but very early days imo.
+https://t.co/9SM4x7cNQB</title>
+      <link>https://twitter.com/PessoaBrain/status/1651261255980662785</link>
+      <description>Here's the original paper on plants. I think it's a fascinating line of inquiry but very early days imo.
+https://t.co/9SM4x7cNQB</description>
+      <content:encoded>Here's the original paper on plants. I think it's a fascinating line of inquiry but very early days imo.
+https://t.co/9SM4x7cNQB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651261255980662785"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 16:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Once courts dismiss core scientific judgments by the [FDA], there is no reason to believe they will limit themselves to this one medication," argue Margaret Hamburg and @drJoshS in a new #ScienceEditorial on the judicial interference with mifepristone. https://t.co/E4BiNKd7Be https://t.co/23iOVkqXEF</title>
+      <link>https://twitter.com/ScienceMagazine/status/1651262635017478148</link>
+      <description>"Once courts dismiss core scientific judgments by the [FDA], there is no reason to believe they will limit themselves to this one medication," argue Margaret Hamburg and @drJoshS in a new #ScienceEditorial on the judicial interference with mifepristone. https://t.co/E4BiNKd7Be https://t.co/23iOVkqXEF</description>
+      <content:encoded>"Once courts dismiss core scientific judgments by the [FDA], there is no reason to believe they will limit themselves to this one medication," argue Margaret Hamburg and @drJoshS in a new #ScienceEditorial on the judicial interference with mifepristone. https://t.co/E4BiNKd7Be https://t.co/23iOVkqXEF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651262635017478148"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fup2nbHXsAwUlow.jpg" length="750" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 16:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Be_Women_Sci: 📢 Are you interested in obtaining #postdoc 🚀 #grants?
+💁‍♀️ Then you cannot miss the next #BeWiSe's virtual Lunch &amp;amp; Learn…</title>
+      <link>https://twitter.com/avdjeugd/status/1651262695042170885</link>
+      <description>RT @Be_Women_Sci: 📢 Are you interested in obtaining #postdoc 🚀 #grants?
+💁‍♀️ Then you cannot miss the next #BeWiSe's virtual Lunch &amp;amp; Learn…</description>
+      <content:encoded>RT @Be_Women_Sci: 📢 Are you interested in obtaining #postdoc 🚀 #grants?
+💁‍♀️ Then you cannot miss the next #BeWiSe's virtual Lunch &amp;amp; Learn…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1651262695042170885"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 16:31:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study in @SciReports finds that prosocial behavior follows cross-culturally shared principles: requests for assistance are very frequent and mostly successful; and when people decline to give help, they normally give a reason. https://t.co/2PvZNo9e45 https://t.co/ZRqt81pDtQ</title>
+      <link>https://twitter.com/NaturePortfolio/status/1651263137012760576</link>
+      <description>A study in @SciReports finds that prosocial behavior follows cross-culturally shared principles: requests for assistance are very frequent and mostly successful; and when people decline to give help, they normally give a reason. https://t.co/2PvZNo9e45 https://t.co/ZRqt81pDtQ</description>
+      <content:encoded>A study in @SciReports finds that prosocial behavior follows cross-culturally shared principles: requests for assistance are very frequent and mostly successful; and when people decline to give help, they normally give a reason. https://t.co/2PvZNo9e45 https://t.co/ZRqt81pDtQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1651263137012760576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fup3DiSXwAwJERb.jpg" length="1066" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 16:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>A wide collaboative effort produced our SSL cookbook paper. https://t.co/LZuItXIXYt</title>
+      <link>https://twitter.com/ylecun/status/1651264114327420928</link>
+      <description>A wide collaboative effort produced our SSL cookbook paper. https://t.co/LZuItXIXYt</description>
+      <content:encoded>A wide collaboative effort produced our SSL cookbook paper. https://t.co/LZuItXIXYt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1651264114327420928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 16:36:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>New protein–protein interactions designed by a computer https://t.co/XMgMs9umo8</title>
+      <link>https://twitter.com/NatureNV/status/1651264905239052301</link>
+      <description>New protein–protein interactions designed by a computer https://t.co/XMgMs9umo8</description>
+      <content:encoded>New protein–protein interactions designed by a computer https://t.co/XMgMs9umo8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1651264905239052301"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 16:40:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oh no... https://t.co/dDqyJZEpty</title>
+      <link>https://twitter.com/PessoaBrain/status/1651264933168922628</link>
+      <description>Oh no... https://t.co/dDqyJZEpty</description>
+      <content:encoded>Oh no... https://t.co/dDqyJZEpty&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651264933168922628"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 16:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mmbronstein: Our paper with @befcorreia @CirauquiPablo et al on protein design using geometric deep learning is finally in @nature We s…</title>
+      <link>https://twitter.com/sofroniewn/status/1651265087238471680</link>
+      <description>RT @mmbronstein: Our paper with @befcorreia @CirauquiPablo et al on protein design using geometric deep learning is finally in @nature We s…</description>
+      <content:encoded>RT @mmbronstein: Our paper with @befcorreia @CirauquiPablo et al on protein design using geometric deep learning is finally in @nature We s…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1651265087238471680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 16:40:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hippocampal ripples aren't just fun to say! They may also play an important in memory. Learn more about them in this @eLife article @RobertoDeF_ and @LabSchmitz, using our #Neuropixel dataset.  #AllenImpact https://t.co/zkiD6Kdjo5</title>
+      <link>https://twitter.com/AllenInstitute/status/1651265543813603328</link>
+      <description>Hippocampal ripples aren't just fun to say! They may also play an important in memory. Learn more about them in this @eLife article @RobertoDeF_ and @LabSchmitz, using our #Neuropixel dataset.  #AllenImpact https://t.co/zkiD6Kdjo5</description>
+      <content:encoded>Hippocampal ripples aren't just fun to say! They may also play an important in memory. Learn more about them in this @eLife article @RobertoDeF_ and @LabSchmitz, using our #Neuropixel dataset.  #AllenImpact https://t.co/zkiD6Kdjo5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1651265543813603328"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 16:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>We often hear: 
+"evolution hardwires organisms with the objectives of survival and reproduction"
+But those are not objectives that are easily optimized through behavior.
+So evolution hardwires *surrogate* objectives whose optimization eventually leads to reproduction.
+Surrogate… https://t.co/zxRk4tZktb</title>
+      <link>https://twitter.com/ylecun/status/1651266064162889728</link>
+      <description>We often hear: 
+"evolution hardwires organisms with the objectives of survival and reproduction"
+But those are not objectives that are easily optimized through behavior.
+So evolution hardwires *surrogate* objectives whose optimization eventually leads to reproduction.
+Surrogate… https://t.co/zxRk4tZktb</description>
+      <content:encoded>We often hear: 
+"evolution hardwires organisms with the objectives of survival and reproduction"
+But those are not objectives that are easily optimized through behavior.
+So evolution hardwires *surrogate* objectives whose optimization eventually leads to reproduction.
+Surrogate… https://t.co/zxRk4tZktb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1651266064162889728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 16:44:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hi, @madhuramukho continuing twitter takeover🙋‍♀️. Last week I was at Cold Spring Harbor @CSHLmeetings for the Systems Immunology meeting. I was blown away by the incredible work that was presented &amp;amp; loved catching up with everyone. Already looking forward to the next #cshlsysimm. https://t.co/C1TGPLfsbS</title>
+      <link>https://twitter.com/naturemethods/status/1651266135420211201</link>
+      <description>Hi, @madhuramukho continuing twitter takeover🙋‍♀️. Last week I was at Cold Spring Harbor @CSHLmeetings for the Systems Immunology meeting. I was blown away by the incredible work that was presented &amp;amp; loved catching up with everyone. Already looking forward to the next #cshlsysimm. https://t.co/C1TGPLfsbS</description>
+      <content:encoded>Hi, @madhuramukho continuing twitter takeover🙋‍♀️. Last week I was at Cold Spring Harbor @CSHLmeetings for the Systems Immunology meeting. I was blown away by the incredible work that was presented &amp;amp; loved catching up with everyone. Already looking forward to the next #cshlsysimm. https://t.co/C1TGPLfsbS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1651266135420211201"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FunHuAcXwAARTLv.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The trigeminal nerve is the chief sensory nerve of the face. This visualization shows why toothache is often linked to headache 
+
+[read more: https://t.co/o7z0pWnQhf] https://t.co/9lQBmxuidm</title>
+      <link>https://twitter.com/Rainmaker1973/status/1651269887602438144</link>
+      <description>The trigeminal nerve is the chief sensory nerve of the face. This visualization shows why toothache is often linked to headache 
+
+[read more: https://t.co/o7z0pWnQhf] https://t.co/9lQBmxuidm</description>
+      <content:encoded>The trigeminal nerve is the chief sensory nerve of the face. This visualization shows why toothache is often linked to headache 
+
+[read more: https://t.co/o7z0pWnQhf] https://t.co/9lQBmxuidm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651269887602438144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fup9MXXXwBUJ85m.jpg" length="680" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 16:59:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏅#TFCommunitySpotlight Winner: Antonio Camargo🏅
+
+Antonio made a tool to detect virus and plasmid genomes in nucleotide sequences, with potential to enhance tracking of harmful viruses and plasmids. Great work!
+
+Learn more ➡️ https://t.co/9dwitifG9z https://t.co/AFgrZ1uRM9</title>
+      <link>https://twitter.com/TensorFlow/status/1651269923103031311</link>
+      <description>🏅#TFCommunitySpotlight Winner: Antonio Camargo🏅
+
+Antonio made a tool to detect virus and plasmid genomes in nucleotide sequences, with potential to enhance tracking of harmful viruses and plasmids. Great work!
+
+Learn more ➡️ https://t.co/9dwitifG9z https://t.co/AFgrZ1uRM9</description>
+      <content:encoded>🏅#TFCommunitySpotlight Winner: Antonio Camargo🏅
+
+Antonio made a tool to detect virus and plasmid genomes in nucleotide sequences, with potential to enhance tracking of harmful viruses and plasmids. Great work!
+
+Learn more ➡️ https://t.co/9dwitifG9z https://t.co/AFgrZ1uRM9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1651269923103031311"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fup9PX6WYAAZ8Vn.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 17:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>@eLife @RobertoDeF_ @LabSchmitz 🔓 Access our Visual Coding Neuropixels dataset at https://t.co/JjoA25JWrJ</title>
+      <link>https://twitter.com/AllenInstitute/status/1651269945836322816</link>
+      <description>@eLife @RobertoDeF_ @LabSchmitz 🔓 Access our Visual Coding Neuropixels dataset at https://t.co/JjoA25JWrJ</description>
+      <content:encoded>@eLife @RobertoDeF_ @LabSchmitz 🔓 Access our Visual Coding Neuropixels dataset at https://t.co/JjoA25JWrJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1651269945836322816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 17:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>MIT Solve names Hala Hanna as new executive director: Hanna chosen to continue building MIT Solve into a global community with lasting impact on the world's biggest challenges. https://t.co/7aIyOUhusT https://t.co/LJMkeNiEJf</title>
+      <link>https://twitter.com/MIT/status/1651271294653022219</link>
+      <description>MIT Solve names Hala Hanna as new executive director: Hanna chosen to continue building MIT Solve into a global community with lasting impact on the world's biggest challenges. https://t.co/7aIyOUhusT https://t.co/LJMkeNiEJf</description>
+      <content:encoded>MIT Solve names Hala Hanna as new executive director: Hanna chosen to continue building MIT Solve into a global community with lasting impact on the world's biggest challenges. https://t.co/7aIyOUhusT https://t.co/LJMkeNiEJf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1651271294653022219"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fup-fd3WAAEsYUx.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 17:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @aljwhite: https://t.co/0Hhiw3IeOc</title>
+      <link>https://twitter.com/chrisdc77/status/1651272990724702220</link>
+      <description>RT @aljwhite: https://t.co/0Hhiw3IeOc</description>
+      <content:encoded>RT @aljwhite: https://t.co/0Hhiw3IeOc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651272990724702220"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 17:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>😂 every so often the BBC nails it. I’d be amazed if this wasn’t printed with a snigger and knowing look https://t.co/2mOeQGff5b</title>
+      <link>https://twitter.com/chrisdc77/status/1651273381424119817</link>
+      <description>😂 every so often the BBC nails it. I’d be amazed if this wasn’t printed with a snigger and knowing look https://t.co/2mOeQGff5b</description>
+      <content:encoded>😂 every so often the BBC nails it. I’d be amazed if this wasn’t printed with a snigger and knowing look https://t.co/2mOeQGff5b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651273381424119817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 17:13:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
