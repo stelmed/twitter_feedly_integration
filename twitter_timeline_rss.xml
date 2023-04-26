@@ -6,37 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 04:20:10 +0000</lastBuildDate>
-    <item>
-      <title>RT @kanair: We are hiring at Araya.</title>
-      <link>https://twitter.com/tyrell_turing/status/1650861327924207617</link>
-      <description>RT @kanair: We are hiring at Araya.</description>
-      <content:encoded>RT @kanair: We are hiring at Araya.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1650861327924207617"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 13:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The story of Pelorus Jack, the dolphin that escorted ships through a dangerous stretch of water in New Zealand for 24 years, between 1888 and 1912. He was so famous that if crew did not see him when they approached the pass, they would often wait for him https://t.co/ILzVZ8QDc8 https://t.co/Ypidfc7ieH</title>
-      <link>https://twitter.com/Rainmaker1973/status/1650862231389712384</link>
-      <description>The story of Pelorus Jack, the dolphin that escorted ships through a dangerous stretch of water in New Zealand for 24 years, between 1888 and 1912. He was so famous that if crew did not see him when they approached the pass, they would often wait for him https://t.co/ILzVZ8QDc8 https://t.co/Ypidfc7ieH</description>
-      <content:encoded>The story of Pelorus Jack, the dolphin that escorted ships through a dangerous stretch of water in New Zealand for 24 years, between 1888 and 1912. He was so famous that if crew did not see him when they approached the pass, they would often wait for him https://t.co/ILzVZ8QDc8 https://t.co/Ypidfc7ieH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1650862231389712384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FujuhNFWcAMi-tp.jpg" length="328" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 14:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>People with fibromyalgia have pain for no known reason. Camilla Svensson's group @karolinskainst  discovered that they have antibodies in their blood that seem to trigger the pain #KAW100 #fibromialgia #neurology Watch the video! https://t.co/reZednoRPX https://t.co/VBr9ESlymA</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1650863619603845122</link>
-      <description>People with fibromyalgia have pain for no known reason. Camilla Svensson's group @karolinskainst  discovered that they have antibodies in their blood that seem to trigger the pain #KAW100 #fibromialgia #neurology Watch the video! https://t.co/reZednoRPX https://t.co/VBr9ESlymA</description>
-      <content:encoded>People with fibromyalgia have pain for no known reason. Camilla Svensson's group @karolinskainst  discovered that they have antibodies in their blood that seem to trigger the pain #KAW100 #fibromialgia #neurology Watch the video! https://t.co/reZednoRPX https://t.co/VBr9ESlymA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1650863619603845122"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FukLroBakAI4o1T.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 14:05:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JCashaback: Agreed. Read our paper on gradients in motor learning: https://t.co/8H6AAjmPwN</title>
-      <link>https://twitter.com/tyrell_turing/status/1650863938274492421</link>
-      <description>RT @JCashaback: Agreed. Read our paper on gradients in motor learning: https://t.co/8H6AAjmPwN</description>
-      <content:encoded>RT @JCashaback: Agreed. Read our paper on gradients in motor learning: https://t.co/8H6AAjmPwN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1650863938274492421"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 14:06:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Apr 2023 05:15:26 +0000</lastBuildDate>
     <item>
       <title>Sometimes you have the perfect antibody...but it was made in the wrong species. Never fear - chimeric antibodies are here! 
 
@@ -1898,6 +1868,28 @@ https://t.co/J1z1zaPLIe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @MattGolub_Neuro: Seeking talented postdocs for our comp neuro lab @UWCSE. ML and dynamical systems for understanding and manipulating n…</description>
       <content:encoded>RT @MattGolub_Neuro: Seeking talented postdocs for our comp neuro lab @UWCSE. ML and dynamical systems for understanding and manipulating n…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SteinmetzNeuro/status/1651077673421262848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 26 Apr 2023 04:16:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Science: Rivaling the record for least sleep among mammals, northern elephant seals sleep a mere two hours a day, split into a series of nap-like “sleeping dives” at depths not typically occupied by predators. https://t.co/MWQ5hi9yA6 https://t.co/RAHgQcyzDg</title>
+      <link>https://twitter.com/ScienceMagazine/status/1651081200092565505</link>
+      <description>New in Science: Rivaling the record for least sleep among mammals, northern elephant seals sleep a mere two hours a day, split into a series of nap-like “sleeping dives” at depths not typically occupied by predators. https://t.co/MWQ5hi9yA6 https://t.co/RAHgQcyzDg</description>
+      <content:encoded>New in Science: Rivaling the record for least sleep among mammals, northern elephant seals sleep a mere two hours a day, split into a series of nap-like “sleeping dives” at depths not typically occupied by predators. https://t.co/MWQ5hi9yA6 https://t.co/RAHgQcyzDg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651081200092565505"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FunRmf0WcAEBGTa.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 04:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @muratti1983: So happy to get together this crew #opticabiophotonics23 conference. Full of energy with multi photons :) @WikiZong @Podgo…</title>
+      <link>https://twitter.com/ewadorotaz/status/1651089215164399616</link>
+      <description>RT @muratti1983: So happy to get together this crew #opticabiophotonics23 conference. Full of energy with multi photons :) @WikiZong @Podgo…</description>
+      <content:encoded>RT @muratti1983: So happy to get together this crew #opticabiophotonics23 conference. Full of energy with multi photons :) @WikiZong @Podgo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1651089215164399616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 05:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Neuro_Bordeaux: 📢Registrations are open for our next #brainconf, NeuroCompare (Comparative Neuronal Circuits for Adaptive Behaviour), S…</title>
+      <link>https://twitter.com/anna_beyeler/status/1651090900158652416</link>
+      <description>RT @Neuro_Bordeaux: 📢Registrations are open for our next #brainconf, NeuroCompare (Comparative Neuronal Circuits for Adaptive Behaviour), S…</description>
+      <content:encoded>RT @Neuro_Bordeaux: 📢Registrations are open for our next #brainconf, NeuroCompare (Comparative Neuronal Circuits for Adaptive Behaviour), S…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/anna_beyeler/status/1651090900158652416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 05:08:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
