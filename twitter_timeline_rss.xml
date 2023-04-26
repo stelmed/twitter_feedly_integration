@@ -6,48 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 03:17:31 +0000</lastBuildDate>
-    <item>
-      <title>RT @SWEBAGS_1: Join us on Friday @ 4PM CET and listen to Basal Ganglia in addiction with David M Lovinger and Louise Adermark. Open for all…</title>
-      <link>https://twitter.com/SilberbergGilad/status/1650860375523610626</link>
-      <description>RT @SWEBAGS_1: Join us on Friday @ 4PM CET and listen to Basal Ganglia in addiction with David M Lovinger and Louise Adermark. Open for all…</description>
-      <content:encoded>RT @SWEBAGS_1: Join us on Friday @ 4PM CET and listen to Basal Ganglia in addiction with David M Lovinger and Louise Adermark. Open for all…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SilberbergGilad/status/1650860375523610626"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 13:52:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fun to be on that list!
-
-@KISNeuro @Forskningsradet @KavliFoundation @stiftkgj @ERC_Research #ERCSyG #KiloNeurons 
-
-https://t.co/ai8zg9FIuI</title>
-      <link>https://twitter.com/EdvardMoser/status/1650860515466399744</link>
-      <description>Fun to be on that list!
-
-@KISNeuro @Forskningsradet @KavliFoundation @stiftkgj @ERC_Research #ERCSyG #KiloNeurons 
-
-https://t.co/ai8zg9FIuI</description>
-      <content:encoded>Fun to be on that list!
-
-@KISNeuro @Forskningsradet @KavliFoundation @stiftkgj @ERC_Research #ERCSyG #KiloNeurons 
-
-https://t.co/ai8zg9FIuI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/EdvardMoser/status/1650860515466399744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 13:53:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations to @JustusKebschull and @tollkuhn (and the rest) for winning a MIND Prize https://t.co/btDuEcseTt</title>
-      <link>https://twitter.com/TonyZador/status/1650860684266307587</link>
-      <description>Congratulations to @JustusKebschull and @tollkuhn (and the rest) for winning a MIND Prize https://t.co/btDuEcseTt</description>
-      <content:encoded>Congratulations to @JustusKebschull and @tollkuhn (and the rest) for winning a MIND Prize https://t.co/btDuEcseTt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1650860684266307587"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FukIK75aYAE3yRn.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 13:53:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/gOEiqrDTew</title>
-      <link>https://twitter.com/TonyZador/status/1650860801098645506</link>
-      <description>https://t.co/gOEiqrDTew</description>
-      <content:encoded>https://t.co/gOEiqrDTew&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1650860801098645506"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 13:54:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Apr 2023 04:20:10 +0000</lastBuildDate>
     <item>
       <title>RT @kanair: We are hiring at Araya.</title>
       <link>https://twitter.com/tyrell_turing/status/1650861327924207617</link>
@@ -1908,6 +1867,37 @@ The most fundamental metric imo is the ratio of digital compute to biological co
       <description>I (@madhuramukho) am going to be highlighting some of our recent excellent Immunology methods leading up to the Day of Immunology on April 29th.</description>
       <content:encoded>I (@madhuramukho) am going to be highlighting some of our recent excellent Immunology methods leading up to the Day of Immunology on April 29th.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1651062292363071488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 26 Apr 2023 03:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@madhuramukho BATTLES from the team of @fordycelab is a method that uses spectrally-encoded beads to exert biomechanical forces on T cells for high throughput analyses of TCR-pMHC interactions.
+https://t.co/J1z1zaPLIe</title>
+      <link>https://twitter.com/naturemethods/status/1651069841271586816</link>
+      <description>@madhuramukho BATTLES from the team of @fordycelab is a method that uses spectrally-encoded beads to exert biomechanical forces on T cells for high throughput analyses of TCR-pMHC interactions.
+https://t.co/J1z1zaPLIe</description>
+      <content:encoded>@madhuramukho BATTLES from the team of @fordycelab is a method that uses spectrally-encoded beads to exert biomechanical forces on T cells for high throughput analyses of TCR-pMHC interactions.
+https://t.co/J1z1zaPLIe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1651069841271586816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 03:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@madhuramukho Tessa is a Bayesian model developed by @TaoWang27112003 and colleagues that can integrate TCR sequencing data with gene expression data to analyze the effect of TCR repertoire on T cell function. https://t.co/WbcxmqLbCU</title>
+      <link>https://twitter.com/naturemethods/status/1651077391081684993</link>
+      <description>@madhuramukho Tessa is a Bayesian model developed by @TaoWang27112003 and colleagues that can integrate TCR sequencing data with gene expression data to analyze the effect of TCR repertoire on T cell function. https://t.co/WbcxmqLbCU</description>
+      <content:encoded>@madhuramukho Tessa is a Bayesian model developed by @TaoWang27112003 and colleagues that can integrate TCR sequencing data with gene expression data to analyze the effect of TCR repertoire on T cell function. https://t.co/WbcxmqLbCU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1651077391081684993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 04:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ts65Dn synaptic proteome partially recapitulates AD biochemical signature  https://t.co/TZEuQkL1UD #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1651077552453083139</link>
+      <description>Ts65Dn synaptic proteome partially recapitulates AD biochemical signature  https://t.co/TZEuQkL1UD #biorxiv_neursci</description>
+      <content:encoded>Ts65Dn synaptic proteome partially recapitulates AD biochemical signature  https://t.co/TZEuQkL1UD #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1651077552453083139"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 04:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MattGolub_Neuro: Seeking talented postdocs for our comp neuro lab @UWCSE. ML and dynamical systems for understanding and manipulating n…</title>
+      <link>https://twitter.com/SteinmetzNeuro/status/1651077673421262848</link>
+      <description>RT @MattGolub_Neuro: Seeking talented postdocs for our comp neuro lab @UWCSE. ML and dynamical systems for understanding and manipulating n…</description>
+      <content:encoded>RT @MattGolub_Neuro: Seeking talented postdocs for our comp neuro lab @UWCSE. ML and dynamical systems for understanding and manipulating n…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SteinmetzNeuro/status/1651077673421262848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 04:16:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
