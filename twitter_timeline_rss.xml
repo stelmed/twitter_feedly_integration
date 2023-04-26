@@ -6,273 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 19:13:21 +0000</lastBuildDate>
-    <item>
-      <title>Qwerty meets a cat https://t.co/4LfEvaVCPd</title>
-      <link>https://twitter.com/gottapatchemall/status/1651054173490913280</link>
-      <description>Qwerty meets a cat https://t.co/4LfEvaVCPd</description>
-      <content:encoded>Qwerty meets a cat https://t.co/4LfEvaVCPd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1651054173490913280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1651054147725324289/pu/img/Pp7qr1I1PH1YTOpq.jpg" length="720" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 02:42:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new @SciSignal study illustrates how the distribution of an enzyme within natural killer cells is altered by a process known as education, suggesting that the enzyme’s patterning may facilitate self-tolerance. #Immunology https://t.co/UueG5P1GOe https://t.co/gIr5vDvNAQ</title>
-      <link>https://twitter.com/ScienceMagazine/status/1651058543422763009</link>
-      <description>A new @SciSignal study illustrates how the distribution of an enzyme within natural killer cells is altered by a process known as education, suggesting that the enzyme’s patterning may facilitate self-tolerance. #Immunology https://t.co/UueG5P1GOe https://t.co/gIr5vDvNAQ</description>
-      <content:encoded>A new @SciSignal study illustrates how the distribution of an enzyme within natural killer cells is altered by a process known as education, suggesting that the enzyme’s patterning may facilitate self-tolerance. #Immunology https://t.co/UueG5P1GOe https://t.co/gIr5vDvNAQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651058543422763009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fum8_udXgAM16qO.jpg" length="1162" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 03:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>@ylecun The hard take-off is already happening. Just zoom out a little. 
-
-The most fundamental metric imo is the ratio of digital compute to biological compute vs time. It looks like a wall.</title>
-      <link>https://twitter.com/elonmusk/status/1651061784344768513</link>
-      <description>@ylecun The hard take-off is already happening. Just zoom out a little. 
-
-The most fundamental metric imo is the ratio of digital compute to biological compute vs time. It looks like a wall.</description>
-      <content:encoded>@ylecun The hard take-off is already happening. Just zoom out a little. 
-
-The most fundamental metric imo is the ratio of digital compute to biological compute vs time. It looks like a wall.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1651061784344768513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 03:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>I (@madhuramukho) am going to be highlighting some of our recent excellent Immunology methods leading up to the Day of Immunology on April 29th.</title>
-      <link>https://twitter.com/naturemethods/status/1651062292363071488</link>
-      <description>I (@madhuramukho) am going to be highlighting some of our recent excellent Immunology methods leading up to the Day of Immunology on April 29th.</description>
-      <content:encoded>I (@madhuramukho) am going to be highlighting some of our recent excellent Immunology methods leading up to the Day of Immunology on April 29th.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1651062292363071488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 03:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>@madhuramukho BATTLES from the team of @fordycelab is a method that uses spectrally-encoded beads to exert biomechanical forces on T cells for high throughput analyses of TCR-pMHC interactions.
-https://t.co/J1z1zaPLIe</title>
-      <link>https://twitter.com/naturemethods/status/1651069841271586816</link>
-      <description>@madhuramukho BATTLES from the team of @fordycelab is a method that uses spectrally-encoded beads to exert biomechanical forces on T cells for high throughput analyses of TCR-pMHC interactions.
-https://t.co/J1z1zaPLIe</description>
-      <content:encoded>@madhuramukho BATTLES from the team of @fordycelab is a method that uses spectrally-encoded beads to exert biomechanical forces on T cells for high throughput analyses of TCR-pMHC interactions.
-https://t.co/J1z1zaPLIe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1651069841271586816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 03:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>@madhuramukho Tessa is a Bayesian model developed by @TaoWang27112003 and colleagues that can integrate TCR sequencing data with gene expression data to analyze the effect of TCR repertoire on T cell function. https://t.co/WbcxmqLbCU</title>
-      <link>https://twitter.com/naturemethods/status/1651077391081684993</link>
-      <description>@madhuramukho Tessa is a Bayesian model developed by @TaoWang27112003 and colleagues that can integrate TCR sequencing data with gene expression data to analyze the effect of TCR repertoire on T cell function. https://t.co/WbcxmqLbCU</description>
-      <content:encoded>@madhuramukho Tessa is a Bayesian model developed by @TaoWang27112003 and colleagues that can integrate TCR sequencing data with gene expression data to analyze the effect of TCR repertoire on T cell function. https://t.co/WbcxmqLbCU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1651077391081684993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 04:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ts65Dn synaptic proteome partially recapitulates AD biochemical signature  https://t.co/TZEuQkL1UD #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1651077552453083139</link>
-      <description>Ts65Dn synaptic proteome partially recapitulates AD biochemical signature  https://t.co/TZEuQkL1UD #biorxiv_neursci</description>
-      <content:encoded>Ts65Dn synaptic proteome partially recapitulates AD biochemical signature  https://t.co/TZEuQkL1UD #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1651077552453083139"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 04:15:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MattGolub_Neuro: Seeking talented postdocs for our comp neuro lab @UWCSE. ML and dynamical systems for understanding and manipulating n…</title>
-      <link>https://twitter.com/SteinmetzNeuro/status/1651077673421262848</link>
-      <description>RT @MattGolub_Neuro: Seeking talented postdocs for our comp neuro lab @UWCSE. ML and dynamical systems for understanding and manipulating n…</description>
-      <content:encoded>RT @MattGolub_Neuro: Seeking talented postdocs for our comp neuro lab @UWCSE. ML and dynamical systems for understanding and manipulating n…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SteinmetzNeuro/status/1651077673421262848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 04:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Science: Rivaling the record for least sleep among mammals, northern elephant seals sleep a mere two hours a day, split into a series of nap-like “sleeping dives” at depths not typically occupied by predators. https://t.co/MWQ5hi9yA6 https://t.co/RAHgQcyzDg</title>
-      <link>https://twitter.com/ScienceMagazine/status/1651081200092565505</link>
-      <description>New in Science: Rivaling the record for least sleep among mammals, northern elephant seals sleep a mere two hours a day, split into a series of nap-like “sleeping dives” at depths not typically occupied by predators. https://t.co/MWQ5hi9yA6 https://t.co/RAHgQcyzDg</description>
-      <content:encoded>New in Science: Rivaling the record for least sleep among mammals, northern elephant seals sleep a mere two hours a day, split into a series of nap-like “sleeping dives” at depths not typically occupied by predators. https://t.co/MWQ5hi9yA6 https://t.co/RAHgQcyzDg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651081200092565505"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FunRmf0WcAEBGTa.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 04:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @muratti1983: So happy to get together this crew #opticabiophotonics23 conference. Full of energy with multi photons :) @WikiZong @Podgo…</title>
-      <link>https://twitter.com/ewadorotaz/status/1651089215164399616</link>
-      <description>RT @muratti1983: So happy to get together this crew #opticabiophotonics23 conference. Full of energy with multi photons :) @WikiZong @Podgo…</description>
-      <content:encoded>RT @muratti1983: So happy to get together this crew #opticabiophotonics23 conference. Full of energy with multi photons :) @WikiZong @Podgo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1651089215164399616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 05:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Neuro_Bordeaux: 📢Registrations are open for our next #brainconf, NeuroCompare (Comparative Neuronal Circuits for Adaptive Behaviour), S…</title>
-      <link>https://twitter.com/anna_beyeler/status/1651090900158652416</link>
-      <description>RT @Neuro_Bordeaux: 📢Registrations are open for our next #brainconf, NeuroCompare (Comparative Neuronal Circuits for Adaptive Behaviour), S…</description>
-      <content:encoded>RT @Neuro_Bordeaux: 📢Registrations are open for our next #brainconf, NeuroCompare (Comparative Neuronal Circuits for Adaptive Behaviour), S…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/anna_beyeler/status/1651090900158652416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 05:08:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ian_wickersham: Updated preprint alert! For @leijinmit et al., "Long-term labeling and  imaging of synaptically-connected neuronal netw…</title>
-      <link>https://twitter.com/BoninLab/status/1651093324818726914</link>
-      <description>RT @ian_wickersham: Updated preprint alert! For @leijinmit et al., "Long-term labeling and  imaging of synaptically-connected neuronal netw…</description>
-      <content:encoded>RT @ian_wickersham: Updated preprint alert! For @leijinmit et al., "Long-term labeling and  imaging of synaptically-connected neuronal netw…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BoninLab/status/1651093324818726914"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 05:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JiannisTax: 🚨Preprint alert! Multi-day Voltage Imaging of PV &amp;amp; SST cells and 2P-imaging of pyramidal cells in a mouse memory task. Inte…</title>
-      <link>https://twitter.com/martin_a_vinck/status/1651094373654822912</link>
-      <description>RT @JiannisTax: 🚨Preprint alert! Multi-day Voltage Imaging of PV &amp;amp; SST cells and 2P-imaging of pyramidal cells in a mouse memory task. Inte…</description>
-      <content:encoded>RT @JiannisTax: 🚨Preprint alert! Multi-day Voltage Imaging of PV &amp;amp; SST cells and 2P-imaging of pyramidal cells in a mouse memory task. Inte…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/martin_a_vinck/status/1651094373654822912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 05:22:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>After 40 years, researchers in @ScienceAdvances have identified the pathogen most likely responsible for the decimation of a key Caribbean sea urchin. https://t.co/ZO4EWnUPCL https://t.co/adOujOZLad</title>
-      <link>https://twitter.com/ScienceMagazine/status/1651103853503291392</link>
-      <description>After 40 years, researchers in @ScienceAdvances have identified the pathogen most likely responsible for the decimation of a key Caribbean sea urchin. https://t.co/ZO4EWnUPCL https://t.co/adOujOZLad</description>
-      <content:encoded>After 40 years, researchers in @ScienceAdvances have identified the pathogen most likely responsible for the decimation of a key Caribbean sea urchin. https://t.co/ZO4EWnUPCL https://t.co/adOujOZLad&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651103853503291392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FunmM7FXoAAaSJN.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 06:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Today in 1884, the New York Times reported that “sending mails by electricity” was to be investigated by the PO Committee of the U.S. House, by providing for contracts with an existing telegraph company. In other words, the email concept is 139 years old https://t.co/fXasp3nmsY https://t.co/wfT25EWO6z</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651107422042300417</link>
-      <description>#Today in 1884, the New York Times reported that “sending mails by electricity” was to be investigated by the PO Committee of the U.S. House, by providing for contracts with an existing telegraph company. In other words, the email concept is 139 years old https://t.co/fXasp3nmsY https://t.co/wfT25EWO6z</description>
-      <content:encoded>#Today in 1884, the New York Times reported that “sending mails by electricity” was to be investigated by the PO Committee of the U.S. House, by providing for contracts with an existing telegraph company. In other words, the email concept is 139 years old https://t.co/fXasp3nmsY https://t.co/wfT25EWO6z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651107422042300417"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FunpORcWwAI56hk.jpg" length="680" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 06:14:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AshwindeSilva1: First stride of my PhD will appear at #ICML2023 @icmlconf 💫 
-
-📜 https://t.co/EIqZmJmvnO
-
-w/ @RahulRam3sh Carey E. Prieb…</title>
-      <link>https://twitter.com/neuro_data/status/1651107908535369728</link>
-      <description>RT @AshwindeSilva1: First stride of my PhD will appear at #ICML2023 @icmlconf 💫 
-
-📜 https://t.co/EIqZmJmvnO
-
-w/ @RahulRam3sh Carey E. Prieb…</description>
-      <content:encoded>RT @AshwindeSilva1: First stride of my PhD will appear at #ICML2023 @icmlconf 💫 
-
-📜 https://t.co/EIqZmJmvnO
-
-w/ @RahulRam3sh Carey E. Prieb…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1651107908535369728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 06:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AshwindeSilva1: Here’s a detailed thread: https://t.co/rtvN1qEhkP
-
-Finally, congratulations to my amazing co-authors! 🎉 I’m grateful fo…</title>
-      <link>https://twitter.com/neuro_data/status/1651107952550445056</link>
-      <description>RT @AshwindeSilva1: Here’s a detailed thread: https://t.co/rtvN1qEhkP
-
-Finally, congratulations to my amazing co-authors! 🎉 I’m grateful fo…</description>
-      <content:encoded>RT @AshwindeSilva1: Here’s a detailed thread: https://t.co/rtvN1qEhkP
-
-Finally, congratulations to my amazing co-authors! 🎉 I’m grateful fo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1651107952550445056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 06:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>This impressive near infra-red photo of Venus' nightside was capured by JAXA spacecraft Akatsuki with its 2-micron camera exactly 7 years ago #Today 
-
-[read more: https://t.co/OUOdzh6Wi7] https://t.co/Hst95F3tzM</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651110240660647937</link>
-      <description>This impressive near infra-red photo of Venus' nightside was capured by JAXA spacecraft Akatsuki with its 2-micron camera exactly 7 years ago #Today 
-
-[read more: https://t.co/OUOdzh6Wi7] https://t.co/Hst95F3tzM</description>
-      <content:encoded>This impressive near infra-red photo of Venus' nightside was capured by JAXA spacecraft Akatsuki with its 2-micron camera exactly 7 years ago #Today 
-
-[read more: https://t.co/OUOdzh6Wi7] https://t.co/Hst95F3tzM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651110240660647937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Funr_MJXsAEf_AQ.jpg" length="563" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 06:25:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Umeå Institute of Design’s graduation event at the end of May is paired this year with Sweden's largest design competition: Design S – Swedish Design Awards. For the first time in 40 years, the prestigious event is venturing beyond the nation’s capital. https://t.co/VPjcSESxtk</title>
-      <link>https://twitter.com/umeauniversity/status/1651110670232870912</link>
-      <description>Umeå Institute of Design’s graduation event at the end of May is paired this year with Sweden's largest design competition: Design S – Swedish Design Awards. For the first time in 40 years, the prestigious event is venturing beyond the nation’s capital. https://t.co/VPjcSESxtk</description>
-      <content:encoded>Umeå Institute of Design’s graduation event at the end of May is paired this year with Sweden's largest design competition: Design S – Swedish Design Awards. For the first time in 40 years, the prestigious event is venturing beyond the nation’s capital. https://t.co/VPjcSESxtk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/umeauniversity/status/1651110670232870912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 06:27:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>This 10 digits puzzle can be 3D printed and results in a nice numerical and geometrical satisfaction 
-
-[3D print: https://t.co/nwKAMfAICX]
-https://t.co/ViPtz2Suqt</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651112524442398720</link>
-      <description>This 10 digits puzzle can be 3D printed and results in a nice numerical and geometrical satisfaction 
-
-[3D print: https://t.co/nwKAMfAICX]
-https://t.co/ViPtz2Suqt</description>
-      <content:encoded>This 10 digits puzzle can be 3D printed and results in a nice numerical and geometrical satisfaction 
-
-[3D print: https://t.co/nwKAMfAICX]
-https://t.co/ViPtz2Suqt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651112524442398720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1529924132606976000/pu/img/wU9d-Y99cinUIrWM.jpg" length="384" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 06:34:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>The first photo of the Chernobyl plant, taken by by Igor Kostin 14 hours after the explosion of the nuclear reactor which took place #Today in 1986. 
-
-The view is foggy due to radiation
-
-[read more: https://t.co/r5gTDQOiGq] https://t.co/1gcRBAVrCi</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651113742933868546</link>
-      <description>The first photo of the Chernobyl plant, taken by by Igor Kostin 14 hours after the explosion of the nuclear reactor which took place #Today in 1986. 
-
-The view is foggy due to radiation
-
-[read more: https://t.co/r5gTDQOiGq] https://t.co/1gcRBAVrCi</description>
-      <content:encoded>The first photo of the Chernobyl plant, taken by by Igor Kostin 14 hours after the explosion of the nuclear reactor which took place #Today in 1986. 
-
-The view is foggy due to radiation
-
-[read more: https://t.co/r5gTDQOiGq] https://t.co/1gcRBAVrCi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651113742933868546"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Funuta_WYAAa5G4.jpg" length="477" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 06:39:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our latest antibody 101 breaks down chimeric antibodies: what they are, when they're useful, and their special considerations. 
- 
-https://t.co/zZfeKS0A07</title>
-      <link>https://twitter.com/Addgene/status/1651113880083484673</link>
-      <description>Our latest antibody 101 breaks down chimeric antibodies: what they are, when they're useful, and their special considerations. 
- 
-https://t.co/zZfeKS0A07</description>
-      <content:encoded>Our latest antibody 101 breaks down chimeric antibodies: what they are, when they're useful, and their special considerations. 
- 
-https://t.co/zZfeKS0A07&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1651113880083484673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 06:39:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MichaelRetchin: Introducing Signal, the new voice of next generation biotech.
-
-A few words from me on what it is and why it matters. ht…</title>
-      <link>https://twitter.com/sofroniewn/status/1651114875534602241</link>
-      <description>RT @MichaelRetchin: Introducing Signal, the new voice of next generation biotech.
-
-A few words from me on what it is and why it matters. ht…</description>
-      <content:encoded>RT @MichaelRetchin: Introducing Signal, the new voice of next generation biotech.
-
-A few words from me on what it is and why it matters. ht…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1651114875534602241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 06:43:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>#HappyBirthday to Arno Penzias, who shared the 1978 Nobel Prize for Physics with Robert Woodrow Wilson for their discovery of a faint electromagnetic radiation throughout the universe which lent strong support to the Big Bang model of cosmic evolution
-
-https://t.co/NCWNh6FQN2 https://t.co/gxGRZk92V6</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651118917270503426</link>
-      <description>#HappyBirthday to Arno Penzias, who shared the 1978 Nobel Prize for Physics with Robert Woodrow Wilson for their discovery of a faint electromagnetic radiation throughout the universe which lent strong support to the Big Bang model of cosmic evolution
-
-https://t.co/NCWNh6FQN2 https://t.co/gxGRZk92V6</description>
-      <content:encoded>#HappyBirthday to Arno Penzias, who shared the 1978 Nobel Prize for Physics with Robert Woodrow Wilson for their discovery of a faint electromagnetic radiation throughout the universe which lent strong support to the Big Bang model of cosmic evolution
-
-https://t.co/NCWNh6FQN2 https://t.co/gxGRZk92V6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651118917270503426"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FunzeblXgAAtn-_.jpg" length="450" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Animatronics were first introduced by Disney in 1964 for the film Mary Poppins. Since then they have come a long way. This is a mechanical wolf head by Chris Clark
-
-[source: https://t.co/UZy5yZoiER]
-https://t.co/6P0K7TyKhh</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651122652067643393</link>
-      <description>Animatronics were first introduced by Disney in 1964 for the film Mary Poppins. Since then they have come a long way. This is a mechanical wolf head by Chris Clark
-
-[source: https://t.co/UZy5yZoiER]
-https://t.co/6P0K7TyKhh</description>
-      <content:encoded>Animatronics were first introduced by Disney in 1964 for the film Mary Poppins. Since then they have come a long way. This is a mechanical wolf head by Chris Clark
-
-[source: https://t.co/UZy5yZoiER]
-https://t.co/6P0K7TyKhh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651122652067643393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1529844202493775874/pu/img/C5ef1ZEGmRo56Lvo.jpg" length="720" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 07:14:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Apr 2023 20:16:20 +0000</lastBuildDate>
     <item>
       <title>Emotional information facilitates or disrupts memory integration through distinct hippocampal processes of reactivation and connectivity  https://t.co/Ms5pDjx4jo #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1651122829600116738</link>
@@ -2270,6 +2004,264 @@ https://t.co/3GDT1Ii79Z https://t.co/9NRfWD8hGC</description>
 https://t.co/3GDT1Ii79Z https://t.co/9NRfWD8hGC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1651302630314868746"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fuqa_dzXgAEmLe8.jpg" length="1035" type="photo"/>
       <pubDate>Wed, 26 Apr 2023 19:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>I thought Chalmers demonstrated, albeit inadvertantly, the utter worthlessness of thought-experiments https://t.co/T9OP0vqR5I</title>
+      <link>https://twitter.com/patchurchland/status/1651305006421925889</link>
+      <description>I thought Chalmers demonstrated, albeit inadvertantly, the utter worthlessness of thought-experiments https://t.co/T9OP0vqR5I</description>
+      <content:encoded>I thought Chalmers demonstrated, albeit inadvertantly, the utter worthlessness of thought-experiments https://t.co/T9OP0vqR5I&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1651305006421925889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @matthewcobb: Do you want to know about Franklin’s work *after* the double helix? This great article by Angela Creager and Greg Morgan i…</title>
+      <link>https://twitter.com/patchurchland/status/1651305273427103744</link>
+      <description>RT @matthewcobb: Do you want to know about Franklin’s work *after* the double helix? This great article by Angela Creager and Greg Morgan i…</description>
+      <content:encoded>RT @matthewcobb: Do you want to know about Franklin’s work *after* the double helix? This great article by Angela Creager and Greg Morgan i…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1651305273427103744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @neuroendokat: Does anyone have an NIMH-funded (or not funded) F32 they'd be willing to send me as an example? Thanks in advance!!</title>
+      <link>https://twitter.com/PessoaBrain/status/1651305824990396423</link>
+      <description>RT @neuroendokat: Does anyone have an NIMH-funded (or not funded) F32 they'd be willing to send me as an example? Thanks in advance!!</description>
+      <content:encoded>RT @neuroendokat: Does anyone have an NIMH-funded (or not funded) F32 they'd be willing to send me as an example? Thanks in advance!!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651305824990396423"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:22:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @bokeh: Bokeh has been awarded a 2-year grant from the Chan Zuckerberg Initiative!:tada::tada:
+
+A big thank you to @cziscience!
+
+We are…</title>
+      <link>https://twitter.com/trose_neuro/status/1651305912898813960</link>
+      <description>RT @bokeh: Bokeh has been awarded a 2-year grant from the Chan Zuckerberg Initiative!:tada::tada:
+
+A big thank you to @cziscience!
+
+We are…</description>
+      <content:encoded>RT @bokeh: Bokeh has been awarded a 2-year grant from the Chan Zuckerberg Initiative!:tada::tada:
+
+A big thank you to @cziscience!
+
+We are…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trose_neuro/status/1651305912898813960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AmoneyResists: BREAKING: @tedcruz has been caught on tape conspiring to set up a “special commission” to overturn the results of the 20…</title>
+      <link>https://twitter.com/patchurchland/status/1651306106327818240</link>
+      <description>RT @AmoneyResists: BREAKING: @tedcruz has been caught on tape conspiring to set up a “special commission” to overturn the results of the 20…</description>
+      <content:encoded>RT @AmoneyResists: BREAKING: @tedcruz has been caught on tape conspiring to set up a “special commission” to overturn the results of the 20…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1651306106327818240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:23:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copper catalyses changes in cell state https://t.co/qCEV5Xn7jF</title>
+      <link>https://twitter.com/NatureNV/status/1651306513607032833</link>
+      <description>Copper catalyses changes in cell state https://t.co/qCEV5Xn7jF</description>
+      <content:encoded>Copper catalyses changes in cell state https://t.co/qCEV5Xn7jF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1651306513607032833"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:25:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @NeuronlineSfN: How do you encourage reviewers and colleagues to describe your work as “rigorous”? 
+
+@JasonWilliamsNY explains how an ex…</title>
+      <link>https://twitter.com/SfNtweets/status/1651307033159663616</link>
+      <description>RT @NeuronlineSfN: How do you encourage reviewers and colleagues to describe your work as “rigorous”? 
+
+@JasonWilliamsNY explains how an ex…</description>
+      <content:encoded>RT @NeuronlineSfN: How do you encourage reviewers and colleagues to describe your work as “rigorous”? 
+
+@JasonWilliamsNY explains how an ex…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1651307033159663616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Radiocarbon timestamps left in ancient tree rings by cosmic ray bombardments can date historical events with unprecedented precision.
+
+Learn more in this @NewsfromScience feature: https://t.co/vdEvouAMHQ https://t.co/7Y0ffA6rzE</title>
+      <link>https://twitter.com/ScienceMagazine/status/1651307698900566055</link>
+      <description>Radiocarbon timestamps left in ancient tree rings by cosmic ray bombardments can date historical events with unprecedented precision.
+
+Learn more in this @NewsfromScience feature: https://t.co/vdEvouAMHQ https://t.co/7Y0ffA6rzE</description>
+      <content:encoded>Radiocarbon timestamps left in ancient tree rings by cosmic ray bombardments can date historical events with unprecedented precision.
+
+Learn more in this @NewsfromScience feature: https://t.co/vdEvouAMHQ https://t.co/7Y0ffA6rzE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651307698900566055"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FuqfmcbXoAEdwoU.png" length="837" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 19:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>As an editor I understand this frustration but it's completely misdirected. Most academics are worked to the bone, so if they’re not reviewing they’re doing something else. Teaching 7 modules. Mentoring. Outreach. A simple 'quid pro quo' model of peer review fails to capture this https://t.co/DewIaD1mcR</title>
+      <link>https://twitter.com/chrisdc77/status/1651310299541118978</link>
+      <description>As an editor I understand this frustration but it's completely misdirected. Most academics are worked to the bone, so if they’re not reviewing they’re doing something else. Teaching 7 modules. Mentoring. Outreach. A simple 'quid pro quo' model of peer review fails to capture this https://t.co/DewIaD1mcR</description>
+      <content:encoded>As an editor I understand this frustration but it's completely misdirected. Most academics are worked to the bone, so if they’re not reviewing they’re doing something else. Teaching 7 modules. Mentoring. Outreach. A simple 'quid pro quo' model of peer review fails to capture this https://t.co/DewIaD1mcR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651310299541118978"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:40:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thank you to conference prganizers @mike_yassa and @manuellayassa  for stopping by our booth at #LEARNMEM2023 !
+
+Be sure to check us out in front of Breakwater to learn more about Frontiers. If you would like to schedule a meeting, sign up below: https://t.co/GyHsJNc4HB https://t.co/z9kX37Cdz2</title>
+      <link>https://twitter.com/FrontNeurosci/status/1651311433207119876</link>
+      <description>Thank you to conference prganizers @mike_yassa and @manuellayassa  for stopping by our booth at #LEARNMEM2023 !
+
+Be sure to check us out in front of Breakwater to learn more about Frontiers. If you would like to schedule a meeting, sign up below: https://t.co/GyHsJNc4HB https://t.co/z9kX37Cdz2</description>
+      <content:encoded>Thank you to conference prganizers @mike_yassa and @manuellayassa  for stopping by our booth at #LEARNMEM2023 !
+
+Be sure to check us out in front of Breakwater to learn more about Frontiers. If you would like to schedule a meeting, sign up below: https://t.co/GyHsJNc4HB https://t.co/z9kX37Cdz2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1651311433207119876"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FuqcjPEaAAErFHc.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 19:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The first round of applications is now over 😎 and the review process has started! More than 4000 students and 450 TAs have applied to Neuromatch and Climatematch academy courses; thank you for your huge participation! 🥳🎉 (1/3) @climatematch</title>
+      <link>https://twitter.com/neuromatch/status/1651312264538996737</link>
+      <description>The first round of applications is now over 😎 and the review process has started! More than 4000 students and 450 TAs have applied to Neuromatch and Climatematch academy courses; thank you for your huge participation! 🥳🎉 (1/3) @climatematch</description>
+      <content:encoded>The first round of applications is now over 😎 and the review process has started! More than 4000 students and 450 TAs have applied to Neuromatch and Climatematch academy courses; thank you for your huge participation! 🥳🎉 (1/3) @climatematch&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1651312264538996737"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>If you didn't have time to submit your application yet, No worries 😌 from TODAY, you can submit a NEW APPLICATION for a course, which will be sent immediately to our reviewing team and evaluated on a rolling basis. Visit and apply via https://t.co/X3aiaCmzav (2/3)</title>
+      <link>https://twitter.com/neuromatch/status/1651312266489352192</link>
+      <description>If you didn't have time to submit your application yet, No worries 😌 from TODAY, you can submit a NEW APPLICATION for a course, which will be sent immediately to our reviewing team and evaluated on a rolling basis. Visit and apply via https://t.co/X3aiaCmzav (2/3)</description>
+      <content:encoded>If you didn't have time to submit your application yet, No worries 😌 from TODAY, you can submit a NEW APPLICATION for a course, which will be sent immediately to our reviewing team and evaluated on a rolling basis. Visit and apply via https://t.co/X3aiaCmzav (2/3)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1651312266489352192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Students and TAs who have applied before April 24 are given priority over later applications. For the second wave of applications, applications submitted earlier will be given priority too. Hurry up! 🏃🏃‍♂️🏃‍♀️The HARD deadline is ⚠️May 8th ⚠️ (3/3)</title>
+      <link>https://twitter.com/neuromatch/status/1651312268473249794</link>
+      <description>Students and TAs who have applied before April 24 are given priority over later applications. For the second wave of applications, applications submitted earlier will be given priority too. Hurry up! 🏃🏃‍♂️🏃‍♀️The HARD deadline is ⚠️May 8th ⚠️ (3/3)</description>
+      <content:encoded>Students and TAs who have applied before April 24 are given priority over later applications. For the second wave of applications, applications submitted earlier will be given priority too. Hurry up! 🏃🏃‍♂️🏃‍♀️The HARD deadline is ⚠️May 8th ⚠️ (3/3)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1651312268473249794"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:48:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contemplative moment at @sfiscience https://t.co/vWqnNccerr</title>
+      <link>https://twitter.com/blamlab/status/1651312370445172740</link>
+      <description>Contemplative moment at @sfiscience https://t.co/vWqnNccerr</description>
+      <content:encoded>Contemplative moment at @sfiscience https://t.co/vWqnNccerr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1651312370445172740"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fuqj2QBWIAQZ19F.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 19:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Someone who you perceive to be freeriding on peer review is allowing you to freeride when you ignore that call from a reporter. Or decline that grant review. Or avoid that school outreach. Or pass on that external examining. Or one of countless other jobs you say no to.</title>
+      <link>https://twitter.com/chrisdc77/status/1651312376937869313</link>
+      <description>Someone who you perceive to be freeriding on peer review is allowing you to freeride when you ignore that call from a reporter. Or decline that grant review. Or avoid that school outreach. Or pass on that external examining. Or one of countless other jobs you say no to.</description>
+      <content:encoded>Someone who you perceive to be freeriding on peer review is allowing you to freeride when you ignore that call from a reporter. Or decline that grant review. Or avoid that school outreach. Or pass on that external examining. Or one of countless other jobs you say no to.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651312376937869313"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @danivrsn: Running in #Rome after a break. New great episode of the joy of why by @stevenstrogatz on comparing infinites with Justin Moo…</title>
+      <link>https://twitter.com/stevenstrogatz/status/1651312610766123010</link>
+      <description>RT @danivrsn: Running in #Rome after a break. New great episode of the joy of why by @stevenstrogatz on comparing infinites with Justin Moo…</description>
+      <content:encoded>RT @danivrsn: Running in #Rome after a break. New great episode of the joy of why by @stevenstrogatz on comparing infinites with Justin Moo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1651312610766123010"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:49:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>I think there's a wholesale underappreciation of just how overworked we all are in this job. Of how much unpaid extra stuff is demanded of us. Write me this reference by tomorrow. Send me this LoS. Take on this extra teaching. Mentor me. Fix my draft. Give me comments on my grant</title>
+      <link>https://twitter.com/chrisdc77/status/1651313014933528577</link>
+      <description>I think there's a wholesale underappreciation of just how overworked we all are in this job. Of how much unpaid extra stuff is demanded of us. Write me this reference by tomorrow. Send me this LoS. Take on this extra teaching. Mentor me. Fix my draft. Give me comments on my grant</description>
+      <content:encoded>I think there's a wholesale underappreciation of just how overworked we all are in this job. Of how much unpaid extra stuff is demanded of us. Write me this reference by tomorrow. Send me this LoS. Take on this extra teaching. Mentor me. Fix my draft. Give me comments on my grant&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651313014933528577"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:51:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Avoid the trap of local simplistic economics. You're submitting to journals but not reviewing so you're bad. Wrong. Look at the problem at a system level. How do we reduce the review burden for everyone?
+
+The answer that seems to never to occur to whinging editors is simple.</title>
+      <link>https://twitter.com/chrisdc77/status/1651313868633677828</link>
+      <description>Avoid the trap of local simplistic economics. You're submitting to journals but not reviewing so you're bad. Wrong. Look at the problem at a system level. How do we reduce the review burden for everyone?
+
+The answer that seems to never to occur to whinging editors is simple.</description>
+      <content:encoded>Avoid the trap of local simplistic economics. You're submitting to journals but not reviewing so you're bad. Wrong. Look at the problem at a system level. How do we reduce the review burden for everyone?
+
+The answer that seems to never to occur to whinging editors is simple.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651313868633677828"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abolish journals. They fuck us in two ways:
+
+1) they are mostly owned by commercial publishers who will NEVER pay reviewers, and you will never get them to, no matter how much you complain, b/c academics for SOME reason decided to give them the power to manage peer review.</title>
+      <link>https://twitter.com/chrisdc77/status/1651314409170403329</link>
+      <description>Abolish journals. They fuck us in two ways:
+
+1) they are mostly owned by commercial publishers who will NEVER pay reviewers, and you will never get them to, no matter how much you complain, b/c academics for SOME reason decided to give them the power to manage peer review.</description>
+      <content:encoded>Abolish journals. They fuck us in two ways:
+
+1) they are mostly owned by commercial publishers who will NEVER pay reviewers, and you will never get them to, no matter how much you complain, b/c academics for SOME reason decided to give them the power to manage peer review.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651314409170403329"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:56:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>2) It's dreadfully inefficient. Submit to a journal. 20 reviewers invited. 3 accept. 2 give extensive comments, 1 professor gives a one-liner. Editor rejects. Subject to the next journal. 20 reviewers invited. 2 accept. 2 give detailed reviews. Editors rejects. Etc etc.</title>
+      <link>https://twitter.com/chrisdc77/status/1651314754810437635</link>
+      <description>2) It's dreadfully inefficient. Submit to a journal. 20 reviewers invited. 3 accept. 2 give extensive comments, 1 professor gives a one-liner. Editor rejects. Subject to the next journal. 20 reviewers invited. 2 accept. 2 give detailed reviews. Editors rejects. Etc etc.</description>
+      <content:encoded>2) It's dreadfully inefficient. Submit to a journal. 20 reviewers invited. 3 accept. 2 give extensive comments, 1 professor gives a one-liner. Editor rejects. Subject to the next journal. 20 reviewers invited. 2 accept. 2 give detailed reviews. Editors rejects. Etc etc.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651314754810437635"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 19:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is fixable by centralising peer review rather than ceding all that power to journals and publishers
+
+Use @PeerCommunityIn as a single hub for reviewing preprints, then let journals bid on the outcomes. https://t.co/ptFiWbQNnF
+
+If we mobilised we could solve this very quickly</title>
+      <link>https://twitter.com/chrisdc77/status/1651315619164299269</link>
+      <description>This is fixable by centralising peer review rather than ceding all that power to journals and publishers
+
+Use @PeerCommunityIn as a single hub for reviewing preprints, then let journals bid on the outcomes. https://t.co/ptFiWbQNnF
+
+If we mobilised we could solve this very quickly</description>
+      <content:encoded>This is fixable by centralising peer review rather than ceding all that power to journals and publishers
+
+Use @PeerCommunityIn as a single hub for reviewing preprints, then let journals bid on the outcomes. https://t.co/ptFiWbQNnF
+
+If we mobilised we could solve this very quickly&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651315619164299269"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 20:01:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @googledevs: With @TensorFlow, this expert is building groundbreaking machine learning models in image and speech recognition → https://…</title>
+      <link>https://twitter.com/TensorFlow/status/1651315651401613313</link>
+      <description>RT @googledevs: With @TensorFlow, this expert is building groundbreaking machine learning models in image and speech recognition → https://…</description>
+      <content:encoded>RT @googledevs: With @TensorFlow, this expert is building groundbreaking machine learning models in image and speech recognition → https://…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1651315651401613313"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 20:01:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>@PeerCommunityIn But at the very least, think twice before putting your editor's hat on, jumping on social media, and whinging about lack of reviewers under a simplistic hyperlocal barter-economic model of peer review. 
+
+/end</title>
+      <link>https://twitter.com/chrisdc77/status/1651316571082485760</link>
+      <description>@PeerCommunityIn But at the very least, think twice before putting your editor's hat on, jumping on social media, and whinging about lack of reviewers under a simplistic hyperlocal barter-economic model of peer review. 
+
+/end</description>
+      <content:encoded>@PeerCommunityIn But at the very least, think twice before putting your editor's hat on, jumping on social media, and whinging about lack of reviewers under a simplistic hyperlocal barter-economic model of peer review. 
+
+/end&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1651316571082485760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 20:05:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>JGI_017987
+Depositor: Joint Genome Institute @jgi
+Purpose: Hydrocarbon Structures for Fuels and Chemicals
+
+https://t.co/R53WiE9f0n https://t.co/Ody5pOtcjL</title>
+      <link>https://twitter.com/Addgene/status/1651317741066887169</link>
+      <description>JGI_017987
+Depositor: Joint Genome Institute @jgi
+Purpose: Hydrocarbon Structures for Fuels and Chemicals
+
+https://t.co/R53WiE9f0n https://t.co/Ody5pOtcjL</description>
+      <content:encoded>JGI_017987
+Depositor: Joint Genome Institute @jgi
+Purpose: Hydrocarbon Structures for Fuels and Chemicals
+
+https://t.co/R53WiE9f0n https://t.co/Ody5pOtcjL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1651317741066887169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FuqouYuXwAEYuT-.jpg" length="480" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 20:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>If you'd like to hear more, join us at MATLAB Expo! https://t.co/YeTEdNLFsG</title>
+      <link>https://twitter.com/MATLAB/status/1651317852073254915</link>
+      <description>If you'd like to hear more, join us at MATLAB Expo! https://t.co/YeTEdNLFsG</description>
+      <content:encoded>If you'd like to hear more, join us at MATLAB Expo! https://t.co/YeTEdNLFsG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1651317852073254915"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 20:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>@FENSorg</title>
+      <link>https://twitter.com/SfNtweets/status/1651317908335673344</link>
+      <description>@FENSorg</description>
+      <content:encoded>@FENSorg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1651317908335673344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 20:10:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
