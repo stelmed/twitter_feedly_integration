@@ -6,114 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 10:17:38 +0000</lastBuildDate>
-    <item>
-      <title>RT @KarasLab: More plasmids added to @Addgene .  If you ever want to conjugate to S. cerevisiae or diverse yeasts use pSC5.
-
-More info here…</title>
-      <link>https://twitter.com/Addgene/status/1650891510471073792</link>
-      <description>RT @KarasLab: More plasmids added to @Addgene .  If you ever want to conjugate to S. cerevisiae or diverse yeasts use pSC5.
-
-More info here…</description>
-      <content:encoded>RT @KarasLab: More plasmids added to @Addgene .  If you ever want to conjugate to S. cerevisiae or diverse yeasts use pSC5.
-
-More info here…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1650891510471073792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 15:56:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazing dedication to maths and iterative improvements. Ropes anchored to a center ? I will reflect during my commute. https://t.co/lWpA1lzy1b</title>
-      <link>https://twitter.com/LecoqJerome/status/1650891699537977345</link>
-      <description>Amazing dedication to maths and iterative improvements. Ropes anchored to a center ? I will reflect during my commute. https://t.co/lWpA1lzy1b</description>
-      <content:encoded>Amazing dedication to maths and iterative improvements. Ropes anchored to a center ? I will reflect during my commute. https://t.co/lWpA1lzy1b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1650891699537977345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 15:57:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sheep need regular shearing, or else their coats can become so overgrown they’re unable to get around properly. This is what happens when one gets lost for 5-6 years and nobody takes care of shearing it 
-
-[full story: https://t.co/3TmvkTczrS]
-https://t.co/UGuTt1GowE</title>
-      <link>https://twitter.com/Rainmaker1973/status/1650892158570835968</link>
-      <description>Sheep need regular shearing, or else their coats can become so overgrown they’re unable to get around properly. This is what happens when one gets lost for 5-6 years and nobody takes care of shearing it 
-
-[full story: https://t.co/3TmvkTczrS]
-https://t.co/UGuTt1GowE</description>
-      <content:encoded>Sheep need regular shearing, or else their coats can become so overgrown they’re unable to get around properly. This is what happens when one gets lost for 5-6 years and nobody takes care of shearing it 
-
-[full story: https://t.co/3TmvkTczrS]
-https://t.co/UGuTt1GowE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1650892158570835968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fj-mUg5VsAAl9h_.jpg" length="675" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 15:58:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @nccomfort: 70 years ago, 3 papers appeared in @Nature under the title ‘Molecular structure of nucleic acids’. In an article appearing t…</title>
-      <link>https://twitter.com/NaturePortfolio/status/1650892297880436739</link>
-      <description>RT @nccomfort: 70 years ago, 3 papers appeared in @Nature under the title ‘Molecular structure of nucleic acids’. In an article appearing t…</description>
-      <content:encoded>RT @nccomfort: 70 years ago, 3 papers appeared in @Nature under the title ‘Molecular structure of nucleic acids’. In an article appearing t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1650892297880436739"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 15:59:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>@HenryYin19 I'm sorry, but I don't follow. I would argue that if activating DA selectively reinforces those behaviours that preceded DA release, then that is fairly strong evidence that dopamine acts as a reinforcing signal for learning.</title>
-      <link>https://twitter.com/tyrell_turing/status/1650892429959086082</link>
-      <description>@HenryYin19 I'm sorry, but I don't follow. I would argue that if activating DA selectively reinforces those behaviours that preceded DA release, then that is fairly strong evidence that dopamine acts as a reinforcing signal for learning.</description>
-      <content:encoded>@HenryYin19 I'm sorry, but I don't follow. I would argue that if activating DA selectively reinforces those behaviours that preceded DA release, then that is fairly strong evidence that dopamine acts as a reinforcing signal for learning.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1650892429959086082"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 16:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab Important work. Maybe we should teach neuroscientists what a gradient is</title>
-      <link>https://twitter.com/Pascallisch/status/1650893008399654912</link>
-      <description>@KordingLab Important work. Maybe we should teach neuroscientists what a gradient is</description>
-      <content:encoded>@KordingLab Important work. Maybe we should teach neuroscientists what a gradient is&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Pascallisch/status/1650893008399654912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 16:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>MIT graduate engineering, business, science programs ranked highly by U.S. News for 2023-24: Graduate engineering program is No. 1 in the nation; MIT Sloan is No. 4. https://t.co/ea81Qvpd8l https://t.co/iuiTai7fzJ</title>
-      <link>https://twitter.com/MIT/status/1650893745611497472</link>
-      <description>MIT graduate engineering, business, science programs ranked highly by U.S. News for 2023-24: Graduate engineering program is No. 1 in the nation; MIT Sloan is No. 4. https://t.co/ea81Qvpd8l https://t.co/iuiTai7fzJ</description>
-      <content:encoded>MIT graduate engineering, business, science programs ranked highly by U.S. News for 2023-24: Graduate engineering program is No. 1 in the nation; MIT Sloan is No. 4. https://t.co/ea81Qvpd8l https://t.co/iuiTai7fzJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1650893745611497472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FuknHJ_XsAEqOrB.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 16:05:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do you ever just want to bask in the glory of your plasmid request data? Good news! @joachimgoedhart made a dashboard for that! 
-
-https://t.co/Plx4mqkd28</title>
-      <link>https://twitter.com/Addgene/status/1650894437977866243</link>
-      <description>Do you ever just want to bask in the glory of your plasmid request data? Good news! @joachimgoedhart made a dashboard for that! 
-
-https://t.co/Plx4mqkd28</description>
-      <content:encoded>Do you ever just want to bask in the glory of your plasmid request data? Good news! @joachimgoedhart made a dashboard for that! 
-
-https://t.co/Plx4mqkd28&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1650894437977866243"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 16:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This #MSAwarenessWeek, we highlight Jeremy Chataway &amp;amp; @ApapMangion’s recommendation of this paper by Feki S et al. in @SciReports that proposes alternative markers for the diagnosis of #MultipleSclerosis alongside established markers.
-
-https://t.co/QJx7DjdjQ2 https://t.co/SIrWJbsoFB</title>
-      <link>https://twitter.com/Facultyopinions/status/1650897460460412930</link>
-      <description>This #MSAwarenessWeek, we highlight Jeremy Chataway &amp;amp; @ApapMangion’s recommendation of this paper by Feki S et al. in @SciReports that proposes alternative markers for the diagnosis of #MultipleSclerosis alongside established markers.
-
-https://t.co/QJx7DjdjQ2 https://t.co/SIrWJbsoFB</description>
-      <content:encoded>This #MSAwarenessWeek, we highlight Jeremy Chataway &amp;amp; @ApapMangion’s recommendation of this paper by Feki S et al. in @SciReports that proposes alternative markers for the diagnosis of #MultipleSclerosis alongside established markers.
-
-https://t.co/QJx7DjdjQ2 https://t.co/SIrWJbsoFB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1650897460460412930"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fukqfb8WYAAKsB4.jpg" length="764" type="photo"/>
-      <pubDate>Tue, 25 Apr 2023 16:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Understanding the neural mechanisms of empathy toward robots to shape future applications: This article provides an overview on how modern neuroscience evaluations link to robot empathy. It evaluates the brain correlates of… https://t.co/xAqcyuEk6q #Neurorobotics</title>
-      <link>https://twitter.com/FrontNeurosci/status/1650897965282910208</link>
-      <description>New Research: Understanding the neural mechanisms of empathy toward robots to shape future applications: This article provides an overview on how modern neuroscience evaluations link to robot empathy. It evaluates the brain correlates of… https://t.co/xAqcyuEk6q #Neurorobotics</description>
-      <content:encoded>New Research: Understanding the neural mechanisms of empathy toward robots to shape future applications: This article provides an overview on how modern neuroscience evaluations link to robot empathy. It evaluates the brain correlates of… https://t.co/xAqcyuEk6q #Neurorobotics&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1650897965282910208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 16:22:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @bradyajohnston: Thanks to contributors on the GitHub, #MolecularNodes can now import .star files from RELION and cisTEM. You can take y…</title>
-      <link>https://twitter.com/sofroniewn/status/1650898289934618625</link>
-      <description>RT @bradyajohnston: Thanks to contributors on the GitHub, #MolecularNodes can now import .star files from RELION and cisTEM. You can take y…</description>
-      <content:encoded>RT @bradyajohnston: Thanks to contributors on the GitHub, #MolecularNodes can now import .star files from RELION and cisTEM. You can take y…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1650898289934618625"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 25 Apr 2023 16:23:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Apr 2023 11:13:41 +0000</lastBuildDate>
     <item>
       <title>You could climb out of a hole with a ladder or a rope—or you could call on your physics knowledge. Running in circle, for example, will introduce a rotational force, and therefore a larger normal and frictional force
 
@@ -2008,6 +1901,170 @@ https://t.co/fcjEyDdPpP
 #DBS #Parkinson #connectomics https://t.co/LYR8uZnkWs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrendsNeuro/status/1651165398430089333"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FuodV0TWYAAbGQK.jpg" length="1200" type="photo"/>
       <pubDate>Wed, 26 Apr 2023 10:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists have long believed that wireless signals like WiFi could be used to see things that are invisible to the naked eye. Researchers at MIT’s gave a proof of this
+
+[read more: https://t.co/7NFYr4DvI6]
+https://t.co/dXhXwyOew6</title>
+      <link>https://twitter.com/Rainmaker1973/status/1651169164365578240</link>
+      <description>Scientists have long believed that wireless signals like WiFi could be used to see things that are invisible to the naked eye. Researchers at MIT’s gave a proof of this
+
+[read more: https://t.co/7NFYr4DvI6]
+https://t.co/dXhXwyOew6</description>
+      <content:encoded>Scientists have long believed that wireless signals like WiFi could be used to see things that are invisible to the naked eye. Researchers at MIT’s gave a proof of this
+
+[read more: https://t.co/7NFYr4DvI6]
+https://t.co/dXhXwyOew6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651169164365578240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1529483241392152578/pu/img/abp1ppxVszTyDvKy.jpg" length="640" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 10:19:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Registration is open for @ZuckermanBrain's virtual Curiosity, Creativity, &amp;amp; Complexity Conference!
+
+Formal presentations, informal discussions, &amp;amp; posters 🧠
+
+Learn more &amp;amp; register here: https://t.co/r0oK0U3Qa4
+
+#neuroscience #neuroinformatics #ComputationalNeuroscience https://t.co/n1uNe5NCFz</title>
+      <link>https://twitter.com/INCForg/status/1651169979566268416</link>
+      <description>Registration is open for @ZuckermanBrain's virtual Curiosity, Creativity, &amp;amp; Complexity Conference!
+
+Formal presentations, informal discussions, &amp;amp; posters 🧠
+
+Learn more &amp;amp; register here: https://t.co/r0oK0U3Qa4
+
+#neuroscience #neuroinformatics #ComputationalNeuroscience https://t.co/n1uNe5NCFz</description>
+      <content:encoded>Registration is open for @ZuckermanBrain's virtual Curiosity, Creativity, &amp;amp; Complexity Conference!
+
+Formal presentations, informal discussions, &amp;amp; posters 🧠
+
+Learn more &amp;amp; register here: https://t.co/r0oK0U3Qa4
+
+#neuroscience #neuroinformatics #ComputationalNeuroscience https://t.co/n1uNe5NCFz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1651169979566268416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FuoiBiyXsAE4ixj.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 10:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Umeå researcher Maria Nilsson is one of 20 internationally selected finalists for the Frontiers Planet Prize. It is launched by the research foundation Frontiers, with the ambition to accelerate scientific solutions for healthy lives on a healthy planet. https://t.co/7qKuJRasux</title>
+      <link>https://twitter.com/umeauniversity/status/1651170505406267392</link>
+      <description>Umeå researcher Maria Nilsson is one of 20 internationally selected finalists for the Frontiers Planet Prize. It is launched by the research foundation Frontiers, with the ambition to accelerate scientific solutions for healthy lives on a healthy planet. https://t.co/7qKuJRasux</description>
+      <content:encoded>Umeå researcher Maria Nilsson is one of 20 internationally selected finalists for the Frontiers Planet Prize. It is launched by the research foundation Frontiers, with the ambition to accelerate scientific solutions for healthy lives on a healthy planet. https://t.co/7qKuJRasux&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/umeauniversity/status/1651170505406267392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 10:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Words meaning "small" tend to be longer than words meaning "big" https://t.co/itaWuF96wp Here's a wee counterexample. https://t.co/HOnRTpkFZb</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1651172638511845376</link>
+      <description>Words meaning "small" tend to be longer than words meaning "big" https://t.co/itaWuF96wp Here's a wee counterexample. https://t.co/HOnRTpkFZb</description>
+      <content:encoded>Words meaning "small" tend to be longer than words meaning "big" https://t.co/itaWuF96wp Here's a wee counterexample. https://t.co/HOnRTpkFZb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1651172638511845376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FuokJHnXgAA6apz.png" length="785" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 10:33:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reframing Cognitive Science as a Complexity Science https://t.co/hn4xPKje6w Why'd you have to go and make things so complicated. https://t.co/yLQ7qGRwXL</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1651172944922435585</link>
+      <description>Reframing Cognitive Science as a Complexity Science https://t.co/hn4xPKje6w Why'd you have to go and make things so complicated. https://t.co/yLQ7qGRwXL</description>
+      <content:encoded>Reframing Cognitive Science as a Complexity Science https://t.co/hn4xPKje6w Why'd you have to go and make things so complicated. https://t.co/yLQ7qGRwXL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1651172944922435585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FuolA37XoAA2gec.png" length="775" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 10:34:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @esfinn: Our lab @FINNLab_neuro @DartmouthPBS is hiring a full-time RA! Come study individual differences in social perception. Learn cu…</title>
+      <link>https://twitter.com/PessoaBrain/status/1651175162983882752</link>
+      <description>RT @esfinn: Our lab @FINNLab_neuro @DartmouthPBS is hiring a full-time RA! Come study individual differences in social perception. Learn cu…</description>
+      <content:encoded>RT @esfinn: Our lab @FINNLab_neuro @DartmouthPBS is hiring a full-time RA! Come study individual differences in social perception. Learn cu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651175162983882752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 10:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>The behavior of a steel ball bouncing on a hardened steel anvil demonstrates the exponential decay of the motion and the corresponding increase of the frequency of the bounces.
+
+[read more: https://t.co/daMKnNwVVt]
+https://t.co/Q71zOjdhUs</title>
+      <link>https://twitter.com/Rainmaker1973/status/1651177020238315521</link>
+      <description>The behavior of a steel ball bouncing on a hardened steel anvil demonstrates the exponential decay of the motion and the corresponding increase of the frequency of the bounces.
+
+[read more: https://t.co/daMKnNwVVt]
+https://t.co/Q71zOjdhUs</description>
+      <content:encoded>The behavior of a steel ball bouncing on a hardened steel anvil demonstrates the exponential decay of the motion and the corresponding increase of the frequency of the bounces.
+
+[read more: https://t.co/daMKnNwVVt]
+https://t.co/Q71zOjdhUs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651177020238315521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1650992951147864065/pu/img/ogXIDsMwCKhDqm0H.jpg" length="398" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 10:50:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Generated Pizza Commercial
+
+Tools used: 
+
+- Script: GPT4 
+- Images: Midjourney 
+- Video Clips: Runway Gen2 
+- VO: Eleven Labs 
+- Music: SOUNDRAW AI Music 
+- Graphics and editing: Adobe After Effects
+
+https://t.co/Ujnrjg7O7y
+https://t.co/MnHaGk6HjK</title>
+      <link>https://twitter.com/Rainmaker1973/status/1651179723274190849</link>
+      <description>AI Generated Pizza Commercial
+
+Tools used: 
+
+- Script: GPT4 
+- Images: Midjourney 
+- Video Clips: Runway Gen2 
+- VO: Eleven Labs 
+- Music: SOUNDRAW AI Music 
+- Graphics and editing: Adobe After Effects
+
+https://t.co/Ujnrjg7O7y
+https://t.co/MnHaGk6HjK</description>
+      <content:encoded>AI Generated Pizza Commercial
+
+Tools used: 
+
+- Script: GPT4 
+- Images: Midjourney 
+- Video Clips: Runway Gen2 
+- VO: Eleven Labs 
+- Music: SOUNDRAW AI Music 
+- Graphics and editing: Adobe After Effects
+
+https://t.co/Ujnrjg7O7y
+https://t.co/MnHaGk6HjK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651179723274190849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1650910805171355666/pu/img/xq8rNUdagZCLnJT_.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 26 Apr 2023 11:01:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 Plasticity of gene expression in the nervous system by exposure to environmental odorants that inhibit HDACs  https://t.co/OKOch0HsiZ #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1651180623032139783</link>
+      <description>#PeerReview from @eLife of 👉🏿 Plasticity of gene expression in the nervous system by exposure to environmental odorants that inhibit HDACs  https://t.co/OKOch0HsiZ #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 Plasticity of gene expression in the nervous system by exposure to environmental odorants that inhibit HDACs  https://t.co/OKOch0HsiZ #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1651180623032139783"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 11:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>What math and ballet have in common: When breaking down complicated problems, tutor and science research adviser Kate Penner applies lessons from the dance studio. https://t.co/ZrJfM3Y4Xu</title>
+      <link>https://twitter.com/stevenstrogatz/status/1651180941061005314</link>
+      <description>What math and ballet have in common: When breaking down complicated problems, tutor and science research adviser Kate Penner applies lessons from the dance studio. https://t.co/ZrJfM3Y4Xu</description>
+      <content:encoded>What math and ballet have in common: When breaking down complicated problems, tutor and science research adviser Kate Penner applies lessons from the dance studio. https://t.co/ZrJfM3Y4Xu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1651180941061005314"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 11:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dear Dr. Yin,
+I am writing to cordially invite you to be an Editorial Board Member of Nature Cell and Science, a new journal expected to be launched in September 2023.
+
+first email this morning: i'm flattered but I would only say yes if it's Cell Nature and Science.  Try again.</title>
+      <link>https://twitter.com/HenryYin19/status/1651182706502381570</link>
+      <description>Dear Dr. Yin,
+I am writing to cordially invite you to be an Editorial Board Member of Nature Cell and Science, a new journal expected to be launched in September 2023.
+
+first email this morning: i'm flattered but I would only say yes if it's Cell Nature and Science.  Try again.</description>
+      <content:encoded>Dear Dr. Yin,
+I am writing to cordially invite you to be an Editorial Board Member of Nature Cell and Science, a new journal expected to be launched in September 2023.
+
+first email this morning: i'm flattered but I would only say yes if it's Cell Nature and Science.  Try again.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HenryYin19/status/1651182706502381570"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 26 Apr 2023 11:13:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
