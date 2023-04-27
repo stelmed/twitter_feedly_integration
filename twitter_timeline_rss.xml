@@ -6,26 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 02:34:06 +0000</lastBuildDate>
-    <item>
-      <title>RT @EUScienceInnov: And... We are LIVE again! 🔴
-
-Today on the 2023 Knowledge Valorisation Week programme:
-
-- 🆕 code of practice on managing…</title>
-      <link>https://twitter.com/ERC_Research/status/1651211375346163712</link>
-      <description>RT @EUScienceInnov: And... We are LIVE again! 🔴
-
-Today on the 2023 Knowledge Valorisation Week programme:
-
-- 🆕 code of practice on managing…</description>
-      <content:encoded>RT @EUScienceInnov: And... We are LIVE again! 🔴
-
-Today on the 2023 Knowledge Valorisation Week programme:
-
-- 🆕 code of practice on managing…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1651211375346163712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 13:07:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Apr 2023 03:17:32 +0000</lastBuildDate>
     <item>
       <title>Here is a scientific obituary written by Larry's friends and family @BiophysicalSoc @SfNtweets https://t.co/tJabeFNnUP https://t.co/xz4GaEQfiQ</title>
       <link>https://twitter.com/lesloew/status/1651211831527223297</link>
@@ -2051,6 +2032,14 @@ Insects "outsmart" us by a factor of 1000. But I'm not particularly worried.&lt;
       <description>Such great strength😂 https://t.co/wyTEfGKjiR</description>
       <content:encoded>Such great strength😂 https://t.co/wyTEfGKjiR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HenryYin19/status/1651412577295925252"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 27 Apr 2023 02:26:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>An experimental antiviral drug can both prevent and treat infections in mice exposed to Venezuelan and eastern equine encephalitis viruses, two life-threatening pathogens that infect the brain. https://t.co/1uGdSUrEVu @ScienceTM https://t.co/BqpuxUPb8v</title>
+      <link>https://twitter.com/ScienceMagazine/status/1651420930302779392</link>
+      <description>An experimental antiviral drug can both prevent and treat infections in mice exposed to Venezuelan and eastern equine encephalitis viruses, two life-threatening pathogens that infect the brain. https://t.co/1uGdSUrEVu @ScienceTM https://t.co/BqpuxUPb8v</description>
+      <content:encoded>An experimental antiviral drug can both prevent and treat infections in mice exposed to Venezuelan and eastern equine encephalitis viruses, two life-threatening pathogens that infect the brain. https://t.co/1uGdSUrEVu @ScienceTM https://t.co/BqpuxUPb8v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651420930302779392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FusGlaUWAAMtDjY.jpg" length="511" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 03:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
