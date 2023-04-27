@@ -6,277 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 15:15:49 +0000</lastBuildDate>
-    <item>
-      <title>A new type of light-sensitive elastomer design offers the ability to harness a sustainable energy supply—natural sunlight—when developing autonomous soft robots. https://t.co/wiWtMb9UjV @SciRobotics https://t.co/oSWDIvWx8E</title>
-      <link>https://twitter.com/ScienceMagazine/status/1651330385358340098</link>
-      <description>A new type of light-sensitive elastomer design offers the ability to harness a sustainable energy supply—natural sunlight—when developing autonomous soft robots. https://t.co/wiWtMb9UjV @SciRobotics https://t.co/oSWDIvWx8E</description>
-      <content:encoded>A new type of light-sensitive elastomer design offers the ability to harness a sustainable energy supply—natural sunlight—when developing autonomous soft robots. https://t.co/wiWtMb9UjV @SciRobotics https://t.co/oSWDIvWx8E&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651330385358340098"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fuq0O-yWIAEJK-x.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 21:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>A protein implicated in #OCD, known as SAPAP3, is surprisingly found in #astrocytes according to new research led by Allen Distinguished Investigator @baljit_khakh. Learn more about this #FrontierScience in our latest #SciShots feature.
-
-https://t.co/ZI5u0Tpt0O</title>
-      <link>https://twitter.com/AllenInstitute/status/1651331030094319616</link>
-      <description>A protein implicated in #OCD, known as SAPAP3, is surprisingly found in #astrocytes according to new research led by Allen Distinguished Investigator @baljit_khakh. Learn more about this #FrontierScience in our latest #SciShots feature.
-
-https://t.co/ZI5u0Tpt0O</description>
-      <content:encoded>A protein implicated in #OCD, known as SAPAP3, is surprisingly found in #astrocytes according to new research led by Allen Distinguished Investigator @baljit_khakh. Learn more about this #FrontierScience in our latest #SciShots feature.
-
-https://t.co/ZI5u0Tpt0O&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1651331030094319616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab @Plinz @opherdonchin @jjodx It's also worth noting that decades of evidence have supported a role for synaptic changes in learning and memory. Though there some people like to pretend this question is up for grabs, it really isn't: we really do know that learning rests, in part, on synaptic changes.</title>
-      <link>https://twitter.com/tyrell_turing/status/1651331149795323906</link>
-      <description>@KordingLab @Plinz @opherdonchin @jjodx It's also worth noting that decades of evidence have supported a role for synaptic changes in learning and memory. Though there some people like to pretend this question is up for grabs, it really isn't: we really do know that learning rests, in part, on synaptic changes.</description>
-      <content:encoded>@KordingLab @Plinz @opherdonchin @jjodx It's also worth noting that decades of evidence have supported a role for synaptic changes in learning and memory. Though there some people like to pretend this question is up for grabs, it really isn't: we really do know that learning rests, in part, on synaptic changes.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1651331149795323906"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:03:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab @jjodx @Plinz @opherdonchin @sjo09 That's not for sure. Even with big changes, if there was some way that the system was engaged in a second-order estimate (telling it the curvature was low), it could very well be following the gradient appropriately with a big step.</title>
-      <link>https://twitter.com/tyrell_turing/status/1651331476892315648</link>
-      <description>@KordingLab @jjodx @Plinz @opherdonchin @sjo09 That's not for sure. Even with big changes, if there was some way that the system was engaged in a second-order estimate (telling it the curvature was low), it could very well be following the gradient appropriately with a big step.</description>
-      <content:encoded>@KordingLab @jjodx @Plinz @opherdonchin @sjo09 That's not for sure. Even with big changes, if there was some way that the system was engaged in a second-order estimate (telling it the curvature was low), it could very well be following the gradient appropriately with a big step.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1651331476892315648"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:04:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@tyrell_turing @jjodx @Plinz @opherdonchin @sjo09 But if you go from bad to perfect then you go from nonzero gradient to zero gradient so you leave the linear region?</title>
-      <link>https://twitter.com/KordingLab/status/1651332113294061569</link>
-      <description>@tyrell_turing @jjodx @Plinz @opherdonchin @sjo09 But if you go from bad to perfect then you go from nonzero gradient to zero gradient so you leave the linear region?</description>
-      <content:encoded>@tyrell_turing @jjodx @Plinz @opherdonchin @sjo09 But if you go from bad to perfect then you go from nonzero gradient to zero gradient so you leave the linear region?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1651332113294061569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:07:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Question by an engineering graduate student:
-"Is action limited to physical action, or can action be mental too?"
-thoughts? :-)</title>
-      <link>https://twitter.com/PessoaBrain/status/1651332440818962434</link>
-      <description>Question by an engineering graduate student:
-"Is action limited to physical action, or can action be mental too?"
-thoughts? :-)</description>
-      <content:encoded>Question by an engineering graduate student:
-"Is action limited to physical action, or can action be mental too?"
-thoughts? :-)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651332440818962434"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:08:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab @jjodx @Plinz @opherdonchin @sjo09 I don't think fear learning goes to "perfect". Even in the beautiful data of people like @sjo09, there's a lot of noise in the animal's behaviour.</title>
-      <link>https://twitter.com/tyrell_turing/status/1651333125245394945</link>
-      <description>@KordingLab @jjodx @Plinz @opherdonchin @sjo09 I don't think fear learning goes to "perfect". Even in the beautiful data of people like @sjo09, there's a lot of noise in the animal's behaviour.</description>
-      <content:encoded>@KordingLab @jjodx @Plinz @opherdonchin @sjo09 I don't think fear learning goes to "perfect". Even in the beautiful data of people like @sjo09, there's a lot of noise in the animal's behaviour.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1651333125245394945"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab @Plinz @opherdonchin @jjodx Agreed. To answer your questions @Plinz:
-
-1. No, not all learning is purely synaptic (there are also changes in, e.g., cell excitability).
-
-2. There may be learning that doesn't rely on small synaptic changes, but we know at least some learning relies on this.</title>
-      <link>https://twitter.com/tyrell_turing/status/1651333689010208772</link>
-      <description>@KordingLab @Plinz @opherdonchin @jjodx Agreed. To answer your questions @Plinz:
-
-1. No, not all learning is purely synaptic (there are also changes in, e.g., cell excitability).
-
-2. There may be learning that doesn't rely on small synaptic changes, but we know at least some learning relies on this.</description>
-      <content:encoded>@KordingLab @Plinz @opherdonchin @jjodx Agreed. To answer your questions @Plinz:
-
-1. No, not all learning is purely synaptic (there are also changes in, e.g., cell excitability).
-
-2. There may be learning that doesn't rely on small synaptic changes, but we know at least some learning relies on this.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1651333689010208772"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:13:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>🏅#TFCommunitySpotlight Winner: Antonio Camargo🏅
-
-Antonio made a tool to detect virus and plasmid genomes in nucleotide sequences, with potential to enhance tracking of harmful viruses and plasmids. Great work!
-
-Learn more ➡️ https://t.co/9dwitifG9z https://t.co/fZ2gbdeCN0</title>
-      <link>https://twitter.com/TensorFlow/status/1651333886243225602</link>
-      <description>🏅#TFCommunitySpotlight Winner: Antonio Camargo🏅
-
-Antonio made a tool to detect virus and plasmid genomes in nucleotide sequences, with potential to enhance tracking of harmful viruses and plasmids. Great work!
-
-Learn more ➡️ https://t.co/9dwitifG9z https://t.co/fZ2gbdeCN0</description>
-      <content:encoded>🏅#TFCommunitySpotlight Winner: Antonio Camargo🏅
-
-Antonio made a tool to detect virus and plasmid genomes in nucleotide sequences, with potential to enhance tracking of harmful viruses and plasmids. Great work!
-
-Learn more ➡️ https://t.co/9dwitifG9z https://t.co/fZ2gbdeCN0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1651333886243225602"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fuq3atpWwAUIBGN.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 21:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab @Plinz @opherdonchin @jjodx Another possible source of learning is "in-context" learning via activity dynamics, which I suspect underlies most learning during the day. But, the kind of learning that needs consolidation during sleep surely does involve many small synaptic changes.</title>
-      <link>https://twitter.com/tyrell_turing/status/1651333941830336512</link>
-      <description>@KordingLab @Plinz @opherdonchin @jjodx Another possible source of learning is "in-context" learning via activity dynamics, which I suspect underlies most learning during the day. But, the kind of learning that needs consolidation during sleep surely does involve many small synaptic changes.</description>
-      <content:encoded>@KordingLab @Plinz @opherdonchin @jjodx Another possible source of learning is "in-context" learning via activity dynamics, which I suspect underlies most learning during the day. But, the kind of learning that needs consolidation during sleep surely does involve many small synaptic changes.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1651333941830336512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>A human–AI team has halved the cost of designing a step in the fabrication of microchips. Find out how in this N&amp;amp;V by YL Wang and MC Huang. https://t.co/RvQZzQsap7</title>
-      <link>https://twitter.com/NatureNV/status/1651334556740464641</link>
-      <description>A human–AI team has halved the cost of designing a step in the fabrication of microchips. Find out how in this N&amp;amp;V by YL Wang and MC Huang. https://t.co/RvQZzQsap7</description>
-      <content:encoded>A human–AI team has halved the cost of designing a step in the fabrication of microchips. Find out how in this N&amp;amp;V by YL Wang and MC Huang. https://t.co/RvQZzQsap7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1651334556740464641"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:16:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @thejenjay: @NeedlesNeurons I mean look at them!!! https://t.co/89EteV4nyL</title>
-      <link>https://twitter.com/MattNeuro/status/1651334732813070336</link>
-      <description>RT @thejenjay: @NeedlesNeurons I mean look at them!!! https://t.co/89EteV4nyL</description>
-      <content:encoded>RT @thejenjay: @NeedlesNeurons I mean look at them!!! https://t.co/89EteV4nyL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1651334732813070336"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FuqxcSiacAAHCAq.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 21:17:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ja_schnabel: We will be opening for paper submission shortly!  
-
-#ICML2023 Workshop on Machine Learning for Multimodal Healthcare Data…</title>
-      <link>https://twitter.com/CellTypist/status/1651335475540508673</link>
-      <description>RT @ja_schnabel: We will be opening for paper submission shortly!  
-
-#ICML2023 Workshop on Machine Learning for Multimodal Healthcare Data…</description>
-      <content:encoded>RT @ja_schnabel: We will be opening for paper submission shortly!  
-
-#ICML2023 Workshop on Machine Learning for Multimodal Healthcare Data…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1651335475540508673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>The optical pioneer Larry Cohen has tragically left us. He opened the door for many of us. https://t.co/qZlotZVB8A</title>
-      <link>https://twitter.com/yusterafa/status/1651336008284119042</link>
-      <description>The optical pioneer Larry Cohen has tragically left us. He opened the door for many of us. https://t.co/qZlotZVB8A</description>
-      <content:encoded>The optical pioneer Larry Cohen has tragically left us. He opened the door for many of us. https://t.co/qZlotZVB8A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/yusterafa/status/1651336008284119042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fuq4qX2WwAMcH61.jpg" length="916" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 21:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/A31wetPNcf</title>
-      <link>https://twitter.com/yusterafa/status/1651336011132092416</link>
-      <description>https://t.co/A31wetPNcf</description>
-      <content:encoded>https://t.co/A31wetPNcf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/yusterafa/status/1651336011132092416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fuq5RvEX0AEyf7j.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 21:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>This week’s AI news:
- - Reddit and Stack Overflow paywall their text data
- - Details emerge about Google’s new search chatbot
- - We dive into the tech behind the AI music phenomenon. 
-Plus: Landing AI introduces Visual Prompting! 
-
-Learn more in #TheBatch: https://t.co/3TpAGFCDua</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1651336494865428483</link>
-      <description>This week’s AI news:
- - Reddit and Stack Overflow paywall their text data
- - Details emerge about Google’s new search chatbot
- - We dive into the tech behind the AI music phenomenon. 
-Plus: Landing AI introduces Visual Prompting! 
-
-Learn more in #TheBatch: https://t.co/3TpAGFCDua</description>
-      <content:encoded>This week’s AI news:
- - Reddit and Stack Overflow paywall their text data
- - Details emerge about Google’s new search chatbot
- - We dive into the tech behind the AI music phenomenon. 
-Plus: Landing AI introduces Visual Prompting! 
-
-Learn more in #TheBatch: https://t.co/3TpAGFCDua&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1651336494865428483"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:24:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine has arrived! 
-
-New research in mice demystifies the connection betwee…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1651336850865364992</link>
-      <description>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine has arrived! 
-
-New research in mice demystifies the connection betwee…</description>
-      <content:encoded>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine has arrived! 
-
-New research in mice demystifies the connection betwee…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651336850865364992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dennett's great strength is generating catchy metaphors, his weakness is data. E.g. his story that cognition is the software, and the brain is the hardware it happens to run on, is almost as unfortunate as Chalmers' zombie story. https://t.co/nskKM0zyfA</title>
-      <link>https://twitter.com/patchurchland/status/1651339271209644032</link>
-      <description>Dennett's great strength is generating catchy metaphors, his weakness is data. E.g. his story that cognition is the software, and the brain is the hardware it happens to run on, is almost as unfortunate as Chalmers' zombie story. https://t.co/nskKM0zyfA</description>
-      <content:encoded>Dennett's great strength is generating catchy metaphors, his weakness is data. E.g. his story that cognition is the software, and the brain is the hardware it happens to run on, is almost as unfortunate as Chalmers' zombie story. https://t.co/nskKM0zyfA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1651339271209644032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>@PessoaBrain Nice question! You can proxy into asking about conscious and unconscious actions from there...</title>
-      <link>https://twitter.com/LecoqJerome/status/1651339665809764352</link>
-      <description>@PessoaBrain Nice question! You can proxy into asking about conscious and unconscious actions from there...</description>
-      <content:encoded>@PessoaBrain Nice question! You can proxy into asking about conscious and unconscious actions from there...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1651339665809764352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:37:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>pip install motornet
-https://t.co/Sn8PRJtgnm</title>
-      <link>https://twitter.com/andpru/status/1651340514422038534</link>
-      <description>pip install motornet
-https://t.co/Sn8PRJtgnm</description>
-      <content:encoded>pip install motornet
-https://t.co/Sn8PRJtgnm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1651340514422038534"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:40:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>David note taking at the end of a fascinating three day meeting on “AI and the barrier of meaning” ⁦@sfiscience⁩ https://t.co/6ScH8hLzuD</title>
-      <link>https://twitter.com/blamlab/status/1651341419431247875</link>
-      <description>David note taking at the end of a fascinating three day meeting on “AI and the barrier of meaning” ⁦@sfiscience⁩ https://t.co/6ScH8hLzuD</description>
-      <content:encoded>David note taking at the end of a fascinating three day meeting on “AI and the barrier of meaning” ⁦@sfiscience⁩ https://t.co/6ScH8hLzuD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1651341419431247875"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fuq-RGeXsAUtT6a.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 21:44:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fascinating research in the poster session today at #LEARNMEM2023 . Submit your own research at https://t.co/QWo4r7hIGo to be included in our special issue!
-
-You can also stop by our booth in front of Breakwater B, or make an appointment with us at https://t.co/GyHsJNc4HB https://t.co/t2zp1XRoCi</title>
-      <link>https://twitter.com/FrontNeurosci/status/1651342268350218241</link>
-      <description>Fascinating research in the poster session today at #LEARNMEM2023 . Submit your own research at https://t.co/QWo4r7hIGo to be included in our special issue!
-
-You can also stop by our booth in front of Breakwater B, or make an appointment with us at https://t.co/GyHsJNc4HB https://t.co/t2zp1XRoCi</description>
-      <content:encoded>Fascinating research in the poster session today at #LEARNMEM2023 . Submit your own research at https://t.co/QWo4r7hIGo to be included in our special issue!
-
-You can also stop by our booth in front of Breakwater B, or make an appointment with us at https://t.co/GyHsJNc4HB https://t.co/t2zp1XRoCi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1651342268350218241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fuq-0VRagAAd56j.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 21:47:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>I’ll be at Stanford Sunday to Thursday. Giving a talk and meeting people. Looking forward to it!</title>
-      <link>https://twitter.com/KordingLab/status/1651342733397700611</link>
-      <description>I’ll be at Stanford Sunday to Thursday. Giving a talk and meeting people. Looking forward to it!</description>
-      <content:encoded>I’ll be at Stanford Sunday to Thursday. Giving a talk and meeting people. Looking forward to it!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1651342733397700611"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 21:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Master AI with the Deep Learning Specialization!
-
-You’ll learn to build neural networks, lead machine learning projects, and apply deep learning in different industries. 
-
-Gain the skills to succeed in this highly sought-after field. Learn more 👉 https://t.co/01OFanrvG5 https://t.co/tJtHSp85Ct</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1651345436635017217</link>
-      <description>Master AI with the Deep Learning Specialization!
-
-You’ll learn to build neural networks, lead machine learning projects, and apply deep learning in different industries. 
-
-Gain the skills to succeed in this highly sought-after field. Learn more 👉 https://t.co/01OFanrvG5 https://t.co/tJtHSp85Ct</description>
-      <content:encoded>Master AI with the Deep Learning Specialization!
-
-You’ll learn to build neural networks, lead machine learning projects, and apply deep learning in different industries. 
-
-Gain the skills to succeed in this highly sought-after field. Learn more 👉 https://t.co/01OFanrvG5 https://t.co/tJtHSp85Ct&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1651345436635017217"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1651345408151502848/pu/img/RFlv_iZTEYHWV-Ur.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 22:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>What do you think about AI?</title>
-      <link>https://twitter.com/MichaelGalanin/status/1651347896455839747</link>
-      <description>What do you think about AI?</description>
-      <content:encoded>What do you think about AI?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1651347896455839747"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 22:09:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Apr 2023 16:20:10 +0000</lastBuildDate>
     <item>
       <title>How do our brains control our interactions with the world?
 
@@ -1689,6 +1419,19 @@ https://t.co/bQKyjNje2L&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Thu, 27 Apr 2023 13:20:00 +0000</pubDate>
     </item>
     <item>
+      <title>RT @MJ_Mair: Also check out our #behindthepaper #blog post in @NaturePortfolio #Cancer Community: https://t.co/FOJQHlshZS
+
+#ADC #glioblasto…</title>
+      <link>https://twitter.com/NaturePortfolio/status/1651576970985996288</link>
+      <description>RT @MJ_Mair: Also check out our #behindthepaper #blog post in @NaturePortfolio #Cancer Community: https://t.co/FOJQHlshZS
+
+#ADC #glioblasto…</description>
+      <content:encoded>RT @MJ_Mair: Also check out our #behindthepaper #blog post in @NaturePortfolio #Cancer Community: https://t.co/FOJQHlshZS
+
+#ADC #glioblasto…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1651576970985996288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 13:20:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Conan the little pig https://t.co/8xfeFL1eMK</title>
       <link>https://twitter.com/TheFrontalLobe_/status/1651577439917621249</link>
       <description>Conan the little pig https://t.co/8xfeFL1eMK</description>
@@ -2234,6 +1977,239 @@ Convince the people and let the chips fall where they may.
       <description>@Rainmaker1973 Best textbook intro ever</description>
       <content:encoded>@Rainmaker1973 Best textbook intro ever&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1651605138002280448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 27 Apr 2023 15:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MPI_Biochem: Get to know the #MPIBDirectors! 🤝
+Today: Kikuë Tachibana
+
+Kikuë Tachibana's group aims to understand how life starts. Just…</title>
+      <link>https://twitter.com/maxplanckpress/status/1651607078723567620</link>
+      <description>RT @MPI_Biochem: Get to know the #MPIBDirectors! 🤝
+Today: Kikuë Tachibana
+
+Kikuë Tachibana's group aims to understand how life starts. Just…</description>
+      <content:encoded>RT @MPI_Biochem: Get to know the #MPIBDirectors! 🤝
+Today: Kikuë Tachibana
+
+Kikuë Tachibana's group aims to understand how life starts. Just…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1651607078723567620"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 15:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @NatureRevMicro explores the mechanisms likely to be responsible for the rapid evolution of the gut ecosystem, as well as recent work showing evidence for how evolutionarily dynamic the mammalian gut microbiota seems to be. 🔒 
+https://t.co/MDNtNUNSet https://t.co/yH5igFSHiL</title>
+      <link>https://twitter.com/NaturePortfolio/status/1651609418214014979</link>
+      <description>A Review in @NatureRevMicro explores the mechanisms likely to be responsible for the rapid evolution of the gut ecosystem, as well as recent work showing evidence for how evolutionarily dynamic the mammalian gut microbiota seems to be. 🔒 
+https://t.co/MDNtNUNSet https://t.co/yH5igFSHiL</description>
+      <content:encoded>A Review in @NatureRevMicro explores the mechanisms likely to be responsible for the rapid evolution of the gut ecosystem, as well as recent work showing evidence for how evolutionarily dynamic the mammalian gut microbiota seems to be. 🔒 
+https://t.co/MDNtNUNSet https://t.co/yH5igFSHiL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1651609418214014979"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fuux_xFWIAE54Cc.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 15:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>When a seagull will repeatedly stamp its feet in a rhythmic pattern, that is called the rain dance. It mimics the rain by vibration to brings earthworms and other bugs to surface 
+
+[read more: https://t.co/J6UeMY0viO]
+https://t.co/07EQA0WDnH</title>
+      <link>https://twitter.com/Rainmaker1973/status/1651609436857745409</link>
+      <description>When a seagull will repeatedly stamp its feet in a rhythmic pattern, that is called the rain dance. It mimics the rain by vibration to brings earthworms and other bugs to surface 
+
+[read more: https://t.co/J6UeMY0viO]
+https://t.co/07EQA0WDnH</description>
+      <content:encoded>When a seagull will repeatedly stamp its feet in a rhythmic pattern, that is called the rain dance. It mimics the rain by vibration to brings earthworms and other bugs to surface 
+
+[read more: https://t.co/J6UeMY0viO]
+https://t.co/07EQA0WDnH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651609436857745409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1109744351016439808/pu/img/LPYVXA36Po0FlFRf.jpg" length="320" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 15:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>We are now accepting nominations for the Patricia Goldman-Rakic Hall of Honor, a posthumous award recognizing a scientist who pursued career excellence and exhibited dedication to the advancement of #WomenInSTEM. 
+
+Submit your nomination today! https://t.co/V8K957ldv5 https://t.co/2jzRjoxMmp</title>
+      <link>https://twitter.com/SfNtweets/status/1651610427044888578</link>
+      <description>We are now accepting nominations for the Patricia Goldman-Rakic Hall of Honor, a posthumous award recognizing a scientist who pursued career excellence and exhibited dedication to the advancement of #WomenInSTEM. 
+
+Submit your nomination today! https://t.co/V8K957ldv5 https://t.co/2jzRjoxMmp</description>
+      <content:encoded>We are now accepting nominations for the Patricia Goldman-Rakic Hall of Honor, a posthumous award recognizing a scientist who pursued career excellence and exhibited dedication to the advancement of #WomenInSTEM. 
+
+Submit your nomination today! https://t.co/V8K957ldv5 https://t.co/2jzRjoxMmp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1651610427044888578"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fuuy6dzXsAETPc8.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 15:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>📸 of an ovary developing inside a human embryo from Luz Garcia-Alonso + team. They’re working to develop a computational framework to map how reproductive disorders form https://t.co/8Ku5eJBlRm</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1651610730880286721</link>
+      <description>📸 of an ovary developing inside a human embryo from Luz Garcia-Alonso + team. They’re working to develop a computational framework to map how reproductive disorders form https://t.co/8Ku5eJBlRm</description>
+      <content:encoded>📸 of an ovary developing inside a human embryo from Luz Garcia-Alonso + team. They’re working to develop a computational framework to map how reproductive disorders form https://t.co/8Ku5eJBlRm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1651610730880286721"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FuuzNNhXoAEEaE-.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 15:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AndrewYNg: 1/ Thrilled to announce: Our new course ChatGPT Prompt Engineering for Developers, created together with @OpenAI, is availab…</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1651611208179482624</link>
+      <description>RT @AndrewYNg: 1/ Thrilled to announce: Our new course ChatGPT Prompt Engineering for Developers, created together with @OpenAI, is availab…</description>
+      <content:encoded>RT @AndrewYNg: 1/ Thrilled to announce: Our new course ChatGPT Prompt Engineering for Developers, created together with @OpenAI, is availab…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1651611208179482624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 15:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AllysonSgro: Apps due next week! Very excited to hear about what the next generation of theorists thinks are the most interesting probl…</title>
+      <link>https://twitter.com/HHMIJanelia/status/1651612181379665929</link>
+      <description>RT @AllysonSgro: Apps due next week! Very excited to hear about what the next generation of theorists thinks are the most interesting probl…</description>
+      <content:encoded>RT @AllysonSgro: Apps due next week! Very excited to hear about what the next generation of theorists thinks are the most interesting probl…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1651612181379665929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 15:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @zenbrainest: 'Chemogenetic and optogenetic experiments demonstrated that PSTNCR neurons were necessary for initiating and/or maintainin…</title>
+      <link>https://twitter.com/Addgene/status/1651613887492399104</link>
+      <description>RT @zenbrainest: 'Chemogenetic and optogenetic experiments demonstrated that PSTNCR neurons were necessary for initiating and/or maintainin…</description>
+      <content:encoded>RT @zenbrainest: 'Chemogenetic and optogenetic experiments demonstrated that PSTNCR neurons were necessary for initiating and/or maintainin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1651613887492399104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 15:46:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>.@spencelocolab have developed many useful #opensource methods for studying locomotor behavior. Their website is very much worth your time: https://t.co/eH5c8fHVmM. One of these tools is a treadmill with integrated video tracking. Read about it here: https://t.co/Wnkrmcqdzv</title>
+      <link>https://twitter.com/OpenBehavior/status/1651615503058698240</link>
+      <description>.@spencelocolab have developed many useful #opensource methods for studying locomotor behavior. Their website is very much worth your time: https://t.co/eH5c8fHVmM. One of these tools is a treadmill with integrated video tracking. Read about it here: https://t.co/Wnkrmcqdzv</description>
+      <content:encoded>.@spencelocolab have developed many useful #opensource methods for studying locomotor behavior. Their website is very much worth your time: https://t.co/eH5c8fHVmM. One of these tools is a treadmill with integrated video tracking. Read about it here: https://t.co/Wnkrmcqdzv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenBehavior/status/1651615503058698240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 15:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪 We can accomplish anything #HereAtAllen with #TeamScience! Cheering on the spatial transcriptomics team on their quest to 1000 sections imaged! https://t.co/rkZHMnEmNV</title>
+      <link>https://twitter.com/AllenInstitute/status/1651615864456904705</link>
+      <description>💪 We can accomplish anything #HereAtAllen with #TeamScience! Cheering on the spatial transcriptomics team on their quest to 1000 sections imaged! https://t.co/rkZHMnEmNV</description>
+      <content:encoded>💪 We can accomplish anything #HereAtAllen with #TeamScience! Cheering on the spatial transcriptomics team on their quest to 1000 sections imaged! https://t.co/rkZHMnEmNV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1651615864456904705"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 15:54:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>A research team airs the messy truth about AI in medicine — and gives hospitals a guide to fix it https://t.co/lcYE6V2ZC4 via @statnews</title>
+      <link>https://twitter.com/patchurchland/status/1651616217604694017</link>
+      <description>A research team airs the messy truth about AI in medicine — and gives hospitals a guide to fix it https://t.co/lcYE6V2ZC4 via @statnews</description>
+      <content:encoded>A research team airs the messy truth about AI in medicine — and gives hospitals a guide to fix it https://t.co/lcYE6V2ZC4 via @statnews&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1651616217604694017"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 15:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>You may know where your information is going, but do you know where it's been? If you're curious, the AAV retrograde serotype can help you find out! 
+
+https://t.co/5FR2dTkBd8</title>
+      <link>https://twitter.com/Addgene/status/1651617700785926144</link>
+      <description>You may know where your information is going, but do you know where it's been? If you're curious, the AAV retrograde serotype can help you find out! 
+
+https://t.co/5FR2dTkBd8</description>
+      <content:encoded>You may know where your information is going, but do you know where it's been? If you're curious, the AAV retrograde serotype can help you find out! 
+
+https://t.co/5FR2dTkBd8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1651617700785926144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 16:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers 3D print a miniature vacuum pump: The device would be a key component of a portable mass spectrometer that could help monitor pollutants, perform medical diagnoses in remote areas, or test Martian soil. https://t.co/iOdKnCY52u https://t.co/lDhlAN82W3</title>
+      <link>https://twitter.com/MIT/status/1651618538874970112</link>
+      <description>Researchers 3D print a miniature vacuum pump: The device would be a key component of a portable mass spectrometer that could help monitor pollutants, perform medical diagnoses in remote areas, or test Martian soil. https://t.co/iOdKnCY52u https://t.co/lDhlAN82W3</description>
+      <content:encoded>Researchers 3D print a miniature vacuum pump: The device would be a key component of a portable mass spectrometer that could help monitor pollutants, perform medical diagnoses in remote areas, or test Martian soil. https://t.co/iOdKnCY52u https://t.co/lDhlAN82W3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1651618538874970112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fuu6TuOXgAA4XL6.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 16:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Save the dates Oct 24–27 for 3 exciting days of talks &amp;amp; discussions on "The #brain within the #body within the #world: the #neuroscience of the #self" 
+#Abstracts submission until Jul 21 st
+https://t.co/RiB4ZA3DlS
+@ChampalimaudF #Lisbon #Portugal
+#CRSy23 #BrainBodyWorld #hybrid https://t.co/QaKjm3qyeD</title>
+      <link>https://twitter.com/Neuro_CF/status/1651618924499292163</link>
+      <description>Save the dates Oct 24–27 for 3 exciting days of talks &amp;amp; discussions on "The #brain within the #body within the #world: the #neuroscience of the #self" 
+#Abstracts submission until Jul 21 st
+https://t.co/RiB4ZA3DlS
+@ChampalimaudF #Lisbon #Portugal
+#CRSy23 #BrainBodyWorld #hybrid https://t.co/QaKjm3qyeD</description>
+      <content:encoded>Save the dates Oct 24–27 for 3 exciting days of talks &amp;amp; discussions on "The #brain within the #body within the #world: the #neuroscience of the #self" 
+#Abstracts submission until Jul 21 st
+https://t.co/RiB4ZA3DlS
+@ChampalimaudF #Lisbon #Portugal
+#CRSy23 #BrainBodyWorld #hybrid https://t.co/QaKjm3qyeD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1651618924499292163"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1651617499442544641/pu/img/9RskpqdPV9XANeQz.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 16:06:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>With internationally renowned invited #speakers, find out more about #CRSy23 #BrainBodyWorld programme here 👉 https://t.co/Rm8SXAxoWn
+@albinojorgemai @AnissaKempf @danamsmall @RibeiroCarlitos @jan_ache @OlafBlankeLab @DrSFink @GazzolaValeria @zaknight @SPNeurociencias @SPPSM_</title>
+      <link>https://twitter.com/Neuro_CF/status/1651619023564447745</link>
+      <description>With internationally renowned invited #speakers, find out more about #CRSy23 #BrainBodyWorld programme here 👉 https://t.co/Rm8SXAxoWn
+@albinojorgemai @AnissaKempf @danamsmall @RibeiroCarlitos @jan_ache @OlafBlankeLab @DrSFink @GazzolaValeria @zaknight @SPNeurociencias @SPPSM_</description>
+      <content:encoded>With internationally renowned invited #speakers, find out more about #CRSy23 #BrainBodyWorld programme here 👉 https://t.co/Rm8SXAxoWn
+@albinojorgemai @AnissaKempf @danamsmall @RibeiroCarlitos @jan_ache @OlafBlankeLab @DrSFink @GazzolaValeria @zaknight @SPNeurociencias @SPPSM_&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1651619023564447745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 16:07:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>#CRSy23 #BrainBodyWorld
+#science #neuroscience #brain #selfawareness #emotions #behaviour #mind #body #brain #gut #cognitivemaps #stateanalysis #internalstates #electrophysiology #neuroimaging #molecularbiology</title>
+      <link>https://twitter.com/Neuro_CF/status/1651619350351159296</link>
+      <description>#CRSy23 #BrainBodyWorld
+#science #neuroscience #brain #selfawareness #emotions #behaviour #mind #body #brain #gut #cognitivemaps #stateanalysis #internalstates #electrophysiology #neuroimaging #molecularbiology</description>
+      <content:encoded>#CRSy23 #BrainBodyWorld
+#science #neuroscience #brain #selfawareness #emotions #behaviour #mind #body #brain #gut #cognitivemaps #stateanalysis #internalstates #electrophysiology #neuroimaging #molecularbiology&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1651619350351159296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 16:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The sheer beauty of axons and dendrites:
+(via @patchurchland) https://t.co/GZ7Lt0YJ0c</title>
+      <link>https://twitter.com/PessoaBrain/status/1651619528424423426</link>
+      <description>The sheer beauty of axons and dendrites:
+(via @patchurchland) https://t.co/GZ7Lt0YJ0c</description>
+      <content:encoded>The sheer beauty of axons and dendrites:
+(via @patchurchland) https://t.co/GZ7Lt0YJ0c&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651619528424423426"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 16:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @RayBoomhower: "To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful. It is…</title>
+      <link>https://twitter.com/patchurchland/status/1651619549173907456</link>
+      <description>RT @RayBoomhower: "To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful. It is…</description>
+      <content:encoded>RT @RayBoomhower: "To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful. It is…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1651619549173907456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 16:09:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @cusackandrew: Communists are good at hiding that the USSR spent the first third of the war effectively allied to the Nazis.
+
+The 1941 M…</title>
+      <link>https://twitter.com/patchurchland/status/1651619711225044992</link>
+      <description>RT @cusackandrew: Communists are good at hiding that the USSR spent the first third of the war effectively allied to the Nazis.
+
+The 1941 M…</description>
+      <content:encoded>RT @cusackandrew: Communists are good at hiding that the USSR spent the first third of the war effectively allied to the Nazis.
+
+The 1941 M…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1651619711225044992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 16:09:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phasmids' body is often modified to resemble vegetation, with ridges resembling leaf veins, and bark-like tubercles. Check this one camouflaging like a tree's branch
+
+[read more: https://t.co/xosjSFQm50]
+[📹 Deiber Chacón: https://t.co/c3X51pdYUT]
+https://t.co/x4dybXdQ93 https://t.co/ljsCBE2ob1</title>
+      <link>https://twitter.com/Rainmaker1973/status/1651620418619310081</link>
+      <description>Phasmids' body is often modified to resemble vegetation, with ridges resembling leaf veins, and bark-like tubercles. Check this one camouflaging like a tree's branch
+
+[read more: https://t.co/xosjSFQm50]
+[📹 Deiber Chacón: https://t.co/c3X51pdYUT]
+https://t.co/x4dybXdQ93 https://t.co/ljsCBE2ob1</description>
+      <content:encoded>Phasmids' body is often modified to resemble vegetation, with ridges resembling leaf veins, and bark-like tubercles. Check this one camouflaging like a tree's branch
+
+[read more: https://t.co/xosjSFQm50]
+[📹 Deiber Chacón: https://t.co/c3X51pdYUT]
+https://t.co/x4dybXdQ93 https://t.co/ljsCBE2ob1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651620418619310081"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1605085397712703488/pu/img/81Al3lEiXLa2Itf_.jpg" length="960" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 16:12:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tackling an aggressive form of cancer: Geneviève Dupont highlights this work from @Winkler_Lab &amp;amp; others in @SpringerNature that identifies rhythmic, oscillatory calcium signaling as a promoter of tumor growth in #glioblastoma. #BTAM
+
+https://t.co/7nNXKE2HxN https://t.co/skqc2XEKSD</title>
+      <link>https://twitter.com/Facultyopinions/status/1651622238574059521</link>
+      <description>Tackling an aggressive form of cancer: Geneviève Dupont highlights this work from @Winkler_Lab &amp;amp; others in @SpringerNature that identifies rhythmic, oscillatory calcium signaling as a promoter of tumor growth in #glioblastoma. #BTAM
+
+https://t.co/7nNXKE2HxN https://t.co/skqc2XEKSD</description>
+      <content:encoded>Tackling an aggressive form of cancer: Geneviève Dupont highlights this work from @Winkler_Lab &amp;amp; others in @SpringerNature that identifies rhythmic, oscillatory calcium signaling as a promoter of tumor growth in #glioblastoma. #BTAM
+
+https://t.co/7nNXKE2HxN https://t.co/skqc2XEKSD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1651622238574059521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fuu9q_LWAAEoEM9.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 16:20:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
