@@ -6,77 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 01:21:40 +0000</lastBuildDate>
-    <item>
-      <title>RT @AaronCharlton: We're close to figuring out why marketing studies haven't been replicating. 
-Just one letter left to guess. 
-See all of…</title>
-      <link>https://twitter.com/KordingLab/status/1651205382822322176</link>
-      <description>RT @AaronCharlton: We're close to figuring out why marketing studies haven't been replicating. 
-Just one letter left to guess. 
-See all of…</description>
-      <content:encoded>RT @AaronCharlton: We're close to figuring out why marketing studies haven't been replicating. 
-Just one letter left to guess. 
-See all of…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1651205382822322176"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 12:43:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stimulating the amygdala evokes happiness, at least sometimes...
-(via @ajshackman)
-https://t.co/GX6xqG1bK7</title>
-      <link>https://twitter.com/PessoaBrain/status/1651207341537107969</link>
-      <description>Stimulating the amygdala evokes happiness, at least sometimes...
-(via @ajshackman)
-https://t.co/GX6xqG1bK7</description>
-      <content:encoded>Stimulating the amygdala evokes happiness, at least sometimes...
-(via @ajshackman)
-https://t.co/GX6xqG1bK7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651207341537107969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 12:51:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>I got off the the overnight flight from NYC and gave a 2h tutorial half awake.
-Barely more awake than the audience 😅
-
-Brian Ripley told me that Optimal Brain Damage didn't work, and Vladimir Vapnik quoted Brian Ripley's book in his lecture, saying it was "vrong" https://t.co/wkgaZC3bti</title>
-      <link>https://twitter.com/ylecun/status/1651208824882339840</link>
-      <description>I got off the the overnight flight from NYC and gave a 2h tutorial half awake.
-Barely more awake than the audience 😅
-
-Brian Ripley told me that Optimal Brain Damage didn't work, and Vladimir Vapnik quoted Brian Ripley's book in his lecture, saying it was "vrong" https://t.co/wkgaZC3bti</description>
-      <content:encoded>I got off the the overnight flight from NYC and gave a 2h tutorial half awake.
-Barely more awake than the audience 😅
-
-Brian Ripley told me that Optimal Brain Damage didn't work, and Vladimir Vapnik quoted Brian Ripley's book in his lecture, saying it was "vrong" https://t.co/wkgaZC3bti&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1651208824882339840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 12:57:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple system atrophy: at the crossroads of cellular, molecular and genetic mechanisms — a Review by Nadia Stefanova &amp;amp; @gregor_wenning
-
-https://t.co/aSWkDkKoQ0 https://t.co/kvo6LaCmzn</title>
-      <link>https://twitter.com/NatRevNeurosci/status/1651209516673802242</link>
-      <description>Multiple system atrophy: at the crossroads of cellular, molecular and genetic mechanisms — a Review by Nadia Stefanova &amp;amp; @gregor_wenning
-
-https://t.co/aSWkDkKoQ0 https://t.co/kvo6LaCmzn</description>
-      <content:encoded>Multiple system atrophy: at the crossroads of cellular, molecular and genetic mechanisms — a Review by Nadia Stefanova &amp;amp; @gregor_wenning
-
-https://t.co/aSWkDkKoQ0 https://t.co/kvo6LaCmzn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatRevNeurosci/status/1651209516673802242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FuQF5PFWcAEk-Qk.png" length="685" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 13:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>@madhuramukho Next up is TRUST4, an excellent computational tool for reconstructing TCR and BCR repertoires using bulk and scRNAseq data developed by @XShirleyLiu and colleagues https://t.co/dyCTvhwn8e</title>
-      <link>https://twitter.com/naturemethods/status/1651209517835730944</link>
-      <description>@madhuramukho Next up is TRUST4, an excellent computational tool for reconstructing TCR and BCR repertoires using bulk and scRNAseq data developed by @XShirleyLiu and colleagues https://t.co/dyCTvhwn8e</description>
-      <content:encoded>@madhuramukho Next up is TRUST4, an excellent computational tool for reconstructing TCR and BCR repertoires using bulk and scRNAseq data developed by @XShirleyLiu and colleagues https://t.co/dyCTvhwn8e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1651209517835730944"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 13:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jackclarkSF: I'm at the National AI Advisory Committee annual meeting today and I just did some napkin sums: the new UK AI taskforce (£…</title>
-      <link>https://twitter.com/KordingLab/status/1651210076475064320</link>
-      <description>RT @jackclarkSF: I'm at the National AI Advisory Committee annual meeting today and I just did some napkin sums: the new UK AI taskforce (£…</description>
-      <content:encoded>RT @jackclarkSF: I'm at the National AI Advisory Committee annual meeting today and I just did some napkin sums: the new UK AI taskforce (£…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1651210076475064320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 13:02:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Apr 2023 02:34:06 +0000</lastBuildDate>
     <item>
       <title>RT @EUScienceInnov: And... We are LIVE again! 🔴
 
@@ -2064,6 +1994,63 @@ Glaucoma is a progressive neurodegenerative disease associated with age. Accumul
       <description>New Research: Editorial: How can neuroscience help to turn the tide of the climate crisis? https://t.co/YDgCMnwSgq #neuroscience</description>
       <content:encoded>New Research: Editorial: How can neuroscience help to turn the tide of the climate crisis? https://t.co/YDgCMnwSgq #neuroscience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1651394617466814464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 27 Apr 2023 01:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Areas set aside for #conservation within private lands could play a valuable role in protecting the #biodiversity of the Brazilian Cerrado, according to a new Science study. 
+
+Learn more ⬇️
+📄: https://t.co/Um1iCNtqH0
+#SciencePerspective: https://t.co/lYeagIlhEx https://t.co/4zydmX6Q9A</title>
+      <link>https://twitter.com/ScienceMagazine/status/1651398282910875654</link>
+      <description>Areas set aside for #conservation within private lands could play a valuable role in protecting the #biodiversity of the Brazilian Cerrado, according to a new Science study. 
+
+Learn more ⬇️
+📄: https://t.co/Um1iCNtqH0
+#SciencePerspective: https://t.co/lYeagIlhEx https://t.co/4zydmX6Q9A</description>
+      <content:encoded>Areas set aside for #conservation within private lands could play a valuable role in protecting the #biodiversity of the Brazilian Cerrado, according to a new Science study. 
+
+Learn more ⬇️
+📄: https://t.co/Um1iCNtqH0
+#SciencePerspective: https://t.co/lYeagIlhEx https://t.co/4zydmX6Q9A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651398282910875654"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Furx_FwWIAMYpkU.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 27 Apr 2023 01:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk Also, there way more insects than humans by weight, and by number of neurons:
+- 1E19 insects at 1E5 neurons per insect = 1E24 insect neurons.
+- 1E10 humans at 1E11 neurons per human = 1E21 human neurons.
+Insects "outsmart" us by a factor of 1000. But I'm not particularly worried.</title>
+      <link>https://twitter.com/ylecun/status/1651403241308192770</link>
+      <description>@elonmusk Also, there way more insects than humans by weight, and by number of neurons:
+- 1E19 insects at 1E5 neurons per insect = 1E24 insect neurons.
+- 1E10 humans at 1E11 neurons per human = 1E21 human neurons.
+Insects "outsmart" us by a factor of 1000. But I'm not particularly worried.</description>
+      <content:encoded>@elonmusk Also, there way more insects than humans by weight, and by number of neurons:
+- 1E19 insects at 1E5 neurons per insect = 1E24 insect neurons.
+- 1E10 humans at 1E11 neurons per human = 1E21 human neurons.
+Insects "outsmart" us by a factor of 1000. But I'm not particularly worried.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1651403241308192770"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 01:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @simplyneurosci: Dr. Mohamed Abdelhack (@mabdelhack) is a computational neuroscientist at @CAMH_KCNI  interested in the intersection of…</title>
+      <link>https://twitter.com/wake_sleep/status/1651403640148574208</link>
+      <description>RT @simplyneurosci: Dr. Mohamed Abdelhack (@mabdelhack) is a computational neuroscientist at @CAMH_KCNI  interested in the intersection of…</description>
+      <content:encoded>RT @simplyneurosci: Dr. Mohamed Abdelhack (@mabdelhack) is a computational neuroscientist at @CAMH_KCNI  interested in the intersection of…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1651403640148574208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 01:51:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: Multi-limbed membrane guanylate cyclase cellular signaling pathways https://t.co/pzMyvCIhTn #Molecular #Neuroscience</title>
+      <link>https://twitter.com/FrontNeurosci/status/1651407703036821504</link>
+      <description>New Research: Editorial: Multi-limbed membrane guanylate cyclase cellular signaling pathways https://t.co/pzMyvCIhTn #Molecular #Neuroscience</description>
+      <content:encoded>New Research: Editorial: Multi-limbed membrane guanylate cyclase cellular signaling pathways https://t.co/pzMyvCIhTn #Molecular #Neuroscience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1651407703036821504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 02:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Such great strength😂 https://t.co/wyTEfGKjiR</title>
+      <link>https://twitter.com/HenryYin19/status/1651412577295925252</link>
+      <description>Such great strength😂 https://t.co/wyTEfGKjiR</description>
+      <content:encoded>Such great strength😂 https://t.co/wyTEfGKjiR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HenryYin19/status/1651412577295925252"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 02:26:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
