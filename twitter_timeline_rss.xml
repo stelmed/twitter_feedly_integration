@@ -6,34 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 03:17:32 +0000</lastBuildDate>
-    <item>
-      <title>Here is a scientific obituary written by Larry's friends and family @BiophysicalSoc @SfNtweets https://t.co/tJabeFNnUP https://t.co/xz4GaEQfiQ</title>
-      <link>https://twitter.com/lesloew/status/1651211831527223297</link>
-      <description>Here is a scientific obituary written by Larry's friends and family @BiophysicalSoc @SfNtweets https://t.co/tJabeFNnUP https://t.co/xz4GaEQfiQ</description>
-      <content:encoded>Here is a scientific obituary written by Larry's friends and family @BiophysicalSoc @SfNtweets https://t.co/tJabeFNnUP https://t.co/xz4GaEQfiQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/lesloew/status/1651211831527223297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FupEBzLacAYNX58.png" length="953" type="photo"/>
-      <pubDate>Wed, 26 Apr 2023 13:09:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>A a comprehensive developmental cell atlas of the spinal cord during post-conceptional weeks 5-12; intergration with pediatric ependymoma data identified molecular signatures of cancer stem cells
-
-Dr. Li @xiaofei0825 and our university @karolinskainst 
-
-https://t.co/nw4GQUJUWg</title>
-      <link>https://twitter.com/NatureNeuro/status/1651213286983999488</link>
-      <description>A a comprehensive developmental cell atlas of the spinal cord during post-conceptional weeks 5-12; intergration with pediatric ependymoma data identified molecular signatures of cancer stem cells
-
-Dr. Li @xiaofei0825 and our university @karolinskainst 
-
-https://t.co/nw4GQUJUWg</description>
-      <content:encoded>A a comprehensive developmental cell atlas of the spinal cord during post-conceptional weeks 5-12; intergration with pediatric ependymoma data identified molecular signatures of cancer stem cells
-
-Dr. Li @xiaofei0825 and our university @karolinskainst 
-
-https://t.co/nw4GQUJUWg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1651213286983999488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 26 Apr 2023 13:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Apr 2023 04:19:29 +0000</lastBuildDate>
     <item>
       <title>Brain network flexibility as a predictor of skilled musical performance  https://t.co/0xlAOkHnGt #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1651213419519811587</link>
@@ -2040,6 +2013,20 @@ Insects "outsmart" us by a factor of 1000. But I'm not particularly worried.&lt;
       <content:encoded>An experimental antiviral drug can both prevent and treat infections in mice exposed to Venezuelan and eastern equine encephalitis viruses, two life-threatening pathogens that infect the brain. https://t.co/1uGdSUrEVu @ScienceTM https://t.co/BqpuxUPb8v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651420930302779392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FusGlaUWAAMtDjY.jpg" length="511" type="photo"/>
       <pubDate>Thu, 27 Apr 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dennett book review: Essay: Brains wide shut? https://t.co/rJlt9i8MLe</title>
+      <link>https://twitter.com/patchurchland/status/1651433869747560448</link>
+      <description>Dennett book review: Essay: Brains wide shut? https://t.co/rJlt9i8MLe</description>
+      <content:encoded>Dennett book review: Essay: Brains wide shut? https://t.co/rJlt9i8MLe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1651433869747560448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 03:51:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @GoardMichael: Very glad Andy will be joining us at UCSB! For future grad students and postdocs interested in spatial cognition and memo…</title>
+      <link>https://twitter.com/Labrigger/status/1651434089923354625</link>
+      <description>RT @GoardMichael: Very glad Andy will be joining us at UCSB! For future grad students and postdocs interested in spatial cognition and memo…</description>
+      <content:encoded>RT @GoardMichael: Very glad Andy will be joining us at UCSB! For future grad students and postdocs interested in spatial cognition and memo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Labrigger/status/1651434089923354625"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 27 Apr 2023 03:52:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
