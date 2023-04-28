@@ -6,195 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 22:14:45 +0000</lastBuildDate>
-    <item>
-      <title>Born 94 years ago #Today, Eugene Shoemaker is one of the founders of the field of planetary science. Co-discoverer of the comet Shoemaker–Levy 9, Shoemaker is the only person whose ashes have been buried on any celestial body outside Earth https://t.co/pDE7ECmOVG https://t.co/EI7AUVuSST</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651877888336052225</link>
-      <description>Born 94 years ago #Today, Eugene Shoemaker is one of the founders of the field of planetary science. Co-discoverer of the comet Shoemaker–Levy 9, Shoemaker is the only person whose ashes have been buried on any celestial body outside Earth https://t.co/pDE7ECmOVG https://t.co/EI7AUVuSST</description>
-      <content:encoded>Born 94 years ago #Today, Eugene Shoemaker is one of the founders of the field of planetary science. Co-discoverer of the comet Shoemaker–Levy 9, Shoemaker is the only person whose ashes have been buried on any celestial body outside Earth https://t.co/pDE7ECmOVG https://t.co/EI7AUVuSST&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651877888336052225"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FuymKFYWcAEaf9_.jpg" length="678" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 09:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome to attend the workshop: Plotting and programming with Python!
-
-The aim of the workshop is to teach you how to get your work done in less time and with less pain by using basic computer skills for research.
-
-More information and registration: https://t.co/GeT9y1usQ7 https://t.co/aaBnOAnRFp</title>
-      <link>https://twitter.com/kibiblioteket/status/1651878337768194054</link>
-      <description>Welcome to attend the workshop: Plotting and programming with Python!
-
-The aim of the workshop is to teach you how to get your work done in less time and with less pain by using basic computer skills for research.
-
-More information and registration: https://t.co/GeT9y1usQ7 https://t.co/aaBnOAnRFp</description>
-      <content:encoded>Welcome to attend the workshop: Plotting and programming with Python!
-
-The aim of the workshop is to teach you how to get your work done in less time and with less pain by using basic computer skills for research.
-
-More information and registration: https://t.co/GeT9y1usQ7 https://t.co/aaBnOAnRFp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kibiblioteket/status/1651878337768194054"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FuykyUlWcAALdod.png" length="803" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 09:17:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arvsmassa från 240 däggdjur förklarar sjukdomsrisker hos människor. Resultat från ett omfattande internationellt forskningsprojekt som letts av @uppsalauni  i samarbete med Broad Institute #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 https://t.co/iwmswS74Pf https://t.co/qksUZIn3pc https://t.co/vyYWKDb67S</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1651878461206609922</link>
-      <description>Arvsmassa från 240 däggdjur förklarar sjukdomsrisker hos människor. Resultat från ett omfattande internationellt forskningsprojekt som letts av @uppsalauni  i samarbete med Broad Institute #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 https://t.co/iwmswS74Pf https://t.co/qksUZIn3pc https://t.co/vyYWKDb67S</description>
-      <content:encoded>Arvsmassa från 240 däggdjur förklarar sjukdomsrisker hos människor. Resultat från ett omfattande internationellt forskningsprojekt som letts av @uppsalauni  i samarbete med Broad Institute #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 https://t.co/iwmswS74Pf https://t.co/qksUZIn3pc https://t.co/vyYWKDb67S&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1651878461206609922"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fuymnc3WIAASrtl.png" length="393" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 09:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Länk till Science: https://t.co/amJdzZ0ggS</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1651878463735750658</link>
-      <description>Länk till Science: https://t.co/amJdzZ0ggS</description>
-      <content:encoded>Länk till Science: https://t.co/amJdzZ0ggS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1651878463735750658"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 09:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Världens första transistor gjord av trä är utvecklad av forskare @liu_universitet och @KTHuniversity banar väg för utveckling av träbaserad elektronik och styrning av elektroniska växter #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 https://t.co/2IEPvGVBi8</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1651880035236605952</link>
-      <description>Världens första transistor gjord av trä är utvecklad av forskare @liu_universitet och @KTHuniversity banar väg för utveckling av träbaserad elektronik och styrning av elektroniska växter #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 https://t.co/2IEPvGVBi8</description>
-      <content:encoded>Världens första transistor gjord av trä är utvecklad av forskare @liu_universitet och @KTHuniversity banar väg för utveckling av träbaserad elektronik och styrning av elektroniska växter #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 https://t.co/2IEPvGVBi8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1651880035236605952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 09:24:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The world’s first wood transistor has been developed @liu_universitet and @KTHuniversity – paves the way for further development of wood-based #electronics and control of electronic plants #Research supported by Knut and Alice Wallenberg Foundation #KAW100
-https://t.co/hDYPhbA9Pw</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1651881494745317376</link>
-      <description>The world’s first wood transistor has been developed @liu_universitet and @KTHuniversity – paves the way for further development of wood-based #electronics and control of electronic plants #Research supported by Knut and Alice Wallenberg Foundation #KAW100
-https://t.co/hDYPhbA9Pw</description>
-      <content:encoded>The world’s first wood transistor has been developed @liu_universitet and @KTHuniversity – paves the way for further development of wood-based #electronics and control of electronic plants #Research supported by Knut and Alice Wallenberg Foundation #KAW100
-https://t.co/hDYPhbA9Pw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1651881494745317376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 09:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @KatarzynaRetzer: two new recommendations from me @Facultyopinions 
-#directionalrootgrowth
-#roots
-#PIN2
-#drootsystem
-#plantsci
-https://t…</title>
-      <link>https://twitter.com/Facultyopinions/status/1651882123219828741</link>
-      <description>RT @KatarzynaRetzer: two new recommendations from me @Facultyopinions 
-#directionalrootgrowth
-#roots
-#PIN2
-#drootsystem
-#plantsci
-https://t…</description>
-      <content:encoded>RT @KatarzynaRetzer: two new recommendations from me @Facultyopinions 
-#directionalrootgrowth
-#roots
-#PIN2
-#drootsystem
-#plantsci
-https://t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1651882123219828741"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 09:32:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>76 years ago #Today, a balsa-wood raft, #KonTiki, left Peru bound for Polynesia, led by Norwegian explorer and writer Thor Heyerdahl. It reached its destination 101 days later 
-
-[read more: https://t.co/MumYauSmzx]
-https://t.co/d0ltJRdM5u</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651884251451670528</link>
-      <description>76 years ago #Today, a balsa-wood raft, #KonTiki, left Peru bound for Polynesia, led by Norwegian explorer and writer Thor Heyerdahl. It reached its destination 101 days later 
-
-[read more: https://t.co/MumYauSmzx]
-https://t.co/d0ltJRdM5u</description>
-      <content:encoded>76 years ago #Today, a balsa-wood raft, #KonTiki, left Peru bound for Polynesia, led by Norwegian explorer and writer Thor Heyerdahl. It reached its destination 101 days later 
-
-[read more: https://t.co/MumYauSmzx]
-https://t.co/d0ltJRdM5u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651884251451670528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1519717737311973383/pu/img/xUOeR_KKkIAQdHq2.jpg" length="550" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 09:41:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>A simple visual proof of Pythagoras' theorem by rearrangement of four identical right triangles: a² + b² and c² can be shown to be the same 
-
-[source, John Blackburne: https://t.co/KRXfRivvhK] https://t.co/kfv7QkWS5e</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651885767801577473</link>
-      <description>A simple visual proof of Pythagoras' theorem by rearrangement of four identical right triangles: a² + b² and c² can be shown to be the same 
-
-[source, John Blackburne: https://t.co/KRXfRivvhK] https://t.co/kfv7QkWS5e</description>
-      <content:encoded>A simple visual proof of Pythagoras' theorem by rearrangement of four identical right triangles: a² + b² and c² can be shown to be the same 
-
-[source, John Blackburne: https://t.co/KRXfRivvhK] https://t.co/kfv7QkWS5e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651885767801577473"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FuytQ85XsAEaG19.jpg" length="200" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 09:47:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Check out this simulation in Simscape while tracking minimum-jerk trajectories! 🤖 😮 
-
-Creating a Digital Twin of the iCub Humanoid Robot's Head ➡️ https://t.co/4boPG7UvwY https://t.co/r0wKisCqwM</title>
-      <link>https://twitter.com/MATLAB/status/1651889016428527619</link>
-      <description>Check out this simulation in Simscape while tracking minimum-jerk trajectories! 🤖 😮 
-
-Creating a Digital Twin of the iCub Humanoid Robot's Head ➡️ https://t.co/4boPG7UvwY https://t.co/r0wKisCqwM</description>
-      <content:encoded>Check out this simulation in Simscape while tracking minimum-jerk trajectories! 🤖 😮 
-
-Creating a Digital Twin of the iCub Humanoid Robot's Head ➡️ https://t.co/4boPG7UvwY https://t.co/r0wKisCqwM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1651889016428527619"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1651888993745743874/pu/img/a42wyM2AHWxBuKMh.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 10:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>✨Opportunity to publish in a Research Topic!✨
-
-💤An exciting Special Issue hosted by Dr. Marie-Pierre St-Onge on the latest advancements in research across the field of sleep.
-
-👉Get involved: https://t.co/RLodkhSAU8 https://t.co/xu46Yz78NF</title>
-      <link>https://twitter.com/FrontNeurosci/status/1651890110672039937</link>
-      <description>✨Opportunity to publish in a Research Topic!✨
-
-💤An exciting Special Issue hosted by Dr. Marie-Pierre St-Onge on the latest advancements in research across the field of sleep.
-
-👉Get involved: https://t.co/RLodkhSAU8 https://t.co/xu46Yz78NF</description>
-      <content:encoded>✨Opportunity to publish in a Research Topic!✨
-
-💤An exciting Special Issue hosted by Dr. Marie-Pierre St-Onge on the latest advancements in research across the field of sleep.
-
-👉Get involved: https://t.co/RLodkhSAU8 https://t.co/xu46Yz78NF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1651890110672039937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FuyvkbFXwAEHqR1.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 10:04:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>TOI-178 is a K-class (orange dwarf) star located 205 light years away in the constellation of Sculptor. It has six exoplanets, five of which are locked in a rare rhythm around their sun: a 18:9:6:4:3 chain of resonance [read more: https://t.co/slikKl4Sj3]
-https://t.co/BtI852MVJX</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651890536750489601</link>
-      <description>TOI-178 is a K-class (orange dwarf) star located 205 light years away in the constellation of Sculptor. It has six exoplanets, five of which are locked in a rare rhythm around their sun: a 18:9:6:4:3 chain of resonance [read more: https://t.co/slikKl4Sj3]
-https://t.co/BtI852MVJX</description>
-      <content:encoded>TOI-178 is a K-class (orange dwarf) star located 205 light years away in the constellation of Sculptor. It has six exoplanets, five of which are locked in a rare rhythm around their sun: a 18:9:6:4:3 chain of resonance [read more: https://t.co/slikKl4Sj3]
-https://t.co/BtI852MVJX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651890536750489601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1530957906555949058/pu/img/PACinRPonH8qpAgd.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 10:06:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @INSB_CNRS: #AppelACandidatures 📢 | Programme de recherche de la Fondation pour la recherche médicale - Equipes FRM 2024 
-
-🤝 @frm_offici…</title>
-      <link>https://twitter.com/aquineuro/status/1651891316605739008</link>
-      <description>RT @INSB_CNRS: #AppelACandidatures 📢 | Programme de recherche de la Fondation pour la recherche médicale - Equipes FRM 2024 
-
-🤝 @frm_offici…</description>
-      <content:encoded>RT @INSB_CNRS: #AppelACandidatures 📢 | Programme de recherche de la Fondation pour la recherche médicale - Equipes FRM 2024 
-
-🤝 @frm_offici…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/aquineuro/status/1651891316605739008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 10:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>A virtual test to design a step in the process of making computer chips reveals that input from engineers can make AI-led design cost effective, but only when the timing is right.  https://t.co/nR5X2Y7YrL</title>
-      <link>https://twitter.com/NatureNV/status/1651892224257392642</link>
-      <description>A virtual test to design a step in the process of making computer chips reveals that input from engineers can make AI-led design cost effective, but only when the timing is right.  https://t.co/nR5X2Y7YrL</description>
-      <content:encoded>A virtual test to design a step in the process of making computer chips reveals that input from engineers can make AI-led design cost effective, but only when the timing is right.  https://t.co/nR5X2Y7YrL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1651892224257392642"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 10:12:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ml4science: Only few days left to apply for a research fellow position in our #Ethics and #Philosophy Lab: https://t.co/C84m7rqXkW</title>
-      <link>https://twitter.com/CellTypist/status/1651892403937132551</link>
-      <description>RT @ml4science: Only few days left to apply for a research fellow position in our #Ethics and #Philosophy Lab: https://t.co/C84m7rqXkW</description>
-      <content:encoded>RT @ml4science: Only few days left to apply for a research fellow position in our #Ethics and #Philosophy Lab: https://t.co/C84m7rqXkW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1651892403937132551"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 10:13:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Apr 2023 23:15:55 +0000</lastBuildDate>
     <item>
       <title>Japan's Hakuto-R lander may have crashed on the Moon, but the spacecraft still sent back valuable images, like this glorious photo of Earth during a total solar eclipse
 
@@ -1104,13 +916,6 @@ Blumberg N: Faculty Opini…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="
       <pubDate>Fri, 28 Apr 2023 15:57:15 +0000</pubDate>
     </item>
     <item>
-      <title>RT @LindaBGoodman: Thrilled to have contributed to @ZoonomiaProject special issue out now in @ScienceMagazine! Colossal mammal genome align…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1651979396599750656</link>
-      <description>RT @LindaBGoodman: Thrilled to have contributed to @ZoonomiaProject special issue out now in @ScienceMagazine! Colossal mammal genome align…</description>
-      <content:encoded>RT @LindaBGoodman: Thrilled to have contributed to @ZoonomiaProject special issue out now in @ScienceMagazine! Colossal mammal genome align…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651979396599750656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 15:59:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Large language model developers will have to pay for access to text data from Reddit and Stack Overflow.
 
 Learn more in #TheBatch: https://t.co/zlSUURsohI</title>
@@ -1905,16 +1710,6 @@ thank you to all my colleagues, friends, s…&lt;blockquote class="twitter-tweet
       <pubDate>Fri, 28 Apr 2023 21:37:03 +0000</pubDate>
     </item>
     <item>
-      <title>RT @KltLab: Special issue of Science https://t.co/5J5GChP4Jb
-  - 11 papers from the @ZoonomiaProject comparing the genomes of 240 mammals.…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1652064532833923073</link>
-      <description>RT @KltLab: Special issue of Science https://t.co/5J5GChP4Jb
-  - 11 papers from the @ZoonomiaProject comparing the genomes of 240 mammals.…</description>
-      <content:encoded>RT @KltLab: Special issue of Science https://t.co/5J5GChP4Jb
-  - 11 papers from the @ZoonomiaProject comparing the genomes of 240 mammals.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1652064532833923073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 21:37:33 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @DrTomFroese: Save the dates! We will be hosting the second International Conference on Embodied Cognitive Science (ECogS 2023) this Nov…</title>
       <link>https://twitter.com/PessoaBrain/status/1652067881574645761</link>
       <description>RT @DrTomFroese: Save the dates! We will be hosting the second International Conference on Embodied Cognitive Science (ECogS 2023) this Nov…</description>
@@ -1960,6 +1755,132 @@ https://t.co/N7s9rF4bOM</description>
 
 https://t.co/N7s9rF4bOM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1652070187364147202"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 28 Apr 2023 22:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveraging the power of 3D brain-wide imaging and mapping tools for brain injury research in murine models  https://t.co/itcbJTJwBj #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1652074040243175425</link>
+      <description>Leveraging the power of 3D brain-wide imaging and mapping tools for brain injury research in murine models  https://t.co/itcbJTJwBj #biorxiv_neursci</description>
+      <content:encoded>Leveraging the power of 3D brain-wide imaging and mapping tools for brain injury research in murine models  https://t.co/itcbJTJwBj #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652074040243175425"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dorsal peduncular cortex activity modulates affective behaviors in mice  https://t.co/LRn5brPPvk #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1652074120148926465</link>
+      <description>Dorsal peduncular cortex activity modulates affective behaviors in mice  https://t.co/LRn5brPPvk #biorxiv_neursci</description>
+      <content:encoded>Dorsal peduncular cortex activity modulates affective behaviors in mice  https://t.co/LRn5brPPvk #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652074120148926465"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unlocking the Secrets of the Primate Visual Cortex: A CNN-Based Approach Traces the Origins of Major Organizational Principles to ...  https://t.co/WpmUcRTkfC #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1652074205544947713</link>
+      <description>Unlocking the Secrets of the Primate Visual Cortex: A CNN-Based Approach Traces the Origins of Major Organizational Principles to ...  https://t.co/WpmUcRTkfC #biorxiv_neursci</description>
+      <content:encoded>Unlocking the Secrets of the Primate Visual Cortex: A CNN-Based Approach Traces the Origins of Major Organizational Principles to ...  https://t.co/WpmUcRTkfC #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652074205544947713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>A neural model of modified excitation/inhibition and feedback levels in schizophrenia  https://t.co/VQrFA3iIFc #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1652074296934531072</link>
+      <description>A neural model of modified excitation/inhibition and feedback levels in schizophrenia  https://t.co/VQrFA3iIFc #biorxiv_neursci</description>
+      <content:encoded>A neural model of modified excitation/inhibition and feedback levels in schizophrenia  https://t.co/VQrFA3iIFc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652074296934531072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leakage beyond the primary infarction: A temporal analysis of cerebrovascular dysregulation at sites of hippocampal secondary ...  https://t.co/tniPE0FPjr #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1652074421123796997</link>
+      <description>Leakage beyond the primary infarction: A temporal analysis of cerebrovascular dysregulation at sites of hippocampal secondary ...  https://t.co/tniPE0FPjr #biorxiv_neursci</description>
+      <content:encoded>Leakage beyond the primary infarction: A temporal analysis of cerebrovascular dysregulation at sites of hippocampal secondary ...  https://t.co/tniPE0FPjr #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652074421123796997"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Common Cause for Nystagmus in Different Congenital Stationary Night Blindness Mouse Models  https://t.co/oQsm9SWFFR #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1652074518876246021</link>
+      <description>A Common Cause for Nystagmus in Different Congenital Stationary Night Blindness Mouse Models  https://t.co/oQsm9SWFFR #biorxiv_neursci</description>
+      <content:encoded>A Common Cause for Nystagmus in Different Congenital Stationary Night Blindness Mouse Models  https://t.co/oQsm9SWFFR #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652074518876246021"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>On @billmaher show tonight</title>
+      <link>https://twitter.com/elonmusk/status/1652077563651698689</link>
+      <description>On @billmaher show tonight</description>
+      <content:encoded>On @billmaher show tonight&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652077563651698689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>About to do Falcon Heavy risk review. I love that rocket, but it’s scary. So many state changes post liftoff.</title>
+      <link>https://twitter.com/elonmusk/status/1652077855977897985</link>
+      <description>About to do Falcon Heavy risk review. I love that rocket, but it’s scary. So many state changes post liftoff.</description>
+      <content:encoded>About to do Falcon Heavy risk review. I love that rocket, but it’s scary. So many state changes post liftoff.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652077855977897985"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mengyer: Check out our ICML workshop on Localized Learning! We have an amazing line of speakers: @geoffreyhinton, @irinarish, Edouard O…</title>
+      <link>https://twitter.com/neurograce/status/1652080387324092416</link>
+      <description>RT @mengyer: Check out our ICML workshop on Localized Learning! We have an amazing line of speakers: @geoffreyhinton, @irinarish, Edouard O…</description>
+      <content:encoded>RT @mengyer: Check out our ICML workshop on Localized Learning! We have an amazing line of speakers: @geoffreyhinton, @irinarish, Edouard O…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1652080387324092416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Ginseng intake and Alzheimer disease-specific cognition in older adults according to apolipoprotein… #ageing #neuroscience https://t.co/R5l9VJUHcV</title>
+      <link>https://twitter.com/FrontNeurosci/status/1652080637740978176</link>
+      <description>New Research: Ginseng intake and Alzheimer disease-specific cognition in older adults according to apolipoprotein… #ageing #neuroscience https://t.co/R5l9VJUHcV</description>
+      <content:encoded>New Research: Ginseng intake and Alzheimer disease-specific cognition in older adults according to apolipoprotein… #ageing #neuroscience https://t.co/R5l9VJUHcV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1652080637740978176"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:41:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copper catalyses changes in cell state https://t.co/4qMrnm4MV4</title>
+      <link>https://twitter.com/NatureNV/status/1652082510438846468</link>
+      <description>Copper catalyses changes in cell state https://t.co/4qMrnm4MV4</description>
+      <content:encoded>Copper catalyses changes in cell state https://t.co/4qMrnm4MV4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1652082510438846468"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:48:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>DARPA was honored to host H.E. Yoon Suk Yeol, President of the Republic of Korea Thursday as part of the larger state visit honoring 70 years of the U.S.-South Korea alliance. President Yoon met with DARPA Director Stefanie Tompkins to discuss the agency’s role in innovation. https://t.co/1E5vdKtAdL</title>
+      <link>https://twitter.com/DARPA/status/1652083975605592064</link>
+      <description>DARPA was honored to host H.E. Yoon Suk Yeol, President of the Republic of Korea Thursday as part of the larger state visit honoring 70 years of the U.S.-South Korea alliance. President Yoon met with DARPA Director Stefanie Tompkins to discuss the agency’s role in innovation. https://t.co/1E5vdKtAdL</description>
+      <content:encoded>DARPA was honored to host H.E. Yoon Suk Yeol, President of the Republic of Korea Thursday as part of the larger state visit honoring 70 years of the U.S.-South Korea alliance. President Yoon met with DARPA Director Stefanie Tompkins to discuss the agency’s role in innovation. https://t.co/1E5vdKtAdL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1652083975605592064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu1hchVXgAEIwLW.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 28 Apr 2023 22:54:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Falcon Heavy is green for launch</title>
+      <link>https://twitter.com/elonmusk/status/1652084222176428032</link>
+      <description>Falcon Heavy is green for launch</description>
+      <content:encoded>Falcon Heavy is green for launch&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652084222176428032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 22:55:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sometimes you have the perfect antibody...but it was made in the wrong species. Never fear - chimeric antibodies are here! 
+
+https://t.co/GfoxnVV6x0</title>
+      <link>https://twitter.com/Addgene/status/1652086287522775044</link>
+      <description>Sometimes you have the perfect antibody...but it was made in the wrong species. Never fear - chimeric antibodies are here! 
+
+https://t.co/GfoxnVV6x0</description>
+      <content:encoded>Sometimes you have the perfect antibody...but it was made in the wrong species. Never fear - chimeric antibodies are here! 
+
+https://t.co/GfoxnVV6x0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1652086287522775044"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 23:03:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @boazbaraktcs: 1/5 In our post https://t.co/Lbxyc9e942, Aaronson and I discuss potential scenarios for AI. In particular we say that for…</title>
+      <link>https://twitter.com/ylecun/status/1652088433500901377</link>
+      <description>RT @boazbaraktcs: 1/5 In our post https://t.co/Lbxyc9e942, Aaronson and I discuss potential scenarios for AI. In particular we say that for…</description>
+      <content:encoded>RT @boazbaraktcs: 1/5 In our post https://t.co/Lbxyc9e942, Aaronson and I discuss potential scenarios for AI. In particular we say that for…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652088433500901377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 23:12:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @gabrielpeyre: Iterative projections: converge in theory for convex sets. Works great in practice for non-convex sets. https://t.co/VA6Y…</title>
+      <link>https://twitter.com/ylecun/status/1652088665391374340</link>
+      <description>RT @gabrielpeyre: Iterative projections: converge in theory for convex sets. Works great in practice for non-convex sets. https://t.co/VA6Y…</description>
+      <content:encoded>RT @gabrielpeyre: Iterative projections: converge in theory for convex sets. Works great in practice for non-convex sets. https://t.co/VA6Y…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652088665391374340"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 23:13:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling, and cloud-native open-source tools  https://t.co/wRMRRivtnd #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1652089212114464768</link>
+      <description>Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling, and cloud-native open-source tools  https://t.co/wRMRRivtnd #biorxiv_neursci</description>
+      <content:encoded>Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling, and cloud-native open-source tools  https://t.co/wRMRRivtnd #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652089212114464768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 23:15:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
