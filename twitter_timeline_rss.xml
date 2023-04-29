@@ -6,66 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 11:12:34 +0000</lastBuildDate>
-    <item>
-      <title>RT @AizenmanLab: Some neuro art for today. A bit too busy? https://t.co/H6dNeMM3em</title>
-      <link>https://twitter.com/PessoaBrain/status/1651987395892457476</link>
-      <description>RT @AizenmanLab: Some neuro art for today. A bit too busy? https://t.co/H6dNeMM3em</description>
-      <content:encoded>RT @AizenmanLab: Some neuro art for today. A bit too busy? https://t.co/H6dNeMM3em&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651987395892457476"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu0F2sDWYAIb_Fs.jpg" length="800" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 16:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>In a @NatRevPhys Viewpoint article, four experts discuss potential risks with large language models and call for careful consideration and responsible usage to ensure that good scientific practices and trust in science are not compromised. https://t.co/LvVzo58AUp https://t.co/SKVsX3bytZ</title>
-      <link>https://twitter.com/NaturePortfolio/status/1651987912345497608</link>
-      <description>In a @NatRevPhys Viewpoint article, four experts discuss potential risks with large language models and call for careful consideration and responsible usage to ensure that good scientific practices and trust in science are not compromised. https://t.co/LvVzo58AUp https://t.co/SKVsX3bytZ</description>
-      <content:encoded>In a @NatRevPhys Viewpoint article, four experts discuss potential risks with large language models and call for careful consideration and responsible usage to ensure that good scientific practices and trust in science are not compromised. https://t.co/LvVzo58AUp https://t.co/SKVsX3bytZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1651987912345497608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu0KPBeWYAIp6bo.jpg" length="1066" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 16:33:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AziziShekoofeh: We're thrilled to announce REMEDIS, a unified self-supervised learning framework for building foundation medical AI, to…</title>
-      <link>https://twitter.com/sofroniewn/status/1651988186762219520</link>
-      <description>RT @AziziShekoofeh: We're thrilled to announce REMEDIS, a unified self-supervised learning framework for building foundation medical AI, to…</description>
-      <content:encoded>RT @AziziShekoofeh: We're thrilled to announce REMEDIS, a unified self-supervised learning framework for building foundation medical AI, to…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1651988186762219520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 16:34:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>So fun and such an amazing energy at this diverse and inclusive meeting that I hope to become a regular at!! Will def bring my lab next time… such warm and fuzzies here 🥰❤️🙏 with DEI as a front and center part of the focus. Thank you so much for having me!! https://t.co/MJffYnLWqa</title>
-      <link>https://twitter.com/kaymtye/status/1651989622879318017</link>
-      <description>So fun and such an amazing energy at this diverse and inclusive meeting that I hope to become a regular at!! Will def bring my lab next time… such warm and fuzzies here 🥰❤️🙏 with DEI as a front and center part of the focus. Thank you so much for having me!! https://t.co/MJffYnLWqa</description>
-      <content:encoded>So fun and such an amazing energy at this diverse and inclusive meeting that I hope to become a regular at!! Will def bring my lab next time… such warm and fuzzies here 🥰❤️🙏 with DEI as a front and center part of the focus. Thank you so much for having me!! https://t.co/MJffYnLWqa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1651989622879318017"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 16:39:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @drkjjeffery: I'm looking for an RA! 3-year post, rodent electrophys and imaging, with behaviour - details here: https://t.co/FNVgklynI7…</title>
-      <link>https://twitter.com/FlavioDonato82/status/1651993540778504193</link>
-      <description>RT @drkjjeffery: I'm looking for an RA! 3-year post, rodent electrophys and imaging, with behaviour - details here: https://t.co/FNVgklynI7…</description>
-      <content:encoded>RT @drkjjeffery: I'm looking for an RA! 3-year post, rodent electrophys and imaging, with behaviour - details here: https://t.co/FNVgklynI7…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FlavioDonato82/status/1651993540778504193"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 16:55:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @tkalil2050: Congrats to the @acceleration_c for landing a $200M grant from the Canadian government on self-driving labs!  US GDP is 10X…</title>
-      <link>https://twitter.com/sofroniewn/status/1651995108106190849</link>
-      <description>RT @tkalil2050: Congrats to the @acceleration_c for landing a $200M grant from the Canadian government on self-driving labs!  US GDP is 10X…</description>
-      <content:encoded>RT @tkalil2050: Congrats to the @acceleration_c for landing a $200M grant from the Canadian government on self-driving labs!  US GDP is 10X…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1651995108106190849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 17:01:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ianOldenburg: This symposium couldn't have happened without a lot of people. Extra thanks to @VAbraira, and also  @WhoIsMarkRossi @Neur…</title>
-      <link>https://twitter.com/brainsOnMyMind/status/1651995576836272130</link>
-      <description>RT @ianOldenburg: This symposium couldn't have happened without a lot of people. Extra thanks to @VAbraira, and also  @WhoIsMarkRossi @Neur…</description>
-      <content:encoded>RT @ianOldenburg: This symposium couldn't have happened without a lot of people. Extra thanks to @VAbraira, and also  @WhoIsMarkRossi @Neur…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1651995576836272130"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 17:03:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>MIT neuroscientists have found a way to reverse neurodegeneration and other symptoms of Alzheimer’s disease by interfering with an enzyme that is typically overactive in the brains of Alzheimer’s patients. https://t.co/McyM1ZDbxs https://t.co/z4dP3VBZ8w</title>
-      <link>https://twitter.com/MIT/status/1651996014918742022</link>
-      <description>MIT neuroscientists have found a way to reverse neurodegeneration and other symptoms of Alzheimer’s disease by interfering with an enzyme that is typically overactive in the brains of Alzheimer’s patients. https://t.co/McyM1ZDbxs https://t.co/z4dP3VBZ8w</description>
-      <content:encoded>MIT neuroscientists have found a way to reverse neurodegeneration and other symptoms of Alzheimer’s disease by interfering with an enzyme that is typically overactive in the brains of Alzheimer’s patients. https://t.co/McyM1ZDbxs https://t.co/z4dP3VBZ8w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1651996014918742022"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu0RntjXsBEs6s2.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 17:05:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Apr 2023 12:28:57 +0000</lastBuildDate>
     <item>
       <title>Armadillos collect leaf litter they use to build nests in their burrows. Because of the specific armadillo's body shape, the animal opts for bunching a pile of leaves up against their abdomens and hopping backwards toward their nest
 
@@ -1772,6 +1713,104 @@ Come strike a pose with #DeepLabCut and see how pose tracking can help us both u
 Come strike a pose with #DeepLabCut and see how pose tracking can help us both understand the brain 🧠 and conserve wildlife 🐻! @Brainmind_EPFL @epflSV https://t.co/Fss5QeCXZt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1652268189290577920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fu4JKPDWwAEnsdf.jpg" length="1200" type="photo"/>
       <pubDate>Sat, 29 Apr 2023 11:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aplysia vaccaria, also known as the black sea hare is the world's largest sea slug species. The longest recorded specimen measured 99 cm (39 in) when crawling (thus fully extended), and weighed nearly 14 kg (31 lb)
+
+[read more: https://t.co/1ZHl5AaGE8] https://t.co/rV5zEjvD5j https://t.co/9reeAXCy6N</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652269764377452546</link>
+      <description>Aplysia vaccaria, also known as the black sea hare is the world's largest sea slug species. The longest recorded specimen measured 99 cm (39 in) when crawling (thus fully extended), and weighed nearly 14 kg (31 lb)
+
+[read more: https://t.co/1ZHl5AaGE8] https://t.co/rV5zEjvD5j https://t.co/9reeAXCy6N</description>
+      <content:encoded>Aplysia vaccaria, also known as the black sea hare is the world's largest sea slug species. The longest recorded specimen measured 99 cm (39 in) when crawling (thus fully extended), and weighed nearly 14 kg (31 lb)
+
+[read more: https://t.co/1ZHl5AaGE8] https://t.co/rV5zEjvD5j https://t.co/9reeAXCy6N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652269764377452546"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu4KJrRXgAAY329.jpg" length="769" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 11:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CelineCLTan: This is a sobering tweet &amp;amp; an indictment of all that is wrong about academia today. So much of what we do is reliant on go…</title>
+      <link>https://twitter.com/chrisdc77/status/1652270680019181570</link>
+      <description>RT @CelineCLTan: This is a sobering tweet &amp;amp; an indictment of all that is wrong about academia today. So much of what we do is reliant on go…</description>
+      <content:encoded>RT @CelineCLTan: This is a sobering tweet &amp;amp; an indictment of all that is wrong about academia today. So much of what we do is reliant on go…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1652270680019181570"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 11:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>This advertizement for Jeep is by illustrator Jérôme Gonfond and it's a brilliant use of perspective in drawings that generate multiple perceptions of animal faces 
+
+[source, read more: https://t.co/hOXB0RN10G] https://t.co/fxd57Hj3hM</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652273759817027585</link>
+      <description>This advertizement for Jeep is by illustrator Jérôme Gonfond and it's a brilliant use of perspective in drawings that generate multiple perceptions of animal faces 
+
+[source, read more: https://t.co/hOXB0RN10G] https://t.co/fxd57Hj3hM</description>
+      <content:encoded>This advertizement for Jeep is by illustrator Jérôme Gonfond and it's a brilliant use of perspective in drawings that generate multiple perceptions of animal faces 
+
+[source, read more: https://t.co/hOXB0RN10G] https://t.co/fxd57Hj3hM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652273759817027585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu4OJWaXwAQvs9D.jpg" length="680" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 11:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>To kick off Trinity term, join us on Wednesday for Raffaele’s Presentation on sleep; see you there! https://t.co/ElALZng74r</title>
+      <link>https://twitter.com/CortexClub/status/1652277513647804416</link>
+      <description>To kick off Trinity term, join us on Wednesday for Raffaele’s Presentation on sleep; see you there! https://t.co/ElALZng74r</description>
+      <content:encoded>To kick off Trinity term, join us on Wednesday for Raffaele’s Presentation on sleep; see you there! https://t.co/ElALZng74r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CortexClub/status/1652277513647804416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu4Rhc6XwAE2D-y.jpg" length="1080" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 11:43:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rather than a static canvas, Johannes Stötter transfers his art onto live models, bringing his artworks to life with each brush stroke, and creating optical illusions with his body painting techniques. This is a butterfly 
+
+[more: https://t.co/eXnBbaPwtX]
+https://t.co/WD0XIhHJZj</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652278419046924288</link>
+      <description>Rather than a static canvas, Johannes Stötter transfers his art onto live models, bringing his artworks to life with each brush stroke, and creating optical illusions with his body painting techniques. This is a butterfly 
+
+[more: https://t.co/eXnBbaPwtX]
+https://t.co/WD0XIhHJZj</description>
+      <content:encoded>Rather than a static canvas, Johannes Stötter transfers his art onto live models, bringing his artworks to life with each brush stroke, and creating optical illusions with his body painting techniques. This is a butterfly 
+
+[more: https://t.co/eXnBbaPwtX]
+https://t.co/WD0XIhHJZj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652278419046924288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1389479467165179910/pu/img/kp4IJGHmjs1ugJlo.jpg" length="426" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 11:47:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AIMS_Rwanda: @DAADSouthAfrica @DAAD_Germany @TU_Ilmenau We have some good news.
+
+The manuscript submission date for the African Confere…</title>
+      <link>https://twitter.com/CellTypist/status/1652281313322229762</link>
+      <description>RT @AIMS_Rwanda: @DAADSouthAfrica @DAAD_Germany @TU_Ilmenau We have some good news.
+
+The manuscript submission date for the African Confere…</description>
+      <content:encoded>RT @AIMS_Rwanda: @DAADSouthAfrica @DAAD_Germany @TU_Ilmenau We have some good news.
+
+The manuscript submission date for the African Confere…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1652281313322229762"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 11:58:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>In 1949, Feynman introduced the Feynman diagrams for the first time in this paper. https://t.co/MlozREJY5b</title>
+      <link>https://twitter.com/fermatslibrary/status/1652284505435119616</link>
+      <description>In 1949, Feynman introduced the Feynman diagrams for the first time in this paper. https://t.co/MlozREJY5b</description>
+      <content:encoded>In 1949, Feynman introduced the Feynman diagrams for the first time in this paper. https://t.co/MlozREJY5b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1652284505435119616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu4YAEUX0AAt9FA.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 12:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hyundai-10000 is the world’s biggest shear-leg floating crane in operation. The 10,000-ton shear-leg floating crane is equipped with two 180-meter-long crane booms and two sets of 70 m high back stay   
+
+[read more: https://t.co/jryDoHHV2k]
+https://t.co/7t7ZUATzQP</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652288702209568768</link>
+      <description>Hyundai-10000 is the world’s biggest shear-leg floating crane in operation. The 10,000-ton shear-leg floating crane is equipped with two 180-meter-long crane booms and two sets of 70 m high back stay   
+
+[read more: https://t.co/jryDoHHV2k]
+https://t.co/7t7ZUATzQP</description>
+      <content:encoded>Hyundai-10000 is the world’s biggest shear-leg floating crane in operation. The 10,000-ton shear-leg floating crane is equipped with two 180-meter-long crane booms and two sets of 70 m high back stay   
+
+[read more: https://t.co/jryDoHHV2k]
+https://t.co/7t7ZUATzQP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652288702209568768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1491294043737051136/pu/img/ZuYckA9F455EdNmg.jpg" length="480" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 12:28:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
