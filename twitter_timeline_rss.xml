@@ -6,42 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 08:18:50 +0000</lastBuildDate>
-    <item>
-      <title>Astronomers Rethink The Milky Way's Shape https://t.co/DWpHT3QyUs https://t.co/RWcTssU2Io</title>
-      <link>https://twitter.com/arxivblog/status/1651975767897649153</link>
-      <description>Astronomers Rethink The Milky Way's Shape https://t.co/DWpHT3QyUs https://t.co/RWcTssU2Io</description>
-      <content:encoded>Astronomers Rethink The Milky Way's Shape https://t.co/DWpHT3QyUs https://t.co/RWcTssU2Io&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/arxivblog/status/1651975767897649153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fuz_LjMWYAcPutD.png" length="834" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 15:44:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>𝗔𝗴𝗲𝗻𝗰𝘆 𝗶𝗻 𝗯𝗶𝗼𝗹𝗼𝗴𝘆, definitely worth a read: https://t.co/ninLhmxyS2</title>
-      <link>https://twitter.com/PessoaBrain/status/1651976011615989760</link>
-      <description>𝗔𝗴𝗲𝗻𝗰𝘆 𝗶𝗻 𝗯𝗶𝗼𝗹𝗼𝗴𝘆, definitely worth a read: https://t.co/ninLhmxyS2</description>
-      <content:encoded>𝗔𝗴𝗲𝗻𝗰𝘆 𝗶𝗻 𝗯𝗶𝗼𝗹𝗼𝗴𝘆, definitely worth a read: https://t.co/ninLhmxyS2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651976011615989760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 15:45:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Weekly #QuantumJobs]
-
-🚀 Check out this Friday's new job digest going through different opportunities opening in the field of quantum science and technologies in Europe.
-
-☛ Join the #QuantumCommunity : https://t.co/qGkj7ARKr0 https://t.co/bBJkzMl17r</title>
-      <link>https://twitter.com/QuantumFlagship/status/1651976384229646337</link>
-      <description>[Weekly #QuantumJobs]
-
-🚀 Check out this Friday's new job digest going through different opportunities opening in the field of quantum science and technologies in Europe.
-
-☛ Join the #QuantumCommunity : https://t.co/qGkj7ARKr0 https://t.co/bBJkzMl17r</description>
-      <content:encoded>[Weekly #QuantumJobs]
-
-🚀 Check out this Friday's new job digest going through different opportunities opening in the field of quantum science and technologies in Europe.
-
-☛ Join the #QuantumCommunity : https://t.co/qGkj7ARKr0 https://t.co/bBJkzMl17r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/QuantumFlagship/status/1651976384229646337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fuz_HrZXwAERYfC.jpg" length="768" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 15:47:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Apr 2023 09:15:01 +0000</lastBuildDate>
     <item>
       <title>RT @neilblumberg1: Here's a detailed jeremiad on the subject based upon a recent case series in neonatology :). 
 
@@ -61,13 +26,6 @@ Blumberg N: Faculty Opini…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="
       <description>RT @keoughkath: The question of what makes us human remains enigmatic, but we investigate how enhancer hijacking, or fondly, "HARjacking",…</description>
       <content:encoded>RT @keoughkath: The question of what makes us human remains enigmatic, but we investigate how enhancer hijacking, or fondly, "HARjacking",…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651978894285627397"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 28 Apr 2023 15:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @LindaBGoodman: Thrilled to have contributed to @ZoonomiaProject special issue out now in @ScienceMagazine! Colossal mammal genome align…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1651979396599750656</link>
-      <description>RT @LindaBGoodman: Thrilled to have contributed to @ZoonomiaProject special issue out now in @ScienceMagazine! Colossal mammal genome align…</description>
-      <content:encoded>RT @LindaBGoodman: Thrilled to have contributed to @ZoonomiaProject special issue out now in @ScienceMagazine! Colossal mammal genome align…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651979396599750656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 15:59:15 +0000</pubDate>
     </item>
     <item>
       <title>Large language model developers will have to pay for access to text data from Reddit and Stack Overflow.
@@ -862,16 +820,6 @@ thank you to all my colleagues, friends, s…&lt;blockquote class="twitter-tweet
       <description>Ultimately, perhaps. The computer would need a few more features than existing ones; e.g. motives. drives https://t.co/NnRSH6qHFh</description>
       <content:encoded>Ultimately, perhaps. The computer would need a few more features than existing ones; e.g. motives. drives https://t.co/NnRSH6qHFh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1652064408921858049"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 28 Apr 2023 21:37:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @KltLab: Special issue of Science https://t.co/5J5GChP4Jb
-  - 11 papers from the @ZoonomiaProject comparing the genomes of 240 mammals.…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1652064532833923073</link>
-      <description>RT @KltLab: Special issue of Science https://t.co/5J5GChP4Jb
-  - 11 papers from the @ZoonomiaProject comparing the genomes of 240 mammals.…</description>
-      <content:encoded>RT @KltLab: Special issue of Science https://t.co/5J5GChP4Jb
-  - 11 papers from the @ZoonomiaProject comparing the genomes of 240 mammals.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1652064532833923073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 21:37:33 +0000</pubDate>
     </item>
     <item>
       <title>RT @DrTomFroese: Save the dates! We will be hosting the second International Conference on Embodied Cognitive Science (ECogS 2023) this Nov…</title>
@@ -1750,6 +1698,68 @@ https://t.co/Z30dO0EPF7 https://t.co/FdXVmM5n08&lt;blockquote class="twitter-twe
       <description>Extrachromosomal DNA appears before cancer forms in the oesophagus. Learn more in a fascinating N&amp;amp;V by David Wang. https://t.co/qkzlrdnY4U</description>
       <content:encoded>Extrachromosomal DNA appears before cancer forms in the oesophagus. Learn more in a fascinating N&amp;amp;V by David Wang. https://t.co/qkzlrdnY4U&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1652222460085907457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 29 Apr 2023 08:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smoke usually doesn't behave like a liquid, because its particles tend to rise, carried by convection currents. But there are conditions in which smoke can drip like water. Like this
+
+[learn when: https://t.co/4iHWcg0cA1]
+[📹 colfox_]
+https://t.co/K3eNvFKthn</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652227910525243393</link>
+      <description>Smoke usually doesn't behave like a liquid, because its particles tend to rise, carried by convection currents. But there are conditions in which smoke can drip like water. Like this
+
+[learn when: https://t.co/4iHWcg0cA1]
+[📹 colfox_]
+https://t.co/K3eNvFKthn</description>
+      <content:encoded>Smoke usually doesn't behave like a liquid, because its particles tend to rise, carried by convection currents. But there are conditions in which smoke can drip like water. Like this
+
+[learn when: https://t.co/4iHWcg0cA1]
+[📹 colfox_]
+https://t.co/K3eNvFKthn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652227910525243393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1045488351074168832/pu/img/8WLHcHC05EKh14Gk.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 08:26:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dai giocattoli ai dispositivi di monitoraggio della salute, le batterie possono rappresentare un pericolo, se ingerite accidentalmente. 
+
+Finanziato dall’ERC, Mario Caironi @IITalk ha realizzato la prima 🔋 commestibile composta da materiali non tossici 👇 https://t.co/jPwUwF1d3f</title>
+      <link>https://twitter.com/ERC_Research/status/1652228733120712705</link>
+      <description>Dai giocattoli ai dispositivi di monitoraggio della salute, le batterie possono rappresentare un pericolo, se ingerite accidentalmente. 
+
+Finanziato dall’ERC, Mario Caironi @IITalk ha realizzato la prima 🔋 commestibile composta da materiali non tossici 👇 https://t.co/jPwUwF1d3f</description>
+      <content:encoded>Dai giocattoli ai dispositivi di monitoraggio della salute, le batterie possono rappresentare un pericolo, se ingerite accidentalmente. 
+
+Finanziato dall’ERC, Mario Caironi @IITalk ha realizzato la prima 🔋 commestibile composta da materiali non tossici 👇 https://t.co/jPwUwF1d3f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1652228733120712705"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 08:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yuval Noah Harari @harari_yuval argues that AI has hacked the operating system of human civilisation
+https://t.co/lB3jFkWNQF</title>
+      <link>https://twitter.com/wake_sleep/status/1652229940224442369</link>
+      <description>Yuval Noah Harari @harari_yuval argues that AI has hacked the operating system of human civilisation
+https://t.co/lB3jFkWNQF</description>
+      <content:encoded>Yuval Noah Harari @harari_yuval argues that AI has hacked the operating system of human civilisation
+https://t.co/lB3jFkWNQF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1652229940224442369"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 08:34:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>In computer networking, HTTP 451 Unavailable For Legal Reasons is an error status code of the HTTP protocol (e.g. unavailable for censorship). The number is a reference to Ray Bradbury's 1953 dystopian novel Fahrenheit 451, in which books are outlawed https://t.co/oOkD6hvDUj https://t.co/oViFlBrUr6</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652233809117560832</link>
+      <description>In computer networking, HTTP 451 Unavailable For Legal Reasons is an error status code of the HTTP protocol (e.g. unavailable for censorship). The number is a reference to Ray Bradbury's 1953 dystopian novel Fahrenheit 451, in which books are outlawed https://t.co/oOkD6hvDUj https://t.co/oViFlBrUr6</description>
+      <content:encoded>In computer networking, HTTP 451 Unavailable For Legal Reasons is an error status code of the HTTP protocol (e.g. unavailable for censorship). The number is a reference to Ray Bradbury's 1953 dystopian novel Fahrenheit 451, in which books are outlawed https://t.co/oOkD6hvDUj https://t.co/oViFlBrUr6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652233809117560832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu3p3bCXsAAAGTX.png" length="680" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 08:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>This interactive 3D periodic table of elements lets you visualize and sort the elements accordinng to their group, melting point, atomic number and other properties: https://t.co/C356cWGyFY
+https://t.co/eCx6bBCNL6</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652238833075859457</link>
+      <description>This interactive 3D periodic table of elements lets you visualize and sort the elements accordinng to their group, melting point, atomic number and other properties: https://t.co/C356cWGyFY
+https://t.co/eCx6bBCNL6</description>
+      <content:encoded>This interactive 3D periodic table of elements lets you visualize and sort the elements accordinng to their group, melting point, atomic number and other properties: https://t.co/C356cWGyFY
+https://t.co/eCx6bBCNL6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652238833075859457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1530886840546385920/pu/img/TP9eaXATMuv5VnKK.jpg" length="1110" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 09:10:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
