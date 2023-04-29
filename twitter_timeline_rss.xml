@@ -6,50 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 21:13:42 +0000</lastBuildDate>
-    <item>
-      <title>RT @theNASciences: Congratulations Edward Ott of @UofMaryland, newly inducted #NASmember! #NAS160 #physics https://t.co/975Ua9703z</title>
-      <link>https://twitter.com/PessoaBrain/status/1652100591525527552</link>
-      <description>RT @theNASciences: Congratulations Edward Ott of @UofMaryland, newly inducted #NASmember! #NAS160 #physics https://t.co/975Ua9703z</description>
-      <content:encoded>RT @theNASciences: Congratulations Edward Ott of @UofMaryland, newly inducted #NASmember! #NAS160 #physics https://t.co/975Ua9703z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1652100591525527552"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu1piIKWIAQHGmp.jpg" length="1080" type="photo"/>
-      <pubDate>Sat, 29 Apr 2023 00:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @theNASciences: Congratulations Ghislaine Dehaene-Lambertz of @CNRS, newly inducted NAS International Member! #NAS160 #NASmember #psycho…</title>
-      <link>https://twitter.com/PessoaBrain/status/1652100858128003073</link>
-      <description>RT @theNASciences: Congratulations Ghislaine Dehaene-Lambertz of @CNRS, newly inducted NAS International Member! #NAS160 #NASmember #psycho…</description>
-      <content:encoded>RT @theNASciences: Congratulations Ghislaine Dehaene-Lambertz of @CNRS, newly inducted NAS International Member! #NAS160 #NASmember #psycho…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1652100858128003073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 00:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repeated MRI scans of the human brain: diurnal oscillations in healthy adults and bipolar disorder patients  https://t.co/mDrmSkHKqt #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652104282416578561</link>
-      <description>Repeated MRI scans of the human brain: diurnal oscillations in healthy adults and bipolar disorder patients  https://t.co/mDrmSkHKqt #biorxiv_neursci</description>
-      <content:encoded>Repeated MRI scans of the human brain: diurnal oscillations in healthy adults and bipolar disorder patients  https://t.co/mDrmSkHKqt #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652104282416578561"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 00:15:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Language experience shapes predictive coding of rhythmic sound sequences  https://t.co/eNZquOaqPc #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652104366000680962</link>
-      <description>Language experience shapes predictive coding of rhythmic sound sequences  https://t.co/eNZquOaqPc #biorxiv_neursci</description>
-      <content:encoded>Language experience shapes predictive coding of rhythmic sound sequences  https://t.co/eNZquOaqPc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652104366000680962"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 00:15:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Shank/ProSAP N-terminal (SPN) domain of Shank3 regulates targeting to postsynaptic sites and postsynaptic signalling.  https://t.co/D9nYpnqZLA #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652104447877586945</link>
-      <description>The Shank/ProSAP N-terminal (SPN) domain of Shank3 regulates targeting to postsynaptic sites and postsynaptic signalling.  https://t.co/D9nYpnqZLA #biorxiv_neursci</description>
-      <content:encoded>The Shank/ProSAP N-terminal (SPN) domain of Shank3 regulates targeting to postsynaptic sites and postsynaptic signalling.  https://t.co/D9nYpnqZLA #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652104447877586945"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 00:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>The neurovascular unit of capillary blood vessels in the rat nervous system. A rapid-Golgi electron microscopic study.  https://t.co/iPGFdoPgWn #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652104507411578883</link>
-      <description>The neurovascular unit of capillary blood vessels in the rat nervous system. A rapid-Golgi electron microscopic study.  https://t.co/iPGFdoPgWn #biorxiv_neursci</description>
-      <content:encoded>The neurovascular unit of capillary blood vessels in the rat nervous system. A rapid-Golgi electron microscopic study.  https://t.co/iPGFdoPgWn #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652104507411578883"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 00:16:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Apr 2023 22:14:26 +0000</lastBuildDate>
     <item>
       <title>Statistical learning in epilepsy: Behavioral, anatomical, and causal mechanisms in the human brain  https://t.co/s944vTHaSm #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1652104596943249408</link>
@@ -727,13 +684,6 @@ Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ</descri
 Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652250732739829760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1652248713161580547/pu/img/1gImkYoZZsC3iVsz.jpg" length="580" type="photo"/>
       <pubDate>Sat, 29 Apr 2023 09:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>@Rainmaker1973 I recommend subscribing to Massimo</title>
-      <link>https://twitter.com/elonmusk/status/1652251334924701697</link>
-      <description>@Rainmaker1973 I recommend subscribing to Massimo</description>
-      <content:encoded>@Rainmaker1973 I recommend subscribing to Massimo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652251334924701697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 09:59:50 +0000</pubDate>
     </item>
     <item>
       <title>Every sculpture by Noah Deledda has a simple definition: an aluminum can that has been scratched and dented. Each sculpture begins as a familiar product that is scratched repeatedly until new amazing forms are created 
@@ -1908,6 +1858,80 @@ It is slightly dimmer but if you can wait a minute, that worked equally well.&lt
       <content:encoded>Thank you to Mehdi Abouzari, Associate Editor at Frontiers in Audiology and Otology, for stopping by our booth at #LEARNMEM2023! Please stop by before the end of the conference here in front of Breakwater Ballroom. https://t.co/JDbOhwzzhD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1652419380851134464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fu6R15_aUAAyQei.jpg" length="900" type="photo"/>
       <pubDate>Sat, 29 Apr 2023 21:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>A little puzzled, to put it politely, by Kastrup's comment. https://t.co/ppx2nJ4u5Q</title>
+      <link>https://twitter.com/patchurchland/status/1652425675494797312</link>
+      <description>A little puzzled, to put it politely, by Kastrup's comment. https://t.co/ppx2nJ4u5Q</description>
+      <content:encoded>A little puzzled, to put it politely, by Kastrup's comment. https://t.co/ppx2nJ4u5Q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1652425675494797312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 21:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @neuroAnjiolina: It's imperative to know different languages (science and humanities) if one wants to understand the world. I suggest br…</title>
+      <link>https://twitter.com/patchurchland/status/1652426571003871233</link>
+      <description>RT @neuroAnjiolina: It's imperative to know different languages (science and humanities) if one wants to understand the world. I suggest br…</description>
+      <content:encoded>RT @neuroAnjiolina: It's imperative to know different languages (science and humanities) if one wants to understand the world. I suggest br…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1652426571003871233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 21:36:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Figensport: Amazing, he climbs the 100-step stairs in 53 seconds without hand contact... https://t.co/BJPRgl4KDG</title>
+      <link>https://twitter.com/patchurchland/status/1652426814541930503</link>
+      <description>RT @Figensport: Amazing, he climbs the 100-step stairs in 53 seconds without hand contact... https://t.co/BJPRgl4KDG</description>
+      <content:encoded>RT @Figensport: Amazing, he climbs the 100-step stairs in 53 seconds without hand contact... https://t.co/BJPRgl4KDG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1652426814541930503"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1652055083083874304/pu/img/GIjPUXbaCYaRYX32.jpg" length="480" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 21:37:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spread the word about our Cell Science Teacher Academy! 🍎
+
+In this academy, teachers will learn how to bring real #OpenScience data &amp;amp; resources into their classrooms.
+
+📝 Apply by 5/17, 10 pm PDT
+📆 Workshop is 8/9 to 8/11
+
+#AllenLearn #TeacherTwitter
+https://t.co/4eo8WKupv1</title>
+      <link>https://twitter.com/AllenInstitute/status/1652428293763678208</link>
+      <description>Spread the word about our Cell Science Teacher Academy! 🍎
+
+In this academy, teachers will learn how to bring real #OpenScience data &amp;amp; resources into their classrooms.
+
+📝 Apply by 5/17, 10 pm PDT
+📆 Workshop is 8/9 to 8/11
+
+#AllenLearn #TeacherTwitter
+https://t.co/4eo8WKupv1</description>
+      <content:encoded>Spread the word about our Cell Science Teacher Academy! 🍎
+
+In this academy, teachers will learn how to bring real #OpenScience data &amp;amp; resources into their classrooms.
+
+📝 Apply by 5/17, 10 pm PDT
+📆 Workshop is 8/9 to 8/11
+
+#AllenLearn #TeacherTwitter
+https://t.co/4eo8WKupv1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1652428293763678208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 21:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>As we rely more and more on electricity, it's vital to find innovative ways to generate clean power. https://t.co/74qlX65ZfJ</title>
+      <link>https://twitter.com/BillGates/status/1652432645790498816</link>
+      <description>As we rely more and more on electricity, it's vital to find innovative ways to generate clean power. https://t.co/74qlX65ZfJ</description>
+      <content:encoded>As we rely more and more on electricity, it's vital to find innovative ways to generate clean power. https://t.co/74qlX65ZfJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1652432645790498816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 22:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AlinejadMasih: The Islamic Republic officials threatened women by announcing that if they take off their hijabs, they will be identifie…</title>
+      <link>https://twitter.com/patchurchland/status/1652433007406620672</link>
+      <description>RT @AlinejadMasih: The Islamic Republic officials threatened women by announcing that if they take off their hijabs, they will be identifie…</description>
+      <content:encoded>RT @AlinejadMasih: The Islamic Republic officials threatened women by announcing that if they take off their hijabs, they will be identifie…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1652433007406620672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 22:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @biorxivpreprint: VirtualFlow 2.0 - The Next Generation Drug Discovery Platform Enabling Adaptive Screens of 69 Billion Molecules  https…</title>
+      <link>https://twitter.com/sofroniewn/status/1652434525006467073</link>
+      <description>RT @biorxivpreprint: VirtualFlow 2.0 - The Next Generation Drug Discovery Platform Enabling Adaptive Screens of 69 Billion Molecules  https…</description>
+      <content:encoded>RT @biorxivpreprint: VirtualFlow 2.0 - The Next Generation Drug Discovery Platform Enabling Adaptive Screens of 69 Billion Molecules  https…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1652434525006467073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 22:07:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
