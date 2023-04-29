@@ -6,100 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 09:15:01 +0000</lastBuildDate>
-    <item>
-      <title>RT @neilblumberg1: Here's a detailed jeremiad on the subject based upon a recent case series in neonatology :). 
-
-Blumberg N: Faculty Opini…</title>
-      <link>https://twitter.com/Facultyopinions/status/1651978504844591106</link>
-      <description>RT @neilblumberg1: Here's a detailed jeremiad on the subject based upon a recent case series in neonatology :). 
-
-Blumberg N: Faculty Opini…</description>
-      <content:encoded>RT @neilblumberg1: Here's a detailed jeremiad on the subject based upon a recent case series in neonatology :). 
-
-Blumberg N: Faculty Opini…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1651978504844591106"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 15:55:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @keoughkath: The question of what makes us human remains enigmatic, but we investigate how enhancer hijacking, or fondly, "HARjacking",…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1651978894285627397</link>
-      <description>RT @keoughkath: The question of what makes us human remains enigmatic, but we investigate how enhancer hijacking, or fondly, "HARjacking",…</description>
-      <content:encoded>RT @keoughkath: The question of what makes us human remains enigmatic, but we investigate how enhancer hijacking, or fondly, "HARjacking",…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651978894285627397"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 15:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Large language model developers will have to pay for access to text data from Reddit and Stack Overflow.
-
-Learn more in #TheBatch: https://t.co/zlSUURsohI</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1651979587713105921</link>
-      <description>Large language model developers will have to pay for access to text data from Reddit and Stack Overflow.
-
-Learn more in #TheBatch: https://t.co/zlSUURsohI</description>
-      <content:encoded>Large language model developers will have to pay for access to text data from Reddit and Stack Overflow.
-
-Learn more in #TheBatch: https://t.co/zlSUURsohI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1651979587713105921"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nice visualization of Newton's first law: an object will remain at rest, unless acted on by a net external force   
-
-[📹How Ridicolous: https://t.co/2aTisfMNE0]
-https://t.co/BUyWYHLend</title>
-      <link>https://twitter.com/Rainmaker1973/status/1651979822371880960</link>
-      <description>Nice visualization of Newton's first law: an object will remain at rest, unless acted on by a net external force   
-
-[📹How Ridicolous: https://t.co/2aTisfMNE0]
-https://t.co/BUyWYHLend</description>
-      <content:encoded>Nice visualization of Newton's first law: an object will remain at rest, unless acted on by a net external force   
-
-[📹How Ridicolous: https://t.co/2aTisfMNE0]
-https://t.co/BUyWYHLend&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1651979822371880960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1165230820929335297/pu/img/_-g4optkk2xoJub2.jpg" length="728" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 16:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to untangle a worm ball: Mathematicians solve a knotty mystery: California blackworms tangle themselves up by the thousands, then separate in a split second. Their trick may inspire the design of self-detangling materials and fibers. https://t.co/TtbPeuhSIz https://t.co/NJRfmevRNN</title>
-      <link>https://twitter.com/MIT/status/1651980926098784256</link>
-      <description>How to untangle a worm ball: Mathematicians solve a knotty mystery: California blackworms tangle themselves up by the thousands, then separate in a split second. Their trick may inspire the design of self-detangling materials and fibers. https://t.co/TtbPeuhSIz https://t.co/NJRfmevRNN</description>
-      <content:encoded>How to untangle a worm ball: Mathematicians solve a knotty mystery: California blackworms tangle themselves up by the thousands, then separate in a split second. Their trick may inspire the design of self-detangling materials and fibers. https://t.co/TtbPeuhSIz https://t.co/NJRfmevRNN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1651980926098784256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu0D5L9WwAcMIsb.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 16:05:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are sophisticated methods necessary for sophisticated data? Check out this paper showing how functional brain networks reflect space and time autocorrelation in fMRI data 🧠⬇️ https://t.co/q5mX1aUwOF</title>
-      <link>https://twitter.com/KavliAtYale/status/1651982169286356993</link>
-      <description>Are sophisticated methods necessary for sophisticated data? Check out this paper showing how functional brain networks reflect space and time autocorrelation in fMRI data 🧠⬇️ https://t.co/q5mX1aUwOF</description>
-      <content:encoded>Are sophisticated methods necessary for sophisticated data? Check out this paper showing how functional brain networks reflect space and time autocorrelation in fMRI data 🧠⬇️ https://t.co/q5mX1aUwOF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KavliAtYale/status/1651982169286356993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 16:10:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>@madhuramukho For our COVID-19 focus issue, @metricausa chatted with researchers across the Global South about how they tackled the pandemic - https://t.co/eqUgoV8gFA.</title>
-      <link>https://twitter.com/naturemethods/status/1651983612714311680</link>
-      <description>@madhuramukho For our COVID-19 focus issue, @metricausa chatted with researchers across the Global South about how they tackled the pandemic - https://t.co/eqUgoV8gFA.</description>
-      <content:encoded>@madhuramukho For our COVID-19 focus issue, @metricausa chatted with researchers across the Global South about how they tackled the pandemic - https://t.co/eqUgoV8gFA.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1651983612714311680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 16:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The gift that keeps on giving: a large study by workers at @BristolUni &amp;amp; others in @American_Heart journal Circulation finds elevated risk of thromboembolic events up to 49 weeks after #COVID19 - selected by Wilbert Aronow.
-
-https://t.co/JvvvKj557L https://t.co/Q76g3ctTES</title>
-      <link>https://twitter.com/Facultyopinions/status/1651984628163461122</link>
-      <description>The gift that keeps on giving: a large study by workers at @BristolUni &amp;amp; others in @American_Heart journal Circulation finds elevated risk of thromboembolic events up to 49 weeks after #COVID19 - selected by Wilbert Aronow.
-
-https://t.co/JvvvKj557L https://t.co/Q76g3ctTES</description>
-      <content:encoded>The gift that keeps on giving: a large study by workers at @BristolUni &amp;amp; others in @American_Heart journal Circulation finds elevated risk of thromboembolic events up to 49 weeks after #COVID19 - selected by Wilbert Aronow.
-
-https://t.co/JvvvKj557L https://t.co/Q76g3ctTES&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1651984628163461122"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu0HQ6WXsAgB-AJ.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 16:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: The effect of small incision lenticule extraction on contrast sensitivity: The improvements due to small incision lenticule extraction (SMILE) in vision, e.g., in spherical equivalent (SE) and visual acuity (VA), has been… https://t.co/E3wlrLAZXD #Neuroscience</title>
-      <link>https://twitter.com/FrontNeurosci/status/1651985007471362048</link>
-      <description>New Research: The effect of small incision lenticule extraction on contrast sensitivity: The improvements due to small incision lenticule extraction (SMILE) in vision, e.g., in spherical equivalent (SE) and visual acuity (VA), has been… https://t.co/E3wlrLAZXD #Neuroscience</description>
-      <content:encoded>New Research: The effect of small incision lenticule extraction on contrast sensitivity: The improvements due to small incision lenticule extraction (SMILE) in vision, e.g., in spherical equivalent (SE) and visual acuity (VA), has been… https://t.co/E3wlrLAZXD #Neuroscience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1651985007471362048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 16:21:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Apr 2023 10:16:02 +0000</lastBuildDate>
     <item>
       <title>Philip I didn't realize this is 40+ pages, massive! What a treat.</title>
       <link>https://twitter.com/PessoaBrain/status/1651986116923338757</link>
@@ -242,6 +149,13 @@ Duties are described here: https://t.co/MkzwlHoee6&lt;blockquote class="twitter-
 ✍️ by @algo_diver and @RisingSayak https://t.co/Ss84uywqKG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1651997207615221772"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fu0StIJXsBEn8UX.jpg" length="1082" type="photo"/>
       <pubDate>Fri, 28 Apr 2023 17:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @FrontNeurosci: 🌟Frontiers is proud to sponsor #LEARNMEM2023 by hosting the official Research Topic. We invite you to contribute to the…</title>
+      <link>https://twitter.com/FrontNeurosci/status/1651997795157680128</link>
+      <description>RT @FrontNeurosci: 🌟Frontiers is proud to sponsor #LEARNMEM2023 by hosting the official Research Topic. We invite you to contribute to the…</description>
+      <content:encoded>RT @FrontNeurosci: 🌟Frontiers is proud to sponsor #LEARNMEM2023 by hosting the official Research Topic. We invite you to contribute to the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1651997795157680128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 17:12:21 +0000</pubDate>
     </item>
     <item>
       <title>RT @heather_e_white: Marsupial skull development really is incredible! Check out our latest #paper on the development of the #mammal skull…</title>
@@ -820,6 +734,16 @@ thank you to all my colleagues, friends, s…&lt;blockquote class="twitter-tweet
       <description>Ultimately, perhaps. The computer would need a few more features than existing ones; e.g. motives. drives https://t.co/NnRSH6qHFh</description>
       <content:encoded>Ultimately, perhaps. The computer would need a few more features than existing ones; e.g. motives. drives https://t.co/NnRSH6qHFh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1652064408921858049"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 28 Apr 2023 21:37:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @KltLab: Special issue of Science https://t.co/5J5GChP4Jb
+  - 11 papers from the @ZoonomiaProject comparing the genomes of 240 mammals.…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1652064532833923073</link>
+      <description>RT @KltLab: Special issue of Science https://t.co/5J5GChP4Jb
+  - 11 papers from the @ZoonomiaProject comparing the genomes of 240 mammals.…</description>
+      <content:encoded>RT @KltLab: Special issue of Science https://t.co/5J5GChP4Jb
+  - 11 papers from the @ZoonomiaProject comparing the genomes of 240 mammals.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1652064532833923073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 28 Apr 2023 21:37:33 +0000</pubDate>
     </item>
     <item>
       <title>RT @DrTomFroese: Save the dates! We will be hosting the second International Conference on Embodied Cognitive Science (ECogS 2023) this Nov…</title>
@@ -1760,6 +1684,92 @@ https://t.co/eCx6bBCNL6</description>
 https://t.co/eCx6bBCNL6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652238833075859457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1530886840546385920/pu/img/TP9eaXATMuv5VnKK.jpg" length="1110" type="photo"/>
       <pubDate>Sat, 29 Apr 2023 09:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>The story of Nefertiti, the jumping spider that was launched to the ISS to observe if it could catch prey in microgravity. It succeeded, surviving the reentry and readjusting to full gravity before its natural death 
+
+[read more: https://t.co/plkypmHSwH] https://t.co/qLQgKOwvGp</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652243868740378624</link>
+      <description>The story of Nefertiti, the jumping spider that was launched to the ISS to observe if it could catch prey in microgravity. It succeeded, surviving the reentry and readjusting to full gravity before its natural death 
+
+[read more: https://t.co/plkypmHSwH] https://t.co/qLQgKOwvGp</description>
+      <content:encoded>The story of Nefertiti, the jumping spider that was launched to the ISS to observe if it could catch prey in microgravity. It succeeded, surviving the reentry and readjusting to full gravity before its natural death 
+
+[read more: https://t.co/plkypmHSwH] https://t.co/qLQgKOwvGp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652243868740378624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu3y7mmXgAQKYgn.jpg" length="460" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 09:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @neuralreckoning: Now is an exciting time to be preparing a new open publishing platform (https://t.co/bKEKhtSTxS). Feels like there's s…</title>
+      <link>https://twitter.com/KordingLab/status/1652245312092663808</link>
+      <description>RT @neuralreckoning: Now is an exciting time to be preparing a new open publishing platform (https://t.co/bKEKhtSTxS). Feels like there's s…</description>
+      <content:encoded>RT @neuralreckoning: Now is an exciting time to be preparing a new open publishing platform (https://t.co/bKEKhtSTxS). Feels like there's s…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1652245312092663808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 09:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @laion_ai: We release a open letter to the EU Parlament supported by Prof. Jürgen Schmidhuber,
+Prof. Sepp Hochreiter,
+Prof. Bernhard Sch…</title>
+      <link>https://twitter.com/KordingLab/status/1652246546631520256</link>
+      <description>RT @laion_ai: We release a open letter to the EU Parlament supported by Prof. Jürgen Schmidhuber,
+Prof. Sepp Hochreiter,
+Prof. Bernhard Sch…</description>
+      <content:encoded>RT @laion_ai: We release a open letter to the EU Parlament supported by Prof. Jürgen Schmidhuber,
+Prof. Sepp Hochreiter,
+Prof. Bernhard Sch…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1652246546631520256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 09:40:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subscribe to unlock long tweets with insights about science, technology and culture. At the moment one long tweet a day.
+
+Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652250732739829760</link>
+      <description>Subscribe to unlock long tweets with insights about science, technology and culture. At the moment one long tweet a day.
+
+Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ</description>
+      <content:encoded>Subscribe to unlock long tweets with insights about science, technology and culture. At the moment one long tweet a day.
+
+Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652250732739829760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1652248713161580547/pu/img/1gImkYoZZsC3iVsz.jpg" length="580" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 09:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>@Rainmaker1973 I recommend subscribing to Massimo</title>
+      <link>https://twitter.com/elonmusk/status/1652251334924701697</link>
+      <description>@Rainmaker1973 I recommend subscribing to Massimo</description>
+      <content:encoded>@Rainmaker1973 I recommend subscribing to Massimo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652251334924701697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 09:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Every sculpture by Noah Deledda has a simple definition: an aluminum can that has been scratched and dented. Each sculpture begins as a familiar product that is scratched repeatedly until new amazing forms are created 
+
+[site: https://t.co/lLn1IdnRbt]
+https://t.co/Hni2KbXsws</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652251592580628481</link>
+      <description>Every sculpture by Noah Deledda has a simple definition: an aluminum can that has been scratched and dented. Each sculpture begins as a familiar product that is scratched repeatedly until new amazing forms are created 
+
+[site: https://t.co/lLn1IdnRbt]
+https://t.co/Hni2KbXsws</description>
+      <content:encoded>Every sculpture by Noah Deledda has a simple definition: an aluminum can that has been scratched and dented. Each sculpture begins as a familiar product that is scratched repeatedly until new amazing forms are created 
+
+[site: https://t.co/lLn1IdnRbt]
+https://t.co/Hni2KbXsws&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652251592580628481"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1477564548110446598/pu/img/3kKHlnpFgwnF8Ji5.jpg" length="674" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 10:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk Many thanks!!</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652252539063001088</link>
+      <description>@elonmusk Many thanks!!</description>
+      <content:encoded>@elonmusk Many thanks!!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652252539063001088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 10:04:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>This breakthrough overcomes one of the main challenges in recycling plastics – read all about it in this great N&amp;amp;V by Mathieu Lepage &amp;amp; Jeremy Wulff https://t.co/aNdxvRu2og</title>
+      <link>https://twitter.com/NatureNV/status/1652252860392919041</link>
+      <description>This breakthrough overcomes one of the main challenges in recycling plastics – read all about it in this great N&amp;amp;V by Mathieu Lepage &amp;amp; Jeremy Wulff https://t.co/aNdxvRu2og</description>
+      <content:encoded>This breakthrough overcomes one of the main challenges in recycling plastics – read all about it in this great N&amp;amp;V by Mathieu Lepage &amp;amp; Jeremy Wulff https://t.co/aNdxvRu2og&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1652252860392919041"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 10:05:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
