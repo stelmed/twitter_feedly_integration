@@ -6,36 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 10:16:02 +0000</lastBuildDate>
-    <item>
-      <title>Philip I didn't realize this is 40+ pages, massive! What a treat.</title>
-      <link>https://twitter.com/PessoaBrain/status/1651986116923338757</link>
-      <description>Philip I didn't realize this is 40+ pages, massive! What a treat.</description>
-      <content:encoded>Philip I didn't realize this is 40+ pages, massive! What a treat.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1651986116923338757"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 16:25:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mohebial: Accumbens DA is so pacific... I keep staring at these traces and DLS keeps staring back at me https://t.co/AGalh9un46</title>
-      <link>https://twitter.com/ruimcosta/status/1651987120079380480</link>
-      <description>RT @mohebial: Accumbens DA is so pacific... I keep staring at these traces and DLS keeps staring back at me https://t.co/AGalh9un46</description>
-      <content:encoded>RT @mohebial: Accumbens DA is so pacific... I keep staring at these traces and DLS keeps staring back at me https://t.co/AGalh9un46&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1651987120079380480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FupsCdJaQAEqbgZ.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 16:29:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history. 
-
-Learn more in a new #SciencePerspective. https://t.co/fRepkFvfHj #Zoonomia https://t.co/S7GNc1rxtn</title>
-      <link>https://twitter.com/ScienceMagazine/status/1651987193462763527</link>
-      <description>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history. 
-
-Learn more in a new #SciencePerspective. https://t.co/fRepkFvfHj #Zoonomia https://t.co/S7GNc1rxtn</description>
-      <content:encoded>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history. 
-
-Learn more in a new #SciencePerspective. https://t.co/fRepkFvfHj #Zoonomia https://t.co/S7GNc1rxtn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1651987193462763527"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu0JmOMXsAQfelp.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 28 Apr 2023 16:30:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Apr 2023 11:12:34 +0000</lastBuildDate>
     <item>
       <title>RT @AizenmanLab: Some neuro art for today. A bit too busy? https://t.co/H6dNeMM3em</title>
       <link>https://twitter.com/PessoaBrain/status/1651987395892457476</link>
@@ -1657,16 +1628,6 @@ Finanziato dall’ERC, Mario Caironi @IITalk ha realizzato la prima 🔋 commest
       <pubDate>Sat, 29 Apr 2023 08:30:01 +0000</pubDate>
     </item>
     <item>
-      <title>Yuval Noah Harari @harari_yuval argues that AI has hacked the operating system of human civilisation
-https://t.co/lB3jFkWNQF</title>
-      <link>https://twitter.com/wake_sleep/status/1652229940224442369</link>
-      <description>Yuval Noah Harari @harari_yuval argues that AI has hacked the operating system of human civilisation
-https://t.co/lB3jFkWNQF</description>
-      <content:encoded>Yuval Noah Harari @harari_yuval argues that AI has hacked the operating system of human civilisation
-https://t.co/lB3jFkWNQF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1652229940224442369"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 08:34:49 +0000</pubDate>
-    </item>
-    <item>
       <title>In computer networking, HTTP 451 Unavailable For Legal Reasons is an error status code of the HTTP protocol (e.g. unavailable for censorship). The number is a reference to Ray Bradbury's 1953 dystopian novel Fahrenheit 451, in which books are outlawed https://t.co/oOkD6hvDUj https://t.co/oViFlBrUr6</title>
       <link>https://twitter.com/Rainmaker1973/status/1652233809117560832</link>
       <description>In computer networking, HTTP 451 Unavailable For Legal Reasons is an error status code of the HTTP protocol (e.g. unavailable for censorship). The number is a reference to Ray Bradbury's 1953 dystopian novel Fahrenheit 451, in which books are outlawed https://t.co/oOkD6hvDUj https://t.co/oViFlBrUr6</description>
@@ -1770,6 +1731,47 @@ https://t.co/Hni2KbXsws&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>This breakthrough overcomes one of the main challenges in recycling plastics – read all about it in this great N&amp;amp;V by Mathieu Lepage &amp;amp; Jeremy Wulff https://t.co/aNdxvRu2og</description>
       <content:encoded>This breakthrough overcomes one of the main challenges in recycling plastics – read all about it in this great N&amp;amp;V by Mathieu Lepage &amp;amp; Jeremy Wulff https://t.co/aNdxvRu2og&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1652252860392919041"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 29 Apr 2023 10:05:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>"...doing science (is) much like a relay race. It relies on the hard work and dedication of past generations and advances through the hard work and dedication of future generations. A baton must be passed between these generations to ensure continued success." https://t.co/VXg6eXbvpo</title>
+      <link>https://twitter.com/CGrienberger/status/1652263860496216066</link>
+      <description>"...doing science (is) much like a relay race. It relies on the hard work and dedication of past generations and advances through the hard work and dedication of future generations. A baton must be passed between these generations to ensure continued success." https://t.co/VXg6eXbvpo</description>
+      <content:encoded>"...doing science (is) much like a relay race. It relies on the hard work and dedication of past generations and advances through the hard work and dedication of future generations. A baton must be passed between these generations to ensure continued success." https://t.co/VXg6eXbvpo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CGrienberger/status/1652263860496216066"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 10:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friction is an intuitive concept, but what if you need to model it at a microscopic level? This is a solution
+
+[read more: https://t.co/1tO1leVuOB]
+[source: https://t.co/SKtzeaxAgI]
+https://t.co/5h6jL1V4pM</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652267561457786881</link>
+      <description>Friction is an intuitive concept, but what if you need to model it at a microscopic level? This is a solution
+
+[read more: https://t.co/1tO1leVuOB]
+[source: https://t.co/SKtzeaxAgI]
+https://t.co/5h6jL1V4pM</description>
+      <content:encoded>Friction is an intuitive concept, but what if you need to model it at a microscopic level? This is a solution
+
+[read more: https://t.co/1tO1leVuOB]
+[source: https://t.co/SKtzeaxAgI]
+https://t.co/5h6jL1V4pM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652267561457786881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FT7KE-5WYAUFOxv.jpg" length="400" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 11:04:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Day 1 of  #PortesOuvertesEPFL! 
+
+Come strike a pose with #DeepLabCut and see how pose tracking can help us both understand the brain 🧠 and conserve wildlife 🐻! @Brainmind_EPFL @epflSV https://t.co/Fss5QeCXZt</title>
+      <link>https://twitter.com/TrackingActions/status/1652268189290577920</link>
+      <description>Day 1 of  #PortesOuvertesEPFL! 
+
+Come strike a pose with #DeepLabCut and see how pose tracking can help us both understand the brain 🧠 and conserve wildlife 🐻! @Brainmind_EPFL @epflSV https://t.co/Fss5QeCXZt</description>
+      <content:encoded>Day 1 of  #PortesOuvertesEPFL! 
+
+Come strike a pose with #DeepLabCut and see how pose tracking can help us both understand the brain 🧠 and conserve wildlife 🐻! @Brainmind_EPFL @epflSV https://t.co/Fss5QeCXZt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1652268189290577920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu4JKPDWwAEnsdf.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 11:06:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
