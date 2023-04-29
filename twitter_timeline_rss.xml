@@ -6,35 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 19:12:17 +0000</lastBuildDate>
-    <item>
-      <title>RT @boazbaraktcs: 1/5 In our post https://t.co/Lbxyc9e942, Aaronson and I discuss potential scenarios for AI. In particular we say that for…</title>
-      <link>https://twitter.com/ylecun/status/1652088433500901377</link>
-      <description>RT @boazbaraktcs: 1/5 In our post https://t.co/Lbxyc9e942, Aaronson and I discuss potential scenarios for AI. In particular we say that for…</description>
-      <content:encoded>RT @boazbaraktcs: 1/5 In our post https://t.co/Lbxyc9e942, Aaronson and I discuss potential scenarios for AI. In particular we say that for…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652088433500901377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 23:12:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @gabrielpeyre: Iterative projections: converge in theory for convex sets. Works great in practice for non-convex sets. https://t.co/VA6Y…</title>
-      <link>https://twitter.com/ylecun/status/1652088665391374340</link>
-      <description>RT @gabrielpeyre: Iterative projections: converge in theory for convex sets. Works great in practice for non-convex sets. https://t.co/VA6Y…</description>
-      <content:encoded>RT @gabrielpeyre: Iterative projections: converge in theory for convex sets. Works great in practice for non-convex sets. https://t.co/VA6Y…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652088665391374340"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 23:13:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling, and cloud-native open-source tools  https://t.co/wRMRRivtnd #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652089212114464768</link>
-      <description>Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling, and cloud-native open-source tools  https://t.co/wRMRRivtnd #biorxiv_neursci</description>
-      <content:encoded>Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling, and cloud-native open-source tools  https://t.co/wRMRRivtnd #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652089212114464768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 23:15:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Targeting Transferrin Receptor to Transport Antisense Oligonucleotides Across the Blood-Brain Barrier  https://t.co/HxrjFiOMrc #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652089294071250957</link>
-      <description>Targeting Transferrin Receptor to Transport Antisense Oligonucleotides Across the Blood-Brain Barrier  https://t.co/HxrjFiOMrc #biorxiv_neursci</description>
-      <content:encoded>Targeting Transferrin Receptor to Transport Antisense Oligonucleotides Across the Blood-Brain Barrier  https://t.co/HxrjFiOMrc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652089294071250957"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 28 Apr 2023 23:15:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Apr 2023 20:16:18 +0000</lastBuildDate>
     <item>
       <title>Phase-specific stimulation reveals consistent sinusoidal modulation of human corticospinal excitability along the oscillatory beta cycle  https://t.co/aeYmjivKh5 #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1652089372886409219</link>
@@ -824,13 +796,6 @@ Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ</descri
 Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652250732739829760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1652248713161580547/pu/img/1gImkYoZZsC3iVsz.jpg" length="580" type="photo"/>
       <pubDate>Sat, 29 Apr 2023 09:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>@Rainmaker1973 I recommend subscribing to Massimo</title>
-      <link>https://twitter.com/elonmusk/status/1652251334924701697</link>
-      <description>@Rainmaker1973 I recommend subscribing to Massimo</description>
-      <content:encoded>@Rainmaker1973 I recommend subscribing to Massimo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652251334924701697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 09:59:50 +0000</pubDate>
     </item>
     <item>
       <title>Every sculpture by Noah Deledda has a simple definition: an aluminum can that has been scratched and dented. Each sculpture begins as a familiar product that is scratched repeatedly until new amazing forms are created 
@@ -1915,6 +1880,49 @@ https://t.co/kkIj8BRNLP</description>
       <content:encoded>RT @MillerLabMIT: Subgenual and Hippocampal Pathways in Amygdala Are Set to Balance Affect and Context Processing
 https://t.co/kkIj8BRNLP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patchurchland/status/1652388940895367169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 29 Apr 2023 19:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The @haya2e_jaxa mission collected 5 grams of material from the near-Earth asteroid #Ryugu. 
+
+A special issue of Science described lab analyses of the samples, revealing Ryugu's composition, formation process, and history. Learn more on #AstronomyDay: https://t.co/R86NShFeBm https://t.co/tevZ8WAiwV</title>
+      <link>https://twitter.com/ScienceMagazine/status/1652395100813631494</link>
+      <description>The @haya2e_jaxa mission collected 5 grams of material from the near-Earth asteroid #Ryugu. 
+
+A special issue of Science described lab analyses of the samples, revealing Ryugu's composition, formation process, and history. Learn more on #AstronomyDay: https://t.co/R86NShFeBm https://t.co/tevZ8WAiwV</description>
+      <content:encoded>The @haya2e_jaxa mission collected 5 grams of material from the near-Earth asteroid #Ryugu. 
+
+A special issue of Science described lab analyses of the samples, revealing Ryugu's composition, formation process, and history. Learn more on #AstronomyDay: https://t.co/R86NShFeBm https://t.co/tevZ8WAiwV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1652395100813631494"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu58ljAX0AISiin.jpg" length="943" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 19:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preparations for May Day Morris Dance with sticks at Cambridge. https://t.co/pVzXr9vf7O</title>
+      <link>https://twitter.com/ZoltanMolnar64/status/1652395403403309057</link>
+      <description>Preparations for May Day Morris Dance with sticks at Cambridge. https://t.co/pVzXr9vf7O</description>
+      <content:encoded>Preparations for May Day Morris Dance with sticks at Cambridge. https://t.co/pVzXr9vf7O&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ZoltanMolnar64/status/1652395403403309057"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1652395130395979776/pu/img/_G0-H2faR72ryYsG.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 29 Apr 2023 19:32:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BabiloniClaudio: Notably, resting-state fMRI-EEG coregistration in humans showed that low cortical BOLD signal is related to high EEG a…</title>
+      <link>https://twitter.com/PessoaBrain/status/1652398201687666691</link>
+      <description>RT @BabiloniClaudio: Notably, resting-state fMRI-EEG coregistration in humans showed that low cortical BOLD signal is related to high EEG a…</description>
+      <content:encoded>RT @BabiloniClaudio: Notably, resting-state fMRI-EEG coregistration in humans showed that low cortical BOLD signal is related to high EEG a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1652398201687666691"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 19:43:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The proximal operator is an important unifying concept. https://t.co/ZlJSivfSdC</title>
+      <link>https://twitter.com/ylecun/status/1652398552528584709</link>
+      <description>The proximal operator is an important unifying concept. https://t.co/ZlJSivfSdC</description>
+      <content:encoded>The proximal operator is an important unifying concept. https://t.co/ZlJSivfSdC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652398552528584709"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 19:44:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AlainGoudey: 🤷‍♂️ Pas convaincu par la tribune de @harari_yuval dans @TheEconomist. Pour lui, la clé est la régulation de l’IA  alors q…</title>
+      <link>https://twitter.com/ylecun/status/1652406397793886208</link>
+      <description>RT @AlainGoudey: 🤷‍♂️ Pas convaincu par la tribune de @harari_yuval dans @TheEconomist. Pour lui, la clé est la régulation de l’IA  alors q…</description>
+      <content:encoded>RT @AlainGoudey: 🤷‍♂️ Pas convaincu par la tribune de @harari_yuval dans @TheEconomist. Pour lui, la clé est la régulation de l’IA  alors q…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652406397793886208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 29 Apr 2023 20:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
