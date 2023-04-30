@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 10:16:15 +0000</lastBuildDate>
-    <item>
-      <title>RT @SWC_Neuro: How do biological brains learn more efficiently than AI? In a new study, SWC and @GatsbyUCL researchers @PShamash, @sebalexl…</title>
-      <link>https://twitter.com/trabranco/status/1652213146315046912</link>
-      <description>RT @SWC_Neuro: How do biological brains learn more efficiently than AI? In a new study, SWC and @GatsbyUCL researchers @PShamash, @sebalexl…</description>
-      <content:encoded>RT @SWC_Neuro: How do biological brains learn more efficiently than AI? In a new study, SWC and @GatsbyUCL researchers @PShamash, @sebalexl…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trabranco/status/1652213146315046912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 07:28:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Apr 2023 11:12:46 +0000</lastBuildDate>
     <item>
       <title>How to check the quality of a handmade teapot 
 
@@ -205,13 +198,6 @@ Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ</descri
 Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652250732739829760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1652248713161580547/pu/img/1gImkYoZZsC3iVsz.jpg" length="580" type="photo"/>
       <pubDate>Sat, 29 Apr 2023 09:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>@Rainmaker1973 I recommend subscribing to Massimo</title>
-      <link>https://twitter.com/elonmusk/status/1652251334924701697</link>
-      <description>@Rainmaker1973 I recommend subscribing to Massimo</description>
-      <content:encoded>@Rainmaker1973 I recommend subscribing to Massimo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652251334924701697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 09:59:50 +0000</pubDate>
     </item>
     <item>
       <title>Every sculpture by Noah Deledda has a simple definition: an aluminum can that has been scratched and dented. Each sculpture begins as a familiar product that is scratched repeatedly until new amazing forms are created 
@@ -1971,6 +1957,20 @@ https://t.co/VLGNY1evTi</description>
 https://t.co/VLGNY1evTi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652613137051394050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1627160421768609792/pu/img/YU5ym14ZSJkAlbn_.jpg" length="640" type="photo"/>
       <pubDate>Sun, 30 Apr 2023 09:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MarciaBecu: Presenting my work from ⁦@KISNeuro⁩ at ⁦@LEARNMEM⁩! What a chance to be among such great scientists 😍 https://t.co/tU78rARO…</title>
+      <link>https://twitter.com/KISNeuro/status/1652624967287144448</link>
+      <description>RT @MarciaBecu: Presenting my work from ⁦@KISNeuro⁩ at ⁦@LEARNMEM⁩! What a chance to be among such great scientists 😍 https://t.co/tU78rARO…</description>
+      <content:encoded>RT @MarciaBecu: Presenting my work from ⁦@KISNeuro⁩ at ⁦@LEARNMEM⁩! What a chance to be among such great scientists 😍 https://t.co/tU78rARO…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1652624967287144448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 10:44:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @A__Furlan: Interested in taking a postdoc at the intersection of System Neuroscience and Metabolism, in always beautiful, sometimes sun…</title>
+      <link>https://twitter.com/CarlenLab/status/1652626420055564288</link>
+      <description>RT @A__Furlan: Interested in taking a postdoc at the intersection of System Neuroscience and Metabolism, in always beautiful, sometimes sun…</description>
+      <content:encoded>RT @A__Furlan: Interested in taking a postdoc at the intersection of System Neuroscience and Metabolism, in always beautiful, sometimes sun…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CarlenLab/status/1652626420055564288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 10:50:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
