@@ -6,7 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 02:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2023 03:16:21 +0000</lastBuildDate>
     <item>
       <title>Cerebellar state estimation enables resilient coupling across behavioural domains  https://t.co/QeAlCKObO0 #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1652119965611220993</link>
@@ -538,13 +538,6 @@ Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ</descri
 Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652250732739829760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1652248713161580547/pu/img/1gImkYoZZsC3iVsz.jpg" length="580" type="photo"/>
       <pubDate>Sat, 29 Apr 2023 09:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>@Rainmaker1973 I recommend subscribing to Massimo</title>
-      <link>https://twitter.com/elonmusk/status/1652251334924701697</link>
-      <description>@Rainmaker1973 I recommend subscribing to Massimo</description>
-      <content:encoded>@Rainmaker1973 I recommend subscribing to Massimo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652251334924701697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 09:59:50 +0000</pubDate>
     </item>
     <item>
       <title>Every sculpture by Noah Deledda has a simple definition: an aluminum can that has been scratched and dented. Each sculpture begins as a familiar product that is scratched repeatedly until new amazing forms are created 
@@ -1904,6 +1897,14 @@ Photos: Jenny Li Fowler and Jodi Hilton https://t.co/GREoAcJGFF https://t.co/TTA
       <description>RT @rhogupta: Prof. @stevenstrogatz, I saw these in a museum in Göttingen. You might have seen these before but I thought I'd share in case…</description>
       <content:encoded>RT @rhogupta: Prof. @stevenstrogatz, I saw these in a museum in Göttingen. You might have seen these before but I thought I'd share in case…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1652495725182218241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 30 Apr 2023 02:10:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home https://t.co/RFJNpCicfh</title>
+      <link>https://twitter.com/elonmusk/status/1652512001967439872</link>
+      <description>Home https://t.co/RFJNpCicfh</description>
+      <content:encoded>Home https://t.co/RFJNpCicfh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652512001967439872"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu7m57QaEAMiiLi.jpg" length="554" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 03:15:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
