@@ -6,63 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 22:14:34 +0000</lastBuildDate>
-    <item>
-      <title>An unexpected timer for cell division. This terrific N&amp;amp;V by Silke Hauf discusses a surprising discovery about translational control of CDC20 protein. https://t.co/R0Jss4YPPh https://t.co/VtvgpSrCVG</title>
-      <link>https://twitter.com/NatureNV/status/1652343590406815746</link>
-      <description>An unexpected timer for cell division. This terrific N&amp;amp;V by Silke Hauf discusses a surprising discovery about translational control of CDC20 protein. https://t.co/R0Jss4YPPh https://t.co/VtvgpSrCVG</description>
-      <content:encoded>An unexpected timer for cell division. This terrific N&amp;amp;V by Silke Hauf discusses a surprising discovery about translational control of CDC20 protein. https://t.co/R0Jss4YPPh https://t.co/VtvgpSrCVG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1652343590406815746"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu5NvUBXgAAuKwT.jpg" length="1024" type="photo"/>
-      <pubDate>Sat, 29 Apr 2023 16:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Don't forget to apply for our Theory Fellow Program by May 2! 🔥 
-
-We're looking for early-career scientists–including new PhDs–in mathematics, physics, computer science &amp;amp; engineering to join our Computation &amp;amp; Theory research area. 
-
-Apply by May 2 ▶️ https://t.co/qwUElWrqrO https://t.co/NvxAHAnObk</title>
-      <link>https://twitter.com/HHMIJanelia/status/1652344729856614400</link>
-      <description>🔥 Don't forget to apply for our Theory Fellow Program by May 2! 🔥 
-
-We're looking for early-career scientists–including new PhDs–in mathematics, physics, computer science &amp;amp; engineering to join our Computation &amp;amp; Theory research area. 
-
-Apply by May 2 ▶️ https://t.co/qwUElWrqrO https://t.co/NvxAHAnObk</description>
-      <content:encoded>🔥 Don't forget to apply for our Theory Fellow Program by May 2! 🔥 
-
-We're looking for early-career scientists–including new PhDs–in mathematics, physics, computer science &amp;amp; engineering to join our Computation &amp;amp; Theory research area. 
-
-Apply by May 2 ▶️ https://t.co/qwUElWrqrO https://t.co/NvxAHAnObk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1652344729856614400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu5OxdJWAAcapFI.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 29 Apr 2023 16:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Longitudinal brain structure changes in Parkinson's disease: a replication study  https://t.co/qWZ6TjIf92 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652345880647815170</link>
-      <description>Longitudinal brain structure changes in Parkinson's disease: a replication study  https://t.co/qWZ6TjIf92 #biorxiv_neursci</description>
-      <content:encoded>Longitudinal brain structure changes in Parkinson's disease: a replication study  https://t.co/qWZ6TjIf92 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652345880647815170"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 16:15:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The adhesion GPCR Adgrd1 is a prion protein receptor and a mediator of prion cytotoxicity  https://t.co/8NNeCIQAhm #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652345941754626054</link>
-      <description>The adhesion GPCR Adgrd1 is a prion protein receptor and a mediator of prion cytotoxicity  https://t.co/8NNeCIQAhm #biorxiv_neursci</description>
-      <content:encoded>The adhesion GPCR Adgrd1 is a prion protein receptor and a mediator of prion cytotoxicity  https://t.co/8NNeCIQAhm #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652345941754626054"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 16:15:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural Signatures of Evidence Accumulation Encode Subjective Perceptual Confidence  https://t.co/UI5z5GmHRw #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652346028224307201</link>
-      <description>Neural Signatures of Evidence Accumulation Encode Subjective Perceptual Confidence  https://t.co/UI5z5GmHRw #biorxiv_neursci</description>
-      <content:encoded>Neural Signatures of Evidence Accumulation Encode Subjective Perceptual Confidence  https://t.co/UI5z5GmHRw #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652346028224307201"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 16:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behavioral strategy shapes activation of the Vip-Sst disinhibitory circuit in visual cortex  https://t.co/NBTTd224Kr #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652346111506382849</link>
-      <description>Behavioral strategy shapes activation of the Vip-Sst disinhibitory circuit in visual cortex  https://t.co/NBTTd224Kr #biorxiv_neursci</description>
-      <content:encoded>Behavioral strategy shapes activation of the Vip-Sst disinhibitory circuit in visual cortex  https://t.co/NBTTd224Kr #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652346111506382849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 16:16:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Apr 2023 23:15:30 +0000</lastBuildDate>
     <item>
       <title>Genetic context controls early microglia-synaptic interactions in mouse models of Alzheimers disease  https://t.co/UMDmT67Als #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1652346174223917061</link>
@@ -1951,6 +1895,65 @@ https://t.co/pz0zcCOBLb</description>
 
 https://t.co/pz0zcCOBLb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652794563520606210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 30 Apr 2023 21:58:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @leslievosshall: Congratulations Harald F. Hess @HHMIJanelia recipient of the 2023 James Prize in Science and Technology Integration @th…</title>
+      <link>https://twitter.com/HHMIJanelia/status/1652802738088968194</link>
+      <description>RT @leslievosshall: Congratulations Harald F. Hess @HHMIJanelia recipient of the 2023 James Prize in Science and Technology Integration @th…</description>
+      <content:encoded>RT @leslievosshall: Congratulations Harald F. Hess @HHMIJanelia recipient of the 2023 James Prize in Science and Technology Integration @th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1652802738088968194"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 22:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: The role of inflammation in neurodegenerative diseases #neuroscience https://t.co/4gIrQt29sn</title>
+      <link>https://twitter.com/FrontNeurosci/status/1652805418920599552</link>
+      <description>New Research: Editorial: The role of inflammation in neurodegenerative diseases #neuroscience https://t.co/4gIrQt29sn</description>
+      <content:encoded>New Research: Editorial: The role of inflammation in neurodegenerative diseases #neuroscience https://t.co/4gIrQt29sn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1652805418920599552"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 22:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇨🇦 republic now https://t.co/zDAkEzURc7</title>
+      <link>https://twitter.com/andpru/status/1652808795351859201</link>
+      <description>🇨🇦 republic now https://t.co/zDAkEzURc7</description>
+      <content:encoded>🇨🇦 republic now https://t.co/zDAkEzURc7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1652808795351859201"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 22:54:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>We are pushing to improve phd/postdoc positions wrt money, status, conditions. To the level that we succeed at that it should make it harder to get accepted into phd or postdoc. Selection then becomes more important. How can we select fairly? I can’t compare people!</title>
+      <link>https://twitter.com/KordingLab/status/1652809910768345088</link>
+      <description>We are pushing to improve phd/postdoc positions wrt money, status, conditions. To the level that we succeed at that it should make it harder to get accepted into phd or postdoc. Selection then becomes more important. How can we select fairly? I can’t compare people!</description>
+      <content:encoded>We are pushing to improve phd/postdoc positions wrt money, status, conditions. To the level that we succeed at that it should make it harder to get accepted into phd or postdoc. Selection then becomes more important. How can we select fairly? I can’t compare people!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1652809910768345088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 22:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thank you so much for stopping by our booth at #LEARNMEM2023 this weekend! It was wonderful to meet so many amazing researchers.
+
+Did you present this weekend? Be sure to submit your paper to our special issue!
+https://t.co/QWo4r7hIGo https://t.co/oGvyhV20ht</title>
+      <link>https://twitter.com/FrontNeurosci/status/1652810059137843201</link>
+      <description>Thank you so much for stopping by our booth at #LEARNMEM2023 this weekend! It was wonderful to meet so many amazing researchers.
+
+Did you present this weekend? Be sure to submit your paper to our special issue!
+https://t.co/QWo4r7hIGo https://t.co/oGvyhV20ht</description>
+      <content:encoded>Thank you so much for stopping by our booth at #LEARNMEM2023 this weekend! It was wonderful to meet so many amazing researchers.
+
+Did you present this weekend? Be sure to submit your paper to our special issue!
+https://t.co/QWo4r7hIGo https://t.co/oGvyhV20ht&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1652810059137843201"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu6fLKsaUAA_q9F.jpg" length="900" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This breakthrough overcomes one of the main challenges in recycling plastics – read all about it in this great N&amp;amp;V by Mathieu Lepage &amp;amp; Jeremy Wulff https://t.co/iFanbrGsN0</title>
+      <link>https://twitter.com/NatureNV/status/1652813299120054272</link>
+      <description>This breakthrough overcomes one of the main challenges in recycling plastics – read all about it in this great N&amp;amp;V by Mathieu Lepage &amp;amp; Jeremy Wulff https://t.co/iFanbrGsN0</description>
+      <content:encoded>This breakthrough overcomes one of the main challenges in recycling plastics – read all about it in this great N&amp;amp;V by Mathieu Lepage &amp;amp; Jeremy Wulff https://t.co/iFanbrGsN0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1652813299120054272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 23:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive Bayesian Optimization for State-Dependent Brain Stimulation  https://t.co/m4bwxkjHSG #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1652813937702842370</link>
+      <description>Adaptive Bayesian Optimization for State-Dependent Brain Stimulation  https://t.co/m4bwxkjHSG #biorxiv_neursci</description>
+      <content:encoded>Adaptive Bayesian Optimization for State-Dependent Brain Stimulation  https://t.co/m4bwxkjHSG #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652813937702842370"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 23:15:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
