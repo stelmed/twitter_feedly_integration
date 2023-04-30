@@ -6,84 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 07:13:38 +0000</lastBuildDate>
-    <item>
-      <title>RT @theNASciences: Congratulations Alex L. Kolodkin of @JohnsHopkins, newly inducted #NASmember! #NAS160 #neuroscience https://t.co/JrvelQf…</title>
-      <link>https://twitter.com/rhuganir/status/1652162468188246019</link>
-      <description>RT @theNASciences: Congratulations Alex L. Kolodkin of @JohnsHopkins, newly inducted #NASmember! #NAS160 #neuroscience https://t.co/JrvelQf…</description>
-      <content:encoded>RT @theNASciences: Congratulations Alex L. Kolodkin of @JohnsHopkins, newly inducted #NASmember! #NAS160 #neuroscience https://t.co/JrvelQf…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1652162468188246019"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 04:06:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @theNASciences: Congratulations Erik Jorgensen of @UUtah, newly inducted #NASmember! #NAS160 #neuroscience #physiology https://t.co/ISwQ…</title>
-      <link>https://twitter.com/rhuganir/status/1652164856567545859</link>
-      <description>RT @theNASciences: Congratulations Erik Jorgensen of @UUtah, newly inducted #NASmember! #NAS160 #neuroscience #physiology https://t.co/ISwQ…</description>
-      <content:encoded>RT @theNASciences: Congratulations Erik Jorgensen of @UUtah, newly inducted #NASmember! #NAS160 #neuroscience #physiology https://t.co/ISwQ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1652164856567545859"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 04:16:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @theNASciences: Congratulations Arturo Casadevall of @JohnsHopkinsSPH, newly inducted #NASmember! #NAS160 #microbialbiology https://t.co…</title>
-      <link>https://twitter.com/rhuganir/status/1652165271686135808</link>
-      <description>RT @theNASciences: Congratulations Arturo Casadevall of @JohnsHopkinsSPH, newly inducted #NASmember! #NAS160 #microbialbiology https://t.co…</description>
-      <content:encoded>RT @theNASciences: Congratulations Arturo Casadevall of @JohnsHopkinsSPH, newly inducted #NASmember! #NAS160 #microbialbiology https://t.co…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1652165271686135808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 04:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thought != Language https://t.co/q0swpvNUF7</title>
-      <link>https://twitter.com/ylecun/status/1652183354370916354</link>
-      <description>Thought != Language https://t.co/q0swpvNUF7</description>
-      <content:encoded>Thought != Language https://t.co/q0swpvNUF7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652183354370916354"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 05:29:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @michaelshermer: GPT 4 will be a powerful tool in many sciences, tech, law, research institutes etc. (English lit scholars are safe for…</title>
-      <link>https://twitter.com/ylecun/status/1652183776376639488</link>
-      <description>RT @michaelshermer: GPT 4 will be a powerful tool in many sciences, tech, law, research institutes etc. (English lit scholars are safe for…</description>
-      <content:encoded>RT @michaelshermer: GPT 4 will be a powerful tool in many sciences, tech, law, research institutes etc. (English lit scholars are safe for…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652183776376639488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 05:31:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>True. https://t.co/wOa8F61eMY</title>
-      <link>https://twitter.com/ylecun/status/1652186386387091456</link>
-      <description>True. https://t.co/wOa8F61eMY</description>
-      <content:encoded>True. https://t.co/wOa8F61eMY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652186386387091456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 05:41:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hippocampal neural fluctuation between memory encoding and retrieval states during a working memory task in humans  https://t.co/Pw4sKgvZOu #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652194830863171586</link>
-      <description>Hippocampal neural fluctuation between memory encoding and retrieval states during a working memory task in humans  https://t.co/Pw4sKgvZOu #biorxiv_neursci</description>
-      <content:encoded>Hippocampal neural fluctuation between memory encoding and retrieval states during a working memory task in humans  https://t.co/Pw4sKgvZOu #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652194830863171586"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 06:15:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Basolateral amygdala oscillations enable fear learning in a biophysical model  https://t.co/ez0j931OiF #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652194916661903361</link>
-      <description>Basolateral amygdala oscillations enable fear learning in a biophysical model  https://t.co/ez0j931OiF #biorxiv_neursci</description>
-      <content:encoded>Basolateral amygdala oscillations enable fear learning in a biophysical model  https://t.co/ez0j931OiF #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652194916661903361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 06:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>A transposase-derived gene required for human brain development  https://t.co/ubMrS84Qon #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652194999419772931</link>
-      <description>A transposase-derived gene required for human brain development  https://t.co/ubMrS84Qon #biorxiv_neursci</description>
-      <content:encoded>A transposase-derived gene required for human brain development  https://t.co/ubMrS84Qon #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652194999419772931"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 06:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Space Shuttle Endeavour seen on launch pad 39A as a storm passes by prior to the launch, happened 12 years ago #Today 
-
-[photo by @ingallsimages: https://t.co/RnwBAJRl6Y] https://t.co/bYdiqtlB1Y</title>
-      <link>https://twitter.com/Rainmaker1973/status/1652195946963386368</link>
-      <description>The Space Shuttle Endeavour seen on launch pad 39A as a storm passes by prior to the launch, happened 12 years ago #Today 
-
-[photo by @ingallsimages: https://t.co/RnwBAJRl6Y] https://t.co/bYdiqtlB1Y</description>
-      <content:encoded>The Space Shuttle Endeavour seen on launch pad 39A as a storm passes by prior to the launch, happened 12 years ago #Today 
-
-[photo by @ingallsimages: https://t.co/RnwBAJRl6Y] https://t.co/bYdiqtlB1Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652195946963386368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu3HYDaXgAAcuuZ.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 29 Apr 2023 06:19:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Apr 2023 08:19:03 +0000</lastBuildDate>
     <item>
       <title>Born #Today in 1894, Marietta Blau was the physicist who developed the photographic emulsion technique for the study of nuclear disintegration caused by cosmic rays 
 
@@ -392,13 +315,6 @@ Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ</descri
 Today a take about chatbots, AI and Turing test. https://t.co/Ot5JjMUpFZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652250732739829760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1652248713161580547/pu/img/1gImkYoZZsC3iVsz.jpg" length="580" type="photo"/>
       <pubDate>Sat, 29 Apr 2023 09:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>@Rainmaker1973 I recommend subscribing to Massimo</title>
-      <link>https://twitter.com/elonmusk/status/1652251334924701697</link>
-      <description>@Rainmaker1973 I recommend subscribing to Massimo</description>
-      <content:encoded>@Rainmaker1973 I recommend subscribing to Massimo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652251334924701697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 09:59:50 +0000</pubDate>
     </item>
     <item>
       <title>Every sculpture by Noah Deledda has a simple definition: an aluminum can that has been scratched and dented. Each sculpture begins as a familiar product that is scratched repeatedly until new amazing forms are created 
@@ -1895,6 +1811,140 @@ Scientists from @BrookhavenLab in NY have the first direct observation of ma…&
       <description>I can’t login to the web app. Is this happening to any of you (in case you use it)?</description>
       <content:encoded>I can’t login to the web app. Is this happening to any of you (in case you use it)?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652563235244056576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 30 Apr 2023 06:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Born 246 years ago #Today, Johann Carl Friedrich Gauss is sometimes referred to as the Princeps mathematicorum (Latin for "the foremost of mathematicians") and "the greatest mathematician since antiquity" 
+
+[read more: https://t.co/8Q4BGZyuo5] https://t.co/6DJTTuhBpL</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652573596273856514</link>
+      <description>Born 246 years ago #Today, Johann Carl Friedrich Gauss is sometimes referred to as the Princeps mathematicorum (Latin for "the foremost of mathematicians") and "the greatest mathematician since antiquity" 
+
+[read more: https://t.co/8Q4BGZyuo5] https://t.co/6DJTTuhBpL</description>
+      <content:encoded>Born 246 years ago #Today, Johann Carl Friedrich Gauss is sometimes referred to as the Princeps mathematicorum (Latin for "the foremost of mathematicians") and "the greatest mathematician since antiquity" 
+
+[read more: https://t.co/8Q4BGZyuo5] https://t.co/6DJTTuhBpL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652573596273856514"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu8e7RBWcAID8J8.jpg" length="932" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 07:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>I can’t access the web app anymore but the mobile one works. It will be a bit harder for me to post, but I’ll try. I apologize in advance for not sending the daily long tweet for today.</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652573989246578689</link>
+      <description>I can’t access the web app anymore but the mobile one works. It will be a bit harder for me to post, but I’ll try. I apologize in advance for not sending the daily long tweet for today.</description>
+      <content:encoded>I can’t access the web app anymore but the mobile one works. It will be a bit harder for me to post, but I’ll try. I apologize in advance for not sending the daily long tweet for today.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652573989246578689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 07:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Born 107 years ago #Today, Claude Shannon was a mathematician, an electrical engineer, and a cryptographer universally recognized as "the father of information theory" 
+
+[read more: https://t.co/OPmRwrxwUQ] https://t.co/jGDislWBDe</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652574448401129472</link>
+      <description>Born 107 years ago #Today, Claude Shannon was a mathematician, an electrical engineer, and a cryptographer universally recognized as "the father of information theory" 
+
+[read more: https://t.co/OPmRwrxwUQ] https://t.co/jGDislWBDe</description>
+      <content:encoded>Born 107 years ago #Today, Claude Shannon was a mathematician, an electrical engineer, and a cryptographer universally recognized as "the father of information theory" 
+
+[read more: https://t.co/OPmRwrxwUQ] https://t.co/jGDislWBDe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652574448401129472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu8fs3fX0AEc4h2.jpg" length="941" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 07:23:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>126 years ago #Today, Joseph John Thomson first announced the existence of the electrons (as they are now named) 
+
+[read more: https://t.co/8Wbg7aT344] https://t.co/LgZ9ppAipF</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652574917563383809</link>
+      <description>126 years ago #Today, Joseph John Thomson first announced the existence of the electrons (as they are now named) 
+
+[read more: https://t.co/8Wbg7aT344] https://t.co/LgZ9ppAipF</description>
+      <content:encoded>126 years ago #Today, Joseph John Thomson first announced the existence of the electrons (as they are now named) 
+
+[read more: https://t.co/8Wbg7aT344] https://t.co/LgZ9ppAipF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652574917563383809"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu8gIL5WYAIX0IV.jpg" length="941" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 07:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@Rainmaker1973 Shannon was incredible. His work will stand for eternity.</title>
+      <link>https://twitter.com/elonmusk/status/1652576868992950277</link>
+      <description>@Rainmaker1973 Shannon was incredible. His work will stand for eternity.</description>
+      <content:encoded>@Rainmaker1973 Shannon was incredible. His work will stand for eternity.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652576868992950277"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 07:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Return ticket built-in: @royalsociety Biol Lett work by @joewynn_birds et al. suggests that juvenile blackcaps inherit both outbound and return orientation programs for migration - recommended by Vladimir Pravosudov. @CognitiveEcol #migratorybirds
+
+https://t.co/bqBXo6X7sB https://t.co/ro4UcZBRfM</title>
+      <link>https://twitter.com/Facultyopinions/status/1652578537377808384</link>
+      <description>Return ticket built-in: @royalsociety Biol Lett work by @joewynn_birds et al. suggests that juvenile blackcaps inherit both outbound and return orientation programs for migration - recommended by Vladimir Pravosudov. @CognitiveEcol #migratorybirds
+
+https://t.co/bqBXo6X7sB https://t.co/ro4UcZBRfM</description>
+      <content:encoded>Return ticket built-in: @royalsociety Biol Lett work by @joewynn_birds et al. suggests that juvenile blackcaps inherit both outbound and return orientation programs for migration - recommended by Vladimir Pravosudov. @CognitiveEcol #migratorybirds
+
+https://t.co/bqBXo6X7sB https://t.co/ro4UcZBRfM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1652578537377808384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu8ja96WYAAQapV.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 07:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The London Underground has its own subspecies of mosquito that lives exclusively in the stations and tunnels. The appropriately-named Culex pipiens molestus came to be over the Underground’s 150-year history 
+
+[read more: https://t.co/NanYOe9fiO] https://t.co/oWVMIgZnMj</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652580092000829440</link>
+      <description>The London Underground has its own subspecies of mosquito that lives exclusively in the stations and tunnels. The appropriately-named Culex pipiens molestus came to be over the Underground’s 150-year history 
+
+[read more: https://t.co/NanYOe9fiO] https://t.co/oWVMIgZnMj</description>
+      <content:encoded>The London Underground has its own subspecies of mosquito that lives exclusively in the stations and tunnels. The appropriately-named Culex pipiens molestus came to be over the Underground’s 150-year history 
+
+[read more: https://t.co/NanYOe9fiO] https://t.co/oWVMIgZnMj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652580092000829440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu8k1WCXwAECOCE.jpg" length="941" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 07:46:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/PoRcUYqa6b</title>
+      <link>https://twitter.com/elonmusk/status/1652580317058813954</link>
+      <description>https://t.co/PoRcUYqa6b</description>
+      <content:encoded>https://t.co/PoRcUYqa6b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652580317058813954"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu8lCTnX0AEinVp.jpg" length="1024" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 07:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>How flies remember a rich experience from its individual components https://t.co/jtCEAue4WE</title>
+      <link>https://twitter.com/NatureNV/status/1652583147576410114</link>
+      <description>How flies remember a rich experience from its individual components https://t.co/jtCEAue4WE</description>
+      <content:encoded>How flies remember a rich experience from its individual components https://t.co/jtCEAue4WE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1652583147576410114"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 07:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new study from @UChicagoBSD that examined people without somatosensation reveals direct sensory experience is not required to understand or use abstract metaphors or language about sensations. #neuroscience
+https://t.co/107xvgXPg9 https://t.co/PS845GEEHR</title>
+      <link>https://twitter.com/Scientifica_Int/status/1652583590620692483</link>
+      <description>A new study from @UChicagoBSD that examined people without somatosensation reveals direct sensory experience is not required to understand or use abstract metaphors or language about sensations. #neuroscience
+https://t.co/107xvgXPg9 https://t.co/PS845GEEHR</description>
+      <content:encoded>A new study from @UChicagoBSD that examined people without somatosensation reveals direct sensory experience is not required to understand or use abstract metaphors or language about sensations. #neuroscience
+https://t.co/107xvgXPg9 https://t.co/PS845GEEHR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1652583590620692483"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu8oBH1XgAAaJz0.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 08:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>In 1911, Srinivasa Ramanujan posed this problem involving an infinite nested radical (a never-ending expression that has square roots inside of square roots). Remarkably the answer is exactly 3 
+
+[read more: https://t.co/NrzFehl8oG] 
+https://t.co/ZCC9f8ao6U</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652584189399560192</link>
+      <description>In 1911, Srinivasa Ramanujan posed this problem involving an infinite nested radical (a never-ending expression that has square roots inside of square roots). Remarkably the answer is exactly 3 
+
+[read more: https://t.co/NrzFehl8oG] 
+https://t.co/ZCC9f8ao6U</description>
+      <content:encoded>In 1911, Srinivasa Ramanujan posed this problem involving an infinite nested radical (a never-ending expression that has square roots inside of square roots). Remarkably the answer is exactly 3 
+
+[read more: https://t.co/NrzFehl8oG] 
+https://t.co/ZCC9f8ao6U&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652584189399560192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FT7nDjKXEAAocyv.jpg" length="600" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 08:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Problem solved, I got my web access back</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652587217649385473</link>
+      <description>Problem solved, I got my web access back</description>
+      <content:encoded>Problem solved, I got my web access back&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652587217649385473"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 08:14:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
