@@ -6,73 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 16:19:58 +0000</lastBuildDate>
-    <item>
-      <title>The #DanceYourPhD competition challenges scientists around the world to explain their research through the most jargon-free medium available: interpretive dance. 
-
-🏅 Check out this year's winners on #InternationalDanceDay: https://t.co/C7rOf8LPBl https://t.co/VmZKVSMP9t</title>
-      <link>https://twitter.com/ScienceMagazine/status/1652304253480738816</link>
-      <description>The #DanceYourPhD competition challenges scientists around the world to explain their research through the most jargon-free medium available: interpretive dance. 
-
-🏅 Check out this year's winners on #InternationalDanceDay: https://t.co/C7rOf8LPBl https://t.co/VmZKVSMP9t</description>
-      <content:encoded>The #DanceYourPhD competition challenges scientists around the world to explain their research through the most jargon-free medium available: interpretive dance. 
-
-🏅 Check out this year's winners on #InternationalDanceDay: https://t.co/C7rOf8LPBl https://t.co/VmZKVSMP9t&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1652304253480738816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fu4p9iaX0AIUuov.jpg" length="600" type="photo"/>
-      <pubDate>Sat, 29 Apr 2023 13:30:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mleptin: Some important changes made by the Scientific Council of the @ERC_Research, with the interests of the research community and p…</title>
-      <link>https://twitter.com/ERC_Research/status/1652304296073912322</link>
-      <description>RT @mleptin: Some important changes made by the Scientific Council of the @ERC_Research, with the interests of the research community and p…</description>
-      <content:encoded>RT @mleptin: Some important changes made by the Scientific Council of the @ERC_Research, with the interests of the research community and p…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1652304296073912322"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 13:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @cpilab: It's a huge honor to have our work on understanding large language models using tools from psychology and psychiatry featured i…</title>
-      <link>https://twitter.com/CellTypist/status/1652306447093448706</link>
-      <description>RT @cpilab: It's a huge honor to have our work on understanding large language models using tools from psychology and psychiatry featured i…</description>
-      <content:encoded>RT @cpilab: It's a huge honor to have our work on understanding large language models using tools from psychology and psychiatry featured i…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1652306447093448706"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 13:38:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new (slightly NSFW) sirdakka over on @RaiderCrossword's https://t.co/mMfRkv0Cfn:
-
-Regret snorting line with Republican president?
-
-The Latin for seahorse! (4)
-
-1 + 2 + 3 = 6 (4,2)
-
-https://t.co/mUjUAn5aOt</title>
-      <link>https://twitter.com/sirdakka/status/1652306531528982530</link>
-      <description>A new (slightly NSFW) sirdakka over on @RaiderCrossword's https://t.co/mMfRkv0Cfn:
-
-Regret snorting line with Republican president?
-
-The Latin for seahorse! (4)
-
-1 + 2 + 3 = 6 (4,2)
-
-https://t.co/mUjUAn5aOt</description>
-      <content:encoded>A new (slightly NSFW) sirdakka over on @RaiderCrossword's https://t.co/mMfRkv0Cfn:
-
-Regret snorting line with Republican president?
-
-The Latin for seahorse! (4)
-
-1 + 2 + 3 = 6 (4,2)
-
-https://t.co/mUjUAn5aOt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sirdakka/status/1652306531528982530"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 13:39:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @niklasbengtsson: New wp: Are Economics Students Biased Against Female Teachers? Evidence from a Randomized Double-Blind Natural Field E…</title>
-      <link>https://twitter.com/KordingLab/status/1652306725020610561</link>
-      <description>RT @niklasbengtsson: New wp: Are Economics Students Biased Against Female Teachers? Evidence from a Randomized Double-Blind Natural Field E…</description>
-      <content:encoded>RT @niklasbengtsson: New wp: Are Economics Students Biased Against Female Teachers? Evidence from a Randomized Double-Blind Natural Field E…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1652306725020610561"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 13:39:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Apr 2023 17:13:32 +0000</lastBuildDate>
     <item>
       <title>This paper from 1512 is where Leonardo annotated his experiment to understand the blood flow through the valves of the heart, by pouring hot wax into one, making a mould of thin glass from the cast and then pumping water mixed with seeds through it https://t.co/3g3dOdLX4h https://t.co/IagVcPOfBM</title>
       <link>https://twitter.com/Rainmaker1973/status/1652306741835743235</link>
@@ -1966,6 +1900,58 @@ https://t.co/npILBGq3Fe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <content:encoded>https://t.co/qcsSFT2YyV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652709146389561344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fu-aNaOWIAI0Inh.jpg" length="896" type="photo"/>
       <pubDate>Sun, 30 Apr 2023 16:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Neurobiological mechanisms involved in maternal deprivation-induced behaviours relevant to… #Molecular #Neuroscience https://t.co/xKzT0WWx7z</title>
+      <link>https://twitter.com/FrontNeurosci/status/1652709784368586754</link>
+      <description>New Research: Neurobiological mechanisms involved in maternal deprivation-induced behaviours relevant to… #Molecular #Neuroscience https://t.co/xKzT0WWx7z</description>
+      <content:encoded>New Research: Neurobiological mechanisms involved in maternal deprivation-induced behaviours relevant to… #Molecular #Neuroscience https://t.co/xKzT0WWx7z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1652709784368586754"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 16:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is the kind of gimballed stove you use on a sailboat to compensate the waves induced motion
+
+[📹 Michael.Thomas: https://t.co/jUWbr3btaG]
+https://t.co/VePT7EErLY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652711389075591174</link>
+      <description>This is the kind of gimballed stove you use on a sailboat to compensate the waves induced motion
+
+[📹 Michael.Thomas: https://t.co/jUWbr3btaG]
+https://t.co/VePT7EErLY</description>
+      <content:encoded>This is the kind of gimballed stove you use on a sailboat to compensate the waves induced motion
+
+[📹 Michael.Thomas: https://t.co/jUWbr3btaG]
+https://t.co/VePT7EErLY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652711389075591174"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1428761356610703373/pu/img/wHI-kd8GkDos4XBf.jpg" length="576" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 16:27:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Average oxygen levels in the ocean have fallen by 2% over the past 50 years, and could fall 20% by the end of this century, making some parts of the ocean less habitable to sea life.
+
+Learn more: https://t.co/99hoyFn0sO @ScienceVisuals @NewsfromScience https://t.co/i2Su3PxHiz</title>
+      <link>https://twitter.com/ScienceMagazine/status/1652711939972186114</link>
+      <description>Average oxygen levels in the ocean have fallen by 2% over the past 50 years, and could fall 20% by the end of this century, making some parts of the ocean less habitable to sea life.
+
+Learn more: https://t.co/99hoyFn0sO @ScienceVisuals @NewsfromScience https://t.co/i2Su3PxHiz</description>
+      <content:encoded>Average oxygen levels in the ocean have fallen by 2% over the past 50 years, and could fall 20% by the end of this century, making some parts of the ocean less habitable to sea life.
+
+Learn more: https://t.co/99hoyFn0sO @ScienceVisuals @NewsfromScience https://t.co/i2Su3PxHiz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1652711939972186114"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu-cwAdXoAIUUSu.jpg" length="964" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 16:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whether it’s a storm, earthquake or something else, natural disasters can have a lasting effect on labs and the research done in them. A @Nature feature outlines the steps researchers can take to soften the blow. https://t.co/IC0BetgWYR</title>
+      <link>https://twitter.com/NaturePortfolio/status/1652712666996023299</link>
+      <description>Whether it’s a storm, earthquake or something else, natural disasters can have a lasting effect on labs and the research done in them. A @Nature feature outlines the steps researchers can take to soften the blow. https://t.co/IC0BetgWYR</description>
+      <content:encoded>Whether it’s a storm, earthquake or something else, natural disasters can have a lasting effect on labs and the research done in them. A @Nature feature outlines the steps researchers can take to soften the blow. https://t.co/IC0BetgWYR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1652712666996023299"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 16:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>During a craniotomy surgery, the brain temporarily becomes a braout. https://t.co/FAXv46Mu0V</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1652721038474506249</link>
+      <description>During a craniotomy surgery, the brain temporarily becomes a braout. https://t.co/FAXv46Mu0V</description>
+      <content:encoded>During a craniotomy surgery, the brain temporarily becomes a braout. https://t.co/FAXv46Mu0V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1652721038474506249"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 17:06:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
