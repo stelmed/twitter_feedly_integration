@@ -6,68 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 20:16:15 +0000</lastBuildDate>
-    <item>
-      <title>RT @realSharonZhou: I’m super excited to announce @LaminiAI, the LLM engine that gives every developer the superpowers that took the world…</title>
-      <link>https://twitter.com/ylecun/status/1652329527631069184</link>
-      <description>RT @realSharonZhou: I’m super excited to announce @LaminiAI, the LLM engine that gives every developer the superpowers that took the world…</description>
-      <content:encoded>RT @realSharonZhou: I’m super excited to announce @LaminiAI, the LLM engine that gives every developer the superpowers that took the world…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652329527631069184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 15:10:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Support content creators around the world in near &amp;amp; far away places!
-
-For many this represents a vital source of income &amp;amp; enables them to put more time into creating great content for you. https://t.co/XzrFMLPytB</title>
-      <link>https://twitter.com/elonmusk/status/1652329936823414784</link>
-      <description>Support content creators around the world in near &amp;amp; far away places!
-
-For many this represents a vital source of income &amp;amp; enables them to put more time into creating great content for you. https://t.co/XzrFMLPytB</description>
-      <content:encoded>Support content creators around the world in near &amp;amp; far away places!
-
-For many this represents a vital source of income &amp;amp; enables them to put more time into creating great content for you. https://t.co/XzrFMLPytB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1652329936823414784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 15:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jerryjliu0: It’s official…LlamaIndex 0.6.0.alpha1 is out. And it’s basically a completely new product 🔥
-
-We fundamentally rewrote two m…</title>
-      <link>https://twitter.com/ylecun/status/1652330527003639809</link>
-      <description>RT @jerryjliu0: It’s official…LlamaIndex 0.6.0.alpha1 is out. And it’s basically a completely new product 🔥
-
-We fundamentally rewrote two m…</description>
-      <content:encoded>RT @jerryjliu0: It’s official…LlamaIndex 0.6.0.alpha1 is out. And it’s basically a completely new product 🔥
-
-We fundamentally rewrote two m…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652330527003639809"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 15:14:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>CaV2.1 α1 subunit motifs that control presynaptic CaV2.1 subtype abundance are distinct from CaV2.1 preference  https://t.co/9GuFrKGEJG #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652330752716013570</link>
-      <description>CaV2.1 α1 subunit motifs that control presynaptic CaV2.1 subtype abundance are distinct from CaV2.1 preference  https://t.co/9GuFrKGEJG #biorxiv_neursci</description>
-      <content:encoded>CaV2.1 α1 subunit motifs that control presynaptic CaV2.1 subtype abundance are distinct from CaV2.1 preference  https://t.co/9GuFrKGEJG #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652330752716013570"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 15:15:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cholinergic activation of corticofugal circuits in the mature mouse prefrontal cortex  https://t.co/d4rsBSwh81 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652330836799246339</link>
-      <description>Cholinergic activation of corticofugal circuits in the mature mouse prefrontal cortex  https://t.co/d4rsBSwh81 #biorxiv_neursci</description>
-      <content:encoded>Cholinergic activation of corticofugal circuits in the mature mouse prefrontal cortex  https://t.co/d4rsBSwh81 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652330836799246339"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 15:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prefrontal projections modulate recurrent circuitry in insular cortex to support short-term memory  https://t.co/h43TZ6DsEV #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652330944253120513</link>
-      <description>Prefrontal projections modulate recurrent circuitry in insular cortex to support short-term memory  https://t.co/h43TZ6DsEV #biorxiv_neursci</description>
-      <content:encoded>Prefrontal projections modulate recurrent circuitry in insular cortex to support short-term memory  https://t.co/h43TZ6DsEV #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652330944253120513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 15:16:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expression pattern of nicotinic acetylcholine receptor subunit transcripts in neurons and astrocytes in the ventral tegmental area ...  https://t.co/CoSnlQmv1Z #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1652331023575678976</link>
-      <description>Expression pattern of nicotinic acetylcholine receptor subunit transcripts in neurons and astrocytes in the ventral tegmental area ...  https://t.co/CoSnlQmv1Z #biorxiv_neursci</description>
-      <content:encoded>Expression pattern of nicotinic acetylcholine receptor subunit transcripts in neurons and astrocytes in the ventral tegmental area ...  https://t.co/CoSnlQmv1Z #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1652331023575678976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 15:16:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Apr 2023 21:13:15 +0000</lastBuildDate>
     <item>
       <title>Do try this at home: Age prediction from sleep and meditation with large-scale low-cost mobile EEG  https://t.co/1AffUgmUjw #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1652331106836832257</link>
@@ -1973,6 +1912,71 @@ Be sure to submit your own research at https://t.co/QWo4r7hIGo! https://t.co/otH
       <description>Why yes I do have three screens up watching basketball, baseball and indycar right now.</description>
       <content:encoded>Why yes I do have three screens up watching basketball, baseball and indycar right now.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1652767159901122561"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 30 Apr 2023 20:09:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>An evolutionary route to warning coloration https://t.co/pHXuGITt0r</title>
+      <link>https://twitter.com/NatureNV/status/1652775681112039424</link>
+      <description>An evolutionary route to warning coloration https://t.co/pHXuGITt0r</description>
+      <content:encoded>An evolutionary route to warning coloration https://t.co/pHXuGITt0r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1652775681112039424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 20:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Image reconstructions from chronic multi unit electrode recordings in primate visual cortex. https://t.co/Wfz7jk7iDq https://t.co/sQkgcEUxWB</title>
+      <link>https://twitter.com/AndrewHires/status/1652776528785317889</link>
+      <description>Image reconstructions from chronic multi unit electrode recordings in primate visual cortex. https://t.co/Wfz7jk7iDq https://t.co/sQkgcEUxWB</description>
+      <content:encoded>Image reconstructions from chronic multi unit electrode recordings in primate visual cortex. https://t.co/Wfz7jk7iDq https://t.co/sQkgcEUxWB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1652776528785317889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu_XfeMaEAEc55h.jpg" length="1179" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 20:46:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study in @SciReports indicates that Rice’s whales are selective predators consuming schooling prey with the highest energy content. Environmental changes in the Gulf of Mexico have the potential to make prey species less available. https://t.co/62JSkaxPeK https://t.co/KLExo34nag</title>
+      <link>https://twitter.com/NaturePortfolio/status/1652777363720097792</link>
+      <description>A study in @SciReports indicates that Rice’s whales are selective predators consuming schooling prey with the highest energy content. Environmental changes in the Gulf of Mexico have the potential to make prey species less available. https://t.co/62JSkaxPeK https://t.co/KLExo34nag</description>
+      <content:encoded>A study in @SciReports indicates that Rice’s whales are selective predators consuming schooling prey with the highest energy content. Environmental changes in the Gulf of Mexico have the potential to make prey species less available. https://t.co/62JSkaxPeK https://t.co/KLExo34nag&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1652777363720097792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu_YPI5WYAQiqUh.jpg" length="1066" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 20:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JRBneuropsiq: Clinical case! 🧠💭🧵
+1/7 A 26-year-old woman from a rural region of Mexico presented in a state of catatonia. At age 21, sh…</title>
+      <link>https://twitter.com/PessoaBrain/status/1652777805745119233</link>
+      <description>RT @JRBneuropsiq: Clinical case! 🧠💭🧵
+1/7 A 26-year-old woman from a rural region of Mexico presented in a state of catatonia. At age 21, sh…</description>
+      <content:encoded>RT @JRBneuropsiq: Clinical case! 🧠💭🧵
+1/7 A 26-year-old woman from a rural region of Mexico presented in a state of catatonia. At age 21, sh…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1652777805745119233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 20:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pick any bookcase in your house. Go to the second shelf from the top, pick the sixth book from the right, and quote tweet a photo. https://t.co/VrSHxGLch5 https://t.co/21Z4OzQKg8</title>
+      <link>https://twitter.com/PessoaBrain/status/1652778680354045957</link>
+      <description>Pick any bookcase in your house. Go to the second shelf from the top, pick the sixth book from the right, and quote tweet a photo. https://t.co/VrSHxGLch5 https://t.co/21Z4OzQKg8</description>
+      <content:encoded>Pick any bookcase in your house. Go to the second shelf from the top, pick the sixth book from the right, and quote tweet a photo. https://t.co/VrSHxGLch5 https://t.co/21Z4OzQKg8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1652778680354045957"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu_Zc01X0AI6OJR.jpg" length="900" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 20:55:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌟We are delighted to work with Dr. Kasia Bieszczad on our new Research Topic at #LEARNMEM2023! Dr. Bieszczad studies neural correlates of auditory associative memory in sensory system neuroplasticity at Rutgers. Be sure to submit your own research at https://t.co/QWo4r7haQQ👈 https://t.co/NU6uhkHrin</title>
+      <link>https://twitter.com/FrontNeurosci/status/1652780111001800704</link>
+      <description>🌟We are delighted to work with Dr. Kasia Bieszczad on our new Research Topic at #LEARNMEM2023! Dr. Bieszczad studies neural correlates of auditory associative memory in sensory system neuroplasticity at Rutgers. Be sure to submit your own research at https://t.co/QWo4r7haQQ👈 https://t.co/NU6uhkHrin</description>
+      <content:encoded>🌟We are delighted to work with Dr. Kasia Bieszczad on our new Research Topic at #LEARNMEM2023! Dr. Bieszczad studies neural correlates of auditory associative memory in sensory system neuroplasticity at Rutgers. Be sure to submit your own research at https://t.co/QWo4r7haQQ👈 https://t.co/NU6uhkHrin&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1652780111001800704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fu0iHS3aMAEY_ck.png" length="263" type="photo"/>
+      <pubDate>Sun, 30 Apr 2023 21:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekend Read | An international research collaboration is studying how genetics shapes human health w/ help from an unlikely cast of characters - 240 mammalian species incl. a sled dog, Amazon river dolphins &amp;amp; dwarf lemurs.
+
+✍️ @JonathanWosen for @statnews
+https://t.co/dsOTcJK0oC</title>
+      <link>https://twitter.com/AllenInstitute/status/1652780113006559234</link>
+      <description>Weekend Read | An international research collaboration is studying how genetics shapes human health w/ help from an unlikely cast of characters - 240 mammalian species incl. a sled dog, Amazon river dolphins &amp;amp; dwarf lemurs.
+
+✍️ @JonathanWosen for @statnews
+https://t.co/dsOTcJK0oC</description>
+      <content:encoded>Weekend Read | An international research collaboration is studying how genetics shapes human health w/ help from an unlikely cast of characters - 240 mammalian species incl. a sled dog, Amazon river dolphins &amp;amp; dwarf lemurs.
+
+✍️ @JonathanWosen for @statnews
+https://t.co/dsOTcJK0oC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1652780113006559234"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 21:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
