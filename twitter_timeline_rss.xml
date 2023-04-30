@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 06:20:07 +0000</lastBuildDate>
-    <item>
-      <title>RT @ab2: Great perspectives from @KavliFoundation on their approach to philanthropy in neuroscience in @SfNtweets 🧠 #KavliNeuro https://t.c…</title>
-      <link>https://twitter.com/SfNtweets/status/1652158848180838400</link>
-      <description>RT @ab2: Great perspectives from @KavliFoundation on their approach to philanthropy in neuroscience in @SfNtweets 🧠 #KavliNeuro https://t.c…</description>
-      <content:encoded>RT @ab2: Great perspectives from @KavliFoundation on their approach to philanthropy in neuroscience in @SfNtweets 🧠 #KavliNeuro https://t.c…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1652158848180838400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 03:52:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Apr 2023 07:13:38 +0000</lastBuildDate>
     <item>
       <title>RT @theNASciences: Congratulations Alex L. Kolodkin of @JohnsHopkins, newly inducted #NASmember! #NAS160 #neuroscience https://t.co/JrvelQf…</title>
       <link>https://twitter.com/rhuganir/status/1652162468188246019</link>
@@ -1895,6 +1888,13 @@ Scientists from @BrookhavenLab in NY have the first direct observation of ma…&
       <description>RT @AdrianoAguzzi: "Expert LaTeX users performed even worse than novice Word users. LaTeX users, however, more often report enjoying using…</description>
       <content:encoded>RT @AdrianoAguzzi: "Expert LaTeX users performed even worse than novice Word users. LaTeX users, however, more often report enjoying using…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HjerlingLeffler/status/1652553187935526913"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 30 Apr 2023 05:59:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>I can’t login to the web app. Is this happening to any of you (in case you use it)?</title>
+      <link>https://twitter.com/Rainmaker1973/status/1652563235244056576</link>
+      <description>I can’t login to the web app. Is this happening to any of you (in case you use it)?</description>
+      <content:encoded>I can’t login to the web app. Is this happening to any of you (in case you use it)?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1652563235244056576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 30 Apr 2023 06:39:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
