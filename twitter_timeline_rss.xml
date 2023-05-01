@@ -6,34 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 May 2023 02:34:11 +0000</lastBuildDate>
-    <item>
-      <title>RT @matthieurouif: Paris is one of the hot places to:
-- build magical AI
-- build amazing consumer products
-- run into VCs from sandhill roa…</title>
-      <link>https://twitter.com/ylecun/status/1652365025523236866</link>
-      <description>RT @matthieurouif: Paris is one of the hot places to:
-- build magical AI
-- build amazing consumer products
-- run into VCs from sandhill roa…</description>
-      <content:encoded>RT @matthieurouif: Paris is one of the hot places to:
-- build magical AI
-- build amazing consumer products
-- run into VCs from sandhill roa…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652365025523236866"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 29 Apr 2023 17:31:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Comment article in @NatRevEarthEnv discusses the current understanding of the seismic hazard and preconditioning factors that contributed to the recent devastating events in Türkiye and Syria.
-https://t.co/pZBQKa6EHa https://t.co/YMEdsm5ISN</title>
-      <link>https://twitter.com/NaturePortfolio/status/1652366405751255042</link>
-      <description>A Comment article in @NatRevEarthEnv discusses the current understanding of the seismic hazard and preconditioning factors that contributed to the recent devastating events in Türkiye and Syria.
-https://t.co/pZBQKa6EHa https://t.co/YMEdsm5ISN</description>
-      <content:encoded>A Comment article in @NatRevEarthEnv discusses the current understanding of the seismic hazard and preconditioning factors that contributed to the recent devastating events in Türkiye and Syria.
-https://t.co/pZBQKa6EHa https://t.co/YMEdsm5ISN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1652366405751255042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fu5iePSX0AE89Mp.jpg" length="846" type="photo"/>
-      <pubDate>Sat, 29 Apr 2023 17:37:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 May 2023 03:17:58 +0000</lastBuildDate>
     <item>
       <title>Starting our @FrontYoungMinds live review at #LEARNMEM2023 with some positive comments on the article by our 4th and 5th grade participants. These included learning about how MRIs work, and how our brains can be molded by music!</title>
       <link>https://twitter.com/FrontNeurosci/status/1652367059190452228</link>
@@ -1913,6 +1886,26 @@ In 1974…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.co
       <description>Finished this book. An interesting follow up on the animal sentience debate. Also a great survey of the diversity in fish behaviors.  https://t.co/uv6wEQSyTq</description>
       <content:encoded>Finished this book. An interesting follow up on the animal sentience debate. Also a great survey of the diversity in fish behaviors.  https://t.co/uv6wEQSyTq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1652859974580846595"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 01 May 2023 02:18:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The latest @lexfridman's podcast with Robert Playter of Boston Dynamics is very interesting from a biological motor as well as a robotics perspective. https://t.co/5cjHnzYs2X</title>
+      <link>https://twitter.com/andpru/status/1652864123389067264</link>
+      <description>The latest @lexfridman's podcast with Robert Playter of Boston Dynamics is very interesting from a biological motor as well as a robotics perspective. https://t.co/5cjHnzYs2X</description>
+      <content:encoded>The latest @lexfridman's podcast with Robert Playter of Boston Dynamics is very interesting from a biological motor as well as a robotics perspective. https://t.co/5cjHnzYs2X&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1652864123389067264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 01 May 2023 02:34:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @aravindr93: Craving for speed? Come explore our super fast MoDem at ICLR 😉🚀
+
+✅ Decoder-free visual world model akin to @ylecun's JEPA 🌍…</title>
+      <link>https://twitter.com/ylecun/status/1652872278097502208</link>
+      <description>RT @aravindr93: Craving for speed? Come explore our super fast MoDem at ICLR 😉🚀
+
+✅ Decoder-free visual world model akin to @ylecun's JEPA 🌍…</description>
+      <content:encoded>RT @aravindr93: Craving for speed? Come explore our super fast MoDem at ICLR 😉🚀
+
+✅ Decoder-free visual world model akin to @ylecun's JEPA 🌍…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1652872278097502208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 01 May 2023 03:07:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
