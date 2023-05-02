@@ -6,23 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 May 2023 02:33:49 +0000</lastBuildDate>
-    <item>
-      <title>Indoor beekeeping uses an observation hive, a cedar hexagonal box small enough for easy management and big enough to produce enough honey for use in the household. Over the last decade, it has continued to gain popularity among bee keepers across the globe https://t.co/Wm3OcQUkrL https://t.co/2iYXgWHetJ</title>
-      <link>https://twitter.com/Rainmaker1973/status/1653001318263590912</link>
-      <description>Indoor beekeeping uses an observation hive, a cedar hexagonal box small enough for easy management and big enough to produce enough honey for use in the household. Over the last decade, it has continued to gain popularity among bee keepers across the globe https://t.co/Wm3OcQUkrL https://t.co/2iYXgWHetJ</description>
-      <content:encoded>Indoor beekeeping uses an observation hive, a cedar hexagonal box small enough for easy management and big enough to produce enough honey for use in the household. Over the last decade, it has continued to gain popularity among bee keepers across the globe https://t.co/Wm3OcQUkrL https://t.co/2iYXgWHetJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653001318263590912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvB9F7PWwAMoDVw.jpg" length="554" type="photo"/>
-      <pubDate>Mon, 01 May 2023 11:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>It takes me dozens of drafts to write anything. Here, for example, are three stages (out of 60+) of the opening of INFINITE POWERS. A rough idea, followed by an early attempt at sentences, followed by the final version. https://t.co/yIupiNCNsl</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653002712584159233</link>
-      <description>It takes me dozens of drafts to write anything. Here, for example, are three stages (out of 60+) of the opening of INFINITE POWERS. A rough idea, followed by an early attempt at sentences, followed by the final version. https://t.co/yIupiNCNsl</description>
-      <content:encoded>It takes me dozens of drafts to write anything. Here, for example, are three stages (out of 60+) of the opening of INFINITE POWERS. A rough idea, followed by an early attempt at sentences, followed by the final version. https://t.co/yIupiNCNsl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653002712584159233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvClIYQWcAA-0on.jpg" length="968" type="photo"/>
-      <pubDate>Mon, 01 May 2023 11:45:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 May 2023 03:17:34 +0000</lastBuildDate>
     <item>
       <title>@Labrigger Dirac, on his way to a friendly appointment with reviewer 2.</title>
       <link>https://twitter.com/UNC_Optics/status/1653004914325323777</link>
@@ -1998,6 +1982,21 @@ RIP Gordon Lightfoot.</description>
       <content:encoded>First song I leaned in the guitar. 
 RIP Gordon Lightfoot.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1653220851322433536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 02 May 2023 02:12:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mutations in the RIPK3 protein can impair the immune system’s ability to combat herpes simplex virus in the central nervous system and lead to a severe type of encephalitis, finds a new @SciImmunology report. https://t.co/FiffeUlwAA https://t.co/Nn0jgPOx3I</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653232879688622083</link>
+      <description>Mutations in the RIPK3 protein can impair the immune system’s ability to combat herpes simplex virus in the central nervous system and lead to a severe type of encephalitis, finds a new @SciImmunology report. https://t.co/FiffeUlwAA https://t.co/Nn0jgPOx3I</description>
+      <content:encoded>Mutations in the RIPK3 protein can impair the immune system’s ability to combat herpes simplex virus in the central nervous system and lead to a severe type of encephalitis, finds a new @SciImmunology report. https://t.co/FiffeUlwAA https://t.co/Nn0jgPOx3I&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653232879688622083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvF2irdWAAIcGk6.jpg" length="910" type="photo"/>
+      <pubDate>Tue, 02 May 2023 03:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jon_barron: This tweet from Yann last month is underrated. It's a remarkably succinct and strong argument, I can't stop thinking about…</title>
+      <link>https://twitter.com/ylecun/status/1653235492895313921</link>
+      <description>RT @jon_barron: This tweet from Yann last month is underrated. It's a remarkably succinct and strong argument, I can't stop thinking about…</description>
+      <content:encoded>RT @jon_barron: This tweet from Yann last month is underrated. It's a remarkably succinct and strong argument, I can't stop thinking about…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1653235492895313921"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 02 May 2023 03:10:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
