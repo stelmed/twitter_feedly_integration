@@ -6,74 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 May 2023 06:21:19 +0000</lastBuildDate>
-    <item>
-      <title>RT @schwessinger: All our plasmids will be freely available for everyone to use via @Addgene our detailed protocol is up on @protocolsIO ht…</title>
-      <link>https://twitter.com/Addgene/status/1653029049264906241</link>
-      <description>RT @schwessinger: All our plasmids will be freely available for everyone to use via @Addgene our detailed protocol is up on @protocolsIO ht…</description>
-      <content:encoded>RT @schwessinger: All our plasmids will be freely available for everyone to use via @Addgene our detailed protocol is up on @protocolsIO ht…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1653029049264906241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 01 May 2023 13:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luffa (or loofah) is a genus of tropical and subtropical vines in the cucumber family. 
-
-It is cultivated and eaten as a vegetable and the fully developed fruit is the source of the scrubbing sponges used in bathrooms and kitchens: https://t.co/Qtsh1uzEly
-https://t.co/Smevn8i0ho</title>
-      <link>https://twitter.com/Rainmaker1973/status/1653031510344192001</link>
-      <description>Luffa (or loofah) is a genus of tropical and subtropical vines in the cucumber family. 
-
-It is cultivated and eaten as a vegetable and the fully developed fruit is the source of the scrubbing sponges used in bathrooms and kitchens: https://t.co/Qtsh1uzEly
-https://t.co/Smevn8i0ho</description>
-      <content:encoded>Luffa (or loofah) is a genus of tropical and subtropical vines in the cucumber family. 
-
-It is cultivated and eaten as a vegetable and the fully developed fruit is the source of the scrubbing sponges used in bathrooms and kitchens: https://t.co/Qtsh1uzEly
-https://t.co/Smevn8i0ho&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653031510344192001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1462884937661562888/pu/img/V4newMqdBqLyzq8_.jpg" length="640" type="photo"/>
-      <pubDate>Mon, 01 May 2023 13:39:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>I just wrote a @theactionnet letter: Support Our Legislation to Fix the Fringe Rate. Write one here: https://t.co/g81kbqsvew</title>
-      <link>https://twitter.com/brainsOnMyMind/status/1653033961436884993</link>
-      <description>I just wrote a @theactionnet letter: Support Our Legislation to Fix the Fringe Rate. Write one here: https://t.co/g81kbqsvew</description>
-      <content:encoded>I just wrote a @theactionnet letter: Support Our Legislation to Fix the Fringe Rate. Write one here: https://t.co/g81kbqsvew&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1653033961436884993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 01 May 2023 13:49:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @eLife of 👉🏿 A Drosophila glial cell atlas reveals that transcriptionally defined cell types can be morphologically diverse  https://t.co/zopNOgzBs2 #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653034083302227968</link>
-      <description>#PeerReview from @eLife of 👉🏿 A Drosophila glial cell atlas reveals that transcriptionally defined cell types can be morphologically diverse  https://t.co/zopNOgzBs2 #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @eLife of 👉🏿 A Drosophila glial cell atlas reveals that transcriptionally defined cell types can be morphologically diverse  https://t.co/zopNOgzBs2 #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653034083302227968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 01 May 2023 13:50:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @rao2z: “If you don’t know an answer to a question already, I would not give the question to one of these systems,” said Subbarao Kambha…</title>
-      <link>https://twitter.com/ylecun/status/1653034534059769860</link>
-      <description>RT @rao2z: “If you don’t know an answer to a question already, I would not give the question to one of these systems,” said Subbarao Kambha…</description>
-      <content:encoded>RT @rao2z: “If you don’t know an answer to a question already, I would not give the question to one of these systems,” said Subbarao Kambha…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1653034534059769860"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 01 May 2023 13:51:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>A @nytimestech article on chatbot hallucinations.
-Companies (&amp;amp; the AI research community) are struggling to correct the issue.
-In my opinion, no amount of fine tuning will ever fix that.
-It will require a redesign.
-
-When A.I. Chatbots Hallucinate https://t.co/GPl2jBJXA9</title>
-      <link>https://twitter.com/ylecun/status/1653034551621427200</link>
-      <description>A @nytimestech article on chatbot hallucinations.
-Companies (&amp;amp; the AI research community) are struggling to correct the issue.
-In my opinion, no amount of fine tuning will ever fix that.
-It will require a redesign.
-
-When A.I. Chatbots Hallucinate https://t.co/GPl2jBJXA9</description>
-      <content:encoded>A @nytimestech article on chatbot hallucinations.
-Companies (&amp;amp; the AI research community) are struggling to correct the issue.
-In my opinion, no amount of fine tuning will ever fix that.
-It will require a redesign.
-
-When A.I. Chatbots Hallucinate https://t.co/GPl2jBJXA9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1653034551621427200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 01 May 2023 13:52:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 May 2023 07:14:45 +0000</lastBuildDate>
     <item>
       <title>RT @myelin_nation: Happy Monday #microscopy #glia #neuroscience #Biology https://t.co/Rl7QYoFyBY</title>
       <link>https://twitter.com/kwanalexc/status/1653035327693504515</link>
@@ -1917,6 +1850,86 @@ It is time to look for answers from thise who have for years being working on #R
       <description>An evolutionary route to warning coloration https://t.co/oEyQz9vX3d</description>
       <content:encoded>An evolutionary route to warning coloration https://t.co/oEyQz9vX3d&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1653276450953347073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 02 May 2023 05:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's getting very close!... https://t.co/mkFXr4qs8T</title>
+      <link>https://twitter.com/vdignum/status/1653287931035934722</link>
+      <description>It's getting very close!... https://t.co/mkFXr4qs8T</description>
+      <content:encoded>It's getting very close!... https://t.co/mkFXr4qs8T&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1653287931035934722"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvGol4dXsAIVGRT.png" length="430" type="photo"/>
+      <pubDate>Tue, 02 May 2023 06:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>A goat is probably the last animal you’d think of as an inspiration for a human-friendly robot. But Kawasaki created BEX, a robot that can gallop and, down on its knees, roll on wheels 
+
+[read more, video: https://t.co/oCQBQCF9Hc]
+https://t.co/g4kaH5UdlB</title>
+      <link>https://twitter.com/Rainmaker1973/status/1653288172074172417</link>
+      <description>A goat is probably the last animal you’d think of as an inspiration for a human-friendly robot. But Kawasaki created BEX, a robot that can gallop and, down on its knees, roll on wheels 
+
+[read more, video: https://t.co/oCQBQCF9Hc]
+https://t.co/g4kaH5UdlB</description>
+      <content:encoded>A goat is probably the last animal you’d think of as an inspiration for a human-friendly robot. But Kawasaki created BEX, a robot that can gallop and, down on its knees, roll on wheels 
+
+[read more, video: https://t.co/oCQBQCF9Hc]
+https://t.co/g4kaH5UdlB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653288172074172417"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1504214094710284290/pu/img/ZTZare61YjfCdJMT.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 02 May 2023 06:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>This wide-angle view of Dione poised over Saturn's limb, was taken by Cassini spacecraftexactly 11 years ago #Today 
+
+[source, read more: https://t.co/gWEaAx0rPB] https://t.co/RWEGP9mvnf</title>
+      <link>https://twitter.com/Rainmaker1973/status/1653288950029492226</link>
+      <description>This wide-angle view of Dione poised over Saturn's limb, was taken by Cassini spacecraftexactly 11 years ago #Today 
+
+[source, read more: https://t.co/gWEaAx0rPB] https://t.co/RWEGP9mvnf</description>
+      <content:encoded>This wide-angle view of Dione poised over Saturn's limb, was taken by Cassini spacecraftexactly 11 years ago #Today 
+
+[source, read more: https://t.co/gWEaAx0rPB] https://t.co/RWEGP9mvnf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653288950029492226"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvGpfeVXoAAyGgO.jpg" length="600" type="photo"/>
+      <pubDate>Tue, 02 May 2023 06:42:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>They are the same picture https://t.co/hGOSqQ78Wl</title>
+      <link>https://twitter.com/elonmusk/status/1653290370048966656</link>
+      <description>They are the same picture https://t.co/hGOSqQ78Wl</description>
+      <content:encoded>They are the same picture https://t.co/hGOSqQ78Wl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1653290370048966656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvGquteWYAETj4P.jpg" length="750" type="photo"/>
+      <pubDate>Tue, 02 May 2023 06:48:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Call for applicants for 1-year scholar stipends for Master students in Denmark (Deadline June 2):
+https://t.co/FGUfbQ0n3o
+#berglabcph https://t.co/kzRWMfuU5N</title>
+      <link>https://twitter.com/RuneWBerg/status/1653293507002486786</link>
+      <description>Call for applicants for 1-year scholar stipends for Master students in Denmark (Deadline June 2):
+https://t.co/FGUfbQ0n3o
+#berglabcph https://t.co/kzRWMfuU5N</description>
+      <content:encoded>Call for applicants for 1-year scholar stipends for Master students in Denmark (Deadline June 2):
+https://t.co/FGUfbQ0n3o
+#berglabcph https://t.co/kzRWMfuU5N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/RuneWBerg/status/1653293507002486786"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvGtaHkXoAAvpZ8.png" length="897" type="photo"/>
+      <pubDate>Tue, 02 May 2023 07:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @WeAreWST: History for Belgium.
+
+History for Snooker.
+
+Luca Brecel becomes the first player from mainland Europe to lift the World Champ…</title>
+      <link>https://twitter.com/avdjeugd/status/1653296212076896256</link>
+      <description>RT @WeAreWST: History for Belgium.
+
+History for Snooker.
+
+Luca Brecel becomes the first player from mainland Europe to lift the World Champ…</description>
+      <content:encoded>RT @WeAreWST: History for Belgium.
+
+History for Snooker.
+
+Luca Brecel becomes the first player from mainland Europe to lift the World Champ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1653296212076896256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 02 May 2023 07:11:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
