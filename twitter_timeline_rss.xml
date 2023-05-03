@@ -6,285 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 May 2023 19:13:03 +0000</lastBuildDate>
-    <item>
-      <title>RT @JJSherryWU: Congratulations to my boss 😄 @GordFishell</title>
-      <link>https://twitter.com/rhuganir/status/1653574233899913218</link>
-      <description>RT @JJSherryWU: Congratulations to my boss 😄 @GordFishell</description>
-      <content:encoded>RT @JJSherryWU: Congratulations to my boss 😄 @GordFishell&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1653574233899913218"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 01:36:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @naturecomputes: Bispectral Neural Networks go to #ICLR2023!
-
-In this work, we present a new neural network architecture capable of lear…</title>
-      <link>https://twitter.com/patrickmineault/status/1653580222829060096</link>
-      <description>RT @naturecomputes: Bispectral Neural Networks go to #ICLR2023!
-
-In this work, we present a new neural network architecture capable of lear…</description>
-      <content:encoded>RT @naturecomputes: Bispectral Neural Networks go to #ICLR2023!
-
-In this work, we present a new neural network architecture capable of lear…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1653580222829060096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 02:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @alxgnz: With the great @KordingLab, talking @neuromatch, causality, science and life. https://t.co/fbrFFPUDUE</title>
-      <link>https://twitter.com/KordingLab/status/1653580838469246977</link>
-      <description>RT @alxgnz: With the great @KordingLab, talking @neuromatch, causality, science and life. https://t.co/fbrFFPUDUE</description>
-      <content:encoded>RT @alxgnz: With the great @KordingLab, talking @neuromatch, causality, science and life. https://t.co/fbrFFPUDUE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1653580838469246977"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvKy7I-aAAAz0iE.jpg" length="900" type="photo"/>
-      <pubDate>Wed, 03 May 2023 02:02:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Human and mouse cortical astrocytes: a comparative view from development to morphological and functional characterization: The vision of astroglia as a bare scaffold to neuronal circuitry has been largely overturned.… #Neuroanatomy https://t.co/x43qy0DpMY</title>
-      <link>https://twitter.com/FrontNeurosci/status/1653582169229635584</link>
-      <description>New Research: Human and mouse cortical astrocytes: a comparative view from development to morphological and functional characterization: The vision of astroglia as a bare scaffold to neuronal circuitry has been largely overturned.… #Neuroanatomy https://t.co/x43qy0DpMY</description>
-      <content:encoded>New Research: Human and mouse cortical astrocytes: a comparative view from development to morphological and functional characterization: The vision of astroglia as a bare scaffold to neuronal circuitry has been largely overturned.… #Neuroanatomy https://t.co/x43qy0DpMY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1653582169229635584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 02:08:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @arjunrajlab: Re-posting: happy to chat about career advice/science/whatever! Email me to find a time. Particularly happy to chat with t…</title>
-      <link>https://twitter.com/KordingLab/status/1653582741903138816</link>
-      <description>RT @arjunrajlab: Re-posting: happy to chat about career advice/science/whatever! Email me to find a time. Particularly happy to chat with t…</description>
-      <content:encoded>RT @arjunrajlab: Re-posting: happy to chat about career advice/science/whatever! Email me to find a time. Particularly happy to chat with t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1653582741903138816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 02:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Physics! https://t.co/rv1GeZHY4V</title>
-      <link>https://twitter.com/ProfFeynman/status/1653585855599235074</link>
-      <description>Quantum Physics! https://t.co/rv1GeZHY4V</description>
-      <content:encoded>Quantum Physics! https://t.co/rv1GeZHY4V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1653585855599235074"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvK3kTYWcAEvGx4.jpg" length="1125" type="photo"/>
-      <pubDate>Wed, 03 May 2023 02:22:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>We caught a glimpse of the Northern Lights at the office 🌌! The two light sources are “sputter guns” depositing Titanium and Iridium on our electrodes through plasma bombardment. #techtuesday https://t.co/22nk46ijYw</title>
-      <link>https://twitter.com/neuralink/status/1653590813732118528</link>
-      <description>We caught a glimpse of the Northern Lights at the office 🌌! The two light sources are “sputter guns” depositing Titanium and Iridium on our electrodes through plasma bombardment. #techtuesday https://t.co/22nk46ijYw</description>
-      <content:encoded>We caught a glimpse of the Northern Lights at the office 🌌! The two light sources are “sputter guns” depositing Titanium and Iridium on our electrodes through plasma bombardment. #techtuesday https://t.co/22nk46ijYw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralink/status/1653590813732118528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvK7cthaEAQPE_I.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 03 May 2023 02:42:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scientists have delineated how the protein Oct1 enables embryonic #StemCells to differentiate into the mesoderm–clarifying a key step in #DevelopmentalBiology and potentially assisting efforts to engineer cells for regenerative medicine. @SciSignal https://t.co/YKGyJKHOoJ https://t.co/2eXgkLlI2w</title>
-      <link>https://twitter.com/ScienceMagazine/status/1653595258918256645</link>
-      <description>Scientists have delineated how the protein Oct1 enables embryonic #StemCells to differentiate into the mesoderm–clarifying a key step in #DevelopmentalBiology and potentially assisting efforts to engineer cells for regenerative medicine. @SciSignal https://t.co/YKGyJKHOoJ https://t.co/2eXgkLlI2w</description>
-      <content:encoded>Scientists have delineated how the protein Oct1 enables embryonic #StemCells to differentiate into the mesoderm–clarifying a key step in #DevelopmentalBiology and potentially assisting efforts to engineer cells for regenerative medicine. @SciSignal https://t.co/YKGyJKHOoJ https://t.co/2eXgkLlI2w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653595258918256645"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvLAH9hXgAAkziT.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 03 May 2023 03:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Check out this video: https://t.co/tv7OO4hHRG</title>
-      <link>https://twitter.com/AToliasLab/status/1653597454590255107</link>
-      <description>Check out this video: https://t.co/tv7OO4hHRG</description>
-      <content:encoded>Check out this video: https://t.co/tv7OO4hHRG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1653597454590255107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 03:08:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Most hypo-connections were located within the sensorimotor network and no fronto-striatal abnormalities were found” https://t.co/zau2Iwjylr</title>
-      <link>https://twitter.com/MargolisLab/status/1653598742891708418</link>
-      <description>“Most hypo-connections were located within the sensorimotor network and no fronto-striatal abnormalities were found” https://t.co/zau2Iwjylr</description>
-      <content:encoded>“Most hypo-connections were located within the sensorimotor network and no fronto-striatal abnormalities were found” https://t.co/zau2Iwjylr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MargolisLab/status/1653598742891708418"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 03:13:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Characterizing spatiotemporal population receptive fields in human visual cortex with fMRI  https://t.co/qrXcyJ2sYh #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653599187806613505</link>
-      <description>Characterizing spatiotemporal population receptive fields in human visual cortex with fMRI  https://t.co/qrXcyJ2sYh #biorxiv_neursci</description>
-      <content:encoded>Characterizing spatiotemporal population receptive fields in human visual cortex with fMRI  https://t.co/qrXcyJ2sYh #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653599187806613505"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 03:15:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @loicaroyer: 🚨 #ChatGPT  + @napari_imaging  🚨
-Releasing my latest weekend project: Omega, an autonomous LLM agent that writes image proc…</title>
-      <link>https://twitter.com/sofroniewn/status/1653602338337357824</link>
-      <description>RT @loicaroyer: 🚨 #ChatGPT  + @napari_imaging  🚨
-Releasing my latest weekend project: Omega, an autonomous LLM agent that writes image proc…</description>
-      <content:encoded>RT @loicaroyer: 🚨 #ChatGPT  + @napari_imaging  🚨
-Releasing my latest weekend project: Omega, an autonomous LLM agent that writes image proc…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1653602338337357824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 03:28:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations @HongkuiZeng https://t.co/nB3WATwich</title>
-      <link>https://twitter.com/ruimcosta/status/1653603088459272192</link>
-      <description>Congratulations @HongkuiZeng https://t.co/nB3WATwich</description>
-      <content:encoded>Congratulations @HongkuiZeng https://t.co/nB3WATwich&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1653603088459272192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 03:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab @ISDedal @OpenAI Why do you have more power in changing a company if you buy their stuff? Even if that were definitely true, you still draw a line somewhere: you wouldn't buy from a company that did sufficiently bad things, even if you thought you could change it more by buying their stuff.</title>
-      <link>https://twitter.com/neuro_data/status/1653605887351693312</link>
-      <description>@KordingLab @ISDedal @OpenAI Why do you have more power in changing a company if you buy their stuff? Even if that were definitely true, you still draw a line somewhere: you wouldn't buy from a company that did sufficiently bad things, even if you thought you could change it more by buying their stuff.</description>
-      <content:encoded>@KordingLab @ISDedal @OpenAI Why do you have more power in changing a company if you buy their stuff? Even if that were definitely true, you still draw a line somewhere: you wouldn't buy from a company that did sufficiently bad things, even if you thought you could change it more by buying their stuff.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1653605887351693312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 03:42:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/KmlrLxZXCo</title>
-      <link>https://twitter.com/elonmusk/status/1653608284606312448</link>
-      <description>https://t.co/KmlrLxZXCo</description>
-      <content:encoded>https://t.co/KmlrLxZXCo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1653608284606312448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 03:51:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>@neuro_data @ISDedal @OpenAI DeltaBadBehavior=-\eta d$/dBadBehavior</title>
-      <link>https://twitter.com/KordingLab/status/1653611801458925569</link>
-      <description>@neuro_data @ISDedal @OpenAI DeltaBadBehavior=-\eta d$/dBadBehavior</description>
-      <content:encoded>@neuro_data @ISDedal @OpenAI DeltaBadBehavior=-\eta d$/dBadBehavior&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1653611801458925569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 04:05:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @teichlab: Please check our CellTypist 2.0! https://t.co/ckQ4uN3cvO 
-It incorporates single-cell data harmonisation &amp;amp; integration, aimin…</title>
-      <link>https://twitter.com/sofroniewn/status/1653614157323968513</link>
-      <description>RT @teichlab: Please check our CellTypist 2.0! https://t.co/ckQ4uN3cvO 
-It incorporates single-cell data harmonisation &amp;amp; integration, aimin…</description>
-      <content:encoded>RT @teichlab: Please check our CellTypist 2.0! https://t.co/ckQ4uN3cvO 
-It incorporates single-cell data harmonisation &amp;amp; integration, aimin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1653614157323968513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 04:15:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flu virus particles can restrict each other’s spread, and so partition a host into distinct territories of infection. @_chris_brooke &amp;amp; @micromireille unpack the implications of this finding for virus evolution in our N&amp;amp;V https://t.co/9d7QWf9cuc</title>
-      <link>https://twitter.com/NatureNV/status/1653614391416291330</link>
-      <description>Flu virus particles can restrict each other’s spread, and so partition a host into distinct territories of infection. @_chris_brooke &amp;amp; @micromireille unpack the implications of this finding for virus evolution in our N&amp;amp;V https://t.co/9d7QWf9cuc</description>
-      <content:encoded>Flu virus particles can restrict each other’s spread, and so partition a host into distinct territories of infection. @_chris_brooke &amp;amp; @micromireille unpack the implications of this finding for virus evolution in our N&amp;amp;V https://t.co/9d7QWf9cuc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1653614391416291330"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 04:16:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history. 
-
-Learn more in a new #SciencePerspective. https://t.co/UxHb8qdBTe #Zoonomia https://t.co/0KFzJHLY8v</title>
-      <link>https://twitter.com/ScienceMagazine/status/1653617907375513601</link>
-      <description>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history. 
-
-Learn more in a new #SciencePerspective. https://t.co/UxHb8qdBTe #Zoonomia https://t.co/0KFzJHLY8v</description>
-      <content:encoded>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history. 
-
-Learn more in a new #SciencePerspective. https://t.co/UxHb8qdBTe #Zoonomia https://t.co/0KFzJHLY8v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653617907375513601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvLUuTAWwAAea7S.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 03 May 2023 04:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>A leaky integrate-and-fire computational model based on the connectome of the entire adult Drosophila brain reveals insights into ...  https://t.co/8QFyKxG0Qb #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653629370198532099</link>
-      <description>A leaky integrate-and-fire computational model based on the connectome of the entire adult Drosophila brain reveals insights into ...  https://t.co/8QFyKxG0Qb #biorxiv_neursci</description>
-      <content:encoded>A leaky integrate-and-fire computational model based on the connectome of the entire adult Drosophila brain reveals insights into ...  https://t.co/8QFyKxG0Qb #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653629370198532099"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 05:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Going back to 2010-style: filing blog posts occasionally. No API-based automatic Twitter post. It’s maybe healthier this way.</title>
-      <link>https://twitter.com/Labrigger/status/1653629449194340353</link>
-      <description>Going back to 2010-style: filing blog posts occasionally. No API-based automatic Twitter post. It’s maybe healthier this way.</description>
-      <content:encoded>Going back to 2010-style: filing blog posts occasionally. No API-based automatic Twitter post. It’s maybe healthier this way.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Labrigger/status/1653629449194340353"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 05:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cell division is delayed when errors arise. mRNA translation generates different versions of the cell-cycle protein CDC20 and the ratio of these versions influences the length of delay. https://t.co/dGf1CXsduW https://t.co/BbaRCZBBTM</title>
-      <link>https://twitter.com/NatureNV/status/1653635924960444421</link>
-      <description>Cell division is delayed when errors arise. mRNA translation generates different versions of the cell-cycle protein CDC20 and the ratio of these versions influences the length of delay. https://t.co/dGf1CXsduW https://t.co/BbaRCZBBTM</description>
-      <content:encoded>Cell division is delayed when errors arise. mRNA translation generates different versions of the cell-cycle protein CDC20 and the ratio of these versions influences the length of delay. https://t.co/dGf1CXsduW https://t.co/BbaRCZBBTM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1653635924960444421"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvLlHFmWcAUUIAf.jpg" length="1024" type="photo"/>
-      <pubDate>Wed, 03 May 2023 05:41:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wondering about the differences between enhancer and promoter traps? We break down genetic traps in our latest Plasmids 101 blog https://t.co/GNWImwWefK</title>
-      <link>https://twitter.com/Addgene/status/1653640529215729664</link>
-      <description>Wondering about the differences between enhancer and promoter traps? We break down genetic traps in our latest Plasmids 101 blog https://t.co/GNWImwWefK</description>
-      <content:encoded>Wondering about the differences between enhancer and promoter traps? We break down genetic traps in our latest Plasmids 101 blog https://t.co/GNWImwWefK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1653640529215729664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 05:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saline water may have transiently existed on warmer, low-latitude areas of Mars more recently than previously thought, according to a new analysis of Martian sand dunes from the #Zhurong rover in @ScienceAdvances. https://t.co/tAujJcNypE https://t.co/WqUfN44LQb</title>
-      <link>https://twitter.com/ScienceMagazine/status/1653640590175744001</link>
-      <description>Saline water may have transiently existed on warmer, low-latitude areas of Mars more recently than previously thought, according to a new analysis of Martian sand dunes from the #Zhurong rover in @ScienceAdvances. https://t.co/tAujJcNypE https://t.co/WqUfN44LQb</description>
-      <content:encoded>Saline water may have transiently existed on warmer, low-latitude areas of Mars more recently than previously thought, according to a new analysis of Martian sand dunes from the #Zhurong rover in @ScienceAdvances. https://t.co/tAujJcNypE https://t.co/WqUfN44LQb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653640590175744001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvLpWV0XgAACEaj.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 03 May 2023 06:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Born #Today in 1933, Steven Weinberg was nuclear physicist and shared the 1979 Nobel Prize for Physics  for work in formulating the electroweak theory, which explains the unity of electromagnetism with the weak nuclear force 
-
-[read more: https://t.co/QwA6tmXSJz] https://t.co/Y95ZWTKgeO</title>
-      <link>https://twitter.com/Rainmaker1973/status/1653641837607804928</link>
-      <description>Born #Today in 1933, Steven Weinberg was nuclear physicist and shared the 1979 Nobel Prize for Physics  for work in formulating the electroweak theory, which explains the unity of electromagnetism with the weak nuclear force 
-
-[read more: https://t.co/QwA6tmXSJz] https://t.co/Y95ZWTKgeO</description>
-      <content:encoded>Born #Today in 1933, Steven Weinberg was nuclear physicist and shared the 1979 Nobel Prize for Physics  for work in formulating the electroweak theory, which explains the unity of electromagnetism with the weak nuclear force 
-
-[read more: https://t.co/QwA6tmXSJz] https://t.co/Y95ZWTKgeO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653641837607804928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvLqeUbXoAEmKOL.jpg" length="680" type="photo"/>
-      <pubDate>Wed, 03 May 2023 06:05:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Even when you're in space, a good coffee is a priority. This photo by @AstroSamantha, which became a true icon for geeks and trekkies, was taken exactly 8 years ago #Today https://t.co/ivKtdGNZRd https://t.co/gGDSwsNYJZ</title>
-      <link>https://twitter.com/Rainmaker1973/status/1653642387280007168</link>
-      <description>Even when you're in space, a good coffee is a priority. This photo by @AstroSamantha, which became a true icon for geeks and trekkies, was taken exactly 8 years ago #Today https://t.co/ivKtdGNZRd https://t.co/gGDSwsNYJZ</description>
-      <content:encoded>Even when you're in space, a good coffee is a priority. This photo by @AstroSamantha, which became a true icon for geeks and trekkies, was taken exactly 8 years ago #Today https://t.co/ivKtdGNZRd https://t.co/gGDSwsNYJZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653642387280007168"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvLq33ZWwAINptR.jpg" length="599" type="photo"/>
-      <pubDate>Wed, 03 May 2023 06:07:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>The first known spam email, was sent 45 years ago #Today, to 393 users on ARPANET. It was an advertisement for a presentation by Digital Equipment Corporation for their DECSYSTEM-20 products sent by Gary Thuerk, a marketer of theirs
-
-[read more: https://t.co/3tDds5HrTL] https://t.co/ZU98TRqps0</title>
-      <link>https://twitter.com/Rainmaker1973/status/1653643573428928512</link>
-      <description>The first known spam email, was sent 45 years ago #Today, to 393 users on ARPANET. It was an advertisement for a presentation by Digital Equipment Corporation for their DECSYSTEM-20 products sent by Gary Thuerk, a marketer of theirs
-
-[read more: https://t.co/3tDds5HrTL] https://t.co/ZU98TRqps0</description>
-      <content:encoded>The first known spam email, was sent 45 years ago #Today, to 393 users on ARPANET. It was an advertisement for a presentation by Digital Equipment Corporation for their DECSYSTEM-20 products sent by Gary Thuerk, a marketer of theirs
-
-[read more: https://t.co/3tDds5HrTL] https://t.co/ZU98TRqps0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653643573428928512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvLrzKPX0AEVxP3.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 03 May 2023 06:12:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Waste plastic contains polymers that blend poorly with each other, making recycling challenging. A simple process that overcomes this problem has been found https://t.co/MtvMoIYEyl</title>
-      <link>https://twitter.com/NatureNV/status/1653645617590153216</link>
-      <description>Waste plastic contains polymers that blend poorly with each other, making recycling challenging. A simple process that overcomes this problem has been found https://t.co/MtvMoIYEyl</description>
-      <content:encoded>Waste plastic contains polymers that blend poorly with each other, making recycling challenging. A simple process that overcomes this problem has been found https://t.co/MtvMoIYEyl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1653645617590153216"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 06:20:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations to our President, Maria Leptin, on being elected as international member to the US National Academy of Sciences! 
-
-Very well-deserved recognition!
-🇪🇺 🇺🇸 
-
-@theNASciences @MLeptin 
-#NASmembers https://t.co/0LHj1w1SST</title>
-      <link>https://twitter.com/ERC_Research/status/1653646519898177536</link>
-      <description>Congratulations to our President, Maria Leptin, on being elected as international member to the US National Academy of Sciences! 
-
-Very well-deserved recognition!
-🇪🇺 🇺🇸 
-
-@theNASciences @MLeptin 
-#NASmembers https://t.co/0LHj1w1SST</description>
-      <content:encoded>Congratulations to our President, Maria Leptin, on being elected as international member to the US National Academy of Sciences! 
-
-Very well-deserved recognition!
-🇪🇺 🇺🇸 
-
-@theNASciences @MLeptin 
-#NASmembers https://t.co/0LHj1w1SST&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1653646519898177536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 06:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is believed to be the world's first computer-generated 3D animation and it dates back to 1972. It was created by Ed Catmull, a true pioneer of 3D technology, who was a computer scientist at the University of Utah 
-
-[video: https://t.co/P4JqEIEvJ1]
-https://t.co/Q6Kn817vCb</title>
-      <link>https://twitter.com/Rainmaker1973/status/1653647211639570432</link>
-      <description>This is believed to be the world's first computer-generated 3D animation and it dates back to 1972. It was created by Ed Catmull, a true pioneer of 3D technology, who was a computer scientist at the University of Utah 
-
-[video: https://t.co/P4JqEIEvJ1]
-https://t.co/Q6Kn817vCb</description>
-      <content:encoded>This is believed to be the world's first computer-generated 3D animation and it dates back to 1972. It was created by Ed Catmull, a true pioneer of 3D technology, who was a computer scientist at the University of Utah 
-
-[video: https://t.co/P4JqEIEvJ1]
-https://t.co/Q6Kn817vCb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653647211639570432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1531670954845294593/pu/img/MZsyaU0kHvxpyzqo.jpg" length="638" type="photo"/>
-      <pubDate>Wed, 03 May 2023 06:26:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 May 2023 20:17:31 +0000</lastBuildDate>
     <item>
       <title>The interaction between electrical fields and liquids leads to a phenomenon defying intuition, called the floating water bridge
 
@@ -2065,6 +1787,311 @@ Here’s how one school district’s educators connected more openly + engaged d
       <description>Looks like a great event https://t.co/5bBIyymwDS</description>
       <content:encoded>Looks like a great event https://t.co/5bBIyymwDS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1653839979884453888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 03 May 2023 19:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CharlotteRosher: Conferences are great for meet ups, but especially great when you meet one of your fellow @neuromatch group members! 😄…</title>
+      <link>https://twitter.com/neuromatch/status/1653840631741968389</link>
+      <description>RT @CharlotteRosher: Conferences are great for meet ups, but especially great when you meet one of your fellow @neuromatch group members! 😄…</description>
+      <content:encoded>RT @CharlotteRosher: Conferences are great for meet ups, but especially great when you meet one of your fellow @neuromatch group members! 😄…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1653840631741968389"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 19:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alignment with global values, ensuring inclusion and diversity. Going further than #Europe values, we need true inclusive #AI
+#ResponsibleAI https://t.co/AX4M5UuQfq</title>
+      <link>https://twitter.com/vdignum/status/1653840779482132484</link>
+      <description>Alignment with global values, ensuring inclusion and diversity. Going further than #Europe values, we need true inclusive #AI
+#ResponsibleAI https://t.co/AX4M5UuQfq</description>
+      <content:encoded>Alignment with global values, ensuring inclusion and diversity. Going further than #Europe values, we need true inclusive #AI
+#ResponsibleAI https://t.co/AX4M5UuQfq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1653840779482132484"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 19:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/RLnEAaOcfO</title>
+      <link>https://twitter.com/neuromatch/status/1653842946532229121</link>
+      <description>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/RLnEAaOcfO</description>
+      <content:encoded>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/RLnEAaOcfO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1653842946532229121"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 19:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/I7avDD11Ff</title>
+      <link>https://twitter.com/neuromatch/status/1653843039142510592</link>
+      <description>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/I7avDD11Ff</description>
+      <content:encoded>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/I7avDD11Ff&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1653843039142510592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 19:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/rzpaOhHF66</title>
+      <link>https://twitter.com/neuromatch/status/1653843147632308229</link>
+      <description>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/rzpaOhHF66</description>
+      <content:encoded>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/rzpaOhHF66&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1653843147632308229"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 19:25:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/KJU5oxTteT</title>
+      <link>https://twitter.com/neuromatch/status/1653843248689950721</link>
+      <description>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/KJU5oxTteT</description>
+      <content:encoded>Have you applied to Neuromatch Academy courses 2023?
+
+See the ⭐️⭐️⭐️⭐️⭐️ feedback from last year's participants and prepare your application before the (hard) deadline (8th May!)
+
+Apply here: https://t.co/X3aiaCmzav https://t.co/KJU5oxTteT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1653843248689950721"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 19:25:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The @ZoonomiaProject’s sequencing of more than 240 mammal genomes is paving new roads for understanding mammalian diversity and evolution and ourselves.
+
+Their findings are explored in this special issue of Science. (THREAD 🧵) https://t.co/s4N159JW7o #Zoonomia https://t.co/nFnmWXsbaB</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844539394732032</link>
+      <description>The @ZoonomiaProject’s sequencing of more than 240 mammal genomes is paving new roads for understanding mammalian diversity and evolution and ourselves.
+
+Their findings are explored in this special issue of Science. (THREAD 🧵) https://t.co/s4N159JW7o #Zoonomia https://t.co/nFnmWXsbaB</description>
+      <content:encoded>The @ZoonomiaProject’s sequencing of more than 240 mammal genomes is paving new roads for understanding mammalian diversity and evolution and ourselves.
+
+Their findings are explored in this special issue of Science. (THREAD 🧵) https://t.co/s4N159JW7o #Zoonomia https://t.co/nFnmWXsbaB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844539394732032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOhF09XwAA3NrV.jpg" length="943" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history.
+
+Learn more in a new #SciencePerspective. https://t.co/fRepkFvfHj #Zoonomia https://t.co/yByhRn72ED</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844541177208838</link>
+      <description>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history.
+
+Learn more in a new #SciencePerspective. https://t.co/fRepkFvfHj #Zoonomia https://t.co/yByhRn72ED</description>
+      <content:encoded>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history.
+
+Learn more in a new #SciencePerspective. https://t.co/fRepkFvfHj #Zoonomia https://t.co/yByhRn72ED&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844541177208838"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOhMAxWYAIxIM2.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>By taking advantage of an unprecedented catalog of evolutionary constraint across the genomes of 240 placental mammals, the @ZoonomiaProject provides context and generates new hypotheses about human traits, a new #SciencePerspective argues. https://t.co/vDgCPaT4w5 #Zoonomia https://t.co/TRVwzYblVI</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844542561427456</link>
+      <description>By taking advantage of an unprecedented catalog of evolutionary constraint across the genomes of 240 placental mammals, the @ZoonomiaProject provides context and generates new hypotheses about human traits, a new #SciencePerspective argues. https://t.co/vDgCPaT4w5 #Zoonomia https://t.co/TRVwzYblVI</description>
+      <content:encoded>By taking advantage of an unprecedented catalog of evolutionary constraint across the genomes of 240 placental mammals, the @ZoonomiaProject provides context and generates new hypotheses about human traits, a new #SciencePerspective argues. https://t.co/vDgCPaT4w5 #Zoonomia https://t.co/TRVwzYblVI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844542561427456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOhQi_WcAAJ6Fa.jpg" length="552" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Science study investigates the genome sequence of Balto, a famed sled dog. His genome, along with others, was used to reveal his ancestry and adaptations—and predict aspects of his morphology, including coat color. https://t.co/C2GGa0E5Ef #Zoonomia https://t.co/bN1Z96894M</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844543953854464</link>
+      <description>A new Science study investigates the genome sequence of Balto, a famed sled dog. His genome, along with others, was used to reveal his ancestry and adaptations—and predict aspects of his morphology, including coat color. https://t.co/C2GGa0E5Ef #Zoonomia https://t.co/bN1Z96894M</description>
+      <content:encoded>A new Science study investigates the genome sequence of Balto, a famed sled dog. His genome, along with others, was used to reveal his ancestry and adaptations—and predict aspects of his morphology, including coat color. https://t.co/C2GGa0E5Ef #Zoonomia https://t.co/bN1Z96894M&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844543953854464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOhZODXsAEUDnc.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers in Science have pinpointed parts of the genome linked to a few exceptional traits in the mammalian world, such as extraordinary brain size, superior sense of smell, and the ability to hibernate during the winter. https://t.co/f4faX63cBu #Zoonomia https://t.co/E0EotyyJCf</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844545665105922</link>
+      <description>Researchers in Science have pinpointed parts of the genome linked to a few exceptional traits in the mammalian world, such as extraordinary brain size, superior sense of smell, and the ability to hibernate during the winter. https://t.co/f4faX63cBu #Zoonomia https://t.co/E0EotyyJCf</description>
+      <content:encoded>Researchers in Science have pinpointed parts of the genome linked to a few exceptional traits in the mammalian world, such as extraordinary brain size, superior sense of smell, and the ability to hibernate during the winter. https://t.co/f4faX63cBu #Zoonomia https://t.co/E0EotyyJCf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844545665105922"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOhiDNWcAM8zmT.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Science study shows that mammals had begun to change and diverge even before the Earth was hit by the asteroid that killed the dinosaurs, approximately 65 million years ago. https://t.co/0CUirPysHE #Zoonomia https://t.co/tjyztWp0v8</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844547204521986</link>
+      <description>A new Science study shows that mammals had begun to change and diverge even before the Earth was hit by the asteroid that killed the dinosaurs, approximately 65 million years ago. https://t.co/0CUirPysHE #Zoonomia https://t.co/tjyztWp0v8</description>
+      <content:encoded>A new Science study shows that mammals had begun to change and diverge even before the Earth was hit by the asteroid that killed the dinosaurs, approximately 65 million years ago. https://t.co/0CUirPysHE #Zoonomia https://t.co/tjyztWp0v8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844547204521986"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOhtAJXoAI9LHQ.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Science study of patients with medulloblastoma identifies mutations in evolutionarily conserved positions of the human genome they believe could be causing brain tumors to grow faster or to resist treatment. https://t.co/F6ipAfIZw1 #Zoonomia https://t.co/UIVn18Al0n</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844548492091392</link>
+      <description>A new Science study of patients with medulloblastoma identifies mutations in evolutionarily conserved positions of the human genome they believe could be causing brain tumors to grow faster or to resist treatment. https://t.co/F6ipAfIZw1 #Zoonomia https://t.co/UIVn18Al0n</description>
+      <content:encoded>A new Science study of patients with medulloblastoma identifies mutations in evolutionarily conserved positions of the human genome they believe could be causing brain tumors to grow faster or to resist treatment. https://t.co/F6ipAfIZw1 #Zoonomia https://t.co/UIVn18Al0n&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844548492091392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOh3fhXoAEjSmv.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers in Science have used genomic information to help predict extinction risk in diverse mammalian species, finding that species with smaller populations historically are at higher risk of extinction today. https://t.co/IbfZnMHJbv #Zoonomia https://t.co/SM0ZJOBoJ4</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844550006218753</link>
+      <description>Researchers in Science have used genomic information to help predict extinction risk in diverse mammalian species, finding that species with smaller populations historically are at higher risk of extinction today. https://t.co/IbfZnMHJbv #Zoonomia https://t.co/SM0ZJOBoJ4</description>
+      <content:encoded>Researchers in Science have used genomic information to help predict extinction risk in diverse mammalian species, finding that species with smaller populations historically are at higher risk of extinction today. https://t.co/IbfZnMHJbv #Zoonomia https://t.co/SM0ZJOBoJ4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844550006218753"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOh-zIWYAEJpQu.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Science study examines more than 10,000 genetic deletions specific to humans using both #Zoonomia data and experimental analysis, linking some of them to the function of neurons. https://t.co/SvpM1oI1lV https://t.co/qH09Et2QkB</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844551856013314</link>
+      <description>A new Science study examines more than 10,000 genetic deletions specific to humans using both #Zoonomia data and experimental analysis, linking some of them to the function of neurons. https://t.co/SvpM1oI1lV https://t.co/qH09Et2QkB</description>
+      <content:encoded>A new Science study examines more than 10,000 genetic deletions specific to humans using both #Zoonomia data and experimental analysis, linking some of them to the function of neurons. https://t.co/SvpM1oI1lV https://t.co/qH09Et2QkB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844551856013314"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOiFHMWcAIoGbQ.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>By combining comparative genomics with models of 3D genome folding, a new Science study reveals enhancer hijacking as an explanation for the rapid evolution of human accelerated regions. https://t.co/obASvkoFmW #Zoonomia https://t.co/5JymQDjK1A</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844554833960960</link>
+      <description>By combining comparative genomics with models of 3D genome folding, a new Science study reveals enhancer hijacking as an explanation for the rapid evolution of human accelerated regions. https://t.co/obASvkoFmW #Zoonomia https://t.co/5JymQDjK1A</description>
+      <content:encoded>By combining comparative genomics with models of 3D genome folding, a new Science study reveals enhancer hijacking as an explanation for the rapid evolution of human accelerated regions. https://t.co/obASvkoFmW #Zoonomia https://t.co/5JymQDjK1A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844554833960960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOiMOxWIAIQtIr.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Science study considers the wide-ranging effects that transposable elements impose on the genomic architecture of placental mammals. https://t.co/ASes5vYmP0 #Zoonomia https://t.co/GnAVCMUzSd</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844556087959553</link>
+      <description>A new Science study considers the wide-ranging effects that transposable elements impose on the genomic architecture of placental mammals. https://t.co/ASes5vYmP0 #Zoonomia https://t.co/GnAVCMUzSd</description>
+      <content:encoded>A new Science study considers the wide-ranging effects that transposable elements impose on the genomic architecture of placental mammals. https://t.co/ASes5vYmP0 #Zoonomia https://t.co/GnAVCMUzSd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844556087959553"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOiSnqXwAMAmzh.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers in Science present a method used to compare genes between nearly 500 species of mammals. https://t.co/VQLkFdvWia #Zoonomia https://t.co/lP15ExSWzs</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844557300133888</link>
+      <description>Researchers in Science present a method used to compare genes between nearly 500 species of mammals. https://t.co/VQLkFdvWia #Zoonomia https://t.co/lP15ExSWzs</description>
+      <content:encoded>Researchers in Science present a method used to compare genes between nearly 500 species of mammals. https://t.co/VQLkFdvWia #Zoonomia https://t.co/lP15ExSWzs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844557300133888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOiZOfXsAEajch.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Science study describes the evolution of regulatory sequences in the human genome. https://t.co/Der8CSVMAX #Zoonomia https://t.co/ntxRhsHEXr</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844558696833025</link>
+      <description>A new Science study describes the evolution of regulatory sequences in the human genome. https://t.co/Der8CSVMAX #Zoonomia https://t.co/ntxRhsHEXr</description>
+      <content:encoded>A new Science study describes the evolution of regulatory sequences in the human genome. https://t.co/Der8CSVMAX #Zoonomia https://t.co/ntxRhsHEXr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844558696833025"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOigNoXoAEb6hR.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers in Science have used #MachineLearning to identify regions of the genome associated with brain size. https://t.co/gzmwejah95 #Zoonomia https://t.co/9g6JiUv8gQ</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653844560131260422</link>
+      <description>Researchers in Science have used #MachineLearning to identify regions of the genome associated with brain size. https://t.co/gzmwejah95 #Zoonomia https://t.co/9g6JiUv8gQ</description>
+      <content:encoded>Researchers in Science have used #MachineLearning to identify regions of the genome associated with brain size. https://t.co/gzmwejah95 #Zoonomia https://t.co/9g6JiUv8gQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653844560131260422"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvOioEjWYAAbwwT.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is what a transition between turbojet and ramjet more looks like.
+
+[source, read more: https://t.co/g5t1boQyM6]
+https://t.co/AEEXHA46Q4</title>
+      <link>https://twitter.com/Rainmaker1973/status/1653844810384457729</link>
+      <description>This is what a transition between turbojet and ramjet more looks like.
+
+[source, read more: https://t.co/g5t1boQyM6]
+https://t.co/AEEXHA46Q4</description>
+      <content:encoded>This is what a transition between turbojet and ramjet more looks like.
+
+[source, read more: https://t.co/g5t1boQyM6]
+https://t.co/AEEXHA46Q4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653844810384457729"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1593248882007617537/pu/img/nfpHCNlAbim6Nhtn.jpg" length="720" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @garwboy: A few have asked my insight on this new study where language AIs successfully 'read minds' based on brain scan data, as it see…</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1653845946407501831</link>
+      <description>RT @garwboy: A few have asked my insight on this new study where language AIs successfully 'read minds' based on brain scan data, as it see…</description>
+      <content:encoded>RT @garwboy: A few have asked my insight on this new study where language AIs successfully 'read minds' based on brain scan data, as it see…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1653845946407501831"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 19:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Views of Tokyo, Japan, 1913-1915
+
+Upscaled with neural network, colorized, FPS boosted to 60 frames per second
+
+[📹 Denis Shiryaev: https://t.co/bkDbcHYUWo]
+https://t.co/Tp80fi3OJW</title>
+      <link>https://twitter.com/Rainmaker1973/status/1653847805444734978</link>
+      <description>Views of Tokyo, Japan, 1913-1915
+
+Upscaled with neural network, colorized, FPS boosted to 60 frames per second
+
+[📹 Denis Shiryaev: https://t.co/bkDbcHYUWo]
+https://t.co/Tp80fi3OJW</description>
+      <content:encoded>Views of Tokyo, Japan, 1913-1915
+
+Upscaled with neural network, colorized, FPS boosted to 60 frames per second
+
+[📹 Denis Shiryaev: https://t.co/bkDbcHYUWo]
+https://t.co/Tp80fi3OJW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653847805444734978"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1554385930307395585/pu/img/52yPfKgyS13AzjPI.jpg" length="640" type="photo"/>
+      <pubDate>Wed, 03 May 2023 19:43:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brain dynamics uncovered using a machine-learning algorithm https://t.co/KHPKQoAb0j</title>
+      <link>https://twitter.com/NatureNV/status/1653847861124030465</link>
+      <description>Brain dynamics uncovered using a machine-learning algorithm https://t.co/KHPKQoAb0j</description>
+      <content:encoded>Brain dynamics uncovered using a machine-learning algorithm https://t.co/KHPKQoAb0j&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1653847861124030465"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 19:43:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @encods2023: Our committee members @KJacquerie and @petra_moce showing attendees how to use @BackyardBrains in our coffee break this aft…</title>
+      <link>https://twitter.com/BackyardBrains/status/1653852680819703810</link>
+      <description>RT @encods2023: Our committee members @KJacquerie and @petra_moce showing attendees how to use @BackyardBrains in our coffee break this aft…</description>
+      <content:encoded>RT @encods2023: Our committee members @KJacquerie and @petra_moce showing attendees how to use @BackyardBrains in our coffee break this aft…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BackyardBrains/status/1653852680819703810"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 20:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pLV-CAG-F14F15S-BFP2-(mCherry)'
+Depositor: Ian Wickersham @ian_wickersham 
+Purpose: Lentiviral transfer plasmid for expression of mTagBFP2 before Flp recombination and mCherry after it
+
+https://t.co/nbSugmURQC https://t.co/AFgkWMVbVt</title>
+      <link>https://twitter.com/Addgene/status/1653853704846471168</link>
+      <description>pLV-CAG-F14F15S-BFP2-(mCherry)'
+Depositor: Ian Wickersham @ian_wickersham 
+Purpose: Lentiviral transfer plasmid for expression of mTagBFP2 before Flp recombination and mCherry after it
+
+https://t.co/nbSugmURQC https://t.co/AFgkWMVbVt</description>
+      <content:encoded>pLV-CAG-F14F15S-BFP2-(mCherry)'
+Depositor: Ian Wickersham @ian_wickersham 
+Purpose: Lentiviral transfer plasmid for expression of mTagBFP2 before Flp recombination and mCherry after it
+
+https://t.co/nbSugmURQC https://t.co/AFgkWMVbVt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1653853704846471168"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FvOrK-BWAAYzFQl.jpg" length="480" type="photo"/>
+      <pubDate>Wed, 03 May 2023 20:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>What a refreshing perspective ! https://t.co/pga10z1FCe</title>
+      <link>https://twitter.com/blamlab/status/1653855590106513411</link>
+      <description>What a refreshing perspective ! https://t.co/pga10z1FCe</description>
+      <content:encoded>What a refreshing perspective ! https://t.co/pga10z1FCe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1653855590106513411"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 20:14:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
