@@ -6,225 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 May 2023 14:14:47 +0000</lastBuildDate>
-    <item>
-      <title>Curious about implementing recommendation systems ?
-
-Our latest blog post covers deep retrieval with two-tower encoders and Vertex AI Matching Engine. 
-
-Learn how to build a playlist recommendation system from scratch with TFRS library and Vertex AI. ⬇️ 
-
-https://t.co/KXbUrkwNs8</title>
-      <link>https://twitter.com/TensorFlow/status/1653450322906316813</link>
-      <description>Curious about implementing recommendation systems ?
-
-Our latest blog post covers deep retrieval with two-tower encoders and Vertex AI Matching Engine. 
-
-Learn how to build a playlist recommendation system from scratch with TFRS library and Vertex AI. ⬇️ 
-
-https://t.co/KXbUrkwNs8</description>
-      <content:encoded>Curious about implementing recommendation systems ?
-
-Our latest blog post covers deep retrieval with two-tower encoders and Vertex AI Matching Engine. 
-
-Learn how to build a playlist recommendation system from scratch with TFRS library and Vertex AI. ⬇️ 
-
-https://t.co/KXbUrkwNs8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1653450322906316813"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 17:24:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>A paper in @npjDigitalMed presents a deep learning model to predict risk for major adverse cardiovascular events. https://t.co/09kDoOiCML https://t.co/QVVHzgCTfU</title>
-      <link>https://twitter.com/NaturePortfolio/status/1653453571700949016</link>
-      <description>A paper in @npjDigitalMed presents a deep learning model to predict risk for major adverse cardiovascular events. https://t.co/09kDoOiCML https://t.co/QVVHzgCTfU</description>
-      <content:encoded>A paper in @npjDigitalMed presents a deep learning model to predict risk for major adverse cardiovascular events. https://t.co/09kDoOiCML https://t.co/QVVHzgCTfU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1653453571700949016"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvI_PoOWAA8n20z.jpg" length="1000" type="photo"/>
-      <pubDate>Tue, 02 May 2023 17:37:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers from MIT and elsewhere have built a wake-up receiver that communicates using terahertz waves, which enabled them to produce a chip more than 10 times smaller than similar devices. https://t.co/chwhPSG3Sa https://t.co/uWjJsl3AeD</title>
-      <link>https://twitter.com/MIT/status/1653454518464413710</link>
-      <description>Researchers from MIT and elsewhere have built a wake-up receiver that communicates using terahertz waves, which enabled them to produce a chip more than 10 times smaller than similar devices. https://t.co/chwhPSG3Sa https://t.co/uWjJsl3AeD</description>
-      <content:encoded>Researchers from MIT and elsewhere have built a wake-up receiver that communicates using terahertz waves, which enabled them to produce a chip more than 10 times smaller than similar devices. https://t.co/chwhPSG3Sa https://t.co/uWjJsl3AeD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1653454518464413710"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvJAHzsWACIor_z.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 02 May 2023 17:40:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here's a heartwarming throwback in honor of #TeacherAppreciationDay and all the science teachers who inspired Allenites. ❤️👩‍🏫
-
-In 2019, research associate Maggie Fuqua invited her 7th grade science teacher, Tammie Schrader, to visit her at work. https://t.co/8SHSi418P9</title>
-      <link>https://twitter.com/AllenInstitute/status/1653457536681672704</link>
-      <description>Here's a heartwarming throwback in honor of #TeacherAppreciationDay and all the science teachers who inspired Allenites. ❤️👩‍🏫
-
-In 2019, research associate Maggie Fuqua invited her 7th grade science teacher, Tammie Schrader, to visit her at work. https://t.co/8SHSi418P9</description>
-      <content:encoded>Here's a heartwarming throwback in honor of #TeacherAppreciationDay and all the science teachers who inspired Allenites. ❤️👩‍🏫
-
-In 2019, research associate Maggie Fuqua invited her 7th grade science teacher, Tammie Schrader, to visit her at work. https://t.co/8SHSi418P9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1653457536681672704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvI8IEZaMAIThX2.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 02 May 2023 17:52:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Tammie’s energy and excitement for science was truly inspiring, and she managed to get a class full of 7th graders to ask questions and actively learn about science." #TeacherAppreciationDay (2/3) https://t.co/wNQLWBuJY7</title>
-      <link>https://twitter.com/AllenInstitute/status/1653457540112596992</link>
-      <description>"Tammie’s energy and excitement for science was truly inspiring, and she managed to get a class full of 7th graders to ask questions and actively learn about science." #TeacherAppreciationDay (2/3) https://t.co/wNQLWBuJY7</description>
-      <content:encoded>"Tammie’s energy and excitement for science was truly inspiring, and she managed to get a class full of 7th graders to ask questions and actively learn about science." #TeacherAppreciationDay (2/3) https://t.co/wNQLWBuJY7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1653457540112596992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvI88ZCaMAAs6iw.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 02 May 2023 17:52:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>"I hope she knows what an impact and positive influence she’s had on my life within and beyond the classroom."   
-
-We would love to hear about the teachers who have supported and inspired YOU this #TeacherAppreciationDay! (3/3) https://t.co/O8PgECWM2Y</title>
-      <link>https://twitter.com/AllenInstitute/status/1653457544004907010</link>
-      <description>"I hope she knows what an impact and positive influence she’s had on my life within and beyond the classroom."   
-
-We would love to hear about the teachers who have supported and inspired YOU this #TeacherAppreciationDay! (3/3) https://t.co/O8PgECWM2Y</description>
-      <content:encoded>"I hope she knows what an impact and positive influence she’s had on my life within and beyond the classroom."   
-
-We would love to hear about the teachers who have supported and inspired YOU this #TeacherAppreciationDay! (3/3) https://t.co/O8PgECWM2Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1653457544004907010"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvI_mr_aQAARYMo.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 02 May 2023 17:52:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Please read this thread and consider subscribing. That beauty of the world around us is certainly worth the expense. https://t.co/eSqemFa5d1</title>
-      <link>https://twitter.com/Rainmaker1973/status/1653457933831684117</link>
-      <description>Please read this thread and consider subscribing. That beauty of the world around us is certainly worth the expense. https://t.co/eSqemFa5d1</description>
-      <content:encoded>Please read this thread and consider subscribing. That beauty of the world around us is certainly worth the expense. https://t.co/eSqemFa5d1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653457933831684117"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 17:54:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>New research led by @PaulMaarten @erasmusmcintl @MolecularGenet3 in collaboration w/@AICJanelia uses 3D tracking &amp;amp; super-resolution microscopy to reveal the distinct mobility patterns of molecules that help prevent cancer by repairing damaged DNA. 🧵 1/7 https://t.co/bunxVnHVIS https://t.co/fnzq4YZqd2</title>
-      <link>https://twitter.com/HHMIJanelia/status/1653459362050916370</link>
-      <description>New research led by @PaulMaarten @erasmusmcintl @MolecularGenet3 in collaboration w/@AICJanelia uses 3D tracking &amp;amp; super-resolution microscopy to reveal the distinct mobility patterns of molecules that help prevent cancer by repairing damaged DNA. 🧵 1/7 https://t.co/bunxVnHVIS https://t.co/fnzq4YZqd2</description>
-      <content:encoded>New research led by @PaulMaarten @erasmusmcintl @MolecularGenet3 in collaboration w/@AICJanelia uses 3D tracking &amp;amp; super-resolution microscopy to reveal the distinct mobility patterns of molecules that help prevent cancer by repairing damaged DNA. 🧵 1/7 https://t.co/bunxVnHVIS https://t.co/fnzq4YZqd2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1653459362050916370"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1653459338428657664/pu/img/xrkLzv_MHSEmjfAA.jpg" length="154" type="photo"/>
-      <pubDate>Tue, 02 May 2023 18:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧬 The new study looks at the BRCA2 protein, which is essential for repairing DNA lesions. Mutations in the BRCA2 gene, which produces the BRCA2 protein, can result in the protein not functioning properly and can lead to an increased risk of developing breast &amp;amp; ovarian cancer.2/7</title>
-      <link>https://twitter.com/HHMIJanelia/status/1653459365486051331</link>
-      <description>🧬 The new study looks at the BRCA2 protein, which is essential for repairing DNA lesions. Mutations in the BRCA2 gene, which produces the BRCA2 protein, can result in the protein not functioning properly and can lead to an increased risk of developing breast &amp;amp; ovarian cancer.2/7</description>
-      <content:encoded>🧬 The new study looks at the BRCA2 protein, which is essential for repairing DNA lesions. Mutations in the BRCA2 gene, which produces the BRCA2 protein, can result in the protein not functioning properly and can lead to an increased risk of developing breast &amp;amp; ovarian cancer.2/7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1653459365486051331"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>❓ BRCA2 must act in the right place &amp;amp; right time to repair DNA, so understanding its behavior is important for understanding its function. BRCA2 accumulates at sites of DNA damage, but it was unclear how the proteins moved &amp;amp; organized themselves at these sites when needed.3/7</title>
-      <link>https://twitter.com/HHMIJanelia/status/1653459367331524610</link>
-      <description>❓ BRCA2 must act in the right place &amp;amp; right time to repair DNA, so understanding its behavior is important for understanding its function. BRCA2 accumulates at sites of DNA damage, but it was unclear how the proteins moved &amp;amp; organized themselves at these sites when needed.3/7</description>
-      <content:encoded>❓ BRCA2 must act in the right place &amp;amp; right time to repair DNA, so understanding its behavior is important for understanding its function. BRCA2 accumulates at sites of DNA damage, but it was unclear how the proteins moved &amp;amp; organized themselves at these sites when needed.3/7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1653459367331524610"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔬 The new research used aberration-corrected multifocal microscopy, or acMFM, and 3D single-molecule tracking to quantify the motion of BRCA2 at DNA damage sites and in the nucleus. 4/7</title>
-      <link>https://twitter.com/HHMIJanelia/status/1653459368669528082</link>
-      <description>🔬 The new research used aberration-corrected multifocal microscopy, or acMFM, and 3D single-molecule tracking to quantify the motion of BRCA2 at DNA damage sites and in the nucleus. 4/7</description>
-      <content:encoded>🔬 The new research used aberration-corrected multifocal microscopy, or acMFM, and 3D single-molecule tracking to quantify the motion of BRCA2 at DNA damage sites and in the nucleus. 4/7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1653459368669528082"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The new research finds a large fraction of BRCA2 molecules near DNA damage sites are immobile, while some molecules show restricted motion near these sites, potentially providing a mechanism for how the cell can retain an increased number of molecules at DNA repair sites. 5/7 https://t.co/eLAoVQS2YK</title>
-      <link>https://twitter.com/HHMIJanelia/status/1653459397190856705</link>
-      <description>The new research finds a large fraction of BRCA2 molecules near DNA damage sites are immobile, while some molecules show restricted motion near these sites, potentially providing a mechanism for how the cell can retain an increased number of molecules at DNA repair sites. 5/7 https://t.co/eLAoVQS2YK</description>
-      <content:encoded>The new research finds a large fraction of BRCA2 molecules near DNA damage sites are immobile, while some molecules show restricted motion near these sites, potentially providing a mechanism for how the cell can retain an increased number of molecules at DNA repair sites. 5/7 https://t.co/eLAoVQS2YK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1653459397190856705"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1653459370536050689/pu/img/guruNKAi2MiQtqaz.jpg" length="430" type="photo"/>
-      <pubDate>Tue, 02 May 2023 18:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦠 The research also finds BRCA2 molecules form nanoscale clusters at specific locations within the DNA damage sites, suggesting there may be multiple sub-compartments at the chromatin surrounding these sites. 6/7</title>
-      <link>https://twitter.com/HHMIJanelia/status/1653459400504344577</link>
-      <description>🦠 The research also finds BRCA2 molecules form nanoscale clusters at specific locations within the DNA damage sites, suggesting there may be multiple sub-compartments at the chromatin surrounding these sites. 6/7</description>
-      <content:encoded>🦠 The research also finds BRCA2 molecules form nanoscale clusters at specific locations within the DNA damage sites, suggesting there may be multiple sub-compartments at the chromatin surrounding these sites. 6/7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1653459400504344577"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Overall, the new findings contribute to scientists’ understanding of how nuclear proteins organize in the nucleus to control essential processes, and how BRCA2 gets to DNA lesions to repair DNA when it is needed. 7/7
-
-Read the preprint @biorxivpreprint: https://t.co/bunxVnHVIS</title>
-      <link>https://twitter.com/HHMIJanelia/status/1653459402051993607</link>
-      <description>Overall, the new findings contribute to scientists’ understanding of how nuclear proteins organize in the nucleus to control essential processes, and how BRCA2 gets to DNA lesions to repair DNA when it is needed. 7/7
-
-Read the preprint @biorxivpreprint: https://t.co/bunxVnHVIS</description>
-      <content:encoded>Overall, the new findings contribute to scientists’ understanding of how nuclear proteins organize in the nucleus to control essential processes, and how BRCA2 gets to DNA lesions to repair DNA when it is needed. 7/7
-
-Read the preprint @biorxivpreprint: https://t.co/bunxVnHVIS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1653459402051993607"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>On #WorldTunaDay, learn more about the tuna-inspired #robot Tunabot.
-
-Scientists revealed in 2021 that tuning the stiffness of Tunabot’s tail is critical to achieve high swimming efficiency comparable to real tuna. https://t.co/wAiAGW3u0h @SciRobotics https://t.co/CUO4QBVe7G</title>
-      <link>https://twitter.com/ScienceMagazine/status/1653459447878959104</link>
-      <description>On #WorldTunaDay, learn more about the tuna-inspired #robot Tunabot.
-
-Scientists revealed in 2021 that tuning the stiffness of Tunabot’s tail is critical to achieve high swimming efficiency comparable to real tuna. https://t.co/wAiAGW3u0h @SciRobotics https://t.co/CUO4QBVe7G</description>
-      <content:encoded>On #WorldTunaDay, learn more about the tuna-inspired #robot Tunabot.
-
-Scientists revealed in 2021 that tuning the stiffness of Tunabot’s tail is critical to achieve high swimming efficiency comparable to real tuna. https://t.co/wAiAGW3u0h @SciRobotics https://t.co/CUO4QBVe7G&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653459447878959104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FvJEmohXoAAlySR.jpg" length="600" type="photo"/>
-      <pubDate>Tue, 02 May 2023 18:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scientists are only as good as their tools. That’s why we’re supporting 40 #OpenSource software projects that will help every scientist be a better scientist https://t.co/uBz4mm5XCA</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1653459951707119618</link>
-      <description>Scientists are only as good as their tools. That’s why we’re supporting 40 #OpenSource software projects that will help every scientist be a better scientist https://t.co/uBz4mm5XCA</description>
-      <content:encoded>Scientists are only as good as their tools. That’s why we’re supporting 40 #OpenSource software projects that will help every scientist be a better scientist https://t.co/uBz4mm5XCA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1653459951707119618"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spatial transcriptomic analysis of adult hippocampal neurogenesis in the human brain  https://t.co/QaYKjrELFY #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653463241115283456</link>
-      <description>Spatial transcriptomic analysis of adult hippocampal neurogenesis in the human brain  https://t.co/QaYKjrELFY #biorxiv_neursci</description>
-      <content:encoded>Spatial transcriptomic analysis of adult hippocampal neurogenesis in the human brain  https://t.co/QaYKjrELFY #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653463241115283456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:15:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>An E-I Firing Rate Model for Gamma Oscillations  https://t.co/bxweSEGvoj #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653463323411660820</link>
-      <description>An E-I Firing Rate Model for Gamma Oscillations  https://t.co/bxweSEGvoj #biorxiv_neursci</description>
-      <content:encoded>An E-I Firing Rate Model for Gamma Oscillations  https://t.co/bxweSEGvoj #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653463323411660820"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:15:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The adaptive stochasticity hypothesis: modelling equifinality, multifinality and adaptation to adversity  https://t.co/rv1BF0O8EL #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653463425777844238</link>
-      <description>The adaptive stochasticity hypothesis: modelling equifinality, multifinality and adaptation to adversity  https://t.co/rv1BF0O8EL #biorxiv_neursci</description>
-      <content:encoded>The adaptive stochasticity hypothesis: modelling equifinality, multifinality and adaptation to adversity  https://t.co/rv1BF0O8EL #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653463425777844238"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rapid memory encoding in a recurrent network model with behavioral time scale synaptic plasticity  https://t.co/2kRLb4jrME #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653463520111935495</link>
-      <description>Rapid memory encoding in a recurrent network model with behavioral time scale synaptic plasticity  https://t.co/2kRLb4jrME #biorxiv_neursci</description>
-      <content:encoded>Rapid memory encoding in a recurrent network model with behavioral time scale synaptic plasticity  https://t.co/2kRLb4jrME #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653463520111935495"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inferring control objectives in a virtual balancing task in humans and monkeys  https://t.co/kFoJ22LUGt #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653463615507185667</link>
-      <description>Inferring control objectives in a virtual balancing task in humans and monkeys  https://t.co/kFoJ22LUGt #biorxiv_neursci</description>
-      <content:encoded>Inferring control objectives in a virtual balancing task in humans and monkeys  https://t.co/kFoJ22LUGt #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653463615507185667"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discrete cortical control during quiet stance revealed by desynchronization and rebound of beta oscillations  https://t.co/nH0P5pBsfE #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653463706376781842</link>
-      <description>Discrete cortical control during quiet stance revealed by desynchronization and rebound of beta oscillations  https://t.co/nH0P5pBsfE #biorxiv_neursci</description>
-      <content:encoded>Discrete cortical control during quiet stance revealed by desynchronization and rebound of beta oscillations  https://t.co/nH0P5pBsfE #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653463706376781842"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:17:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @schrep: @ID_AA_Carmack Would you rather live in any earlier decade or century?  Likely not.   Progress is happening and it takes at lea…</title>
-      <link>https://twitter.com/ylecun/status/1653463726916354048</link>
-      <description>RT @schrep: @ID_AA_Carmack Would you rather live in any earlier decade or century?  Likely not.   Progress is happening and it takes at lea…</description>
-      <content:encoded>RT @schrep: @ID_AA_Carmack Would you rather live in any earlier decade or century?  Likely not.   Progress is happening and it takes at lea…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1653463726916354048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neighborhood air pollution is negatively associated with neurocognitive maturation in early adolescence  https://t.co/7Sj41GPOyZ #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653463801142943746</link>
-      <description>Neighborhood air pollution is negatively associated with neurocognitive maturation in early adolescence  https://t.co/7Sj41GPOyZ #biorxiv_neursci</description>
-      <content:encoded>Neighborhood air pollution is negatively associated with neurocognitive maturation in early adolescence  https://t.co/7Sj41GPOyZ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653463801142943746"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 18:17:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 May 2023 15:16:56 +0000</lastBuildDate>
     <item>
       <title>Widespread Receptive Field Remapping in Early Visual Cortex  https://t.co/mXh3CK27BL #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1653463904406650887</link>
@@ -2092,6 +1874,265 @@ GPT4 achieves new SoTA on a wide range of causal…&lt;blockquote class="twitter
       <description>RT @DrYohanJohn: Can't help but feel that machine learning is taking us back to a Ptolemaic world, where prediction is great but qualitativ…</description>
       <content:encoded>RT @DrYohanJohn: Can't help but feel that machine learning is taking us back to a Ptolemaic world, where prediction is great but qualitativ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1653764876920147969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 03 May 2023 14:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microglia-mediated synaptic pruning in the nucleus accumbens during adolescence: A preliminary study of the proteomic consequences ...  https://t.co/aNFqSUBGgr #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1653765241031852034</link>
+      <description>Microglia-mediated synaptic pruning in the nucleus accumbens during adolescence: A preliminary study of the proteomic consequences ...  https://t.co/aNFqSUBGgr #biorxiv_neursci</description>
+      <content:encoded>Microglia-mediated synaptic pruning in the nucleus accumbens during adolescence: A preliminary study of the proteomic consequences ...  https://t.co/aNFqSUBGgr #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653765241031852034"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Square or rectangular clouds are relatively rare occurrences, but they happen to appear in the skies from time to time, like this one filmed over Tucson, Arizona  
+
+[read more: https://t.co/PbU809cpnT]
+https://t.co/L6eKgwlhSV</title>
+      <link>https://twitter.com/Rainmaker1973/status/1653767021421527042</link>
+      <description>Square or rectangular clouds are relatively rare occurrences, but they happen to appear in the skies from time to time, like this one filmed over Tucson, Arizona  
+
+[read more: https://t.co/PbU809cpnT]
+https://t.co/L6eKgwlhSV</description>
+      <content:encoded>Square or rectangular clouds are relatively rare occurrences, but they happen to appear in the skies from time to time, like this one filmed over Tucson, Arizona  
+
+[read more: https://t.co/PbU809cpnT]
+https://t.co/L6eKgwlhSV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653767021421527042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1549152145970282499/pu/img/2iffbkjaP0IQ39u7.jpg" length="460" type="photo"/>
+      <pubDate>Wed, 03 May 2023 14:22:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study in @NatureHumBehav creates a representative pseudo-sample of the UK Biobank population, showing that participation bias distorts behavioural genome-wide association study and Mendelian randomization findings. https://t.co/bWrF5XC51o https://t.co/NWaTvZyeHT</title>
+      <link>https://twitter.com/NaturePortfolio/status/1653767639397695492</link>
+      <description>A study in @NatureHumBehav creates a representative pseudo-sample of the UK Biobank population, showing that participation bias distorts behavioural genome-wide association study and Mendelian randomization findings. https://t.co/bWrF5XC51o https://t.co/NWaTvZyeHT</description>
+      <content:encoded>A study in @NatureHumBehav creates a representative pseudo-sample of the UK Biobank population, showing that participation bias distorts behavioural genome-wide association study and Mendelian randomization findings. https://t.co/bWrF5XC51o https://t.co/NWaTvZyeHT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1653767639397695492"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvNc4wyXwAMsmtB.jpg" length="1066" type="photo"/>
+      <pubDate>Wed, 03 May 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 Pynapple: a toolbox for data analysis in neuroscience.  https://t.co/nujhPhsnX5 #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1653770212846579712</link>
+      <description>#PeerReview from @eLife of 👉🏿 Pynapple: a toolbox for data analysis in neuroscience.  https://t.co/nujhPhsnX5 #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 Pynapple: a toolbox for data analysis in neuroscience.  https://t.co/nujhPhsnX5 #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653770212846579712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:35:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MBFBioscience: The May #NeuroArt contest has started! 🎉
+
+Submit up to 3 images for a chance at our monthly awards. 
+Go to https://t.co/…</title>
+      <link>https://twitter.com/INCForg/status/1653770214163599361</link>
+      <description>RT @MBFBioscience: The May #NeuroArt contest has started! 🎉
+
+Submit up to 3 images for a chance at our monthly awards. 
+Go to https://t.co/…</description>
+      <content:encoded>RT @MBFBioscience: The May #NeuroArt contest has started! 🎉
+
+Submit up to 3 images for a chance at our monthly awards. 
+Go to https://t.co/…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1653770214163599361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:35:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 Judging the difficulty of perceptual decisions  https://t.co/DdYPrvL9Cg #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1653770242974154755</link>
+      <description>#PeerReview from @eLife of 👉🏿 Judging the difficulty of perceptual decisions  https://t.co/DdYPrvL9Cg #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 Judging the difficulty of perceptual decisions  https://t.co/DdYPrvL9Cg #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653770242974154755"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Association between occlusal support and cognitive impairment in older Chinese adults: a community-based study: Introduction
+
+The loss of occlusal support due to tooth loss is associated with systemic diseases.… #ageing #neuroscience https://t.co/tCYo0KVFJX</title>
+      <link>https://twitter.com/FrontNeurosci/status/1653771280867557378</link>
+      <description>New Research: Association between occlusal support and cognitive impairment in older Chinese adults: a community-based study: Introduction
+
+The loss of occlusal support due to tooth loss is associated with systemic diseases.… #ageing #neuroscience https://t.co/tCYo0KVFJX</description>
+      <content:encoded>New Research: Association between occlusal support and cognitive impairment in older Chinese adults: a community-based study: Introduction
+
+The loss of occlusal support due to tooth loss is associated with systemic diseases.… #ageing #neuroscience https://t.co/tCYo0KVFJX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1653771280867557378"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:39:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Vortex Turbine by Turbulent Hydro is an eco-friendly way to harness energy from rivers and canals with a low height difference. A single turbine can generate from 15 to 70 kW of constant energy around the clock 
+
+[read more: https://t.co/SNc2GI34Uw]
+https://t.co/lA99r6o6ys</title>
+      <link>https://twitter.com/Rainmaker1973/status/1653771355882496005</link>
+      <description>The Vortex Turbine by Turbulent Hydro is an eco-friendly way to harness energy from rivers and canals with a low height difference. A single turbine can generate from 15 to 70 kW of constant energy around the clock 
+
+[read more: https://t.co/SNc2GI34Uw]
+https://t.co/lA99r6o6ys</description>
+      <content:encoded>The Vortex Turbine by Turbulent Hydro is an eco-friendly way to harness energy from rivers and canals with a low height difference. A single turbine can generate from 15 to 70 kW of constant energy around the clock 
+
+[read more: https://t.co/SNc2GI34Uw]
+https://t.co/lA99r6o6ys&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1653771355882496005"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fq6tFsHX0AAlrSG.jpg" length="1080" type="photo"/>
+      <pubDate>Wed, 03 May 2023 14:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>We would like to extend our heartiest congratulations to Faculty Opinions Section Heads Cathy Drennan @Drennan_Lab &amp;amp; Elly Tanaka @Tanaxolotl for their recent appointment as National Academy of Sciences Members!
+
+https://t.co/NsHrdA1g5y</title>
+      <link>https://twitter.com/Facultyopinions/status/1653771396835573761</link>
+      <description>We would like to extend our heartiest congratulations to Faculty Opinions Section Heads Cathy Drennan @Drennan_Lab &amp;amp; Elly Tanaka @Tanaxolotl for their recent appointment as National Academy of Sciences Members!
+
+https://t.co/NsHrdA1g5y</description>
+      <content:encoded>We would like to extend our heartiest congratulations to Faculty Opinions Section Heads Cathy Drennan @Drennan_Lab &amp;amp; Elly Tanaka @Tanaxolotl for their recent appointment as National Academy of Sciences Members!
+
+https://t.co/NsHrdA1g5y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1653771396835573761"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congratulations to Faculty Opinions Members Helen Berman, Venkatesan Sundaresan @SundarLab, &amp;amp; Susan Weiss @weisssr on their appointment to the National Academy of Sciences!
+
+https://t.co/NsHrdA1g5y</title>
+      <link>https://twitter.com/Facultyopinions/status/1653771413499551748</link>
+      <description>Congratulations to Faculty Opinions Members Helen Berman, Venkatesan Sundaresan @SundarLab, &amp;amp; Susan Weiss @weisssr on their appointment to the National Academy of Sciences!
+
+https://t.co/NsHrdA1g5y</description>
+      <content:encoded>Congratulations to Faculty Opinions Members Helen Berman, Venkatesan Sundaresan @SundarLab, &amp;amp; Susan Weiss @weisssr on their appointment to the National Academy of Sciences!
+
+https://t.co/NsHrdA1g5y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1653771413499551748"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SattarKhoshkhoo: Is mesial temporal lobe epilepsy (MTLE) attributable to genetic factors? It turns out, yes! Our work on somatic geneti…</title>
+      <link>https://twitter.com/pgolshani/status/1653772540991672325</link>
+      <description>RT @SattarKhoshkhoo: Is mesial temporal lobe epilepsy (MTLE) attributable to genetic factors? It turns out, yes! Our work on somatic geneti…</description>
+      <content:encoded>RT @SattarKhoshkhoo: Is mesial temporal lobe epilepsy (MTLE) attributable to genetic factors? It turns out, yes! Our work on somatic geneti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/pgolshani/status/1653772540991672325"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:44:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JanitzaMontalvo: 🚨New preprint from #MontalvoOrtizlab! "Decoding the role of transcriptomic clocks in the human prefrontal cortex" usin…</title>
+      <link>https://twitter.com/KavliAtYale/status/1653772724488028161</link>
+      <description>RT @JanitzaMontalvo: 🚨New preprint from #MontalvoOrtizlab! "Decoding the role of transcriptomic clocks in the human prefrontal cortex" usin…</description>
+      <content:encoded>RT @JanitzaMontalvo: 🚨New preprint from #MontalvoOrtizlab! "Decoding the role of transcriptomic clocks in the human prefrontal cortex" usin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KavliAtYale/status/1653772724488028161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 Remapping in a recurrent neural network model of navigation and context inference  https://t.co/qO3M7UIBtD #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1653773969177075712</link>
+      <description>#PeerReview from @eLife of 👉🏿 Remapping in a recurrent neural network model of navigation and context inference  https://t.co/qO3M7UIBtD #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 Remapping in a recurrent neural network model of navigation and context inference  https://t.co/qO3M7UIBtD #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653773969177075712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 14:50:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Want to captivate your students and deliver information effectively during #lectures? Check out our advice on how to create and deliver engaging lectures that your students won't forget! #academia 
+https://t.co/ZaDBJlIsA7 https://t.co/q3GUwEhC3H</title>
+      <link>https://twitter.com/Scientifica_Int/status/1653776161636245507</link>
+      <description>Want to captivate your students and deliver information effectively during #lectures? Check out our advice on how to create and deliver engaging lectures that your students won't forget! #academia 
+https://t.co/ZaDBJlIsA7 https://t.co/q3GUwEhC3H</description>
+      <content:encoded>Want to captivate your students and deliver information effectively during #lectures? Check out our advice on how to create and deliver engaging lectures that your students won't forget! #academia 
+https://t.co/ZaDBJlIsA7 https://t.co/q3GUwEhC3H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1653776161636245507"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvNkpp_WYAIR_-6.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 14:58:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Check out our latest issue: https://t.co/ImgPc6z4Dp
+The cover photo was taken by Yan Liu, illustrating their study on maternal attachment, showing that serotonin plays a key role in mice, rats and monkeys. More details here -&amp;gt; https://t.co/R4lbF1pnx2 https://t.co/j89cJHJla5</title>
+      <link>https://twitter.com/NeuroCellPress/status/1653776258617028615</link>
+      <description>Check out our latest issue: https://t.co/ImgPc6z4Dp
+The cover photo was taken by Yan Liu, illustrating their study on maternal attachment, showing that serotonin plays a key role in mice, rats and monkeys. More details here -&amp;gt; https://t.co/R4lbF1pnx2 https://t.co/j89cJHJla5</description>
+      <content:encoded>Check out our latest issue: https://t.co/ImgPc6z4Dp
+The cover photo was taken by Yan Liu, illustrating their study on maternal attachment, showing that serotonin plays a key role in mice, rats and monkeys. More details here -&amp;gt; https://t.co/R4lbF1pnx2 https://t.co/j89cJHJla5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1653776258617028615"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvNi6HwXsAQKL4L.jpg" length="970" type="photo"/>
+      <pubDate>Wed, 03 May 2023 14:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>✨ Students and postdocs in theoretical biophysics: Come to Janelia this fall to present your work, conduct a tutorial and learn from others in the community. 🥼 
+
+🗓️ Apply for our Junior Scientist Workshop by June 21 ➡️ https://t.co/J7a2s6oATA
+@janeliaconf https://t.co/cO2ncoLEP0</title>
+      <link>https://twitter.com/HHMIJanelia/status/1653776434664448004</link>
+      <description>✨ Students and postdocs in theoretical biophysics: Come to Janelia this fall to present your work, conduct a tutorial and learn from others in the community. 🥼 
+
+🗓️ Apply for our Junior Scientist Workshop by June 21 ➡️ https://t.co/J7a2s6oATA
+@janeliaconf https://t.co/cO2ncoLEP0</description>
+      <content:encoded>✨ Students and postdocs in theoretical biophysics: Come to Janelia this fall to present your work, conduct a tutorial and learn from others in the community. 🥼 
+
+🗓️ Apply for our Junior Scientist Workshop by June 21 ➡️ https://t.co/J7a2s6oATA
+@janeliaconf https://t.co/cO2ncoLEP0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1653776434664448004"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvNk5x9WIAQeZbV.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 15:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>#AffordableHousingMonth is a time for us all to:
+🎓Learn
+📢Advocate
+💬Educate https://t.co/R064ShUnFl</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1653776439735468033</link>
+      <description>#AffordableHousingMonth is a time for us all to:
+🎓Learn
+📢Advocate
+💬Educate https://t.co/R064ShUnFl</description>
+      <content:encoded>#AffordableHousingMonth is a time for us all to:
+🎓Learn
+📢Advocate
+💬Educate https://t.co/R064ShUnFl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1653776439735468033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvNk6CcWAAMzi3R.jpg" length="960" type="photo"/>
+      <pubDate>Wed, 03 May 2023 15:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>A genetic defect in the protein RIPK3, identified in a patient with a history of herpes simplex encephalitis, leads to impaired neuron cell death and control of herpes simplex virus, a new @SciImmunology study suggests. https://t.co/6ngYptlB09 https://t.co/g2yrSsT4Fi</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653776604680671234</link>
+      <description>A genetic defect in the protein RIPK3, identified in a patient with a history of herpes simplex encephalitis, leads to impaired neuron cell death and control of herpes simplex virus, a new @SciImmunology study suggests. https://t.co/6ngYptlB09 https://t.co/g2yrSsT4Fi</description>
+      <content:encoded>A genetic defect in the protein RIPK3, identified in a patient with a history of herpes simplex encephalitis, leads to impaired neuron cell death and control of herpes simplex virus, a new @SciImmunology study suggests. https://t.co/6ngYptlB09 https://t.co/g2yrSsT4Fi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653776604680671234"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvNlDpSXgAEr3TC.jpg" length="910" type="photo"/>
+      <pubDate>Wed, 03 May 2023 15:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congratulations to Yossi Shiloh @YossiShiloh who has been elected National Academy International Member!
+
+https://t.co/NsHrdA1g5y</title>
+      <link>https://twitter.com/Facultyopinions/status/1653776759249158148</link>
+      <description>Congratulations to Yossi Shiloh @YossiShiloh who has been elected National Academy International Member!
+
+https://t.co/NsHrdA1g5y</description>
+      <content:encoded>Congratulations to Yossi Shiloh @YossiShiloh who has been elected National Academy International Member!
+
+https://t.co/NsHrdA1g5y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1653776759249158148"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 15:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>@andpru @JCashaback @PsychScientists @hariteja11 Does the eph community still exist?</title>
+      <link>https://twitter.com/KordingLab/status/1653777088133070855</link>
+      <description>@andpru @JCashaback @PsychScientists @hariteja11 Does the eph community still exist?</description>
+      <content:encoded>@andpru @JCashaback @PsychScientists @hariteja11 Does the eph community still exist?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1653777088133070855"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 15:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@KordingLab @JCashaback @PsychScientists @hariteja11 Yes, for sure. They have cleaved themselves from the motor control community we know and now run a parallel program. I'm not judging that per se and some cool stuff there but it's notable that feedback control itself is so fundamental for us and they are minimally represented.</title>
+      <link>https://twitter.com/andpru/status/1653778740164407296</link>
+      <description>@KordingLab @JCashaback @PsychScientists @hariteja11 Yes, for sure. They have cleaved themselves from the motor control community we know and now run a parallel program. I'm not judging that per se and some cool stuff there but it's notable that feedback control itself is so fundamental for us and they are minimally represented.</description>
+      <content:encoded>@KordingLab @JCashaback @PsychScientists @hariteja11 Yes, for sure. They have cleaved themselves from the motor control community we know and now run a parallel program. I'm not judging that per se and some cool stuff there but it's notable that feedback control itself is so fundamental for us and they are minimally represented.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1653778740164407296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 15:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>In a new study, scientists at MIT, Harvard, Caltech, and elsewhere report that they have observed a star swallowing a planet for the first time. They say Earth may suffer a similar fate in 5 billion years. https://t.co/f1tFVNTyOf https://t.co/YOBA5Mlv1r</title>
+      <link>https://twitter.com/MIT/status/1653780008375074817</link>
+      <description>In a new study, scientists at MIT, Harvard, Caltech, and elsewhere report that they have observed a star swallowing a planet for the first time. They say Earth may suffer a similar fate in 5 billion years. https://t.co/f1tFVNTyOf https://t.co/YOBA5Mlv1r</description>
+      <content:encoded>In a new study, scientists at MIT, Harvard, Caltech, and elsewhere report that they have observed a star swallowing a planet for the first time. They say Earth may suffer a similar fate in 5 billion years. https://t.co/f1tFVNTyOf https://t.co/YOBA5Mlv1r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1653780008375074817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1653779582414118912/pu/img/r8yMhqhUf061KvZ7.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 15:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @bpedigod: Our work on bilateral symmetry in the Drosophila larva brain (and more generally, statistical comparison of connectomes) out…</title>
+      <link>https://twitter.com/neuro_data/status/1653780285786583042</link>
+      <description>RT @bpedigod: Our work on bilateral symmetry in the Drosophila larva brain (and more generally, statistical comparison of connectomes) out…</description>
+      <content:encoded>RT @bpedigod: Our work on bilateral symmetry in the Drosophila larva brain (and more generally, statistical comparison of connectomes) out…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1653780285786583042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 15:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive planning depth in human problem solving  https://t.co/TfkhYod9Rt #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1653780393403772929</link>
+      <description>Adaptive planning depth in human problem solving  https://t.co/TfkhYod9Rt #biorxiv_neursci</description>
+      <content:encoded>Adaptive planning depth in human problem solving  https://t.co/TfkhYod9Rt #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653780393403772929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 15:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impaired microglia-mediated synaptic pruning in the nucleus accumbens during adolescence results in persistent dysregulation of ...  https://t.co/bTfH9RNlTl #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1653780545451569153</link>
+      <description>Impaired microglia-mediated synaptic pruning in the nucleus accumbens during adolescence results in persistent dysregulation of ...  https://t.co/bTfH9RNlTl #biorxiv_neursci</description>
+      <content:encoded>Impaired microglia-mediated synaptic pruning in the nucleus accumbens during adolescence results in persistent dysregulation of ...  https://t.co/bTfH9RNlTl #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653780545451569153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 15:16:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
