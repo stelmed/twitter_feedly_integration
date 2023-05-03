@@ -6,55 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 May 2023 02:31:42 +0000</lastBuildDate>
-    <item>
-      <title>RT @CAR_Karolinska: Really exciting seminar tomorrow with Prof. Michal Schwartz, who is internationally acclaimed scientist in Neuroimmunol…</title>
-      <link>https://twitter.com/meletislab/status/1653378417159487492</link>
-      <description>RT @CAR_Karolinska: Really exciting seminar tomorrow with Prof. Michal Schwartz, who is internationally acclaimed scientist in Neuroimmunol…</description>
-      <content:encoded>RT @CAR_Karolinska: Really exciting seminar tomorrow with Prof. Michal Schwartz, who is internationally acclaimed scientist in Neuroimmunol…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/meletislab/status/1653378417159487492"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 12:38:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>You’re not you when you’re hungry: @JohnSpeakman4 recommends this new article in @PNASNews by @ClaretLab @UniBarcelona on the factors that affect pro-social #behavior, including food restriction and #energy status.
-
-https://t.co/rjeo8YPN7B https://t.co/kUzcjvtGlF</title>
-      <link>https://twitter.com/Facultyopinions/status/1653378816759283713</link>
-      <description>You’re not you when you’re hungry: @JohnSpeakman4 recommends this new article in @PNASNews by @ClaretLab @UniBarcelona on the factors that affect pro-social #behavior, including food restriction and #energy status.
-
-https://t.co/rjeo8YPN7B https://t.co/kUzcjvtGlF</description>
-      <content:encoded>You’re not you when you’re hungry: @JohnSpeakman4 recommends this new article in @PNASNews by @ClaretLab @UniBarcelona on the factors that affect pro-social #behavior, including food restriction and #energy status.
-
-https://t.co/rjeo8YPN7B https://t.co/kUzcjvtGlF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1653378816759283713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvH7RKsWcAMADSC.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 02 May 2023 12:40:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AlexKontorovich: How many others were also drawn into mathematics through Steiner–Lehmus?! (Paging @stevenstrogatz - did you know this?…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653380102720303104</link>
-      <description>RT @AlexKontorovich: How many others were also drawn into mathematics through Steiner–Lehmus?! (Paging @stevenstrogatz - did you know this?…</description>
-      <content:encoded>RT @AlexKontorovich: How many others were also drawn into mathematics through Steiner–Lehmus?! (Paging @stevenstrogatz - did you know this?…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653380102720303104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 12:45:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>How flies remember a rich experience from its individual components https://t.co/LnGs2kCVwv</title>
-      <link>https://twitter.com/NatureNV/status/1653380513921396737</link>
-      <description>How flies remember a rich experience from its individual components https://t.co/LnGs2kCVwv</description>
-      <content:encoded>How flies remember a rich experience from its individual components https://t.co/LnGs2kCVwv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1653380513921396737"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 12:46:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tune in now to the livestream!
-@wef "Lost Einsteins: Diversifying Innovation" 
-https://t.co/paQ1heecAN</title>
-      <link>https://twitter.com/ERC_Research/status/1653381401121546242</link>
-      <description>Tune in now to the livestream!
-@wef "Lost Einsteins: Diversifying Innovation" 
-https://t.co/paQ1heecAN</description>
-      <content:encoded>Tune in now to the livestream!
-@wef "Lost Einsteins: Diversifying Innovation" 
-https://t.co/paQ1heecAN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1653381401121546242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 02 May 2023 12:50:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 May 2023 03:17:22 +0000</lastBuildDate>
     <item>
       <title>Mike Hopkins talks to young students about what it's like to be mathematician and how he got fascinated with the subject as a kid. https://t.co/AuxqAAb2SA</title>
       <link>https://twitter.com/stevenstrogatz/status/1653382429715955714</link>
@@ -2016,6 +1968,43 @@ In this work, we present a new neural network architecture capable of lear…&lt
       <content:encoded>Quantum Physics! https://t.co/rv1GeZHY4V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1653585855599235074"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FvK3kTYWcAEvGx4.jpg" length="1125" type="photo"/>
       <pubDate>Wed, 03 May 2023 02:22:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>We caught a glimpse of the Northern Lights at the office 🌌! The two light sources are “sputter guns” depositing Titanium and Iridium on our electrodes through plasma bombardment. #techtuesday https://t.co/22nk46ijYw</title>
+      <link>https://twitter.com/neuralink/status/1653590813732118528</link>
+      <description>We caught a glimpse of the Northern Lights at the office 🌌! The two light sources are “sputter guns” depositing Titanium and Iridium on our electrodes through plasma bombardment. #techtuesday https://t.co/22nk46ijYw</description>
+      <content:encoded>We caught a glimpse of the Northern Lights at the office 🌌! The two light sources are “sputter guns” depositing Titanium and Iridium on our electrodes through plasma bombardment. #techtuesday https://t.co/22nk46ijYw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralink/status/1653590813732118528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvK7cthaEAQPE_I.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 02:42:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists have delineated how the protein Oct1 enables embryonic #StemCells to differentiate into the mesoderm–clarifying a key step in #DevelopmentalBiology and potentially assisting efforts to engineer cells for regenerative medicine. @SciSignal https://t.co/YKGyJKHOoJ https://t.co/2eXgkLlI2w</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653595258918256645</link>
+      <description>Scientists have delineated how the protein Oct1 enables embryonic #StemCells to differentiate into the mesoderm–clarifying a key step in #DevelopmentalBiology and potentially assisting efforts to engineer cells for regenerative medicine. @SciSignal https://t.co/YKGyJKHOoJ https://t.co/2eXgkLlI2w</description>
+      <content:encoded>Scientists have delineated how the protein Oct1 enables embryonic #StemCells to differentiate into the mesoderm–clarifying a key step in #DevelopmentalBiology and potentially assisting efforts to engineer cells for regenerative medicine. @SciSignal https://t.co/YKGyJKHOoJ https://t.co/2eXgkLlI2w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653595258918256645"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvLAH9hXgAAkziT.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Check out this video: https://t.co/tv7OO4hHRG</title>
+      <link>https://twitter.com/AToliasLab/status/1653597454590255107</link>
+      <description>Check out this video: https://t.co/tv7OO4hHRG</description>
+      <content:encoded>Check out this video: https://t.co/tv7OO4hHRG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1653597454590255107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 03:08:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Most hypo-connections were located within the sensorimotor network and no fronto-striatal abnormalities were found” https://t.co/zau2Iwjylr</title>
+      <link>https://twitter.com/MargolisLab/status/1653598742891708418</link>
+      <description>“Most hypo-connections were located within the sensorimotor network and no fronto-striatal abnormalities were found” https://t.co/zau2Iwjylr</description>
+      <content:encoded>“Most hypo-connections were located within the sensorimotor network and no fronto-striatal abnormalities were found” https://t.co/zau2Iwjylr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MargolisLab/status/1653598742891708418"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 03:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Characterizing spatiotemporal population receptive fields in human visual cortex with fMRI  https://t.co/qrXcyJ2sYh #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1653599187806613505</link>
+      <description>Characterizing spatiotemporal population receptive fields in human visual cortex with fMRI  https://t.co/qrXcyJ2sYh #biorxiv_neursci</description>
+      <content:encoded>Characterizing spatiotemporal population receptive fields in human visual cortex with fMRI  https://t.co/qrXcyJ2sYh #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653599187806613505"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 03 May 2023 03:15:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
