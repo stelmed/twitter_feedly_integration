@@ -6,18 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 May 2023 04:19:17 +0000</lastBuildDate>
-    <item>
-      <title>The versatility of our team, the products we design and support we offer means you can be confident that your needs will be met, now and in the future. #neuroscience #electrophysiology #imaging #optogenetics
-https://t.co/nBHuxaa0vP https://t.co/QpxeKkSpwj</title>
-      <link>https://twitter.com/Scientifica_Int/status/1653387115810414593</link>
-      <description>The versatility of our team, the products we design and support we offer means you can be confident that your needs will be met, now and in the future. #neuroscience #electrophysiology #imaging #optogenetics
-https://t.co/nBHuxaa0vP https://t.co/QpxeKkSpwj</description>
-      <content:encoded>The versatility of our team, the products we design and support we offer means you can be confident that your needs will be met, now and in the future. #neuroscience #electrophysiology #imaging #optogenetics
-https://t.co/nBHuxaa0vP https://t.co/QpxeKkSpwj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1653387115810414593"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvIC0bwX0Aox0uf.jpg" length="1024" type="photo"/>
-      <pubDate>Tue, 02 May 2023 13:13:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 May 2023 05:15:27 +0000</lastBuildDate>
     <item>
       <title>Interested in AI, but unsure what it takes to launch a new career? 
 
@@ -2001,6 +1990,20 @@ It incorporates single-cell data harmonisation &amp;amp; integration, aimin…&l
       <description>Flu virus particles can restrict each other’s spread, and so partition a host into distinct territories of infection. @_chris_brooke &amp;amp; @micromireille unpack the implications of this finding for virus evolution in our N&amp;amp;V https://t.co/9d7QWf9cuc</description>
       <content:encoded>Flu virus particles can restrict each other’s spread, and so partition a host into distinct territories of infection. @_chris_brooke &amp;amp; @micromireille unpack the implications of this finding for virus evolution in our N&amp;amp;V https://t.co/9d7QWf9cuc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1653614391416291330"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 03 May 2023 04:16:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history. 
+
+Learn more in a new #SciencePerspective. https://t.co/UxHb8qdBTe #Zoonomia https://t.co/0KFzJHLY8v</title>
+      <link>https://twitter.com/ScienceMagazine/status/1653617907375513601</link>
+      <description>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history. 
+
+Learn more in a new #SciencePerspective. https://t.co/UxHb8qdBTe #Zoonomia https://t.co/0KFzJHLY8v</description>
+      <content:encoded>Diverse mammal genomes have opened a new portal to hidden aspects of evolutionary history. 
+
+Learn more in a new #SciencePerspective. https://t.co/UxHb8qdBTe #Zoonomia https://t.co/0KFzJHLY8v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653617907375513601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvLUuTAWwAAea7S.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 03 May 2023 04:30:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
