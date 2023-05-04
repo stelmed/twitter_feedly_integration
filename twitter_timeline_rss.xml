@@ -6,43 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 May 2023 05:15:22 +0000</lastBuildDate>
-    <item>
-      <title>In a new study, scientists at MIT, Harvard, Caltech, and elsewhere report that they have observed a star swallowing a planet for the first time. They say Earth may suffer a similar fate in 5 billion years. https://t.co/f1tFVNTyOf https://t.co/YOBA5Mlv1r</title>
-      <link>https://twitter.com/MIT/status/1653780008375074817</link>
-      <description>In a new study, scientists at MIT, Harvard, Caltech, and elsewhere report that they have observed a star swallowing a planet for the first time. They say Earth may suffer a similar fate in 5 billion years. https://t.co/f1tFVNTyOf https://t.co/YOBA5Mlv1r</description>
-      <content:encoded>In a new study, scientists at MIT, Harvard, Caltech, and elsewhere report that they have observed a star swallowing a planet for the first time. They say Earth may suffer a similar fate in 5 billion years. https://t.co/f1tFVNTyOf https://t.co/YOBA5Mlv1r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1653780008375074817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1653779582414118912/pu/img/r8yMhqhUf061KvZ7.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 03 May 2023 15:14:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @bpedigod: Our work on bilateral symmetry in the Drosophila larva brain (and more generally, statistical comparison of connectomes) out…</title>
-      <link>https://twitter.com/neuro_data/status/1653780285786583042</link>
-      <description>RT @bpedigod: Our work on bilateral symmetry in the Drosophila larva brain (and more generally, statistical comparison of connectomes) out…</description>
-      <content:encoded>RT @bpedigod: Our work on bilateral symmetry in the Drosophila larva brain (and more generally, statistical comparison of connectomes) out…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1653780285786583042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 15:15:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adaptive planning depth in human problem solving  https://t.co/TfkhYod9Rt #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653780393403772929</link>
-      <description>Adaptive planning depth in human problem solving  https://t.co/TfkhYod9Rt #biorxiv_neursci</description>
-      <content:encoded>Adaptive planning depth in human problem solving  https://t.co/TfkhYod9Rt #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653780393403772929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 15:15:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Impaired microglia-mediated synaptic pruning in the nucleus accumbens during adolescence results in persistent dysregulation of ...  https://t.co/bTfH9RNlTl #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653780545451569153</link>
-      <description>Impaired microglia-mediated synaptic pruning in the nucleus accumbens during adolescence results in persistent dysregulation of ...  https://t.co/bTfH9RNlTl #biorxiv_neursci</description>
-      <content:encoded>Impaired microglia-mediated synaptic pruning in the nucleus accumbens during adolescence results in persistent dysregulation of ...  https://t.co/bTfH9RNlTl #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653780545451569153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 15:16:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>@andpru @PsychScientists @JCashaback @hariteja11 Sad</title>
-      <link>https://twitter.com/KordingLab/status/1653783283950567424</link>
-      <description>@andpru @PsychScientists @JCashaback @hariteja11 Sad</description>
-      <content:encoded>@andpru @PsychScientists @JCashaback @hariteja11 Sad&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1653783283950567424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 15:27:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 May 2023 06:20:54 +0000</lastBuildDate>
     <item>
       <title>Ancient DNA retrieved from an approximately 20,000-year-old deer tooth pendant found in Denisova Cave, Russia, indicates that it may have once been worn by a female of North Eurasian ancestry, according to a paper in @Nature. https://t.co/4pDYPcbyMf https://t.co/wPm9ezUBAn</title>
       <link>https://twitter.com/NaturePortfolio/status/1653783745348993025</link>
@@ -1579,66 +1543,6 @@ Please tell t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twit
       <pubDate>Thu, 04 May 2023 00:32:40 +0000</pubDate>
     </item>
     <item>
-      <title>A quick technical update:
-
-DegenAI is very much so alive and well. From a developing standpoint, everything had to be created from the ground up without the comfort of forking previous projects or simply creating external API pulls and framing it as “AI.”
-
-…</title>
-      <link>https://twitter.com/_DegenAI_/status/1653921716257660928</link>
-      <description>A quick technical update:
-
-DegenAI is very much so alive and well. From a developing standpoint, everything had to be created from the ground up without the comfort of forking previous projects or simply creating external API pulls and framing it as “AI.”
-
-…</description>
-      <content:encoded>A quick technical update:
-
-DegenAI is very much so alive and well. From a developing standpoint, everything had to be created from the ground up without the comfort of forking previous projects or simply creating external API pulls and framing it as “AI.”
-
-…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/_DegenAI_/status/1653921716257660928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 00:37:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>We did not want to push out unnecessary updates for the sake of hopium pumps, so we have worked in silence and waited to unveil the plans. 
-
-We are closing in on the construction and development of each of the individual pieces including:
-
-…</title>
-      <link>https://twitter.com/_DegenAI_/status/1653922028708044801</link>
-      <description>We did not want to push out unnecessary updates for the sake of hopium pumps, so we have worked in silence and waited to unveil the plans. 
-
-We are closing in on the construction and development of each of the individual pieces including:
-
-…</description>
-      <content:encoded>We did not want to push out unnecessary updates for the sake of hopium pumps, so we have worked in silence and waited to unveil the plans. 
-
-We are closing in on the construction and development of each of the individual pieces including:
-
-…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/_DegenAI_/status/1653922028708044801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 00:38:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>- Pennyworth alpha release
-- The Conglomeration Whitepaper
-- Proof-of-Work for The Trident and The Engine
-- The revamped DegenAI website (incl. The Degen Dapp)
-
-Pieces will begin to be unveiled and fit together in the coming week.</title>
-      <link>https://twitter.com/_DegenAI_/status/1653922385488236544</link>
-      <description>- Pennyworth alpha release
-- The Conglomeration Whitepaper
-- Proof-of-Work for The Trident and The Engine
-- The revamped DegenAI website (incl. The Degen Dapp)
-
-Pieces will begin to be unveiled and fit together in the coming week.</description>
-      <content:encoded>- Pennyworth alpha release
-- The Conglomeration Whitepaper
-- Proof-of-Work for The Trident and The Engine
-- The revamped DegenAI website (incl. The Degen Dapp)
-
-Pieces will begin to be unveiled and fit together in the coming week.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/_DegenAI_/status/1653922385488236544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 00:39:59 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @zenbrainest: 'Chemogenetic activation of these neurons caused a bilateral and widespread reduction in heat, cold, and mechanical sensit…</title>
       <link>https://twitter.com/MargolisLab/status/1653925084749262849</link>
       <description>RT @zenbrainest: 'Chemogenetic activation of these neurons caused a bilateral and widespread reduction in heat, cold, and mechanical sensit…</description>
@@ -1946,6 +1850,101 @@ That's a common counter-example of @geoffreyhinton's claim that more intelligent
 
 That's a common counter-example of @geoffreyhinton's claim that more intelligent things almost always control less intelligent things. https://t.co/sjcs2tXtTr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1653990686973214723"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 04 May 2023 05:11:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our neocortex is entirely controlled by our lizard brain.
+Our future superhuman exocortex will be controlled by our neocortex.
+
+We can design AI to have superhuman intelligence *and* be submissive. 
+For an entity to control another, it has to *want* to take control. https://t.co/sjcs2tXtTr</title>
+      <link>https://twitter.com/ylecun/status/1653992486816161792</link>
+      <description>Our neocortex is entirely controlled by our lizard brain.
+Our future superhuman exocortex will be controlled by our neocortex.
+
+We can design AI to have superhuman intelligence *and* be submissive. 
+For an entity to control another, it has to *want* to take control. https://t.co/sjcs2tXtTr</description>
+      <content:encoded>Our neocortex is entirely controlled by our lizard brain.
+Our future superhuman exocortex will be controlled by our neocortex.
+
+We can design AI to have superhuman intelligence *and* be submissive. 
+For an entity to control another, it has to *want* to take control. https://t.co/sjcs2tXtTr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1653992486816161792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 05:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>We can design AI systems to be both super-intelligent *and* submissive to humans.
+I always wonder why people just assume that intelligent entities will necessarily want to dominate.
+That's just plain false, even within the human species.</title>
+      <link>https://twitter.com/ylecun/status/1654000687615754240</link>
+      <description>We can design AI systems to be both super-intelligent *and* submissive to humans.
+I always wonder why people just assume that intelligent entities will necessarily want to dominate.
+That's just plain false, even within the human species.</description>
+      <content:encoded>We can design AI systems to be both super-intelligent *and* submissive to humans.
+I always wonder why people just assume that intelligent entities will necessarily want to dominate.
+That's just plain false, even within the human species.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1654000687615754240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 05:51:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers in @SciSignal show that metabolic pathways found in conventional #Tcells are also active in mucosal-associated invariant T (MAIT) cells–potentially informing the development of MAIT cell-based therapies and the study of #obesity. https://t.co/9ae62jJt6h https://t.co/KuXvd5bnfv</title>
+      <link>https://twitter.com/ScienceMagazine/status/1654002969640153091</link>
+      <description>Researchers in @SciSignal show that metabolic pathways found in conventional #Tcells are also active in mucosal-associated invariant T (MAIT) cells–potentially informing the development of MAIT cell-based therapies and the study of #obesity. https://t.co/9ae62jJt6h https://t.co/KuXvd5bnfv</description>
+      <content:encoded>Researchers in @SciSignal show that metabolic pathways found in conventional #Tcells are also active in mucosal-associated invariant T (MAIT) cells–potentially informing the development of MAIT cell-based therapies and the study of #obesity. https://t.co/9ae62jJt6h https://t.co/KuXvd5bnfv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1654002969640153091"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvQy749WcAAUFZO.jpg" length="1059" type="photo"/>
+      <pubDate>Thu, 04 May 2023 06:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @TanakaGroup: Looking for fellowship opportunities to start your own group? Please apply to join us @ImperialBioeng. Very supportive and…</title>
+      <link>https://twitter.com/neuralengine/status/1654003465968918531</link>
+      <description>RT @TanakaGroup: Looking for fellowship opportunities to start your own group? Please apply to join us @ImperialBioeng. Very supportive and…</description>
+      <content:encoded>RT @TanakaGroup: Looking for fellowship opportunities to start your own group? Please apply to join us @ImperialBioeng. Very supportive and…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1654003465968918531"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 06:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Swedish Research Council has reviewed Swedish physics research and concludes that it is of high quality. Research at Umeå University is highlighted as a positive example in the recently published report. https://t.co/iOvcaYHrlY</title>
+      <link>https://twitter.com/umeauniversity/status/1654003674903879680</link>
+      <description>The Swedish Research Council has reviewed Swedish physics research and concludes that it is of high quality. Research at Umeå University is highlighted as a positive example in the recently published report. https://t.co/iOvcaYHrlY</description>
+      <content:encoded>The Swedish Research Council has reviewed Swedish physics research and concludes that it is of high quality. Research at Umeå University is highlighted as a positive example in the recently published report. https://t.co/iOvcaYHrlY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/umeauniversity/status/1654003674903879680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 06:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>90 years ago #Today, Karl Jansky announced the discovery of the galactic radio waves 
+
+[read more: https://t.co/yTyQ95wL8W] https://t.co/a4fFZwU0uo</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654005099037962241</link>
+      <description>90 years ago #Today, Karl Jansky announced the discovery of the galactic radio waves 
+
+[read more: https://t.co/yTyQ95wL8W] https://t.co/a4fFZwU0uo</description>
+      <content:encoded>90 years ago #Today, Karl Jansky announced the discovery of the galactic radio waves 
+
+[read more: https://t.co/yTyQ95wL8W] https://t.co/a4fFZwU0uo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654005099037962241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvQ0xhzXoAElGBF.jpg" length="600" type="photo"/>
+      <pubDate>Thu, 04 May 2023 06:08:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Note to picky neuroscientists: replace "lizard brain" by "basal ganglia".</title>
+      <link>https://twitter.com/ylecun/status/1654006622040264705</link>
+      <description>Note to picky neuroscientists: replace "lizard brain" by "basal ganglia".</description>
+      <content:encoded>Note to picky neuroscientists: replace "lizard brain" by "basal ganglia".&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1654006622040264705"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 06:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Need a new firepit? Consider this 36" incredibly accurate Death Star 2 
+
+[read more: https://t.co/VU68v8LpfH]
+#MayThe4thBeWithYou 
+#MayTheFourth https://t.co/Mwp30k8ovZ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654007084613001216</link>
+      <description>Need a new firepit? Consider this 36" incredibly accurate Death Star 2 
+
+[read more: https://t.co/VU68v8LpfH]
+#MayThe4thBeWithYou 
+#MayTheFourth https://t.co/Mwp30k8ovZ</description>
+      <content:encoded>Need a new firepit? Consider this 36" incredibly accurate Death Star 2 
+
+[read more: https://t.co/VU68v8LpfH]
+#MayThe4thBeWithYou 
+#MayTheFourth https://t.co/Mwp30k8ovZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654007084613001216"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvQ2oRFXsAEQTwd.jpg" length="680" type="photo"/>
+      <pubDate>Thu, 04 May 2023 06:16:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
