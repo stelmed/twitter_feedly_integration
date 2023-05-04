@@ -6,221 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 May 2023 17:13:58 +0000</lastBuildDate>
-    <item>
-      <title>New Research: Assessment of a single trial impact on the amplitude of the averaged event related potentials #NeuralCircuits https://t.co/uPBoqgylEI</title>
-      <link>https://twitter.com/FrontNeurosci/status/1653931453758214144</link>
-      <description>New Research: Assessment of a single trial impact on the amplitude of the averaged event related potentials #NeuralCircuits https://t.co/uPBoqgylEI</description>
-      <content:encoded>New Research: Assessment of a single trial impact on the amplitude of the averaged event related potentials #NeuralCircuits https://t.co/uPBoqgylEI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1653931453758214144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brain activity of professional investors signals future stock performance  https://t.co/k1QE0tPnhT #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653931547450396675</link>
-      <description>Brain activity of professional investors signals future stock performance  https://t.co/k1QE0tPnhT #biorxiv_neursci</description>
-      <content:encoded>Brain activity of professional investors signals future stock performance  https://t.co/k1QE0tPnhT #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653931547450396675"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>SlumberNet: Deep learning classification of sleep stages using residual neural networks  https://t.co/26foabRy5g #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653931758004363266</link>
-      <description>SlumberNet: Deep learning classification of sleep stages using residual neural networks  https://t.co/26foabRy5g #biorxiv_neursci</description>
-      <content:encoded>SlumberNet: Deep learning classification of sleep stages using residual neural networks  https://t.co/26foabRy5g #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653931758004363266"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:17:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drosophila cells that express octopamine receptors can either inhibit or promote oviposition  https://t.co/Vxo0zTW0he #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653931876938072064</link>
-      <description>Drosophila cells that express octopamine receptors can either inhibit or promote oviposition  https://t.co/Vxo0zTW0he #biorxiv_neursci</description>
-      <content:encoded>Drosophila cells that express octopamine receptors can either inhibit or promote oviposition  https://t.co/Vxo0zTW0he #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653931876938072064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:17:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The lncRNA Neat1 is associated with astrocyte reactivity and memory deficits in a mouse model of Alzheimer's disease  https://t.co/abKqgizeUy #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653931984954044419</link>
-      <description>The lncRNA Neat1 is associated with astrocyte reactivity and memory deficits in a mouse model of Alzheimer's disease  https://t.co/abKqgizeUy #biorxiv_neursci</description>
-      <content:encoded>The lncRNA Neat1 is associated with astrocyte reactivity and memory deficits in a mouse model of Alzheimer's disease  https://t.co/abKqgizeUy #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653931984954044419"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:18:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers in Science have pinpointed parts of the genome linked to a few exceptional traits in the mammalian world, such as extraordinary brain size, superior sense of smell, and the ability to hibernate during the winter. https://t.co/106eJqWecE #Zoonomia https://t.co/mgZRRYFnW5</title>
-      <link>https://twitter.com/ScienceMagazine/status/1653935000889294851</link>
-      <description>Researchers in Science have pinpointed parts of the genome linked to a few exceptional traits in the mammalian world, such as extraordinary brain size, superior sense of smell, and the ability to hibernate during the winter. https://t.co/106eJqWecE #Zoonomia https://t.co/mgZRRYFnW5</description>
-      <content:encoded>Researchers in Science have pinpointed parts of the genome linked to a few exceptional traits in the mammalian world, such as extraordinary brain size, superior sense of smell, and the ability to hibernate during the winter. https://t.co/106eJqWecE #Zoonomia https://t.co/mgZRRYFnW5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653935000889294851"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvP1HXkXgAMKCp6.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 04 May 2023 01:30:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colloidal quantum dots can now emit bright light when driven electrically. Watch this space for quantum dot lasers at the flick of an electric switch. https://t.co/PNTG6OiwcD</title>
-      <link>https://twitter.com/NatureNV/status/1653940286395957248</link>
-      <description>Colloidal quantum dots can now emit bright light when driven electrically. Watch this space for quantum dot lasers at the flick of an electric switch. https://t.co/PNTG6OiwcD</description>
-      <content:encoded>Colloidal quantum dots can now emit bright light when driven electrically. Watch this space for quantum dot lasers at the flick of an electric switch. https://t.co/PNTG6OiwcD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1653940286395957248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:51:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thanks to everyone who has shared their thoughts about Andrew's suggestion. I really appreciate hearing from all of you, and am learning a lot 🙏</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653941071406067713</link>
-      <description>Thanks to everyone who has shared their thoughts about Andrew's suggestion. I really appreciate hearing from all of you, and am learning a lot 🙏</description>
-      <content:encoded>Thanks to everyone who has shared their thoughts about Andrew's suggestion. I really appreciate hearing from all of you, and am learning a lot 🙏&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653941071406067713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sixers bring back the MVP... and lose by 40</title>
-      <link>https://twitter.com/andpru/status/1653943010634203138</link>
-      <description>Sixers bring back the MVP... and lose by 40</description>
-      <content:encoded>Sixers bring back the MVP... and lose by 40&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1653943010634203138"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 02:01:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Peroxisomal defects in microglial cells induce a disease-associated microglial signature: Microglial cells ensure essential roles in brain homeostasis. In pathological condition, microglia adopt a common signature,… #Molecular #Neuroscience https://t.co/XRkjNie9G2</title>
-      <link>https://twitter.com/FrontNeurosci/status/1653944416460238848</link>
-      <description>New Research: Peroxisomal defects in microglial cells induce a disease-associated microglial signature: Microglial cells ensure essential roles in brain homeostasis. In pathological condition, microglia adopt a common signature,… #Molecular #Neuroscience https://t.co/XRkjNie9G2</description>
-      <content:encoded>New Research: Peroxisomal defects in microglial cells induce a disease-associated microglial signature: Microglial cells ensure essential roles in brain homeostasis. In pathological condition, microglia adopt a common signature,… #Molecular #Neuroscience https://t.co/XRkjNie9G2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1653944416460238848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 02:07:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/g7UiTiTPhI</title>
-      <link>https://twitter.com/elonmusk/status/1653945414037680128</link>
-      <description>https://t.co/g7UiTiTPhI</description>
-      <content:encoded>https://t.co/g7UiTiTPhI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1653945414037680128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvP-lSZaEAEYwlc.jpg" length="1105" type="photo"/>
-      <pubDate>Thu, 04 May 2023 02:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kappa Opioid Receptor Antagonism Rescues Genetic Perturbation of Dopamine Homeostasis: Molecular, Physiological and Behavioral ...  https://t.co/V08n5KHlMc #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653946505437368321</link>
-      <description>Kappa Opioid Receptor Antagonism Rescues Genetic Perturbation of Dopamine Homeostasis: Molecular, Physiological and Behavioral ...  https://t.co/V08n5KHlMc #biorxiv_neursci</description>
-      <content:encoded>Kappa Opioid Receptor Antagonism Rescues Genetic Perturbation of Dopamine Homeostasis: Molecular, Physiological and Behavioral ...  https://t.co/V08n5KHlMc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653946505437368321"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 02:15:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broadband visual stimuli improve neuronal representation and sensory perception  https://t.co/CN3HjJJTJc #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653946588979515394</link>
-      <description>Broadband visual stimuli improve neuronal representation and sensory perception  https://t.co/CN3HjJJTJc #biorxiv_neursci</description>
-      <content:encoded>Broadband visual stimuli improve neuronal representation and sensory perception  https://t.co/CN3HjJJTJc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653946588979515394"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 02:16:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new #genetics study suggests a link between mitochondrial dysfunction and RNA editing in schizophrenia. https://t.co/1VtKRYe97W @ScienceAdvances https://t.co/RzNspZ2am4</title>
-      <link>https://twitter.com/ScienceMagazine/status/1653957656665640962</link>
-      <description>A new #genetics study suggests a link between mitochondrial dysfunction and RNA editing in schizophrenia. https://t.co/1VtKRYe97W @ScienceAdvances https://t.co/RzNspZ2am4</description>
-      <content:encoded>A new #genetics study suggests a link between mitochondrial dysfunction and RNA editing in schizophrenia. https://t.co/1VtKRYe97W @ScienceAdvances https://t.co/RzNspZ2am4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653957656665640962"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvQJuKWWwAAI1FH.jpg" length="911" type="photo"/>
-      <pubDate>Thu, 04 May 2023 03:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is my scientific life so far according to ChatGPT. 
-Moving on with this little papers extractor project. Will release the code to do this kind of plots soon. https://t.co/4iVbSkWRty</title>
-      <link>https://twitter.com/LecoqJerome/status/1653964120537075714</link>
-      <description>This is my scientific life so far according to ChatGPT. 
-Moving on with this little papers extractor project. Will release the code to do this kind of plots soon. https://t.co/4iVbSkWRty</description>
-      <content:encoded>This is my scientific life so far according to ChatGPT. 
-Moving on with this little papers extractor project. Will release the code to do this kind of plots soon. https://t.co/4iVbSkWRty&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1653964120537075714"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvQPIa8aAAUN4s1.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 04 May 2023 03:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @deepmath1: Spread the word ! DeepMath is happening again . This year at John Hopkins University (Baltimore, MD,USA). Make sure to submi…</title>
-      <link>https://twitter.com/neurograce/status/1653965921910771713</link>
-      <description>RT @deepmath1: Spread the word ! DeepMath is happening again . This year at John Hopkins University (Baltimore, MD,USA). Make sure to submi…</description>
-      <content:encoded>RT @deepmath1: Spread the word ! DeepMath is happening again . This year at John Hopkins University (Baltimore, MD,USA). Make sure to submi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1653965921910771713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 03:32:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AMarch4OurLives: 184 mass shootings. 
-123 days. 
-
-How many more? 
-#Atlanta</title>
-      <link>https://twitter.com/neurograce/status/1653965967561506818</link>
-      <description>RT @AMarch4OurLives: 184 mass shootings. 
-123 days. 
-
-How many more? 
-#Atlanta</description>
-      <content:encoded>RT @AMarch4OurLives: 184 mass shootings. 
-123 days. 
-
-How many more? 
-#Atlanta&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1653965967561506818"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 03:33:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>A giant planet has become its stellar host’s snack. Find out more in this fantastic N&amp;amp;V by Smadar Naoz https://t.co/06DUdS5eWH</title>
-      <link>https://twitter.com/NatureNV/status/1653966034192171008</link>
-      <description>A giant planet has become its stellar host’s snack. Find out more in this fantastic N&amp;amp;V by Smadar Naoz https://t.co/06DUdS5eWH</description>
-      <content:encoded>A giant planet has become its stellar host’s snack. Find out more in this fantastic N&amp;amp;V by Smadar Naoz https://t.co/06DUdS5eWH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1653966034192171008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 03:33:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>A while back, there was this like 'radical poster manifesto' thing going around. Can anyone find me a link to some of the tweets?</title>
-      <link>https://twitter.com/NeuroBill/status/1653966411801460737</link>
-      <description>A while back, there was this like 'radical poster manifesto' thing going around. Can anyone find me a link to some of the tweets?</description>
-      <content:encoded>A while back, there was this like 'radical poster manifesto' thing going around. Can anyone find me a link to some of the tweets?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1653966411801460737"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 03:34:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Better Posters #betterposter</title>
-      <link>https://twitter.com/NeuroBill/status/1653968026889494529</link>
-      <description>Better Posters #betterposter</description>
-      <content:encoded>Better Posters #betterposter&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1653968026889494529"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 03:41:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pleased to announce I have been invited to become an editorial board member of Nature Cell and Science. Humbled. https://t.co/RYCNDjhYvs</title>
-      <link>https://twitter.com/AndrewHires/status/1653973502217842688</link>
-      <description>Pleased to announce I have been invited to become an editorial board member of Nature Cell and Science. Humbled. https://t.co/RYCNDjhYvs</description>
-      <content:encoded>Pleased to announce I have been invited to become an editorial board member of Nature Cell and Science. Humbled. https://t.co/RYCNDjhYvs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1653973502217842688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvQYIYEaEAILxoy.jpg" length="554" type="photo"/>
-      <pubDate>Thu, 04 May 2023 04:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @dan_tao: My summary of @lexfridman interviewing @ylecun from early 2022. I've been reading a lot on AI safety and wanted to better unde…</title>
-      <link>https://twitter.com/ylecun/status/1653978027334705153</link>
-      <description>RT @dan_tao: My summary of @lexfridman interviewing @ylecun from early 2022. I've been reading a lot on AI safety and wanted to better unde…</description>
-      <content:encoded>RT @dan_tao: My summary of @lexfridman interviewing @ylecun from early 2022. I've been reading a lot on AI safety and wanted to better unde…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1653978027334705153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 04:21:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Haters may say it’s fake news.
-
-I assure you it’s real.
-
-If you are interested in potentially publishing in Nature Cell and Science, feel free to send me a pre-submission inquiry. https://t.co/YnuZuqkHOO</title>
-      <link>https://twitter.com/AndrewHires/status/1653979066159218688</link>
-      <description>Haters may say it’s fake news.
-
-I assure you it’s real.
-
-If you are interested in potentially publishing in Nature Cell and Science, feel free to send me a pre-submission inquiry. https://t.co/YnuZuqkHOO</description>
-      <content:encoded>Haters may say it’s fake news.
-
-I assure you it’s real.
-
-If you are interested in potentially publishing in Nature Cell and Science, feel free to send me a pre-submission inquiry. https://t.co/YnuZuqkHOO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1653979066159218688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvQdMSpaQAAEwqc.jpg" length="650" type="photo"/>
-      <pubDate>Thu, 04 May 2023 04:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>“It is our duty as faculty to support students in all ways, always.”
-
-In this #ScienceWorkingLife, @ArberTasimi opens up about helping students through loss. https://t.co/qRSdzoZ7y6</title>
-      <link>https://twitter.com/ScienceMagazine/status/1653980281005838343</link>
-      <description>“It is our duty as faculty to support students in all ways, always.”
-
-In this #ScienceWorkingLife, @ArberTasimi opens up about helping students through loss. https://t.co/qRSdzoZ7y6</description>
-      <content:encoded>“It is our duty as faculty to support students in all ways, always.”
-
-In this #ScienceWorkingLife, @ArberTasimi opens up about helping students through loss. https://t.co/qRSdzoZ7y6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1653980281005838343"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 04:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @guolin_ke: Excited to share our latest work, VD-Gen (https://t.co/2qWATMxs6A) - an end-to-end pipeline for generating fine-grained 3D m…</title>
-      <link>https://twitter.com/sofroniewn/status/1653982008450875393</link>
-      <description>RT @guolin_ke: Excited to share our latest work, VD-Gen (https://t.co/2qWATMxs6A) - an end-to-end pipeline for generating fine-grained 3D m…</description>
-      <content:encoded>RT @guolin_ke: Excited to share our latest work, VD-Gen (https://t.co/2qWATMxs6A) - an end-to-end pipeline for generating fine-grained 3D m…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1653982008450875393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 04:36:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 May 2023 18:19:54 +0000</lastBuildDate>
     <item>
       <title>Quote from @geoffreyhinton :
 "There are very few examples of a more intelligent thing being controlled by a less intelligent thing."
@@ -2235,34 +2021,263 @@ https://t.co/RqRMRYnaGv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Thu, 04 May 2023 17:05:18 +0000</pubDate>
     </item>
     <item>
-      <title>The average person types between 38 and 40 words per minute (WPM). That translates into between 190 and 200 characters per minute (CPM).
-
-But what about *290 words* per minute? Watch what it looks like.
-
-[source, mythicalrocket: https://t.co/mJYMFhK6c2]
-https://t.co/RGaQz98Ue2</title>
-      <link>https://twitter.com/Rainmaker1973/status/1654172199727529984</link>
-      <description>The average person types between 38 and 40 words per minute (WPM). That translates into between 190 and 200 characters per minute (CPM).
-
-But what about *290 words* per minute? Watch what it looks like.
-
-[source, mythicalrocket: https://t.co/mJYMFhK6c2]
-https://t.co/RGaQz98Ue2</description>
-      <content:encoded>The average person types between 38 and 40 words per minute (WPM). That translates into between 190 and 200 characters per minute (CPM).
-
-But what about *290 words* per minute? Watch what it looks like.
-
-[source, mythicalrocket: https://t.co/mJYMFhK6c2]
-https://t.co/RGaQz98Ue2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654172199727529984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654081072534044673/pu/img/p7SA7WDbC7oiDEM9.jpg" length="406" type="photo"/>
-      <pubDate>Thu, 04 May 2023 17:12:40 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @humaneainet: Should we take a break from developing AI or push through? Tell us your thoughts &amp;amp;  check this thought-provoking article b…</title>
       <link>https://twitter.com/vdignum/status/1654172358087671831</link>
       <description>RT @humaneainet: Should we take a break from developing AI or push through? Tell us your thoughts &amp;amp;  check this thought-provoking article b…</description>
       <content:encoded>RT @humaneainet: Should we take a break from developing AI or push through? Tell us your thoughts &amp;amp;  check this thought-provoking article b…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1654172358087671831"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 04 May 2023 17:13:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>So many neuroscientists have plans for the post reductionism era. Shame reductionism is so slow to die. (Although c elegans may make a certain flavor of reductionism logically possible) https://t.co/Q6UjnHqSTh</title>
+      <link>https://twitter.com/KordingLab/status/1654172668365504527</link>
+      <description>So many neuroscientists have plans for the post reductionism era. Shame reductionism is so slow to die. (Although c elegans may make a certain flavor of reductionism logically possible) https://t.co/Q6UjnHqSTh</description>
+      <content:encoded>So many neuroscientists have plans for the post reductionism era. Shame reductionism is so slow to die. (Although c elegans may make a certain flavor of reductionism logically possible) https://t.co/Q6UjnHqSTh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1654172668365504527"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>@KordingLab @ISDedal @OpenAI That is an assumption? Or there is empirical support for that?  I would have thought the more $ to people doing bad stuff would lead them to do more bad stuff?</title>
+      <link>https://twitter.com/neuro_data/status/1654173979672707082</link>
+      <description>@KordingLab @ISDedal @OpenAI That is an assumption? Or there is empirical support for that?  I would have thought the more $ to people doing bad stuff would lead them to do more bad stuff?</description>
+      <content:encoded>@KordingLab @ISDedal @OpenAI That is an assumption? Or there is empirical support for that?  I would have thought the more $ to people doing bad stuff would lead them to do more bad stuff?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1654173979672707082"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:19:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>@neuro_data @ISDedal @OpenAI I believe that the many stakeholder influences on companies have been well documented in the Econ literature. Consumers and owners.</title>
+      <link>https://twitter.com/KordingLab/status/1654174786208006172</link>
+      <description>@neuro_data @ISDedal @OpenAI I believe that the many stakeholder influences on companies have been well documented in the Econ literature. Consumers and owners.</description>
+      <content:encoded>@neuro_data @ISDedal @OpenAI I believe that the many stakeholder influences on companies have been well documented in the Econ literature. Consumers and owners.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1654174786208006172"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:22:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ClimateChangeAI: And it's a wrap for @ClimateChangeAI at #ICLR2023!  And all of our organising team together on stage and screen: @Sash…</title>
+      <link>https://twitter.com/neurograce/status/1654174851559481344</link>
+      <description>RT @ClimateChangeAI: And it's a wrap for @ClimateChangeAI at #ICLR2023!  And all of our organising team together on stage and screen: @Sash…</description>
+      <content:encoded>RT @ClimateChangeAI: And it's a wrap for @ClimateChangeAI at #ICLR2023!  And all of our organising team together on stage and screen: @Sash…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1654174851559481344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:23:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @RottenInDenmark: This is *extremely* far from an AI "decoding" your thoughts and turning them into speech. https://t.co/ENg5HDjxSC</title>
+      <link>https://twitter.com/KordingLab/status/1654175091293409280</link>
+      <description>RT @RottenInDenmark: This is *extremely* far from an AI "decoding" your thoughts and turning them into speech. https://t.co/ENg5HDjxSC</description>
+      <content:encoded>RT @RottenInDenmark: This is *extremely* far from an AI "decoding" your thoughts and turning them into speech. https://t.co/ENg5HDjxSC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1654175091293409280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>@TonyZador @GaryMarcus @WiringTheBrain @anne_churchland @Nancy_Kanwisher @PessoaBrain @neurograce @ylecun If somebody writes "entirely", it is good evidence, imho, that they are currently being controlled by their lizard brain :)</title>
+      <link>https://twitter.com/neuro_data/status/1654175236110024723</link>
+      <description>@TonyZador @GaryMarcus @WiringTheBrain @anne_churchland @Nancy_Kanwisher @PessoaBrain @neurograce @ylecun If somebody writes "entirely", it is good evidence, imho, that they are currently being controlled by their lizard brain :)</description>
+      <content:encoded>@TonyZador @GaryMarcus @WiringTheBrain @anne_churchland @Nancy_Kanwisher @PessoaBrain @neurograce @ylecun If somebody writes "entirely", it is good evidence, imho, that they are currently being controlled by their lizard brain :)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1654175236110024723"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>@KordingLab @ISDedal @OpenAI The question for us is: does *me* buying a product tend to make that company do more or less bad things.  My guess is: it makes them do more of what they were doing that led them to get me as a customer.  So, if that was bad, then I'm increasing the likelihood of them doing more.</title>
+      <link>https://twitter.com/neuro_data/status/1654175732296196096</link>
+      <description>@KordingLab @ISDedal @OpenAI The question for us is: does *me* buying a product tend to make that company do more or less bad things.  My guess is: it makes them do more of what they were doing that led them to get me as a customer.  So, if that was bad, then I'm increasing the likelihood of them doing more.</description>
+      <content:encoded>@KordingLab @ISDedal @OpenAI The question for us is: does *me* buying a product tend to make that company do more or less bad things.  My guess is: it makes them do more of what they were doing that led them to get me as a customer.  So, if that was bad, then I'm increasing the likelihood of them doing more.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1654175732296196096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @wasp_hs: "With regard to children's use of #AI systems... obligation bearers need to understand how children use AI and the injustices…</title>
+      <link>https://twitter.com/vdignum/status/1654176673930018833</link>
+      <description>RT @wasp_hs: "With regard to children's use of #AI systems... obligation bearers need to understand how children use AI and the injustices…</description>
+      <content:encoded>RT @wasp_hs: "With regard to children's use of #AI systems... obligation bearers need to understand how children use AI and the injustices…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1654176673930018833"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:30:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. @Nature reports on how advanced AIs pose fresh ethical questions. https://t.co/T1CxWWae1A</title>
+      <link>https://twitter.com/NaturePortfolio/status/1654178324048904226</link>
+      <description>The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. @Nature reports on how advanced AIs pose fresh ethical questions. https://t.co/T1CxWWae1A</description>
+      <content:encoded>The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. @Nature reports on how advanced AIs pose fresh ethical questions. https://t.co/T1CxWWae1A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1654178324048904226"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @NatureComms: Save the date! We are hosting a webinar on Cancer Associated Fibroblasts 
+
+🗓️ Wednesday 7th Jun 2023
+⏲️ 16.00 PM (Europe/L…</title>
+      <link>https://twitter.com/NaturePortfolio/status/1654178424364072982</link>
+      <description>RT @NatureComms: Save the date! We are hosting a webinar on Cancer Associated Fibroblasts 
+
+🗓️ Wednesday 7th Jun 2023
+⏲️ 16.00 PM (Europe/L…</description>
+      <content:encoded>RT @NatureComms: Save the date! We are hosting a webinar on Cancer Associated Fibroblasts 
+
+🗓️ Wednesday 7th Jun 2023
+⏲️ 16.00 PM (Europe/L…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1654178424364072982"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:37:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emperor penguins transport their chicks on their feet. Some of them might be doing that the wrong way  
+
+[source and full video, BBC: https://t.co/cEi6NT1ien]
+https://t.co/VJglMNXnMt</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654178579482017826</link>
+      <description>Emperor penguins transport their chicks on their feet. Some of them might be doing that the wrong way  
+
+[source and full video, BBC: https://t.co/cEi6NT1ien]
+https://t.co/VJglMNXnMt</description>
+      <content:encoded>Emperor penguins transport their chicks on their feet. Some of them might be doing that the wrong way  
+
+[source and full video, BBC: https://t.co/cEi6NT1ien]
+https://t.co/VJglMNXnMt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654178579482017826"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1604526999501938688/pu/img/7lx4nLsPiyNr4ST5.jpg" length="640" type="photo"/>
+      <pubDate>Thu, 04 May 2023 17:38:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @IshmailSaboor: I agree, dont pick people for talks, awards, or positions to check an identity box. However, I strongly believe you can…</title>
+      <link>https://twitter.com/kaymtye/status/1654178697232908312</link>
+      <description>RT @IshmailSaboor: I agree, dont pick people for talks, awards, or positions to check an identity box. However, I strongly believe you can…</description>
+      <content:encoded>RT @IshmailSaboor: I agree, dont pick people for talks, awards, or positions to check an identity box. However, I strongly believe you can…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1654178697232908312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:38:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oof. In wayyy too much pain today to deal with tweets like this that ignore a wealth of peer reviewed research about bias 🤦🏻‍♀️ https://t.co/iN2GMg6msS</title>
+      <link>https://twitter.com/kaymtye/status/1654179184296509456</link>
+      <description>Oof. In wayyy too much pain today to deal with tweets like this that ignore a wealth of peer reviewed research about bias 🤦🏻‍♀️ https://t.co/iN2GMg6msS</description>
+      <content:encoded>Oof. In wayyy too much pain today to deal with tweets like this that ignore a wealth of peer reviewed research about bias 🤦🏻‍♀️ https://t.co/iN2GMg6msS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1654179184296509456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>#EdTech tools can help teachers increase: 
+
+✅ student well-being
+✅ classroom engagement
+✅ student willingness to learn
+
+Here’s how ⬇️ #TechForTheFuture https://t.co/Tyc7nkbxdB</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1654179584898678793</link>
+      <description>#EdTech tools can help teachers increase: 
+
+✅ student well-being
+✅ classroom engagement
+✅ student willingness to learn
+
+Here’s how ⬇️ #TechForTheFuture https://t.co/Tyc7nkbxdB</description>
+      <content:encoded>#EdTech tools can help teachers increase: 
+
+✅ student well-being
+✅ classroom engagement
+✅ student willingness to learn
+
+Here’s how ⬇️ #TechForTheFuture https://t.co/Tyc7nkbxdB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1654179584898678793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thank you @NYASciences you are too kind!! Just published our new review (link coming below) and am day 2 post surgery 🩼and locked on the couch so gonna make the most of this thoughtful care package❤️🙏 https://t.co/dwVfSp3bsW</title>
+      <link>https://twitter.com/kaymtye/status/1654179962415398914</link>
+      <description>Thank you @NYASciences you are too kind!! Just published our new review (link coming below) and am day 2 post surgery 🩼and locked on the couch so gonna make the most of this thoughtful care package❤️🙏 https://t.co/dwVfSp3bsW</description>
+      <content:encoded>Thank you @NYASciences you are too kind!! Just published our new review (link coming below) and am day 2 post surgery 🩼and locked on the couch so gonna make the most of this thoughtful care package❤️🙏 https://t.co/dwVfSp3bsW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1654179962415398914"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvTT6BoaIAAGwfv.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 04 May 2023 17:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @hardmaru: Google “We Have No Moat, And Neither Does OpenAI”
+
+Leaked Internal Google Document Claims Open Source AI Will Outcompete Goog…</title>
+      <link>https://twitter.com/sofroniewn/status/1654180125397733389</link>
+      <description>RT @hardmaru: Google “We Have No Moat, And Neither Does OpenAI”
+
+Leaked Internal Google Document Claims Open Source AI Will Outcompete Goog…</description>
+      <content:encoded>RT @hardmaru: Google “We Have No Moat, And Neither Does OpenAI”
+
+Leaked Internal Google Document Claims Open Source AI Will Outcompete Goog…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1654180125397733389"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:44:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Epiphyllum oxypetalum, the queen of the night, only blooms at night, typically between the months of July and October. And it does this only one nigh a year
+
+[read more: https://t.co/kW8jbHL68r]
+[📹 餅月: https://t.co/UofXsFpKJ8]
+https://t.co/je3uEu91AC</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654182414887862274</link>
+      <description>Epiphyllum oxypetalum, the queen of the night, only blooms at night, typically between the months of July and October. And it does this only one nigh a year
+
+[read more: https://t.co/kW8jbHL68r]
+[📹 餅月: https://t.co/UofXsFpKJ8]
+https://t.co/je3uEu91AC</description>
+      <content:encoded>Epiphyllum oxypetalum, the queen of the night, only blooms at night, typically between the months of July and October. And it does this only one nigh a year
+
+[read more: https://t.co/kW8jbHL68r]
+[📹 餅月: https://t.co/UofXsFpKJ8]
+https://t.co/je3uEu91AC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654182414887862274"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1314505873255878657/pu/img/EnehlevooStWxZIo.jpg" length="675" type="photo"/>
+      <pubDate>Thu, 04 May 2023 17:53:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>May the 4th be with you ❤️ https://t.co/jicWCJohs5</title>
+      <link>https://twitter.com/elonmusk/status/1654183141605625860</link>
+      <description>May the 4th be with you ❤️ https://t.co/jicWCJohs5</description>
+      <content:encoded>May the 4th be with you ❤️ https://t.co/jicWCJohs5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1654183141605625860"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvTWy2MX0AgBOCu.jpg" length="939" type="photo"/>
+      <pubDate>Thu, 04 May 2023 17:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@neuro_data @ISDedal @OpenAI Would (minor) changes of their behavior change your buying choice? If not you have no influence</title>
+      <link>https://twitter.com/KordingLab/status/1654183637372248065</link>
+      <description>@neuro_data @ISDedal @OpenAI Would (minor) changes of their behavior change your buying choice? If not you have no influence</description>
+      <content:encoded>@neuro_data @ISDedal @OpenAI Would (minor) changes of their behavior change your buying choice? If not you have no influence&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1654183637372248065"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:58:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geoffrey Hinton, one of the godfathers of deep learning, has resigned from Google so he can voice personal concerns about his AI fears. 
+
+Learn more in #TheBatch: https://t.co/rTcp6tpMYN</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1654184113228730384</link>
+      <description>Geoffrey Hinton, one of the godfathers of deep learning, has resigned from Google so he can voice personal concerns about his AI fears. 
+
+Learn more in #TheBatch: https://t.co/rTcp6tpMYN</description>
+      <content:encoded>Geoffrey Hinton, one of the godfathers of deep learning, has resigned from Google so he can voice personal concerns about his AI fears. 
+
+Learn more in #TheBatch: https://t.co/rTcp6tpMYN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1654184113228730384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @rlmcelreath: In stats consultations lately, common problem across domains has been that scientists want to start with what they have me…</title>
+      <link>https://twitter.com/KordingLab/status/1654185322161360896</link>
+      <description>RT @rlmcelreath: In stats consultations lately, common problem across domains has been that scientists want to start with what they have me…</description>
+      <content:encoded>RT @rlmcelreath: In stats consultations lately, common problem across domains has been that scientists want to start with what they have me…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1654185322161360896"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 18:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>A cardinal feature of the #immune system is its ability to distinguish self from nonself. Sometimes, however, this delicate balancing act fails.
+ 
+This special issue of Science highlights recent advances in our understanding of #autoimmunity. https://t.co/daYjMdYiRT https://t.co/W0196ed0L6</title>
+      <link>https://twitter.com/ScienceMagazine/status/1654185401110745092</link>
+      <description>A cardinal feature of the #immune system is its ability to distinguish self from nonself. Sometimes, however, this delicate balancing act fails.
+ 
+This special issue of Science highlights recent advances in our understanding of #autoimmunity. https://t.co/daYjMdYiRT https://t.co/W0196ed0L6</description>
+      <content:encoded>A cardinal feature of the #immune system is its ability to distinguish self from nonself. Sometimes, however, this delicate balancing act fails.
+ 
+This special issue of Science highlights recent advances in our understanding of #autoimmunity. https://t.co/daYjMdYiRT https://t.co/W0196ed0L6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1654185401110745092"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvTY2n6X0Acd3-G.jpg" length="943" type="photo"/>
+      <pubDate>Thu, 04 May 2023 18:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥳🎉You can find them here https://t.co/YdZwuEysYd 
+
+and read about them here 👀👀https://t.co/TQ4waHXfDD https://t.co/QIOOX8o8Fh</title>
+      <link>https://twitter.com/Addgene/status/1654186351389036549</link>
+      <description>🥳🎉You can find them here https://t.co/YdZwuEysYd 
+
+and read about them here 👀👀https://t.co/TQ4waHXfDD https://t.co/QIOOX8o8Fh</description>
+      <content:encoded>🥳🎉You can find them here https://t.co/YdZwuEysYd 
+
+and read about them here 👀👀https://t.co/TQ4waHXfDD https://t.co/QIOOX8o8Fh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1654186351389036549"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 18:08:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Many tumours lose expression of PTEN protein. This loss not only boosts proliferation but also dampens immune-cell defences against cancer. https://t.co/N2h5mTPR5d</title>
+      <link>https://twitter.com/NatureNV/status/1654186410650238981</link>
+      <description>Many tumours lose expression of PTEN protein. This loss not only boosts proliferation but also dampens immune-cell defences against cancer. https://t.co/N2h5mTPR5d</description>
+      <content:encoded>Many tumours lose expression of PTEN protein. This loss not only boosts proliferation but also dampens immune-cell defences against cancer. https://t.co/N2h5mTPR5d&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1654186410650238981"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 18:09:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @yeo_lab: Pleased to share our recent paper led by amazing postdoc @evaubo. Skipper analysis of eCLIP datasets enables sensitive detecti…</title>
+      <link>https://twitter.com/furthlab/status/1654188068956516352</link>
+      <description>RT @yeo_lab: Pleased to share our recent paper led by amazing postdoc @evaubo. Skipper analysis of eCLIP datasets enables sensitive detecti…</description>
+      <content:encoded>RT @yeo_lab: Pleased to share our recent paper led by amazing postdoc @evaubo. Skipper analysis of eCLIP datasets enables sensitive detecti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1654188068956516352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 18:15:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
