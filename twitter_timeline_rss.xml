@@ -6,140 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 May 2023 16:31:16 +0000</lastBuildDate>
-    <item>
-      <title>RT @3blue1brown: In a podcast I did with @stevenstrogatz, he described a proof he saw in an undergrad lecture that made him burst into appl…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653901350609068034</link>
-      <description>RT @3blue1brown: In a podcast I did with @stevenstrogatz, he described a proof he saw in an undergrad lecture that made him burst into appl…</description>
-      <content:encoded>RT @3blue1brown: In a podcast I did with @stevenstrogatz, he described a proof he saw in an undergrad lecture that made him burst into appl…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653901350609068034"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 23:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @3blue1brown: Here's the clip I'm referencing.
-
-https://t.co/iqMS7QF23o</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653901449573593088</link>
-      <description>RT @3blue1brown: Here's the clip I'm referencing.
-
-https://t.co/iqMS7QF23o</description>
-      <content:encoded>RT @3blue1brown: Here's the clip I'm referencing.
-
-https://t.co/iqMS7QF23o&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653901449573593088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 23:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @QuantaMagazine: On The Joy of Why, the physicist Vedika Khemani tells @StevenStrogatz about quantum many-body systems outside of equili…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653901649306370049</link>
-      <description>RT @QuantaMagazine: On The Joy of Why, the physicist Vedika Khemani tells @StevenStrogatz about quantum many-body systems outside of equili…</description>
-      <content:encoded>RT @QuantaMagazine: On The Joy of Why, the physicist Vedika Khemani tells @StevenStrogatz about quantum many-body systems outside of equili…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653901649306370049"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 23:17:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @7homaslin: Time crystals are able to exhibit perpetual motion at the quantum level because they "come from a corner of physics in which…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653901787001135104</link>
-      <description>RT @7homaslin: Time crystals are able to exhibit perpetual motion at the quantum level because they "come from a corner of physics in which…</description>
-      <content:encoded>RT @7homaslin: Time crystals are able to exhibit perpetual motion at the quantum level because they "come from a corner of physics in which…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653901787001135104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 23:18:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @b_chinnian5: @AlexKontorovich @stevenstrogatz Elias Stein also proved it in highschool: https://t.co/3pbOLijmub</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653904587575656451</link>
-      <description>RT @b_chinnian5: @AlexKontorovich @stevenstrogatz Elias Stein also proved it in highschool: https://t.co/3pbOLijmub</description>
-      <content:encoded>RT @b_chinnian5: @AlexKontorovich @stevenstrogatz Elias Stein also proved it in highschool: https://t.co/3pbOLijmub&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653904587575656451"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 23:29:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>No more blue check mark for me!</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653905696407126017</link>
-      <description>No more blue check mark for me!</description>
-      <content:encoded>No more blue check mark for me!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653905696407126017"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 23:33:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @pickover: Mathematics, pattern, numbers. 
-
-Can you find the mistake?  Did you use any particular strategy to find it?   Are you happy w…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653906678037741569</link>
-      <description>RT @pickover: Mathematics, pattern, numbers. 
-
-Can you find the mistake?  Did you use any particular strategy to find it?   Are you happy w…</description>
-      <content:encoded>RT @pickover: Mathematics, pattern, numbers. 
-
-Can you find the mistake?  Did you use any particular strategy to find it?   Are you happy w…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653906678037741569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 03 May 2023 23:37:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Influence of goals on modular brain network organization during working memory: Introduction
-
-Top-down control underlies our ability to attend relevant stimuli while ignoring irrelevant, distracting stimuli and is a critical… #neuroscience https://t.co/vrcOFinlZQ</title>
-      <link>https://twitter.com/FrontNeurosci/status/1653912457776357376</link>
-      <description>New Research: Influence of goals on modular brain network organization during working memory: Introduction
-
-Top-down control underlies our ability to attend relevant stimuli while ignoring irrelevant, distracting stimuli and is a critical… #neuroscience https://t.co/vrcOFinlZQ</description>
-      <content:encoded>New Research: Influence of goals on modular brain network organization during working memory: Introduction
-
-Top-down control underlies our ability to attend relevant stimuli while ignoring irrelevant, distracting stimuli and is a critical… #neuroscience https://t.co/vrcOFinlZQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1653912457776357376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 00:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @neuromatch: Do you know advanced Ph.D. students or postdocs who are Computational Neuroscience or Deep Learning experts? 
-Please tell t…</title>
-      <link>https://twitter.com/computingnature/status/1653914684842467329</link>
-      <description>RT @neuromatch: Do you know advanced Ph.D. students or postdocs who are Computational Neuroscience or Deep Learning experts? 
-Please tell t…</description>
-      <content:encoded>RT @neuromatch: Do you know advanced Ph.D. students or postdocs who are Computational Neuroscience or Deep Learning experts? 
-Please tell t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/computingnature/status/1653914684842467329"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 00:09:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>How well do models of visual cortex generalize to out of distribution samples?  https://t.co/Vx9Html6mh #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653916200412299283</link>
-      <description>How well do models of visual cortex generalize to out of distribution samples?  https://t.co/Vx9Html6mh #biorxiv_neursci</description>
-      <content:encoded>How well do models of visual cortex generalize to out of distribution samples?  https://t.co/Vx9Html6mh #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653916200412299283"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 00:15:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @billhilf: Great to see @codeorg lead in this area. 'Instead of banning AI in the classroom, we must introduce it thoughtfully, safely,…</title>
-      <link>https://twitter.com/ruimcosta/status/1653919692401295360</link>
-      <description>RT @billhilf: Great to see @codeorg lead in this area. 'Instead of banning AI in the classroom, we must introduce it thoughtfully, safely,…</description>
-      <content:encoded>RT @billhilf: Great to see @codeorg lead in this area. 'Instead of banning AI in the classroom, we must introduce it thoughtfully, safely,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1653919692401295360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 00:29:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @pmddomingos: Reminder: most AI researchers think the notion of AI ending human civilization is baloney.</title>
-      <link>https://twitter.com/ylecun/status/1653920545224753152</link>
-      <description>RT @pmddomingos: Reminder: most AI researchers think the notion of AI ending human civilization is baloney.</description>
-      <content:encoded>RT @pmddomingos: Reminder: most AI researchers think the notion of AI ending human civilization is baloney.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1653920545224753152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 00:32:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @zenbrainest: 'Chemogenetic activation of these neurons caused a bilateral and widespread reduction in heat, cold, and mechanical sensit…</title>
-      <link>https://twitter.com/MargolisLab/status/1653925084749262849</link>
-      <description>RT @zenbrainest: 'Chemogenetic activation of these neurons caused a bilateral and widespread reduction in heat, cold, and mechanical sensit…</description>
-      <content:encoded>RT @zenbrainest: 'Chemogenetic activation of these neurons caused a bilateral and widespread reduction in heat, cold, and mechanical sensit…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MargolisLab/status/1653925084749262849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 00:50:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>To my followers: What do you all think about Andrew's suggestion below? Comments welcome. https://t.co/aqkxINlGYe</title>
-      <link>https://twitter.com/stevenstrogatz/status/1653929711146344450</link>
-      <description>To my followers: What do you all think about Andrew's suggestion below? Comments welcome. https://t.co/aqkxINlGYe</description>
-      <content:encoded>To my followers: What do you all think about Andrew's suggestion below? Comments welcome. https://t.co/aqkxINlGYe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1653929711146344450"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:09:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ASTRA: a deep learning algorithm for fast semantic segmentation of large-scale astrocytic networks  https://t.co/p3RXFltDxT #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653931309167783937</link>
-      <description>ASTRA: a deep learning algorithm for fast semantic segmentation of large-scale astrocytic networks  https://t.co/p3RXFltDxT #biorxiv_neursci</description>
-      <content:encoded>ASTRA: a deep learning algorithm for fast semantic segmentation of large-scale astrocytic networks  https://t.co/p3RXFltDxT #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653931309167783937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:15:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evoked Responses to Localized Sounds Suggest Linear Representation of Elevation in Human Auditory Cortex  https://t.co/Uj4ovRsw49 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1653931397944418304</link>
-      <description>Evoked Responses to Localized Sounds Suggest Linear Representation of Elevation in Human Auditory Cortex  https://t.co/Uj4ovRsw49 #biorxiv_neursci</description>
-      <content:encoded>Evoked Responses to Localized Sounds Suggest Linear Representation of Elevation in Human Auditory Cortex  https://t.co/Uj4ovRsw49 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1653931397944418304"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 01:15:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 May 2023 17:13:58 +0000</lastBuildDate>
     <item>
       <title>New Research: Assessment of a single trial impact on the amplitude of the averaged event related potentials #NeuralCircuits https://t.co/uPBoqgylEI</title>
       <link>https://twitter.com/FrontNeurosci/status/1653931453758214144</link>
@@ -2203,6 +2070,199 @@ Learn more in a new #SciencePerspective: https://t.co/HwzyGgi9gi https://t.co/eP
 Learn more in a new #SciencePerspective: https://t.co/HwzyGgi9gi https://t.co/ePBzCt4n1A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1654161585479221250"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654161508937482241/pu/img/X44Erw88zsg-U1jT.jpg" length="1200" type="photo"/>
       <pubDate>Thu, 04 May 2023 16:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>People of European ancestry make up about 16% of the world’s population yet account for 80% of participants in genetic studies of disease. 
+
+@MeharryMedical, @MSMEDU, @HowardU + @cdrewu are working to increase representation in research. Here’s how: https://t.co/Tcz5PRo26e https://t.co/Uoz4cPDgGS</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1654161976791007236</link>
+      <description>People of European ancestry make up about 16% of the world’s population yet account for 80% of participants in genetic studies of disease. 
+
+@MeharryMedical, @MSMEDU, @HowardU + @cdrewu are working to increase representation in research. Here’s how: https://t.co/Tcz5PRo26e https://t.co/Uoz4cPDgGS</description>
+      <content:encoded>People of European ancestry make up about 16% of the world’s population yet account for 80% of participants in genetic studies of disease. 
+
+@MeharryMedical, @MSMEDU, @HowardU + @cdrewu are working to increase representation in research. Here’s how: https://t.co/Tcz5PRo26e https://t.co/Uoz4cPDgGS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1654161976791007236"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvTDjBIWAA8RZsh.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 04 May 2023 16:32:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @NatRevPsych contrasts domain-generality and skill-learning accounts of bilingualism, considering how bilingual language use interacts with executive functions across levels of language proficiency. 🔒 https://t.co/je8NTwHy11 https://t.co/l5hVK4CWN4</title>
+      <link>https://twitter.com/NaturePortfolio/status/1654162239660621824</link>
+      <description>A Review in @NatRevPsych contrasts domain-generality and skill-learning accounts of bilingualism, considering how bilingual language use interacts with executive functions across levels of language proficiency. 🔒 https://t.co/je8NTwHy11 https://t.co/l5hVK4CWN4</description>
+      <content:encoded>A Review in @NatRevPsych contrasts domain-generality and skill-learning accounts of bilingualism, considering how bilingual language use interacts with executive functions across levels of language proficiency. 🔒 https://t.co/je8NTwHy11 https://t.co/l5hVK4CWN4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1654162239660621824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvTDxiHWAAMJsjQ.jpg" length="1000" type="photo"/>
+      <pubDate>Thu, 04 May 2023 16:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @abhi_aggarwal1: 3/ A variety of plasmids and viruses for #iGluSnFR3 are available on @Addgene https://t.co/QdzwYgHceE
+
+For any addition…</title>
+      <link>https://twitter.com/Addgene/status/1654163082002694160</link>
+      <description>RT @abhi_aggarwal1: 3/ A variety of plasmids and viruses for #iGluSnFR3 are available on @Addgene https://t.co/QdzwYgHceE
+
+For any addition…</description>
+      <content:encoded>RT @abhi_aggarwal1: 3/ A variety of plasmids and viruses for #iGluSnFR3 are available on @Addgene https://t.co/QdzwYgHceE
+
+For any addition…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1654163082002694160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 16:36:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SorenGrubb: 🔬 New study out by Shih lab (https://t.co/iF1h9dsEPA) 🧪 exploring endothelial cells in the 🧠 capillary transition zone🩸usin…</title>
+      <link>https://twitter.com/AllenInstitute/status/1654163980468867072</link>
+      <description>RT @SorenGrubb: 🔬 New study out by Shih lab (https://t.co/iF1h9dsEPA) 🧪 exploring endothelial cells in the 🧠 capillary transition zone🩸usin…</description>
+      <content:encoded>RT @SorenGrubb: 🔬 New study out by Shih lab (https://t.co/iF1h9dsEPA) 🧪 exploring endothelial cells in the 🧠 capillary transition zone🩸usin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1654163980468867072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 16:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @KevinKaichuang: - Predict structures for 200k microbial proteins
+- Complementary to AlphaFold database
+- Identify 148 novel folds
+
+Juli…</title>
+      <link>https://twitter.com/sofroniewn/status/1654163994649690115</link>
+      <description>RT @KevinKaichuang: - Predict structures for 200k microbial proteins
+- Complementary to AlphaFold database
+- Identify 148 novel folds
+
+Juli…</description>
+      <content:encoded>RT @KevinKaichuang: - Predict structures for 200k microbial proteins
+- Complementary to AlphaFold database
+- Identify 148 novel folds
+
+Juli…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1654163994649690115"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 16:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>#May4thBeWithYou (and your plasmids!) 
+
+https://t.co/d6grJHEOr1 https://t.co/IuC7qxlOTL</title>
+      <link>https://twitter.com/Addgene/status/1654165331797999623</link>
+      <description>#May4thBeWithYou (and your plasmids!) 
+
+https://t.co/d6grJHEOr1 https://t.co/IuC7qxlOTL</description>
+      <content:encoded>#May4thBeWithYou (and your plasmids!) 
+
+https://t.co/d6grJHEOr1 https://t.co/IuC7qxlOTL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1654165331797999623"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654164460766887939/pu/img/u0a6IBEGxtKsUN03.jpg" length="576" type="photo"/>
+      <pubDate>Thu, 04 May 2023 16:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @c_f_baumgartner: We are delighted to announce the #MICCAI Learn2Learn challenge! 🎉 
+
+Download and explore our dataset of 28 unique task…</title>
+      <link>https://twitter.com/CellTypist/status/1654165711516729347</link>
+      <description>RT @c_f_baumgartner: We are delighted to announce the #MICCAI Learn2Learn challenge! 🎉 
+
+Download and explore our dataset of 28 unique task…</description>
+      <content:encoded>RT @c_f_baumgartner: We are delighted to announce the #MICCAI Learn2Learn challenge! 🎉 
+
+Download and explore our dataset of 28 unique task…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1654165711516729347"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 16:46:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Very excited about this - I think #CZCellxGene will be a great resource for people to train foundation models for cell biology https://t.co/wZAo3TFYrH
+
+cc @BoWang87 @anshulkundaje @jure https://t.co/budPh7YyO7</title>
+      <link>https://twitter.com/sofroniewn/status/1654167813592952832</link>
+      <description>Very excited about this - I think #CZCellxGene will be a great resource for people to train foundation models for cell biology https://t.co/wZAo3TFYrH
+
+cc @BoWang87 @anshulkundaje @jure https://t.co/budPh7YyO7</description>
+      <content:encoded>Very excited about this - I think #CZCellxGene will be a great resource for people to train foundation models for cell biology https://t.co/wZAo3TFYrH
+
+cc @BoWang87 @anshulkundaje @jure https://t.co/budPh7YyO7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1654167813592952832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 16:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>@AndrewHires @abhi_aggarwal1 @HHMIJanelia @AllenInstitute It's a tricky measurement to make. We haven't gone deep on it. Looking at amplitudes, some sites are very quantal, while others are not. There's been some nice work from @OertnerLab with older iGluSnFRs, would be exciting to see with iGluSnFR3.</title>
+      <link>https://twitter.com/PodgorskiLab/status/1654168537076727819</link>
+      <description>@AndrewHires @abhi_aggarwal1 @HHMIJanelia @AllenInstitute It's a tricky measurement to make. We haven't gone deep on it. Looking at amplitudes, some sites are very quantal, while others are not. There's been some nice work from @OertnerLab with older iGluSnFRs, would be exciting to see with iGluSnFR3.</description>
+      <content:encoded>@AndrewHires @abhi_aggarwal1 @HHMIJanelia @AllenInstitute It's a tricky measurement to make. We haven't gone deep on it. Looking at amplitudes, some sites are very quantal, while others are not. There's been some nice work from @OertnerLab with older iGluSnFRs, would be exciting to see with iGluSnFR3.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PodgorskiLab/status/1654168537076727819"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 16:58:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @adjiboussodieng: Everyone is talking about AGI and doomsday. The attention skew in the current AI narrative is real. I wrote about why…</title>
+      <link>https://twitter.com/tyrell_turing/status/1654168891373780999</link>
+      <description>RT @adjiboussodieng: Everyone is talking about AGI and doomsday. The attention skew in the current AI narrative is real. I wrote about why…</description>
+      <content:encoded>RT @adjiboussodieng: Everyone is talking about AGI and doomsday. The attention skew in the current AI narrative is real. I wrote about why…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1654168891373780999"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 16:59:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔬 Are you an imaging expert looking for your next challenge?
+
+🔥 Apply today for one of our open positions or check out our open call for imaging experts ▶️ 
+https://t.co/YL2i6SmoEp https://t.co/gwJOJ9POpE</title>
+      <link>https://twitter.com/HHMIJanelia/status/1654169061729914880</link>
+      <description>🔬 Are you an imaging expert looking for your next challenge?
+
+🔥 Apply today for one of our open positions or check out our open call for imaging experts ▶️ 
+https://t.co/YL2i6SmoEp https://t.co/gwJOJ9POpE</description>
+      <content:encoded>🔬 Are you an imaging expert looking for your next challenge?
+
+🔥 Apply today for one of our open positions or check out our open call for imaging experts ▶️ 
+https://t.co/YL2i6SmoEp https://t.co/gwJOJ9POpE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1654169061729914880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654169016124964884/pu/img/s_6hEj_59r0S0S1_.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 04 May 2023 17:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>A zoetrope is one of several pre-film animation devices that produce the illusion of motion.
+
+This is a 3D printed part created by Akinori Goto, which allows a light to project a simple, essential animation
+
+[source and more: https://t.co/ydkhJP1VXn]
+https://t.co/RqRMRYnaGv</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654169742460977153</link>
+      <description>A zoetrope is one of several pre-film animation devices that produce the illusion of motion.
+
+This is a 3D printed part created by Akinori Goto, which allows a light to project a simple, essential animation
+
+[source and more: https://t.co/ydkhJP1VXn]
+https://t.co/RqRMRYnaGv</description>
+      <content:encoded>A zoetrope is one of several pre-film animation devices that produce the illusion of motion.
+
+This is a 3D printed part created by Akinori Goto, which allows a light to project a simple, essential animation
+
+[source and more: https://t.co/ydkhJP1VXn]
+https://t.co/RqRMRYnaGv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654169742460977153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1119206770935762945/pu/img/mgojcZ334X6ev0j7.jpg" length="480" type="photo"/>
+      <pubDate>Thu, 04 May 2023 17:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>MIT political scientist In Song Kim shines a bright light on the dark art of political lobbying. https://t.co/E87v6htpop https://t.co/QFX3O6Pfvm</title>
+      <link>https://twitter.com/MIT/status/1654170348500254722</link>
+      <description>MIT political scientist In Song Kim shines a bright light on the dark art of political lobbying. https://t.co/E87v6htpop https://t.co/QFX3O6Pfvm</description>
+      <content:encoded>MIT political scientist In Song Kim shines a bright light on the dark art of political lobbying. https://t.co/E87v6htpop https://t.co/QFX3O6Pfvm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1654170348500254722"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvTLKSgWACY0SKZ.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 04 May 2023 17:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>The average person types between 38 and 40 words per minute (WPM). That translates into between 190 and 200 characters per minute (CPM).
+
+But what about *290 words* per minute? Watch what it looks like.
+
+[source, mythicalrocket: https://t.co/mJYMFhK6c2]
+https://t.co/RGaQz98Ue2</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654172199727529984</link>
+      <description>The average person types between 38 and 40 words per minute (WPM). That translates into between 190 and 200 characters per minute (CPM).
+
+But what about *290 words* per minute? Watch what it looks like.
+
+[source, mythicalrocket: https://t.co/mJYMFhK6c2]
+https://t.co/RGaQz98Ue2</description>
+      <content:encoded>The average person types between 38 and 40 words per minute (WPM). That translates into between 190 and 200 characters per minute (CPM).
+
+But what about *290 words* per minute? Watch what it looks like.
+
+[source, mythicalrocket: https://t.co/mJYMFhK6c2]
+https://t.co/RGaQz98Ue2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654172199727529984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654081072534044673/pu/img/p7SA7WDbC7oiDEM9.jpg" length="406" type="photo"/>
+      <pubDate>Thu, 04 May 2023 17:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @humaneainet: Should we take a break from developing AI or push through? Tell us your thoughts &amp;amp;  check this thought-provoking article b…</title>
+      <link>https://twitter.com/vdignum/status/1654172358087671831</link>
+      <description>RT @humaneainet: Should we take a break from developing AI or push through? Tell us your thoughts &amp;amp;  check this thought-provoking article b…</description>
+      <content:encoded>RT @humaneainet: Should we take a break from developing AI or push through? Tell us your thoughts &amp;amp;  check this thought-provoking article b…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1654172358087671831"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 04 May 2023 17:13:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
