@@ -6,80 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 May 2023 10:17:42 +0000</lastBuildDate>
-    <item>
-      <title>RT @SorenGrubb: 🔬 New study out by Shih lab (https://t.co/iF1h9dsEPA) 🧪 exploring endothelial cells in the 🧠 capillary transition zone🩸usin…</title>
-      <link>https://twitter.com/AllenInstitute/status/1654163980468867072</link>
-      <description>RT @SorenGrubb: 🔬 New study out by Shih lab (https://t.co/iF1h9dsEPA) 🧪 exploring endothelial cells in the 🧠 capillary transition zone🩸usin…</description>
-      <content:encoded>RT @SorenGrubb: 🔬 New study out by Shih lab (https://t.co/iF1h9dsEPA) 🧪 exploring endothelial cells in the 🧠 capillary transition zone🩸usin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1654163980468867072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 16:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @KevinKaichuang: - Predict structures for 200k microbial proteins
-- Complementary to AlphaFold database
-- Identify 148 novel folds
-
-Juli…</title>
-      <link>https://twitter.com/sofroniewn/status/1654163994649690115</link>
-      <description>RT @KevinKaichuang: - Predict structures for 200k microbial proteins
-- Complementary to AlphaFold database
-- Identify 148 novel folds
-
-Juli…</description>
-      <content:encoded>RT @KevinKaichuang: - Predict structures for 200k microbial proteins
-- Complementary to AlphaFold database
-- Identify 148 novel folds
-
-Juli…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1654163994649690115"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 16:40:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>#May4thBeWithYou (and your plasmids!) 
-
-https://t.co/d6grJHEOr1 https://t.co/IuC7qxlOTL</title>
-      <link>https://twitter.com/Addgene/status/1654165331797999623</link>
-      <description>#May4thBeWithYou (and your plasmids!) 
-
-https://t.co/d6grJHEOr1 https://t.co/IuC7qxlOTL</description>
-      <content:encoded>#May4thBeWithYou (and your plasmids!) 
-
-https://t.co/d6grJHEOr1 https://t.co/IuC7qxlOTL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1654165331797999623"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654164460766887939/pu/img/u0a6IBEGxtKsUN03.jpg" length="576" type="photo"/>
-      <pubDate>Thu, 04 May 2023 16:45:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @c_f_baumgartner: We are delighted to announce the #MICCAI Learn2Learn challenge! 🎉 
-
-Download and explore our dataset of 28 unique task…</title>
-      <link>https://twitter.com/CellTypist/status/1654165711516729347</link>
-      <description>RT @c_f_baumgartner: We are delighted to announce the #MICCAI Learn2Learn challenge! 🎉 
-
-Download and explore our dataset of 28 unique task…</description>
-      <content:encoded>RT @c_f_baumgartner: We are delighted to announce the #MICCAI Learn2Learn challenge! 🎉 
-
-Download and explore our dataset of 28 unique task…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1654165711516729347"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 16:46:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Very excited about this - I think #CZCellxGene will be a great resource for people to train foundation models for cell biology https://t.co/wZAo3TFYrH
-
-cc @BoWang87 @anshulkundaje @jure https://t.co/budPh7YyO7</title>
-      <link>https://twitter.com/sofroniewn/status/1654167813592952832</link>
-      <description>Very excited about this - I think #CZCellxGene will be a great resource for people to train foundation models for cell biology https://t.co/wZAo3TFYrH
-
-cc @BoWang87 @anshulkundaje @jure https://t.co/budPh7YyO7</description>
-      <content:encoded>Very excited about this - I think #CZCellxGene will be a great resource for people to train foundation models for cell biology https://t.co/wZAo3TFYrH
-
-cc @BoWang87 @anshulkundaje @jure https://t.co/budPh7YyO7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1654167813592952832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 16:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>@AndrewHires @abhi_aggarwal1 @HHMIJanelia @AllenInstitute It's a tricky measurement to make. We haven't gone deep on it. Looking at amplitudes, some sites are very quantal, while others are not. There's been some nice work from @OertnerLab with older iGluSnFRs, would be exciting to see with iGluSnFR3.</title>
-      <link>https://twitter.com/PodgorskiLab/status/1654168537076727819</link>
-      <description>@AndrewHires @abhi_aggarwal1 @HHMIJanelia @AllenInstitute It's a tricky measurement to make. We haven't gone deep on it. Looking at amplitudes, some sites are very quantal, while others are not. There's been some nice work from @OertnerLab with older iGluSnFRs, would be exciting to see with iGluSnFR3.</description>
-      <content:encoded>@AndrewHires @abhi_aggarwal1 @HHMIJanelia @AllenInstitute It's a tricky measurement to make. We haven't gone deep on it. Looking at amplitudes, some sites are very quantal, while others are not. There's been some nice work from @OertnerLab with older iGluSnFRs, would be exciting to see with iGluSnFR3.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PodgorskiLab/status/1654168537076727819"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 04 May 2023 16:58:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 May 2023 11:13:53 +0000</lastBuildDate>
     <item>
       <title>🔬 Are you an imaging expert looking for your next challenge?
 
@@ -1945,6 +1872,59 @@ It gives an idea of how fast a wildfire can spread. By the time you see fire com
 https://t.co/guDDiw7BHM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654429307257626625"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1654347767836278785/img/D58Un03d9Lcu9WES.jpg" length="1200" type="photo"/>
       <pubDate>Fri, 05 May 2023 10:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thanks for nothing, ChatGPT! https://t.co/yRVhkKE3Ag</title>
+      <link>https://twitter.com/SimWieg/status/1654431329964945410</link>
+      <description>Thanks for nothing, ChatGPT! https://t.co/yRVhkKE3Ag</description>
+      <content:encoded>Thanks for nothing, ChatGPT! https://t.co/yRVhkKE3Ag&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SimWieg/status/1654431329964945410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvW4WmuXoAQSQfg.png" length="583" type="photo"/>
+      <pubDate>Fri, 05 May 2023 10:22:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senior meetings and fall prevention training are examples of proactive measures for healthy ageing, shows a thesis at Umeå University. For fall prevention training, a mobile application is recommended for seniors living at home with good digital skills. https://t.co/pAGgtlJkvR</title>
+      <link>https://twitter.com/umeauniversity/status/1654431498668310530</link>
+      <description>Senior meetings and fall prevention training are examples of proactive measures for healthy ageing, shows a thesis at Umeå University. For fall prevention training, a mobile application is recommended for seniors living at home with good digital skills. https://t.co/pAGgtlJkvR</description>
+      <content:encoded>Senior meetings and fall prevention training are examples of proactive measures for healthy ageing, shows a thesis at Umeå University. For fall prevention training, a mobile application is recommended for seniors living at home with good digital skills. https://t.co/pAGgtlJkvR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/umeauniversity/status/1654431498668310530"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 05 May 2023 10:23:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>@neuralengine I was just about to ask...</title>
+      <link>https://twitter.com/trose_neuro/status/1654432631914635264</link>
+      <description>@neuralengine I was just about to ask...</description>
+      <content:encoded>@neuralengine I was just about to ask...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trose_neuro/status/1654432631914635264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 05 May 2023 10:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newton's third law: for every action, there is an equal and opposite reaction 
+
+[📹joemyheck: https://t.co/Zd3hnkLxQw]
+https://t.co/VCJROeOWcT</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654435326083977218</link>
+      <description>Newton's third law: for every action, there is an equal and opposite reaction 
+
+[📹joemyheck: https://t.co/Zd3hnkLxQw]
+https://t.co/VCJROeOWcT</description>
+      <content:encoded>Newton's third law: for every action, there is an equal and opposite reaction 
+
+[📹joemyheck: https://t.co/Zd3hnkLxQw]
+https://t.co/VCJROeOWcT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654435326083977218"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1574700222302650368/pu/img/XIa4DcxT5U6Et3Uc.jpg" length="640" type="photo"/>
+      <pubDate>Fri, 05 May 2023 10:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>@andpru My days of not taking blue-checkmark-users seriously are definitely coming to a middle.</title>
+      <link>https://twitter.com/MattNeuro/status/1654443106643705859</link>
+      <description>@andpru My days of not taking blue-checkmark-users seriously are definitely coming to a middle.</description>
+      <content:encoded>@andpru My days of not taking blue-checkmark-users seriously are definitely coming to a middle.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1654443106643705859"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 05 May 2023 11:09:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BiophysicalSoc: May is Jewish American Heritage Month! Join BPS in celebrating the contributions of Jewish biophysicists! https://t.co/…</title>
+      <link>https://twitter.com/lesloew/status/1654443963213049856</link>
+      <description>RT @BiophysicalSoc: May is Jewish American Heritage Month! Join BPS in celebrating the contributions of Jewish biophysicists! https://t.co/…</description>
+      <content:encoded>RT @BiophysicalSoc: May is Jewish American Heritage Month! Join BPS in celebrating the contributions of Jewish biophysicists! https://t.co/…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/lesloew/status/1654443963213049856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 05 May 2023 11:12:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
