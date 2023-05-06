@@ -6,43 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 May 2023 10:16:16 +0000</lastBuildDate>
-    <item>
-      <title>This paper convinced me to switch to methodology-based language when describing tasks/stimuli. Examples may be most stark in attention (calling a stimulus "attended" when all we can really say is it is "task-relevant"), but it applies to other topics too https://t.co/vE2JirQZhi https://t.co/m6pzUioTbJ</title>
-      <link>https://twitter.com/neurograce/status/1654495822006951937</link>
-      <description>This paper convinced me to switch to methodology-based language when describing tasks/stimuli. Examples may be most stark in attention (calling a stimulus "attended" when all we can really say is it is "task-relevant"), but it applies to other topics too https://t.co/vE2JirQZhi https://t.co/m6pzUioTbJ</description>
-      <content:encoded>This paper convinced me to switch to methodology-based language when describing tasks/stimuli. Examples may be most stark in attention (calling a stimulus "attended" when all we can really say is it is "task-relevant"), but it applies to other topics too https://t.co/vE2JirQZhi https://t.co/m6pzUioTbJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1654495822006951937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvXzHT6XwAYkIVR.png" length="828" type="photo"/>
-      <pubDate>Fri, 05 May 2023 14:38:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Reduced C9orf72 expression exacerbates polyGR toxicity in patient iPSC-derived motor neurons and a Type I protein arginine methyltransferase inhibitor reduces that toxicity: Introduction
-
-Intronic repeat expansions in the… #neuroscience https://t.co/5VBFAbdIEi</title>
-      <link>https://twitter.com/FrontNeurosci/status/1654496059463290880</link>
-      <description>New Research: Reduced C9orf72 expression exacerbates polyGR toxicity in patient iPSC-derived motor neurons and a Type I protein arginine methyltransferase inhibitor reduces that toxicity: Introduction
-
-Intronic repeat expansions in the… #neuroscience https://t.co/5VBFAbdIEi</description>
-      <content:encoded>New Research: Reduced C9orf72 expression exacerbates polyGR toxicity in patient iPSC-derived motor neurons and a Type I protein arginine methyltransferase inhibitor reduces that toxicity: Introduction
-
-Intronic repeat expansions in the… #neuroscience https://t.co/5VBFAbdIEi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1654496059463290880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 14:39:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>When we think about gravity as a concept, we tend to go with our thoughts to Isaac Newton and his apple, but an idea of gravity as attractive force, was first suggested by Indian astronomer Brahmagupta in the year 628 CE. He called it "gurutvākarṣaṇ" https://t.co/V6NDbBt2xJ https://t.co/vI3CnSzKAF</title>
-      <link>https://twitter.com/Rainmaker1973/status/1654496169123258376</link>
-      <description>When we think about gravity as a concept, we tend to go with our thoughts to Isaac Newton and his apple, but an idea of gravity as attractive force, was first suggested by Indian astronomer Brahmagupta in the year 628 CE. He called it "gurutvākarṣaṇ" https://t.co/V6NDbBt2xJ https://t.co/vI3CnSzKAF</description>
-      <content:encoded>When we think about gravity as a concept, we tend to go with our thoughts to Isaac Newton and his apple, but an idea of gravity as attractive force, was first suggested by Indian astronomer Brahmagupta in the year 628 CE. He called it "gurutvākarṣaṇ" https://t.co/V6NDbBt2xJ https://t.co/vI3CnSzKAF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654496169123258376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvW9FYSXwAAJDYy.jpg" length="640" type="photo"/>
-      <pubDate>Fri, 05 May 2023 14:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calling stimuli "attended" across a wide range of studies that have very different task structures may have really delayed progress. I wonder how my own understanding would be different if all the papers I read emphasized task methodology more than assumed "attention"</title>
-      <link>https://twitter.com/neurograce/status/1654496340045430788</link>
-      <description>Calling stimuli "attended" across a wide range of studies that have very different task structures may have really delayed progress. I wonder how my own understanding would be different if all the papers I read emphasized task methodology more than assumed "attention"</description>
-      <content:encoded>Calling stimuli "attended" across a wide range of studies that have very different task structures may have really delayed progress. I wonder how my own understanding would be different if all the papers I read emphasized task methodology more than assumed "attention"&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1654496340045430788"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 14:40:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 May 2023 11:12:47 +0000</lastBuildDate>
     <item>
       <title>RT @NewsfromScience: The World Health Organization has declared an end to the emergency phase of the #COVID19 pandemic. https://t.co/QdDdZq…</title>
       <link>https://twitter.com/ScienceMagazine/status/1654498564087635968</link>
@@ -1981,6 +1945,69 @@ https://t.co/wBGXbuvB6F https://t.co/ilX0uPtaqg&lt;blockquote class="twitter-twe
       <description>Transfer of figure-ground segregation learning is facilitated by a cross-modal auditory feature-based attention cue.  https://t.co/ukpSaZLdOP #biorxiv_neursci</description>
       <content:encoded>Transfer of figure-ground segregation learning is facilitated by a cross-modal auditory feature-based attention cue.  https://t.co/ukpSaZLdOP #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654792138104684546"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 06 May 2023 10:16:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D concrete printing uses extremely large-scale 3D printers, often measuring 10 meters in height and length to extrude concrete from a nozzle and to build entire structures
+
+[read more: https://t.co/Kp4cSG0MkH]
+https://t.co/Owzn8g2Obi</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654792751341248513</link>
+      <description>3D concrete printing uses extremely large-scale 3D printers, often measuring 10 meters in height and length to extrude concrete from a nozzle and to build entire structures
+
+[read more: https://t.co/Kp4cSG0MkH]
+https://t.co/Owzn8g2Obi</description>
+      <content:encoded>3D concrete printing uses extremely large-scale 3D printers, often measuring 10 meters in height and length to extrude concrete from a nozzle and to build entire structures
+
+[read more: https://t.co/Kp4cSG0MkH]
+https://t.co/Owzn8g2Obi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654792751341248513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654145968797888515/pu/img/8kVdBHx1hg_yiXIk.jpg" length="608" type="photo"/>
+      <pubDate>Sat, 06 May 2023 10:18:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>This clip shows a 1940s experiment assessing the safety of a car hit by lightning, demonstrating how it’s a Faraday cage 
+
+[source: https://t.co/5oQMcceA4T] 
+[read more: https://t.co/qgKrSayvaV]
+https://t.co/XA762P3vXJ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654801977312780290</link>
+      <description>This clip shows a 1940s experiment assessing the safety of a car hit by lightning, demonstrating how it’s a Faraday cage 
+
+[source: https://t.co/5oQMcceA4T] 
+[read more: https://t.co/qgKrSayvaV]
+https://t.co/XA762P3vXJ</description>
+      <content:encoded>This clip shows a 1940s experiment assessing the safety of a car hit by lightning, demonstrating how it’s a Faraday cage 
+
+[source: https://t.co/5oQMcceA4T] 
+[read more: https://t.co/qgKrSayvaV]
+https://t.co/XA762P3vXJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654801977312780290"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654188458032738305/pu/img/Hlj5wzmkDdqqZDn2.jpg" length="590" type="photo"/>
+      <pubDate>Sat, 06 May 2023 10:55:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @soledad_gcogno: Our paper is now published in @NeuroCellPress ! 🎉
+
+Objects are encoded by the hippocampal neural population in a distri…</title>
+      <link>https://twitter.com/KISNeuro/status/1654803589808701442</link>
+      <description>RT @soledad_gcogno: Our paper is now published in @NeuroCellPress ! 🎉
+
+Objects are encoded by the hippocampal neural population in a distri…</description>
+      <content:encoded>RT @soledad_gcogno: Our paper is now published in @NeuroCellPress ! 🎉
+
+Objects are encoded by the hippocampal neural population in a distri…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1654803589808701442"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 11:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @EU_Brain: #Pledge4Science 
+
+🧠 In the EU, it is estimated that 179 million Europeans live with #brain conditions, #mental &amp;amp; #neurologica…</title>
+      <link>https://twitter.com/Pieters_Tweet/status/1654804164436979712</link>
+      <description>RT @EU_Brain: #Pledge4Science 
+
+🧠 In the EU, it is estimated that 179 million Europeans live with #brain conditions, #mental &amp;amp; #neurologica…</description>
+      <content:encoded>RT @EU_Brain: #Pledge4Science 
+
+🧠 In the EU, it is estimated that 179 million Europeans live with #brain conditions, #mental &amp;amp; #neurologica…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Pieters_Tweet/status/1654804164436979712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 11:03:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
