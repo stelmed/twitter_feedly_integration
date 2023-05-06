@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 May 2023 22:14:15 +0000</lastBuildDate>
-    <item>
-      <title>RT @MayBrittMoser: @KISNeuro @EdvardMoser @U24_gov_ua The children are the future - they are curious and have passion - committed and enthu…</title>
-      <link>https://twitter.com/KISNeuro/status/1654584416780296192</link>
-      <description>RT @MayBrittMoser: @KISNeuro @EdvardMoser @U24_gov_ua The children are the future - they are curious and have passion - committed and enthu…</description>
-      <content:encoded>RT @MayBrittMoser: @KISNeuro @EdvardMoser @U24_gov_ua The children are the future - they are curious and have passion - committed and enthu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1654584416780296192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 20:30:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HongkuiZeng: Truly overwhelmed by the pouring of love and well wishes over the past 2 days. Greatly appreciating all the congratulatory…</title>
-      <link>https://twitter.com/AllenInstitute/status/1654586765926072320</link>
-      <description>RT @HongkuiZeng: Truly overwhelmed by the pouring of love and well wishes over the past 2 days. Greatly appreciating all the congratulatory…</description>
-      <content:encoded>RT @HongkuiZeng: Truly overwhelmed by the pouring of love and well wishes over the past 2 days. Greatly appreciating all the congratulatory…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1654586765926072320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 20:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 May 2023 23:16:16 +0000</lastBuildDate>
     <item>
       <title>I wish I had spent more time thinking about the Heilmeier Catechism earlier in my life (although I think I always carried it in me). https://t.co/OPI1ETW9u0 I think keeping these points in mind can help all of us scientists think clearer.</title>
       <link>https://twitter.com/KordingLab/status/1654586804170035200</link>
@@ -2171,6 +2157,20 @@ https://t.co/yozk2uFkNN https://t.co/LxWv…</description>
       <content:encoded>RT @bsauerbrei1: Muller et al.: Retinal motion statistics during natural locomotion. Pretty cool!
 https://t.co/yozk2uFkNN https://t.co/LxWv…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sejdevries/status/1654964330771644420"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 06 May 2023 21:40:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Activation of cannabinoid type 1 receptor (CB1) modulates oligodendroglial process branching complexity in rat hippocampal cultures stimulated by olfactory ensheathing glia-conditioned medium: The endocannabinoid system (ECS)… #neuroscience https://t.co/CHYZJTheaX</title>
+      <link>https://twitter.com/FrontNeurosci/status/1654979747582210049</link>
+      <description>New Research: Activation of cannabinoid type 1 receptor (CB1) modulates oligodendroglial process branching complexity in rat hippocampal cultures stimulated by olfactory ensheathing glia-conditioned medium: The endocannabinoid system (ECS)… #neuroscience https://t.co/CHYZJTheaX</description>
+      <content:encoded>New Research: Activation of cannabinoid type 1 receptor (CB1) modulates oligodendroglial process branching complexity in rat hippocampal cultures stimulated by olfactory ensheathing glia-conditioned medium: The endocannabinoid system (ECS)… #neuroscience https://t.co/CHYZJTheaX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1654979747582210049"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 22:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>This week's dip into Nature's archive looks at aimless wandering in circles, and efforts to amend the goals of the American Physical Society https://t.co/dZbVgm4i77</title>
+      <link>https://twitter.com/NatureNV/status/1654984764191830017</link>
+      <description>This week's dip into Nature's archive looks at aimless wandering in circles, and efforts to amend the goals of the American Physical Society https://t.co/dZbVgm4i77</description>
+      <content:encoded>This week's dip into Nature's archive looks at aimless wandering in circles, and efforts to amend the goals of the American Physical Society https://t.co/dZbVgm4i77&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1654984764191830017"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 23:01:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
