@@ -6,143 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 May 2023 18:19:25 +0000</lastBuildDate>
-    <item>
-      <title>RT @cardiacpolymath: 1/ We’ve done a thing
-
-I think it's the most important paper I've contributed to date, or may ever do
-
-This🧵is a bit l…</title>
-      <link>https://twitter.com/AndrewHires/status/1654560923162640385</link>
-      <description>RT @cardiacpolymath: 1/ We’ve done a thing
-
-I think it's the most important paper I've contributed to date, or may ever do
-
-This🧵is a bit l…</description>
-      <content:encoded>RT @cardiacpolymath: 1/ We’ve done a thing
-
-I think it's the most important paper I've contributed to date, or may ever do
-
-This🧵is a bit l…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1654560923162640385"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 18:57:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>F50-12V is a mini electricity generator, built with an incroporated turbine and electric generator that converts kinetic energy into electricity. The generator output is rectified and regulated for a maximum of 12V
-
-[read more: https://t.co/MbIgk1yhea]
-https://t.co/fsYbCQw4Uh</title>
-      <link>https://twitter.com/Rainmaker1973/status/1654561794998824960</link>
-      <description>F50-12V is a mini electricity generator, built with an incroporated turbine and electric generator that converts kinetic energy into electricity. The generator output is rectified and regulated for a maximum of 12V
-
-[read more: https://t.co/MbIgk1yhea]
-https://t.co/fsYbCQw4Uh</description>
-      <content:encoded>F50-12V is a mini electricity generator, built with an incroporated turbine and electric generator that converts kinetic energy into electricity. The generator output is rectified and regulated for a maximum of 12V
-
-[read more: https://t.co/MbIgk1yhea]
-https://t.co/fsYbCQw4Uh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654561794998824960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1533484849134243842/pu/img/aXxa_R2PjhSaw25k.jpg" length="720" type="photo"/>
-      <pubDate>Fri, 05 May 2023 19:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: The regeneration-responsive element careg monitors activation of Müller glia after MNU-induced damage of photoreceptors in the zebrafish retina: In contrast to mammals, zebrafish can regenerate their damaged… #Molecular #Neuroscience https://t.co/oAJKYX60cM</title>
-      <link>https://twitter.com/FrontNeurosci/status/1654562760045510657</link>
-      <description>New Research: The regeneration-responsive element careg monitors activation of Müller glia after MNU-induced damage of photoreceptors in the zebrafish retina: In contrast to mammals, zebrafish can regenerate their damaged… #Molecular #Neuroscience https://t.co/oAJKYX60cM</description>
-      <content:encoded>New Research: The regeneration-responsive element careg monitors activation of Müller glia after MNU-induced damage of photoreceptors in the zebrafish retina: In contrast to mammals, zebrafish can regenerate their damaged… #Molecular #Neuroscience https://t.co/oAJKYX60cM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1654562760045510657"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 19:04:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jslbutler: @neuromatch @climatematch If you are curious about the lighter side of @neuromatch, I wrote a blog about my musical ode to N…</title>
-      <link>https://twitter.com/neuromatch/status/1654564028784492545</link>
-      <description>RT @jslbutler: @neuromatch @climatematch If you are curious about the lighter side of @neuromatch, I wrote a blog about my musical ode to N…</description>
-      <content:encoded>RT @jslbutler: @neuromatch @climatematch If you are curious about the lighter side of @neuromatch, I wrote a blog about my musical ode to N…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1654564028784492545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 19:09:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multisensory perceptual learning in virtual reality may facilitate transfer to untrained locations but is impacted by training ...  https://t.co/ietM6rbIC8 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1654565598993477636</link>
-      <description>Multisensory perceptual learning in virtual reality may facilitate transfer to untrained locations but is impacted by training ...  https://t.co/ietM6rbIC8 #biorxiv_neursci</description>
-      <content:encoded>Multisensory perceptual learning in virtual reality may facilitate transfer to untrained locations but is impacted by training ...  https://t.co/ietM6rbIC8 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654565598993477636"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 19:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural responses to reconstructed target pursuits  https://t.co/MvB1UW2vj1 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1654565857413013506</link>
-      <description>Neural responses to reconstructed target pursuits  https://t.co/MvB1UW2vj1 #biorxiv_neursci</description>
-      <content:encoded>Neural responses to reconstructed target pursuits  https://t.co/MvB1UW2vj1 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654565857413013506"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 19:16:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Method for cycle detection in sparse, irregularly sampled, long-term neuro-behavioral timeseries: Basis pursuit denoising with ...  https://t.co/GIQYrxq1AC #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1654565951168299011</link>
-      <description>Method for cycle detection in sparse, irregularly sampled, long-term neuro-behavioral timeseries: Basis pursuit denoising with ...  https://t.co/GIQYrxq1AC #biorxiv_neursci</description>
-      <content:encoded>Method for cycle detection in sparse, irregularly sampled, long-term neuro-behavioral timeseries: Basis pursuit denoising with ...  https://t.co/GIQYrxq1AC #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654565951168299011"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 19:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HongkuiZeng: Thanks so much, everyone, for your congrats and well wishes! It's such a tremendous honor to become a member of @theNAScie…</title>
-      <link>https://twitter.com/AllenInstitute/status/1654566633531162625</link>
-      <description>RT @HongkuiZeng: Thanks so much, everyone, for your congrats and well wishes! It's such a tremendous honor to become a member of @theNAScie…</description>
-      <content:encoded>RT @HongkuiZeng: Thanks so much, everyone, for your congrats and well wishes! It's such a tremendous honor to become a member of @theNAScie…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1654566633531162625"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 19:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nirbhay is a subsonic cruise missile with a range of 1000 km. This video shows an Indian Air Force Jaguar fighter jet chasing a Nirbhay missile during the cruise phase
-
-[source, full video: https://t.co/mVR0iCvKXC]
-https://t.co/e3Pohetrpg</title>
-      <link>https://twitter.com/Rainmaker1973/status/1654567197572751362</link>
-      <description>Nirbhay is a subsonic cruise missile with a range of 1000 km. This video shows an Indian Air Force Jaguar fighter jet chasing a Nirbhay missile during the cruise phase
-
-[source, full video: https://t.co/mVR0iCvKXC]
-https://t.co/e3Pohetrpg</description>
-      <content:encoded>Nirbhay is a subsonic cruise missile with a range of 1000 km. This video shows an Indian Air Force Jaguar fighter jet chasing a Nirbhay missile during the cruise phase
-
-[source, full video: https://t.co/mVR0iCvKXC]
-https://t.co/e3Pohetrpg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654567197572751362"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1116405563246747648/pu/img/pqFdE0eB1HvPA5Y3.jpg" length="640" type="photo"/>
-      <pubDate>Fri, 05 May 2023 19:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The importance of strong teacher-student relationships cannot be overstated when it comes to the growth + success of young people. Here’s why👇🏽 https://t.co/E1dALXmZjm</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1654568145485438981</link>
-      <description>The importance of strong teacher-student relationships cannot be overstated when it comes to the growth + success of young people. Here’s why👇🏽 https://t.co/E1dALXmZjm</description>
-      <content:encoded>The importance of strong teacher-student relationships cannot be overstated when it comes to the growth + success of young people. Here’s why👇🏽 https://t.co/E1dALXmZjm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1654568145485438981"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 19:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HarryStebbings: I literally have the best job in the world. 
-
-Develop a passion for a topic. 
-
-Speak to the worlds leading experts and…</title>
-      <link>https://twitter.com/ylecun/status/1654568657089884164</link>
-      <description>RT @HarryStebbings: I literally have the best job in the world. 
-
-Develop a passion for a topic. 
-
-Speak to the worlds leading experts and…</description>
-      <content:encoded>RT @HarryStebbings: I literally have the best job in the world. 
-
-Develop a passion for a topic. 
-
-Speak to the worlds leading experts and…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1654568657089884164"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 19:28:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new Science study provides evidence of enriched gas recycling during galaxy formation in the early Universe. https://t.co/IhFPpZnhje #NationalSpaceDay https://t.co/4Wu9mChthy</title>
-      <link>https://twitter.com/ScienceMagazine/status/1654569206866649089</link>
-      <description>A new Science study provides evidence of enriched gas recycling during galaxy formation in the early Universe. https://t.co/IhFPpZnhje #NationalSpaceDay https://t.co/4Wu9mChthy</description>
-      <content:encoded>A new Science study provides evidence of enriched gas recycling during galaxy formation in the early Universe. https://t.co/IhFPpZnhje #NationalSpaceDay https://t.co/4Wu9mChthy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1654569206866649089"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvY17FDWwAALl3V.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 05 May 2023 19:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kwan lab is Dinosaurs 🦖 by popular vote.. If it’s up to me, perhaps 🧗‍♂️ or ☕️, but dinosaur it is 😀 https://t.co/3H09nmAdZr</title>
-      <link>https://twitter.com/kwanalexc/status/1654570243266605057</link>
-      <description>Kwan lab is Dinosaurs 🦖 by popular vote.. If it’s up to me, perhaps 🧗‍♂️ or ☕️, but dinosaur it is 😀 https://t.co/3H09nmAdZr</description>
-      <content:encoded>Kwan lab is Dinosaurs 🦖 by popular vote.. If it’s up to me, perhaps 🧗‍♂️ or ☕️, but dinosaur it is 😀 https://t.co/3H09nmAdZr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kwanalexc/status/1654570243266605057"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 19:34:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 May 2023 19:12:06 +0000</lastBuildDate>
     <item>
       <title>5G has been put to the test of managing the control signals used in railway operations — a step towards 5G-run automation in the transport sector https://t.co/KB0bHuVYOe</title>
       <link>https://twitter.com/NatureNV/status/1654571872812408835</link>
@@ -2158,6 +2022,117 @@ https://t.co/cROGhfsCUT</description>
 https://t.co/cROGhfsCUT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654909117742428160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1653767736315576322/pu/img/bHtahl588ht_0CHL.jpg" length="675" type="photo"/>
       <pubDate>Sat, 06 May 2023 18:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>This kind of drivel is the best argument for a 🇨🇦 republic I have seen in a long time. https://t.co/P1KAN4ypls</title>
+      <link>https://twitter.com/andpru/status/1654915917099221002</link>
+      <description>This kind of drivel is the best argument for a 🇨🇦 republic I have seen in a long time. https://t.co/P1KAN4ypls</description>
+      <content:encoded>This kind of drivel is the best argument for a 🇨🇦 republic I have seen in a long time. https://t.co/P1KAN4ypls&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1654915917099221002"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 18:27:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @natrevbioeng discusses how advanced technological modules can be used to restore hand functions in people with paralysis. 🔒 https://t.co/kX59scw9VQ https://t.co/69DGYpeIck</title>
+      <link>https://twitter.com/NaturePortfolio/status/1654919227252387841</link>
+      <description>A Review in @natrevbioeng discusses how advanced technological modules can be used to restore hand functions in people with paralysis. 🔒 https://t.co/kX59scw9VQ https://t.co/69DGYpeIck</description>
+      <content:encoded>A Review in @natrevbioeng discusses how advanced technological modules can be used to restore hand functions in people with paralysis. 🔒 https://t.co/kX59scw9VQ https://t.co/69DGYpeIck&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1654919227252387841"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fvd0P_2XgAAO3Ii.jpg" length="1000" type="photo"/>
+      <pubDate>Sat, 06 May 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Every child is a scientist by nature. Children lose their inborn curiosity as they grow up. The important thing is to keep asking questions, keep learning - and doing - new things. 🧠</title>
+      <link>https://twitter.com/ProfFeynman/status/1654920965372137473</link>
+      <description>Every child is a scientist by nature. Children lose their inborn curiosity as they grow up. The important thing is to keep asking questions, keep learning - and doing - new things. 🧠</description>
+      <content:encoded>Every child is a scientist by nature. Children lose their inborn curiosity as they grow up. The important thing is to keep asking questions, keep learning - and doing - new things. 🧠&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1654920965372137473"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 18:47:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @GordFishell: Honestly very touched and surprised by the outpouring of support from my very wonderful lab members!  Can't thank them all…</title>
+      <link>https://twitter.com/ruimcosta/status/1654922509261889537</link>
+      <description>RT @GordFishell: Honestly very touched and surprised by the outpouring of support from my very wonderful lab members!  Can't thank them all…</description>
+      <content:encoded>RT @GordFishell: Honestly very touched and surprised by the outpouring of support from my very wonderful lab members!  Can't thank them all…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1654922509261889537"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 18:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @chethan: A wise mentor once helped me understand that this job “is all about the people.”
+
+I am so proud that these two amazing people…</title>
+      <link>https://twitter.com/ruimcosta/status/1654922550848401408</link>
+      <description>RT @chethan: A wise mentor once helped me understand that this job “is all about the people.”
+
+I am so proud that these two amazing people…</description>
+      <content:encoded>RT @chethan: A wise mentor once helped me understand that this job “is all about the people.”
+
+I am so proud that these two amazing people…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1654922550848401408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 18:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @wuzhengherbert: New to grant applications and wondering if it's typical to receive a note from the Senator for an NIH grant? I haven't…</title>
+      <link>https://twitter.com/ruimcosta/status/1654923015669563395</link>
+      <description>RT @wuzhengherbert: New to grant applications and wondering if it's typical to receive a note from the Senator for an NIH grant? I haven't…</description>
+      <content:encoded>RT @wuzhengherbert: New to grant applications and wondering if it's typical to receive a note from the Senator for an NIH grant? I haven't…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1654923015669563395"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 18:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>First batch of veggies/greens from the farm arrived. Made Italian nettle and ramps soup served with chickpeas, grated provolone and a drop of olive oil. You should try it too! https://t.co/FRyRtLOeoC</title>
+      <link>https://twitter.com/ewadorotaz/status/1654923288726888449</link>
+      <description>First batch of veggies/greens from the farm arrived. Made Italian nettle and ramps soup served with chickpeas, grated provolone and a drop of olive oil. You should try it too! https://t.co/FRyRtLOeoC</description>
+      <content:encoded>First batch of veggies/greens from the farm arrived. Made Italian nettle and ramps soup served with chickpeas, grated provolone and a drop of olive oil. You should try it too! https://t.co/FRyRtLOeoC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1654923288726888449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fvd39ZSWAAAOPbo.jpg" length="1139" type="photo"/>
+      <pubDate>Sat, 06 May 2023 18:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @U24_gov_ua: 5 new #UNITED24 ambassadors, all at once! We are pleased to welcome  economist and publicist Francis Fukuyama, Nobel laurea…</title>
+      <link>https://twitter.com/KISNeuro/status/1654923426153263105</link>
+      <description>RT @U24_gov_ua: 5 new #UNITED24 ambassadors, all at once! We are pleased to welcome  economist and publicist Francis Fukuyama, Nobel laurea…</description>
+      <content:encoded>RT @U24_gov_ua: 5 new #UNITED24 ambassadors, all at once! We are pleased to welcome  economist and publicist Francis Fukuyama, Nobel laurea…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1654923426153263105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 18:57:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hoping we can make a difference - @KISNeuro @MayBrittMoser https://t.co/aM82XIhglE</title>
+      <link>https://twitter.com/EdvardMoser/status/1654924723652902913</link>
+      <description>Hoping we can make a difference - @KISNeuro @MayBrittMoser https://t.co/aM82XIhglE</description>
+      <content:encoded>Hoping we can make a difference - @KISNeuro @MayBrittMoser https://t.co/aM82XIhglE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/EdvardMoser/status/1654924723652902913"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 19:02:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Visualizing the IKEA effect: experiential consumption assessed with fNIRS-based neuroimaging #neuroergonomics https://t.co/n58C57DDST</title>
+      <link>https://twitter.com/FrontNeurosci/status/1654925254853267457</link>
+      <description>New Research: Visualizing the IKEA effect: experiential consumption assessed with fNIRS-based neuroimaging #neuroergonomics https://t.co/n58C57DDST</description>
+      <content:encoded>New Research: Visualizing the IKEA effect: experiential consumption assessed with fNIRS-based neuroimaging #neuroergonomics https://t.co/n58C57DDST&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1654925254853267457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 19:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MillerLabMIT: Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving
+htt…</title>
+      <link>https://twitter.com/tyrell_turing/status/1654925517697560576</link>
+      <description>RT @MillerLabMIT: Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving
+htt…</description>
+      <content:encoded>RT @MillerLabMIT: Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving
+htt…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1654925517697560576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 19:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kohistan, Pakistan, July 27, 2022.
+
+A sudden flood moves impressive amount of huge rocks in a riverbed. A remarkable example of how the power of water can trigger granular flows even with massive boluders
+
+[source: https://t.co/AOdr4KYWzR]
+https://t.co/yOwcTzNWtg</title>
+      <link>https://twitter.com/Rainmaker1973/status/1654926864429772805</link>
+      <description>Kohistan, Pakistan, July 27, 2022.
+
+A sudden flood moves impressive amount of huge rocks in a riverbed. A remarkable example of how the power of water can trigger granular flows even with massive boluders
+
+[source: https://t.co/AOdr4KYWzR]
+https://t.co/yOwcTzNWtg</description>
+      <content:encoded>Kohistan, Pakistan, July 27, 2022.
+
+A sudden flood moves impressive amount of huge rocks in a riverbed. A remarkable example of how the power of water can trigger granular flows even with massive boluders
+
+[source: https://t.co/AOdr4KYWzR]
+https://t.co/yOwcTzNWtg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654926864429772805"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654737254135504896/pu/img/vftF_r6mXBFBEXlT.jpg" length="480" type="photo"/>
+      <pubDate>Sat, 06 May 2023 19:11:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
