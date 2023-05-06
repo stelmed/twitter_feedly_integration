@@ -6,33 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 May 2023 21:13:48 +0000</lastBuildDate>
-    <item>
-      <title>The fight for Ukraine is a fight for democracy, freedom and dignity, says #ThePowerOfUnity 🇺🇦 ambassadors 
-@MayBrittMoser and @EdvardMoser to @U24_gov_ua
-
-https://t.co/mCGH4Gde9i</title>
-      <link>https://twitter.com/KISNeuro/status/1654583271458590720</link>
-      <description>The fight for Ukraine is a fight for democracy, freedom and dignity, says #ThePowerOfUnity 🇺🇦 ambassadors 
-@MayBrittMoser and @EdvardMoser to @U24_gov_ua
-
-https://t.co/mCGH4Gde9i</description>
-      <content:encoded>The fight for Ukraine is a fight for democracy, freedom and dignity, says #ThePowerOfUnity 🇺🇦 ambassadors 
-@MayBrittMoser and @EdvardMoser to @U24_gov_ua
-
-https://t.co/mCGH4Gde9i&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1654583271458590720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 20:26:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rebuilding the future of post-war Ukraine begins now and investment in education and science has a key fundamental role in it. #ThePowerOfUnity
-@U24_gov_ua @MayBrittMoser @KISNeuro https://t.co/FjljDYur3L</title>
-      <link>https://twitter.com/EdvardMoser/status/1654583686149337088</link>
-      <description>Rebuilding the future of post-war Ukraine begins now and investment in education and science has a key fundamental role in it. #ThePowerOfUnity
-@U24_gov_ua @MayBrittMoser @KISNeuro https://t.co/FjljDYur3L</description>
-      <content:encoded>Rebuilding the future of post-war Ukraine begins now and investment in education and science has a key fundamental role in it. #ThePowerOfUnity
-@U24_gov_ua @MayBrittMoser @KISNeuro https://t.co/FjljDYur3L&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/EdvardMoser/status/1654583686149337088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 20:27:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 May 2023 22:14:15 +0000</lastBuildDate>
     <item>
       <title>RT @MayBrittMoser: @KISNeuro @EdvardMoser @U24_gov_ua The children are the future - they are curious and have passion - committed and enthu…</title>
       <link>https://twitter.com/KISNeuro/status/1654584416780296192</link>
@@ -2174,6 +2148,29 @@ https://t.co/ZjIRiqZQJE https://t.co/56vcqKh5J3</description>
 https://t.co/ZjIRiqZQJE https://t.co/56vcqKh5J3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1654951691077267459"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FveRxpaWwAAABOt.jpg" length="1200" type="photo"/>
       <pubDate>Sat, 06 May 2023 20:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>New @Nature_Neuro study co-authored by Next Generation Leader @alex_ander introduces a non-invasive way to understand the essence of what someone is hearing or seeing using functional magnetic resonance imaging (fMRI).
+
+@HuthLab @ut_neuroscience @UTCompSci https://t.co/OgxlAkBByK</title>
+      <link>https://twitter.com/AllenInstitute/status/1654964002508746753</link>
+      <description>New @Nature_Neuro study co-authored by Next Generation Leader @alex_ander introduces a non-invasive way to understand the essence of what someone is hearing or seeing using functional magnetic resonance imaging (fMRI).
+
+@HuthLab @ut_neuroscience @UTCompSci https://t.co/OgxlAkBByK</description>
+      <content:encoded>New @Nature_Neuro study co-authored by Next Generation Leader @alex_ander introduces a non-invasive way to understand the essence of what someone is hearing or seeing using functional magnetic resonance imaging (fMRI).
+
+@HuthLab @ut_neuroscience @UTCompSci https://t.co/OgxlAkBByK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1654964002508746753"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 21:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @bsauerbrei1: Muller et al.: Retinal motion statistics during natural locomotion. Pretty cool!
+https://t.co/yozk2uFkNN https://t.co/LxWv…</title>
+      <link>https://twitter.com/sejdevries/status/1654964330771644420</link>
+      <description>RT @bsauerbrei1: Muller et al.: Retinal motion statistics during natural locomotion. Pretty cool!
+https://t.co/yozk2uFkNN https://t.co/LxWv…</description>
+      <content:encoded>RT @bsauerbrei1: Muller et al.: Retinal motion statistics during natural locomotion. Pretty cool!
+https://t.co/yozk2uFkNN https://t.co/LxWv…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sejdevries/status/1654964330771644420"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 21:40:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
