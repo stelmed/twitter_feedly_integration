@@ -6,92 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 May 2023 23:17:21 +0000</lastBuildDate>
-    <item>
-      <title>RT @RGolestanian: On behalf of @mpids, I am delighted to announce that we installed 415 m^2 of solar panels on the roof of our experimental…</title>
-      <link>https://twitter.com/maxplanckpress/status/1654407080344797184</link>
-      <description>RT @RGolestanian: On behalf of @mpids, I am delighted to announce that we installed 415 m^2 of solar panels on the roof of our experimental…</description>
-      <content:encoded>RT @RGolestanian: On behalf of @mpids, I am delighted to announce that we installed 415 m^2 of solar panels on the roof of our experimental…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1654407080344797184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 08:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @eLife of 👉🏿 Reduction of layer 5 mediated long-range cortical communication by antipsychotic drugs  https://t.co/xgeOX65P3m #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1654408190874853376</link>
-      <description>#PeerReview from @eLife of 👉🏿 Reduction of layer 5 mediated long-range cortical communication by antipsychotic drugs  https://t.co/xgeOX65P3m #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @eLife of 👉🏿 Reduction of layer 5 mediated long-range cortical communication by antipsychotic drugs  https://t.co/xgeOX65P3m #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654408190874853376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 08:50:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>What in heck is that photo supposed to be saying…</title>
-      <link>https://twitter.com/neuralengine/status/1654409652107444224</link>
-      <description>What in heck is that photo supposed to be saying…</description>
-      <content:encoded>What in heck is that photo supposed to be saying…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1654409652107444224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 08:56:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is the level of detail you can get from a 365-Gigapixel picture 
-
-[source, read more: https://t.co/IDSqMKQWLv]
-https://t.co/UQuY1lX7KQ</title>
-      <link>https://twitter.com/Rainmaker1973/status/1654409901756563458</link>
-      <description>This is the level of detail you can get from a 365-Gigapixel picture 
-
-[source, read more: https://t.co/IDSqMKQWLv]
-https://t.co/UQuY1lX7KQ</description>
-      <content:encoded>This is the level of detail you can get from a 365-Gigapixel picture 
-
-[source, read more: https://t.co/IDSqMKQWLv]
-https://t.co/UQuY1lX7KQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654409901756563458"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1604515330746990601/pu/img/557MDw7BBR5F8nta.jpg" length="718" type="photo"/>
-      <pubDate>Fri, 05 May 2023 08:57:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new Science study shows that mammals had begun to change and diverge even before the Earth was hit by the asteroid that killed the dinosaurs, approximately 65 million years ago. https://t.co/4pSZdMY5R5 #Zoonomia https://t.co/aYKgSiHWvN</title>
-      <link>https://twitter.com/ScienceMagazine/status/1654410683553927169</link>
-      <description>A new Science study shows that mammals had begun to change and diverge even before the Earth was hit by the asteroid that killed the dinosaurs, approximately 65 million years ago. https://t.co/4pSZdMY5R5 #Zoonomia https://t.co/aYKgSiHWvN</description>
-      <content:encoded>A new Science study shows that mammals had begun to change and diverge even before the Earth was hit by the asteroid that killed the dinosaurs, approximately 65 million years ago. https://t.co/4pSZdMY5R5 #Zoonomia https://t.co/aYKgSiHWvN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1654410683553927169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvWlv2_WwAo0cxA.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 05 May 2023 09:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers from Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) found that fleeting short-term memories, rather than long-term ones, are responsible for rapid motor learning. https://t.co/Vlv1nfUSTE
-#neuroscience https://t.co/kQoVlimue5</title>
-      <link>https://twitter.com/Scientifica_Int/status/1654410781134409732</link>
-      <description>Researchers from Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) found that fleeting short-term memories, rather than long-term ones, are responsible for rapid motor learning. https://t.co/Vlv1nfUSTE
-#neuroscience https://t.co/kQoVlimue5</description>
-      <content:encoded>Researchers from Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) found that fleeting short-term memories, rather than long-term ones, are responsible for rapid motor learning. https://t.co/Vlv1nfUSTE
-#neuroscience https://t.co/kQoVlimue5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1654410781134409732"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvWl1mZXsAEXhTy.jpg" length="810" type="photo"/>
-      <pubDate>Fri, 05 May 2023 09:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @eLife of 👉🏿 Imaging Microglia Surveillance during Sleep-wake Cycles in Freely Behaving Mice  https://t.co/hzFRMQx1ji #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1654411918377988098</link>
-      <description>#PeerReview from @eLife of 👉🏿 Imaging Microglia Surveillance during Sleep-wake Cycles in Freely Behaving Mice  https://t.co/hzFRMQx1ji #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @eLife of 👉🏿 Imaging Microglia Surveillance during Sleep-wake Cycles in Freely Behaving Mice  https://t.co/hzFRMQx1ji #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654411918377988098"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 09:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @eLife of 👉🏿 Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control  https://t.co/QUeSYaElfL #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1654411921733349376</link>
-      <description>#PeerReview from @eLife of 👉🏿 Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control  https://t.co/QUeSYaElfL #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @eLife of 👉🏿 Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control  https://t.co/QUeSYaElfL #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654411921733349376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 09:05:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @eLife of 👉🏿 A genetic screen identifies dreammist as a regulator of sleep  https://t.co/crtKmj0emK #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1654411929258000384</link>
-      <description>#PeerReview from @eLife of 👉🏿 A genetic screen identifies dreammist as a regulator of sleep  https://t.co/crtKmj0emK #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @eLife of 👉🏿 A genetic screen identifies dreammist as a regulator of sleep  https://t.co/crtKmj0emK #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654411929258000384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 09:05:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>No no, thank YOU you hopeless cretins for suppressing your own vote 😂 https://t.co/5dRex9inaL</title>
-      <link>https://twitter.com/chrisdc77/status/1654414711188799488</link>
-      <description>No no, thank YOU you hopeless cretins for suppressing your own vote 😂 https://t.co/5dRex9inaL</description>
-      <content:encoded>No no, thank YOU you hopeless cretins for suppressing your own vote 😂 https://t.co/5dRex9inaL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1654414711188799488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 09:16:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 May 2023 01:16:17 +0000</lastBuildDate>
     <item>
       <title>RT @SaraRomanzi: Check out our latest work on #astrocytes! 
 You won't have to spend hours on the segmentation of our brain stars anymore :)…</title>
@@ -2123,6 +2038,90 @@ https://t.co/Wj4XEsHnpS https://t.co/foC8gvVs2r&lt;blockquote class="twitter-twe
       <description>RT @DermalCell: 💭 If you're curious about how the #BasalStemCells communicate with each other, this @JCellBiol study is one you don't want…</description>
       <content:encoded>RT @DermalCell: 💭 If you're curious about how the #BasalStemCells communicate with each other, this @JCellBiol study is one you don't want…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1654624942174945281"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 05 May 2023 23:11:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CranberryFez: "Always..." by Fez. Due to overwhelming public demand (i.e., one frivolous tweet from @MPCryptics), a Coronation Jumbo!…</title>
+      <link>https://twitter.com/sirdakka/status/1654627041298268161</link>
+      <description>RT @CranberryFez: "Always..." by Fez. Due to overwhelming public demand (i.e., one frivolous tweet from @MPCryptics), a Coronation Jumbo!…</description>
+      <content:encoded>RT @CranberryFez: "Always..." by Fez. Due to overwhelming public demand (i.e., one frivolous tweet from @MPCryptics), a Coronation Jumbo!…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sirdakka/status/1654627041298268161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 05 May 2023 23:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>What are Large Language Models?   
+
+Think of it as really sophisticated autocomplete.  
+
+Learn all about LLMs ➡️ https://t.co/4eOJNnsPmK https://t.co/4L8fEidVb3</title>
+      <link>https://twitter.com/TensorFlow/status/1654628331579383810</link>
+      <description>What are Large Language Models?   
+
+Think of it as really sophisticated autocomplete.  
+
+Learn all about LLMs ➡️ https://t.co/4eOJNnsPmK https://t.co/4L8fEidVb3</description>
+      <content:encoded>What are Large Language Models?   
+
+Think of it as really sophisticated autocomplete.  
+
+Learn all about LLMs ➡️ https://t.co/4eOJNnsPmK https://t.co/4L8fEidVb3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1654628331579383810"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FvZrfHFWAAAWVlW.jpg" length="694" type="photo"/>
+      <pubDate>Fri, 05 May 2023 23:25:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>My @scotiabank @VisaCA card has become a liability of late. Sporadic rejections of online purchases makes it unreliable. Meanwhile @scotiabank accepts no responsibility and just blames the vendors like this is a totally normal situation in the 2023 AD. https://t.co/cNuzizvUSA</title>
+      <link>https://twitter.com/andpru/status/1654628439469457408</link>
+      <description>My @scotiabank @VisaCA card has become a liability of late. Sporadic rejections of online purchases makes it unreliable. Meanwhile @scotiabank accepts no responsibility and just blames the vendors like this is a totally normal situation in the 2023 AD. https://t.co/cNuzizvUSA</description>
+      <content:encoded>My @scotiabank @VisaCA card has become a liability of late. Sporadic rejections of online purchases makes it unreliable. Meanwhile @scotiabank accepts no responsibility and just blames the vendors like this is a totally normal situation in the 2023 AD. https://t.co/cNuzizvUSA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1654628439469457408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FvZryx3XoAEq8Lj.jpg" length="480" type="photo"/>
+      <pubDate>Fri, 05 May 2023 23:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Whole-brain imaging of freely-moving zebrafish: One of the holy grails of neuroscience is to record the activity of every neuron in the brain while an animal moves freely and performs complex behavioral tasks. While important… #Neuroscience https://t.co/LgqknU3xcp</title>
+      <link>https://twitter.com/FrontNeurosci/status/1654637232307994625</link>
+      <description>New Research: Whole-brain imaging of freely-moving zebrafish: One of the holy grails of neuroscience is to record the activity of every neuron in the brain while an animal moves freely and performs complex behavioral tasks. While important… #Neuroscience https://t.co/LgqknU3xcp</description>
+      <content:encoded>New Research: Whole-brain imaging of freely-moving zebrafish: One of the holy grails of neuroscience is to record the activity of every neuron in the brain while an animal moves freely and performs complex behavioral tasks. While important… #Neuroscience https://t.co/LgqknU3xcp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1654637232307994625"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 00:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ineshipolito: @JRBneuropsiq @PessoaBrain @AnneliJefferson also together with: https://t.co/GtNAkRNjiH</title>
+      <link>https://twitter.com/PessoaBrain/status/1654646180003958785</link>
+      <description>RT @ineshipolito: @JRBneuropsiq @PessoaBrain @AnneliJefferson also together with: https://t.co/GtNAkRNjiH</description>
+      <content:encoded>RT @ineshipolito: @JRBneuropsiq @PessoaBrain @AnneliJefferson also together with: https://t.co/GtNAkRNjiH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1654646180003958785"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 00:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interview with Toni Noguera (in Catalan): La tarda de Catalunya Ràdio - La tecnologia podrà llegir-nos el pensament? I si s'aconsegueix, què canviarà? https://t.co/2u08yIHsUx</title>
+      <link>https://twitter.com/yusterafa/status/1654654936209055745</link>
+      <description>Interview with Toni Noguera (in Catalan): La tarda de Catalunya Ràdio - La tecnologia podrà llegir-nos el pensament? I si s'aconsegueix, què canviarà? https://t.co/2u08yIHsUx</description>
+      <content:encoded>Interview with Toni Noguera (in Catalan): La tarda de Catalunya Ràdio - La tecnologia podrà llegir-nos el pensament? I si s'aconsegueix, què canviarà? https://t.co/2u08yIHsUx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/yusterafa/status/1654654936209055745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 01:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Computational principles of adaptive multisensory combination in the Drosophila larva  https://t.co/85duMVtGfW #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1654656074585108480</link>
+      <description>Computational principles of adaptive multisensory combination in the Drosophila larva  https://t.co/85duMVtGfW #biorxiv_neursci</description>
+      <content:encoded>Computational principles of adaptive multisensory combination in the Drosophila larva  https://t.co/85duMVtGfW #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654656074585108480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 01:15:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Chronic consumption of a hypercaloric diet increases neuroinflammation and brain senescence, promoting cognitive decline in middle-aged female Wistar rats: Being overweight and obesity are world health problems, with a… #ageing #neuroscience https://t.co/GF9IF4gmgw</title>
+      <link>https://twitter.com/FrontNeurosci/status/1654656103857418246</link>
+      <description>New Research: Chronic consumption of a hypercaloric diet increases neuroinflammation and brain senescence, promoting cognitive decline in middle-aged female Wistar rats: Being overweight and obesity are world health problems, with a… #ageing #neuroscience https://t.co/GF9IF4gmgw</description>
+      <content:encoded>New Research: Chronic consumption of a hypercaloric diet increases neuroinflammation and brain senescence, promoting cognitive decline in middle-aged female Wistar rats: Being overweight and obesity are world health problems, with a… #ageing #neuroscience https://t.co/GF9IF4gmgw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1654656103857418246"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 01:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physiological acetic acid concentrations from ethanol metabolism stimulate accumbens shell neurons via NMDAR activation in a ...  https://t.co/bALQhsamkI #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1654656177282621440</link>
+      <description>Physiological acetic acid concentrations from ethanol metabolism stimulate accumbens shell neurons via NMDAR activation in a ...  https://t.co/bALQhsamkI #biorxiv_neursci</description>
+      <content:encoded>Physiological acetic acid concentrations from ethanol metabolism stimulate accumbens shell neurons via NMDAR activation in a ...  https://t.co/bALQhsamkI #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654656177282621440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 01:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chaotic neural dynamics facilitate probabilistic computations through sampling  https://t.co/jrOeg7RXXu #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1654656260300582914</link>
+      <description>Chaotic neural dynamics facilitate probabilistic computations through sampling  https://t.co/jrOeg7RXXu #biorxiv_neursci</description>
+      <content:encoded>Chaotic neural dynamics facilitate probabilistic computations through sampling  https://t.co/jrOeg7RXXu #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1654656260300582914"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 06 May 2023 01:16:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
