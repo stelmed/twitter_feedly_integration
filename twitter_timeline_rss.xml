@@ -6,125 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 May 2023 05:15:04 +0000</lastBuildDate>
-    <item>
-      <title>RT @simocristea: New preprint on scGPT: first foundation large language model for single cell biology, pretrained on 10 million cells.
-
-Jus…</title>
-      <link>https://twitter.com/sofroniewn/status/1654603286866186240</link>
-      <description>RT @simocristea: New preprint on scGPT: first foundation large language model for single cell biology, pretrained on 10 million cells.
-
-Jus…</description>
-      <content:encoded>RT @simocristea: New preprint on scGPT: first foundation large language model for single cell biology, pretrained on 10 million cells.
-
-Jus…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1654603286866186240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 21:45:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@Labrigger 's Cousa objective looking great on @INSS_UK  microscope https://t.co/sTbcz819yC</title>
-      <link>https://twitter.com/brunopichler/status/1654603435868659716</link>
-      <description>@Labrigger 's Cousa objective looking great on @INSS_UK  microscope https://t.co/sTbcz819yC</description>
-      <content:encoded>@Labrigger 's Cousa objective looking great on @INSS_UK  microscope https://t.co/sTbcz819yC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brunopichler/status/1654603435868659716"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvZTSwwWYAAHigZ.jpg" length="675" type="photo"/>
-      <pubDate>Fri, 05 May 2023 21:46:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>@brunopichler @INSS_UK That's a gorgeous system. I'm guessing they have a velvet rope and bouncer at the door to the room.</title>
-      <link>https://twitter.com/Labrigger/status/1654606218957299712</link>
-      <description>@brunopichler @INSS_UK That's a gorgeous system. I'm guessing they have a velvet rope and bouncer at the door to the room.</description>
-      <content:encoded>@brunopichler @INSS_UK That's a gorgeous system. I'm guessing they have a velvet rope and bouncer at the door to the room.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Labrigger/status/1654606218957299712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 21:57:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>What was the most important lesson you learned from reading Machine Learning Yearning? Share it in the comments!
-
-If you haven’t read it, now’s the time! It will help you build confidence at selecting and executing projects. Get your free copy: https://t.co/4ot87M3R2j https://t.co/jbGDtR9naS</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1654606896911769601</link>
-      <description>What was the most important lesson you learned from reading Machine Learning Yearning? Share it in the comments!
-
-If you haven’t read it, now’s the time! It will help you build confidence at selecting and executing projects. Get your free copy: https://t.co/4ot87M3R2j https://t.co/jbGDtR9naS</description>
-      <content:encoded>What was the most important lesson you learned from reading Machine Learning Yearning? Share it in the comments!
-
-If you haven’t read it, now’s the time! It will help you build confidence at selecting and executing projects. Get your free copy: https://t.co/4ot87M3R2j https://t.co/jbGDtR9naS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1654606896911769601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvZYNHEXsAUQgFF.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 05 May 2023 21:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Network analysis of the associations between personality traits, cognitive functioning, and inflammatory markers in elderly individuals without dementia: Introduction
-
-Lower cognitive functioning in old age has been… #ageing #neuroscience https://t.co/UwZZDBUBiL</title>
-      <link>https://twitter.com/FrontNeurosci/status/1654617487265374208</link>
-      <description>New Research: Network analysis of the associations between personality traits, cognitive functioning, and inflammatory markers in elderly individuals without dementia: Introduction
-
-Lower cognitive functioning in old age has been… #ageing #neuroscience https://t.co/UwZZDBUBiL</description>
-      <content:encoded>New Research: Network analysis of the associations between personality traits, cognitive functioning, and inflammatory markers in elderly individuals without dementia: Introduction
-
-Lower cognitive functioning in old age has been… #ageing #neuroscience https://t.co/UwZZDBUBiL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1654617487265374208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 22:42:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>New kit alert!  🎉🎉
-The Komagataeibacter Tool Kit (KTK) is a modular cloning system based on Golden Gate assembly that can be used to build complex multigene constructs from plasmids.
-https://t.co/Wj4XEsHnpS https://t.co/foC8gvVs2r</title>
-      <link>https://twitter.com/Addgene/status/1654622248848826371</link>
-      <description>New kit alert!  🎉🎉
-The Komagataeibacter Tool Kit (KTK) is a modular cloning system based on Golden Gate assembly that can be used to build complex multigene constructs from plasmids.
-https://t.co/Wj4XEsHnpS https://t.co/foC8gvVs2r</description>
-      <content:encoded>New kit alert!  🎉🎉
-The Komagataeibacter Tool Kit (KTK) is a modular cloning system based on Golden Gate assembly that can be used to build complex multigene constructs from plasmids.
-https://t.co/Wj4XEsHnpS https://t.co/foC8gvVs2r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1654622248848826371"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvZmKvVXgAADRRq.jpg" length="500" type="photo"/>
-      <pubDate>Fri, 05 May 2023 23:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DermalCell: 💭 If you're curious about how the #BasalStemCells communicate with each other, this @JCellBiol study is one you don't want…</title>
-      <link>https://twitter.com/ewadorotaz/status/1654624942174945281</link>
-      <description>RT @DermalCell: 💭 If you're curious about how the #BasalStemCells communicate with each other, this @JCellBiol study is one you don't want…</description>
-      <content:encoded>RT @DermalCell: 💭 If you're curious about how the #BasalStemCells communicate with each other, this @JCellBiol study is one you don't want…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1654624942174945281"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 23:11:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CranberryFez: "Always..." by Fez. Due to overwhelming public demand (i.e., one frivolous tweet from @MPCryptics), a Coronation Jumbo!…</title>
-      <link>https://twitter.com/sirdakka/status/1654627041298268161</link>
-      <description>RT @CranberryFez: "Always..." by Fez. Due to overwhelming public demand (i.e., one frivolous tweet from @MPCryptics), a Coronation Jumbo!…</description>
-      <content:encoded>RT @CranberryFez: "Always..." by Fez. Due to overwhelming public demand (i.e., one frivolous tweet from @MPCryptics), a Coronation Jumbo!…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sirdakka/status/1654627041298268161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 23:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>What are Large Language Models?   
-
-Think of it as really sophisticated autocomplete.  
-
-Learn all about LLMs ➡️ https://t.co/4eOJNnsPmK https://t.co/4L8fEidVb3</title>
-      <link>https://twitter.com/TensorFlow/status/1654628331579383810</link>
-      <description>What are Large Language Models?   
-
-Think of it as really sophisticated autocomplete.  
-
-Learn all about LLMs ➡️ https://t.co/4eOJNnsPmK https://t.co/4L8fEidVb3</description>
-      <content:encoded>What are Large Language Models?   
-
-Think of it as really sophisticated autocomplete.  
-
-Learn all about LLMs ➡️ https://t.co/4eOJNnsPmK https://t.co/4L8fEidVb3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1654628331579383810"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FvZrfHFWAAAWVlW.jpg" length="694" type="photo"/>
-      <pubDate>Fri, 05 May 2023 23:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>My @scotiabank @VisaCA card has become a liability of late. Sporadic rejections of online purchases makes it unreliable. Meanwhile @scotiabank accepts no responsibility and just blames the vendors like this is a totally normal situation in the 2023 AD. https://t.co/cNuzizvUSA</title>
-      <link>https://twitter.com/andpru/status/1654628439469457408</link>
-      <description>My @scotiabank @VisaCA card has become a liability of late. Sporadic rejections of online purchases makes it unreliable. Meanwhile @scotiabank accepts no responsibility and just blames the vendors like this is a totally normal situation in the 2023 AD. https://t.co/cNuzizvUSA</description>
-      <content:encoded>My @scotiabank @VisaCA card has become a liability of late. Sporadic rejections of online purchases makes it unreliable. Meanwhile @scotiabank accepts no responsibility and just blames the vendors like this is a totally normal situation in the 2023 AD. https://t.co/cNuzizvUSA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1654628439469457408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FvZryx3XoAEq8Lj.jpg" length="480" type="photo"/>
-      <pubDate>Fri, 05 May 2023 23:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Whole-brain imaging of freely-moving zebrafish: One of the holy grails of neuroscience is to record the activity of every neuron in the brain while an animal moves freely and performs complex behavioral tasks. While important… #Neuroscience https://t.co/LgqknU3xcp</title>
-      <link>https://twitter.com/FrontNeurosci/status/1654637232307994625</link>
-      <description>New Research: Whole-brain imaging of freely-moving zebrafish: One of the holy grails of neuroscience is to record the activity of every neuron in the brain while an animal moves freely and performs complex behavioral tasks. While important… #Neuroscience https://t.co/LgqknU3xcp</description>
-      <content:encoded>New Research: Whole-brain imaging of freely-moving zebrafish: One of the holy grails of neuroscience is to record the activity of every neuron in the brain while an animal moves freely and performs complex behavioral tasks. While important… #Neuroscience https://t.co/LgqknU3xcp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1654637232307994625"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 06 May 2023 00:00:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 May 2023 06:19:56 +0000</lastBuildDate>
     <item>
       <title>RT @ineshipolito: @JRBneuropsiq @PessoaBrain @AnneliJefferson also together with: https://t.co/GtNAkRNjiH</title>
       <link>https://twitter.com/PessoaBrain/status/1654646180003958785</link>
@@ -2151,6 +2033,131 @@ Brain-computer interfaces (BCIs) have the potential in providing neurofeedback f
       <description>RT @yavinshaham: Meeting of the summer: we extended early-bird registration (May 15) to the @EurBehavPharm (EBPS) meeting in Mannheim (Aug…</description>
       <content:encoded>RT @yavinshaham: Meeting of the summer: we extended early-bird registration (May 15) to the @EurBehavPharm (EBPS) meeting in Mannheim (Aug…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1655050121267097601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 07 May 2023 03:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Very good article by @tomhostler on the workload costs of #openresearch. Particularly chimes given that along with many of my colleagues, I'm currently losing 50% of my pay for participating in @ucu industrial action over several issues including  unsustainable workloads. https://t.co/VnBcpjTGIQ</title>
+      <link>https://twitter.com/chrisdc77/status/1655089484717862912</link>
+      <description>Very good article by @tomhostler on the workload costs of #openresearch. Particularly chimes given that along with many of my colleagues, I'm currently losing 50% of my pay for participating in @ucu industrial action over several issues including  unsustainable workloads. https://t.co/VnBcpjTGIQ</description>
+      <content:encoded>Very good article by @tomhostler on the workload costs of #openresearch. Particularly chimes given that along with many of my colleagues, I'm currently losing 50% of my pay for participating in @ucu industrial action over several issues including  unsustainable workloads. https://t.co/VnBcpjTGIQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1655089484717862912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 05:57:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tomhostler @ucu I think it's vital that #openresearch initiatives are built with workloads in mind &amp;amp; should ideally save academics time. A good rule of thumb is that for every minute of extra time your great idea costs, it should try &amp;amp; save 2 minutes.
+
+It's not always possible, but we must try.</title>
+      <link>https://twitter.com/chrisdc77/status/1655090233635946499</link>
+      <description>@tomhostler @ucu I think it's vital that #openresearch initiatives are built with workloads in mind &amp;amp; should ideally save academics time. A good rule of thumb is that for every minute of extra time your great idea costs, it should try &amp;amp; save 2 minutes.
+
+It's not always possible, but we must try.</description>
+      <content:encoded>@tomhostler @ucu I think it's vital that #openresearch initiatives are built with workloads in mind &amp;amp; should ideally save academics time. A good rule of thumb is that for every minute of extra time your great idea costs, it should try &amp;amp; save 2 minutes.
+
+It's not always possible, but we must try.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1655090233635946499"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 06:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>For example when we launched the TOP guidelines at Cortex back in 2018, we added a checklist to the submission process that takes about 15 min to complete if filled in correctly. 
+
+So we also cut at least an hour of bureaucracy  from the rest of the submission process.</title>
+      <link>https://twitter.com/chrisdc77/status/1655090723555876864</link>
+      <description>For example when we launched the TOP guidelines at Cortex back in 2018, we added a checklist to the submission process that takes about 15 min to complete if filled in correctly. 
+
+So we also cut at least an hour of bureaucracy  from the rest of the submission process.</description>
+      <content:encoded>For example when we launched the TOP guidelines at Cortex back in 2018, we added a checklist to the submission process that takes about 15 min to complete if filled in correctly. 
+
+So we also cut at least an hour of bureaucracy  from the rest of the submission process.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1655090723555876864"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 06:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recognising the workload costs associated with Stage 1 review time for Registered Reports, at @PCI_RegReports we introduced two hopefully time-saving features.</title>
+      <link>https://twitter.com/chrisdc77/status/1655091266814615555</link>
+      <description>Recognising the workload costs associated with Stage 1 review time for Registered Reports, at @PCI_RegReports we introduced two hopefully time-saving features.</description>
+      <content:encoded>Recognising the workload costs associated with Stage 1 review time for Registered Reports, at @PCI_RegReports we introduced two hopefully time-saving features.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1655091266814615555"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 06:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 1st is scheduled review where key parts of the reivew process are parallelised to plan review for the future. This aims to not only make review faster but also organise it more efficiently for authors and reviewers (keeping workloads in mind)
+
+https://t.co/DKLjZSgkP8 https://t.co/t0baijMJKg</title>
+      <link>https://twitter.com/chrisdc77/status/1655091841140760576</link>
+      <description>The 1st is scheduled review where key parts of the reivew process are parallelised to plan review for the future. This aims to not only make review faster but also organise it more efficiently for authors and reviewers (keeping workloads in mind)
+
+https://t.co/DKLjZSgkP8 https://t.co/t0baijMJKg</description>
+      <content:encoded>The 1st is scheduled review where key parts of the reivew process are parallelised to plan review for the future. This aims to not only make review faster but also organise it more efficiently for authors and reviewers (keeping workloads in mind)
+
+https://t.co/DKLjZSgkP8 https://t.co/t0baijMJKg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1655091841140760576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvgQ1adWwAYe3mF.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 07 May 2023 06:06:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2nd is the programmatic track in which one Stage 1 submission can include multiple studies &amp;amp; produce multiple Stage 2 published outputs. This avoids unnecessary duplication of pre-study evaluation and aims to reduce workloads for authors &amp;amp; reviewers.
+
+https://t.co/UcQO7X6qa2</title>
+      <link>https://twitter.com/chrisdc77/status/1655092416880189441</link>
+      <description>The 2nd is the programmatic track in which one Stage 1 submission can include multiple studies &amp;amp; produce multiple Stage 2 published outputs. This avoids unnecessary duplication of pre-study evaluation and aims to reduce workloads for authors &amp;amp; reviewers.
+
+https://t.co/UcQO7X6qa2</description>
+      <content:encoded>The 2nd is the programmatic track in which one Stage 1 submission can include multiple studies &amp;amp; produce multiple Stage 2 published outputs. This avoids unnecessary duplication of pre-study evaluation and aims to reduce workloads for authors &amp;amp; reviewers.
+
+https://t.co/UcQO7X6qa2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1655092416880189441"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 06:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combining scheduled review the programmatic track can be a real time (and workload) saver, particularly for PhD students and early career researchers. More on that in this thread 👇
+https://t.co/DvhtYfVOMj</title>
+      <link>https://twitter.com/chrisdc77/status/1655092920284860418</link>
+      <description>Combining scheduled review the programmatic track can be a real time (and workload) saver, particularly for PhD students and early career researchers. More on that in this thread 👇
+https://t.co/DvhtYfVOMj</description>
+      <content:encoded>Combining scheduled review the programmatic track can be a real time (and workload) saver, particularly for PhD students and early career researchers. More on that in this thread 👇
+https://t.co/DvhtYfVOMj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1655092920284860418"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 06:11:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>There is much more we can do &amp;amp; we need to collect evidence that such policies work as intended. 
+
+This is a crucial wing of metascience b/c academic science is LABOUR &amp;amp; issues of workload that feature  centrally in the current @ucu fight are inextricably linked to #openresearch</title>
+      <link>https://twitter.com/chrisdc77/status/1655093942159921155</link>
+      <description>There is much more we can do &amp;amp; we need to collect evidence that such policies work as intended. 
+
+This is a crucial wing of metascience b/c academic science is LABOUR &amp;amp; issues of workload that feature  centrally in the current @ucu fight are inextricably linked to #openresearch</description>
+      <content:encoded>There is much more we can do &amp;amp; we need to collect evidence that such policies work as intended. 
+
+This is a crucial wing of metascience b/c academic science is LABOUR &amp;amp; issues of workload that feature  centrally in the current @ucu fight are inextricably linked to #openresearch&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1655093942159921155"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 06:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is why I particularly appreciated @tomhostler's analysis of the problem. A highly recommended read https://t.co/Ws2CvQYcFV</title>
+      <link>https://twitter.com/chrisdc77/status/1655094340622991361</link>
+      <description>This is why I particularly appreciated @tomhostler's analysis of the problem. A highly recommended read https://t.co/Ws2CvQYcFV</description>
+      <content:encoded>This is why I particularly appreciated @tomhostler's analysis of the problem. A highly recommended read https://t.co/Ws2CvQYcFV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1655094340622991361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 06:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>56 years ago #Today, Lunar Orbiter 4 entered Moon's orbit and here's a Moon picture with Earthrise 
+
+[read more: https://t.co/AWiC7RTWd5] https://t.co/S1h7YI89uI</title>
+      <link>https://twitter.com/Rainmaker1973/status/1655094629241348096</link>
+      <description>56 years ago #Today, Lunar Orbiter 4 entered Moon's orbit and here's a Moon picture with Earthrise 
+
+[read more: https://t.co/AWiC7RTWd5] https://t.co/S1h7YI89uI</description>
+      <content:encoded>56 years ago #Today, Lunar Orbiter 4 entered Moon's orbit and here's a Moon picture with Earthrise 
+
+[read more: https://t.co/AWiC7RTWd5] https://t.co/S1h7YI89uI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655094629241348096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvgTxABWYAE6q4D.jpg" length="600" type="photo"/>
+      <pubDate>Sun, 07 May 2023 06:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>71 years ago #Today, the concept of the integrated circuit chip was first presented in a symposium in Washington DC 
+
+[rad more: https://t.co/gHi5uLLo2S] https://t.co/ZXO0C9mPKP</title>
+      <link>https://twitter.com/Rainmaker1973/status/1655094953104531456</link>
+      <description>71 years ago #Today, the concept of the integrated circuit chip was first presented in a symposium in Washington DC 
+
+[rad more: https://t.co/gHi5uLLo2S] https://t.co/ZXO0C9mPKP</description>
+      <content:encoded>71 years ago #Today, the concept of the integrated circuit chip was first presented in a symposium in Washington DC 
+
+[rad more: https://t.co/gHi5uLLo2S] https://t.co/ZXO0C9mPKP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655094953104531456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvgUEGZWYAAgHrq.jpg" length="660" type="photo"/>
+      <pubDate>Sun, 07 May 2023 06:19:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
