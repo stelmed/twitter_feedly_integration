@@ -6,84 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 May 2023 18:18:49 +0000</lastBuildDate>
-    <item>
-      <title>@patrickmineault Memory networks by Weston, Chopra, and Bordes (2014), which preceded neural Turing machines and uses the same kind of differentiable associative memory as  transformers.
-https://t.co/3CrhlDJbyO
-There was a series of follow-up papers: end-to-end mem nets, key-value mem nets, etc</title>
-      <link>https://twitter.com/ylecun/status/1654834335222996998</link>
-      <description>@patrickmineault Memory networks by Weston, Chopra, and Bordes (2014), which preceded neural Turing machines and uses the same kind of differentiable associative memory as  transformers.
-https://t.co/3CrhlDJbyO
-There was a series of follow-up papers: end-to-end mem nets, key-value mem nets, etc</description>
-      <content:encoded>@patrickmineault Memory networks by Weston, Chopra, and Bordes (2014), which preceded neural Turing machines and uses the same kind of differentiable associative memory as  transformers.
-https://t.co/3CrhlDJbyO
-There was a series of follow-up papers: end-to-end mem nets, key-value mem nets, etc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1654834335222996998"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 06 May 2023 13:03:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HongkuiZeng: This tremendous honor belongs to all my colleagues at the @AllenInstitute for Brain Science, who jointly pioneered the tea…</title>
-      <link>https://twitter.com/ruimcosta/status/1654835316224851971</link>
-      <description>RT @HongkuiZeng: This tremendous honor belongs to all my colleagues at the @AllenInstitute for Brain Science, who jointly pioneered the tea…</description>
-      <content:encoded>RT @HongkuiZeng: This tremendous honor belongs to all my colleagues at the @AllenInstitute for Brain Science, who jointly pioneered the tea…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1654835316224851971"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 06 May 2023 13:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@patrickmineault Mem nets were applied to NLP tasks from the start (the bAbI tasks).
-
-In parallel, the stack RNNwas developed by Joulin and Mikolov.
-This used a differentiable stack memory.
-https://t.co/U8PbEdJAmt</title>
-      <link>https://twitter.com/ylecun/status/1654835325456228352</link>
-      <description>@patrickmineault Mem nets were applied to NLP tasks from the start (the bAbI tasks).
-
-In parallel, the stack RNNwas developed by Joulin and Mikolov.
-This used a differentiable stack memory.
-https://t.co/U8PbEdJAmt</description>
-      <content:encoded>@patrickmineault Mem nets were applied to NLP tasks from the start (the bAbI tasks).
-
-In parallel, the stack RNNwas developed by Joulin and Mikolov.
-This used a differentiable stack memory.
-https://t.co/U8PbEdJAmt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1654835325456228352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 06 May 2023 13:07:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DavidCRowland: New paper from @TrackingActions! I liked this one because neuroscience has seen huge advances in recording technologies…</title>
-      <link>https://twitter.com/ruimcosta/status/1654835420914671616</link>
-      <description>RT @DavidCRowland: New paper from @TrackingActions! I liked this one because neuroscience has seen huge advances in recording technologies…</description>
-      <content:encoded>RT @DavidCRowland: New paper from @TrackingActions! I liked this one because neuroscience has seen huge advances in recording technologies…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1654835420914671616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 06 May 2023 13:08:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strong winds creating the reverse waterfall in Maharashtra, India  
-
-[📹 Yash Mayekar: https://t.co/Ts1b7S2Rm4]
-https://t.co/4PL22RP7EE</title>
-      <link>https://twitter.com/Rainmaker1973/status/1654836430005321728</link>
-      <description>Strong winds creating the reverse waterfall in Maharashtra, India  
-
-[📹 Yash Mayekar: https://t.co/Ts1b7S2Rm4]
-https://t.co/4PL22RP7EE</description>
-      <content:encoded>Strong winds creating the reverse waterfall in Maharashtra, India  
-
-[📹 Yash Mayekar: https://t.co/Ts1b7S2Rm4]
-https://t.co/4PL22RP7EE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654836430005321728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1597196275299938306/pu/img/s1Z7d7Uc1ugVHTyC.jpg" length="320" type="photo"/>
-      <pubDate>Sat, 06 May 2023 13:12:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>@tyrell_turing @patrickmineault Yea, and I think the connection between transformers and seq2seq attention is clear. I argue here (https://t.co/240M0KKDXq) that transformers are dif from bio mainly because they removed the recurrence that seq2seq had, but there are still similarities.</title>
-      <link>https://twitter.com/neurograce/status/1654836780418342926</link>
-      <description>@tyrell_turing @patrickmineault Yea, and I think the connection between transformers and seq2seq attention is clear. I argue here (https://t.co/240M0KKDXq) that transformers are dif from bio mainly because they removed the recurrence that seq2seq had, but there are still similarities.</description>
-      <content:encoded>@tyrell_turing @patrickmineault Yea, and I think the connection between transformers and seq2seq attention is clear. I argue here (https://t.co/240M0KKDXq) that transformers are dif from bio mainly because they removed the recurrence that seq2seq had, but there are still similarities.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1654836780418342926"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 06 May 2023 13:13:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @aberdeenuni: Could a technique for mapping planetary craters developed here be used in future space missions? Scientists have used the…</title>
-      <link>https://twitter.com/ylecun/status/1654836958256848899</link>
-      <description>RT @aberdeenuni: Could a technique for mapping planetary craters developed here be used in future space missions? Scientists have used the…</description>
-      <content:encoded>RT @aberdeenuni: Could a technique for mapping planetary craters developed here be used in future space missions? Scientists have used the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1654836958256848899"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 06 May 2023 13:14:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 May 2023 19:12:50 +0000</lastBuildDate>
     <item>
       <title>This is a class of firework called girandola: a wheel propelled by angled jets that give it a combination of rotation and vertical thrust. Generally built in South East Asian traditions
 
@@ -1477,6 +1400,14 @@ https://t.co/M2jB10DVW5 https://t.co/Dt0EnjcTTG&lt;blockquote class="twitter-twe
       <pubDate>Sun, 07 May 2023 10:36:56 +0000</pubDate>
     </item>
     <item>
+      <title>Yesterday in the pit https://t.co/NnAdSUxaBq</title>
+      <link>https://twitter.com/elonmusk/status/1655162743509467137</link>
+      <description>Yesterday in the pit https://t.co/NnAdSUxaBq</description>
+      <content:encoded>Yesterday in the pit https://t.co/NnAdSUxaBq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1655162743509467137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvhRveqWcAI9Hcg.jpg" length="934" type="photo"/>
+      <pubDate>Sun, 07 May 2023 10:48:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Birgus latro, also known as coconut crab, is the largest land-living arthropod in the world 
 
 [read more: https://t.co/rg0zZLrMEi] 
@@ -2298,6 +2229,74 @@ https://t.co/JsZAImARli</description>
 https://t.co/JsZAImARli&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655271922089828352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1245356496977788930/pu/img/9UCeSDOsnCbhex0D.jpg" length="960" type="photo"/>
       <pubDate>Sun, 07 May 2023 18:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>In this clip, you can notice the pollen baskets or corbiculae  which are part of the tibia on the hind legs of certain species of bees. You can also see two bee guards carefully inspecting
+
+[read more: https://t.co/NNti85iiUX] 
+[📹 https://t.co/HpKVGw5yDN]
+https://t.co/hYjTTCEImR</title>
+      <link>https://twitter.com/Rainmaker1973/status/1655279367654633477</link>
+      <description>In this clip, you can notice the pollen baskets or corbiculae  which are part of the tibia on the hind legs of certain species of bees. You can also see two bee guards carefully inspecting
+
+[read more: https://t.co/NNti85iiUX] 
+[📹 https://t.co/HpKVGw5yDN]
+https://t.co/hYjTTCEImR</description>
+      <content:encoded>In this clip, you can notice the pollen baskets or corbiculae  which are part of the tibia on the hind legs of certain species of bees. You can also see two bee guards carefully inspecting
+
+[read more: https://t.co/NNti85iiUX] 
+[📹 https://t.co/HpKVGw5yDN]
+https://t.co/hYjTTCEImR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655279367654633477"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1585912078912585728/pu/img/HNU0LdSaVnu2dbqZ.jpg" length="576" type="photo"/>
+      <pubDate>Sun, 07 May 2023 18:32:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>A @NatureMedicine feature article discusses how rare disease researchers are moving away from randomization and placebo groups in clinical trials in favor of biomarkers, real-world data from wearables, and multi-center and adaptive trials. https://t.co/HDlM8RWVqr</title>
+      <link>https://twitter.com/NaturePortfolio/status/1655281593827590145</link>
+      <description>A @NatureMedicine feature article discusses how rare disease researchers are moving away from randomization and placebo groups in clinical trials in favor of biomarkers, real-world data from wearables, and multi-center and adaptive trials. https://t.co/HDlM8RWVqr</description>
+      <content:encoded>A @NatureMedicine feature article discusses how rare disease researchers are moving away from randomization and placebo groups in clinical trials in favor of biomarkers, real-world data from wearables, and multi-center and adaptive trials. https://t.co/HDlM8RWVqr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1655281593827590145"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 18:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diese populistische Realitätsverweigerung prominenter CSU/CDU/FDP-Politiker:innen flankiert von der #SpringerPresse ist schwer auszuhalten! Handeln ist JETZT notwendig weil die letzten 14 Jahre kontraproduktiv waren. https://t.co/ZJ5zR0vyU0</title>
+      <link>https://twitter.com/CellTypist/status/1655286700266979330</link>
+      <description>Diese populistische Realitätsverweigerung prominenter CSU/CDU/FDP-Politiker:innen flankiert von der #SpringerPresse ist schwer auszuhalten! Handeln ist JETZT notwendig weil die letzten 14 Jahre kontraproduktiv waren. https://t.co/ZJ5zR0vyU0</description>
+      <content:encoded>Diese populistische Realitätsverweigerung prominenter CSU/CDU/FDP-Politiker:innen flankiert von der #SpringerPresse ist schwer auszuhalten! Handeln ist JETZT notwendig weil die letzten 14 Jahre kontraproduktiv waren. https://t.co/ZJ5zR0vyU0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1655286700266979330"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 19:01:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Brain iron content in cerebral amyloid angiopathy using quantitative susceptibility mapping: Introduction
+
+Cerebral amyloid angiopathy (CAA) is a small vessel disease that causes covert and symptomatic brain hemorrhaging. We… #Neuroscience https://t.co/jEmR6lm1dk</title>
+      <link>https://twitter.com/FrontNeurosci/status/1655287520853397504</link>
+      <description>New Research: Brain iron content in cerebral amyloid angiopathy using quantitative susceptibility mapping: Introduction
+
+Cerebral amyloid angiopathy (CAA) is a small vessel disease that causes covert and symptomatic brain hemorrhaging. We… #Neuroscience https://t.co/jEmR6lm1dk</description>
+      <content:encoded>New Research: Brain iron content in cerebral amyloid angiopathy using quantitative susceptibility mapping: Introduction
+
+Cerebral amyloid angiopathy (CAA) is a small vessel disease that causes covert and symptomatic brain hemorrhaging. We… #Neuroscience https://t.co/jEmR6lm1dk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1655287520853397504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 19:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>@neuro_data @ISDedal @OpenAI @miamingus So for openai you are irrelevant</title>
+      <link>https://twitter.com/KordingLab/status/1655287753695805441</link>
+      <description>@neuro_data @ISDedal @OpenAI @miamingus So for openai you are irrelevant</description>
+      <content:encoded>@neuro_data @ISDedal @OpenAI @miamingus So for openai you are irrelevant&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1655287753695805441"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 19:05:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>In non strictly mathematical terms you can counterfeit e using π's. And this is true within 0.000005% [https://t.co/y2mMpEr2j2]. 
+
+But this is just one of the many known mathematical coincidences [https://t.co/5UXynPhBA0] https://t.co/PqsBIN8UyZ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1655289425327276032</link>
+      <description>In non strictly mathematical terms you can counterfeit e using π's. And this is true within 0.000005% [https://t.co/y2mMpEr2j2]. 
+
+But this is just one of the many known mathematical coincidences [https://t.co/5UXynPhBA0] https://t.co/PqsBIN8UyZ</description>
+      <content:encoded>In non strictly mathematical terms you can counterfeit e using π's. And this is true within 0.000005% [https://t.co/y2mMpEr2j2]. 
+
+But this is just one of the many known mathematical coincidences [https://t.co/5UXynPhBA0] https://t.co/PqsBIN8UyZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655289425327276032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvjE4RBX0AEAthT.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 07 May 2023 19:12:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
