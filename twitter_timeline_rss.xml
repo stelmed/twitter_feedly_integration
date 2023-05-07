@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 May 2023 03:16:55 +0000</lastBuildDate>
-    <item>
-      <title>RT @SfNtweets: Honor a fellow neuroscientist whose work has influenced computational methods or theoretical models in #neuroscience with a…</title>
-      <link>https://twitter.com/neurograce/status/1654599606678835202</link>
-      <description>RT @SfNtweets: Honor a fellow neuroscientist whose work has influenced computational methods or theoretical models in #neuroscience with a…</description>
-      <content:encoded>RT @SfNtweets: Honor a fellow neuroscientist whose work has influenced computational methods or theoretical models in #neuroscience with a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1654599606678835202"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 05 May 2023 21:31:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 May 2023 04:19:10 +0000</lastBuildDate>
     <item>
       <title>RT @simocristea: New preprint on scGPT: first foundation large language model for single cell biology, pretrained on 10 million cells.
 
@@ -2151,6 +2144,13 @@ Brain-computer interfaces (BCIs) have the potential in providing neurofeedback f
       <description>@KordingLab @ISDedal @OpenAI OpenAI take responsibility for exploiting and traumatizing workers would be a necessary first step.  Without acknowledging and addressing harm, I have little hope of them being responsible.</description>
       <content:encoded>@KordingLab @ISDedal @OpenAI OpenAI take responsibility for exploiting and traumatizing workers would be a necessary first step.  Without acknowledging and addressing harm, I have little hope of them being responsible.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1655047882523721734"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 07 May 2023 03:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @yavinshaham: Meeting of the summer: we extended early-bird registration (May 15) to the @EurBehavPharm (EBPS) meeting in Mannheim (Aug…</title>
+      <link>https://twitter.com/OferYizhar/status/1655050121267097601</link>
+      <description>RT @yavinshaham: Meeting of the summer: we extended early-bird registration (May 15) to the @EurBehavPharm (EBPS) meeting in Mannheim (Aug…</description>
+      <content:encoded>RT @yavinshaham: Meeting of the summer: we extended early-bird registration (May 15) to the @EurBehavPharm (EBPS) meeting in Mannheim (Aug…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1655050121267097601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 07 May 2023 03:21:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
