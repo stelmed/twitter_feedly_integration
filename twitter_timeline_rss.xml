@@ -6,24 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 May 2023 02:34:03 +0000</lastBuildDate>
-    <item>
-      <title>New Research: Visualizing the IKEA effect: experiential consumption assessed with fNIRS-based neuroimaging #neuroergonomics https://t.co/n58C57DDST</title>
-      <link>https://twitter.com/FrontNeurosci/status/1654925254853267457</link>
-      <description>New Research: Visualizing the IKEA effect: experiential consumption assessed with fNIRS-based neuroimaging #neuroergonomics https://t.co/n58C57DDST</description>
-      <content:encoded>New Research: Visualizing the IKEA effect: experiential consumption assessed with fNIRS-based neuroimaging #neuroergonomics https://t.co/n58C57DDST&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1654925254853267457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 06 May 2023 19:05:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MillerLabMIT: Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving
-htt…</title>
-      <link>https://twitter.com/tyrell_turing/status/1654925517697560576</link>
-      <description>RT @MillerLabMIT: Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving
-htt…</description>
-      <content:encoded>RT @MillerLabMIT: Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving
-htt…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1654925517697560576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 06 May 2023 19:06:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 May 2023 03:17:20 +0000</lastBuildDate>
     <item>
       <title>Kohistan, Pakistan, July 27, 2022.
 
@@ -744,6 +727,14 @@ https://t.co/M2jB10DVW5 https://t.co/Dt0EnjcTTG&lt;blockquote class="twitter-twe
       <content:encoded>Hello 🇨🇭 https://t.co/yP19jDrig4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1655159775791906816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FvhPCTEXwAEh6Ft.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 07 May 2023 10:36:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yesterday in the pit https://t.co/NnAdSUxaBq</title>
+      <link>https://twitter.com/elonmusk/status/1655162743509467137</link>
+      <description>Yesterday in the pit https://t.co/NnAdSUxaBq</description>
+      <content:encoded>Yesterday in the pit https://t.co/NnAdSUxaBq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1655162743509467137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvhRveqWcAI9Hcg.jpg" length="934" type="photo"/>
+      <pubDate>Sun, 07 May 2023 10:48:44 +0000</pubDate>
     </item>
     <item>
       <title>Birgus latro, also known as coconut crab, is the largest land-living arthropod in the world 
@@ -2175,6 +2166,13 @@ Tic disorders (TD) are a kind of neuropsychiatric disease that frequently occur�
       <description>New Research: A review of cyber vigilance tasks for network defense #neuroergonomics https://t.co/IwBeHDGVFp</description>
       <content:encoded>New Research: A review of cyber vigilance tasks for network defense #neuroergonomics https://t.co/IwBeHDGVFp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1655393971399708672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 08 May 2023 02:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>You're under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.</title>
+      <link>https://twitter.com/ProfFeynman/status/1655404426734227456</link>
+      <description>You're under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.</description>
+      <content:encoded>You're under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1655404426734227456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 08 May 2023 02:49:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
