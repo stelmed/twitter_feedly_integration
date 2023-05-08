@@ -6,102 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 May 2023 17:14:20 +0000</lastBuildDate>
-    <item>
-      <title>FAIR has been open-sourcing high-impact AI-related stuff for almost 10 years now.
-That includes PyTorch &amp;amp; LLaMA.
-More to come.... https://t.co/HG2hitRBnk</title>
-      <link>https://twitter.com/ylecun/status/1655314732578996224</link>
-      <description>FAIR has been open-sourcing high-impact AI-related stuff for almost 10 years now.
-That includes PyTorch &amp;amp; LLaMA.
-More to come.... https://t.co/HG2hitRBnk</description>
-      <content:encoded>FAIR has been open-sourcing high-impact AI-related stuff for almost 10 years now.
-That includes PyTorch &amp;amp; LLaMA.
-More to come.... https://t.co/HG2hitRBnk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1655314732578996224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 07 May 2023 20:52:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Kaju_Nut: Kids these days don't fully appreciate the advantages they have over earlier generations. 
-
-If they were students of physics…</title>
-      <link>https://twitter.com/ylecun/status/1655315318074474500</link>
-      <description>RT @Kaju_Nut: Kids these days don't fully appreciate the advantages they have over earlier generations. 
-
-If they were students of physics…</description>
-      <content:encoded>RT @Kaju_Nut: Kids these days don't fully appreciate the advantages they have over earlier generations. 
-
-If they were students of physics…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1655315318074474500"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 07 May 2023 20:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @hakwanlau: i’ll be giving a talk this Friday on how to build sentient machines/agents. all are welcome
-
-https://t.co/UK0d5hmpIM</title>
-      <link>https://twitter.com/PessoaBrain/status/1655316154762555394</link>
-      <description>RT @hakwanlau: i’ll be giving a talk this Friday on how to build sentient machines/agents. all are welcome
-
-https://t.co/UK0d5hmpIM</description>
-      <content:encoded>RT @hakwanlau: i’ll be giving a talk this Friday on how to build sentient machines/agents. all are welcome
-
-https://t.co/UK0d5hmpIM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1655316154762555394"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 07 May 2023 20:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @benedictevans: Especially relevant now I keep seeing people claiming that LLMs will demolish employment</title>
-      <link>https://twitter.com/ylecun/status/1655316396358737920</link>
-      <description>RT @benedictevans: Especially relevant now I keep seeing people claiming that LLMs will demolish employment</description>
-      <content:encoded>RT @benedictevans: Especially relevant now I keep seeing people claiming that LLMs will demolish employment&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1655316396358737920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 07 May 2023 20:59:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Duh! https://t.co/cbAHc0oYtv</title>
-      <link>https://twitter.com/ylecun/status/1655317191267434497</link>
-      <description>Duh! https://t.co/cbAHc0oYtv</description>
-      <content:encoded>Duh! https://t.co/cbAHc0oYtv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1655317191267434497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 07 May 2023 21:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is not wrong.
-There is also AlphaGo, AlphaZero, Pluribus (poker), and Cicero (Diplomacy): massive reasoning *and* learning, but in narrow domains. https://t.co/gWAliFenPQ</title>
-      <link>https://twitter.com/ylecun/status/1655318212114882564</link>
-      <description>This is not wrong.
-There is also AlphaGo, AlphaZero, Pluribus (poker), and Cicero (Diplomacy): massive reasoning *and* learning, but in narrow domains. https://t.co/gWAliFenPQ</description>
-      <content:encoded>This is not wrong.
-There is also AlphaGo, AlphaZero, Pluribus (poker), and Cicero (Diplomacy): massive reasoning *and* learning, but in narrow domains. https://t.co/gWAliFenPQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1655318212114882564"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 07 May 2023 21:06:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab No.  But, define "understandable" in a way that is testable?</title>
-      <link>https://twitter.com/neuro_data/status/1655322217528414214</link>
-      <description>@KordingLab No.  But, define "understandable" in a way that is testable?</description>
-      <content:encoded>@KordingLab No.  But, define "understandable" in a way that is testable?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1655322217528414214"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 07 May 2023 21:22:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab @ISDedal @OpenAI @miamingus No.  They are highly relevant organization making amazing technology which also causes lots of harm, and not taking any steps to acknowledge or address it.</title>
-      <link>https://twitter.com/neuro_data/status/1655322599881146370</link>
-      <description>@KordingLab @ISDedal @OpenAI @miamingus No.  They are highly relevant organization making amazing technology which also causes lots of harm, and not taking any steps to acknowledge or address it.</description>
-      <content:encoded>@KordingLab @ISDedal @OpenAI @miamingus No.  They are highly relevant organization making amazing technology which also causes lots of harm, and not taking any steps to acknowledge or address it.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1655322599881146370"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 07 May 2023 21:23:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>I am starting to really scale up this literature mapping/review tool using ChatGPT API and I am increasingly convinced how we read the literature is not going to be the same in one year. Check this map out. https://t.co/87Zo0UPWCm</title>
-      <link>https://twitter.com/LecoqJerome/status/1655327221723328513</link>
-      <description>I am starting to really scale up this literature mapping/review tool using ChatGPT API and I am increasingly convinced how we read the literature is not going to be the same in one year. Check this map out. https://t.co/87Zo0UPWCm</description>
-      <content:encoded>I am starting to really scale up this literature mapping/review tool using ChatGPT API and I am increasingly convinced how we read the literature is not going to be the same in one year. Check this map out. https://t.co/87Zo0UPWCm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1655327221723328513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvjnPcEaMAEO35R.jpg" length="1200" type="photo"/>
-      <pubDate>Sun, 07 May 2023 21:42:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most of my code is still there: https://t.co/Qyt4nVo3es
-I need to push the plotting tools but I am now running a local database to store all of this data since it has grown quite a bit. The database is implemented in the code.</title>
-      <link>https://twitter.com/LecoqJerome/status/1655327724498718720</link>
-      <description>Most of my code is still there: https://t.co/Qyt4nVo3es
-I need to push the plotting tools but I am now running a local database to store all of this data since it has grown quite a bit. The database is implemented in the code.</description>
-      <content:encoded>Most of my code is still there: https://t.co/Qyt4nVo3es
-I need to push the plotting tools but I am now running a local database to store all of this data since it has grown quite a bit. The database is implemented in the code.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1655327724498718720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 07 May 2023 21:44:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 May 2023 18:19:08 +0000</lastBuildDate>
     <item>
       <title>Happy to have celebrated Cortex Club’s 14th birthday on 5th May. https://t.co/oKSmXzGgHE</title>
       <link>https://twitter.com/CortexClub/status/1655327847886598146</link>
@@ -2176,6 +2081,121 @@ Welcome to a growing community of over 1,300 underrepresented neuroscience resea
 
 #AllenImpact #neurotwitter https://t.co/CpnV2Yfh6R&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1655620328184508418"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 08 May 2023 17:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural representation strength of predicted category features biases decision behavior  https://t.co/Tl3D4YRsQG #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1655622473537454081</link>
+      <description>Neural representation strength of predicted category features biases decision behavior  https://t.co/Tl3D4YRsQG #biorxiv_neursci</description>
+      <content:encoded>Neural representation strength of predicted category features biases decision behavior  https://t.co/Tl3D4YRsQG #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1655622473537454081"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 08 May 2023 17:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The rock ptarmigan is seasonally camouflaged and emits a repertoire of guttural snores and rattles, most often directed to other males during breeding season  
+
+[read more: https://t.co/z6kYifhQ5R] 
+[📹 Tolkuton: https://t.co/ENQdWr4VVQ]
+https://t.co/hYOgw9smYR</title>
+      <link>https://twitter.com/Rainmaker1973/status/1655624423574056968</link>
+      <description>The rock ptarmigan is seasonally camouflaged and emits a repertoire of guttural snores and rattles, most often directed to other males during breeding season  
+
+[read more: https://t.co/z6kYifhQ5R] 
+[📹 Tolkuton: https://t.co/ENQdWr4VVQ]
+https://t.co/hYOgw9smYR</description>
+      <content:encoded>The rock ptarmigan is seasonally camouflaged and emits a repertoire of guttural snores and rattles, most often directed to other males during breeding season  
+
+[read more: https://t.co/z6kYifhQ5R] 
+[📹 Tolkuton: https://t.co/ENQdWr4VVQ]
+https://t.co/hYOgw9smYR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655624423574056968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1600527420871757826/pu/img/4TlovGJBkoWLgoqr.jpg" length="854" type="photo"/>
+      <pubDate>Mon, 08 May 2023 17:23:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>After proving we could automate essential parts of the @USGS critical mineral assessment workflow with #AI, we're partnering with @ARPAE to continue the momentum with our follow-on effort, Critical Mineral Assessments with AI Support (CriticalMAAS). More: https://t.co/xlyQ1LdVwZ https://t.co/YDWK6eChAO</title>
+      <link>https://twitter.com/DARPA/status/1655626412362018853</link>
+      <description>After proving we could automate essential parts of the @USGS critical mineral assessment workflow with #AI, we're partnering with @ARPAE to continue the momentum with our follow-on effort, Critical Mineral Assessments with AI Support (CriticalMAAS). More: https://t.co/xlyQ1LdVwZ https://t.co/YDWK6eChAO</description>
+      <content:encoded>After proving we could automate essential parts of the @USGS critical mineral assessment workflow with #AI, we're partnering with @ARPAE to continue the momentum with our follow-on effort, Critical Mineral Assessments with AI Support (CriticalMAAS). More: https://t.co/xlyQ1LdVwZ https://t.co/YDWK6eChAO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1655626412362018853"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fvn3criXsAYCAfi.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 08 May 2023 17:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>GISAID, the most popular repository for sharing SARS-CoV-2 genome sequence data, has come under increasing scrutiny. @Nature spoke with scientists in eight countries about what they see as the future of pathogen-genome sharing and of GISAID. https://t.co/y9txBXgY3A</title>
+      <link>https://twitter.com/NaturePortfolio/status/1655627875557552145</link>
+      <description>GISAID, the most popular repository for sharing SARS-CoV-2 genome sequence data, has come under increasing scrutiny. @Nature spoke with scientists in eight countries about what they see as the future of pathogen-genome sharing and of GISAID. https://t.co/y9txBXgY3A</description>
+      <content:encoded>GISAID, the most popular repository for sharing SARS-CoV-2 genome sequence data, has come under increasing scrutiny. @Nature spoke with scientists in eight countries about what they see as the future of pathogen-genome sharing and of GISAID. https://t.co/y9txBXgY3A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1655627875557552145"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 08 May 2023 17:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cool idea from @LukasShuber : comparing the robustness of children vs adults vs DNNs to out-of-distribution image manipulations. Children are still better than many large scale neural nets, with 1-2 orders of magnitude less exposure. https://t.co/mkPMmBuagJ https://t.co/xY74GYI2A8 https://t.co/FiSnAG2GEr</title>
+      <link>https://twitter.com/patrickmineault/status/1655630147595165698</link>
+      <description>Cool idea from @LukasShuber : comparing the robustness of children vs adults vs DNNs to out-of-distribution image manipulations. Children are still better than many large scale neural nets, with 1-2 orders of magnitude less exposure. https://t.co/mkPMmBuagJ https://t.co/xY74GYI2A8 https://t.co/FiSnAG2GEr</description>
+      <content:encoded>Cool idea from @LukasShuber : comparing the robustness of children vs adults vs DNNs to out-of-distribution image manipulations. Children are still better than many large scale neural nets, with 1-2 orders of magnitude less exposure. https://t.co/mkPMmBuagJ https://t.co/xY74GYI2A8 https://t.co/FiSnAG2GEr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1655630147595165698"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fvn6xCiWAAA933E.jpg" length="1199" type="photo"/>
+      <pubDate>Mon, 08 May 2023 17:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Super 8 on an FPV drone
+
+A somewhat anachronistic feeling
+
+[full video, JaseFilm: https://t.co/UdBJgB9NSd]
+https://t.co/TZrkOPYcHC</title>
+      <link>https://twitter.com/Rainmaker1973/status/1655633074732818442</link>
+      <description>A Super 8 on an FPV drone
+
+A somewhat anachronistic feeling
+
+[full video, JaseFilm: https://t.co/UdBJgB9NSd]
+https://t.co/TZrkOPYcHC</description>
+      <content:encoded>A Super 8 on an FPV drone
+
+A somewhat anachronistic feeling
+
+[full video, JaseFilm: https://t.co/UdBJgB9NSd]
+https://t.co/TZrkOPYcHC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655633074732818442"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1655631030085201923/img/9A0ZL1AsCNlQmb82.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 08 May 2023 17:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>A pair of papers in @SciSignal reveals how #SARSCoV2 and other #coronaviruses suppress innate immune responses in infected cells–and suggest that targeting this pathway can slow viral replication in culture. #InnateImmunity 
+
+https://t.co/HW2wfX2I9j
+https://t.co/3kPGaFlY36 https://t.co/Yq90LdN4nE</title>
+      <link>https://twitter.com/ScienceMagazine/status/1655633767896080396</link>
+      <description>A pair of papers in @SciSignal reveals how #SARSCoV2 and other #coronaviruses suppress innate immune responses in infected cells–and suggest that targeting this pathway can slow viral replication in culture. #InnateImmunity 
+
+https://t.co/HW2wfX2I9j
+https://t.co/3kPGaFlY36 https://t.co/Yq90LdN4nE</description>
+      <content:encoded>A pair of papers in @SciSignal reveals how #SARSCoV2 and other #coronaviruses suppress innate immune responses in infected cells–and suggest that targeting this pathway can slow viral replication in culture. #InnateImmunity 
+
+https://t.co/HW2wfX2I9j
+https://t.co/3kPGaFlY36 https://t.co/Yq90LdN4nE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1655633767896080396"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fvn-I2YXsAIKHFx.jpg" length="1028" type="photo"/>
+      <pubDate>Mon, 08 May 2023 18:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ben Koracevic is a string artist who uses common nails and strings - plus a great shot of creativity and intelligence - to produce amazing artworks
+
+[site: https://t.co/kq9O0TLWn9]
+https://t.co/vnRCcNmeE4</title>
+      <link>https://twitter.com/Rainmaker1973/status/1655634465039736846</link>
+      <description>Ben Koracevic is a string artist who uses common nails and strings - plus a great shot of creativity and intelligence - to produce amazing artworks
+
+[site: https://t.co/kq9O0TLWn9]
+https://t.co/vnRCcNmeE4</description>
+      <content:encoded>Ben Koracevic is a string artist who uses common nails and strings - plus a great shot of creativity and intelligence - to produce amazing artworks
+
+[site: https://t.co/kq9O0TLWn9]
+https://t.co/vnRCcNmeE4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655634465039736846"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1655625032842850315/img/gFkaIba1c5gcEUlY.jpg" length="406" type="photo"/>
+      <pubDate>Mon, 08 May 2023 18:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Out today! EmbryoNet is an automated approach for phenotyping developing embryos that surpasses experts in speed, accuracy and sensitivity. A large annotated image dataset of zebrafish, medaka and stickleback development rounds out this Resource. https://t.co/k7eEYRPZN7 https://t.co/DCFG8x02uW</title>
+      <link>https://twitter.com/naturemethods/status/1655637012148281350</link>
+      <description>Out today! EmbryoNet is an automated approach for phenotyping developing embryos that surpasses experts in speed, accuracy and sensitivity. A large annotated image dataset of zebrafish, medaka and stickleback development rounds out this Resource. https://t.co/k7eEYRPZN7 https://t.co/DCFG8x02uW</description>
+      <content:encoded>Out today! EmbryoNet is an automated approach for phenotyping developing embryos that surpasses experts in speed, accuracy and sensitivity. A large annotated image dataset of zebrafish, medaka and stickleback development rounds out this Resource. https://t.co/k7eEYRPZN7 https://t.co/DCFG8x02uW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1655637012148281350"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvoBCSMWwAcTnRi.jpg" length="955" type="photo"/>
+      <pubDate>Mon, 08 May 2023 18:13:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
