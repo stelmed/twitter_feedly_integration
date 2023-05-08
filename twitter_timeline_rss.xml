@@ -6,30 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 May 2023 03:17:20 +0000</lastBuildDate>
-    <item>
-      <title>Kohistan, Pakistan, July 27, 2022.
-
-A sudden flood moves impressive amount of huge rocks in a riverbed. A remarkable example of how the power of water can trigger granular flows even with massive boulders
-
-[source: https://t.co/AOdr4KYWzR]
-https://t.co/yOwcTzNWtg https://t.co/vmgMC1hOXQ</title>
-      <link>https://twitter.com/Rainmaker1973/status/1654929119065325580</link>
-      <description>Kohistan, Pakistan, July 27, 2022.
-
-A sudden flood moves impressive amount of huge rocks in a riverbed. A remarkable example of how the power of water can trigger granular flows even with massive boulders
-
-[source: https://t.co/AOdr4KYWzR]
-https://t.co/yOwcTzNWtg https://t.co/vmgMC1hOXQ</description>
-      <content:encoded>Kohistan, Pakistan, July 27, 2022.
-
-A sudden flood moves impressive amount of huge rocks in a riverbed. A remarkable example of how the power of water can trigger granular flows even with massive boulders
-
-[source: https://t.co/AOdr4KYWzR]
-https://t.co/yOwcTzNWtg https://t.co/vmgMC1hOXQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1654929119065325580"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654737254135504896/pu/img/vftF_r6mXBFBEXlT.jpg" length="480" type="photo"/>
-      <pubDate>Sat, 06 May 2023 19:20:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 May 2023 04:19:47 +0000</lastBuildDate>
     <item>
       <title>AI hype is ridiculous in all directions.
 As in:
@@ -2173,6 +2150,21 @@ Tic disorders (TD) are a kind of neuropsychiatric disease that frequently occurâ
       <description>You're under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.</description>
       <content:encoded>You're under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1655404426734227456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 08 May 2023 02:49:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ride or die https://t.co/LXo0T0KhTC</title>
+      <link>https://twitter.com/AndrewHires/status/1655413181735632897</link>
+      <description>Ride or die https://t.co/LXo0T0KhTC</description>
+      <content:encoded>Ride or die https://t.co/LXo0T0KhTC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1655413181735632897"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fvk1f60acAUHXGa.jpg" length="900" type="photo"/>
+      <pubDate>Mon, 08 May 2023 03:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's grim watching people you thought were sensible Brits coming out and saying how excellent they think the monarchy is.</title>
+      <link>https://twitter.com/NeuroBill/status/1655413870826246145</link>
+      <description>It's grim watching people you thought were sensible Brits coming out and saying how excellent they think the monarchy is.</description>
+      <content:encoded>It's grim watching people you thought were sensible Brits coming out and saying how excellent they think the monarchy is.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1655413870826246145"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 08 May 2023 03:26:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
