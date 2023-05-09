@@ -6,15 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 May 2023 04:19:10 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk Scotty invented it 😉 https://t.co/CRUyTfle1P</title>
-      <link>https://twitter.com/Rainmaker1973/status/1655549399450124290</link>
-      <description>@elonmusk Scotty invented it 😉 https://t.co/CRUyTfle1P</description>
-      <content:encoded>@elonmusk Scotty invented it 😉 https://t.co/CRUyTfle1P&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655549399450124290"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FvmxZj7WcAAdsCJ.jpg" length="498" type="photo"/>
-      <pubDate>Mon, 08 May 2023 12:25:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 May 2023 05:15:07 +0000</lastBuildDate>
     <item>
       <title>Don't miss the opportunity to contribute to development of the Digital Twin of our planet  🌍🌐
 The procurement of the first set of use cases for the #DestinE Core Service Platform is open!
@@ -2022,6 +2014,20 @@ Learn more: https://t.co/9wS4W2I6Ki https://t.co/tcWWnW1ZV5&lt;blockquote class=
       <content:encoded>Pager celebrates his 12th birthday foraging for treats. Happy birthday, friend! https://t.co/XdDe4YpsaE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralink/status/1655775566984019968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1655773952353107970/pu/img/z70o2QVthM0tcWp1.jpg" length="1200" type="photo"/>
       <pubDate>Tue, 09 May 2023 03:23:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding how California blackworms form a topologically complex tangle may guide the development of tangling and untangling strategies for filaments.
+
+Learn more in a new #SciencePerspective: https://t.co/4Tp2RKrOJm https://t.co/cfahxTuf3Y</title>
+      <link>https://twitter.com/ScienceMagazine/status/1655792326642397184</link>
+      <description>Understanding how California blackworms form a topologically complex tangle may guide the development of tangling and untangling strategies for filaments.
+
+Learn more in a new #SciencePerspective: https://t.co/4Tp2RKrOJm https://t.co/cfahxTuf3Y</description>
+      <content:encoded>Understanding how California blackworms form a topologically complex tangle may guide the development of tangling and untangling strategies for filaments.
+
+Learn more in a new #SciencePerspective: https://t.co/4Tp2RKrOJm https://t.co/cfahxTuf3Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1655792326642397184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1655792251463778306/pu/img/NyL1rK_XDS7wgD9D.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 09 May 2023 04:30:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
