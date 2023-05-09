@@ -6,7 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 May 2023 03:17:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2023 04:19:10 +0000</lastBuildDate>
     <item>
       <title>@elonmusk Scotty invented it 😉 https://t.co/CRUyTfle1P</title>
       <link>https://twitter.com/Rainmaker1973/status/1655549399450124290</link>
@@ -2014,6 +2014,14 @@ Learn more: https://t.co/9wS4W2I6Ki https://t.co/tcWWnW1ZV5</description>
 Learn more: https://t.co/9wS4W2I6Ki https://t.co/tcWWnW1ZV5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1655769594492080129"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fvp5q8eXsAEmfeA.jpg" length="910" type="photo"/>
       <pubDate>Tue, 09 May 2023 03:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pager celebrates his 12th birthday foraging for treats. Happy birthday, friend! https://t.co/XdDe4YpsaE</title>
+      <link>https://twitter.com/neuralink/status/1655775566984019968</link>
+      <description>Pager celebrates his 12th birthday foraging for treats. Happy birthday, friend! https://t.co/XdDe4YpsaE</description>
+      <content:encoded>Pager celebrates his 12th birthday foraging for treats. Happy birthday, friend! https://t.co/XdDe4YpsaE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralink/status/1655775566984019968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1655773952353107970/pu/img/z70o2QVthM0tcWp1.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 09 May 2023 03:23:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
