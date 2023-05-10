@@ -6,154 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 May 2023 05:14:52 +0000</lastBuildDate>
-    <item>
-      <title>RT @UWiscResearch: Congratulations to UW biochemistry professor Judith Simcox — named to the first cohort  of the Howard Hughes Medical Ins…</title>
-      <link>https://twitter.com/HHMINEWS/status/1655953603129999361</link>
-      <description>RT @UWiscResearch: Congratulations to UW biochemistry professor Judith Simcox — named to the first cohort  of the Howard Hughes Medical Ins…</description>
-      <content:encoded>RT @UWiscResearch: Congratulations to UW biochemistry professor Judith Simcox — named to the first cohort  of the Howard Hughes Medical Ins…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1655953603129999361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:11:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grid Cells, Border Cells and Discrete Complex Analysis https://t.co/d3DgvhJ3hx</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955285733965825</link>
-      <description>Grid Cells, Border Cells and Discrete Complex Analysis https://t.co/d3DgvhJ3hx</description>
-      <content:encoded>Grid Cells, Border Cells and Discrete Complex Analysis https://t.co/d3DgvhJ3hx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955285733965825"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploration biases how forelimb reaches to a spatial target are learned https://t.co/3YSpLHvmel</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955291622752265</link>
-      <description>Exploration biases how forelimb reaches to a spatial target are learned https://t.co/3YSpLHvmel</description>
-      <content:encoded>Exploration biases how forelimb reaches to a spatial target are learned https://t.co/3YSpLHvmel&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955291622752265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asymmetric control of food intake by left and right vagal sensory neurons https://t.co/ej7LNK3QbL</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955297230553088</link>
-      <description>Asymmetric control of food intake by left and right vagal sensory neurons https://t.co/ej7LNK3QbL</description>
-      <content:encoded>Asymmetric control of food intake by left and right vagal sensory neurons https://t.co/ej7LNK3QbL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955297230553088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AGNOSTIC MRS Benchmark Dataset: Deep Learning for Out-of-voxel Artifacts https://t.co/8sirp63YwW</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955303425507329</link>
-      <description>The AGNOSTIC MRS Benchmark Dataset: Deep Learning for Out-of-voxel Artifacts https://t.co/8sirp63YwW</description>
-      <content:encoded>The AGNOSTIC MRS Benchmark Dataset: Deep Learning for Out-of-voxel Artifacts https://t.co/8sirp63YwW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955303425507329"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lipidome unsaturation affects the morphology and proteome of the Drosophila eye. https://t.co/fUSIhnIQtk</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955309364641796</link>
-      <description>Lipidome unsaturation affects the morphology and proteome of the Drosophila eye. https://t.co/fUSIhnIQtk</description>
-      <content:encoded>Lipidome unsaturation affects the morphology and proteome of the Drosophila eye. https://t.co/fUSIhnIQtk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955309364641796"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Mechanism Underpinning the Bioenergetic Metabolism-Regulating Function of Gold Nanocatalysts https://t.co/9f3bLQAX8y</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955314863407105</link>
-      <description>A Mechanism Underpinning the Bioenergetic Metabolism-Regulating Function of Gold Nanocatalysts https://t.co/9f3bLQAX8y</description>
-      <content:encoded>A Mechanism Underpinning the Bioenergetic Metabolism-Regulating Function of Gold Nanocatalysts https://t.co/9f3bLQAX8y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955314863407105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Representational drift as a result of implicit regularization https://t.co/5fpvBOTK8V</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955320823513089</link>
-      <description>Representational drift as a result of implicit regularization https://t.co/5fpvBOTK8V</description>
-      <content:encoded>Representational drift as a result of implicit regularization https://t.co/5fpvBOTK8V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955320823513089"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crucial neuroprotective roles of the metabolite BH4 in dopaminergic neurons https://t.co/6OykLs53hn</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955326427078657</link>
-      <description>Crucial neuroprotective roles of the metabolite BH4 in dopaminergic neurons https://t.co/6OykLs53hn</description>
-      <content:encoded>Crucial neuroprotective roles of the metabolite BH4 in dopaminergic neurons https://t.co/6OykLs53hn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955326427078657"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delayed blood pressure recovery after exercise stress test is associated with autonomic dysfunction and pulse pressure in a middle-aged healthy group https://t.co/1zGouGTRfc</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955332034891776</link>
-      <description>Delayed blood pressure recovery after exercise stress test is associated with autonomic dysfunction and pulse pressure in a middle-aged healthy group https://t.co/1zGouGTRfc</description>
-      <content:encoded>Delayed blood pressure recovery after exercise stress test is associated with autonomic dysfunction and pulse pressure in a middle-aged healthy group https://t.co/1zGouGTRfc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955332034891776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-tau antibodies targeting a conformation-dependent epitope selectively bind seeds https://t.co/ZWKCEtmObs</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655955337990770688</link>
-      <description>Anti-tau antibodies targeting a conformation-dependent epitope selectively bind seeds https://t.co/ZWKCEtmObs</description>
-      <content:encoded>Anti-tau antibodies targeting a conformation-dependent epitope selectively bind seeds https://t.co/ZWKCEtmObs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655955337990770688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:18:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Mari_Byndloss: I left Brazil 13 years ago with 2 suitcases and a dream and no idea that this day would come. I’m a #HHMI #FHScholars !…</title>
-      <link>https://twitter.com/HHMINEWS/status/1655955894427893761</link>
-      <description>RT @Mari_Byndloss: I left Brazil 13 years ago with 2 suitcases and a dream and no idea that this day would come. I’m a #HHMI #FHScholars !…</description>
-      <content:encoded>RT @Mari_Byndloss: I left Brazil 13 years ago with 2 suitcases and a dream and no idea that this day would come. I’m a #HHMI #FHScholars !…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1655955894427893761"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @BerndJPichler: I had an incredible business trip with my colleagues from the department of Tropical Medicine at the University of Tübin…</title>
-      <link>https://twitter.com/CellTypist/status/1655956053845213184</link>
-      <description>RT @BerndJPichler: I had an incredible business trip with my colleagues from the department of Tropical Medicine at the University of Tübin…</description>
-      <content:encoded>RT @BerndJPichler: I had an incredible business trip with my colleagues from the department of Tropical Medicine at the University of Tübin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1655956053845213184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:21:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tumbleweeds start out as tiny seedlings; by summer the plant has a round shape. They grow flowers and fruits. By fall they dry and detach from their roots, so they spread their seeds
-
-[source: https://t.co/XLKA9YjF8U]
-[video: https://t.co/JqAMLmJ4nx]
-https://t.co/2kurUZu1vp</title>
-      <link>https://twitter.com/Rainmaker1973/status/1655957233166077952</link>
-      <description>Tumbleweeds start out as tiny seedlings; by summer the plant has a round shape. They grow flowers and fruits. By fall they dry and detach from their roots, so they spread their seeds
-
-[source: https://t.co/XLKA9YjF8U]
-[video: https://t.co/JqAMLmJ4nx]
-https://t.co/2kurUZu1vp</description>
-      <content:encoded>Tumbleweeds start out as tiny seedlings; by summer the plant has a round shape. They grow flowers and fruits. By fall they dry and detach from their roots, so they spread their seeds
-
-[source: https://t.co/XLKA9YjF8U]
-[video: https://t.co/JqAMLmJ4nx]
-https://t.co/2kurUZu1vp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655957233166077952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1443108891689168896/pu/img/9BGDqH48_e9TzytD.jpg" length="480" type="photo"/>
-      <pubDate>Tue, 09 May 2023 15:25:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Cancerfonden: Today, more than 200 scientists, politicians and patient representatives have come together to discuss the Europe’s Beati…</title>
-      <link>https://twitter.com/KarolinskaUnsju/status/1655958021132935168</link>
-      <description>RT @Cancerfonden: Today, more than 200 scientists, politicians and patient representatives have come together to discuss the Europe’s Beati…</description>
-      <content:encoded>RT @Cancerfonden: Today, more than 200 scientists, politicians and patient representatives have come together to discuss the Europe’s Beati…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KarolinskaUnsju/status/1655958021132935168"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:28:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senolytic compounds have shown promise for the treatment of aging-related diseases. A study in @NatureAging uses a deep learning model to identify compounds with favorable drug-like properties and confirms one compound’s in vivo activity in aged mice. 🔒 https://t.co/VSR9KkDPr4 https://t.co/YeR5CbiDZF</title>
-      <link>https://twitter.com/NaturePortfolio/status/1655958072043491330</link>
-      <description>Senolytic compounds have shown promise for the treatment of aging-related diseases. A study in @NatureAging uses a deep learning model to identify compounds with favorable drug-like properties and confirms one compound’s in vivo activity in aged mice. 🔒 https://t.co/VSR9KkDPr4 https://t.co/YeR5CbiDZF</description>
-      <content:encoded>Senolytic compounds have shown promise for the treatment of aging-related diseases. A study in @NatureAging uses a deep learning model to identify compounds with favorable drug-like properties and confirms one compound’s in vivo activity in aged mice. 🔒 https://t.co/VSR9KkDPr4 https://t.co/YeR5CbiDZF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1655958072043491330"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvslEvpaEAAI17P.jpg" length="1000" type="photo"/>
-      <pubDate>Tue, 09 May 2023 15:29:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 years in the making - our review article on “brain state” as a construct for relating findings across levels of analysis is now out in TiNS! https://t.co/PFuawOBMKf</title>
-      <link>https://twitter.com/dgbarson/status/1655958138770583554</link>
-      <description>3 years in the making - our review article on “brain state” as a construct for relating findings across levels of analysis is now out in TiNS! https://t.co/PFuawOBMKf</description>
-      <content:encoded>3 years in the making - our review article on “brain state” as a construct for relating findings across levels of analysis is now out in TiNS! https://t.co/PFuawOBMKf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/dgbarson/status/1655958138770583554"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:29:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>This project started as a conversation between @abigails_greene , @coreyhorien, and I about “brain state.” We each use this term in descriptions of our research ranging from whole-brain fMRI in patient populations (Abby, Corey) to cell- and circuit-level recordings in mice (me).</title>
-      <link>https://twitter.com/dgbarson/status/1655958140838375424</link>
-      <description>This project started as a conversation between @abigails_greene , @coreyhorien, and I about “brain state.” We each use this term in descriptions of our research ranging from whole-brain fMRI in patient populations (Abby, Corey) to cell- and circuit-level recordings in mice (me).</description>
-      <content:encoded>This project started as a conversation between @abigails_greene , @coreyhorien, and I about “brain state.” We each use this term in descriptions of our research ranging from whole-brain fMRI in patient populations (Abby, Corey) to cell- and circuit-level recordings in mice (me).&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/dgbarson/status/1655958140838375424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:29:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>We wondered if there was anything in common between what each of us was referring to as a “brain state.” And does it actually matter?</title>
-      <link>https://twitter.com/dgbarson/status/1655958142675718145</link>
-      <description>We wondered if there was anything in common between what each of us was referring to as a “brain state.” And does it actually matter?</description>
-      <content:encoded>We wondered if there was anything in common between what each of us was referring to as a “brain state.” And does it actually matter?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/dgbarson/status/1655958142675718145"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:29:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 May 2023 06:20:51 +0000</lastBuildDate>
     <item>
       <title>What emerged was a roadmap for collaboration that we intend to follow in our future work and a guide for the principled use of “brain state” in both the planning and interpretation of experiments.</title>
       <link>https://twitter.com/dgbarson/status/1655958144319643648</link>
@@ -853,6 +706,13 @@ They do this for various reasons, including fun, to conserve energy, and to navi
 https://t.co/SgP2owQ09F&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656002812310876162"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1354690701930471427/pu/img/SwzH4Rw5mAgxQePC.jpg" length="480" type="photo"/>
       <pubDate>Tue, 09 May 2023 18:26:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @scisignal: Scientists tie chronic pain in #LongCovid to disruptions in sensory neurons in a hamster model, a study illustrates how the…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1656004250399383562</link>
+      <description>RT @scisignal: Scientists tie chronic pain in #LongCovid to disruptions in sensory neurons in a hamster model, a study illustrates how the…</description>
+      <content:encoded>RT @scisignal: Scientists tie chronic pain in #LongCovid to disruptions in sensory neurons in a hamster model, a study illustrates how the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656004250399383562"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 09 May 2023 18:32:35 +0000</pubDate>
     </item>
     <item>
       <title>Looks like Apple is exploring wrist-worn EMG. Interesting to see the convergence around this interface. https://t.co/XZvYuFDEUD https://t.co/eIJuBdWOIt</title>
@@ -1853,11 +1713,149 @@ https://t.co/Qyt4nVo3es&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Wed, 10 May 2023 04:49:34 +0000</pubDate>
     </item>
     <item>
-      <title>Utvecklingsprocesser i vården försenas av otydlig ansvarsfördelning och bristande samordning. Politiska beslut brådskar när det gäller hälsodata och implementering av precisionsmedicin, skriver medlemmarna i "Agenda för hälsa och välstånd" på @ABDebatt. https://t.co/7OPikbwtow</title>
-      <link>https://twitter.com/forskasverige/status/1656164237088104448</link>
-      <description>Utvecklingsprocesser i vården försenas av otydlig ansvarsfördelning och bristande samordning. Politiska beslut brådskar när det gäller hälsodata och implementering av precisionsmedicin, skriver medlemmarna i "Agenda för hälsa och välstånd" på @ABDebatt. https://t.co/7OPikbwtow</description>
-      <content:encoded>Utvecklingsprocesser i vården försenas av otydlig ansvarsfördelning och bristande samordning. Politiska beslut brådskar när det gäller hälsodata och implementering av precisionsmedicin, skriver medlemmarna i "Agenda för hälsa och välstånd" på @ABDebatt. https://t.co/7OPikbwtow&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/forskasverige/status/1656164237088104448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 10 May 2023 05:08:18 +0000</pubDate>
+      <title>@KordingLab Here you go. This is from abstracts. 
+Does it make sense? https://t.co/VhJPbjorRR</title>
+      <link>https://twitter.com/LecoqJerome/status/1656172855539961857</link>
+      <description>@KordingLab Here you go. This is from abstracts. 
+Does it make sense? https://t.co/VhJPbjorRR</description>
+      <content:encoded>@KordingLab Here you go. This is from abstracts. 
+Does it make sense? https://t.co/VhJPbjorRR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1656172855539961857"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvvoZckaAAEKGzV.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 10 May 2023 05:42:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Born #Today in 1788, Augustin-Jean Fresnel made researches that led to the almost unanimous acceptance of the wave theory of light. He improved the optical system of lighthouses by replacing metal reflectors with revolutionary stepped lenses of his design https://t.co/LLnCFPMXCb https://t.co/jO6JjqRlTR</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656177196581494784</link>
+      <description>Born #Today in 1788, Augustin-Jean Fresnel made researches that led to the almost unanimous acceptance of the wave theory of light. He improved the optical system of lighthouses by replacing metal reflectors with revolutionary stepped lenses of his design https://t.co/LLnCFPMXCb https://t.co/jO6JjqRlTR</description>
+      <content:encoded>Born #Today in 1788, Augustin-Jean Fresnel made researches that led to the almost unanimous acceptance of the wave theory of light. He improved the optical system of lighthouses by replacing metal reflectors with revolutionary stepped lenses of his design https://t.co/LLnCFPMXCb https://t.co/jO6JjqRlTR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656177196581494784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvvsRZ4WIAE0jCF.jpg" length="391" type="photo"/>
+      <pubDate>Wed, 10 May 2023 05:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @The_CBIAS: 🔥REGISTRATION IS OPEN🔥
+https://t.co/qCZuU98xOW
+
+Confirmed speakers: 
+.@CiminiLab, .@petebankhead , .@tischitischer  &amp;amp; .@mart…</title>
+      <link>https://twitter.com/sofroniewn/status/1656177203703599104</link>
+      <description>RT @The_CBIAS: 🔥REGISTRATION IS OPEN🔥
+https://t.co/qCZuU98xOW
+
+Confirmed speakers: 
+.@CiminiLab, .@petebankhead , .@tischitischer  &amp;amp; .@mart…</description>
+      <content:encoded>RT @The_CBIAS: 🔥REGISTRATION IS OPEN🔥
+https://t.co/qCZuU98xOW
+
+Confirmed speakers: 
+.@CiminiLab, .@petebankhead , .@tischitischer  &amp;amp; .@mart…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1656177203703599104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 05:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>New genomic analyses in @ScienceAdvances suggest that the Peruvian fur seal, once considered a subspecies of the South American fur seal, is a species all on its own. https://t.co/fglYOWNsJ9 https://t.co/R6ByRcCQq3</title>
+      <link>https://twitter.com/ScienceMagazine/status/1656177283781017600</link>
+      <description>New genomic analyses in @ScienceAdvances suggest that the Peruvian fur seal, once considered a subspecies of the South American fur seal, is a species all on its own. https://t.co/fglYOWNsJ9 https://t.co/R6ByRcCQq3</description>
+      <content:encoded>New genomic analyses in @ScienceAdvances suggest that the Peruvian fur seal, once considered a subspecies of the South American fur seal, is a species all on its own. https://t.co/fglYOWNsJ9 https://t.co/R6ByRcCQq3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656177283781017600"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvvsdhyXsAA5A3w.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 10 May 2023 06:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Born #Today in 1900, Cecilia Payne was the astronomer whose 1925 groundbreaking conclusion about stars composition (made of H and He) was initially rejected because it contradicted the scientific wisdom of the time. She was later proved correct https://t.co/FJU6eZZk0b https://t.co/3LshRpollw</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656177835713736704</link>
+      <description>Born #Today in 1900, Cecilia Payne was the astronomer whose 1925 groundbreaking conclusion about stars composition (made of H and He) was initially rejected because it contradicted the scientific wisdom of the time. She was later proved correct https://t.co/FJU6eZZk0b https://t.co/3LshRpollw</description>
+      <content:encoded>Born #Today in 1900, Cecilia Payne was the astronomer whose 1925 groundbreaking conclusion about stars composition (made of H and He) was initially rejected because it contradicted the scientific wisdom of the time. She was later proved correct https://t.co/FJU6eZZk0b https://t.co/3LshRpollw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656177835713736704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fvvs7kWWYAElV1s.jpg" length="680" type="photo"/>
+      <pubDate>Wed, 10 May 2023 06:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pseudorabies virus hijacks DDX3X, initiating an addictive 'mad itch' and immune suppression, to facilitate viral spread. https://t.co/IyC8UYij86</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180148994191360</link>
+      <description>Pseudorabies virus hijacks DDX3X, initiating an addictive 'mad itch' and immune suppression, to facilitate viral spread. https://t.co/IyC8UYij86</description>
+      <content:encoded>Pseudorabies virus hijacks DDX3X, initiating an addictive 'mad itch' and immune suppression, to facilitate viral spread. https://t.co/IyC8UYij86&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180148994191360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Virtual neural network-guided optimization of non-invasive brain stimulation in Alzheimer's disease https://t.co/cWMRkLcnhA</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180154836881409</link>
+      <description>Virtual neural network-guided optimization of non-invasive brain stimulation in Alzheimer's disease https://t.co/cWMRkLcnhA</description>
+      <content:encoded>Virtual neural network-guided optimization of non-invasive brain stimulation in Alzheimer's disease https://t.co/cWMRkLcnhA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180154836881409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phase-dependent stimulation response is shaped by the brain's transient collective dynamics. https://t.co/VriMTk1fl7</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180160348164096</link>
+      <description>Phase-dependent stimulation response is shaped by the brain's transient collective dynamics. https://t.co/VriMTk1fl7</description>
+      <content:encoded>Phase-dependent stimulation response is shaped by the brain's transient collective dynamics. https://t.co/VriMTk1fl7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180160348164096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Temporally organized representations of reward and risk in the human brain https://t.co/Jssbj61PBQ</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180165704314881</link>
+      <description>Temporally organized representations of reward and risk in the human brain https://t.co/Jssbj61PBQ</description>
+      <content:encoded>Temporally organized representations of reward and risk in the human brain https://t.co/Jssbj61PBQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180165704314881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Duplex perception reveals brainstem auditory representations are modulated by listeners' ongoing percept for speech https://t.co/GksRrA9Bxm</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180171425349632</link>
+      <description>Duplex perception reveals brainstem auditory representations are modulated by listeners' ongoing percept for speech https://t.co/GksRrA9Bxm</description>
+      <content:encoded>Duplex perception reveals brainstem auditory representations are modulated by listeners' ongoing percept for speech https://t.co/GksRrA9Bxm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180171425349632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alpha-180 spin-echo based line-scanning method for high resolution laminar-specific fMRI https://t.co/wdZ7OVfX0H</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180176907309057</link>
+      <description>Alpha-180 spin-echo based line-scanning method for high resolution laminar-specific fMRI https://t.co/wdZ7OVfX0H</description>
+      <content:encoded>Alpha-180 spin-echo based line-scanning method for high resolution laminar-specific fMRI https://t.co/wdZ7OVfX0H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180176907309057"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The developmental timing of spinal touch processing alterations and its relation to ASD-associated behaviors in mouse models https://t.co/cF0iDktJ9y</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180182276001792</link>
+      <description>The developmental timing of spinal touch processing alterations and its relation to ASD-associated behaviors in mouse models https://t.co/cF0iDktJ9y</description>
+      <content:encoded>The developmental timing of spinal touch processing alterations and its relation to ASD-associated behaviors in mouse models https://t.co/cF0iDktJ9y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180182276001792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reward-Bases: Dopaminergic Mechanisms for Adaptive Acquisition of Multiple Reward Types https://t.co/wuxkPlT8md</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180187678253056</link>
+      <description>Reward-Bases: Dopaminergic Mechanisms for Adaptive Acquisition of Multiple Reward Types https://t.co/wuxkPlT8md</description>
+      <content:encoded>Reward-Bases: Dopaminergic Mechanisms for Adaptive Acquisition of Multiple Reward Types https://t.co/wuxkPlT8md&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180187678253056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Limited Expression of Nrf2 in Neurons Across the Central Nervous System https://t.co/Eeskszw0Bk</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180192996651010</link>
+      <description>Limited Expression of Nrf2 in Neurons Across the Central Nervous System https://t.co/Eeskszw0Bk</description>
+      <content:encoded>Limited Expression of Nrf2 in Neurons Across the Central Nervous System https://t.co/Eeskszw0Bk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180192996651010"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trehalose Consumption Ameliorates Pathogenesis in an Inducible Mouse Model of the Fragile X-associated Tremor/Ataxia Syndrome https://t.co/jidcydl1oO</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656180198373748736</link>
+      <description>Trehalose Consumption Ameliorates Pathogenesis in an Inducible Mouse Model of the Fragile X-associated Tremor/Ataxia Syndrome https://t.co/jidcydl1oO</description>
+      <content:encoded>Trehalose Consumption Ameliorates Pathogenesis in an Inducible Mouse Model of the Fragile X-associated Tremor/Ataxia Syndrome https://t.co/jidcydl1oO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656180198373748736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:11:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural mechanisms underlying release-mode-specific abnormalities in dopamine neural activity in a schizophrenia-like model  https://t.co/L53xbvfyEB #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1656181140154208257</link>
+      <description>Neural mechanisms underlying release-mode-specific abnormalities in dopamine neural activity in a schizophrenia-like model  https://t.co/L53xbvfyEB #biorxiv_neursci</description>
+      <content:encoded>Neural mechanisms underlying release-mode-specific abnormalities in dopamine neural activity in a schizophrenia-like model  https://t.co/L53xbvfyEB #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1656181140154208257"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Altered calcium signaling in Bergmann glia contributes to Spinocerebellar ataxia type-1  https://t.co/9l2RAzMBWo #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1656181224912584704</link>
+      <description>Altered calcium signaling in Bergmann glia contributes to Spinocerebellar ataxia type-1  https://t.co/9l2RAzMBWo #biorxiv_neursci</description>
+      <content:encoded>Altered calcium signaling in Bergmann glia contributes to Spinocerebellar ataxia type-1  https://t.co/9l2RAzMBWo #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1656181224912584704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Very interesting: open response by Dosenbach and Gordon to the Muret open review of their SCAN M1 paper. https://t.co/Yoa0AsLEIM</title>
+      <link>https://twitter.com/andpru/status/1656182177762033664</link>
+      <description>Very interesting: open response by Dosenbach and Gordon to the Muret open review of their SCAN M1 paper. https://t.co/Yoa0AsLEIM</description>
+      <content:encoded>Very interesting: open response by Dosenbach and Gordon to the Muret open review of their SCAN M1 paper. https://t.co/Yoa0AsLEIM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1656182177762033664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 06:19:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
