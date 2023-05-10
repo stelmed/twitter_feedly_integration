@@ -6,94 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 May 2023 07:14:45 +0000</lastBuildDate>
-    <item>
-      <title>RT @SchumerMaya: Excited to be an #NSPeep as part of @SfNtweets #NeuroScholars program for the next two years!</title>
-      <link>https://twitter.com/SfNtweets/status/1655962720443719681</link>
-      <description>RT @SchumerMaya: Excited to be an #NSPeep as part of @SfNtweets #NeuroScholars program for the next two years!</description>
-      <content:encoded>RT @SchumerMaya: Excited to be an #NSPeep as part of @SfNtweets #NeuroScholars program for the next two years!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1655962720443719681"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:47:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JhahCook: Today I got accepted as a Neuroscience Scholars Program Fellow!!🥳🥹@SfNtweets
-Proud #neuroscholar Fellow https://t.co/nDGZw6wC…</title>
-      <link>https://twitter.com/SfNtweets/status/1655962748537151489</link>
-      <description>RT @JhahCook: Today I got accepted as a Neuroscience Scholars Program Fellow!!🥳🥹@SfNtweets
-Proud #neuroscholar Fellow https://t.co/nDGZw6wC…</description>
-      <content:encoded>RT @JhahCook: Today I got accepted as a Neuroscience Scholars Program Fellow!!🥳🥹@SfNtweets
-Proud #neuroscholar Fellow https://t.co/nDGZw6wC…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1655962748537151489"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:47:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @FernJuarez95: I am extremely honored to be selected as Fellow for the @SfNtweets Neuroscience Scholars Program! I am looking forward to…</title>
-      <link>https://twitter.com/SfNtweets/status/1655962766392586241</link>
-      <description>RT @FernJuarez95: I am extremely honored to be selected as Fellow for the @SfNtweets Neuroscience Scholars Program! I am looking forward to…</description>
-      <content:encoded>RT @FernJuarez95: I am extremely honored to be selected as Fellow for the @SfNtweets Neuroscience Scholars Program! I am looking forward to…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1655962766392586241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:47:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @carnegiescience: Congratulations to @CarnegiePlants' &amp;amp; @CarnegieEcology's @MExpositoAlonso on his selection for the inaugural cohort of…</title>
-      <link>https://twitter.com/HHMINEWS/status/1655963376751706113</link>
-      <description>RT @carnegiescience: Congratulations to @CarnegiePlants' &amp;amp; @CarnegieEcology's @MExpositoAlonso on his selection for the inaugural cohort of…</description>
-      <content:encoded>RT @carnegiescience: Congratulations to @CarnegiePlants' &amp;amp; @CarnegieEcology's @MExpositoAlonso on his selection for the inaugural cohort of…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1655963376751706113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 15:50:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥳 Only 24 hours left until #GoogleIO! 
-
-Learn how you can bring the power of machine learning to apps and workflows with informative product keynotes, technical sessions and workshops on ML/AI, and more! 
-
-Register today at https://t.co/21MjoWqcIV and join the celebration! https://t.co/iqerqh42Ad</title>
-      <link>https://twitter.com/TensorFlow/status/1655964457292398594</link>
-      <description>🥳 Only 24 hours left until #GoogleIO! 
-
-Learn how you can bring the power of machine learning to apps and workflows with informative product keynotes, technical sessions and workshops on ML/AI, and more! 
-
-Register today at https://t.co/21MjoWqcIV and join the celebration! https://t.co/iqerqh42Ad</description>
-      <content:encoded>🥳 Only 24 hours left until #GoogleIO! 
-
-Learn how you can bring the power of machine learning to apps and workflows with informative product keynotes, technical sessions and workshops on ML/AI, and more! 
-
-Register today at https://t.co/21MjoWqcIV and join the celebration! https://t.co/iqerqh42Ad&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1655964457292398594"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fvsq5LeXgAEO3sP.png" length="1200" type="photo"/>
-      <pubDate>Tue, 09 May 2023 15:54:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ragoninstitute: Congrats to Ragon faculty member Dr. Moura Silva for being named a Freeman Hrabowski Scholar by @HHMINEWS for his poten…</title>
-      <link>https://twitter.com/HHMINEWS/status/1655966116802359296</link>
-      <description>RT @ragoninstitute: Congrats to Ragon faculty member Dr. Moura Silva for being named a Freeman Hrabowski Scholar by @HHMINEWS for his poten…</description>
-      <content:encoded>RT @ragoninstitute: Congrats to Ragon faculty member Dr. Moura Silva for being named a Freeman Hrabowski Scholar by @HHMINEWS for his poten…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1655966116802359296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 16:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧬Ever wondered how scientists find genes associated with a particular disease? 👉 Read this new article to find out! It's a deep dive into genome-wide association studies (GWAS) that allow decoding genes linked to various disorders! https://t.co/gE1fspOSkn</title>
-      <link>https://twitter.com/KnowingNeurons/status/1655966712267694083</link>
-      <description>🧬Ever wondered how scientists find genes associated with a particular disease? 👉 Read this new article to find out! It's a deep dive into genome-wide association studies (GWAS) that allow decoding genes linked to various disorders! https://t.co/gE1fspOSkn</description>
-      <content:encoded>🧬Ever wondered how scientists find genes associated with a particular disease? 👉 Read this new article to find out! It's a deep dive into genome-wide association studies (GWAS) that allow decoding genes linked to various disorders! https://t.co/gE1fspOSkn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KnowingNeurons/status/1655966712267694083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 16:03:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Curiosity Unbounded, Episode 2 — President Sally Kornbluth talks with Associate Professor Mai Hassan about public administration in Africa and how people mobilize against repressive regimes. https://t.co/jcOOpz1YBv https://t.co/xpOK0KVpCR</title>
-      <link>https://twitter.com/MIT/status/1655967189164339200</link>
-      <description>Curiosity Unbounded, Episode 2 — President Sally Kornbluth talks with Associate Professor Mai Hassan about public administration in Africa and how people mobilize against repressive regimes. https://t.co/jcOOpz1YBv https://t.co/xpOK0KVpCR</description>
-      <content:encoded>Curiosity Unbounded, Episode 2 — President Sally Kornbluth talks with Associate Professor Mai Hassan about public administration in Africa and how people mobilize against repressive regimes. https://t.co/jcOOpz1YBv https://t.co/xpOK0KVpCR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1655967189164339200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvstYfjWcAIjh1R.jpg" length="900" type="photo"/>
-      <pubDate>Tue, 09 May 2023 16:05:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp cannot be trusted https://t.co/3gdNxZOLLy</title>
-      <link>https://twitter.com/elonmusk/status/1655967673107337216</link>
-      <description>WhatsApp cannot be trusted https://t.co/3gdNxZOLLy</description>
-      <content:encoded>WhatsApp cannot be trusted https://t.co/3gdNxZOLLy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1655967673107337216"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 16:07:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive public manipulation https://t.co/MeZxZPr1zw</title>
-      <link>https://twitter.com/elonmusk/status/1655968899903418373</link>
-      <description>Massive public manipulation https://t.co/MeZxZPr1zw</description>
-      <content:encoded>Massive public manipulation https://t.co/MeZxZPr1zw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1655968899903418373"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 16:12:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 May 2023 08:19:54 +0000</lastBuildDate>
     <item>
       <title>𝟱𝟬𝟬 𝗵𝘂𝗻𝗱𝗿𝗲𝗱 𝗺𝗶𝗹𝗹𝗶𝗼𝗻 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗯𝗿𝗮𝗶𝗻 𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻.
 Introductory chapter on the evolution of the vertebrate brain (open access).
@@ -1876,6 +1789,142 @@ https://t.co/nmtXnw4Dnq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>Sorry, this island at the top right looks like papers the abstract came back empty from my query. I will fix.</description>
       <content:encoded>Sorry, this island at the top right looks like papers the abstract came back empty from my query. I will fix.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1656196011608657921"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 10 May 2023 07:14:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Science study provides evidence of enriched gas recycling during galaxy formation in the early Universe. https://t.co/Dm60QDNfEJ https://t.co/OUxDQsH7go</title>
+      <link>https://twitter.com/ScienceMagazine/status/1656199923929427968</link>
+      <description>A new Science study provides evidence of enriched gas recycling during galaxy formation in the early Universe. https://t.co/Dm60QDNfEJ https://t.co/OUxDQsH7go</description>
+      <content:encoded>A new Science study provides evidence of enriched gas recycling during galaxy formation in the early Universe. https://t.co/Dm60QDNfEJ https://t.co/OUxDQsH7go&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656199923929427968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvwBDSIXsAADuDE.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 10 May 2023 07:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modeled out of clay from the walls of the cave of Tuc Audoubert, Ariege, France, these bisons stand next to each other, propped up against a small boulder in the darkness, made by an unknown author 14,000 years ago 
+
+[read more: https://t.co/BBKZXhPGTm] https://t.co/5K2GWsqzF2 https://t.co/bKSKsIGceI</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656200537992200193</link>
+      <description>Modeled out of clay from the walls of the cave of Tuc Audoubert, Ariege, France, these bisons stand next to each other, propped up against a small boulder in the darkness, made by an unknown author 14,000 years ago 
+
+[read more: https://t.co/BBKZXhPGTm] https://t.co/5K2GWsqzF2 https://t.co/bKSKsIGceI</description>
+      <content:encoded>Modeled out of clay from the walls of the cave of Tuc Audoubert, Ariege, France, these bisons stand next to each other, propped up against a small boulder in the darkness, made by an unknown author 14,000 years ago 
+
+[read more: https://t.co/BBKZXhPGTm] https://t.co/5K2GWsqzF2 https://t.co/bKSKsIGceI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656200537992200193"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvwBlaQWAAEnkjO.jpg" length="680" type="photo"/>
+      <pubDate>Wed, 10 May 2023 07:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JessButler284: The House of Commons has released a thoughtful, critical report on UK research quality
+
+The recommendations to governmen…</title>
+      <link>https://twitter.com/somacrat/status/1656200553326686209</link>
+      <description>RT @JessButler284: The House of Commons has released a thoughtful, critical report on UK research quality
+
+The recommendations to governmen…</description>
+      <content:encoded>RT @JessButler284: The House of Commons has released a thoughtful, critical report on UK research quality
+
+The recommendations to governmen…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/somacrat/status/1656200553326686209"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 07:32:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>For #WorldLupusDay, we showcase this highly recommended study in @NatureMedicine by Georg Schett @UniFAU &amp;amp; others, demonstrating the effectiveness and tolerability of CD19 CAR T cell transfer as a potential therapy for #systemiclupuserythematosus.
+
+https://t.co/2HYwj50g60 https://t.co/aYTzlktsJ6</title>
+      <link>https://twitter.com/Facultyopinions/status/1656202415228571649</link>
+      <description>For #WorldLupusDay, we showcase this highly recommended study in @NatureMedicine by Georg Schett @UniFAU &amp;amp; others, demonstrating the effectiveness and tolerability of CD19 CAR T cell transfer as a potential therapy for #systemiclupuserythematosus.
+
+https://t.co/2HYwj50g60 https://t.co/aYTzlktsJ6</description>
+      <content:encoded>For #WorldLupusDay, we showcase this highly recommended study in @NatureMedicine by Georg Schett @UniFAU &amp;amp; others, demonstrating the effectiveness and tolerability of CD19 CAR T cell transfer as a potential therapy for #systemiclupuserythematosus.
+
+https://t.co/2HYwj50g60 https://t.co/aYTzlktsJ6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1656202415228571649"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvwDUZZWYAE0lab.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 10 May 2023 07:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>YOLO-NAS is a new real-time state-of-the-art object detection model that outperforms both YOLOv6 &amp;amp; YOLOv8 models in terms of mAP (mean average precision) and inference latency.
+
+[read more: https://t.co/GgmMPjUfF9]
+https://t.co/zD70LgZnPK</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656202729822248960</link>
+      <description>YOLO-NAS is a new real-time state-of-the-art object detection model that outperforms both YOLOv6 &amp;amp; YOLOv8 models in terms of mAP (mean average precision) and inference latency.
+
+[read more: https://t.co/GgmMPjUfF9]
+https://t.co/zD70LgZnPK</description>
+      <content:encoded>YOLO-NAS is a new real-time state-of-the-art object detection model that outperforms both YOLOv6 &amp;amp; YOLOv8 models in terms of mAP (mean average precision) and inference latency.
+
+[read more: https://t.co/GgmMPjUfF9]
+https://t.co/zD70LgZnPK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656202729822248960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1654381323702927362/pu/img/Q5XYFlvvW9FziUVG.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 10 May 2023 07:41:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Utvecklingsprocesser i vården försenas av otydlig ansvarsfördelning och bristande samordning. Politiska beslut brådskar när det gäller hälsodata och implementering av precisionsmedicin, skriver medlemmarna i "Agenda för hälsa och välstånd" på @ABDebatt. https://t.co/7OPikbwtow</title>
+      <link>https://twitter.com/forskasverige/status/1656203665894436866</link>
+      <description>Utvecklingsprocesser i vården försenas av otydlig ansvarsfördelning och bristande samordning. Politiska beslut brådskar när det gäller hälsodata och implementering av precisionsmedicin, skriver medlemmarna i "Agenda för hälsa och välstånd" på @ABDebatt. https://t.co/7OPikbwtow</description>
+      <content:encoded>Utvecklingsprocesser i vården försenas av otydlig ansvarsfördelning och bristande samordning. Politiska beslut brådskar när det gäller hälsodata och implementering av precisionsmedicin, skriver medlemmarna i "Agenda för hälsa och välstånd" på @ABDebatt. https://t.co/7OPikbwtow&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/forskasverige/status/1656203665894436866"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 07:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>After removing those. https://t.co/aDdyvmNoaG</title>
+      <link>https://twitter.com/LecoqJerome/status/1656204552432136194</link>
+      <description>After removing those. https://t.co/aDdyvmNoaG</description>
+      <content:encoded>After removing those. https://t.co/aDdyvmNoaG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1656204552432136194"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvwFPMVaUAAKy_h.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 10 May 2023 07:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new electrical “pill" called FLASH, developed by researchers @nyutandon and @MIT, may be able to regulate people’s appetites without any drugs or invasive medical procedures. Read more here. https://t.co/eieuEwAXAL
+#neuroscience https://t.co/2E3E9kdYds</title>
+      <link>https://twitter.com/Scientifica_Int/status/1656207482849509377</link>
+      <description>A new electrical “pill" called FLASH, developed by researchers @nyutandon and @MIT, may be able to regulate people’s appetites without any drugs or invasive medical procedures. Read more here. https://t.co/eieuEwAXAL
+#neuroscience https://t.co/2E3E9kdYds</description>
+      <content:encoded>A new electrical “pill" called FLASH, developed by researchers @nyutandon and @MIT, may be able to regulate people’s appetites without any drugs or invasive medical procedures. Read more here. https://t.co/eieuEwAXAL
+#neuroscience https://t.co/2E3E9kdYds&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1656207482849509377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvwH7VWWwAEJlvL.jpg" length="620" type="photo"/>
+      <pubDate>Wed, 10 May 2023 08:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polish your CV because ERC-funded teams are hiring! 💼
+
+We've compiled a collection of tweets about open #PhD positions and #PostDoc vacancies in teams backed by the ERC.
+
+Browse to find your future job 👇
+https://t.co/F9UjCMjoFn
+
+#vacancies #jobs #EUfunded https://t.co/SeIQZNibrn</title>
+      <link>https://twitter.com/ERC_Research/status/1656207494262456322</link>
+      <description>Polish your CV because ERC-funded teams are hiring! 💼
+
+We've compiled a collection of tweets about open #PhD positions and #PostDoc vacancies in teams backed by the ERC.
+
+Browse to find your future job 👇
+https://t.co/F9UjCMjoFn
+
+#vacancies #jobs #EUfunded https://t.co/SeIQZNibrn</description>
+      <content:encoded>Polish your CV because ERC-funded teams are hiring! 💼
+
+We've compiled a collection of tweets about open #PhD positions and #PostDoc vacancies in teams backed by the ERC.
+
+Browse to find your future job 👇
+https://t.co/F9UjCMjoFn
+
+#vacancies #jobs #EUfunded https://t.co/SeIQZNibrn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1656207494262456322"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvwH5nQaQAAFUTk.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 10 May 2023 08:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>In the Jura Mountains, outside the French village of Plagne, you will find a 150m long stretch of dinosaur footprints dating back 150 million years. Scientists say the tracks were left by a Sauropod at least 35m long and weighing no less than 35 tons https://t.co/s2OzlfMK8V https://t.co/6EHN5Be2j9</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656208826373140480</link>
+      <description>In the Jura Mountains, outside the French village of Plagne, you will find a 150m long stretch of dinosaur footprints dating back 150 million years. Scientists say the tracks were left by a Sauropod at least 35m long and weighing no less than 35 tons https://t.co/s2OzlfMK8V https://t.co/6EHN5Be2j9</description>
+      <content:encoded>In the Jura Mountains, outside the French village of Plagne, you will find a 150m long stretch of dinosaur footprints dating back 150 million years. Scientists say the tracks were left by a Sauropod at least 35m long and weighing no less than 35 tons https://t.co/s2OzlfMK8V https://t.co/6EHN5Be2j9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656208826373140480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvwJDP-WIAA_5S7.jpg" length="453" type="photo"/>
+      <pubDate>Wed, 10 May 2023 08:05:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MarcusMunafo: Great to see Registered Reports Funding Partnerships featuring prominently in this @CommonsSITC report - thanks to @CR_UK…</title>
+      <link>https://twitter.com/chrisdc77/status/1656209262257864705</link>
+      <description>RT @MarcusMunafo: Great to see Registered Reports Funding Partnerships featuring prominently in this @CommonsSITC report - thanks to @CR_UK…</description>
+      <content:encoded>RT @MarcusMunafo: Great to see Registered Reports Funding Partnerships featuring prominently in this @CommonsSITC report - thanks to @CR_UK…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1656209262257864705"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 08:07:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
