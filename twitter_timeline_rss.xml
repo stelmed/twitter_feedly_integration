@@ -6,161 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 May 2023 11:13:27 +0000</lastBuildDate>
-    <item>
-      <title>RT @davidvanvalen: Dr. Hrabowski has been an inspiration to me since my earliest memories, and I'm honored to receive an award bearing his…</title>
-      <link>https://twitter.com/HHMINEWS/status/1655988052366327821</link>
-      <description>RT @davidvanvalen: Dr. Hrabowski has been an inspiration to me since my earliest memories, and I'm honored to receive an award bearing his…</description>
-      <content:encoded>RT @davidvanvalen: Dr. Hrabowski has been an inspiration to me since my earliest memories, and I'm honored to receive an award bearing his…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1655988052366327821"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 17:28:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>#AffordableHousing is foundational for thriving communities. RT if you agree! https://t.co/ujBaugPhKk</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1655988510032003072</link>
-      <description>#AffordableHousing is foundational for thriving communities. RT if you agree! https://t.co/ujBaugPhKk</description>
-      <content:encoded>#AffordableHousing is foundational for thriving communities. RT if you agree! https://t.co/ujBaugPhKk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1655988510032003072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvtAxc7WAA4YSd5.jpg" length="960" type="photo"/>
-      <pubDate>Tue, 09 May 2023 17:30:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Computational environments and the tools to manage them can help researchers to deliver code that is reproducible, documented and shareable, according to a @Nature technology feature. https://t.co/DdK8PnIhes</title>
-      <link>https://twitter.com/NaturePortfolio/status/1655990263355932706</link>
-      <description>Computational environments and the tools to manage them can help researchers to deliver code that is reproducible, documented and shareable, according to a @Nature technology feature. https://t.co/DdK8PnIhes</description>
-      <content:encoded>Computational environments and the tools to manage them can help researchers to deliver code that is reproducible, documented and shareable, according to a @Nature technology feature. https://t.co/DdK8PnIhes&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1655990263355932706"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 17:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HarvardIID: We’re thrilled for @KizzyPHD, one of the 31 newly announced Freeman Hrabowski Scholars! Selected for their ability to lead…</title>
-      <link>https://twitter.com/HHMINEWS/status/1655990985845768212</link>
-      <description>RT @HarvardIID: We’re thrilled for @KizzyPHD, one of the 31 newly announced Freeman Hrabowski Scholars! Selected for their ability to lead…</description>
-      <content:encoded>RT @HarvardIID: We’re thrilled for @KizzyPHD, one of the 31 newly announced Freeman Hrabowski Scholars! Selected for their ability to lead…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1655990985845768212"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 17:39:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @OpenAI: We applied GPT-4 to interpretability — automatically proposing explanations for GPT-2's 300k neurons — and found neurons respon…</title>
-      <link>https://twitter.com/sofroniewn/status/1655992128374456320</link>
-      <description>RT @OpenAI: We applied GPT-4 to interpretability — automatically proposing explanations for GPT-2's 300k neurons — and found neurons respon…</description>
-      <content:encoded>RT @OpenAI: We applied GPT-4 to interpretability — automatically proposing explanations for GPT-2's 300k neurons — and found neurons respon…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1655992128374456320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 17:44:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @anilkseth: Why Conscious AI is a Bad, Bad idea - my 2p today in @NautilusMag 🤖🧠👇🏽https://t.co/xWjONQFiIt .@CIFAR_News .@theASSC</title>
-      <link>https://twitter.com/tyrell_turing/status/1655992192345710592</link>
-      <description>RT @anilkseth: Why Conscious AI is a Bad, Bad idea - my 2p today in @NautilusMag 🤖🧠👇🏽https://t.co/xWjONQFiIt .@CIFAR_News .@theASSC</description>
-      <content:encoded>RT @anilkseth: Why Conscious AI is a Bad, Bad idea - my 2p today in @NautilusMag 🤖🧠👇🏽https://t.co/xWjONQFiIt .@CIFAR_News .@theASSC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1655992192345710592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 17:44:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>The story of the group of artists recruited by the US Army during WWII with the mission to fool the Nazis in thinking the US Army was larger than it actually was. 
-
-They would become known as the “Ghost Army”
-
-[read more: https://t.co/BssosekFb1]
-https://t.co/hdCowfnXD8</title>
-      <link>https://twitter.com/Rainmaker1973/status/1655992882510037005</link>
-      <description>The story of the group of artists recruited by the US Army during WWII with the mission to fool the Nazis in thinking the US Army was larger than it actually was. 
-
-They would become known as the “Ghost Army”
-
-[read more: https://t.co/BssosekFb1]
-https://t.co/hdCowfnXD8</description>
-      <content:encoded>The story of the group of artists recruited by the US Army during WWII with the mission to fool the Nazis in thinking the US Army was larger than it actually was. 
-
-They would become known as the “Ghost Army”
-
-[read more: https://t.co/BssosekFb1]
-https://t.co/hdCowfnXD8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655992882510037005"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1652969496314015744/pu/img/IJGewdEJ4L64fWnb.jpg" length="540" type="photo"/>
-      <pubDate>Tue, 09 May 2023 17:47:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>@Labrigger Adaptive optic by hand :-) 
-You should tell it about SLM …</title>
-      <link>https://twitter.com/LecoqJerome/status/1655993305136775169</link>
-      <description>@Labrigger Adaptive optic by hand :-) 
-You should tell it about SLM …</description>
-      <content:encoded>@Labrigger Adaptive optic by hand :-) 
-You should tell it about SLM …&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1655993305136775169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 17:49:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ch402: There's a lot of debate about what values AI systems should be trained to have.
-
-I'm excited about Constitutional AI making this…</title>
-      <link>https://twitter.com/sofroniewn/status/1655993681965625344</link>
-      <description>RT @ch402: There's a lot of debate about what values AI systems should be trained to have.
-
-I'm excited about Constitutional AI making this…</description>
-      <content:encoded>RT @ch402: There's a lot of debate about what values AI systems should be trained to have.
-
-I'm excited about Constitutional AI making this…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1655993681965625344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 17:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Although most research on #dystonia has tied the condition to disrupted circuits in the brain, new work in mice shows that inherited, early-onset dystonia can develop solely from abnormal neural circuits in the spinal cord. @ScienceTM https://t.co/6DcQ8LCzeQ https://t.co/vATJouQLUq</title>
-      <link>https://twitter.com/ScienceMagazine/status/1655996184886902810</link>
-      <description>Although most research on #dystonia has tied the condition to disrupted circuits in the brain, new work in mice shows that inherited, early-onset dystonia can develop solely from abnormal neural circuits in the spinal cord. @ScienceTM https://t.co/6DcQ8LCzeQ https://t.co/vATJouQLUq</description>
-      <content:encoded>Although most research on #dystonia has tied the condition to disrupted circuits in the brain, new work in mice shows that inherited, early-onset dystonia can develop solely from abnormal neural circuits in the spinal cord. @ScienceTM https://t.co/6DcQ8LCzeQ https://t.co/vATJouQLUq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1655996184886902810"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvtHwKaWAAAYoSo.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 09 May 2023 18:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>A seagull riding another seagull. 
-
-What appears to be a very unusual view can find an explanation in the way male seagulls signal they are ready to mate.  
-
-[read more: https://t.co/M6FXNiRRPa] 
-[📹 https://t.co/N8D5RXAbCR]
-https://t.co/BGvnQnCYut</title>
-      <link>https://twitter.com/Rainmaker1973/status/1655997053569204238</link>
-      <description>A seagull riding another seagull. 
-
-What appears to be a very unusual view can find an explanation in the way male seagulls signal they are ready to mate.  
-
-[read more: https://t.co/M6FXNiRRPa] 
-[📹 https://t.co/N8D5RXAbCR]
-https://t.co/BGvnQnCYut</description>
-      <content:encoded>A seagull riding another seagull. 
-
-What appears to be a very unusual view can find an explanation in the way male seagulls signal they are ready to mate.  
-
-[read more: https://t.co/M6FXNiRRPa] 
-[📹 https://t.co/N8D5RXAbCR]
-https://t.co/BGvnQnCYut&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1655997053569204238"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1639231507918094337/pu/img/8ZKV1ESwBCNvmz68.jpg" length="720" type="photo"/>
-      <pubDate>Tue, 09 May 2023 18:03:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>𝗕𝗿𝗮𝗶𝗻 𝗮𝗻𝗮𝘁𝗼𝗺𝘆 aficionados, any good diagrams of midline nuclei of the thalamus, including paraventricular (Pa) and reuniens (Re) for primates? 
-I found this one:
-https://t.co/OZhE0eY4Is
-(note: they are much smaller in primates vs. rodents) https://t.co/M5eVhL5XEO</title>
-      <link>https://twitter.com/PessoaBrain/status/1655997618458173442</link>
-      <description>𝗕𝗿𝗮𝗶𝗻 𝗮𝗻𝗮𝘁𝗼𝗺𝘆 aficionados, any good diagrams of midline nuclei of the thalamus, including paraventricular (Pa) and reuniens (Re) for primates? 
-I found this one:
-https://t.co/OZhE0eY4Is
-(note: they are much smaller in primates vs. rodents) https://t.co/M5eVhL5XEO</description>
-      <content:encoded>𝗕𝗿𝗮𝗶𝗻 𝗮𝗻𝗮𝘁𝗼𝗺𝘆 aficionados, any good diagrams of midline nuclei of the thalamus, including paraventricular (Pa) and reuniens (Re) for primates? 
-I found this one:
-https://t.co/OZhE0eY4Is
-(note: they are much smaller in primates vs. rodents) https://t.co/M5eVhL5XEO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1655997618458173442"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FvtIti4WAAYJwMu.png" length="366" type="photo"/>
-      <pubDate>Tue, 09 May 2023 18:06:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bursting with potential: How sensorimotor beta bursts develop from infancy to adulthood https://t.co/SwkYOZgDAZ</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655999834976051201</link>
-      <description>Bursting with potential: How sensorimotor beta bursts develop from infancy to adulthood https://t.co/SwkYOZgDAZ</description>
-      <content:encoded>Bursting with potential: How sensorimotor beta bursts develop from infancy to adulthood https://t.co/SwkYOZgDAZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655999834976051201"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 18:15:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pgbd5 DNA transposase is required for mouse cerebral cortex development through DNA double-strand breaks formation https://t.co/8v6IssYSnV</title>
-      <link>https://twitter.com/bxv_neurosci/status/1655999840831303687</link>
-      <description>The Pgbd5 DNA transposase is required for mouse cerebral cortex development through DNA double-strand breaks formation https://t.co/8v6IssYSnV</description>
-      <content:encoded>The Pgbd5 DNA transposase is required for mouse cerebral cortex development through DNA double-strand breaks formation https://t.co/8v6IssYSnV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1655999840831303687"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 09 May 2023 18:15:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 May 2023 12:31:52 +0000</lastBuildDate>
     <item>
       <title>Sea lions riding huge waves near Santa Barbara Island, California 
 
@@ -1966,6 +1812,151 @@ https://t.co/ZwoaQzjbv3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @TBBLab: We are very excited to be part of InterfaceRice 2023 @HoustonTX. The session on Brain Modeling by @GauteEinevoll, Salvador Dura…</description>
       <content:encoded>RT @TBBLab: We are very excited to be part of InterfaceRice 2023 @HoustonTX. The session on Brain Modeling by @GauteEinevoll, Salvador Dura…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GauteEinevoll/status/1656255682834776064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 10 May 2023 11:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Kusik mainly crafts and sells dice. 
+
+This d20 has an impressively glittering liquid core 
+
+[site: https://t.co/PuSrbWDXeB] 
+[Instagram: https://t.co/7m7ZP1QGKm]
+https://t.co/vSGxikXL3C</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656259109711142912</link>
+      <description>Aaron Kusik mainly crafts and sells dice. 
+
+This d20 has an impressively glittering liquid core 
+
+[site: https://t.co/PuSrbWDXeB] 
+[Instagram: https://t.co/7m7ZP1QGKm]
+https://t.co/vSGxikXL3C</description>
+      <content:encoded>Aaron Kusik mainly crafts and sells dice. 
+
+This d20 has an impressively glittering liquid core 
+
+[site: https://t.co/PuSrbWDXeB] 
+[Instagram: https://t.co/7m7ZP1QGKm]
+https://t.co/vSGxikXL3C&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656259109711142912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1339996574299074563/pu/img/XXrUomyV3juNSyt_.jpg" length="720" type="photo"/>
+      <pubDate>Wed, 10 May 2023 11:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦠 By catching a glimpse of how #bacterial behavior evolves over time, @AshleighGriffi6 intends to devise 🆕 approaches that go beyond the limits of traditional medicine for combating #infections.
+
+👉 https://t.co/ydyxmfxnDw
+
+#drugresistance #antibiotic @CORDIS_EU @UniofOxford https://t.co/d3SFZuzB2J</title>
+      <link>https://twitter.com/ERC_Research/status/1656260300407209985</link>
+      <description>🦠 By catching a glimpse of how #bacterial behavior evolves over time, @AshleighGriffi6 intends to devise 🆕 approaches that go beyond the limits of traditional medicine for combating #infections.
+
+👉 https://t.co/ydyxmfxnDw
+
+#drugresistance #antibiotic @CORDIS_EU @UniofOxford https://t.co/d3SFZuzB2J</description>
+      <content:encoded>🦠 By catching a glimpse of how #bacterial behavior evolves over time, @AshleighGriffi6 intends to devise 🆕 approaches that go beyond the limits of traditional medicine for combating #infections.
+
+👉 https://t.co/ydyxmfxnDw
+
+#drugresistance #antibiotic @CORDIS_EU @UniofOxford https://t.co/d3SFZuzB2J&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1656260300407209985"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fvw39kGaUAAXngf.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 10 May 2023 11:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 A reductionist paradigm for high-throughput behavioural fingerprinting in Drosophila melanogaster  https://t.co/yRuYRpQypu #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1656261628684378113</link>
+      <description>#PeerReview from @eLife of 👉🏿 A reductionist paradigm for high-throughput behavioural fingerprinting in Drosophila melanogaster  https://t.co/yRuYRpQypu #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 A reductionist paradigm for high-throughput behavioural fingerprinting in Drosophila melanogaster  https://t.co/yRuYRpQypu #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1656261628684378113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 11:35:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 Molecular Consequences of Peripheral Influenza A Infection on Cell Populations in the Murine Hypothalamus  https://t.co/sI3AqnSGmW #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1656261633260285952</link>
+      <description>#PeerReview from @eLife of 👉🏿 Molecular Consequences of Peripheral Influenza A Infection on Cell Populations in the Murine Hypothalamus  https://t.co/sI3AqnSGmW #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 Molecular Consequences of Peripheral Influenza A Infection on Cell Populations in the Murine Hypothalamus  https://t.co/sI3AqnSGmW #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1656261633260285952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 11:35:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @IBROorg: Could you be our new colleague? IBRO is looking for a detail-oriented, proactive Grants &amp;amp; Programs Coordinator, with good inte…</title>
+      <link>https://twitter.com/INCForg/status/1656266987301904384</link>
+      <description>RT @IBROorg: Could you be our new colleague? IBRO is looking for a detail-oriented, proactive Grants &amp;amp; Programs Coordinator, with good inte…</description>
+      <content:encoded>RT @IBROorg: Could you be our new colleague? IBRO is looking for a detail-oriented, proactive Grants &amp;amp; Programs Coordinator, with good inte…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1656266987301904384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 11:56:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @delhayeben: Vincent Hayward was a brilliant, inspiring and authentic scientist, and was also a great mentor, always available to help..…</title>
+      <link>https://twitter.com/jdlieber/status/1656267842549866496</link>
+      <description>RT @delhayeben: Vincent Hayward was a brilliant, inspiring and authentic scientist, and was also a great mentor, always available to help..…</description>
+      <content:encoded>RT @delhayeben: Vincent Hayward was a brilliant, inspiring and authentic scientist, and was also a great mentor, always available to help..…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jdlieber/status/1656267842549866496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CRISPR or drugs? Why choose? Read our latest CRISPR 101 blog on this perfect pairing https://t.co/bB9Ls4M47l</title>
+      <link>https://twitter.com/Addgene/status/1656268848084013056</link>
+      <description>CRISPR or drugs? Why choose? Read our latest CRISPR 101 blog on this perfect pairing https://t.co/bB9Ls4M47l</description>
+      <content:encoded>CRISPR or drugs? Why choose? Read our latest CRISPR 101 blog on this perfect pairing https://t.co/bB9Ls4M47l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1656268848084013056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 12:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 A local activity-dependent learning rule shapes dendritic morphologies and synaptic organization  https://t.co/0YMwwtnieW #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1656269194793566209</link>
+      <description>#PeerReview from @eLife of 👉🏿 A local activity-dependent learning rule shapes dendritic morphologies and synaptic organization  https://t.co/0YMwwtnieW #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 A local activity-dependent learning rule shapes dendritic morphologies and synaptic organization  https://t.co/0YMwwtnieW #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1656269194793566209"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 12:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ShellaKeilholz: Thanks to @ImagingNeurosci's amazing team for getting this going so quickly!  If you do choose to transfer to Imaging N…</title>
+      <link>https://twitter.com/PessoaBrain/status/1656270004780711938</link>
+      <description>RT @ShellaKeilholz: Thanks to @ImagingNeurosci's amazing team for getting this going so quickly!  If you do choose to transfer to Imaging N…</description>
+      <content:encoded>RT @ShellaKeilholz: Thanks to @ImagingNeurosci's amazing team for getting this going so quickly!  If you do choose to transfer to Imaging N…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1656270004780711938"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 12:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>There's a tree near the Kalaloch Campground, Washington, whose roots travel to nowhere but it's still alive 
+
+[read more: https://t.co/LLgzATlaAu] https://t.co/49US408RtY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656270221328498691</link>
+      <description>There's a tree near the Kalaloch Campground, Washington, whose roots travel to nowhere but it's still alive 
+
+[read more: https://t.co/LLgzATlaAu] https://t.co/49US408RtY</description>
+      <content:encoded>There's a tree near the Kalaloch Campground, Washington, whose roots travel to nowhere but it's still alive 
+
+[read more: https://t.co/LLgzATlaAu] https://t.co/49US408RtY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656270221328498691"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FvxA9mdXoAE0bGi.jpg" length="621" type="photo"/>
+      <pubDate>Wed, 10 May 2023 12:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @IvarHagendoorn: @Neuro_Skeptic Not a paper but a book: Alain Berthoz, Le sens du mouvement (1997) https://t.co/Sev4h9BAj4. It was subse…</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1656271206557921280</link>
+      <description>RT @IvarHagendoorn: @Neuro_Skeptic Not a paper but a book: Alain Berthoz, Le sens du mouvement (1997) https://t.co/Sev4h9BAj4. It was subse…</description>
+      <content:encoded>RT @IvarHagendoorn: @Neuro_Skeptic Not a paper but a book: Alain Berthoz, Le sens du mouvement (1997) https://t.co/Sev4h9BAj4. It was subse…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1656271206557921280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 12:13:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Awakening from anesthesia switches cortical wave modes'
+
+@TrendsNeuro 'Spotlight' by Yufan Dong &amp;amp; Danqian Liu 
+
+50-day free access link:
+https://t.co/zyoOIEvxF8</title>
+      <link>https://twitter.com/TrendsNeuro/status/1656272170782187523</link>
+      <description>'Awakening from anesthesia switches cortical wave modes'
+
+@TrendsNeuro 'Spotlight' by Yufan Dong &amp;amp; Danqian Liu 
+
+50-day free access link:
+https://t.co/zyoOIEvxF8</description>
+      <content:encoded>'Awakening from anesthesia switches cortical wave modes'
+
+@TrendsNeuro 'Spotlight' by Yufan Dong &amp;amp; Danqian Liu 
+
+50-day free access link:
+https://t.co/zyoOIEvxF8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrendsNeuro/status/1656272170782187523"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 12:17:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Companies that spend money on web ads on Google, Facebook, Instagram, etc. are underwriting most of the R&amp;amp;D budgets in ML/AI. https://t.co/IaDTC9gXMZ</title>
+      <link>https://twitter.com/Labrigger/status/1656272197370155009</link>
+      <description>Companies that spend money on web ads on Google, Facebook, Instagram, etc. are underwriting most of the R&amp;amp;D budgets in ML/AI. https://t.co/IaDTC9gXMZ</description>
+      <content:encoded>Companies that spend money on web ads on Google, Facebook, Instagram, etc. are underwriting most of the R&amp;amp;D budgets in ML/AI. https://t.co/IaDTC9gXMZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Labrigger/status/1656272197370155009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 12:17:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
