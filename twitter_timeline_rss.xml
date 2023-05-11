@@ -6,147 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 May 2023 18:19:51 +0000</lastBuildDate>
-    <item>
-      <title>"After a fulfilling career as a…professor, I’m retiring. 'What will you miss most?' a colleague asked. My answer was something that, 30 years ago, I would never have expected myself to say: I will miss the creativity of teaching." https://t.co/1lpJhQhl0H #TeacherAppreciationWeek</title>
-      <link>https://twitter.com/ScienceMagazine/status/1656584945437999104</link>
-      <description>"After a fulfilling career as a…professor, I’m retiring. 'What will you miss most?' a colleague asked. My answer was something that, 30 years ago, I would never have expected myself to say: I will miss the creativity of teaching." https://t.co/1lpJhQhl0H #TeacherAppreciationWeek</description>
-      <content:encoded>"After a fulfilling career as a…professor, I’m retiring. 'What will you miss most?' a colleague asked. My answer was something that, 30 years ago, I would never have expected myself to say: I will miss the creativity of teaching." https://t.co/1lpJhQhl0H #TeacherAppreciationWeek&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656584945437999104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 09:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎙️ Have you had a chance to check out the Human Brain Project #Podcast?
-
-You can now listen to the entire series!
-
-The nine episodes cover a range of topics, including #ArtificialIntelligence, #consciousness, and #brain mapping.
-
-Read more ➡️ https://t.co/b7l2yBTP6f https://t.co/RJhyO4ji36</title>
-      <link>https://twitter.com/HumanBrainProj/status/1656585200296443905</link>
-      <description>🎙️ Have you had a chance to check out the Human Brain Project #Podcast?
-
-You can now listen to the entire series!
-
-The nine episodes cover a range of topics, including #ArtificialIntelligence, #consciousness, and #brain mapping.
-
-Read more ➡️ https://t.co/b7l2yBTP6f https://t.co/RJhyO4ji36</description>
-      <content:encoded>🎙️ Have you had a chance to check out the Human Brain Project #Podcast?
-
-You can now listen to the entire series!
-
-The nine episodes cover a range of topics, including #ArtificialIntelligence, #consciousness, and #brain mapping.
-
-Read more ➡️ https://t.co/b7l2yBTP6f https://t.co/RJhyO4ji36&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HumanBrainProj/status/1656585200296443905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv1fWN1WwAIh1ef.jpg" length="1024" type="photo"/>
-      <pubDate>Thu, 11 May 2023 09:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Really beautiful thesis by @LucaKolibius.  Highlight is the discovery of episode specific neurons in human hippocampus (https://t.co/tMQd7utdtS)
-
-This trip reinforced the obvious:   Glasgow is an amazing place to do neuroscience. https://t.co/DTZc9CGtLa</title>
-      <link>https://twitter.com/behrenstimb/status/1656585262510555136</link>
-      <description>Really beautiful thesis by @LucaKolibius.  Highlight is the discovery of episode specific neurons in human hippocampus (https://t.co/tMQd7utdtS)
-
-This trip reinforced the obvious:   Glasgow is an amazing place to do neuroscience. https://t.co/DTZc9CGtLa</description>
-      <content:encoded>Really beautiful thesis by @LucaKolibius.  Highlight is the discovery of episode specific neurons in human hippocampus (https://t.co/tMQd7utdtS)
-
-This trip reinforced the obvious:   Glasgow is an amazing place to do neuroscience. https://t.co/DTZc9CGtLa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1656585262510555136"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 09:01:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MedTuebingen: What does machine learning have to do with medicine? Quite a lot! Find out more and sign up for the ML workshop hosted by…</title>
-      <link>https://twitter.com/CellTypist/status/1656585384925573121</link>
-      <description>RT @MedTuebingen: What does machine learning have to do with medicine? Quite a lot! Find out more and sign up for the ML workshop hosted by…</description>
-      <content:encoded>RT @MedTuebingen: What does machine learning have to do with medicine? Quite a lot! Find out more and sign up for the ML workshop hosted by…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1656585384925573121"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 09:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Today I'm in @dagensnyheter commenting on #AIact.
-#ResponsibleAI #AI https://t.co/fE9HXPSGrM</title>
-      <link>https://twitter.com/vdignum/status/1656585724303495171</link>
-      <description>Today I'm in @dagensnyheter commenting on #AIact.
-#ResponsibleAI #AI https://t.co/fE9HXPSGrM</description>
-      <content:encoded>Today I'm in @dagensnyheter commenting on #AIact.
-#ResponsibleAI #AI https://t.co/fE9HXPSGrM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1656585724303495171"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 09:03:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎉 #GSoC2023 project: Code editor support for Brian model equations🎉
-
-Contributor: Abhishek Tiwari
-Mentors: @MarcelStimberg @neuralreckoning
-Project: Write a Brian-specific “Language Server extension” &amp;amp; syntax highlighting rules, that provide these features for… https://t.co/rOdhemZgAu</title>
-      <link>https://twitter.com/INCForg/status/1656588291595010048</link>
-      <description>🎉 #GSoC2023 project: Code editor support for Brian model equations🎉
-
-Contributor: Abhishek Tiwari
-Mentors: @MarcelStimberg @neuralreckoning
-Project: Write a Brian-specific “Language Server extension” &amp;amp; syntax highlighting rules, that provide these features for… https://t.co/rOdhemZgAu</description>
-      <content:encoded>🎉 #GSoC2023 project: Code editor support for Brian model equations🎉
-
-Contributor: Abhishek Tiwari
-Mentors: @MarcelStimberg @neuralreckoning
-Project: Write a Brian-specific “Language Server extension” &amp;amp; syntax highlighting rules, that provide these features for… https://t.co/rOdhemZgAu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1656588291595010048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv1iC7mWYAE1yXM.jpg" length="1070" type="photo"/>
-      <pubDate>Thu, 11 May 2023 09:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>…Brian equations embedded in a Python script.
-
-Follow this project on Neurostars: https://t.co/jRi34zUKU7
-
-@briansimulator #GSoC #neuroscience #neuroinformatics #OpenScience</title>
-      <link>https://twitter.com/INCForg/status/1656588294107308032</link>
-      <description>…Brian equations embedded in a Python script.
-
-Follow this project on Neurostars: https://t.co/jRi34zUKU7
-
-@briansimulator #GSoC #neuroscience #neuroinformatics #OpenScience</description>
-      <content:encoded>…Brian equations embedded in a Python script.
-
-Follow this project on Neurostars: https://t.co/jRi34zUKU7
-
-@briansimulator #GSoC #neuroscience #neuroinformatics #OpenScience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1656588294107308032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 09:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generalized fear following acute stress is caused by change in co-transmitter identity of serotonergic neurons  https://t.co/mXO9NUDYlX #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1656588818491875329</link>
-      <description>Generalized fear following acute stress is caused by change in co-transmitter identity of serotonergic neurons  https://t.co/mXO9NUDYlX #biorxiv_neursci</description>
-      <content:encoded>Generalized fear following acute stress is caused by change in co-transmitter identity of serotonergic neurons  https://t.co/mXO9NUDYlX #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1656588818491875329"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 09:15:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>This machine is called the SLJ900/32, or the Segmental Bridge Launching Machine. Created by Beijing Wowjoint Machinery Co, it can build a viaduct by extending beyond the installed segments to span to the next support 
-
-[source: https://t.co/PLpcTP8kCJ]
-https://t.co/LSvIzaBdS6</title>
-      <link>https://twitter.com/Rainmaker1973/status/1656588895063097346</link>
-      <description>This machine is called the SLJ900/32, or the Segmental Bridge Launching Machine. Created by Beijing Wowjoint Machinery Co, it can build a viaduct by extending beyond the installed segments to span to the next support 
-
-[source: https://t.co/PLpcTP8kCJ]
-https://t.co/LSvIzaBdS6</description>
-      <content:encoded>This machine is called the SLJ900/32, or the Segmental Bridge Launching Machine. Created by Beijing Wowjoint Machinery Co, it can build a viaduct by extending beyond the installed segments to span to the next support 
-
-[source: https://t.co/PLpcTP8kCJ]
-https://t.co/LSvIzaBdS6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656588895063097346"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/887178535957389312/pu/img/k8JLpdNr4mN9FxTA.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 11 May 2023 09:15:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preference shifts during multi-attribute decision-making  https://t.co/ZCnEBR1Yqi #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1656588906698244096</link>
-      <description>Preference shifts during multi-attribute decision-making  https://t.co/ZCnEBR1Yqi #biorxiv_neursci</description>
-      <content:encoded>Preference shifts during multi-attribute decision-making  https://t.co/ZCnEBR1Yqi #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1656588906698244096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 09:15:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>I found so much of his work interesting and deep. https://t.co/A8pySkYjWa</title>
-      <link>https://twitter.com/blamlab/status/1656589400824750082</link>
-      <description>I found so much of his work interesting and deep. https://t.co/A8pySkYjWa</description>
-      <content:encoded>I found so much of his work interesting and deep. https://t.co/A8pySkYjWa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1656589400824750082"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 09:17:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 May 2023 19:12:23 +0000</lastBuildDate>
     <item>
       <title>*Edit* This project has a third mentor: Ben Evans</title>
       <link>https://twitter.com/INCForg/status/1656590374633193473</link>
@@ -2005,6 +1865,151 @@ Learn more this week in Science: https://t.co/XXtb9cBiNu https://t.co/f3PeEFSHdd
       <description>RT @SMLM_Symposium: We are thrilled to announce the 12th Single Molecule Localization Microscopy Symposium!  The meeting will take place in…</description>
       <content:encoded>RT @SMLM_Symposium: We are thrilled to announce the 12th Single Molecule Localization Microscopy Symposium!  The meeting will take place in…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IlariaTesta4/status/1656723207259406336"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 11 May 2023 18:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>😓 Sad news, #GoogleIO has wrapped!  
+
+😃 Good news, you can learn more about what's new in ML, generative AI, large language models, MediaPipe, and more in this recap video ⬇️ 
+https://t.co/kutGOcpDjf</title>
+      <link>https://twitter.com/TensorFlow/status/1656727275763531805</link>
+      <description>😓 Sad news, #GoogleIO has wrapped!  
+
+😃 Good news, you can learn more about what's new in ML, generative AI, large language models, MediaPipe, and more in this recap video ⬇️ 
+https://t.co/kutGOcpDjf</description>
+      <content:encoded>😓 Sad news, #GoogleIO has wrapped!  
+
+😃 Good news, you can learn more about what's new in ML, generative AI, large language models, MediaPipe, and more in this recap video ⬇️ 
+https://t.co/kutGOcpDjf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1656727275763531805"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 18:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dropbox almost totally screwed me. Lost 12 hours of writing yesterday. Somehow got overwritten overnight with an old version and nothing in the version history. Thankfully was synced to my laptop too and was able to recover the file. 🫣 
+Bizarre.</title>
+      <link>https://twitter.com/AndrewHires/status/1656728360960266240</link>
+      <description>Dropbox almost totally screwed me. Lost 12 hours of writing yesterday. Somehow got overwritten overnight with an old version and nothing in the version history. Thankfully was synced to my laptop too and was able to recover the file. 🫣 
+Bizarre.</description>
+      <content:encoded>Dropbox almost totally screwed me. Lost 12 hours of writing yesterday. Somehow got overwritten overnight with an old version and nothing in the version history. Thankfully was synced to my laptop too and was able to recover the file. 🫣 
+Bizarre.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1656728360960266240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 18:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud iridescence is a colorful optical phenomenon that occurs in a cloud &amp;amp; appears in the general proximity of the Sun or Moon. This one was spotted over Ribeirao Claro, Brazil  
+
+[read more: https://t.co/QtWyxuvy4s]
+[source: https://t.co/zR7Jqc0uqg]
+https://t.co/SIwzrSfynr</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656729189909770240</link>
+      <description>Cloud iridescence is a colorful optical phenomenon that occurs in a cloud &amp;amp; appears in the general proximity of the Sun or Moon. This one was spotted over Ribeirao Claro, Brazil  
+
+[read more: https://t.co/QtWyxuvy4s]
+[source: https://t.co/zR7Jqc0uqg]
+https://t.co/SIwzrSfynr</description>
+      <content:encoded>Cloud iridescence is a colorful optical phenomenon that occurs in a cloud &amp;amp; appears in the general proximity of the Sun or Moon. This one was spotted over Ribeirao Claro, Brazil  
+
+[read more: https://t.co/QtWyxuvy4s]
+[source: https://t.co/zR7Jqc0uqg]
+https://t.co/SIwzrSfynr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656729189909770240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/958836294318084096/pu/img/eiNZqxOE7qhUSKYv.jpg" length="720" type="photo"/>
+      <pubDate>Thu, 11 May 2023 18:33:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>A @NatureBiotech paper presents Foldseek, which speeds up protein structural search by four to five orders of magnitude. https://t.co/Z2BpEWoA1G https://t.co/UEh0DyU13A</title>
+      <link>https://twitter.com/NaturePortfolio/status/1656731166609637382</link>
+      <description>A @NatureBiotech paper presents Foldseek, which speeds up protein structural search by four to five orders of magnitude. https://t.co/Z2BpEWoA1G https://t.co/UEh0DyU13A</description>
+      <content:encoded>A @NatureBiotech paper presents Foldseek, which speeds up protein structural search by four to five orders of magnitude. https://t.co/Z2BpEWoA1G https://t.co/UEh0DyU13A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1656731166609637382"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv3kMwiWABIS4Yx.jpg" length="1066" type="photo"/>
+      <pubDate>Thu, 11 May 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>👋 Hey #AAI2023, tomorrow (Friday) morning, grab your coffee and head to Room 206 for Claire Gustafson's talk ton TEA-seq profiling and what it is revealing about the immune system. More on all of our @ImmunologyAAI activities at https://t.co/fXrEszhZU8
+
+#Immunology https://t.co/40CrYUSYGG</title>
+      <link>https://twitter.com/AllenInstitute/status/1656732430118551571</link>
+      <description>👋 Hey #AAI2023, tomorrow (Friday) morning, grab your coffee and head to Room 206 for Claire Gustafson's talk ton TEA-seq profiling and what it is revealing about the immune system. More on all of our @ImmunologyAAI activities at https://t.co/fXrEszhZU8
+
+#Immunology https://t.co/40CrYUSYGG</description>
+      <content:encoded>👋 Hey #AAI2023, tomorrow (Friday) morning, grab your coffee and head to Room 206 for Claire Gustafson's talk ton TEA-seq profiling and what it is revealing about the immune system. More on all of our @ImmunologyAAI activities at https://t.co/fXrEszhZU8
+
+#Immunology https://t.co/40CrYUSYGG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1656732430118551571"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv3lWThWACInUEk.jpg" length="1080" type="photo"/>
+      <pubDate>Thu, 11 May 2023 18:46:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>A public data set on the size and racial composition of US prison populations reveals how biases in sentencing lengths shape the prisons’ racial make-up https://t.co/6MdvcqTaYl</title>
+      <link>https://twitter.com/NatureNV/status/1656732978649628685</link>
+      <description>A public data set on the size and racial composition of US prison populations reveals how biases in sentencing lengths shape the prisons’ racial make-up https://t.co/6MdvcqTaYl</description>
+      <content:encoded>A public data set on the size and racial composition of US prison populations reveals how biases in sentencing lengths shape the prisons’ racial make-up https://t.co/6MdvcqTaYl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1656732978649628685"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 18:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>@AndrewHires This happened to me several years ago. It could ‘ve been triggered by having the file opened in 2 pcs and the autosave in word in the computer I was not working screwed things up. 
+I enabled Packrat (unlimited version history) I believe that has saved me from several headaches.</title>
+      <link>https://twitter.com/stelmed/status/1656733638577274880</link>
+      <description>@AndrewHires This happened to me several years ago. It could ‘ve been triggered by having the file opened in 2 pcs and the autosave in word in the computer I was not working screwed things up. 
+I enabled Packrat (unlimited version history) I believe that has saved me from several headaches.</description>
+      <content:encoded>@AndrewHires This happened to me several years ago. It could ‘ve been triggered by having the file opened in 2 pcs and the autosave in word in the computer I was not working screwed things up. 
+I enabled Packrat (unlimited version history) I believe that has saved me from several headaches.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stelmed/status/1656733638577274880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 18:50:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@stelmed Yeah, Word crashed when I was nudging a figure, so maybe that had something to do with it. Or a permissions issue.</title>
+      <link>https://twitter.com/AndrewHires/status/1656734112248635393</link>
+      <description>@stelmed Yeah, Word crashed when I was nudging a figure, so maybe that had something to do with it. Or a permissions issue.</description>
+      <content:encoded>@stelmed Yeah, Word crashed when I was nudging a figure, so maybe that had something to do with it. Or a permissions issue.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1656734112248635393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 18:52:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AI4LifeTeam: Ko Sugawara shows how training with sparse annotations can produce practical models for cell image segmentation. Strategic…</title>
+      <link>https://twitter.com/sofroniewn/status/1656735334229770240</link>
+      <description>RT @AI4LifeTeam: Ko Sugawara shows how training with sparse annotations can produce practical models for cell image segmentation. Strategic…</description>
+      <content:encoded>RT @AI4LifeTeam: Ko Sugawara shows how training with sparse annotations can produce practical models for cell image segmentation. Strategic…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1656735334229770240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 18:57:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>A nice flipbook by Jurian Moller animating about 550 million years of human evolution
+
+[read more: https://t.co/KvTsiyD7Fl]
+https://t.co/v8e0J6VxP7</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656735347185680404</link>
+      <description>A nice flipbook by Jurian Moller animating about 550 million years of human evolution
+
+[read more: https://t.co/KvTsiyD7Fl]
+https://t.co/v8e0J6VxP7</description>
+      <content:encoded>A nice flipbook by Jurian Moller animating about 550 million years of human evolution
+
+[read more: https://t.co/KvTsiyD7Fl]
+https://t.co/v8e0J6VxP7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656735347185680404"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1610263453440282626/pu/img/hCgrzRtkqGTIuAru.jpg" length="716" type="photo"/>
+      <pubDate>Thu, 11 May 2023 18:57:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is FLAG the best tag? We review all the most common epitope tags in our latest antibodies 101 blog https://t.co/p8FOCL87xc</title>
+      <link>https://twitter.com/Addgene/status/1656735928059035668</link>
+      <description>Is FLAG the best tag? We review all the most common epitope tags in our latest antibodies 101 blog https://t.co/p8FOCL87xc</description>
+      <content:encoded>Is FLAG the best tag? We review all the most common epitope tags in our latest antibodies 101 blog https://t.co/p8FOCL87xc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1656735928059035668"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning is a lifelong journey, and we're here to help you every step of the way. 🌱 https://t.co/rp1uQXXbFf</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1656735931997487110</link>
+      <description>Learning is a lifelong journey, and we're here to help you every step of the way. 🌱 https://t.co/rp1uQXXbFf</description>
+      <content:encoded>Learning is a lifelong journey, and we're here to help you every step of the way. 🌱 https://t.co/rp1uQXXbFf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1656735931997487110"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv3ojPUWYAAPHR2.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 11 May 2023 19:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @metricausa: Labs are often polyglot planets. It's nice diversity. And it needs gentle navigation. My Lab &amp;amp; life column: https://t.co/dK…</title>
+      <link>https://twitter.com/IlariaTesta4/status/1656736804236558343</link>
+      <description>RT @metricausa: Labs are often polyglot planets. It's nice diversity. And it needs gentle navigation. My Lab &amp;amp; life column: https://t.co/dK…</description>
+      <content:encoded>RT @metricausa: Labs are often polyglot planets. It's nice diversity. And it needs gentle navigation. My Lab &amp;amp; life column: https://t.co/dK…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IlariaTesta4/status/1656736804236558343"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 19:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Limitations of human tau-expressing mouse models and novel approaches of mouse modeling for tauopathy: Neurofibrillary tangles (NFTs) composed of hyperphosphorylated tau protein are primarily neuropathological features of a… #Neuroscience https://t.co/fsnpGVzv3z</title>
+      <link>https://twitter.com/FrontNeurosci/status/1656737205052907525</link>
+      <description>New Research: Limitations of human tau-expressing mouse models and novel approaches of mouse modeling for tauopathy: Neurofibrillary tangles (NFTs) composed of hyperphosphorylated tau protein are primarily neuropathological features of a… #Neuroscience https://t.co/fsnpGVzv3z</description>
+      <content:encoded>New Research: Limitations of human tau-expressing mouse models and novel approaches of mouse modeling for tauopathy: Neurofibrillary tangles (NFTs) composed of hyperphosphorylated tau protein are primarily neuropathological features of a… #Neuroscience https://t.co/fsnpGVzv3z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1656737205052907525"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 19:05:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
