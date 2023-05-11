@@ -6,54 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 May 2023 18:00:42 +0000</lastBuildDate>
-    <item>
-      <title>In 1969 some artists were invited to put their art on a tiny metal panel attached to the Apollo 12 Moon lander (which is still on the moon). The last drawing in the upper left is by Andy Warhol 
-
-[read more: https://t.co/n9KyNU2wcl] https://t.co/1xvuRLM9DU</title>
-      <link>https://twitter.com/Rainmaker1973/status/1656580339861471232</link>
-      <description>In 1969 some artists were invited to put their art on a tiny metal panel attached to the Apollo 12 Moon lander (which is still on the moon). The last drawing in the upper left is by Andy Warhol 
-
-[read more: https://t.co/n9KyNU2wcl] https://t.co/1xvuRLM9DU</description>
-      <content:encoded>In 1969 some artists were invited to put their art on a tiny metal panel attached to the Apollo 12 Moon lander (which is still on the moon). The last drawing in the upper left is by Andy Warhol 
-
-[read more: https://t.co/n9KyNU2wcl] https://t.co/1xvuRLM9DU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656580339861471232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv1bADsWwAAVXon.jpg" length="599" type="photo"/>
-      <pubDate>Thu, 11 May 2023 08:41:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Vast differences in gene expression were found between the living and postmortem human brain." (Preprint) https://t.co/PcdbvPqGp0 Does this call into question all those studies correlating stuff against postmortem gene atlases? https://t.co/0rN6xHGsZK</title>
-      <link>https://twitter.com/Neuro_Skeptic/status/1656582341416894464</link>
-      <description>"Vast differences in gene expression were found between the living and postmortem human brain." (Preprint) https://t.co/PcdbvPqGp0 Does this call into question all those studies correlating stuff against postmortem gene atlases? https://t.co/0rN6xHGsZK</description>
-      <content:encoded>"Vast differences in gene expression were found between the living and postmortem human brain." (Preprint) https://t.co/PcdbvPqGp0 Does this call into question all those studies correlating stuff against postmortem gene atlases? https://t.co/0rN6xHGsZK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1656582341416894464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv1cgNdXwAI9Eng.png" length="777" type="photo"/>
-      <pubDate>Thu, 11 May 2023 08:49:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stort tack utbildningsminister Mats Persson för ditt deltagande vid överlämningen av rapporten ”Agenda för hälsa och välstånd 2023” och ditt stora engagemang för att stärka förutsättningarna för medicinsk forskning och innovation. @matsperspektiv  https://t.co/8wJPSvbn9b https://t.co/2Jq0BcWMUd</title>
-      <link>https://twitter.com/forskasverige/status/1656582617616068608</link>
-      <description>Stort tack utbildningsminister Mats Persson för ditt deltagande vid överlämningen av rapporten ”Agenda för hälsa och välstånd 2023” och ditt stora engagemang för att stärka förutsättningarna för medicinsk forskning och innovation. @matsperspektiv  https://t.co/8wJPSvbn9b https://t.co/2Jq0BcWMUd</description>
-      <content:encoded>Stort tack utbildningsminister Mats Persson för ditt deltagande vid överlämningen av rapporten ”Agenda för hälsa och välstånd 2023” och ditt stora engagemang för att stärka förutsättningarna för medicinsk forskning och innovation. @matsperspektiv  https://t.co/8wJPSvbn9b https://t.co/2Jq0BcWMUd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/forskasverige/status/1656582617616068608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv1bb4VXsAMNplm.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 11 May 2023 08:50:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crested mynas, as many other birds, are born altricially, which means young are underdeveloped at the time of birth, therefore fed by parents. When they grow up, they have to learn that food doesn't simply jump into their beaks 
-
-[📽️: Rebecca Gelernter]
-https://t.co/xD6ahEPujE</title>
-      <link>https://twitter.com/Rainmaker1973/status/1656583931305644032</link>
-      <description>Crested mynas, as many other birds, are born altricially, which means young are underdeveloped at the time of birth, therefore fed by parents. When they grow up, they have to learn that food doesn't simply jump into their beaks 
-
-[📽️: Rebecca Gelernter]
-https://t.co/xD6ahEPujE</description>
-      <content:encoded>Crested mynas, as many other birds, are born altricially, which means young are underdeveloped at the time of birth, therefore fed by parents. When they grow up, they have to learn that food doesn't simply jump into their beaks 
-
-[📽️: Rebecca Gelernter]
-https://t.co/xD6ahEPujE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656583931305644032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1573277726190043137/pu/img/eSCLRiEVmyXbuZlr.jpg" length="720" type="photo"/>
-      <pubDate>Thu, 11 May 2023 08:56:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 May 2023 18:19:51 +0000</lastBuildDate>
     <item>
       <title>"After a fulfilling career as a…professor, I’m retiring. 'What will you miss most?' a colleague asked. My answer was something that, 30 years ago, I would never have expected myself to say: I will miss the creativity of teaching." https://t.co/1lpJhQhl0H #TeacherAppreciationWeek</title>
       <link>https://twitter.com/ScienceMagazine/status/1656584945437999104</link>
@@ -2017,6 +1970,41 @@ Each wing  is transparent and bears a precisely detailed image of an ant-like in
 [📷 P. Roosenschoon] https://t.co/ZsCjdpdqwB https://t.co/wkYoNJariw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656720446476124170"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fv3Zg1CXoAscw8J.jpg" length="640" type="photo"/>
       <pubDate>Thu, 11 May 2023 17:58:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phase relations of interneuronal activity relative to theta rhythm https://t.co/u6Res2phxS</title>
+      <link>https://twitter.com/bxv_neurosci/status/1656721465516130304</link>
+      <description>Phase relations of interneuronal activity relative to theta rhythm https://t.co/u6Res2phxS</description>
+      <content:encoded>Phase relations of interneuronal activity relative to theta rhythm https://t.co/u6Res2phxS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1656721465516130304"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 18:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s possible to build nuclear reactors without enormous costs—to our environment, our economy, or our health. This article details how it can be done to increase clean energy infrastructure. https://t.co/r01GHEg4Iq</title>
+      <link>https://twitter.com/BillGates/status/1656721701915475968</link>
+      <description>It’s possible to build nuclear reactors without enormous costs—to our environment, our economy, or our health. This article details how it can be done to increase clean energy infrastructure. https://t.co/r01GHEg4Iq</description>
+      <content:encoded>It’s possible to build nuclear reactors without enormous costs—to our environment, our economy, or our health. This article details how it can be done to increase clean energy infrastructure. https://t.co/r01GHEg4Iq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1656721701915475968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 18:03:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hammerhead sharks “hold their breath” to keep warm as they hunt in deep, cold waters, a new study finds. The previously unobserved and unexpected phenomenon may be widespread among other deep-diving sharks and fishes.
+
+Learn more this week in Science: https://t.co/XXtb9cBiNu https://t.co/f3PeEFSHdd</title>
+      <link>https://twitter.com/ScienceMagazine/status/1656722116488593414</link>
+      <description>Hammerhead sharks “hold their breath” to keep warm as they hunt in deep, cold waters, a new study finds. The previously unobserved and unexpected phenomenon may be widespread among other deep-diving sharks and fishes.
+
+Learn more this week in Science: https://t.co/XXtb9cBiNu https://t.co/f3PeEFSHdd</description>
+      <content:encoded>Hammerhead sharks “hold their breath” to keep warm as they hunt in deep, cold waters, a new study finds. The previously unobserved and unexpected phenomenon may be widespread among other deep-diving sharks and fishes.
+
+Learn more this week in Science: https://t.co/XXtb9cBiNu https://t.co/f3PeEFSHdd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656722116488593414"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv3b--ZWAAwrtGD.jpg" length="943" type="photo"/>
+      <pubDate>Thu, 11 May 2023 18:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SMLM_Symposium: We are thrilled to announce the 12th Single Molecule Localization Microscopy Symposium!  The meeting will take place in…</title>
+      <link>https://twitter.com/IlariaTesta4/status/1656723207259406336</link>
+      <description>RT @SMLM_Symposium: We are thrilled to announce the 12th Single Molecule Localization Microscopy Symposium!  The meeting will take place in…</description>
+      <content:encoded>RT @SMLM_Symposium: We are thrilled to announce the 12th Single Molecule Localization Microscopy Symposium!  The meeting will take place in…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IlariaTesta4/status/1656723207259406336"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 11 May 2023 18:09:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
