@@ -6,79 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 May 2023 13:18:50 +0000</lastBuildDate>
-    <item>
-      <title>RT @kenanfellows: Opportunity Alert: 2023 Cell Science Teacher Academy. Interested in bringing cutting-edge cell biology data and visualiza…</title>
-      <link>https://twitter.com/AllenInstitute/status/1656700695733583878</link>
-      <description>RT @kenanfellows: Opportunity Alert: 2023 Cell Science Teacher Academy. Interested in bringing cutting-edge cell biology data and visualiza…</description>
-      <content:encoded>RT @kenanfellows: Opportunity Alert: 2023 Cell Science Teacher Academy. Interested in bringing cutting-edge cell biology data and visualiza…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1656700695733583878"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 16:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Testing out a new DMD means learning how all these @Thorlabs parts fit together.
-
-Pretty sure this isn't the best way to do it, but hey, as long as it works! https://t.co/Micj8t0dHB</title>
-      <link>https://twitter.com/MattNeuro/status/1656701142280073216</link>
-      <description>Testing out a new DMD means learning how all these @Thorlabs parts fit together.
-
-Pretty sure this isn't the best way to do it, but hey, as long as it works! https://t.co/Micj8t0dHB</description>
-      <content:encoded>Testing out a new DMD means learning how all these @Thorlabs parts fit together.
-
-Pretty sure this isn't the best way to do it, but hey, as long as it works! https://t.co/Micj8t0dHB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1656701142280073216"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv3Ics4XwAkhUqQ.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 11 May 2023 16:41:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>And if you think this looks janky, wait till you see the software I wrote to control it.
-
-Did you know you can take continuous screenshots in matlab, to screen-grab the output from your camera? Because you totally can!</title>
-      <link>https://twitter.com/MattNeuro/status/1656702477809467423</link>
-      <description>And if you think this looks janky, wait till you see the software I wrote to control it.
-
-Did you know you can take continuous screenshots in matlab, to screen-grab the output from your camera? Because you totally can!</description>
-      <content:encoded>And if you think this looks janky, wait till you see the software I wrote to control it.
-
-Did you know you can take continuous screenshots in matlab, to screen-grab the output from your camera? Because you totally can!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1656702477809467423"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 16:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HostMicrobeLit: Profiling the human intestinal environment under physiological conditions @Nature 
-
-Detailing the use of an ingestible…</title>
-      <link>https://twitter.com/Addgene/status/1656702579995287554</link>
-      <description>RT @HostMicrobeLit: Profiling the human intestinal environment under physiological conditions @Nature 
-
-Detailing the use of an ingestible…</description>
-      <content:encoded>RT @HostMicrobeLit: Profiling the human intestinal environment under physiological conditions @Nature 
-
-Detailing the use of an ingestible…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1656702579995287554"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 16:47:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The whole story behind this 2012 paper from my NYU lab at the link below.
-
-It includes the story behind the paper, links to the papers, the letter I sent to @SergeBelongie and the reviews.
-
-Times have changed.
-
-https://t.co/qhxka3TYNE https://t.co/GyhneUG7Qm</title>
-      <link>https://twitter.com/ylecun/status/1656703162416349189</link>
-      <description>The whole story behind this 2012 paper from my NYU lab at the link below.
-
-It includes the story behind the paper, links to the papers, the letter I sent to @SergeBelongie and the reviews.
-
-Times have changed.
-
-https://t.co/qhxka3TYNE https://t.co/GyhneUG7Qm</description>
-      <content:encoded>The whole story behind this 2012 paper from my NYU lab at the link below.
-
-It includes the story behind the paper, links to the papers, the letter I sent to @SergeBelongie and the reviews.
-
-Times have changed.
-
-https://t.co/qhxka3TYNE https://t.co/GyhneUG7Qm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1656703162416349189"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 16:49:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 May 2023 13:48:49 +0000</lastBuildDate>
     <item>
       <title>Watch the interview on @KanaalZCanalZ with Maria Leptin, ERC President.  
 
@@ -659,20 +587,6 @@ Jump in ➡️ https://t.co/bpq28K9HUa https://t.co/WrApAZSHXy&lt;blockquote cla
       <content:encoded>RT @BeckyJordan321: Our lab has multiple positions available: https://t.co/P0MuARMXZv https://t.co/k1BLo8ukLN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/georg98keller/status/1656760270482468870"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fv2HM2aWcAEFH2I.jpg" length="1200" type="photo"/>
       <pubDate>Thu, 11 May 2023 20:36:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JakeYeston: In @ScienceMagazine this week, @YulabJin does double C-H activation to make benzocyclobutenes, with remarkable regioselecti…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1656761402453905408</link>
-      <description>RT @JakeYeston: In @ScienceMagazine this week, @YulabJin does double C-H activation to make benzocyclobutenes, with remarkable regioselecti…</description>
-      <content:encoded>RT @JakeYeston: In @ScienceMagazine this week, @YulabJin does double C-H activation to make benzocyclobutenes, with remarkable regioselecti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656761402453905408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:41:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CassBurdziak: our paper out today in ⁦@ScienceMagazine⁩ showing how plasticity in early cancer progression influences cells’ ability to…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1656761428856958980</link>
-      <description>RT @CassBurdziak: our paper out today in ⁦@ScienceMagazine⁩ showing how plasticity in early cancer progression influences cells’ ability to…</description>
-      <content:encoded>RT @CassBurdziak: our paper out today in ⁦@ScienceMagazine⁩ showing how plasticity in early cancer progression influences cells’ ability to…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656761428856958980"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:41:20 +0000</pubDate>
     </item>
     <item>
       <title>Building a clean energy future will require a lot of new wires—the U.S. will need to grow the grid by almost two-thirds its current size in the next decade. https://t.co/XFkonneN3X</title>
@@ -1454,6 +1368,13 @@ Listen here ➡️ https://t.co/RQxKA3zdMk
       <pubDate>Fri, 12 May 2023 09:04:45 +0000</pubDate>
     </item>
     <item>
+      <title>RT @CameronBrick: 📣 I'm hiring a 4-year PhD in psychology to study climate activism behaviors, deadline 11 June. This is a full job contrac…</title>
+      <link>https://twitter.com/chrisdc77/status/1656949960653283328</link>
+      <description>RT @CameronBrick: 📣 I'm hiring a 4-year PhD in psychology to study climate activism behaviors, deadline 11 June. This is a full job contrac…</description>
+      <content:encoded>RT @CameronBrick: 📣 I'm hiring a 4-year PhD in psychology to study climate activism behaviors, deadline 11 June. This is a full job contrac…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1656949960653283328"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 09:10:29 +0000</pubDate>
+    </item>
+    <item>
       <title>☕️ Good morning #AAI2023! Head to Room 206 at 8:15am for Claire Gustafson's talk ton TEA-seq profiling and what it is revealing about the immune system. More on all of our @ImmunologyAAI activities at https://t.co/fXrEszixJG
 
 #Immunology https://t.co/5ASSroMSKr</title>
@@ -1798,6 +1719,23 @@ https://t.co/eb27rQQQPN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>The fact that the brain is a network does not imply that neuroscience needs the kind of network science that these folks want to fund. https://t.co/OC0BnFKX0Y</description>
       <content:encoded>The fact that the brain is a network does not imply that neuroscience needs the kind of network science that these folks want to fund. https://t.co/OC0BnFKX0Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1656989793304150016"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 12 May 2023 11:48:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is what happens when a tree branch falls on a 150 kV power line 
+
+[source, wickedinsight: https://t.co/ApKbYeWqlh]
+https://t.co/mwtLrFrG9P</title>
+      <link>https://twitter.com/Rainmaker1973/status/1656990315822084098</link>
+      <description>This is what happens when a tree branch falls on a 150 kV power line 
+
+[source, wickedinsight: https://t.co/ApKbYeWqlh]
+https://t.co/mwtLrFrG9P</description>
+      <content:encoded>This is what happens when a tree branch falls on a 150 kV power line 
+
+[source, wickedinsight: https://t.co/ApKbYeWqlh]
+https://t.co/mwtLrFrG9P&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1656990315822084098"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1286405822961065984/pu/img/QExuCbqdcEvXFMay.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 11:50:51 +0000</pubDate>
     </item>
     <item>
       <title>In fact, has there ever been non network computational neuroscience.</title>
@@ -2158,6 +2096,70 @@ https://t.co/Oyhe0fhozm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>@enjoyingthewind @PessoaBrain @manlius84 @KordingLab Then why engage in a public discussion at all? Either make it restricted from the beginning or leave it public.</description>
       <content:encoded>@enjoyingthewind @PessoaBrain @manlius84 @KordingLab Then why engage in a public discussion at all? Either make it restricted from the beginning or leave it public.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stelmed/status/1657012204456095745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 12 May 2023 13:17:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SpringerNature: We are excited to announce that applications for this year’s Nature Awards for Mentoring in Science are now open! This…</title>
+      <link>https://twitter.com/NaturePortfolio/status/1657012908277080067</link>
+      <description>RT @SpringerNature: We are excited to announce that applications for this year’s Nature Awards for Mentoring in Science are now open! This…</description>
+      <content:encoded>RT @SpringerNature: We are excited to announce that applications for this year’s Nature Awards for Mentoring in Science are now open! This…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1657012908277080067"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 13:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>On this week's #SciencePodcast🎙️ with @boron110, @mclean_ka, @jcouzin, @gndaskalova, @anjiwall, Nader Moazami, and Marat Slessarev:
+
+▶️ Debating when death begins
+▶️ What happens to rural lands when people head to urban centers
+
+🎧 Listen here: https://t.co/Ueau0h2YIp https://t.co/Lio86I1qxf</title>
+      <link>https://twitter.com/ScienceMagazine/status/1657015343934521345</link>
+      <description>On this week's #SciencePodcast🎙️ with @boron110, @mclean_ka, @jcouzin, @gndaskalova, @anjiwall, Nader Moazami, and Marat Slessarev:
+
+▶️ Debating when death begins
+▶️ What happens to rural lands when people head to urban centers
+
+🎧 Listen here: https://t.co/Ueau0h2YIp https://t.co/Lio86I1qxf</description>
+      <content:encoded>On this week's #SciencePodcast🎙️ with @boron110, @mclean_ka, @jcouzin, @gndaskalova, @anjiwall, Nader Moazami, and Marat Slessarev:
+
+▶️ Debating when death begins
+▶️ What happens to rural lands when people head to urban centers
+
+🎧 Listen here: https://t.co/Ueau0h2YIp https://t.co/Lio86I1qxf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1657015343934521345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1657015308744261632/pu/img/_9ElUOu9T5N36CcS.jpg" length="1080" type="photo"/>
+      <pubDate>Fri, 12 May 2023 13:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Of the many structures Leonardo da Vinci designed, perhaps none made more ingenious use of materials than his practical design for an easy-to-assemble, self-supporting bridge  
+
+[read more: https://t.co/ybvB2rO47n] 
+[📹 https://t.co/kzhAztF8wI]
+https://t.co/LVIlsXrKnC</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657018088427012098</link>
+      <description>Of the many structures Leonardo da Vinci designed, perhaps none made more ingenious use of materials than his practical design for an easy-to-assemble, self-supporting bridge  
+
+[read more: https://t.co/ybvB2rO47n] 
+[📹 https://t.co/kzhAztF8wI]
+https://t.co/LVIlsXrKnC</description>
+      <content:encoded>Of the many structures Leonardo da Vinci designed, perhaps none made more ingenious use of materials than his practical design for an easy-to-assemble, self-supporting bridge  
+
+[read more: https://t.co/ybvB2rO47n] 
+[📹 https://t.co/kzhAztF8wI]
+https://t.co/LVIlsXrKnC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657018088427012098"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1243349594760757249/pu/img/maqFEDWdwr9PqyET.jpg" length="958" type="photo"/>
+      <pubDate>Fri, 12 May 2023 13:41:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>@kwanalexc @LifeCanvasTech It is gorgeous data</title>
+      <link>https://twitter.com/ewadorotaz/status/1657018718575030273</link>
+      <description>@kwanalexc @LifeCanvasTech It is gorgeous data</description>
+      <content:encoded>@kwanalexc @LifeCanvasTech It is gorgeous data&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1657018718575030273"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 13:43:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @wuzhengherbert: We are looking for a motivated Postdoctoral Fellow to study social cognition and decision-making in mice! Candidates wi…</title>
+      <link>https://twitter.com/ruimcosta/status/1657019474225102848</link>
+      <description>RT @wuzhengherbert: We are looking for a motivated Postdoctoral Fellow to study social cognition and decision-making in mice! Candidates wi…</description>
+      <content:encoded>RT @wuzhengherbert: We are looking for a motivated Postdoctoral Fellow to study social cognition and decision-making in mice! Candidates wi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1657019474225102848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 13:46:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
