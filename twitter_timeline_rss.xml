@@ -6,7 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 May 2023 03:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2023 04:19:05 +0000</lastBuildDate>
     <item>
       <title>Anti-TrpC5 [N67/15R]
 Depositor: James Trimmer
@@ -1665,20 +1665,6 @@ Jump in ➡️ https://t.co/bpq28K9HUa https://t.co/WrApAZSHXy&lt;blockquote cla
       <pubDate>Thu, 11 May 2023 20:36:44 +0000</pubDate>
     </item>
     <item>
-      <title>RT @JakeYeston: In @ScienceMagazine this week, @YulabJin does double C-H activation to make benzocyclobutenes, with remarkable regioselecti…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1656761402453905408</link>
-      <description>RT @JakeYeston: In @ScienceMagazine this week, @YulabJin does double C-H activation to make benzocyclobutenes, with remarkable regioselecti…</description>
-      <content:encoded>RT @JakeYeston: In @ScienceMagazine this week, @YulabJin does double C-H activation to make benzocyclobutenes, with remarkable regioselecti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656761402453905408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:41:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CassBurdziak: our paper out today in ⁦@ScienceMagazine⁩ showing how plasticity in early cancer progression influences cells’ ability to…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1656761428856958980</link>
-      <description>RT @CassBurdziak: our paper out today in ⁦@ScienceMagazine⁩ showing how plasticity in early cancer progression influences cells’ ability to…</description>
-      <content:encoded>RT @CassBurdziak: our paper out today in ⁦@ScienceMagazine⁩ showing how plasticity in early cancer progression influences cells’ ability to…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656761428856958980"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:41:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Building a clean energy future will require a lot of new wires—the U.S. will need to grow the grid by almost two-thirds its current size in the next decade. https://t.co/XFkonneN3X</title>
       <link>https://twitter.com/BillGates/status/1656761693190651906</link>
       <description>Building a clean energy future will require a lot of new wires—the U.S. will need to grow the grid by almost two-thirds its current size in the next decade. https://t.co/XFkonneN3X</description>
@@ -2021,6 +2007,27 @@ Learn more in @ScienceAdvances: https://t.co/BHMiMj2BFn https://t.co/u9LC2RhXdr<
 Learn more in @ScienceAdvances: https://t.co/BHMiMj2BFn https://t.co/u9LC2RhXdr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656856756868218882"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fv5WcBZWAAMGAi9.jpg" length="1200" type="photo"/>
       <pubDate>Fri, 12 May 2023 03:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @rangarajulab: Very excited to share our Rosa26 
+-TurboID mouse line with the scientific community. Now available at Jax
+https://t.co/Va…</title>
+      <link>https://twitter.com/AndrewHires/status/1656870265178189827</link>
+      <description>RT @rangarajulab: Very excited to share our Rosa26 
+-TurboID mouse line with the scientific community. Now available at Jax
+https://t.co/Va…</description>
+      <content:encoded>RT @rangarajulab: Very excited to share our Rosa26 
+-TurboID mouse line with the scientific community. Now available at Jax
+https://t.co/Va…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1656870265178189827"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 03:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interesting to hear Yann LeCun's 🔥 take on fluency vs. reasoning in LLMs. Maybe we need to add a prefrontal cortex? https://t.co/BzqUVSJhlU https://t.co/hyc2acQXIV</title>
+      <link>https://twitter.com/patrickmineault/status/1656874125326004224</link>
+      <description>Interesting to hear Yann LeCun's 🔥 take on fluency vs. reasoning in LLMs. Maybe we need to add a prefrontal cortex? https://t.co/BzqUVSJhlU https://t.co/hyc2acQXIV</description>
+      <content:encoded>Interesting to hear Yann LeCun's 🔥 take on fluency vs. reasoning in LLMs. Maybe we need to add a prefrontal cortex? https://t.co/BzqUVSJhlU https://t.co/hyc2acQXIV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1656874125326004224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv5mIDDXsAAE1i5.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 04:09:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
