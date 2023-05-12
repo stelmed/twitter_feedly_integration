@@ -6,118 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 May 2023 18:19:25 +0000</lastBuildDate>
-    <item>
-      <title>RT @TheAgenda: "Most AI researchers do not think that AI poses an existential threat to humanity." — @pmddomingos (@uwcse), replying to @ge…</title>
-      <link>https://twitter.com/ylecun/status/1656842196329414657</link>
-      <description>RT @TheAgenda: "Most AI researchers do not think that AI poses an existential threat to humanity." — @pmddomingos (@uwcse), replying to @ge…</description>
-      <content:encoded>RT @TheAgenda: "Most AI researchers do not think that AI poses an existential threat to humanity." — @pmddomingos (@uwcse), replying to @ge…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1656842196329414657"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 02:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Application of a Hermite-based measure of non-Gaussianity to normality tests and independent component analysis #Neuroinformatics https://t.co/2KM61M3yzn</title>
-      <link>https://twitter.com/FrontNeurosci/status/1656843528436342784</link>
-      <description>New Research: Application of a Hermite-based measure of non-Gaussianity to normality tests and independent component analysis #Neuroinformatics https://t.co/2KM61M3yzn</description>
-      <content:encoded>New Research: Application of a Hermite-based measure of non-Gaussianity to normality tests and independent component analysis #Neuroinformatics https://t.co/2KM61M3yzn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1656843528436342784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 02:07:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mdinitz: This is a great example to me of what makes @JohnsHopkins a special place.  If I were at any other university, the probability…</title>
-      <link>https://twitter.com/rhuganir/status/1656844901387042816</link>
-      <description>RT @mdinitz: This is a great example to me of what makes @JohnsHopkins a special place.  If I were at any other university, the probability…</description>
-      <content:encoded>RT @mdinitz: This is a great example to me of what makes @JohnsHopkins a special place.  If I were at any other university, the probability…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1656844901387042816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 02:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mdinitz: I used to think that I was "interdisciplinary" since I was a theorist who wrote some systems papers, but now I get to do *real…</title>
-      <link>https://twitter.com/rhuganir/status/1656845922440028160</link>
-      <description>RT @mdinitz: I used to think that I was "interdisciplinary" since I was a theorist who wrote some systems papers, but now I get to do *real…</description>
-      <content:encoded>RT @mdinitz: I used to think that I was "interdisciplinary" since I was a theorist who wrote some systems papers, but now I get to do *real…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1656845922440028160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 02:17:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Booked a week in Tavarua with the fam this summer. Going to really need to level up my surf skills before then. https://t.co/N5HgDNNmJC</title>
-      <link>https://twitter.com/AndrewHires/status/1656848741662609408</link>
-      <description>Booked a week in Tavarua with the fam this summer. Going to really need to level up my surf skills before then. https://t.co/N5HgDNNmJC</description>
-      <content:encoded>Booked a week in Tavarua with the fam this summer. Going to really need to level up my surf skills before then. https://t.co/N5HgDNNmJC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1656848741662609408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv5O_roacAABE9K.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 12 May 2023 02:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Article by @ponsheloise and @guillaumgrallet for @LePoint</title>
-      <link>https://twitter.com/ylecun/status/1656854942374666241</link>
-      <description>Article by @ponsheloise and @guillaumgrallet for @LePoint</description>
-      <content:encoded>Article by @ponsheloise and @guillaumgrallet for @LePoint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1656854942374666241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 02:52:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Article de @ponsheloise et @guillaumgrallet pour @LePoint</title>
-      <link>https://twitter.com/ylecun/status/1656855104035627009</link>
-      <description>Article de @ponsheloise et @guillaumgrallet pour @LePoint</description>
-      <content:encoded>Article de @ponsheloise et @guillaumgrallet pour @LePoint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1656855104035627009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 02:53:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>A mathematical model of the impact of #PublicHealth measures shows that interventions like quarantine and vaccination are more effective at protecting individuals as more members of the group take part. 
-
-Learn more in @ScienceAdvances: https://t.co/BHMiMj2BFn https://t.co/u9LC2RhXdr</title>
-      <link>https://twitter.com/ScienceMagazine/status/1656856756868218882</link>
-      <description>A mathematical model of the impact of #PublicHealth measures shows that interventions like quarantine and vaccination are more effective at protecting individuals as more members of the group take part. 
-
-Learn more in @ScienceAdvances: https://t.co/BHMiMj2BFn https://t.co/u9LC2RhXdr</description>
-      <content:encoded>A mathematical model of the impact of #PublicHealth measures shows that interventions like quarantine and vaccination are more effective at protecting individuals as more members of the group take part. 
-
-Learn more in @ScienceAdvances: https://t.co/BHMiMj2BFn https://t.co/u9LC2RhXdr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656856756868218882"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv5WcBZWAAMGAi9.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 12 May 2023 03:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @rangarajulab: Very excited to share our Rosa26 
--TurboID mouse line with the scientific community. Now available at Jax
-https://t.co/Va…</title>
-      <link>https://twitter.com/AndrewHires/status/1656870265178189827</link>
-      <description>RT @rangarajulab: Very excited to share our Rosa26 
--TurboID mouse line with the scientific community. Now available at Jax
-https://t.co/Va…</description>
-      <content:encoded>RT @rangarajulab: Very excited to share our Rosa26 
--TurboID mouse line with the scientific community. Now available at Jax
-https://t.co/Va…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1656870265178189827"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 03:53:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interesting to hear Yann LeCun's 🔥 take on fluency vs. reasoning in LLMs. Maybe we need to add a prefrontal cortex? https://t.co/BzqUVSJhlU https://t.co/hyc2acQXIV</title>
-      <link>https://twitter.com/patrickmineault/status/1656874125326004224</link>
-      <description>Interesting to hear Yann LeCun's 🔥 take on fluency vs. reasoning in LLMs. Maybe we need to add a prefrontal cortex? https://t.co/BzqUVSJhlU https://t.co/hyc2acQXIV</description>
-      <content:encoded>Interesting to hear Yann LeCun's 🔥 take on fluency vs. reasoning in LLMs. Maybe we need to add a prefrontal cortex? https://t.co/BzqUVSJhlU https://t.co/hyc2acQXIV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1656874125326004224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv5mIDDXsAAE1i5.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 12 May 2023 04:09:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DdelAlamo: "DeCOIL: Optimization of Degenerate Codon Libraries for Machine Learning-Assisted Protein Engineering"
-
-Method is "biased to…</title>
-      <link>https://twitter.com/gottapatchemall/status/1656883479643320320</link>
-      <description>RT @DdelAlamo: "DeCOIL: Optimization of Degenerate Codon Libraries for Machine Learning-Assisted Protein Engineering"
-
-Method is "biased to…</description>
-      <content:encoded>RT @DdelAlamo: "DeCOIL: Optimization of Degenerate Codon Libraries for Machine Learning-Assisted Protein Engineering"
-
-Method is "biased to…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1656883479643320320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 04:46:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @imaurer: Got #ChatGPT plugins turned on 🔥 and now I am trying to teach it some #genomics 🧬using @GenomOncology's  API. 
-
-Below are side…</title>
-      <link>https://twitter.com/sofroniewn/status/1656890198939279361</link>
-      <description>RT @imaurer: Got #ChatGPT plugins turned on 🔥 and now I am trying to teach it some #genomics 🧬using @GenomOncology's  API. 
-
-Below are side…</description>
-      <content:encoded>RT @imaurer: Got #ChatGPT plugins turned on 🔥 and now I am trying to teach it some #genomics 🧬using @GenomOncology's  API. 
-
-Below are side…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1656890198939279361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 05:13:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 May 2023 19:12:46 +0000</lastBuildDate>
     <item>
       <title>#Astronomie für alle! Aktuelle Forschung, spannende Veranstaltungen, Podcasts und Videos: Unsere Themenseite zum Wissenschaftsjahr #UnserUniversum lädt ein zum Stöbern und Verweilen. https://t.co/xawDccksUH @wissimdialog @w_jahr @_mswiss https://t.co/Tl14OWcpRb</title>
       <link>https://twitter.com/maxplanckpress/status/1656892699910328320</link>
@@ -2155,6 +2044,128 @@ Clement Vallandigham defended a man accused of murder; he accidentally shot hims
 https://t.co/Jx2iVJMd4t https://t.co/46NROjQDJ3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657087073784848389"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fv8nw9NWYBUuFs3.jpg" length="600" type="photo"/>
       <pubDate>Fri, 12 May 2023 18:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>In case you missed it, this is the total solar eclipses' umbra captured by the Japanese satellite Himawari 9 on April 20, 2023
+
+[source: https://t.co/DKotdTumdt]
+https://t.co/T49lnk7I6F</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657089259868676099</link>
+      <description>In case you missed it, this is the total solar eclipses' umbra captured by the Japanese satellite Himawari 9 on April 20, 2023
+
+[source: https://t.co/DKotdTumdt]
+https://t.co/T49lnk7I6F</description>
+      <content:encoded>In case you missed it, this is the total solar eclipses' umbra captured by the Japanese satellite Himawari 9 on April 20, 2023
+
+[source: https://t.co/DKotdTumdt]
+https://t.co/T49lnk7I6F&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657089259868676099"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FvOkRahWIAEufb-.jpg" length="600" type="photo"/>
+      <pubDate>Fri, 12 May 2023 18:24:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PopStarLab: Did you know that @BiophysJ is owned by the @BiophysicalSoc?
+The Society appoints the Editor-in-Chief and editorial Board.…</title>
+      <link>https://twitter.com/lesloew/status/1657090059802140689</link>
+      <description>RT @PopStarLab: Did you know that @BiophysJ is owned by the @BiophysicalSoc?
+The Society appoints the Editor-in-Chief and editorial Board.…</description>
+      <content:encoded>RT @PopStarLab: Did you know that @BiophysJ is owned by the @BiophysicalSoc?
+The Society appoints the Editor-in-Chief and editorial Board.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/lesloew/status/1657090059802140689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 18:27:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MariusLange8: With moscot, we map cells across time points, enrich spatial data, align tissue slides, and reconstruct spatiotemporal tr…</title>
+      <link>https://twitter.com/sofroniewn/status/1657091043303755776</link>
+      <description>RT @MariusLange8: With moscot, we map cells across time points, enrich spatial data, align tissue slides, and reconstruct spatiotemporal tr…</description>
+      <content:encoded>RT @MariusLange8: With moscot, we map cells across time points, enrich spatial data, align tissue slides, and reconstruct spatiotemporal tr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1657091043303755776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 18:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MariusLange8: Single-cell data complexity has increased: spatial resolution, multi-modal assays, and atlas-scale datasets pose new chal…</title>
+      <link>https://twitter.com/sofroniewn/status/1657091201823297537</link>
+      <description>RT @MariusLange8: Single-cell data complexity has increased: spatial resolution, multi-modal assays, and atlas-scale datasets pose new chal…</description>
+      <content:encoded>RT @MariusLange8: Single-cell data complexity has increased: spatial resolution, multi-modal assays, and atlas-scale datasets pose new chal…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1657091201823297537"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 18:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @A_Aspuru_Guzik: Yesterday @FlamShepherd and I released in  @arxiv  our very intriguing result: Despite what would be considered perhaps…</title>
+      <link>https://twitter.com/sofroniewn/status/1657091744188755968</link>
+      <description>RT @A_Aspuru_Guzik: Yesterday @FlamShepherd and I released in  @arxiv  our very intriguing result: Despite what would be considered perhaps…</description>
+      <content:encoded>RT @A_Aspuru_Guzik: Yesterday @FlamShepherd and I released in  @arxiv  our very intriguing result: Despite what would be considered perhaps…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1657091744188755968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 18:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JustinGEnglish: Our labs paper from our @NIGMS DP2, in collaboration with @OctantBio out now on BioRXiv!
+
+We want to be able to rapidly…</title>
+      <link>https://twitter.com/sofroniewn/status/1657092770224545793</link>
+      <description>RT @JustinGEnglish: Our labs paper from our @NIGMS DP2, in collaboration with @OctantBio out now on BioRXiv!
+
+We want to be able to rapidly…</description>
+      <content:encoded>RT @JustinGEnglish: Our labs paper from our @NIGMS DP2, in collaboration with @OctantBio out now on BioRXiv!
+
+We want to be able to rapidly…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1657092770224545793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 18:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study in @NatureComms finds within-day, seasonal, and regional differences in county-level power outages from 2018-20. Outages commonly co-occur with climate events. https://t.co/PU3aSKsOcl https://t.co/Y925XRSasK</title>
+      <link>https://twitter.com/NaturePortfolio/status/1657093554223603727</link>
+      <description>A study in @NatureComms finds within-day, seasonal, and regional differences in county-level power outages from 2018-20. Outages commonly co-occur with climate events. https://t.co/PU3aSKsOcl https://t.co/Y925XRSasK</description>
+      <content:encoded>A study in @NatureComms finds within-day, seasonal, and regional differences in county-level power outages from 2018-20. Outages commonly co-occur with climate events. https://t.co/PU3aSKsOcl https://t.co/Y925XRSasK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1657093554223603727"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8tyfkWYAc8POv.jpg" length="1066" type="photo"/>
+      <pubDate>Fri, 12 May 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>DARPA seeks efficient, eco-friendly &amp;amp; economical chemical methods to separate rare-earth elements from domestic sources – reducing reliance on overseas supply chains. We’re all ears for novel ideas that could scale up beyond a lab! https://t.co/b6TuMdCzyW https://t.co/2EoqVTDCyu</title>
+      <link>https://twitter.com/DARPA/status/1657097533745684482</link>
+      <description>DARPA seeks efficient, eco-friendly &amp;amp; economical chemical methods to separate rare-earth elements from domestic sources – reducing reliance on overseas supply chains. We’re all ears for novel ideas that could scale up beyond a lab! https://t.co/b6TuMdCzyW https://t.co/2EoqVTDCyu</description>
+      <content:encoded>DARPA seeks efficient, eco-friendly &amp;amp; economical chemical methods to separate rare-earth elements from domestic sources – reducing reliance on overseas supply chains. We’re all ears for novel ideas that could scale up beyond a lab! https://t.co/b6TuMdCzyW https://t.co/2EoqVTDCyu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1657097533745684482"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8xbQBWYAww3_t.png" length="579" type="photo"/>
+      <pubDate>Fri, 12 May 2023 18:56:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Check out 4️⃣ innovative approaches to removing carbon dioxide from the atmosphere + how they can help the world combat https://t.co/d4vVOZZtAf #ClimateChange</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1657098345830047747</link>
+      <description>Check out 4️⃣ innovative approaches to removing carbon dioxide from the atmosphere + how they can help the world combat https://t.co/d4vVOZZtAf #ClimateChange</description>
+      <content:encoded>Check out 4️⃣ innovative approaches to removing carbon dioxide from the atmosphere + how they can help the world combat https://t.co/d4vVOZZtAf #ClimateChange&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1657098345830047747"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 19:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>In 1985, a company in Sucre, Bolivia stopped mining due to a weak sediment. Once eroded, it revealed a vertical wall covered in 70 million-year-old dinosaur footprints.
+
+The world's largest dinosaur footprint park
+
+[read more: https://t.co/PArHpRRWaV]
+https://t.co/ugViwtg3Bv</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657098649485074472</link>
+      <description>In 1985, a company in Sucre, Bolivia stopped mining due to a weak sediment. Once eroded, it revealed a vertical wall covered in 70 million-year-old dinosaur footprints.
+
+The world's largest dinosaur footprint park
+
+[read more: https://t.co/PArHpRRWaV]
+https://t.co/ugViwtg3Bv</description>
+      <content:encoded>In 1985, a company in Sucre, Bolivia stopped mining due to a weak sediment. Once eroded, it revealed a vertical wall covered in 70 million-year-old dinosaur footprints.
+
+The world's largest dinosaur footprint park
+
+[read more: https://t.co/PArHpRRWaV]
+https://t.co/ugViwtg3Bv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657098649485074472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/882276032702820352/pu/img/FXrQVBtqvrPu2nwj.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 19:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Common mechanisms underlying axonal transport deficits in neurodegenerative diseases: a mini review: Many neurodegenerative diseases including Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral… #Molecular #Neuroscience https://t.co/OamlheAVIm</title>
+      <link>https://twitter.com/FrontNeurosci/status/1657099465281671168</link>
+      <description>New Research: Common mechanisms underlying axonal transport deficits in neurodegenerative diseases: a mini review: Many neurodegenerative diseases including Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral… #Molecular #Neuroscience https://t.co/OamlheAVIm</description>
+      <content:encoded>New Research: Common mechanisms underlying axonal transport deficits in neurodegenerative diseases: a mini review: Many neurodegenerative diseases including Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral… #Molecular #Neuroscience https://t.co/OamlheAVIm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1657099465281671168"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 19:04:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ArkarupBanerjee: Join us @CSHL! DM/email me if interested. Please spread the word. https://t.co/8ttMA2bZJq</title>
+      <link>https://twitter.com/bartulem/status/1657101198086881280</link>
+      <description>RT @ArkarupBanerjee: Join us @CSHL! DM/email me if interested. Please spread the word. https://t.co/8ttMA2bZJq</description>
+      <content:encoded>RT @ArkarupBanerjee: Join us @CSHL! DM/email me if interested. Please spread the word. https://t.co/8ttMA2bZJq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bartulem/status/1657101198086881280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv4fZYZWwAAs4Wg.jpg" length="702" type="photo"/>
+      <pubDate>Fri, 12 May 2023 19:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
