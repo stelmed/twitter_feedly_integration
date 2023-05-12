@@ -6,296 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 May 2023 16:20:24 +0000</lastBuildDate>
-    <item>
-      <title>Follow this project on Neurostars: https://t.co/oJakWMklXu
-
-#python #pydra #GSoC #neuroscience #neuroinformatics #OpenScience</title>
-      <link>https://twitter.com/INCForg/status/1656747538391658504</link>
-      <description>Follow this project on Neurostars: https://t.co/oJakWMklXu
-
-#python #pydra #GSoC #neuroscience #neuroinformatics #OpenScience</description>
-      <content:encoded>Follow this project on Neurostars: https://t.co/oJakWMklXu
-
-#python #pydra #GSoC #neuroscience #neuroinformatics #OpenScience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1656747538391658504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 19:46:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Excited to announce that I’ve hired a new CEO for X/Twitter. She will be starting in ~6 weeks!
-
-My role will transition to being exec chair &amp;amp; CTO, overseeing product, software &amp;amp; sysops. https://t.co/VBozZ0fceu</title>
-      <link>https://twitter.com/elonmusk/status/1656748197308674048</link>
-      <description>Excited to announce that I’ve hired a new CEO for X/Twitter. She will be starting in ~6 weeks!
-
-My role will transition to being exec chair &amp;amp; CTO, overseeing product, software &amp;amp; sysops. https://t.co/VBozZ0fceu</description>
-      <content:encoded>Excited to announce that I’ve hired a new CEO for X/Twitter. She will be starting in ~6 weeks!
-
-My role will transition to being exec chair &amp;amp; CTO, overseeing product, software &amp;amp; sysops. https://t.co/VBozZ0fceu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1656748197308674048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 19:48:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AnnDeCraemer: Dankjewel, lieve Karl.  https://t.co/7S7GdYECwK</title>
-      <link>https://twitter.com/avdjeugd/status/1656751478873157654</link>
-      <description>RT @AnnDeCraemer: Dankjewel, lieve Karl.  https://t.co/7S7GdYECwK</description>
-      <content:encoded>RT @AnnDeCraemer: Dankjewel, lieve Karl.  https://t.co/7S7GdYECwK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1656751478873157654"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>pFl Strep-sumo-TEV-hAgo2 D597N
-Depositor: Leemor Joshua-Tor @leemorj
-Purpose: Expressing catalytically inactive human Argonaute-2 in insect cells
-
-https://t.co/1ecqBKId0E https://t.co/TtzzRldoBW</title>
-      <link>https://twitter.com/Addgene/status/1656752553143541760</link>
-      <description>pFl Strep-sumo-TEV-hAgo2 D597N
-Depositor: Leemor Joshua-Tor @leemorj
-Purpose: Expressing catalytically inactive human Argonaute-2 in insect cells
-
-https://t.co/1ecqBKId0E https://t.co/TtzzRldoBW</description>
-      <content:encoded>pFl Strep-sumo-TEV-hAgo2 D597N
-Depositor: Leemor Joshua-Tor @leemorj
-Purpose: Expressing catalytically inactive human Argonaute-2 in insect cells
-
-https://t.co/1ecqBKId0E https://t.co/TtzzRldoBW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1656752553143541760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fv33p7QWcAYPEjd.jpg" length="480" type="photo"/>
-      <pubDate>Thu, 11 May 2023 20:06:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @bbceurovision: I wasn't going to go out tonight but then Gustaph 
-
-#Eurovision2023 https://t.co/sMMMc8sTsP</title>
-      <link>https://twitter.com/avdjeugd/status/1656753581955923968</link>
-      <description>RT @bbceurovision: I wasn't going to go out tonight but then Gustaph 
-
-#Eurovision2023 https://t.co/sMMMc8sTsP</description>
-      <content:encoded>RT @bbceurovision: I wasn't going to go out tonight but then Gustaph 
-
-#Eurovision2023 https://t.co/sMMMc8sTsP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1656753581955923968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1656743860658208775/pu/img/m_2Y148oPp9a_Kkf.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 11 May 2023 20:10:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Going beyond “the guy from Buffalo.” 
-
-Team of scientists, incl. Allen Distinguished Investigator Evan Eichler, are building a @HumanPangenome, a more diverse reference genome that so far includes 47 people from around the world. #FrontierScience https://t.co/zHqmysHjW0</title>
-      <link>https://twitter.com/AllenInstitute/status/1656755307719061527</link>
-      <description>Going beyond “the guy from Buffalo.” 
-
-Team of scientists, incl. Allen Distinguished Investigator Evan Eichler, are building a @HumanPangenome, a more diverse reference genome that so far includes 47 people from around the world. #FrontierScience https://t.co/zHqmysHjW0</description>
-      <content:encoded>Going beyond “the guy from Buffalo.” 
-
-Team of scientists, incl. Allen Distinguished Investigator Evan Eichler, are building a @HumanPangenome, a more diverse reference genome that so far includes 47 people from around the world. #FrontierScience https://t.co/zHqmysHjW0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1656755307719061527"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:17:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AnthropicAI: Introducing 100K Context Windows! We’ve expanded Claude’s context window to 100,000 tokens of text, corresponding to aroun…</title>
-      <link>https://twitter.com/sofroniewn/status/1656759167334625280</link>
-      <description>RT @AnthropicAI: Introducing 100K Context Windows! We’ve expanded Claude’s context window to 100,000 tokens of text, corresponding to aroun…</description>
-      <content:encoded>RT @AnthropicAI: Introducing 100K Context Windows! We’ve expanded Claude’s context window to 100,000 tokens of text, corresponding to aroun…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1656759167334625280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:32:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎉 Announcing the release of one of the largest datasets of ASL fingerspelling videos and a Kaggle ML competition awarding ML engineers who develop the most accurate ASL fingerspelling translation models using MediaPipe and TFLite. 
-
-Jump in ➡️ https://t.co/bpq28K9HUa https://t.co/WrApAZSHXy</title>
-      <link>https://twitter.com/TensorFlow/status/1656759192487620631</link>
-      <description>🎉 Announcing the release of one of the largest datasets of ASL fingerspelling videos and a Kaggle ML competition awarding ML engineers who develop the most accurate ASL fingerspelling translation models using MediaPipe and TFLite. 
-
-Jump in ➡️ https://t.co/bpq28K9HUa https://t.co/WrApAZSHXy</description>
-      <content:encoded>🎉 Announcing the release of one of the largest datasets of ASL fingerspelling videos and a Kaggle ML competition awarding ML engineers who develop the most accurate ASL fingerspelling translation models using MediaPipe and TFLite. 
-
-Jump in ➡️ https://t.co/bpq28K9HUa https://t.co/WrApAZSHXy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1656759192487620631"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv39rmKWcBUX3pV.png" length="1200" type="photo"/>
-      <pubDate>Thu, 11 May 2023 20:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @BeckyJordan321: Our lab has multiple positions available: https://t.co/P0MuARMXZv https://t.co/k1BLo8ukLN</title>
-      <link>https://twitter.com/georg98keller/status/1656760270482468870</link>
-      <description>RT @BeckyJordan321: Our lab has multiple positions available: https://t.co/P0MuARMXZv https://t.co/k1BLo8ukLN</description>
-      <content:encoded>RT @BeckyJordan321: Our lab has multiple positions available: https://t.co/P0MuARMXZv https://t.co/k1BLo8ukLN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/georg98keller/status/1656760270482468870"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv2HM2aWcAEFH2I.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 11 May 2023 20:36:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a clean energy future will require a lot of new wires—the U.S. will need to grow the grid by almost two-thirds its current size in the next decade. https://t.co/XFkonneN3X</title>
-      <link>https://twitter.com/BillGates/status/1656761693190651906</link>
-      <description>Building a clean energy future will require a lot of new wires—the U.S. will need to grow the grid by almost two-thirds its current size in the next decade. https://t.co/XFkonneN3X</description>
-      <content:encoded>Building a clean energy future will require a lot of new wires—the U.S. will need to grow the grid by almost two-thirds its current size in the next decade. https://t.co/XFkonneN3X&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1656761693190651906"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:42:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JakeYeston: Also in @ScienceMagazine this week, Di-Jia Liu and collaborators at @argonne raise activity and stability of cobalt electro…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1656761707480379406</link>
-      <description>RT @JakeYeston: Also in @ScienceMagazine this week, Di-Jia Liu and collaborators at @argonne raise activity and stability of cobalt electro…</description>
-      <content:encoded>RT @JakeYeston: Also in @ScienceMagazine this week, Di-Jia Liu and collaborators at @argonne raise activity and stability of cobalt electro…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656761707480379406"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:42:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AlzData: Applications are now open for the William H. Gates Sr. Fellowship from the AD Data Initiative! The two-year fellowship will su…</title>
-      <link>https://twitter.com/BillGates/status/1656761885746950144</link>
-      <description>RT @AlzData: Applications are now open for the William H. Gates Sr. Fellowship from the AD Data Initiative! The two-year fellowship will su…</description>
-      <content:encoded>RT @AlzData: Applications are now open for the William H. Gates Sr. Fellowship from the AD Data Initiative! The two-year fellowship will su…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1656761885746950144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @tijd: Alleen Bulgarije en Slovakije dieper in het rood dan België https://t.co/CJYZhU4P2a</title>
-      <link>https://twitter.com/avdjeugd/status/1656761886841401345</link>
-      <description>RT @tijd: Alleen Bulgarije en Slovakije dieper in het rood dan België https://t.co/CJYZhU4P2a</description>
-      <content:encoded>RT @tijd: Alleen Bulgarije en Slovakije dieper in het rood dan België https://t.co/CJYZhU4P2a&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1656761886841401345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 20:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>A study in @NatMentHealth finds that social media use is one of the least influential factors of adolescent mental health, with others—such as bullying, lack of family support and school work dissatisfaction—exhibiting stronger associations. https://t.co/2V2sD0gIs4 https://t.co/sPPsEGNLVt</title>
-      <link>https://twitter.com/NaturePortfolio/status/1656763630661120000</link>
-      <description>A study in @NatMentHealth finds that social media use is one of the least influential factors of adolescent mental health, with others—such as bullying, lack of family support and school work dissatisfaction—exhibiting stronger associations. https://t.co/2V2sD0gIs4 https://t.co/sPPsEGNLVt</description>
-      <content:encoded>A study in @NatMentHealth finds that social media use is one of the least influential factors of adolescent mental health, with others—such as bullying, lack of family support and school work dissatisfaction—exhibiting stronger associations. https://t.co/2V2sD0gIs4 https://t.co/sPPsEGNLVt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1656763630661120000"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv4Bua_WAAMEy8h.jpg" length="1066" type="photo"/>
-      <pubDate>Thu, 11 May 2023 20:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Flexible Refinement (3DFlex): a generative neural network model for mapping continuous molecular heterogeneity for cryo-EM data. It can be used to determine the structure and motion of flexible biomolecules, and enables visualization of nonrigid motion. https://t.co/TRMJ5aEWaY https://t.co/vSSq8qBS5h</title>
-      <link>https://twitter.com/naturemethods/status/1656765690550923267</link>
-      <description>3D Flexible Refinement (3DFlex): a generative neural network model for mapping continuous molecular heterogeneity for cryo-EM data. It can be used to determine the structure and motion of flexible biomolecules, and enables visualization of nonrigid motion. https://t.co/TRMJ5aEWaY https://t.co/vSSq8qBS5h</description>
-      <content:encoded>3D Flexible Refinement (3DFlex): a generative neural network model for mapping continuous molecular heterogeneity for cryo-EM data. It can be used to determine the structure and motion of flexible biomolecules, and enables visualization of nonrigid motion. https://t.co/TRMJ5aEWaY https://t.co/vSSq8qBS5h&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1656765690550923267"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv4DMGxaMAM3HPi.png" length="672" type="photo"/>
-      <pubDate>Thu, 11 May 2023 20:58:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Science: The time delays between multiple images of Supernova Refsdal, produced by gravitational lensing, provide a new measurement of the Hubble constant, which quantifies the expansion rate of the Universe.
-
-Learn more ➡️ https://t.co/lvUQURV9aW https://t.co/xWeH8NFPwp</title>
-      <link>https://twitter.com/ScienceMagazine/status/1656766218940850176</link>
-      <description>New in Science: The time delays between multiple images of Supernova Refsdal, produced by gravitational lensing, provide a new measurement of the Hubble constant, which quantifies the expansion rate of the Universe.
-
-Learn more ➡️ https://t.co/lvUQURV9aW https://t.co/xWeH8NFPwp</description>
-      <content:encoded>New in Science: The time delays between multiple images of Supernova Refsdal, produced by gravitational lensing, provide a new measurement of the Hubble constant, which quantifies the expansion rate of the Universe.
-
-Learn more ➡️ https://t.co/lvUQURV9aW https://t.co/xWeH8NFPwp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1656766218940850176"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv4EF0oaMAE8Dks.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 11 May 2023 21:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>English version here.
-https://t.co/2FIXqhtiZK</title>
-      <link>https://twitter.com/ylecun/status/1656769885530214400</link>
-      <description>English version here.
-https://t.co/2FIXqhtiZK</description>
-      <content:encoded>English version here.
-https://t.co/2FIXqhtiZK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1656769885530214400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 21:14:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>If we were to show that Bayesian behavior happens in real-world sports situations. Which would be more convincing? In VR we can animate a whole stadium+realistic competitor. In reality, we could shoot real balls with a machine (but have no competitor). What is more convincing?</title>
-      <link>https://twitter.com/KordingLab/status/1656770751574441984</link>
-      <description>If we were to show that Bayesian behavior happens in real-world sports situations. Which would be more convincing? In VR we can animate a whole stadium+realistic competitor. In reality, we could shoot real balls with a machine (but have no competitor). What is more convincing?</description>
-      <content:encoded>If we were to show that Bayesian behavior happens in real-world sports situations. Which would be more convincing? In VR we can animate a whole stadium+realistic competitor. In reality, we could shoot real balls with a machine (but have no competitor). What is more convincing?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1656770751574441984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 21:18:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>"The annihilation of democracy or new age of Enlightenment? Best-seller Sapiens author Yuval Noah Harari and Meta head of research Yann LeCun debate."
-
-https://t.co/2FIXqhtiZK</title>
-      <link>https://twitter.com/ylecun/status/1656772237196685312</link>
-      <description>"The annihilation of democracy or new age of Enlightenment? Best-seller Sapiens author Yuval Noah Harari and Meta head of research Yann LeCun debate."
-
-https://t.co/2FIXqhtiZK</description>
-      <content:encoded>"The annihilation of democracy or new age of Enlightenment? Best-seller Sapiens author Yuval Noah Harari and Meta head of research Yann LeCun debate."
-
-https://t.co/2FIXqhtiZK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1656772237196685312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 21:24:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Looking to break into the field of AI and ML? 
-
-Professor @drfeifei offers some valuable advice in her conversation with @AndrewYNg, highlighting the diverse entry points into the field and the importance of passion.👇 https://t.co/M5sLQU4ggV</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1656776812251185158</link>
-      <description>Looking to break into the field of AI and ML? 
-
-Professor @drfeifei offers some valuable advice in her conversation with @AndrewYNg, highlighting the diverse entry points into the field and the importance of passion.👇 https://t.co/M5sLQU4ggV</description>
-      <content:encoded>Looking to break into the field of AI and ML? 
-
-Professor @drfeifei offers some valuable advice in her conversation with @AndrewYNg, highlighting the diverse entry points into the field and the importance of passion.👇 https://t.co/M5sLQU4ggV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1656776812251185158"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 21:42:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JakeOrthwein: 📺 Very interesting talk from @blamlab at the recent “AI and the Barrier of Meaning” conference at SFI.
-
-He suggests that…</title>
-      <link>https://twitter.com/blamlab/status/1656778916676218881</link>
-      <description>RT @JakeOrthwein: 📺 Very interesting talk from @blamlab at the recent “AI and the Barrier of Meaning” conference at SFI.
-
-He suggests that…</description>
-      <content:encoded>RT @JakeOrthwein: 📺 Very interesting talk from @blamlab at the recent “AI and the Barrier of Meaning” conference at SFI.
-
-He suggests that…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1656778916676218881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 21:50:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Check out our latest demo of reaction timer, neuroprosthetics and human bridge experiments from this year's @TEDxOporto back in March!
-⏬⏬⏬
-https://t.co/RdnytQ3zQS https://t.co/8dUlSvOHeO</title>
-      <link>https://twitter.com/BackyardBrains/status/1656779211896418306</link>
-      <description>Check out our latest demo of reaction timer, neuroprosthetics and human bridge experiments from this year's @TEDxOporto back in March!
-⏬⏬⏬
-https://t.co/RdnytQ3zQS https://t.co/8dUlSvOHeO</description>
-      <content:encoded>Check out our latest demo of reaction timer, neuroprosthetics and human bridge experiments from this year's @TEDxOporto back in March!
-⏬⏬⏬
-https://t.co/RdnytQ3zQS https://t.co/8dUlSvOHeO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BackyardBrains/status/1656779211896418306"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv36y3vWcAwb9e9.jpg" length="1080" type="photo"/>
-      <pubDate>Thu, 11 May 2023 21:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Jo8renn: Excited to announce the first part of my thesis work, now available @NeuroCellPress: 
-
-A genetically defined tecto-thalamic pa…</title>
-      <link>https://twitter.com/guy_bouvier/status/1656779610510757889</link>
-      <description>RT @Jo8renn: Excited to announce the first part of my thesis work, now available @NeuroCellPress: 
-
-A genetically defined tecto-thalamic pa…</description>
-      <content:encoded>RT @Jo8renn: Excited to announce the first part of my thesis work, now available @NeuroCellPress: 
-
-A genetically defined tecto-thalamic pa…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/guy_bouvier/status/1656779610510757889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 21:53:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palantir, an analytics company with military and intelligence clientele, showcased a chatbot capable of analyzing battlefield activity, releasing drones, and suggesting plans of action. 
-
-Learn more in #TheBatch: https://t.co/s5Wgf5FABT</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1656781221223964672</link>
-      <description>Palantir, an analytics company with military and intelligence clientele, showcased a chatbot capable of analyzing battlefield activity, releasing drones, and suggesting plans of action. 
-
-Learn more in #TheBatch: https://t.co/s5Wgf5FABT</description>
-      <content:encoded>Palantir, an analytics company with military and intelligence clientele, showcased a chatbot capable of analyzing battlefield activity, releasing drones, and suggesting plans of action. 
-
-Learn more in #TheBatch: https://t.co/s5Wgf5FABT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1656781221223964672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 11 May 2023 21:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our #CellLineOfTheWeek is titin! 🫀🧫
-
-Our human iPS cell lines &amp;amp; plasmids – fluorescently-tagged to illuminate structures – are openly available to accelerate discovery: https://t.co/QCetZaSS0V
-
-📦 Distributed by @Coriell_Science &amp;amp; @Addgene.
-
-#OpenScience https://t.co/2siht6E75e</title>
-      <link>https://twitter.com/AllenInstitute/status/1656790536374689793</link>
-      <description>Our #CellLineOfTheWeek is titin! 🫀🧫
-
-Our human iPS cell lines &amp;amp; plasmids – fluorescently-tagged to illuminate structures – are openly available to accelerate discovery: https://t.co/QCetZaSS0V
-
-📦 Distributed by @Coriell_Science &amp;amp; @Addgene.
-
-#OpenScience https://t.co/2siht6E75e</description>
-      <content:encoded>Our #CellLineOfTheWeek is titin! 🫀🧫
-
-Our human iPS cell lines &amp;amp; plasmids – fluorescently-tagged to illuminate structures – are openly available to accelerate discovery: https://t.co/QCetZaSS0V
-
-📦 Distributed by @Coriell_Science &amp;amp; @Addgene.
-
-#OpenScience https://t.co/2siht6E75e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1656790536374689793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1557426239782080513/img/jxsiE0pygtOboN67.jpg" length="1080" type="photo"/>
-      <pubDate>Thu, 11 May 2023 22:37:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 May 2023 17:13:48 +0000</lastBuildDate>
     <item>
       <title>If you are going to the @CAN_ACN meeting in Montreal, save the Tuesday evening (May 30) for a circus-themed meet up (tweet-up)! Details to come soon... https://t.co/TliyyxrQQW</title>
       <link>https://twitter.com/andpru/status/1656791308520882177</link>
@@ -2205,6 +1916,235 @@ https://t.co/EZOpcQZ0mp https://t.co/7eyTbVsmqR</description>
 https://t.co/EZOpcQZ0mp https://t.co/7eyTbVsmqR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1657058055291273228"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fv8NhOJXoAIDNey.jpg" length="1200" type="photo"/>
       <pubDate>Fri, 12 May 2023 16:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Light conditions during Atlantic salmon embryogenesis affect key neuropeptides in the melanocortin system during transition from endogenous to exogenous feeding: During the first feeding period, fish will adapt to exogenous… #neuroscience https://t.co/xQjAAHUJ1r</title>
+      <link>https://twitter.com/FrontNeurosci/status/1657058443650555910</link>
+      <description>New Research: Light conditions during Atlantic salmon embryogenesis affect key neuropeptides in the melanocortin system during transition from endogenous to exogenous feeding: During the first feeding period, fish will adapt to exogenous… #neuroscience https://t.co/xQjAAHUJ1r</description>
+      <content:encoded>New Research: Light conditions during Atlantic salmon embryogenesis affect key neuropeptides in the melanocortin system during transition from endogenous to exogenous feeding: During the first feeding period, fish will adapt to exogenous… #neuroscience https://t.co/xQjAAHUJ1r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1657058443650555910"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 16:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DesplanLab: We are delighted to share that coming in November 2023, Neşet Özel will be starting his lab at Stowers Institute. The Özel…</title>
+      <link>https://twitter.com/furthlab/status/1657059019385602057</link>
+      <description>RT @DesplanLab: We are delighted to share that coming in November 2023, Neşet Özel will be starting his lab at Stowers Institute. The Özel…</description>
+      <content:encoded>RT @DesplanLab: We are delighted to share that coming in November 2023, Neşet Özel will be starting his lab at Stowers Institute. The Özel…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1657059019385602057"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 16:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fossils of brontotheres, or “thunder beasts”—an extinct lineage of herbivorous rhinoceros-like mammals—reveal a macroevolutionary pathway to the early and rapid evolution of massive herbivorous mammals.
+
+Learn more in Science: https://t.co/zUY2VSsixu #FossilFriday https://t.co/mLBGME9B4G</title>
+      <link>https://twitter.com/ScienceMagazine/status/1657060617205821441</link>
+      <description>Fossils of brontotheres, or “thunder beasts”—an extinct lineage of herbivorous rhinoceros-like mammals—reveal a macroevolutionary pathway to the early and rapid evolution of massive herbivorous mammals.
+
+Learn more in Science: https://t.co/zUY2VSsixu #FossilFriday https://t.co/mLBGME9B4G</description>
+      <content:encoded>Fossils of brontotheres, or “thunder beasts”—an extinct lineage of herbivorous rhinoceros-like mammals—reveal a macroevolutionary pathway to the early and rapid evolution of massive herbivorous mammals.
+
+Learn more in Science: https://t.co/zUY2VSsixu #FossilFriday https://t.co/mLBGME9B4G&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1657060617205821441"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8P2UMXsAAPKv2.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 16:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to easily clean silver using common household items: hot water, baking soda, salt, and an aluminum foil. It works thanks to electrolysis
+
+[read more: https://t.co/gtbIzfhRIM] 
+[source: https://t.co/v7kuZwnB6t]
+https://t.co/Jk8qq9RmKj</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657061246250754048</link>
+      <description>How to easily clean silver using common household items: hot water, baking soda, salt, and an aluminum foil. It works thanks to electrolysis
+
+[read more: https://t.co/gtbIzfhRIM] 
+[source: https://t.co/v7kuZwnB6t]
+https://t.co/Jk8qq9RmKj</description>
+      <content:encoded>How to easily clean silver using common household items: hot water, baking soda, salt, and an aluminum foil. It works thanks to electrolysis
+
+[read more: https://t.co/gtbIzfhRIM] 
+[source: https://t.co/v7kuZwnB6t]
+https://t.co/Jk8qq9RmKj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657061246250754048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1367244402188550144/pu/img/wK11XRW6L5opmsFe.jpg" length="1024" type="photo"/>
+      <pubDate>Fri, 12 May 2023 16:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>.@Nature reports on how autistic advocates and scientists are still fighting for a chance to set clinical and scientific priorities despite broader acceptance of neurodiversity. https://t.co/NpxqPy9A65</title>
+      <link>https://twitter.com/NaturePortfolio/status/1657061321420963845</link>
+      <description>.@Nature reports on how autistic advocates and scientists are still fighting for a chance to set clinical and scientific priorities despite broader acceptance of neurodiversity. https://t.co/NpxqPy9A65</description>
+      <content:encoded>.@Nature reports on how autistic advocates and scientists are still fighting for a chance to set clinical and scientific priorities despite broader acceptance of neurodiversity. https://t.co/NpxqPy9A65&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1657061321420963845"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 16:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subscribing to this account unlocks long tweets with in-depth coverage of science subjects documented with sources and references
+
+At the moment it's 1 tweet a day.  
+
+Today a take on John Searle's Chinese Room &amp;amp; the real feasibility of AGI
+
+The account's routine doesn't change https://t.co/c7G80IJU40</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657063988402831360</link>
+      <description>Subscribing to this account unlocks long tweets with in-depth coverage of science subjects documented with sources and references
+
+At the moment it's 1 tweet a day.  
+
+Today a take on John Searle's Chinese Room &amp;amp; the real feasibility of AGI
+
+The account's routine doesn't change https://t.co/c7G80IJU40</description>
+      <content:encoded>Subscribing to this account unlocks long tweets with in-depth coverage of science subjects documented with sources and references
+
+At the moment it's 1 tweet a day.  
+
+Today a take on John Searle's Chinese Room &amp;amp; the real feasibility of AGI
+
+The account's routine doesn't change https://t.co/c7G80IJU40&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657063988402831360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1657063664392830976/pu/img/XsmXEzI8sMlNPuBO.jpg" length="612" type="photo"/>
+      <pubDate>Fri, 12 May 2023 16:43:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>@Rainmaker1973 I subscribed! This is one of the best accounts on the platform.</title>
+      <link>https://twitter.com/elonmusk/status/1657064453157060608</link>
+      <description>@Rainmaker1973 I subscribed! This is one of the best accounts on the platform.</description>
+      <content:encoded>@Rainmaker1973 I subscribed! This is one of the best accounts on the platform.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1657064453157060608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 16:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk Wow! Many thanks, Elon!</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657065537162051595</link>
+      <description>@elonmusk Wow! Many thanks, Elon!</description>
+      <content:encoded>@elonmusk Wow! Many thanks, Elon!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657065537162051595"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 16:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social navigation: distance and grid-like codes support navigation of abstract social space in the human brain https://t.co/DCqJEECSaF</title>
+      <link>https://twitter.com/bxv_neurosci/status/1657068255964725248</link>
+      <description>Social navigation: distance and grid-like codes support navigation of abstract social space in the human brain https://t.co/DCqJEECSaF</description>
+      <content:encoded>Social navigation: distance and grid-like codes support navigation of abstract social space in the human brain https://t.co/DCqJEECSaF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1657068255964725248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 17:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Do Visual Category Representations Emerge in Infants' Brains? https://t.co/gEHWcrbxsT</title>
+      <link>https://twitter.com/bxv_neurosci/status/1657068261362774018</link>
+      <description>When Do Visual Category Representations Emerge in Infants' Brains? https://t.co/gEHWcrbxsT</description>
+      <content:encoded>When Do Visual Category Representations Emerge in Infants' Brains? https://t.co/gEHWcrbxsT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1657068261362774018"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 17:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hippocampal contextualization of social rewards https://t.co/IblVvwNLWe</title>
+      <link>https://twitter.com/bxv_neurosci/status/1657068267188670464</link>
+      <description>Hippocampal contextualization of social rewards https://t.co/IblVvwNLWe</description>
+      <content:encoded>Hippocampal contextualization of social rewards https://t.co/IblVvwNLWe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1657068267188670464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 17:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Team work makes the move work! 👏👏👏 https://t.co/6FhhEHUNn6</title>
+      <link>https://twitter.com/AllenInstitute/status/1657069078769704968</link>
+      <description>Team work makes the move work! 👏👏👏 https://t.co/6FhhEHUNn6</description>
+      <content:encoded>Team work makes the move work! 👏👏👏 https://t.co/6FhhEHUNn6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1657069078769704968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 17:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a cool paper: they train physical systems to perform neural-network-style computations. How does that work? 1/ https://t.co/vaM2eVsxMf https://t.co/5gGV1l8YlW</title>
+      <link>https://twitter.com/patrickmineault/status/1657069321351200773</link>
+      <description>This is a cool paper: they train physical systems to perform neural-network-style computations. How does that work? 1/ https://t.co/vaM2eVsxMf https://t.co/5gGV1l8YlW</description>
+      <content:encoded>This is a cool paper: they train physical systems to perform neural-network-style computations. How does that work? 1/ https://t.co/vaM2eVsxMf https://t.co/5gGV1l8YlW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657069321351200773"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8R39nWAAMY8-U.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 17:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The first thing we need to know is that there are several ways physical systems can compute convolutions. Linear-time-invariant systems implement causal temporal convolutions. Fourier optics implement spatial convolutions physically. 2/ https://t.co/4Q7QGu0DFq</title>
+      <link>https://twitter.com/patrickmineault/status/1657069323632902144</link>
+      <description>The first thing we need to know is that there are several ways physical systems can compute convolutions. Linear-time-invariant systems implement causal temporal convolutions. Fourier optics implement spatial convolutions physically. 2/ https://t.co/4Q7QGu0DFq</description>
+      <content:encoded>The first thing we need to know is that there are several ways physical systems can compute convolutions. Linear-time-invariant systems implement causal temporal convolutions. Fourier optics implement spatial convolutions physically. 2/ https://t.co/4Q7QGu0DFq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657069323632902144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8TKyXWcAI0omg.png" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 17:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>So if we have convolutions and nothing else... we can already get linear (convolution-based) classifiers. They use this to demo an MNIST-based classifier leveraging the transfer function of a speaker, oscillating plate and microphone. 3/ https://t.co/NTIjGuTYpy</title>
+      <link>https://twitter.com/patrickmineault/status/1657069325566476288</link>
+      <description>So if we have convolutions and nothing else... we can already get linear (convolution-based) classifiers. They use this to demo an MNIST-based classifier leveraging the transfer function of a speaker, oscillating plate and microphone. 3/ https://t.co/NTIjGuTYpy</description>
+      <content:encoded>So if we have convolutions and nothing else... we can already get linear (convolution-based) classifiers. They use this to demo an MNIST-based classifier leveraging the transfer function of a speaker, oscillating plate and microphone. 3/ https://t.co/NTIjGuTYpy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657069325566476288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8TobuWAA8gW2J.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 17:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unroll 2-d digits as waveforms, play them back through the speaker, the plate distorts the sound, which is recorded by the microphone. They cheat a bit by having trainable in-silico element-wise scalings. But you could imagine having physical adjustable elements instead. 4/ https://t.co/xfqudYGfBK</title>
+      <link>https://twitter.com/patrickmineault/status/1657069327848177677</link>
+      <description>Unroll 2-d digits as waveforms, play them back through the speaker, the plate distorts the sound, which is recorded by the microphone. They cheat a bit by having trainable in-silico element-wise scalings. But you could imagine having physical adjustable elements instead. 4/ https://t.co/xfqudYGfBK</description>
+      <content:encoded>Unroll 2-d digits as waveforms, play them back through the speaker, the plate distorts the sound, which is recorded by the microphone. They cheat a bit by having trainable in-silico element-wise scalings. But you could imagine having physical adjustable elements instead. 4/ https://t.co/xfqudYGfBK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657069327848177677"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8Uqf6WwAA34Ai.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 17:04:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>That system is linear, so it's not very useful (gets 87% MNIST accuracy). It's also very easy to train because we can fully characterize the LTI system using classical systems identification methods and calculate the optimal weights that way. 5/</title>
+      <link>https://twitter.com/patrickmineault/status/1657069329886728192</link>
+      <description>That system is linear, so it's not very useful (gets 87% MNIST accuracy). It's also very easy to train because we can fully characterize the LTI system using classical systems identification methods and calculate the optimal weights that way. 5/</description>
+      <content:encoded>That system is linear, so it's not very useful (gets 87% MNIST accuracy). It's also very easy to train because we can fully characterize the LTI system using classical systems identification methods and calculate the optimal weights that way. 5/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657069329886728192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 17:04:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>They move on to harder systems, including nonlinear optics systems and nonlinear oscillators. These systems are nonlinear, so can compute useful things, and are also harder to characterize and train. They still use convolutions as their core operation 6/ https://t.co/UFiXnTdK5V</title>
+      <link>https://twitter.com/patrickmineault/status/1657069331207815188</link>
+      <description>They move on to harder systems, including nonlinear optics systems and nonlinear oscillators. These systems are nonlinear, so can compute useful things, and are also harder to characterize and train. They still use convolutions as their core operation 6/ https://t.co/UFiXnTdK5V</description>
+      <content:encoded>They move on to harder systems, including nonlinear optics systems and nonlinear oscillators. These systems are nonlinear, so can compute useful things, and are also harder to characterize and train. They still use convolutions as their core operation 6/ https://t.co/UFiXnTdK5V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657069331207815188"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8VndhWAAcZm4S.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 17:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to train then? They do the forward pass with the physical systems. But you can't backdrop through physical systems. Instead, they backprop through an in silico model of the system built through nonlinear systems identification. 7/ https://t.co/8VayXEwLEk</title>
+      <link>https://twitter.com/patrickmineault/status/1657069333053423617</link>
+      <description>How to train then? They do the forward pass with the physical systems. But you can't backdrop through physical systems. Instead, they backprop through an in silico model of the system built through nonlinear systems identification. 7/ https://t.co/8VayXEwLEk</description>
+      <content:encoded>How to train then? They do the forward pass with the physical systems. But you can't backdrop through physical systems. Instead, they backprop through an in silico model of the system built through nonlinear systems identification. 7/ https://t.co/8VayXEwLEk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657069333053423617"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8VysMWAAY7DVI.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 17:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The fact that they use a forward pass through the physical system means their error vector is "correct", even if their digital model is not quite accurate. But of course the digital model is necessary for backprop, otherwise they'd need finite differences, which doesn't scale. 8/</title>
+      <link>https://twitter.com/patrickmineault/status/1657069335058305025</link>
+      <description>The fact that they use a forward pass through the physical system means their error vector is "correct", even if their digital model is not quite accurate. But of course the digital model is necessary for backprop, otherwise they'd need finite differences, which doesn't scale. 8/</description>
+      <content:encoded>The fact that they use a forward pass through the physical system means their error vector is "correct", even if their digital model is not quite accurate. But of course the digital model is necessary for backprop, otherwise they'd need finite differences, which doesn't scale. 8/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657069335058305025"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 17:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>At 97% accuracy on MNIST, this is not about to bankrupt NVIDIA. But there are some interesting ideas in there about controlling non-differentiable physical systems (like the brain!) through hybrid physical/ANN modelling and alternatives to backprop. 9/9 https://t.co/sD8uKJKrr0</title>
+      <link>https://twitter.com/patrickmineault/status/1657069336442306585</link>
+      <description>At 97% accuracy on MNIST, this is not about to bankrupt NVIDIA. But there are some interesting ideas in there about controlling non-differentiable physical systems (like the brain!) through hybrid physical/ANN modelling and alternatives to backprop. 9/9 https://t.co/sD8uKJKrr0</description>
+      <content:encoded>At 97% accuracy on MNIST, this is not about to bankrupt NVIDIA. But there are some interesting ideas in there about controlling non-differentiable physical systems (like the brain!) through hybrid physical/ANN modelling and alternatives to backprop. 9/9 https://t.co/sD8uKJKrr0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657069336442306585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8XDBMWAAcEY3d.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 17:04:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Join us in something important and new”: In her inaugural address, President Sally Kornbluth urges the MIT community to tackle pressing challenges, especially climate change, with renewed urgency. https://t.co/5nPyAtwGm9 https://t.co/I38sYjTFKS</title>
+      <link>https://twitter.com/MIT/status/1657069437751525389</link>
+      <description>“Join us in something important and new”: In her inaugural address, President Sally Kornbluth urges the MIT community to tackle pressing challenges, especially climate change, with renewed urgency. https://t.co/5nPyAtwGm9 https://t.co/I38sYjTFKS</description>
+      <content:encoded>“Join us in something important and new”: In her inaugural address, President Sally Kornbluth urges the MIT community to tackle pressing challenges, especially climate change, with renewed urgency. https://t.co/5nPyAtwGm9 https://t.co/I38sYjTFKS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1657069437751525389"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv8X300WAAkC74v.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 12 May 2023 17:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Labs can be polyglot.@IlariaTesta4 @deniswirtz Wolf-Dietrich Heyer @ucdavis Ronen Segev @LsBgu @aurelepiazza @ENSdeLyon recommend in @metricausa’s Lab &amp;amp; Life column how to celebrate lab languages and practice inclusion.  https://t.co/AS6RhwmDSc</title>
+      <link>https://twitter.com/naturemethods/status/1657069439173394449</link>
+      <description>Labs can be polyglot.@IlariaTesta4 @deniswirtz Wolf-Dietrich Heyer @ucdavis Ronen Segev @LsBgu @aurelepiazza @ENSdeLyon recommend in @metricausa’s Lab &amp;amp; Life column how to celebrate lab languages and practice inclusion.  https://t.co/AS6RhwmDSc</description>
+      <content:encoded>Labs can be polyglot.@IlariaTesta4 @deniswirtz Wolf-Dietrich Heyer @ucdavis Ronen Segev @LsBgu @aurelepiazza @ENSdeLyon recommend in @metricausa’s Lab &amp;amp; Life column how to celebrate lab languages and practice inclusion.  https://t.co/AS6RhwmDSc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1657069439173394449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 17:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PhD_Genie: A PhD candidate after the submission of the thesis.
+
+https://t.co/4LGJkJNzrh</title>
+      <link>https://twitter.com/PessoaBrain/status/1657070973655318541</link>
+      <description>RT @PhD_Genie: A PhD candidate after the submission of the thesis.
+
+https://t.co/4LGJkJNzrh</description>
+      <content:encoded>RT @PhD_Genie: A PhD candidate after the submission of the thesis.
+
+https://t.co/4LGJkJNzrh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1657070973655318541"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1656254062269018112/pu/img/-wxqpbL6GtcaHMtL.jpg" length="464" type="photo"/>
+      <pubDate>Fri, 12 May 2023 17:11:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @RIngthorss: The paperback has been out forever but it only got real yesterday when I got complimentary copies. No one tempted to write…</title>
+      <link>https://twitter.com/PessoaBrain/status/1657071441211260928</link>
+      <description>RT @RIngthorss: The paperback has been out forever but it only got real yesterday when I got complimentary copies. No one tempted to write…</description>
+      <content:encoded>RT @RIngthorss: The paperback has been out forever but it only got real yesterday when I got complimentary copies. No one tempted to write…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1657071441211260928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 12 May 2023 17:13:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
