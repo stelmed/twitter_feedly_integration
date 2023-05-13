@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 May 2023 04:18:59 +0000</lastBuildDate>
-    <item>
-      <title>@KordingLab What are a few examples, papers?</title>
-      <link>https://twitter.com/PessoaBrain/status/1657000011916353538</link>
-      <description>@KordingLab What are a few examples, papers?</description>
-      <content:encoded>@KordingLab What are a few examples, papers?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1657000011916353538"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 12:29:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 May 2023 05:14:39 +0000</lastBuildDate>
     <item>
       <title>RT @elenacerdan: 🎉 Festival PINT OF SCIENCE
 
@@ -1946,6 +1939,20 @@ spending my entire day…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="htt
       <description>Time-resolved network control analysis links reduced control energy under DMT with the serotonin 2a receptor, signal diversity, and ...  https://t.co/3vU7OdyY9Q #biorxiv_neursci</description>
       <content:encoded>Time-resolved network control analysis links reduced control energy under DMT with the serotonin 2a receptor, signal diversity, and ...  https://t.co/3vU7OdyY9Q #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1657238117923815425"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 13 May 2023 04:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raptor V3 just achieved 350 bar chamber pressure (269 tons of thrust). Congrats to @SpaceX propulsion team!
+
+Starship Super Heavy Booster has 33 Raptors, so total thrust of 8877 tons or 19.5 million pounds. https://t.co/ZlskpCXUmu</title>
+      <link>https://twitter.com/elonmusk/status/1657249739925258240</link>
+      <description>Raptor V3 just achieved 350 bar chamber pressure (269 tons of thrust). Congrats to @SpaceX propulsion team!
+
+Starship Super Heavy Booster has 33 Raptors, so total thrust of 8877 tons or 19.5 million pounds. https://t.co/ZlskpCXUmu</description>
+      <content:encoded>Raptor V3 just achieved 350 bar chamber pressure (269 tons of thrust). Congrats to @SpaceX propulsion team!
+
+Starship Super Heavy Booster has 33 Raptors, so total thrust of 8877 tons or 19.5 million pounds. https://t.co/ZlskpCXUmu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1657249739925258240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv-71ShakAIJlUe.jpg" length="1141" type="photo"/>
+      <pubDate>Sat, 13 May 2023 05:01:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
