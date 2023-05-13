@@ -6,89 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 May 2023 07:14:01 +0000</lastBuildDate>
-    <item>
-      <title>Kaboom! https://t.co/iJsHryg90o</title>
-      <link>https://twitter.com/tegmark/status/1657003424494305282</link>
-      <description>Kaboom! https://t.co/iJsHryg90o</description>
-      <content:encoded>Kaboom! https://t.co/iJsHryg90o&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1657003424494305282"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 12:42:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>XTC is a supervised deep-learning-based image restoration approach for in vivo synaptic plasticity studies, trained with images from different modalities. XTC’s capabilities are shown for synapse tracking in the mouse brain.
-@BaselessPursuit @Jere_je_je https://t.co/WKGhuVwz04 https://t.co/IGU9IpD5Hb</title>
-      <link>https://twitter.com/naturemethods/status/1657003943489159168</link>
-      <description>XTC is a supervised deep-learning-based image restoration approach for in vivo synaptic plasticity studies, trained with images from different modalities. XTC’s capabilities are shown for synapse tracking in the mouse brain.
-@BaselessPursuit @Jere_je_je https://t.co/WKGhuVwz04 https://t.co/IGU9IpD5Hb</description>
-      <content:encoded>XTC is a supervised deep-learning-based image restoration approach for in vivo synaptic plasticity studies, trained with images from different modalities. XTC’s capabilities are shown for synapse tracking in the mouse brain.
-@BaselessPursuit @Jere_je_je https://t.co/WKGhuVwz04 https://t.co/IGU9IpD5Hb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1657003943489159168"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv4CiSvaMAYhi1T.jpg" length="949" type="photo"/>
-      <pubDate>Fri, 12 May 2023 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>@PessoaBrain Here is a fun one https://t.co/FwXftOuQAL</title>
-      <link>https://twitter.com/KordingLab/status/1657004029287845889</link>
-      <description>@PessoaBrain Here is a fun one https://t.co/FwXftOuQAL</description>
-      <content:encoded>@PessoaBrain Here is a fun one https://t.co/FwXftOuQAL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1657004029287845889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 12:45:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>An accessory cloud can often be seen just above Mount Teide’s summit. Such cloud formations are always attention-getting, such as this lenticular cloud, staying in the same spot for hours 
-
-[full video, Bartosz Wojczyński: https://t.co/C5zTUuSYGI] 
-https://t.co/GVM81bBytw</title>
-      <link>https://twitter.com/Rainmaker1973/status/1657004261064990723</link>
-      <description>An accessory cloud can often be seen just above Mount Teide’s summit. Such cloud formations are always attention-getting, such as this lenticular cloud, staying in the same spot for hours 
-
-[full video, Bartosz Wojczyński: https://t.co/C5zTUuSYGI] 
-https://t.co/GVM81bBytw</description>
-      <content:encoded>An accessory cloud can often be seen just above Mount Teide’s summit. Such cloud formations are always attention-getting, such as this lenticular cloud, staying in the same spot for hours 
-
-[full video, Bartosz Wojczyński: https://t.co/C5zTUuSYGI] 
-https://t.co/GVM81bBytw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657004261064990723"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1308004855861084165/pu/img/8txQD5qRBafHWW1y.jpg" length="720" type="photo"/>
-      <pubDate>Fri, 12 May 2023 12:46:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>@PessoaBrain @manlius84 @KordingLab Why we, common mortals, cannot see this response?? https://t.co/hQIQncn9Yg</title>
-      <link>https://twitter.com/stelmed/status/1657005154921504770</link>
-      <description>@PessoaBrain @manlius84 @KordingLab Why we, common mortals, cannot see this response?? https://t.co/hQIQncn9Yg</description>
-      <content:encoded>@PessoaBrain @manlius84 @KordingLab Why we, common mortals, cannot see this response?? https://t.co/hQIQncn9Yg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stelmed/status/1657005154921504770"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv7dZmSXwAMGzGL.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 12 May 2023 12:49:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JustinGEnglish: There's a bunch more in the paper. We hope you like it! The important things to mention are:
-1. The library is availabl…</title>
-      <link>https://twitter.com/Addgene/status/1657005338669772800</link>
-      <description>RT @JustinGEnglish: There's a bunch more in the paper. We hope you like it! The important things to mention are:
-1. The library is availabl…</description>
-      <content:encoded>RT @JustinGEnglish: There's a bunch more in the paper. We hope you like it! The important things to mention are:
-1. The library is availabl…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1657005338669772800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 12:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>I can offer a fox 🦊 more a visitor than a companion but that’s a continuum https://t.co/pfBz8KX1bW https://t.co/R0NyuXocXw</title>
-      <link>https://twitter.com/KordingLab/status/1657006777886466048</link>
-      <description>I can offer a fox 🦊 more a visitor than a companion but that’s a continuum https://t.co/pfBz8KX1bW https://t.co/R0NyuXocXw</description>
-      <content:encoded>I can offer a fox 🦊 more a visitor than a companion but that’s a continuum https://t.co/pfBz8KX1bW https://t.co/R0NyuXocXw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1657006777886466048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv7e4SmXgAIWxdR.jpg" length="900" type="photo"/>
-      <pubDate>Fri, 12 May 2023 12:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎥 Tune in for a compelling conversation with #STEM visionary Dr. Freeman A. Hrabowski III, &amp;amp; Ron Vale, @HHMIJanelia's executive director.
-
-Dr. Hrabowski's transformative leadership in science education &amp;amp; his efforts to boost diversity in STEM inspired HHMI's #FHScholars program. https://t.co/R4n5e6uI2b https://t.co/G6bFRJfNgF</title>
-      <link>https://twitter.com/HHMINEWS/status/1657007747320229889</link>
-      <description>🎥 Tune in for a compelling conversation with #STEM visionary Dr. Freeman A. Hrabowski III, &amp;amp; Ron Vale, @HHMIJanelia's executive director.
-
-Dr. Hrabowski's transformative leadership in science education &amp;amp; his efforts to boost diversity in STEM inspired HHMI's #FHScholars program. https://t.co/R4n5e6uI2b https://t.co/G6bFRJfNgF</description>
-      <content:encoded>🎥 Tune in for a compelling conversation with #STEM visionary Dr. Freeman A. Hrabowski III, &amp;amp; Ron Vale, @HHMIJanelia's executive director.
-
-Dr. Hrabowski's transformative leadership in science education &amp;amp; his efforts to boost diversity in STEM inspired HHMI's #FHScholars program. https://t.co/R4n5e6uI2b https://t.co/G6bFRJfNgF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1657007747320229889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv7fwcrXoAEhXZo.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 12 May 2023 13:00:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 May 2023 08:18:33 +0000</lastBuildDate>
     <item>
       <title>Have you already saved the date? https://t.co/9vc7ddriIO</title>
       <link>https://twitter.com/PostdocUmu/status/1657007822452715520</link>
@@ -1905,14 +1823,6 @@ Starship Super Heavy Booster has 33 Raptors, so total thrust of 8877 tons or 19.
       <pubDate>Sat, 13 May 2023 05:45:23 +0000</pubDate>
     </item>
     <item>
-      <title>https://t.co/Zjn6r15lrR</title>
-      <link>https://twitter.com/elonmusk/status/1657261624867299339</link>
-      <description>https://t.co/Zjn6r15lrR</description>
-      <content:encoded>https://t.co/Zjn6r15lrR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1657261624867299339"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv_GpGoaUAAVrfo.jpg" length="1073" type="photo"/>
-      <pubDate>Sat, 13 May 2023 05:48:56 +0000</pubDate>
-    </item>
-    <item>
       <title>Born #Today in 1888, Inge Lehmann was the first true female geophysicist in the world. She discovered that the Earth has a solid inner core inside a molten outer core, identifying the Lehmann Discontinuity in the seismic structure of the Earth [read more: https://t.co/IaoSrwjxq0] https://t.co/oXhr9k7wgb</title>
       <link>https://twitter.com/Rainmaker1973/status/1657275757964476416</link>
       <description>Born #Today in 1888, Inge Lehmann was the first true female geophysicist in the world. She discovered that the Earth has a solid inner core inside a molten outer core, identifying the Lehmann Discontinuity in the seismic structure of the Earth [read more: https://t.co/IaoSrwjxq0] https://t.co/oXhr9k7wgb</description>
@@ -1933,6 +1843,144 @@ https://t.co/ZAaDgN1cT3 https://t.co/uklwzKfHkj</description>
 https://t.co/ZAaDgN1cT3 https://t.co/uklwzKfHkj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657278570878627841"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fv_V778WAAQX_go.jpg" length="312" type="photo"/>
       <pubDate>Sat, 13 May 2023 06:56:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a zooming in on a single ommatidium (one cellular column) in the eye of a mosquito 
+
+[full video, Mathew Tizard: https://t.co/dpkErHqHyx]
+https://t.co/e7HOXdMUBC</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657283544752742400</link>
+      <description>This is a zooming in on a single ommatidium (one cellular column) in the eye of a mosquito 
+
+[full video, Mathew Tizard: https://t.co/dpkErHqHyx]
+https://t.co/e7HOXdMUBC</description>
+      <content:encoded>This is a zooming in on a single ommatidium (one cellular column) in the eye of a mosquito 
+
+[full video, Mathew Tizard: https://t.co/dpkErHqHyx]
+https://t.co/e7HOXdMUBC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657283544752742400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1550535967819300869/pu/img/jQXFAA7SX5NLiVir.jpg" length="480" type="photo"/>
+      <pubDate>Sat, 13 May 2023 07:16:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk @zerohedge You know, it's like rockets.
+You test it, it blows up, you tweak it, and try it again.
+You keep iterating until it becomes safe enough to deploy and make people's well-being depend on it.</title>
+      <link>https://twitter.com/ylecun/status/1657285129188810752</link>
+      <description>@elonmusk @zerohedge You know, it's like rockets.
+You test it, it blows up, you tweak it, and try it again.
+You keep iterating until it becomes safe enough to deploy and make people's well-being depend on it.</description>
+      <content:encoded>@elonmusk @zerohedge You know, it's like rockets.
+You test it, it blows up, you tweak it, and try it again.
+You keep iterating until it becomes safe enough to deploy and make people's well-being depend on it.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1657285129188810752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 13 May 2023 07:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>A clue to the catalytic activation of splicing https://t.co/OZdebkSOZ9 https://t.co/dDuljuo220</title>
+      <link>https://twitter.com/NatureNV/status/1657285289927114752</link>
+      <description>A clue to the catalytic activation of splicing https://t.co/OZdebkSOZ9 https://t.co/dDuljuo220</description>
+      <content:encoded>A clue to the catalytic activation of splicing https://t.co/OZdebkSOZ9 https://t.co/dDuljuo220&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1657285289927114752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv_cMGHWYAA0Y_8.jpg" length="1024" type="photo"/>
+      <pubDate>Sat, 13 May 2023 07:22:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>How do #migratorybirds find their way? 
+
+ERC grantees Henrik Mouritsen &amp;amp; Peter Hore show how 🐦sense the #geomagnetic field to help them navigate, contributing to a 🆕 scientific field: #QuantumBiology.
+
+👉 https://t.co/NWJ931rNF0
+
+#WMBD2023 #Magneticcompass #Biodiversity #ERCSyG https://t.co/sxZL01r1T1</title>
+      <link>https://twitter.com/ERC_Research/status/1657287116257382402</link>
+      <description>How do #migratorybirds find their way? 
+
+ERC grantees Henrik Mouritsen &amp;amp; Peter Hore show how 🐦sense the #geomagnetic field to help them navigate, contributing to a 🆕 scientific field: #QuantumBiology.
+
+👉 https://t.co/NWJ931rNF0
+
+#WMBD2023 #Magneticcompass #Biodiversity #ERCSyG https://t.co/sxZL01r1T1</description>
+      <content:encoded>How do #migratorybirds find their way? 
+
+ERC grantees Henrik Mouritsen &amp;amp; Peter Hore show how 🐦sense the #geomagnetic field to help them navigate, contributing to a 🆕 scientific field: #QuantumBiology.
+
+👉 https://t.co/NWJ931rNF0
+
+#WMBD2023 #Magneticcompass #Biodiversity #ERCSyG https://t.co/sxZL01r1T1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1657287116257382402"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1657287062712909826/pu/img/stux0CSPO5qlL5e_.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 13 May 2023 07:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York, Lower Manhattan Waterfront, 1930s
+
+The original film has been motion-stabilized, speed-corrected, AI enhanced and AI colorized
+
+[original source, HD, landscape view, Rick88888888: https://t.co/3ar9RZQK33]
+https://t.co/Bg8zBWTecP</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657287590251319297</link>
+      <description>New York, Lower Manhattan Waterfront, 1930s
+
+The original film has been motion-stabilized, speed-corrected, AI enhanced and AI colorized
+
+[original source, HD, landscape view, Rick88888888: https://t.co/3ar9RZQK33]
+https://t.co/Bg8zBWTecP</description>
+      <content:encoded>New York, Lower Manhattan Waterfront, 1930s
+
+The original film has been motion-stabilized, speed-corrected, AI enhanced and AI colorized
+
+[original source, HD, landscape view, Rick88888888: https://t.co/3ar9RZQK33]
+https://t.co/Bg8zBWTecP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657287590251319297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1603593047438147585/pu/img/vayTmU3y32gZXclR.jpg" length="406" type="photo"/>
+      <pubDate>Sat, 13 May 2023 07:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>📢Call for survey participants - please share📢
+
+Help our Infrastructure Committee ID barriers to worldwide neuroscience data sharing &amp;amp; reuse - fill in this survey &amp;amp; help develop strategies for community support!
+
+Survey: https://t.co/os1qK5D7RB
+More info: https://t.co/OurBEYsP83 https://t.co/gPrA0bhxbS</title>
+      <link>https://twitter.com/INCForg/status/1657288064874561536</link>
+      <description>📢Call for survey participants - please share📢
+
+Help our Infrastructure Committee ID barriers to worldwide neuroscience data sharing &amp;amp; reuse - fill in this survey &amp;amp; help develop strategies for community support!
+
+Survey: https://t.co/os1qK5D7RB
+More info: https://t.co/OurBEYsP83 https://t.co/gPrA0bhxbS</description>
+      <content:encoded>📢Call for survey participants - please share📢
+
+Help our Infrastructure Committee ID barriers to worldwide neuroscience data sharing &amp;amp; reuse - fill in this survey &amp;amp; help develop strategies for community support!
+
+Survey: https://t.co/os1qK5D7RB
+More info: https://t.co/OurBEYsP83 https://t.co/gPrA0bhxbS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1657288064874561536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv7Z-mAX0AAgmcU.jpg" length="500" type="photo"/>
+      <pubDate>Sat, 13 May 2023 07:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is #fasting before #extubation necessary? Paul H Mayo and Karan Singh look at @stephanehrmann @CHRU_Tours et al.’s study in @LancetRespirMed that challenges current practice and suggests a potential alternative #gastrointestinal #nutrition 
+
+https://t.co/PDPsMU2ffS https://t.co/szYdFvN7Cz</title>
+      <link>https://twitter.com/Facultyopinions/status/1657289578062008321</link>
+      <description>Is #fasting before #extubation necessary? Paul H Mayo and Karan Singh look at @stephanehrmann @CHRU_Tours et al.’s study in @LancetRespirMed that challenges current practice and suggests a potential alternative #gastrointestinal #nutrition 
+
+https://t.co/PDPsMU2ffS https://t.co/szYdFvN7Cz</description>
+      <content:encoded>Is #fasting before #extubation necessary? Paul H Mayo and Karan Singh look at @stephanehrmann @CHRU_Tours et al.’s study in @LancetRespirMed that challenges current practice and suggests a potential alternative #gastrointestinal #nutrition 
+
+https://t.co/PDPsMU2ffS https://t.co/szYdFvN7Cz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1657289578062008321"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv_gFpdWAAELecb.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 13 May 2023 07:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cliffs of Moher are located at the southwestern edge of the Burren region in County Clare, Ireland: they run for about 14 km. At their southern end, they rise 120 mabove the Atlantic Ocean 
+
+[photo by Max Malloy, IG: https://t.co/8pE8OCue1C, site: https://t.co/8BEDGw9TKJ] https://t.co/mXfoWvtaKY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657291816234827776</link>
+      <description>The Cliffs of Moher are located at the southwestern edge of the Burren region in County Clare, Ireland: they run for about 14 km. At their southern end, they rise 120 mabove the Atlantic Ocean 
+
+[photo by Max Malloy, IG: https://t.co/8pE8OCue1C, site: https://t.co/8BEDGw9TKJ] https://t.co/mXfoWvtaKY</description>
+      <content:encoded>The Cliffs of Moher are located at the southwestern edge of the Burren region in County Clare, Ireland: they run for about 14 km. At their southern end, they rise 120 mabove the Atlantic Ocean 
+
+[photo by Max Malloy, IG: https://t.co/8pE8OCue1C, site: https://t.co/8BEDGw9TKJ] https://t.co/mXfoWvtaKY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657291816234827776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fv_h7G1WYAEOHpf.jpg" length="960" type="photo"/>
+      <pubDate>Sat, 13 May 2023 07:48:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
