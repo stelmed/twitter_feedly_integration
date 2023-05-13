@@ -6,71 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 May 2023 21:12:50 +0000</lastBuildDate>
-    <item>
-      <title>Especially when authors are non-native English speakers... it doesn't sit right
-#PeerReview</title>
-      <link>https://twitter.com/MargolisLab/status/1657086022608646144</link>
-      <description>Especially when authors are non-native English speakers... it doesn't sit right
-#PeerReview</description>
-      <content:encoded>Especially when authors are non-native English speakers... it doesn't sit right
-#PeerReview&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MargolisLab/status/1657086022608646144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 18:11:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>When the scientific empircism enters the court (the wrong way). 
-
-Clement Vallandigham defended a man accused of murder; he accidentally shot himself dead while demonstrating how the victim might have accidentally done the same. But his client was cleared
-
-https://t.co/Jx2iVJMd4t https://t.co/46NROjQDJ3</title>
-      <link>https://twitter.com/Rainmaker1973/status/1657087073784848389</link>
-      <description>When the scientific empircism enters the court (the wrong way). 
-
-Clement Vallandigham defended a man accused of murder; he accidentally shot himself dead while demonstrating how the victim might have accidentally done the same. But his client was cleared
-
-https://t.co/Jx2iVJMd4t https://t.co/46NROjQDJ3</description>
-      <content:encoded>When the scientific empircism enters the court (the wrong way). 
-
-Clement Vallandigham defended a man accused of murder; he accidentally shot himself dead while demonstrating how the victim might have accidentally done the same. But his client was cleared
-
-https://t.co/Jx2iVJMd4t https://t.co/46NROjQDJ3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657087073784848389"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv8nw9NWYBUuFs3.jpg" length="600" type="photo"/>
-      <pubDate>Fri, 12 May 2023 18:15:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>In case you missed it, this is the total solar eclipses' umbra captured by the Japanese satellite Himawari 9 on April 20, 2023
-
-[source: https://t.co/DKotdTumdt]
-https://t.co/T49lnk7I6F</title>
-      <link>https://twitter.com/Rainmaker1973/status/1657089259868676099</link>
-      <description>In case you missed it, this is the total solar eclipses' umbra captured by the Japanese satellite Himawari 9 on April 20, 2023
-
-[source: https://t.co/DKotdTumdt]
-https://t.co/T49lnk7I6F</description>
-      <content:encoded>In case you missed it, this is the total solar eclipses' umbra captured by the Japanese satellite Himawari 9 on April 20, 2023
-
-[source: https://t.co/DKotdTumdt]
-https://t.co/T49lnk7I6F&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657089259868676099"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FvOkRahWIAEufb-.jpg" length="600" type="photo"/>
-      <pubDate>Fri, 12 May 2023 18:24:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @PopStarLab: Did you know that @BiophysJ is owned by the @BiophysicalSoc?
-The Society appoints the Editor-in-Chief and editorial Board.…</title>
-      <link>https://twitter.com/lesloew/status/1657090059802140689</link>
-      <description>RT @PopStarLab: Did you know that @BiophysJ is owned by the @BiophysicalSoc?
-The Society appoints the Editor-in-Chief and editorial Board.…</description>
-      <content:encoded>RT @PopStarLab: Did you know that @BiophysJ is owned by the @BiophysicalSoc?
-The Society appoints the Editor-in-Chief and editorial Board.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/lesloew/status/1657090059802140689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 18:27:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MariusLange8: With moscot, we map cells across time points, enrich spatial data, align tissue slides, and reconstruct spatiotemporal tr…</title>
-      <link>https://twitter.com/sofroniewn/status/1657091043303755776</link>
-      <description>RT @MariusLange8: With moscot, we map cells across time points, enrich spatial data, align tissue slides, and reconstruct spatiotemporal tr…</description>
-      <content:encoded>RT @MariusLange8: With moscot, we map cells across time points, enrich spatial data, align tissue slides, and reconstruct spatiotemporal tr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1657091043303755776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 18:31:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 May 2023 22:14:09 +0000</lastBuildDate>
     <item>
       <title>RT @MariusLange8: Single-cell data complexity has increased: spatial resolution, multi-modal assays, and atlas-scale datasets pose new chal…</title>
       <link>https://twitter.com/sofroniewn/status/1657091201823297537</link>
@@ -2055,6 +1991,49 @@ https://t.co/mt3afNBX72 https://t.co/0a2WEoa33n&lt;blockquote class="twitter-twe
       <description>I bought a Nokia phone today and apparently it’s the fashion again. Man, I missed the haptic experience. https://t.co/yevfXSqbnA</description>
       <content:encoded>I bought a Nokia phone today and apparently it’s the fashion again. Man, I missed the haptic experience. https://t.co/yevfXSqbnA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/koen_vervaeke/status/1657493762463920128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 13 May 2023 21:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @anvaka: Map of @github have arrived. Hope you enjoy it:
+
+https://t.co/WzoBuevSxk https://t.co/nrywLr2lUf</title>
+      <link>https://twitter.com/sofroniewn/status/1657500798992146433</link>
+      <description>RT @anvaka: Map of @github have arrived. Hope you enjoy it:
+
+https://t.co/WzoBuevSxk https://t.co/nrywLr2lUf</description>
+      <content:encoded>RT @anvaka: Map of @github have arrived. Hope you enjoy it:
+
+https://t.co/WzoBuevSxk https://t.co/nrywLr2lUf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1657500798992146433"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1657416151759196160/pu/img/nVQfbEVDOYV2GmJA.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 13 May 2023 21:39:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @haesleinhuepf: Welcome to Moleculandia 🤯 https://t.co/YoFc1RINhH</title>
+      <link>https://twitter.com/sofroniewn/status/1657500891036135424</link>
+      <description>RT @haesleinhuepf: Welcome to Moleculandia 🤯 https://t.co/YoFc1RINhH</description>
+      <content:encoded>RT @haesleinhuepf: Welcome to Moleculandia 🤯 https://t.co/YoFc1RINhH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1657500891036135424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 13 May 2023 21:39:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detectors that encode angles of incoming light as colour https://t.co/mQafqYHZj4</title>
+      <link>https://twitter.com/NatureNV/status/1657501716449828865</link>
+      <description>Detectors that encode angles of incoming light as colour https://t.co/mQafqYHZj4</description>
+      <content:encoded>Detectors that encode angles of incoming light as colour https://t.co/mQafqYHZj4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1657501716449828865"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 13 May 2023 21:42:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>TIL https://t.co/MgJKcXnc6C</title>
+      <link>https://twitter.com/AndrewHires/status/1657502270026846208</link>
+      <description>TIL https://t.co/MgJKcXnc6C</description>
+      <content:encoded>TIL https://t.co/MgJKcXnc6C&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1657502270026846208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 13 May 2023 21:45:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major concern for ai risk debate: $$=power. And $$ ultimately comes from problems people pay to solve. ai is very limited in its impact on almost all these areas. And ai $$ ultimately comes from making these things better/ cheaper for humans. +ai supply lowers $$ through compet. https://t.co/zrSgg8286x</title>
+      <link>https://twitter.com/KordingLab/status/1657503752750870528</link>
+      <description>Major concern for ai risk debate: $$=power. And $$ ultimately comes from problems people pay to solve. ai is very limited in its impact on almost all these areas. And ai $$ ultimately comes from making these things better/ cheaper for humans. +ai supply lowers $$ through compet. https://t.co/zrSgg8286x</description>
+      <content:encoded>Major concern for ai risk debate: $$=power. And $$ ultimately comes from problems people pay to solve. ai is very limited in its impact on almost all these areas. And ai $$ ultimately comes from making these things better/ cheaper for humans. +ai supply lowers $$ through compet. https://t.co/zrSgg8286x&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1657503752750870528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwCi4MyWwAEbwJz.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 13 May 2023 21:51:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
