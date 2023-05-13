@@ -6,65 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 May 2023 19:11:56 +0000</lastBuildDate>
-    <item>
-      <title>RT @PhD_Genie: A PhD candidate after the submission of the thesis.
-
-https://t.co/4LGJkJNzrh</title>
-      <link>https://twitter.com/PessoaBrain/status/1657070973655318541</link>
-      <description>RT @PhD_Genie: A PhD candidate after the submission of the thesis.
-
-https://t.co/4LGJkJNzrh</description>
-      <content:encoded>RT @PhD_Genie: A PhD candidate after the submission of the thesis.
-
-https://t.co/4LGJkJNzrh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1657070973655318541"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1656254062269018112/pu/img/-wxqpbL6GtcaHMtL.jpg" length="464" type="photo"/>
-      <pubDate>Fri, 12 May 2023 17:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @RIngthorss: The paperback has been out forever but it only got real yesterday when I got complimentary copies. No one tempted to write…</title>
-      <link>https://twitter.com/PessoaBrain/status/1657071441211260928</link>
-      <description>RT @RIngthorss: The paperback has been out forever but it only got real yesterday when I got complimentary copies. No one tempted to write…</description>
-      <content:encoded>RT @RIngthorss: The paperback has been out forever but it only got real yesterday when I got complimentary copies. No one tempted to write…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1657071441211260928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 17:13:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @meharpist: Interested in submitting a registered report to @nature but have questions about the format or why it's not yet offered for…</title>
-      <link>https://twitter.com/chrisdc77/status/1657074382500397075</link>
-      <description>RT @meharpist: Interested in submitting a registered report to @nature but have questions about the format or why it's not yet offered for…</description>
-      <content:encoded>RT @meharpist: Interested in submitting a registered report to @nature but have questions about the format or why it's not yet offered for…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1657074382500397075"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 17:24:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>“I want to give people a safe space to find joy and beauty.” 
-
-San Francisco Bay Area artist Lauren Yurkovich’s drawings invite us to share in her passion and awe for the world around us. Her work is part of a new @rwcpaf art exhibit in our Community Space https://t.co/jF80SvSTHt</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1657075702439477255</link>
-      <description>“I want to give people a safe space to find joy and beauty.” 
-
-San Francisco Bay Area artist Lauren Yurkovich’s drawings invite us to share in her passion and awe for the world around us. Her work is part of a new @rwcpaf art exhibit in our Community Space https://t.co/jF80SvSTHt</description>
-      <content:encoded>“I want to give people a safe space to find joy and beauty.” 
-
-San Francisco Bay Area artist Lauren Yurkovich’s drawings invite us to share in her passion and awe for the world around us. Her work is part of a new @rwcpaf art exhibit in our Community Space https://t.co/jF80SvSTHt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1657075702439477255"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv8dkUsWAAok_56.jpg" length="960" type="photo"/>
-      <pubDate>Fri, 12 May 2023 17:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volatile-rich kimberlite magmas may be transported to the surface by broad mantle upwellings located above mobile basal mantle structures, according to global models of mantle convection over the past 200 million years reported in @NatureGeosci. 🔒 https://t.co/qzV7Ir23do https://t.co/jKtKJrP9c5</title>
-      <link>https://twitter.com/NaturePortfolio/status/1657077448234655754</link>
-      <description>Volatile-rich kimberlite magmas may be transported to the surface by broad mantle upwellings located above mobile basal mantle structures, according to global models of mantle convection over the past 200 million years reported in @NatureGeosci. 🔒 https://t.co/qzV7Ir23do https://t.co/jKtKJrP9c5</description>
-      <content:encoded>Volatile-rich kimberlite magmas may be transported to the surface by broad mantle upwellings located above mobile basal mantle structures, according to global models of mantle convection over the past 200 million years reported in @NatureGeosci. 🔒 https://t.co/qzV7Ir23do https://t.co/jKtKJrP9c5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1657077448234655754"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv8fJAZWYAQeGW7.jpg" length="1000" type="photo"/>
-      <pubDate>Fri, 12 May 2023 17:37:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>#FridayFunday https://t.co/pUJNFLHeyx</title>
-      <link>https://twitter.com/Rainmaker1973/status/1657080947454492673</link>
-      <description>#FridayFunday https://t.co/pUJNFLHeyx</description>
-      <content:encoded>#FridayFunday https://t.co/pUJNFLHeyx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657080947454492673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv8iJ69WYA4z_6h.jpg" length="1080" type="photo"/>
-      <pubDate>Fri, 12 May 2023 17:50:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 May 2023 20:16:26 +0000</lastBuildDate>
     <item>
       <title>RT @virginiog: Espectacular vista de una neurona en 3D
 
@@ -2054,6 +1996,66 @@ The impact of variation in parental caregiving has lasting implications for the�
       <description>RT @RFreeman_Lab: Getting ready to chair the Triangle Soft Matter Workshop on Monday with @Alex_Zhuko and @Frank_Leibfarth bringing togethe…</description>
       <content:encoded>RT @RFreeman_Lab: Getting ready to chair the Triangle Soft Matter Workshop on Monday with @Alex_Zhuko and @Frank_Leibfarth bringing togethe…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/UNC_Optics/status/1657462886938148865"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 13 May 2023 19:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @liza_okorokova: What a crazy journey! Grateful for my wonderful PI and lab for the best 7 years of my life! 🥹 https://t.co/h6QRrYmlnY</title>
+      <link>https://twitter.com/jdlieber/status/1657463717104164864</link>
+      <description>RT @liza_okorokova: What a crazy journey! Grateful for my wonderful PI and lab for the best 7 years of my life! 🥹 https://t.co/h6QRrYmlnY</description>
+      <content:encoded>RT @liza_okorokova: What a crazy journey! Grateful for my wonderful PI and lab for the best 7 years of my life! 🥹 https://t.co/h6QRrYmlnY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jdlieber/status/1657463717104164864"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 13 May 2023 19:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odds that something like this is already happening in a remote us gov training facility? https://t.co/PMY1KEC80K</title>
+      <link>https://twitter.com/AndrewHires/status/1657464589158854656</link>
+      <description>Odds that something like this is already happening in a remote us gov training facility? https://t.co/PMY1KEC80K</description>
+      <content:encoded>Odds that something like this is already happening in a remote us gov training facility? https://t.co/PMY1KEC80K&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1657464589158854656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 13 May 2023 19:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maj. László 'Szatyi' Szatmári renews his qualification on JAS-39 Gripen in the centrifuge. In this clip, he endures 9Gs of acceleration for 30 seconds
+
+[full video (2017): https://t.co/5VMRMtCZa3]
+[full video (2013): https://t.co/mOPoHT7Q0M]
+https://t.co/RiYwp8dVfW</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657467572848148482</link>
+      <description>Maj. László 'Szatyi' Szatmári renews his qualification on JAS-39 Gripen in the centrifuge. In this clip, he endures 9Gs of acceleration for 30 seconds
+
+[full video (2017): https://t.co/5VMRMtCZa3]
+[full video (2013): https://t.co/mOPoHT7Q0M]
+https://t.co/RiYwp8dVfW</description>
+      <content:encoded>Maj. László 'Szatyi' Szatmári renews his qualification on JAS-39 Gripen in the centrifuge. In this clip, he endures 9Gs of acceleration for 30 seconds
+
+[full video (2017): https://t.co/5VMRMtCZa3]
+[full video (2013): https://t.co/mOPoHT7Q0M]
+https://t.co/RiYwp8dVfW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657467572848148482"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1657457304621522944/img/lxybrkF37cJg7RcI.jpg" length="630" type="photo"/>
+      <pubDate>Sat, 13 May 2023 19:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Science, researchers present MIDAS, a powerful new tool to help improve the discovery and characterization of elusive interactions between proteins and metabolites. https://t.co/ZsHpCQ7mny https://t.co/PkLiNGgvcZ</title>
+      <link>https://twitter.com/ScienceMagazine/status/1657468282956394496</link>
+      <description>In Science, researchers present MIDAS, a powerful new tool to help improve the discovery and characterization of elusive interactions between proteins and metabolites. https://t.co/ZsHpCQ7mny https://t.co/PkLiNGgvcZ</description>
+      <content:encoded>In Science, researchers present MIDAS, a powerful new tool to help improve the discovery and characterization of elusive interactions between proteins and metabolites. https://t.co/ZsHpCQ7mny https://t.co/PkLiNGgvcZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1657468282956394496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwCCnlHXgAI_RkK.jpg" length="1199" type="photo"/>
+      <pubDate>Sat, 13 May 2023 19:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extremely destructive if accurate https://t.co/qofFxBM29E</title>
+      <link>https://twitter.com/elonmusk/status/1657469848429948928</link>
+      <description>Extremely destructive if accurate https://t.co/qofFxBM29E</description>
+      <content:encoded>Extremely destructive if accurate https://t.co/qofFxBM29E&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1657469848429948928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwCEBEkWIAAruNd.jpg" length="769" type="photo"/>
+      <pubDate>Sat, 13 May 2023 19:36:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CellPressNews: How the immune system shapes neurodegenerative diseases
+Read this feature review by @NINDSnews Dorian B. McGavern &amp;amp; coll…</title>
+      <link>https://twitter.com/koen_vervaeke/status/1657474269155131393</link>
+      <description>RT @CellPressNews: How the immune system shapes neurodegenerative diseases
+Read this feature review by @NINDSnews Dorian B. McGavern &amp;amp; coll…</description>
+      <content:encoded>RT @CellPressNews: How the immune system shapes neurodegenerative diseases
+Read this feature review by @NINDSnews Dorian B. McGavern &amp;amp; coll…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/koen_vervaeke/status/1657474269155131393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 13 May 2023 19:53:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
