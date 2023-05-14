@@ -6,52 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 May 2023 03:16:08 +0000</lastBuildDate>
-    <item>
-      <title>If you ever need to back out what high-level packages you pip installed, don't pip freeze! That will include dependencies of your top-level packages, including a lot of system-specific packages that won't work elsewhere. Use `pipdeptree` instead. https://t.co/fpVTrJ4C0B</title>
-      <link>https://twitter.com/patrickmineault/status/1657119322207051776</link>
-      <description>If you ever need to back out what high-level packages you pip installed, don't pip freeze! That will include dependencies of your top-level packages, including a lot of system-specific packages that won't work elsewhere. Use `pipdeptree` instead. https://t.co/fpVTrJ4C0B</description>
-      <content:encoded>If you ever need to back out what high-level packages you pip installed, don't pip freeze! That will include dependencies of your top-level packages, including a lot of system-specific packages that won't work elsewhere. Use `pipdeptree` instead. https://t.co/fpVTrJ4C0B&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657119322207051776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv9FNO5X0CQbd85.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 12 May 2023 20:23:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Another one: pipreqs. https://t.co/eyZF45BdQn</title>
-      <link>https://twitter.com/patrickmineault/status/1657119952665563154</link>
-      <description>Another one: pipreqs. https://t.co/eyZF45BdQn</description>
-      <content:encoded>Another one: pipreqs. https://t.co/eyZF45BdQn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657119952665563154"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 12 May 2023 20:25:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations to Emery N. Brown on this honor and thanks to  @sunydownstate for bestowing it!  https://t.co/r8WeDWjhPv @MIT_IMES @mitbrainandcog #neuroscience #anesthesiology https://t.co/nCv5MM2UFR</title>
-      <link>https://twitter.com/MIT_Picower/status/1657121500237910020</link>
-      <description>Congratulations to Emery N. Brown on this honor and thanks to  @sunydownstate for bestowing it!  https://t.co/r8WeDWjhPv @MIT_IMES @mitbrainandcog #neuroscience #anesthesiology https://t.co/nCv5MM2UFR</description>
-      <content:encoded>Congratulations to Emery N. Brown on this honor and thanks to  @sunydownstate for bestowing it!  https://t.co/r8WeDWjhPv @MIT_IMES @mitbrainandcog #neuroscience #anesthesiology https://t.co/nCv5MM2UFR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1657121500237910020"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv9GoQ3X0BcPUsb.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 12 May 2023 20:32:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>We’re turning 20 this year! As we countdown to our birthday in September, we'll be exploring the last 20 years of #AllenImpact. 
-
-🎉 Join the celebration by sharing your favorite moments using #Allen20. https://t.co/lQ4zUBS3vr</title>
-      <link>https://twitter.com/AllenInstitute/status/1657121718681604097</link>
-      <description>We’re turning 20 this year! As we countdown to our birthday in September, we'll be exploring the last 20 years of #AllenImpact. 
-
-🎉 Join the celebration by sharing your favorite moments using #Allen20. https://t.co/lQ4zUBS3vr</description>
-      <content:encoded>We’re turning 20 this year! As we countdown to our birthday in September, we'll be exploring the last 20 years of #AllenImpact. 
-
-🎉 Join the celebration by sharing your favorite moments using #Allen20. https://t.co/lQ4zUBS3vr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1657121718681604097"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1613248636485537793/img/8lYdgW3zKgU1plFF.jpg" length="940" type="photo"/>
-      <pubDate>Fri, 12 May 2023 20:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A paper in @NatureBiotech presents the Minigraph-Cactus pangenome pipeline, which creates pangenomes directly from whole-genome alignments, and demonstrates its ability to scale to 90 human haplotypes from the Human Pangenome Reference Consortium. https://t.co/EsSEDHfhs4 https://t.co/pqEswxlMsB</title>
-      <link>https://twitter.com/NaturePortfolio/status/1657126018304409600</link>
-      <description>A paper in @NatureBiotech presents the Minigraph-Cactus pangenome pipeline, which creates pangenomes directly from whole-genome alignments, and demonstrates its ability to scale to 90 human haplotypes from the Human Pangenome Reference Consortium. https://t.co/EsSEDHfhs4 https://t.co/pqEswxlMsB</description>
-      <content:encoded>A paper in @NatureBiotech presents the Minigraph-Cactus pangenome pipeline, which creates pangenomes directly from whole-genome alignments, and demonstrates its ability to scale to 90 human haplotypes from the Human Pangenome Reference Consortium. https://t.co/EsSEDHfhs4 https://t.co/pqEswxlMsB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1657126018304409600"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fv9LUKTWcAAs-F7.jpg" length="1000" type="photo"/>
-      <pubDate>Fri, 12 May 2023 20:50:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 May 2023 04:18:51 +0000</lastBuildDate>
     <item>
       <title>When teachers are happy and healthy, it helps students learn and succeed 
 
@@ -2007,6 +1962,50 @@ Every time you see a engagement farming thread, block the poster. They get a hug
       <description>RT @BradSchlaggar: Dr. Amy Bastian is not only a brilliant scientist, she is an extraordinary mentor, colleague, and leader. All of us at @…</description>
       <content:encoded>RT @BradSchlaggar: Dr. Amy Bastian is not only a brilliant scientist, she is an extraordinary mentor, colleague, and leader. All of us at @…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1657581695971872768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 14 May 2023 03:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @lukesjulson: @draparente @weinberz I’m hiring! https://t.co/lnduZx9SM3</title>
+      <link>https://twitter.com/guy_bouvier/status/1657588341511188480</link>
+      <description>RT @lukesjulson: @draparente @weinberz I’m hiring! https://t.co/lnduZx9SM3</description>
+      <content:encoded>RT @lukesjulson: @draparente @weinberz I’m hiring! https://t.co/lnduZx9SM3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/guy_bouvier/status/1657588341511188480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwCGp2RWcAMaJS7.jpg" length="927" type="photo"/>
+      <pubDate>Sun, 14 May 2023 03:27:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blocked https://t.co/6jvNPU5oqf</title>
+      <link>https://twitter.com/AndrewHires/status/1657593785180917761</link>
+      <description>Blocked https://t.co/6jvNPU5oqf</description>
+      <content:encoded>Blocked https://t.co/6jvNPU5oqf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1657593785180917761"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 14 May 2023 03:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's graduation week @Columbia! 
+
+Many congratulations to @AndrewNChang @silvia_blue11 @zhilin_luo https://t.co/LYtp7aOW5l</title>
+      <link>https://twitter.com/FitzpatrickLab/status/1657598394230087680</link>
+      <description>It's graduation week @Columbia! 
+
+Many congratulations to @AndrewNChang @silvia_blue11 @zhilin_luo https://t.co/LYtp7aOW5l</description>
+      <content:encoded>It's graduation week @Columbia! 
+
+Many congratulations to @AndrewNChang @silvia_blue11 @zhilin_luo https://t.co/LYtp7aOW5l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1657598394230087680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwD49FiXsAMQCSR.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 14 May 2023 04:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The more you learn, the more you realize how little you know.</title>
+      <link>https://twitter.com/ProfFeynman/status/1657599342663077889</link>
+      <description>The more you learn, the more you realize how little you know.</description>
+      <content:encoded>The more you learn, the more you realize how little you know.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1657599342663077889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 14 May 2023 04:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @slime_golem: @AndrewHires @torturesyndrome https://t.co/h82gS9bnwo</title>
+      <link>https://twitter.com/AndrewHires/status/1657599666102636544</link>
+      <description>RT @slime_golem: @AndrewHires @torturesyndrome https://t.co/h82gS9bnwo</description>
+      <content:encoded>RT @slime_golem: @AndrewHires @torturesyndrome https://t.co/h82gS9bnwo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1657599666102636544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwD5_KRXwAEuuH3.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 14 May 2023 04:12:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
