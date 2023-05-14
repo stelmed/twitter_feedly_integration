@@ -6,49 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 May 2023 22:14:07 +0000</lastBuildDate>
-    <item>
-      <title>RT @MAstronomers: Milky Way over Lavaredo, Italy  
-📷 photography by Luca Cruciani https://t.co/hnrSV142DS</title>
-      <link>https://twitter.com/MichaelGalanin/status/1657413694270103553</link>
-      <description>RT @MAstronomers: Milky Way over Lavaredo, Italy  
-📷 photography by Luca Cruciani https://t.co/hnrSV142DS</description>
-      <content:encoded>RT @MAstronomers: Milky Way over Lavaredo, Italy  
-📷 photography by Luca Cruciani https://t.co/hnrSV142DS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1657413694270103553"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwAVWlZWwAI_GZ8.jpg" length="736" type="photo"/>
-      <pubDate>Sat, 13 May 2023 15:53:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ready to catch up on this week’s AI news?
-
-- How OpenAI planned for GPT-4
-- A survey of science chatbots
-- AI assistance for military analysts
-
-Plus: Andrew Ng on building business applications with generative AI. 
-
-Learn more in #TheBatch:  https://t.co/XlLLCJNiOS</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1657415403381874688</link>
-      <description>Ready to catch up on this week’s AI news?
-
-- How OpenAI planned for GPT-4
-- A survey of science chatbots
-- AI assistance for military analysts
-
-Plus: Andrew Ng on building business applications with generative AI. 
-
-Learn more in #TheBatch:  https://t.co/XlLLCJNiOS</description>
-      <content:encoded>Ready to catch up on this week’s AI news?
-
-- How OpenAI planned for GPT-4
-- A survey of science chatbots
-- AI assistance for military analysts
-
-Plus: Andrew Ng on building business applications with generative AI. 
-
-Learn more in #TheBatch:  https://t.co/XlLLCJNiOS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1657415403381874688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 13 May 2023 16:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 May 2023 23:15:45 +0000</lastBuildDate>
     <item>
       <title>New Research: Beyond the GABA hypothesis of schizophrenia: Abnormalities in the γ-aminobutyric acid (GABA) system have been reported in the postmortem brains of individuals with schizophrenia. In particular, the reduction of one of the… #neuroscience https://t.co/8ppOdQ3brq</title>
       <link>https://twitter.com/FrontNeurosci/status/1657420825740599300</link>
@@ -2217,6 +2175,21 @@ Gil's final lecture will be live streamed tomorrow at 11 am EST. Join the celebr
       <content:encoded>I guess that was answered... https://t.co/rwgtlSFJPo https://t.co/yn471Hn2Fd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1657867041720655878"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FwHtSOWXoAEWTxU.jpg" length="498" type="photo"/>
       <pubDate>Sun, 14 May 2023 21:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>I really enjoyed this perspective on hierarchical motor control in machines and in humans. A great example of an area of deep inspiration between neuro and AI. https://t.co/2fMVtapSzj https://t.co/ZFCk3PgmoH</title>
+      <link>https://twitter.com/patrickmineault/status/1657873913458614272</link>
+      <description>I really enjoyed this perspective on hierarchical motor control in machines and in humans. A great example of an area of deep inspiration between neuro and AI. https://t.co/2fMVtapSzj https://t.co/ZFCk3PgmoH</description>
+      <content:encoded>I really enjoyed this perspective on hierarchical motor control in machines and in humans. A great example of an area of deep inspiration between neuro and AI. https://t.co/2fMVtapSzj https://t.co/ZFCk3PgmoH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1657873913458614272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwHzEeTXwAIgl_t.png" length="728" type="photo"/>
+      <pubDate>Sun, 14 May 2023 22:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Effect of single and combined median nerve stimulation and repetitive transcranial magnetic stimulation in patients with prolonged disorders of consciousness: a prospective, randomized, single-blinded, controlled trial #ageing #neuroscience https://t.co/4tBfhZa1zW</title>
+      <link>https://twitter.com/FrontNeurosci/status/1657878846673387520</link>
+      <description>New Research: Effect of single and combined median nerve stimulation and repetitive transcranial magnetic stimulation in patients with prolonged disorders of consciousness: a prospective, randomized, single-blinded, controlled trial #ageing #neuroscience https://t.co/4tBfhZa1zW</description>
+      <content:encoded>New Research: Effect of single and combined median nerve stimulation and repetitive transcranial magnetic stimulation in patients with prolonged disorders of consciousness: a prospective, randomized, single-blinded, controlled trial #ageing #neuroscience https://t.co/4tBfhZa1zW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1657878846673387520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 14 May 2023 22:41:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
