@@ -6,63 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 May 2023 06:21:25 +0000</lastBuildDate>
-    <item>
-      <title>We need a Toronto WNBA team now, @Raptors let's get it done. https://t.co/V9eCataTjL</title>
-      <link>https://twitter.com/andpru/status/1657522634639253505</link>
-      <description>We need a Toronto WNBA team now, @Raptors let's get it done. https://t.co/V9eCataTjL</description>
-      <content:encoded>We need a Toronto WNBA team now, @Raptors let's get it done. https://t.co/V9eCataTjL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1657522634639253505"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 13 May 2023 23:06:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Editorial: Challenges to EEG/MEG graph analysis and how to face them #Neuroscience https://t.co/NFAoyLS06y</title>
-      <link>https://twitter.com/FrontNeurosci/status/1657536461015769088</link>
-      <description>New Research: Editorial: Challenges to EEG/MEG graph analysis and how to face them #Neuroscience https://t.co/NFAoyLS06y</description>
-      <content:encoded>New Research: Editorial: Challenges to EEG/MEG graph analysis and how to face them #Neuroscience https://t.co/NFAoyLS06y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1657536461015769088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 14 May 2023 00:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deep learning-driven characterization of single cell tuning in primate visual area V4 unveils topological organization  https://t.co/NASjYugCVb #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1657540056939216898</link>
-      <description>Deep learning-driven characterization of single cell tuning in primate visual area V4 unveils topological organization  https://t.co/NASjYugCVb #biorxiv_neursci</description>
-      <content:encoded>Deep learning-driven characterization of single cell tuning in primate visual area V4 unveils topological organization  https://t.co/NASjYugCVb #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1657540056939216898"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 14 May 2023 00:15:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/BcgKgVwXAV v2.0: a knowledge base enabling data-driven spiking neural network simulations of rodent hippocampal circuits  https://t.co/8B6cR5xeou #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1657540147523493890</link>
-      <description>https://t.co/BcgKgVwXAV v2.0: a knowledge base enabling data-driven spiking neural network simulations of rodent hippocampal circuits  https://t.co/8B6cR5xeou #biorxiv_neursci</description>
-      <content:encoded>https://t.co/BcgKgVwXAV v2.0: a knowledge base enabling data-driven spiking neural network simulations of rodent hippocampal circuits  https://t.co/8B6cR5xeou #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1657540147523493890"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 14 May 2023 00:15:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decentralized Mixed Effects Modeling in COINSTAC  https://t.co/7yK6hXurj4 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1657540231887814656</link>
-      <description>Decentralized Mixed Effects Modeling in COINSTAC  https://t.co/7yK6hXurj4 #biorxiv_neursci</description>
-      <content:encoded>Decentralized Mixed Effects Modeling in COINSTAC  https://t.co/7yK6hXurj4 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1657540231887814656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 14 May 2023 00:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cryo-electron tomography reveals postsynaptic nanoblocks in excitatory synapses for transcellular alignment  https://t.co/ggkPSQxmam #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1657540316482658304</link>
-      <description>Cryo-electron tomography reveals postsynaptic nanoblocks in excitatory synapses for transcellular alignment  https://t.co/ggkPSQxmam #biorxiv_neursci</description>
-      <content:encoded>Cryo-electron tomography reveals postsynaptic nanoblocks in excitatory synapses for transcellular alignment  https://t.co/ggkPSQxmam #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1657540316482658304"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 14 May 2023 00:16:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Integrative single-nucleus multi-omics analysis prioritizes candidate cis and trans regulatory networks and their target genes in ...  https://t.co/wHhvFggPRk #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1657540404353417219</link>
-      <description>Integrative single-nucleus multi-omics analysis prioritizes candidate cis and trans regulatory networks and their target genes in ...  https://t.co/wHhvFggPRk #biorxiv_neursci</description>
-      <content:encoded>Integrative single-nucleus multi-omics analysis prioritizes candidate cis and trans regulatory networks and their target genes in ...  https://t.co/wHhvFggPRk #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1657540404353417219"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 14 May 2023 00:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>LRP10 as a novel α-synuclein regulator in Lewy body diseases  https://t.co/0XlCwDgcYy #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1657540491100176385</link>
-      <description>LRP10 as a novel α-synuclein regulator in Lewy body diseases  https://t.co/0XlCwDgcYy #biorxiv_neursci</description>
-      <content:encoded>LRP10 as a novel α-synuclein regulator in Lewy body diseases  https://t.co/0XlCwDgcYy #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1657540491100176385"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 14 May 2023 00:17:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 May 2023 07:16:17 +0000</lastBuildDate>
     <item>
       <title>Dysregulated TDP-43 proteostasis perturbs excitability of spinal motor neurons during brainstem-mediated fictive locomotion in zebrafish  https://t.co/NvYGgnLZox #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1657555183050579969</link>
@@ -2216,6 +2160,109 @@ What would happen today?
 [read more: https://t.co/chKdUnDuWc] https://t.co/QLymVNZdCW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657992462491688960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwJfOGmXwAETpYf.jpg" length="680" type="photo"/>
       <pubDate>Mon, 15 May 2023 06:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>In 1881, the Harvard Observatory director was frustrated with his staff &amp;amp; would say "My Scottish maid could do better!" He hired his Scottish maid, Williamina Fleming (born #Today in 1857) who classified tens of thousands of stars &amp;amp; discovered white dwarfs https://t.co/dkSOyhKwLG https://t.co/55ebHlRjNR</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657995346969083904</link>
+      <description>In 1881, the Harvard Observatory director was frustrated with his staff &amp;amp; would say "My Scottish maid could do better!" He hired his Scottish maid, Williamina Fleming (born #Today in 1857) who classified tens of thousands of stars &amp;amp; discovered white dwarfs https://t.co/dkSOyhKwLG https://t.co/55ebHlRjNR</description>
+      <content:encoded>In 1881, the Harvard Observatory director was frustrated with his staff &amp;amp; would say "My Scottish maid could do better!" He hired his Scottish maid, Williamina Fleming (born #Today in 1857) who classified tens of thousands of stars &amp;amp; discovered white dwarfs https://t.co/dkSOyhKwLG https://t.co/55ebHlRjNR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657995346969083904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwJh0fgWAAE2js2.jpg" length="525" type="photo"/>
+      <pubDate>Mon, 15 May 2023 06:24:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Humerus Varnhemiensis is a humerus bone repaired by a copper-sheet cylinder from the late medieval time period, 1260-1527. Very likely, the plate was placed round the bone to stabilize a cut injury and the copper had an antibacterial effect on the wound: https://t.co/TxdbJ3Kh0Q https://t.co/FezdPhmLwj</title>
+      <link>https://twitter.com/Rainmaker1973/status/1657996967740416000</link>
+      <description>Humerus Varnhemiensis is a humerus bone repaired by a copper-sheet cylinder from the late medieval time period, 1260-1527. Very likely, the plate was placed round the bone to stabilize a cut injury and the copper had an antibacterial effect on the wound: https://t.co/TxdbJ3Kh0Q https://t.co/FezdPhmLwj</description>
+      <content:encoded>Humerus Varnhemiensis is a humerus bone repaired by a copper-sheet cylinder from the late medieval time period, 1260-1527. Very likely, the plate was placed round the bone to stabilize a cut injury and the copper had an antibacterial effect on the wound: https://t.co/TxdbJ3Kh0Q https://t.co/FezdPhmLwj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657996967740416000"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwJjZSnWAAEXzNE.jpg" length="600" type="photo"/>
+      <pubDate>Mon, 15 May 2023 06:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ein Team um Tobias Erb @mpi_marburg nutzt den Baukasten der Natur, um neue Wege der Fixierung von #Kohlendioxid zu entwickeln. Eine neue Studie zeigt, wie das Treibhausgas über das Zwischenprodukt Ameisensäure zu einem industriellen Wertstoff werden kann. https://t.co/Gf85K1xjed</title>
+      <link>https://twitter.com/maxplanckpress/status/1657999192692850689</link>
+      <description>Ein Team um Tobias Erb @mpi_marburg nutzt den Baukasten der Natur, um neue Wege der Fixierung von #Kohlendioxid zu entwickeln. Eine neue Studie zeigt, wie das Treibhausgas über das Zwischenprodukt Ameisensäure zu einem industriellen Wertstoff werden kann. https://t.co/Gf85K1xjed</description>
+      <content:encoded>Ein Team um Tobias Erb @mpi_marburg nutzt den Baukasten der Natur, um neue Wege der Fixierung von #Kohlendioxid zu entwickeln. Eine neue Studie zeigt, wie das Treibhausgas über das Zwischenprodukt Ameisensäure zu einem industriellen Wertstoff werden kann. https://t.co/Gf85K1xjed&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1657999192692850689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 15 May 2023 06:39:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>66 years ago #Today, Britain's first H-bomb was exploded in the air off Christmas Island in the Indian Ocean 
+
+[video: https://t.co/c1aDMhBq3H]
+https://t.co/YXkkoAhRHG</title>
+      <link>https://twitter.com/Rainmaker1973/status/1658001345251536896</link>
+      <description>66 years ago #Today, Britain's first H-bomb was exploded in the air off Christmas Island in the Indian Ocean 
+
+[video: https://t.co/c1aDMhBq3H]
+https://t.co/YXkkoAhRHG</description>
+      <content:encoded>66 years ago #Today, Britain's first H-bomb was exploded in the air off Christmas Island in the Indian Ocean 
+
+[video: https://t.co/c1aDMhBq3H]
+https://t.co/YXkkoAhRHG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658001345251536896"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1525752666634215424/pu/img/7rZdEYw-rMl0lsiU.jpg" length="480" type="photo"/>
+      <pubDate>Mon, 15 May 2023 06:48:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adhesion is the stickiness that water molecules have for substances. This is what happens when water stickiness and surface tension are broken and a laminar flow becomes turbulent
+
+[read more: https://t.co/9GjQXtwkYU]
+https://t.co/d3q3wIrmEy</title>
+      <link>https://twitter.com/Rainmaker1973/status/1658004239736532993</link>
+      <description>Adhesion is the stickiness that water molecules have for substances. This is what happens when water stickiness and surface tension are broken and a laminar flow becomes turbulent
+
+[read more: https://t.co/9GjQXtwkYU]
+https://t.co/d3q3wIrmEy</description>
+      <content:encoded>Adhesion is the stickiness that water molecules have for substances. This is what happens when water stickiness and surface tension are broken and a laminar flow becomes turbulent
+
+[read more: https://t.co/9GjQXtwkYU]
+https://t.co/d3q3wIrmEy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658004239736532993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1188576293735895040/pu/img/ZjVQyDne3ldk2Wyj.jpg" length="480" type="photo"/>
+      <pubDate>Mon, 15 May 2023 06:59:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦠 Although #CellDeath is essential for defense against viral infections, it can also lead to severe disease. Manolis Pasparakis @UniCologne explains more
+👉 https://t.co/oV36UXeXlV
+
+@HorizonMagEU @CECAD_  @UniCologne_D7
+#inflammatorydiseases #immunology https://t.co/q2bXyzE45Q</title>
+      <link>https://twitter.com/ERC_Research/status/1658004326172991488</link>
+      <description>🦠 Although #CellDeath is essential for defense against viral infections, it can also lead to severe disease. Manolis Pasparakis @UniCologne explains more
+👉 https://t.co/oV36UXeXlV
+
+@HorizonMagEU @CECAD_  @UniCologne_D7
+#inflammatorydiseases #immunology https://t.co/q2bXyzE45Q</description>
+      <content:encoded>🦠 Although #CellDeath is essential for defense against viral infections, it can also lead to severe disease. Manolis Pasparakis @UniCologne explains more
+👉 https://t.co/oV36UXeXlV
+
+@HorizonMagEU @CECAD_  @UniCologne_D7
+#inflammatorydiseases #immunology https://t.co/q2bXyzE45Q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1658004326172991488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 15 May 2023 07:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>405 years ago #today (May 15, 1618) Johannes Kepler discovered the simple mathematical rule governing the orbits of the solar system's planets, now recognized as Kepler's Third Law of planetary motion. 
+
+This is his house in Linz, Austria 
+
+[read more: https://t.co/oje6MDQ858] https://t.co/sST9aPJJlp</title>
+      <link>https://twitter.com/Rainmaker1973/status/1658006972115853312</link>
+      <description>405 years ago #today (May 15, 1618) Johannes Kepler discovered the simple mathematical rule governing the orbits of the solar system's planets, now recognized as Kepler's Third Law of planetary motion. 
+
+This is his house in Linz, Austria 
+
+[read more: https://t.co/oje6MDQ858] https://t.co/sST9aPJJlp</description>
+      <content:encoded>405 years ago #today (May 15, 1618) Johannes Kepler discovered the simple mathematical rule governing the orbits of the solar system's planets, now recognized as Kepler's Third Law of planetary motion. 
+
+This is his house in Linz, Austria 
+
+[read more: https://t.co/oje6MDQ858] https://t.co/sST9aPJJlp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658006972115853312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwJsbL0WIAInPaw.jpg" length="646" type="photo"/>
+      <pubDate>Mon, 15 May 2023 07:10:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hi-Fi fMRI: High-resolution, fast-sampled and sub-second whole-brain functional MRI at 3T in humans  https://t.co/pqG6NrAqCF #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1658008186404630529</link>
+      <description>Hi-Fi fMRI: High-resolution, fast-sampled and sub-second whole-brain functional MRI at 3T in humans  https://t.co/pqG6NrAqCF #biorxiv_neursci</description>
+      <content:encoded>Hi-Fi fMRI: High-resolution, fast-sampled and sub-second whole-brain functional MRI at 3T in humans  https://t.co/pqG6NrAqCF #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1658008186404630529"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 15 May 2023 07:15:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
