@@ -6,45 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 May 2023 01:23:16 +0000</lastBuildDate>
-    <item>
-      <title>Join us this Wednesday for Lunch and Presentation by @annmclemens on Neural Circuitry of Kinship Behaviour. Lunch signup form is attached below: https://t.co/hmztHFTbCY
-See you all there! https://t.co/kcQ5Rh6dXB</title>
-      <link>https://twitter.com/CortexClub/status/1657444161304371208</link>
-      <description>Join us this Wednesday for Lunch and Presentation by @annmclemens on Neural Circuitry of Kinship Behaviour. Lunch signup form is attached below: https://t.co/hmztHFTbCY
-See you all there! https://t.co/kcQ5Rh6dXB</description>
-      <content:encoded>Join us this Wednesday for Lunch and Presentation by @annmclemens on Neural Circuitry of Kinship Behaviour. Lunch signup form is attached below: https://t.co/hmztHFTbCY
-See you all there! https://t.co/kcQ5Rh6dXB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CortexClub/status/1657444161304371208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwBsrZ3WIAIR3W1.jpg" length="1080" type="photo"/>
-      <pubDate>Sat, 13 May 2023 17:54:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>A 1:1 copy of the human hand in a manipulation demonstration by Clone Robotics. It has 24 degrees of freedom, 37 McKibben muscles, 7 kg of operational load for 0. 75kg of total weight
-
-[read more: https://t.co/habsdYjsCh]
-[video: https://t.co/74Zu7qI4Oc]
-https://t.co/1lE5EI7zj2</title>
-      <link>https://twitter.com/Rainmaker1973/status/1657447295422459905</link>
-      <description>A 1:1 copy of the human hand in a manipulation demonstration by Clone Robotics. It has 24 degrees of freedom, 37 McKibben muscles, 7 kg of operational load for 0. 75kg of total weight
-
-[read more: https://t.co/habsdYjsCh]
-[video: https://t.co/74Zu7qI4Oc]
-https://t.co/1lE5EI7zj2</description>
-      <content:encoded>A 1:1 copy of the human hand in a manipulation demonstration by Clone Robotics. It has 24 degrees of freedom, 37 McKibben muscles, 7 kg of operational load for 0. 75kg of total weight
-
-[read more: https://t.co/habsdYjsCh]
-[video: https://t.co/74Zu7qI4Oc]
-https://t.co/1lE5EI7zj2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1657447295422459905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1628496860779524096/pu/img/eh9JpOufTB3wP9MD.jpg" length="675" type="photo"/>
-      <pubDate>Sat, 13 May 2023 18:06:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>@AndrewHires Its going to be a healing milestone/celebration. Count me in for 2024 🙋🏻‍♀️</title>
-      <link>https://twitter.com/kaymtye/status/1657449934814322689</link>
-      <description>@AndrewHires Its going to be a healing milestone/celebration. Count me in for 2024 🙋🏻‍♀️</description>
-      <content:encoded>@AndrewHires Its going to be a healing milestone/celebration. Count me in for 2024 🙋🏻‍♀️&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1657449934814322689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 13 May 2023 18:17:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 May 2023 02:35:22 +0000</lastBuildDate>
     <item>
       <title>@kaymtye This is Restaurants yesterday https://t.co/7B0OMmA8vp</title>
       <link>https://twitter.com/AndrewHires/status/1657455059880542208</link>
@@ -2186,6 +2148,28 @@ Fetal alcohol spectrum disorder… #Neuroscience https://t.co/B1AUkJ4dXP</descri
 
 Fetal alcohol spectrum disorder… #Neuroscience https://t.co/B1AUkJ4dXP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1657917725824651264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 15 May 2023 01:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DGlaucomflecken: Elsevier is losing editors https://t.co/FDaQFe1eqS</title>
+      <link>https://twitter.com/NeuroBill/status/1657930132915650560</link>
+      <description>RT @DGlaucomflecken: Elsevier is losing editors https://t.co/FDaQFe1eqS</description>
+      <content:encoded>RT @DGlaucomflecken: Elsevier is losing editors https://t.co/FDaQFe1eqS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1657930132915650560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1657838259156942848/pu/img/BFQo76lCl31lAmDR.jpg" length="675" type="photo"/>
+      <pubDate>Mon, 15 May 2023 02:05:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: NeuroWRAP: integrating, validating, and sharing neurodata analysis workflows #Neuroinformatics https://t.co/bot6X6Yu9u</title>
+      <link>https://twitter.com/FrontNeurosci/status/1657930807384883205</link>
+      <description>New Research: NeuroWRAP: integrating, validating, and sharing neurodata analysis workflows #Neuroinformatics https://t.co/bot6X6Yu9u</description>
+      <content:encoded>New Research: NeuroWRAP: integrating, validating, and sharing neurodata analysis workflows #Neuroinformatics https://t.co/bot6X6Yu9u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1657930807384883205"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 15 May 2023 02:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @LomvardasLab: Glorious celebration for Tom Maniatis at the Forum yesterday- before open access and data sharing was even a concept, Man…</title>
+      <link>https://twitter.com/ruimcosta/status/1657931692294946816</link>
+      <description>RT @LomvardasLab: Glorious celebration for Tom Maniatis at the Forum yesterday- before open access and data sharing was even a concept, Man…</description>
+      <content:encoded>RT @LomvardasLab: Glorious celebration for Tom Maniatis at the Forum yesterday- before open access and data sharing was even a concept, Man…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1657931692294946816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 15 May 2023 02:11:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
