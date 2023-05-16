@@ -6,42 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 May 2023 02:34:07 +0000</lastBuildDate>
-    <item>
-      <title>👀 https://t.co/FO3IU2fr7W</title>
-      <link>https://twitter.com/PostdocUmu/status/1658065376071098368</link>
-      <description>👀 https://t.co/FO3IU2fr7W</description>
-      <content:encoded>👀 https://t.co/FO3IU2fr7W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1658065376071098368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 11:02:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EuroScience: 📣Are you interested in how we can assess excellent research in times of open science?
-
-📌Join our @EuroScience panel online…</title>
-      <link>https://twitter.com/PostdocUmu/status/1658065691243577345</link>
-      <description>RT @EuroScience: 📣Are you interested in how we can assess excellent research in times of open science?
-
-📌Join our @EuroScience panel online…</description>
-      <content:encoded>RT @EuroScience: 📣Are you interested in how we can assess excellent research in times of open science?
-
-📌Join our @EuroScience panel online…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1658065691243577345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 11:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simple facts about guns. https://t.co/peJERkI2Bs</title>
-      <link>https://twitter.com/ylecun/status/1658065862820077571</link>
-      <description>Simple facts about guns. https://t.co/peJERkI2Bs</description>
-      <content:encoded>Simple facts about guns. https://t.co/peJERkI2Bs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1658065862820077571"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 11:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>A clue to the catalytic activation of splicing. This terrific N&amp;amp;V by Soo-Chen Cheng discusses structural data revealing previously mysterious aspects of splicing in humans https://t.co/rjdZ9EYIgr https://t.co/QL0cZpdjBX</title>
-      <link>https://twitter.com/NatureNV/status/1658066875035574273</link>
-      <description>A clue to the catalytic activation of splicing. This terrific N&amp;amp;V by Soo-Chen Cheng discusses structural data revealing previously mysterious aspects of splicing in humans https://t.co/rjdZ9EYIgr https://t.co/QL0cZpdjBX</description>
-      <content:encoded>A clue to the catalytic activation of splicing. This terrific N&amp;amp;V by Soo-Chen Cheng discusses structural data revealing previously mysterious aspects of splicing in humans https://t.co/rjdZ9EYIgr https://t.co/QL0cZpdjBX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1658066875035574273"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwKjCVlWAAktoBO.jpg" length="1024" type="photo"/>
-      <pubDate>Mon, 15 May 2023 11:08:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 May 2023 03:16:43 +0000</lastBuildDate>
     <item>
       <title>RT @IlennaJ: This past month I was a TA in the @isiCNI Imbizo Computational Neuroscience summer school in South Africa!
 
@@ -349,13 +314,6 @@ https://t.co/PfQjrqx1xB</description>
 https://t.co/PfQjrqx1xB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658097887484469250"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1537147848168554497/pu/img/oqeCVlFj5Hfm9I5M.jpg" length="728" type="photo"/>
       <pubDate>Mon, 15 May 2023 13:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NatChemEng: Curious as to what Nature Chemical Engineering will publish? Take a look at this collection of articles, illustrating some…</title>
-      <link>https://twitter.com/NaturePortfolio/status/1658098575396438018</link>
-      <description>RT @NatChemEng: Curious as to what Nature Chemical Engineering will publish? Take a look at this collection of articles, illustrating some…</description>
-      <content:encoded>RT @NatChemEng: Curious as to what Nature Chemical Engineering will publish? Take a look at this collection of articles, illustrating some…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1658098575396438018"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 13:14:41 +0000</pubDate>
     </item>
     <item>
       <title>RT @pasquans2: Capturing the spirit of collaboration! 📸
@@ -775,13 +733,6 @@ Learn more in @SciRobotics: https://t.co/WhTMqb1O5O https://t.co/v1IxLR4Qmi&lt;b
       <description>amazing professor with a great team. Highly recommend https://t.co/PbesDXThKr</description>
       <content:encoded>amazing professor with a great team. Highly recommend https://t.co/PbesDXThKr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1658125990843883525"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 15 May 2023 15:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @SSarabipour: Academics, institutions and funders need to work together on improving mentorship for all researchers. With my colleague @…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1658126279059619841</link>
-      <description>RT @SSarabipour: Academics, institutions and funders need to work together on improving mentorship for all researchers. With my colleague @…</description>
-      <content:encoded>RT @SSarabipour: Academics, institutions and funders need to work together on improving mentorship for all researchers. With my colleague @…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658126279059619841"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:04:46 +0000</pubDate>
     </item>
     <item>
       <title>#PeerReview from @eLife of 👉🏿 Disruption of place cell remapping by scopolamine during aversive learning  https://t.co/zYb7hl2iIy #biorxiv_neursci #reviewedpreprint</title>
@@ -1749,6 +1700,13 @@ He makes a few points I've made before, such as:
       <pubDate>Mon, 15 May 2023 20:37:56 +0000</pubDate>
     </item>
     <item>
+      <title>RT @naturemethods: Labs can be polyglot.@IlariaTesta4 @deniswirtz Wolf-Dietrich Heyer @ucdavis Ronen Segev @LsBgu @aurelepiazza @ENSdeLyon…</title>
+      <link>https://twitter.com/IlariaTesta4/status/1658211622081404959</link>
+      <description>RT @naturemethods: Labs can be polyglot.@IlariaTesta4 @deniswirtz Wolf-Dietrich Heyer @ucdavis Ronen Segev @LsBgu @aurelepiazza @ENSdeLyon…</description>
+      <content:encoded>RT @naturemethods: Labs can be polyglot.@IlariaTesta4 @deniswirtz Wolf-Dietrich Heyer @ucdavis Ronen Segev @LsBgu @aurelepiazza @ENSdeLyon…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IlariaTesta4/status/1658211622081404959"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 15 May 2023 20:43:53 +0000</pubDate>
+    </item>
+    <item>
       <title>A paper in @NatureComms characterizea the convergent evolution of SARS-CoV-2 Omicron subvariants and the properties of one recent lineage of concern, BQ.1.1. https://t.co/r1GWyHrwgC https://t.co/sD1N8wKp9r</title>
       <link>https://twitter.com/NaturePortfolio/status/1658213181888536605</link>
       <description>A paper in @NatureComms characterizea the convergent evolution of SARS-CoV-2 Omicron subvariants and the properties of one recent lineage of concern, BQ.1.1. https://t.co/r1GWyHrwgC https://t.co/sD1N8wKp9r</description>
@@ -1763,6 +1721,13 @@ He makes a few points I've made before, such as:
       <content:encoded>Polymer ferroelectrics are attractive materials for electromechanical, electrocaloric, and dielectric applications, argues a new #ScienceReview. https://t.co/khJWXrStEC https://t.co/22nbH6ShGX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658215734785220617"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwMqa4JWIAkToBJ.jpg" length="848" type="photo"/>
       <pubDate>Mon, 15 May 2023 21:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DrKeithSmith: Anna-Thomas (@reshma_at) et al. find changing polarisation in a repeating #FRB. The rotation measure varies over a range…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1658217109195726865</link>
+      <description>RT @DrKeithSmith: Anna-Thomas (@reshma_at) et al. find changing polarisation in a repeating #FRB. The rotation measure varies over a range…</description>
+      <content:encoded>RT @DrKeithSmith: Anna-Thomas (@reshma_at) et al. find changing polarisation in a repeating #FRB. The rotation measure varies over a range…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658217109195726865"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 15 May 2023 21:05:41 +0000</pubDate>
     </item>
     <item>
       <title>From a genetic perspective, brain diseases fall into some surprising patterns. #Neuroscience research by our scientists and collaborators finds a new way of sorting diseases and psychiatric disorders that could potentially identify new treatment targets. https://t.co/0tZxPGsU94</title>
@@ -2136,6 +2101,36 @@ To compare the signal alterations of amide proton… #Neuroscience https://t.co/
       <description>RT @SinaiBrain: THIS FRIDAY! We are SUPER EXCITED to host @susanmagsamen &amp;amp; Ivy Ross when they JOIN the #ArtoftheBrain Lecture Series to dis…</description>
       <content:encoded>RT @SinaiBrain: THIS FRIDAY! We are SUPER EXCITED to host @susanmagsamen &amp;amp; Ivy Ross when they JOIN the #ArtoftheBrain Lecture Series to dis…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1658297749802975233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 16 May 2023 02:26:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @chrmanning: “The most important thing to remember about tech doomerism in general is that it’s a form of advertising, a species of hype…</title>
+      <link>https://twitter.com/AToliasLab/status/1658302318553579520</link>
+      <description>RT @chrmanning: “The most important thing to remember about tech doomerism in general is that it’s a form of advertising, a species of hype…</description>
+      <content:encoded>RT @chrmanning: “The most important thing to remember about tech doomerism in general is that it’s a form of advertising, a species of hype…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1658302318553579520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 02:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in @ScienceTM: Scientists have created therapeutic antibodies that, in mice and human patient-derived organoids, can empower cancer immunotherapies and chemotherapy against tumors that often don’t respond to these treatments. https://t.co/iaCDUTEpWU https://t.co/HFVxFqKx27</title>
+      <link>https://twitter.com/ScienceMagazine/status/1658306309559660545</link>
+      <description>New in @ScienceTM: Scientists have created therapeutic antibodies that, in mice and human patient-derived organoids, can empower cancer immunotherapies and chemotherapy against tumors that often don’t respond to these treatments. https://t.co/iaCDUTEpWU https://t.co/HFVxFqKx27</description>
+      <content:encoded>New in @ScienceTM: Scientists have created therapeutic antibodies that, in mice and human patient-derived organoids, can empower cancer immunotherapies and chemotherapy against tumors that often don’t respond to these treatments. https://t.co/iaCDUTEpWU https://t.co/HFVxFqKx27&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658306309559660545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwN8zKFWcAEHYLu.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 16 May 2023 03:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seattle is glorious these days … https://t.co/VhiHlbtajp</title>
+      <link>https://twitter.com/LecoqJerome/status/1658309218179616770</link>
+      <description>Seattle is glorious these days … https://t.co/VhiHlbtajp</description>
+      <content:encoded>Seattle is glorious these days … https://t.co/VhiHlbtajp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1658309218179616770"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwN_cWDaAAM1SeR.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 16 May 2023 03:11:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comprehensively defining cellular specializations for initiating parallel auditory pathways in the mouse cochlear nucleus  https://t.co/QfDQq7WbX0 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1658310178540847105</link>
+      <description>Comprehensively defining cellular specializations for initiating parallel auditory pathways in the mouse cochlear nucleus  https://t.co/QfDQq7WbX0 #biorxiv_neursci</description>
+      <content:encoded>Comprehensively defining cellular specializations for initiating parallel auditory pathways in the mouse cochlear nucleus  https://t.co/QfDQq7WbX0 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1658310178540847105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 03:15:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
