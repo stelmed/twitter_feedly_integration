@@ -6,27 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 May 2023 03:16:43 +0000</lastBuildDate>
-    <item>
-      <title>RT @IlennaJ: This past month I was a TA in the @isiCNI Imbizo Computational Neuroscience summer school in South Africa!
-
-I feel incredibly…</title>
-      <link>https://twitter.com/KordingLab/status/1658067274488586241</link>
-      <description>RT @IlennaJ: This past month I was a TA in the @isiCNI Imbizo Computational Neuroscience summer school in South Africa!
-
-I feel incredibly…</description>
-      <content:encoded>RT @IlennaJ: This past month I was a TA in the @isiCNI Imbizo Computational Neuroscience summer school in South Africa!
-
-I feel incredibly…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1658067274488586241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 11:10:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>@LecoqJerome This is clearly a duck-shaped embedding.</title>
-      <link>https://twitter.com/trose_neuro/status/1658069380117282818</link>
-      <description>@LecoqJerome This is clearly a duck-shaped embedding.</description>
-      <content:encoded>@LecoqJerome This is clearly a duck-shaped embedding.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trose_neuro/status/1658069380117282818"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 11:18:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 May 2023 04:20:03 +0000</lastBuildDate>
     <item>
       <title>How can AI help us tackle diseases like COVID-19 in the future? 🧬
 
@@ -2131,6 +2111,20 @@ To compare the signal alterations of amide proton… #Neuroscience https://t.co/
       <description>Comprehensively defining cellular specializations for initiating parallel auditory pathways in the mouse cochlear nucleus  https://t.co/QfDQq7WbX0 #biorxiv_neursci</description>
       <content:encoded>Comprehensively defining cellular specializations for initiating parallel auditory pathways in the mouse cochlear nucleus  https://t.co/QfDQq7WbX0 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1658310178540847105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 16 May 2023 03:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>There's no shame in not knowing things! The only shame is to pretend that we know everything. 🧠</title>
+      <link>https://twitter.com/ProfFeynman/status/1658313943247622144</link>
+      <description>There's no shame in not knowing things! The only shame is to pretend that we know everything. 🧠</description>
+      <content:encoded>There's no shame in not knowing things! The only shame is to pretend that we know everything. 🧠&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1658313943247622144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 03:30:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Putrescine acetyltransferase (PAT/SAT1) dependent GABA synthesis in astrocytes  https://t.co/KTF0GSwQpb #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1658325308905336834</link>
+      <description>Putrescine acetyltransferase (PAT/SAT1) dependent GABA synthesis in astrocytes  https://t.co/KTF0GSwQpb #biorxiv_neursci</description>
+      <content:encoded>Putrescine acetyltransferase (PAT/SAT1) dependent GABA synthesis in astrocytes  https://t.co/KTF0GSwQpb #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1658325308905336834"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 04:15:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
