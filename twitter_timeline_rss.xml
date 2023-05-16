@@ -6,127 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 May 2023 10:16:58 +0000</lastBuildDate>
-    <item>
-      <title>RT @carlyleannah: I'm thrilled to be joining the 2023-2025 cohort of SfN #NSPeeps! Excited for this opportunity to learn more about explori…</title>
-      <link>https://twitter.com/SfNtweets/status/1658123430863032321</link>
-      <description>RT @carlyleannah: I'm thrilled to be joining the 2023-2025 cohort of SfN #NSPeeps! Excited for this opportunity to learn more about explori…</description>
-      <content:encoded>RT @carlyleannah: I'm thrilled to be joining the 2023-2025 cohort of SfN #NSPeeps! Excited for this opportunity to learn more about explori…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1658123430863032321"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 14:53:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DeepLearningAI_: We’re curious! Are you currently working on an AI project? Share with us about it in the comments! Who knows, you migh…</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1658123455529639936</link>
-      <description>RT @DeepLearningAI_: We’re curious! Are you currently working on an AI project? Share with us about it in the comments! Who knows, you migh…</description>
-      <content:encoded>RT @DeepLearningAI_: We’re curious! Are you currently working on an AI project? Share with us about it in the comments! Who knows, you migh…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1658123455529639936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 14:53:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Search engines specializing in scientific research are making it easier to find the right citation, thanks to LLM-powered chatbots.  
-
-Learn more in #TheBatch: https://t.co/B52Pb4zT9F</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1658125084307980297</link>
-      <description>Search engines specializing in scientific research are making it easier to find the right citation, thanks to LLM-powered chatbots.  
-
-Learn more in #TheBatch: https://t.co/B52Pb4zT9F</description>
-      <content:encoded>Search engines specializing in scientific research are making it easier to find the right citation, thanks to LLM-powered chatbots.  
-
-Learn more in #TheBatch: https://t.co/B52Pb4zT9F&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1658125084307980297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new brain-inspired neural network system improves the ability of robots in recognition of places such as forests and indoor corridors—and it does so with 43.6% less power consumption than common mobile robot processors.
-
-Learn more in @SciRobotics: https://t.co/WhTMqb1O5O https://t.co/v1IxLR4Qmi</title>
-      <link>https://twitter.com/ScienceMagazine/status/1658125200393732100</link>
-      <description>A new brain-inspired neural network system improves the ability of robots in recognition of places such as forests and indoor corridors—and it does so with 43.6% less power consumption than common mobile robot processors.
-
-Learn more in @SciRobotics: https://t.co/WhTMqb1O5O https://t.co/v1IxLR4Qmi</description>
-      <content:encoded>A new brain-inspired neural network system improves the ability of robots in recognition of places such as forests and indoor corridors—and it does so with 43.6% less power consumption than common mobile robot processors.
-
-Learn more in @SciRobotics: https://t.co/WhTMqb1O5O https://t.co/v1IxLR4Qmi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658125200393732100"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwLYFNnXwAEVRxb.jpg" length="910" type="photo"/>
-      <pubDate>Mon, 15 May 2023 15:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>The importance of strong teacher-student relationships cannot be overstated when it comes to the growth + success of young people. Here’s why👇🏽 https://t.co/E1dALXmZjm</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1658125261324406786</link>
-      <description>The importance of strong teacher-student relationships cannot be overstated when it comes to the growth + success of young people. Here’s why👇🏽 https://t.co/E1dALXmZjm</description>
-      <content:encoded>The importance of strong teacher-student relationships cannot be overstated when it comes to the growth + success of young people. Here’s why👇🏽 https://t.co/E1dALXmZjm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1658125261324406786"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MathWorks: Catch Prof. Gil Strang's last lecture live now!</title>
-      <link>https://twitter.com/MATLAB/status/1658125692498845698</link>
-      <description>RT @MathWorks: Catch Prof. Gil Strang's last lecture live now!</description>
-      <content:encoded>RT @MathWorks: Catch Prof. Gil Strang's last lecture live now!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1658125692498845698"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>amazing professor with a great team. Highly recommend https://t.co/PbesDXThKr</title>
-      <link>https://twitter.com/KordingLab/status/1658125990843883525</link>
-      <description>amazing professor with a great team. Highly recommend https://t.co/PbesDXThKr</description>
-      <content:encoded>amazing professor with a great team. Highly recommend https://t.co/PbesDXThKr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1658125990843883525"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @eLife of 👉🏿 Disruption of place cell remapping by scopolamine during aversive learning  https://t.co/zYb7hl2iIy #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1658126403844333573</link>
-      <description>#PeerReview from @eLife of 👉🏿 Disruption of place cell remapping by scopolamine during aversive learning  https://t.co/zYb7hl2iIy #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @eLife of 👉🏿 Disruption of place cell remapping by scopolamine during aversive learning  https://t.co/zYb7hl2iIy #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1658126403844333573"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:05:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Francesca Riccio-Ackerman wants to ensure that people who need access to prosthetic care can get it — for the duration of their lives. The PhD student is developing a care and delivery model in Sierra Leone. https://t.co/ruTkvdVrS7 https://t.co/gERdLI70Z1</title>
-      <link>https://twitter.com/MIT/status/1658126410920198147</link>
-      <description>Francesca Riccio-Ackerman wants to ensure that people who need access to prosthetic care can get it — for the duration of their lives. The PhD student is developing a care and delivery model in Sierra Leone. https://t.co/ruTkvdVrS7 https://t.co/gERdLI70Z1</description>
-      <content:encoded>Francesca Riccio-Ackerman wants to ensure that people who need access to prosthetic care can get it — for the duration of their lives. The PhD student is developing a care and delivery model in Sierra Leone. https://t.co/ruTkvdVrS7 https://t.co/gERdLI70Z1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1658126410920198147"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwLZLv5WwAAmsXr.jpg" length="1100" type="photo"/>
-      <pubDate>Mon, 15 May 2023 15:05:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NSFDrPanch: People want to pursue #STEM possibilities where they live.
-
-Read my op-ed in @ScienceMagazine on how @NSF is trying to meet…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1658126414351151107</link>
-      <description>RT @NSFDrPanch: People want to pursue #STEM possibilities where they live.
-
-Read my op-ed in @ScienceMagazine on how @NSF is trying to meet…</description>
-      <content:encoded>RT @NSFDrPanch: People want to pursue #STEM possibilities where they live.
-
-Read my op-ed in @ScienceMagazine on how @NSF is trying to meet…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658126414351151107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:05:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>My interview with @HarryStebbings on the #20VC podcast.
-All about AI, the limitations of current systems, future capabilities of AI, the potential impact on the economy, society, and humanity as a whole.
-No, we don't have human-level AI yet.
-Yes, we will get to human-level and… https://t.co/Uin66603yj</title>
-      <link>https://twitter.com/ylecun/status/1658126982591152128</link>
-      <description>My interview with @HarryStebbings on the #20VC podcast.
-All about AI, the limitations of current systems, future capabilities of AI, the potential impact on the economy, society, and humanity as a whole.
-No, we don't have human-level AI yet.
-Yes, we will get to human-level and… https://t.co/Uin66603yj</description>
-      <content:encoded>My interview with @HarryStebbings on the #20VC podcast.
-All about AI, the limitations of current systems, future capabilities of AI, the potential impact on the economy, society, and humanity as a whole.
-No, we don't have human-level AI yet.
-Yes, we will get to human-level and… https://t.co/Uin66603yj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1658126982591152128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Serotonin is a common but complex target of psychiatric drugs. A new study by the @MIT  lab of Steven Flavell provides a deep but also brain-wide look at its role in producing behavior in C. elegans. https://t.co/AFSYACrsKM @ScienceMIT @mitbrainandcog #neuroscience</title>
-      <link>https://twitter.com/MIT_Picower/status/1658127953459560448</link>
-      <description>#Serotonin is a common but complex target of psychiatric drugs. A new study by the @MIT  lab of Steven Flavell provides a deep but also brain-wide look at its role in producing behavior in C. elegans. https://t.co/AFSYACrsKM @ScienceMIT @mitbrainandcog #neuroscience</description>
-      <content:encoded>#Serotonin is a common but complex target of psychiatric drugs. A new study by the @MIT  lab of Steven Flavell provides a deep but also brain-wide look at its role in producing behavior in C. elegans. https://t.co/AFSYACrsKM @ScienceMIT @mitbrainandcog #neuroscience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1658127953459560448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Full paper: https://t.co/E15NUJEYAr</title>
-      <link>https://twitter.com/MIT_Picower/status/1658127955036622848</link>
-      <description>Full paper: https://t.co/E15NUJEYAr</description>
-      <content:encoded>Full paper: https://t.co/E15NUJEYAr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1658127955036622848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 15:11:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 May 2023 11:13:04 +0000</lastBuildDate>
     <item>
       <title>What's prettier than the brain??
 Source: https://t.co/bRCGMmg0Pq https://t.co/KKMntN1iGD</title>
@@ -2147,6 +2027,149 @@ Thank you 💙 #StrangImpact https://t.co/OdoceSxM5E</description>
 Thank you 💙 #StrangImpact https://t.co/OdoceSxM5E&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1658412055496368130"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1658411988156809219/pu/img/Hjhy99FQ-PFZYK3r.jpg" length="1200" type="photo"/>
       <pubDate>Tue, 16 May 2023 10:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thank you Nesrin for highlighting this!
+The article is available free-to-access here:
+https://t.co/exRAFNsY6B https://t.co/xu483OovEJ</title>
+      <link>https://twitter.com/Facultyopinions/status/1658417269968338945</link>
+      <description>Thank you Nesrin for highlighting this!
+The article is available free-to-access here:
+https://t.co/exRAFNsY6B https://t.co/xu483OovEJ</description>
+      <content:encoded>Thank you Nesrin for highlighting this!
+The article is available free-to-access here:
+https://t.co/exRAFNsY6B https://t.co/xu483OovEJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1658417269968338945"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 10:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post-injury pain and behaviour: a control theory perspective — a Perspective by Ben Seymour, Robyn J. Crook &amp;amp; Zhe Sage Chen
+
+https://t.co/jCRGKiDOsQ
+
+@benosaka @Chen3Sage https://t.co/r8FypVmXJh</title>
+      <link>https://twitter.com/NatRevNeurosci/status/1658417584973201410</link>
+      <description>Post-injury pain and behaviour: a control theory perspective — a Perspective by Ben Seymour, Robyn J. Crook &amp;amp; Zhe Sage Chen
+
+https://t.co/jCRGKiDOsQ
+
+@benosaka @Chen3Sage https://t.co/r8FypVmXJh</description>
+      <content:encoded>Post-injury pain and behaviour: a control theory perspective — a Perspective by Ben Seymour, Robyn J. Crook &amp;amp; Zhe Sage Chen
+
+https://t.co/jCRGKiDOsQ
+
+@benosaka @Chen3Sage https://t.co/r8FypVmXJh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatRevNeurosci/status/1658417584973201410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwPh9XRWcAAXijM.png" length="484" type="photo"/>
+      <pubDate>Tue, 16 May 2023 10:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Color Theory' by artist Jesse Woolstone is a beautiful and hypnotic concept that observes and reimagines Van Gogh's turbulent brushstrokes in Starry Night 
+
+[source, more videos: https://t.co/fFMk6LNfAu]
+https://t.co/vRgeH56629</title>
+      <link>https://twitter.com/Rainmaker1973/status/1658418009260666880</link>
+      <description>'Color Theory' by artist Jesse Woolstone is a beautiful and hypnotic concept that observes and reimagines Van Gogh's turbulent brushstrokes in Starry Night 
+
+[source, more videos: https://t.co/fFMk6LNfAu]
+https://t.co/vRgeH56629</description>
+      <content:encoded>'Color Theory' by artist Jesse Woolstone is a beautiful and hypnotic concept that observes and reimagines Van Gogh's turbulent brushstrokes in Starry Night 
+
+[source, more videos: https://t.co/fFMk6LNfAu]
+https://t.co/vRgeH56629&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658418009260666880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1458752659247222787/pu/img/LyHwFt3_AVxRRt_8.jpg" length="1080" type="photo"/>
+      <pubDate>Tue, 16 May 2023 10:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photonics has the potential to revolutionise essential areas of human life. ⚡
+
+On #LightDay2023 read about ERC-funded projects that harness the photon for leaps in medicine, energy, and other key domains.
+
+Discover more 👉 https://t.co/Guez6ZSqSa
+
+@CORDIS_EU https://t.co/qTjRtSOhfX</title>
+      <link>https://twitter.com/ERC_Research/status/1658419535203143680</link>
+      <description>Photonics has the potential to revolutionise essential areas of human life. ⚡
+
+On #LightDay2023 read about ERC-funded projects that harness the photon for leaps in medicine, energy, and other key domains.
+
+Discover more 👉 https://t.co/Guez6ZSqSa
+
+@CORDIS_EU https://t.co/qTjRtSOhfX</description>
+      <content:encoded>Photonics has the potential to revolutionise essential areas of human life. ⚡
+
+On #LightDay2023 read about ERC-funded projects that harness the photon for leaps in medicine, energy, and other key domains.
+
+Discover more 👉 https://t.co/Guez6ZSqSa
+
+@CORDIS_EU https://t.co/qTjRtSOhfX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1658419535203143680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwPjxgWaAAAv3NX.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 16 May 2023 10:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SciLifeLab_DC: Join @SciLifeLab_DC &amp;amp; @NBISwe for "Meet a Data Steward", May 23  at 15-16 CEST (hybrid)
+More: 
+https://t.co/CN0fSVg1QZ…</title>
+      <link>https://twitter.com/PostdocUmu/status/1658419602718617602</link>
+      <description>RT @SciLifeLab_DC: Join @SciLifeLab_DC &amp;amp; @NBISwe for "Meet a Data Steward", May 23  at 15-16 CEST (hybrid)
+More: 
+https://t.co/CN0fSVg1QZ…</description>
+      <content:encoded>RT @SciLifeLab_DC: Join @SciLifeLab_DC &amp;amp; @NBISwe for "Meet a Data Steward", May 23  at 15-16 CEST (hybrid)
+More: 
+https://t.co/CN0fSVg1QZ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1658419602718617602"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 10:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @umeauniversity: The mRNA vaccines have just as good a protective effect against COVID-19 for the very oldest as for younger people, a s…</title>
+      <link>https://twitter.com/PostdocUmu/status/1658419723753730052</link>
+      <description>RT @umeauniversity: The mRNA vaccines have just as good a protective effect against COVID-19 for the very oldest as for younger people, a s…</description>
+      <content:encoded>RT @umeauniversity: The mRNA vaccines have just as good a protective effect against COVID-19 for the very oldest as for younger people, a s…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1658419723753730052"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 10:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>The hippocampal navigation system as the basis of Fodor's "language of thought" https://t.co/Pti1m2vmNU A provocative preprint from Kazanina and @davidpoeppel. Does this mean all thought is ultimately spatial? https://t.co/jdUyWZ6m90</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1658421660351856640</link>
+      <description>The hippocampal navigation system as the basis of Fodor's "language of thought" https://t.co/Pti1m2vmNU A provocative preprint from Kazanina and @davidpoeppel. Does this mean all thought is ultimately spatial? https://t.co/jdUyWZ6m90</description>
+      <content:encoded>The hippocampal navigation system as the basis of Fodor's "language of thought" https://t.co/Pti1m2vmNU A provocative preprint from Kazanina and @davidpoeppel. Does this mean all thought is ultimately spatial? https://t.co/jdUyWZ6m90&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1658421660351856640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwPlluSXgAAdEFv.png" length="697" type="photo"/>
+      <pubDate>Tue, 16 May 2023 10:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Not unlike the p-value, also the use of the Bayes factor shows signs of misconceptions" (preprint) https://t.co/o6qVRW3oU9 Any statistical tool can be misused and hacked. Replacing p-values with Bayes won't solve anything if people don't use Bayes properly https://t.co/BxlIdRUvI9</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1658422574986977282</link>
+      <description>"Not unlike the p-value, also the use of the Bayes factor shows signs of misconceptions" (preprint) https://t.co/o6qVRW3oU9 Any statistical tool can be misused and hacked. Replacing p-values with Bayes won't solve anything if people don't use Bayes properly https://t.co/BxlIdRUvI9</description>
+      <content:encoded>"Not unlike the p-value, also the use of the Bayes factor shows signs of misconceptions" (preprint) https://t.co/o6qVRW3oU9 Any statistical tool can be misused and hacked. Replacing p-values with Bayes won't solve anything if people don't use Bayes properly https://t.co/BxlIdRUvI9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1658422574986977282"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwPmg-KX0AI44-V.png" length="646" type="photo"/>
+      <pubDate>Tue, 16 May 2023 10:42:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarifying agents remove suspended solids from liquids by inducing flocculation ➡️ the solids aggregate forming flakes, which either precipitate to the bottom or float to the surface and can be removed 
+
+[📹 Battlbox: https://t.co/WrLdTqnSnO]
+https://t.co/aTrTlqGcqa</title>
+      <link>https://twitter.com/Rainmaker1973/status/1658424813801680896</link>
+      <description>Clarifying agents remove suspended solids from liquids by inducing flocculation ➡️ the solids aggregate forming flakes, which either precipitate to the bottom or float to the surface and can be removed 
+
+[📹 Battlbox: https://t.co/WrLdTqnSnO]
+https://t.co/aTrTlqGcqa</description>
+      <content:encoded>Clarifying agents remove suspended solids from liquids by inducing flocculation ➡️ the solids aggregate forming flakes, which either precipitate to the bottom or float to the surface and can be removed 
+
+[📹 Battlbox: https://t.co/WrLdTqnSnO]
+https://t.co/aTrTlqGcqa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658424813801680896"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1534908194904018946/pu/img/pU0EwTndYcXqTZKe.jpg" length="576" type="photo"/>
+      <pubDate>Tue, 16 May 2023 10:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>@kaymtye 😭😭😭</title>
+      <link>https://twitter.com/ewadorotaz/status/1658426156134088705</link>
+      <description>@kaymtye 😭😭😭</description>
+      <content:encoded>@kaymtye 😭😭😭&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1658426156134088705"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 10:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Straightshooters all https://t.co/1i2EPsrGtF</title>
+      <link>https://twitter.com/KriegeskorteLab/status/1658428721412317192</link>
+      <description>Straightshooters all https://t.co/1i2EPsrGtF</description>
+      <content:encoded>Straightshooters all https://t.co/1i2EPsrGtF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KriegeskorteLab/status/1658428721412317192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 11:06:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
