@@ -6,166 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 May 2023 12:34:56 +0000</lastBuildDate>
-    <item>
-      <title>On the other hand, it's a fair question.</title>
-      <link>https://twitter.com/neurograce/status/1658141346039750656</link>
-      <description>On the other hand, it's a fair question.</description>
-      <content:encoded>On the other hand, it's a fair question.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1658141346039750656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:04:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gene-editing technique could speed up study of cancer mutations: With the new method, scientists can explore many cancer mutations whose roles are unknown, helping them develop new drugs that target those mutations. https://t.co/AKsjhrDuyd https://t.co/7qP1YYe4xd</title>
-      <link>https://twitter.com/MIT/status/1658141518001995778</link>
-      <description>Gene-editing technique could speed up study of cancer mutations: With the new method, scientists can explore many cancer mutations whose roles are unknown, helping them develop new drugs that target those mutations. https://t.co/AKsjhrDuyd https://t.co/7qP1YYe4xd</description>
-      <content:encoded>Gene-editing technique could speed up study of cancer mutations: With the new method, scientists can explore many cancer mutations whose roles are unknown, helping them develop new drugs that target those mutations. https://t.co/AKsjhrDuyd https://t.co/7qP1YYe4xd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1658141518001995778"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwLm67GXgAIBjzu.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 15 May 2023 16:05:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Read our latest blog on epitope tags to find out what tags options are available! https://t.co/WyZY9yBQtF</title>
-      <link>https://twitter.com/Addgene/status/1658141941727461377</link>
-      <description>Read our latest blog on epitope tags to find out what tags options are available! https://t.co/WyZY9yBQtF</description>
-      <content:encoded>Read our latest blog on epitope tags to find out what tags options are available! https://t.co/WyZY9yBQtF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1658141941727461377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @tiledb: You can now visualize bioimages stored as TileDB arrays with @napari_imaging 🎉! Check it out at https://t.co/EdI9MRqZSI and sta…</title>
-      <link>https://twitter.com/sofroniewn/status/1658142169167970306</link>
-      <description>RT @tiledb: You can now visualize bioimages stored as TileDB arrays with @napari_imaging 🎉! Check it out at https://t.co/EdI9MRqZSI and sta…</description>
-      <content:encoded>RT @tiledb: You can now visualize bioimages stored as TileDB arrays with @napari_imaging 🎉! Check it out at https://t.co/EdI9MRqZSI and sta…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1658142169167970306"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:07:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @_samihassan_: CA2 is critical for social but not nonsocial memory. We wondered what neural code could support such features and what th…</title>
-      <link>https://twitter.com/FlavioDonato82/status/1658142506691829763</link>
-      <description>RT @_samihassan_: CA2 is critical for social but not nonsocial memory. We wondered what neural code could support such features and what th…</description>
-      <content:encoded>RT @_samihassan_: CA2 is critical for social but not nonsocial memory. We wondered what neural code could support such features and what th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FlavioDonato82/status/1658142506691829763"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>An MCH-mediated homeostatic mechanism counteracts the increased excitatory drive to CA1 neurons and altered #sleep in Alzheimer's disease model mice, but this mechanism fails in older mice
-
-New from @SaraCalafate @joris_dewit_lab @DeStrooperLab and colleagues</title>
-      <link>https://twitter.com/NatureNeuro/status/1658143467191640064</link>
-      <description>An MCH-mediated homeostatic mechanism counteracts the increased excitatory drive to CA1 neurons and altered #sleep in Alzheimer's disease model mice, but this mechanism fails in older mice
-
-New from @SaraCalafate @joris_dewit_lab @DeStrooperLab and colleagues</description>
-      <content:encoded>An MCH-mediated homeostatic mechanism counteracts the increased excitatory drive to CA1 neurons and altered #sleep in Alzheimer's disease model mice, but this mechanism fails in older mice
-
-New from @SaraCalafate @joris_dewit_lab @DeStrooperLab and colleagues&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1658143467191640064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:13:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @fmrib_steve: But there *can* be a good dream.
-
-https://t.co/ZrZBQiDt7w</title>
-      <link>https://twitter.com/behrenstimb/status/1658144756671627264</link>
-      <description>RT @fmrib_steve: But there *can* be a good dream.
-
-https://t.co/ZrZBQiDt7w</description>
-      <content:encoded>RT @fmrib_steve: But there *can* be a good dream.
-
-https://t.co/ZrZBQiDt7w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1658144756671627264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:18:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>For #MentalHealthAwarenessWeek, we highlight Joel Katz &amp;amp; @emily_wildeboer recommendation of a @HinzeVerena et al. study in @ISADTweet journal that explores the associations between #pain and #suicidality
-
-https://t.co/JI3pDYlmTI https://t.co/DyPoanpWHX</title>
-      <link>https://twitter.com/Facultyopinions/status/1658145216187060225</link>
-      <description>For #MentalHealthAwarenessWeek, we highlight Joel Katz &amp;amp; @emily_wildeboer recommendation of a @HinzeVerena et al. study in @ISADTweet journal that explores the associations between #pain and #suicidality
-
-https://t.co/JI3pDYlmTI https://t.co/DyPoanpWHX</description>
-      <content:encoded>For #MentalHealthAwarenessWeek, we highlight Joel Katz &amp;amp; @emily_wildeboer recommendation of a @HinzeVerena et al. study in @ISADTweet journal that explores the associations between #pain and #suicidality
-
-https://t.co/JI3pDYlmTI https://t.co/DyPoanpWHX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1658145216187060225"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwLqSUpXsAETQU8.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 15 May 2023 16:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Solar energy concentration technology using Fresnel lenses is an effective way to make full use of sunlight. They can even turn a rock into lava. 
-
-[read more: https://t.co/3ch7bXRPld] 
-[source, joemyheck: https://t.co/n2UyBdmxkz] 
-https://t.co/tBXxaIzlLY</title>
-      <link>https://twitter.com/Rainmaker1973/status/1658145383539699714</link>
-      <description>Solar energy concentration technology using Fresnel lenses is an effective way to make full use of sunlight. They can even turn a rock into lava. 
-
-[read more: https://t.co/3ch7bXRPld] 
-[source, joemyheck: https://t.co/n2UyBdmxkz] 
-https://t.co/tBXxaIzlLY</description>
-      <content:encoded>Solar energy concentration technology using Fresnel lenses is an effective way to make full use of sunlight. They can even turn a rock into lava. 
-
-[read more: https://t.co/3ch7bXRPld] 
-[source, joemyheck: https://t.co/n2UyBdmxkz] 
-https://t.co/tBXxaIzlLY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658145383539699714"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1444232119933448194/pu/img/OvrldSpzA2YZCkdV.jpg" length="480" type="photo"/>
-      <pubDate>Mon, 15 May 2023 16:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Editorial: Glial cells as an emerging therapeutic target in the pathobiology of central nervous system disorders: friend or foe? #neuroscience https://t.co/cZd1c900Lu</title>
-      <link>https://twitter.com/FrontNeurosci/status/1658145597969567745</link>
-      <description>New Research: Editorial: Glial cells as an emerging therapeutic target in the pathobiology of central nervous system disorders: friend or foe? #neuroscience https://t.co/cZd1c900Lu</description>
-      <content:encoded>New Research: Editorial: Glial cells as an emerging therapeutic target in the pathobiology of central nervous system disorders: friend or foe? #neuroscience https://t.co/cZd1c900Lu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1658145597969567745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Every 4 minutes, someone new is diagnosed with ALS. #ALSAwarenessMonth
-
-When @bsw5020 found out he was one of them, he + his wife launched @iamalsorg to empower patients to lead the search for cures to #EndALS. Read their inspiring story ⤵️
-
-https://t.co/bVGUbBFiEF</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1658146095426600960</link>
-      <description>Every 4 minutes, someone new is diagnosed with ALS. #ALSAwarenessMonth
-
-When @bsw5020 found out he was one of them, he + his wife launched @iamalsorg to empower patients to lead the search for cures to #EndALS. Read their inspiring story ⤵️
-
-https://t.co/bVGUbBFiEF</description>
-      <content:encoded>Every 4 minutes, someone new is diagnosed with ALS. #ALSAwarenessMonth
-
-When @bsw5020 found out he was one of them, he + his wife launched @iamalsorg to empower patients to lead the search for cures to #EndALS. Read their inspiring story ⤵️
-
-https://t.co/bVGUbBFiEF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1658146095426600960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:23:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>“If we cure ALS, we have the potential to cure Parkinson’s, Alzheimer’s, MS + a litany of other diseases.”
-
-The documentary No Ordinary Campaign follows @bsw5020’s fight to remake the healthcare system for the millions living with #neurodegeneration https://t.co/oRCMX2xfmT</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1658146096647147520</link>
-      <description>“If we cure ALS, we have the potential to cure Parkinson’s, Alzheimer’s, MS + a litany of other diseases.”
-
-The documentary No Ordinary Campaign follows @bsw5020’s fight to remake the healthcare system for the millions living with #neurodegeneration https://t.co/oRCMX2xfmT</description>
-      <content:encoded>“If we cure ALS, we have the potential to cure Parkinson’s, Alzheimer’s, MS + a litany of other diseases.”
-
-The documentary No Ordinary Campaign follows @bsw5020’s fight to remake the healthcare system for the millions living with #neurodegeneration https://t.co/oRCMX2xfmT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1658146096647147520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:23:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @TSpiresJones: Very proud to share our latest paper out today showing oligomeric tau is a potential culprit in the spread of pathology t…</title>
-      <link>https://twitter.com/NeuroCellPress/status/1658146106595856386</link>
-      <description>RT @TSpiresJones: Very proud to share our latest paper out today showing oligomeric tau is a potential culprit in the spread of pathology t…</description>
-      <content:encoded>RT @TSpiresJones: Very proud to share our latest paper out today showing oligomeric tau is a potential culprit in the spread of pathology t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1658146106595856386"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:23:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CellPressNews: Microglia drive transient insult-induced brain injury by chemotactic recruitment of CD8+ T lymphocytes
-@sysu_1924 Yamei…</title>
-      <link>https://twitter.com/NeuroCellPress/status/1658146219187744768</link>
-      <description>RT @CellPressNews: Microglia drive transient insult-induced brain injury by chemotactic recruitment of CD8+ T lymphocytes
-@sysu_1924 Yamei…</description>
-      <content:encoded>RT @CellPressNews: Microglia drive transient insult-induced brain injury by chemotactic recruitment of CD8+ T lymphocytes
-@sysu_1924 Yamei…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1658146219187744768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Even as academics begin to have more open conversations about the importance of taking care of our mental health, harsh unwelcoming perspectives … are all too common. It shouldn’t be so hard to find—or make—a space for mental health." #ScienceWorkingLife https://t.co/2GVneyKuJY</title>
-      <link>https://twitter.com/ScienceMagazine/status/1658147736695320581</link>
-      <description>"Even as academics begin to have more open conversations about the importance of taking care of our mental health, harsh unwelcoming perspectives … are all too common. It shouldn’t be so hard to find—or make—a space for mental health." #ScienceWorkingLife https://t.co/2GVneyKuJY</description>
-      <content:encoded>"Even as academics begin to have more open conversations about the importance of taking care of our mental health, harsh unwelcoming perspectives … are all too common. It shouldn’t be so hard to find—or make—a space for mental health." #ScienceWorkingLife https://t.co/2GVneyKuJY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658147736695320581"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 15 May 2023 16:30:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 May 2023 13:19:29 +0000</lastBuildDate>
     <item>
       <title>TomoTwin is a generalizable deep metric learning-based particle picking method for cryo-electron tomograms. The method obviates the need for annotating training data and retraining a picking model for each protein. @gavinRice20 @pixelbaumarkt @intein 
 
@@ -789,6 +630,13 @@ He makes a few points I've made before, such as:
       <content:encoded>Polymer ferroelectrics are attractive materials for electromechanical, electrocaloric, and dielectric applications, argues a new #ScienceReview. https://t.co/khJWXrStEC https://t.co/22nbH6ShGX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658215734785220617"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwMqa4JWIAkToBJ.jpg" length="848" type="photo"/>
       <pubDate>Mon, 15 May 2023 21:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DrKeithSmith: Anna-Thomas (@reshma_at) et al. find changing polarisation in a repeating #FRB. The rotation measure varies over a range…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1658217109195726865</link>
+      <description>RT @DrKeithSmith: Anna-Thomas (@reshma_at) et al. find changing polarisation in a repeating #FRB. The rotation measure varies over a range…</description>
+      <content:encoded>RT @DrKeithSmith: Anna-Thomas (@reshma_at) et al. find changing polarisation in a repeating #FRB. The rotation measure varies over a range…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658217109195726865"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 15 May 2023 21:05:41 +0000</pubDate>
     </item>
     <item>
       <title>From a genetic perspective, brain diseases fall into some surprising patterns. #Neuroscience research by our scientists and collaborators finds a new way of sorting diseases and psychiatric disorders that could potentially identify new treatment targets. https://t.co/0tZxPGsU94</title>
@@ -2208,6 +2056,180 @@ Read more ➡️ https://t.co/40ytUB8MO0 https://t.co/Cmn0VwL0LV</description>
 Read more ➡️ https://t.co/40ytUB8MO0 https://t.co/Cmn0VwL0LV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HumanBrainProj/status/1658450749985021954"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwQAJNMWAAMuu5H.jpg" length="1024" type="photo"/>
       <pubDate>Tue, 16 May 2023 12:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bacterial genetic origin in vertebrate eye evolution: @atnjoly recommends this @ChinmayK98 @Daugherty_Lab study in @PNASNews that finds interphotoreceptor retinoid-binding protein was inherited by horizontal gene transfer into the vertebrate genome 
+
+https://t.co/XaVwoJvgLb https://t.co/f1Vjj5mnji</title>
+      <link>https://twitter.com/Facultyopinions/status/1658452240477159424</link>
+      <description>Bacterial genetic origin in vertebrate eye evolution: @atnjoly recommends this @ChinmayK98 @Daugherty_Lab study in @PNASNews that finds interphotoreceptor retinoid-binding protein was inherited by horizontal gene transfer into the vertebrate genome 
+
+https://t.co/XaVwoJvgLb https://t.co/f1Vjj5mnji</description>
+      <content:encoded>Bacterial genetic origin in vertebrate eye evolution: @atnjoly recommends this @ChinmayK98 @Daugherty_Lab study in @PNASNews that finds interphotoreceptor retinoid-binding protein was inherited by horizontal gene transfer into the vertebrate genome 
+
+https://t.co/XaVwoJvgLb https://t.co/f1Vjj5mnji&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1658452240477159424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwQBhhJWIAAPRPP.jpg" length="764" type="photo"/>
+      <pubDate>Tue, 16 May 2023 12:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research Highlight by Nina Vogt: Using a camera array, 3D-RAPID from @HorstmeyerLab achieves high resolution and high speed in a large FOV, as demonstrated by imaging behavior in groups of flies and other animals.
+Paper: https://t.co/Ebf84Fx3kp
+Highlight: https://t.co/gMGrQCKild</title>
+      <link>https://twitter.com/naturemethods/status/1658452739486289921</link>
+      <description>Research Highlight by Nina Vogt: Using a camera array, 3D-RAPID from @HorstmeyerLab achieves high resolution and high speed in a large FOV, as demonstrated by imaging behavior in groups of flies and other animals.
+Paper: https://t.co/Ebf84Fx3kp
+Highlight: https://t.co/gMGrQCKild</description>
+      <content:encoded>Research Highlight by Nina Vogt: Using a camera array, 3D-RAPID from @HorstmeyerLab achieves high resolution and high speed in a large FOV, as demonstrated by imaging behavior in groups of flies and other animals.
+Paper: https://t.co/Ebf84Fx3kp
+Highlight: https://t.co/gMGrQCKild&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1658452739486289921"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 12:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#milesforourminds: More miles in the bag. ✅ From Sussex to Shanghai and New York to Cardiff. To support this year’s Mental Health Awareness Week #MHAW the Scientifica Global Team is taking on the challenge of completing 365 miles! Discover more here: 
+https://t.co/fJYSulIKhm https://t.co/eseQqRjwU3</title>
+      <link>https://twitter.com/Scientifica_Int/status/1658454349792653313</link>
+      <description>#milesforourminds: More miles in the bag. ✅ From Sussex to Shanghai and New York to Cardiff. To support this year’s Mental Health Awareness Week #MHAW the Scientifica Global Team is taking on the challenge of completing 365 miles! Discover more here: 
+https://t.co/fJYSulIKhm https://t.co/eseQqRjwU3</description>
+      <content:encoded>#milesforourminds: More miles in the bag. ✅ From Sussex to Shanghai and New York to Cardiff. To support this year’s Mental Health Awareness Week #MHAW the Scientifica Global Team is taking on the challenge of completing 365 miles! Discover more here: 
+https://t.co/fJYSulIKhm https://t.co/eseQqRjwU3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1658454349792653313"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwQDbUmWYAAwkBD.jpg" length="900" type="photo"/>
+      <pubDate>Tue, 16 May 2023 12:48:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>This clip, where a dye is added to mercury, shows that you can't absorb mercury with a towel and neither with a sponge, no matter the size of its pores 
+
+[read more: https://t.co/kOsk8jBA3t]
+[source: https://t.co/8oxVOGqROx]  
+#donttrythisathome
+https://t.co/36R5GGwhJr https://t.co/EgtBj26kaM</title>
+      <link>https://twitter.com/Rainmaker1973/status/1658455699708338185</link>
+      <description>This clip, where a dye is added to mercury, shows that you can't absorb mercury with a towel and neither with a sponge, no matter the size of its pores 
+
+[read more: https://t.co/kOsk8jBA3t]
+[source: https://t.co/8oxVOGqROx]  
+#donttrythisathome
+https://t.co/36R5GGwhJr https://t.co/EgtBj26kaM</description>
+      <content:encoded>This clip, where a dye is added to mercury, shows that you can't absorb mercury with a towel and neither with a sponge, no matter the size of its pores 
+
+[read more: https://t.co/kOsk8jBA3t]
+[source: https://t.co/8oxVOGqROx]  
+#donttrythisathome
+https://t.co/36R5GGwhJr https://t.co/EgtBj26kaM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658455699708338185"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1434731289366646786/pu/img/u9bsmEoWe1fkdc8r.jpg" length="270" type="photo"/>
+      <pubDate>Tue, 16 May 2023 12:53:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @npjDigitalMed: 📌 Announcing a new collection open to submissions highlighting the unique considerations, approaches, challenges, &amp;amp; oppo…</title>
+      <link>https://twitter.com/NaturePortfolio/status/1658456036846497795</link>
+      <description>RT @npjDigitalMed: 📌 Announcing a new collection open to submissions highlighting the unique considerations, approaches, challenges, &amp;amp; oppo…</description>
+      <content:encoded>RT @npjDigitalMed: 📌 Announcing a new collection open to submissions highlighting the unique considerations, approaches, challenges, &amp;amp; oppo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1658456036846497795"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 12:55:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a hard question! https://t.co/gsTsSkFXef</title>
+      <link>https://twitter.com/PessoaBrain/status/1658456648682287106</link>
+      <description>This is a hard question! https://t.co/gsTsSkFXef</description>
+      <content:encoded>This is a hard question! https://t.co/gsTsSkFXef&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1658456648682287106"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 12:57:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>📣Funding Opportunity!  
+
+Don't miss our info day on Developing #Citiverse Bringing #VirtualWorlds to #citizens and their #smartcommunities! There will be a chance to #network.
+
+🗓️ 23/05 10h to 12h CEST
+
+Register➡️https://t.co/jN14hp6v7M
+
+#VirtualReality #Metaverse #DigitalTwins https://t.co/x5HGcJzuHL</title>
+      <link>https://twitter.com/FutureTechEU/status/1658458104990760964</link>
+      <description>📣Funding Opportunity!  
+
+Don't miss our info day on Developing #Citiverse Bringing #VirtualWorlds to #citizens and their #smartcommunities! There will be a chance to #network.
+
+🗓️ 23/05 10h to 12h CEST
+
+Register➡️https://t.co/jN14hp6v7M
+
+#VirtualReality #Metaverse #DigitalTwins https://t.co/x5HGcJzuHL</description>
+      <content:encoded>📣Funding Opportunity!  
+
+Don't miss our info day on Developing #Citiverse Bringing #VirtualWorlds to #citizens and their #smartcommunities! There will be a chance to #network.
+
+🗓️ 23/05 10h to 12h CEST
+
+Register➡️https://t.co/jN14hp6v7M
+
+#VirtualReality #Metaverse #DigitalTwins https://t.co/x5HGcJzuHL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FutureTechEU/status/1658458104990760964"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwQE40vX0AEWtAY.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 16 May 2023 13:03:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>But it does slightly seem that they missed half a century of relevant prior modeling work.</title>
+      <link>https://twitter.com/KordingLab/status/1658458671066537985</link>
+      <description>But it does slightly seem that they missed half a century of relevant prior modeling work.</description>
+      <content:encoded>But it does slightly seem that they missed half a century of relevant prior modeling work.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1658458671066537985"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 13:05:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>What an amazingly delightful poster! Great job @JennPerusiniPhD. With this stellar lineup, seriously considering going this year. https://t.co/vucJLYiMz3</title>
+      <link>https://twitter.com/prerana123/status/1658459931618557952</link>
+      <description>What an amazingly delightful poster! Great job @JennPerusiniPhD. With this stellar lineup, seriously considering going this year. https://t.co/vucJLYiMz3</description>
+      <content:encoded>What an amazingly delightful poster! Great job @JennPerusiniPhD. With this stellar lineup, seriously considering going this year. https://t.co/vucJLYiMz3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/prerana123/status/1658459931618557952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 13:10:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moles can push with 40x their bodyweight and their posture facilitates digging &amp;amp; burrowing. Yet, their forelimbs position make them walk like this, when out of their tunnels
+
+[learn more: https://t.co/pgeCMRTuEV]
+[📽️ Claire Barker: https://t.co/927hcU3NJJ]
+https://t.co/pmVPsBd8gY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1658460170001821697</link>
+      <description>Moles can push with 40x their bodyweight and their posture facilitates digging &amp;amp; burrowing. Yet, their forelimbs position make them walk like this, when out of their tunnels
+
+[learn more: https://t.co/pgeCMRTuEV]
+[📽️ Claire Barker: https://t.co/927hcU3NJJ]
+https://t.co/pmVPsBd8gY</description>
+      <content:encoded>Moles can push with 40x their bodyweight and their posture facilitates digging &amp;amp; burrowing. Yet, their forelimbs position make them walk like this, when out of their tunnels
+
+[learn more: https://t.co/pgeCMRTuEV]
+[📽️ Claire Barker: https://t.co/927hcU3NJJ]
+https://t.co/pmVPsBd8gY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658460170001821697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1536807799384162304/pu/img/BT3Ftb_j9AR4brmu.jpg" length="720" type="photo"/>
+      <pubDate>Tue, 16 May 2023 13:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tegmark @ZimingLiu11 Wiring length minimization as it used to be called was, in parts for these reasons, a popular field in comp Neuro for a long time.</title>
+      <link>https://twitter.com/KordingLab/status/1658460328873840640</link>
+      <description>@tegmark @ZimingLiu11 Wiring length minimization as it used to be called was, in parts for these reasons, a popular field in comp Neuro for a long time.</description>
+      <content:encoded>@tegmark @ZimingLiu11 Wiring length minimization as it used to be called was, in parts for these reasons, a popular field in comp Neuro for a long time.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1658460328873840640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 13:12:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pie &amp;amp; AI Ambassador Spotlight!
+
+Learn how Irvi Aini, our Pie &amp;amp; AI ambassador from Tegal, Indonesia, has built her career and community with @DeepLearningAI_.
+
+Read her insights here: https://t.co/33MrfP7q7k</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1658461039720054786</link>
+      <description>Pie &amp;amp; AI Ambassador Spotlight!
+
+Learn how Irvi Aini, our Pie &amp;amp; AI ambassador from Tegal, Indonesia, has built her career and community with @DeepLearningAI_.
+
+Read her insights here: https://t.co/33MrfP7q7k</description>
+      <content:encoded>Pie &amp;amp; AI Ambassador Spotlight!
+
+Learn how Irvi Aini, our Pie &amp;amp; AI ambassador from Tegal, Indonesia, has built her career and community with @DeepLearningAI_.
+
+Read her insights here: https://t.co/33MrfP7q7k&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1658461039720054786"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 13:14:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @OpenAccess_se: Anna Nilsson Vindefjärd @EuroScience opens the next part of the conference: ”Aligning research assessment with OpenScien…</title>
+      <link>https://twitter.com/forskasverige/status/1658461559650242561</link>
+      <description>RT @OpenAccess_se: Anna Nilsson Vindefjärd @EuroScience opens the next part of the conference: ”Aligning research assessment with OpenScien…</description>
+      <content:encoded>RT @OpenAccess_se: Anna Nilsson Vindefjärd @EuroScience opens the next part of the conference: ”Aligning research assessment with OpenScien…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/forskasverige/status/1658461559650242561"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 13:17:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
