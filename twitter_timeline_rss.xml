@@ -6,7 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 May 2023 02:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2023 03:16:56 +0000</lastBuildDate>
     <item>
       <title>#PeerReview from @eLife of 👉🏿 Cerebellar Activation Bidirectionally Regulates Nucleus Accumbens Shell and Core  https://t.co/2fXZIM6XgO #biorxiv_neursci #reviewedpreprint</title>
       <link>https://twitter.com/biorxiv_neursci/status/1658398287953625164</link>
@@ -649,14 +649,6 @@ https://t.co/396AnIGfxT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Tue, 16 May 2023 13:32:00 +0000</pubDate>
     </item>
     <item>
-      <title>RT @BrielleRyan: Getting our first rig built today! 🤩🧠@Scientifica_Int https://t.co/YtD3ELhh9f</title>
-      <link>https://twitter.com/Scientifica_Int/status/1658466358961766401</link>
-      <description>RT @BrielleRyan: Getting our first rig built today! 🤩🧠@Scientifica_Int https://t.co/YtD3ELhh9f</description>
-      <content:encoded>RT @BrielleRyan: Getting our first rig built today! 🤩🧠@Scientifica_Int https://t.co/YtD3ELhh9f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1658466358961766401"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwQOOHdagAI7QvU.jpg" length="900" type="photo"/>
-      <pubDate>Tue, 16 May 2023 13:36:07 +0000</pubDate>
-    </item>
-    <item>
       <title>This square isn’t actually rotating
 
 [read more: https://t.co/XviyjNtlJK]
@@ -1211,6 +1203,13 @@ Check out this #GoogleIO session and learn how to improve your ML projects using
 Check out this #GoogleIO session and learn how to improve your ML projects using Kaggle Models and successfully submit to competition → https://t.co/kHsudKcQgj https://t.co/fFC39nmld8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1658502576898285569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwQvTbqWAAERWDW.jpg" length="1200" type="photo"/>
       <pubDate>Tue, 16 May 2023 16:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jockschat: What can expression profiles of risk genes for brain diseases reveal and how can we move from genes to drug targets? Great p…</title>
+      <link>https://twitter.com/AllenInstitute/status/1658502585001672706</link>
+      <description>RT @jockschat: What can expression profiles of risk genes for brain diseases reveal and how can we move from genes to drug targets? Great p…</description>
+      <content:encoded>RT @jockschat: What can expression profiles of risk genes for brain diseases reveal and how can we move from genes to drug targets? Great p…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1658502585001672706"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 16 May 2023 16:00:04 +0000</pubDate>
     </item>
     <item>
       <title>With interactivity:
@@ -1928,13 +1927,6 @@ https://t.co/5m4hMJQDTL https://t.co/PZSR1lfrN3&lt;blockquote class="twitter-twe
       <pubDate>Tue, 16 May 2023 20:09:03 +0000</pubDate>
     </item>
     <item>
-      <title>RT @scisignal: Researchers answer how the common foodborne bacterium Bacillus cereus “punches” holes in intestinal junctions, a new Editors…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1658570350572064770</link>
-      <description>RT @scisignal: Researchers answer how the common foodborne bacterium Bacillus cereus “punches” holes in intestinal junctions, a new Editors…</description>
-      <content:encoded>RT @scisignal: Researchers answer how the common foodborne bacterium Bacillus cereus “punches” holes in intestinal junctions, a new Editors…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658570350572064770"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 16 May 2023 20:29:20 +0000</pubDate>
-    </item>
-    <item>
       <title>A paper in @Nature provides new insights about non-Abelian braiding and, through the future inclusion of error correction to achieve topological protection, could open a path towards fault-tolerant quantum computing. https://t.co/WKGqtO60g4 https://t.co/lwzl5NBSnl</title>
       <link>https://twitter.com/NaturePortfolio/status/1658575569607438341</link>
       <description>A paper in @Nature provides new insights about non-Abelian braiding and, through the future inclusion of error correction to achieve topological protection, could open a path towards fault-tolerant quantum computing. https://t.co/WKGqtO60g4 https://t.co/lwzl5NBSnl</description>
@@ -2264,6 +2256,14 @@ Numerous studies have shown that aging greatly affects audiovisual integration; 
       <description>RT @eLife: Open-source tools for behavioral video analysis: Setup, methods, and best practices. https://t.co/rVt3fiWIk1 https://t.co/f3of8f…</description>
       <content:encoded>RT @eLife: Open-source tools for behavioral video analysis: Setup, methods, and best practices. https://t.co/rVt3fiWIk1 https://t.co/f3of8f…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenBehavior/status/1658661034951843841"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 17 May 2023 02:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in @SciImmunology: Researchers present a nanoparticle immunotherapy platform that can counter the dysfunctional vasculature of cancer tumors, spotlighting a critical part of the immunosuppressive tumor microenvironment. https://t.co/B544M13tPg https://t.co/fEfTKBvOye</title>
+      <link>https://twitter.com/ScienceMagazine/status/1658668688948461572</link>
+      <description>New in @SciImmunology: Researchers present a nanoparticle immunotherapy platform that can counter the dysfunctional vasculature of cancer tumors, spotlighting a critical part of the immunosuppressive tumor microenvironment. https://t.co/B544M13tPg https://t.co/fEfTKBvOye</description>
+      <content:encoded>New in @SciImmunology: Researchers present a nanoparticle immunotherapy platform that can counter the dysfunctional vasculature of cancer tumors, spotlighting a critical part of the immunosuppressive tumor microenvironment. https://t.co/B544M13tPg https://t.co/fEfTKBvOye&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658668688948461572"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwTGYfNXsAEAn5m.jpg" length="910" type="photo"/>
+      <pubDate>Wed, 17 May 2023 03:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
