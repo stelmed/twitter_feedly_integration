@@ -6,221 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 May 2023 14:14:19 +0000</lastBuildDate>
-    <item>
-      <title>Did you know that the data from our first #OpenScope project with the @AllenInstitute on predictive learning in cortex is available on-line?
-
-Now, you can find the (open) paper describing the dataset and linking to all the data/code at @ScientificData:
-
-https://t.co/gSGbxeNmlF</title>
-      <link>https://twitter.com/tyrell_turing/status/1658916925378895902</link>
-      <description>Did you know that the data from our first #OpenScope project with the @AllenInstitute on predictive learning in cortex is available on-line?
-
-Now, you can find the (open) paper describing the dataset and linking to all the data/code at @ScientificData:
-
-https://t.co/gSGbxeNmlF</description>
-      <content:encoded>Did you know that the data from our first #OpenScope project with the @AllenInstitute on predictive learning in cortex is available on-line?
-
-Now, you can find the (open) paper describing the dataset and linking to all the data/code at @ScientificData:
-
-https://t.co/gSGbxeNmlF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1658916925378895902"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>A big thanks to @colleenjgillon for her amazing work on this (she was the lead here, and built the codebase that makes it easy and quick to analyze this data), and to @LecoqJerome and the whole OpenScope team for their work actually collecting the data!</title>
-      <link>https://twitter.com/tyrell_turing/status/1658917064352964626</link>
-      <description>A big thanks to @colleenjgillon for her amazing work on this (she was the lead here, and built the codebase that makes it easy and quick to analyze this data), and to @LecoqJerome and the whole OpenScope team for their work actually collecting the data!</description>
-      <content:encoded>A big thanks to @colleenjgillon for her amazing work on this (she was the lead here, and built the codebase that makes it easy and quick to analyze this data), and to @LecoqJerome and the whole OpenScope team for their work actually collecting the data!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1658917064352964626"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:27:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teacher well-being = student well-being. Share if you agree! https://t.co/NakY6xRVE8</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1658917828743790596</link>
-      <description>Teacher well-being = student well-being. Share if you agree! https://t.co/NakY6xRVE8</description>
-      <content:encoded>Teacher well-being = student well-being. Share if you agree! https://t.co/NakY6xRVE8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1658917828743790596"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwWo-SoXgAgFRJM.jpg" length="960" type="photo"/>
-      <pubDate>Wed, 17 May 2023 19:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New research on the demographic history and genetic structure in pre-Hispanic Central Mexico sets a standard for how paleogenomics can be conducted in an ethical and sustainable manner, argues a new #SciencePerspective. https://t.co/uPsY3JrkeB https://t.co/xCDbTaHABZ</title>
-      <link>https://twitter.com/ScienceMagazine/status/1658917842123669506</link>
-      <description>New research on the demographic history and genetic structure in pre-Hispanic Central Mexico sets a standard for how paleogenomics can be conducted in an ethical and sustainable manner, argues a new #SciencePerspective. https://t.co/uPsY3JrkeB https://t.co/xCDbTaHABZ</description>
-      <content:encoded>New research on the demographic history and genetic structure in pre-Hispanic Central Mexico sets a standard for how paleogenomics can be conducted in an ethical and sustainable manner, argues a new #SciencePerspective. https://t.co/uPsY3JrkeB https://t.co/xCDbTaHABZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658917842123669506"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwWo_CFWYAAmI-I.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 17 May 2023 19:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Love to see Starlink providing great connectivity to those who had little or nothing before. 
-
-As soon as you can access the Internet, you can learn almost anything, so it’s absolutely essential for education.
-
-@khanacademy being a great example. https://t.co/PNlxrpQF8i</title>
-      <link>https://twitter.com/elonmusk/status/1658918251861082120</link>
-      <description>Love to see Starlink providing great connectivity to those who had little or nothing before. 
-
-As soon as you can access the Internet, you can learn almost anything, so it’s absolutely essential for education.
-
-@khanacademy being a great example. https://t.co/PNlxrpQF8i</description>
-      <content:encoded>Love to see Starlink providing great connectivity to those who had little or nothing before. 
-
-As soon as you can access the Internet, you can learn almost anything, so it’s absolutely essential for education.
-
-@khanacademy being a great example. https://t.co/PNlxrpQF8i&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1658918251861082120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:31:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @bapnaa: Inspired by Daniel’s effort, we’ve created #opendoorclimate where you can set up quick 1:1 conversations w hundreds of climate…</title>
-      <link>https://twitter.com/neurograce/status/1658923406648066055</link>
-      <description>RT @bapnaa: Inspired by Daniel’s effort, we’ve created #opendoorclimate where you can set up quick 1:1 conversations w hundreds of climate…</description>
-      <content:encoded>RT @bapnaa: Inspired by Daniel’s effort, we’ve created #opendoorclimate where you can set up quick 1:1 conversations w hundreds of climate…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1658923406648066055"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>I attended this as a PhD student and it was lovely!
-
-Junior Scientist Workshop on Theoretical Neuroscience | Janelia Research Campus https://t.co/Ero4Ve5nCF</title>
-      <link>https://twitter.com/neurograce/status/1658923669031202817</link>
-      <description>I attended this as a PhD student and it was lovely!
-
-Junior Scientist Workshop on Theoretical Neuroscience | Janelia Research Campus https://t.co/Ero4Ve5nCF</description>
-      <content:encoded>I attended this as a PhD student and it was lovely!
-
-Junior Scientist Workshop on Theoretical Neuroscience | Janelia Research Campus https://t.co/Ero4Ve5nCF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1658923669031202817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:53:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>R701-X19-566: His6-MBP-tev-Avi-Hs.KRAS4b(2-188) G12V
-Depositor: Dominic Esposito @domespo 
-Purpose: E. coli protein expression of His6-MBP-tev-Avi-Hs.KRAS4b(2-188) G12V
-
-https://t.co/DgJ7UOt3ar https://t.co/nDrw1oMThK</title>
-      <link>https://twitter.com/Addgene/status/1658925618912804867</link>
-      <description>R701-X19-566: His6-MBP-tev-Avi-Hs.KRAS4b(2-188) G12V
-Depositor: Dominic Esposito @domespo 
-Purpose: E. coli protein expression of His6-MBP-tev-Avi-Hs.KRAS4b(2-188) G12V
-
-https://t.co/DgJ7UOt3ar https://t.co/nDrw1oMThK</description>
-      <content:encoded>R701-X19-566: His6-MBP-tev-Avi-Hs.KRAS4b(2-188) G12V
-Depositor: Dominic Esposito @domespo 
-Purpose: E. coli protein expression of His6-MBP-tev-Avi-Hs.KRAS4b(2-188) G12V
-
-https://t.co/DgJ7UOt3ar https://t.co/nDrw1oMThK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1658925618912804867"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FwWwDOdWIAMEkg3.jpg" length="480" type="photo"/>
-      <pubDate>Wed, 17 May 2023 20:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>This week’s AI news: 
-- Why test sets are falling out of favor
-- Language models share their politics
-- Training a 3D image generation model ... with no 3D data
-
-Plus: A roundup of generative AI tools announced at Google I/O
-
-Learn more in #TheBatch: https://t.co/2U4rUjawd3</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1658926041157492736</link>
-      <description>This week’s AI news: 
-- Why test sets are falling out of favor
-- Language models share their politics
-- Training a 3D image generation model ... with no 3D data
-
-Plus: A roundup of generative AI tools announced at Google I/O
-
-Learn more in #TheBatch: https://t.co/2U4rUjawd3</description>
-      <content:encoded>This week’s AI news: 
-- Why test sets are falling out of favor
-- Language models share their politics
-- Training a 3D image generation model ... with no 3D data
-
-Plus: A roundup of generative AI tools announced at Google I/O
-
-Learn more in #TheBatch: https://t.co/2U4rUjawd3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1658926041157492736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 20:02:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Polar angle asymmetries in visual perception and neural architecture'
-
-by @MarcHimmelberg, Jonathan Winawer &amp;amp; Marisa Carrasco @Carrasco_lab 
-
-https://t.co/YcIGZot9AQ https://t.co/GGlvcFXCx4</title>
-      <link>https://twitter.com/TrendsNeuro/status/1658932874387636225</link>
-      <description>'Polar angle asymmetries in visual perception and neural architecture'
-
-by @MarcHimmelberg, Jonathan Winawer &amp;amp; Marisa Carrasco @Carrasco_lab 
-
-https://t.co/YcIGZot9AQ https://t.co/GGlvcFXCx4</description>
-      <content:encoded>'Polar angle asymmetries in visual perception and neural architecture'
-
-by @MarcHimmelberg, Jonathan Winawer &amp;amp; Marisa Carrasco @Carrasco_lab 
-
-https://t.co/YcIGZot9AQ https://t.co/GGlvcFXCx4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrendsNeuro/status/1658932874387636225"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwW2CoNX0AA3ZGn.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 17 May 2023 20:29:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>"We all win when everyone has a safe place to call home that they can afford." Amie Fishman of @NPHANC understands that #AffordableHousing not only keeps people and families housed but it also strengthens entire communities 
-#AffordableHousingMonth https://t.co/sAzxHLGvKh</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1658937707786035200</link>
-      <description>"We all win when everyone has a safe place to call home that they can afford." Amie Fishman of @NPHANC understands that #AffordableHousing not only keeps people and families housed but it also strengthens entire communities 
-#AffordableHousingMonth https://t.co/sAzxHLGvKh</description>
-      <content:encoded>"We all win when everyone has a safe place to call home that they can afford." Amie Fishman of @NPHANC understands that #AffordableHousing not only keeps people and families housed but it also strengthens entire communities 
-#AffordableHousingMonth https://t.co/sAzxHLGvKh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1658937707786035200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwW7Db8WIAQmMtw.jpg" length="960" type="photo"/>
-      <pubDate>Wed, 17 May 2023 20:49:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>.@drdre4000 argues in a @NatRevChem Comment article that inclusive pedagogy that incorporates social issues and innovative teaching with special attention to historically excluded groups are keys to unlocking the full potential of future scientists. https://t.co/hX2kGFIF99</title>
-      <link>https://twitter.com/NaturePortfolio/status/1658937937277460486</link>
-      <description>.@drdre4000 argues in a @NatRevChem Comment article that inclusive pedagogy that incorporates social issues and innovative teaching with special attention to historically excluded groups are keys to unlocking the full potential of future scientists. https://t.co/hX2kGFIF99</description>
-      <content:encoded>.@drdre4000 argues in a @NatRevChem Comment article that inclusive pedagogy that incorporates social issues and innovative teaching with special attention to historically excluded groups are keys to unlocking the full potential of future scientists. https://t.co/hX2kGFIF99&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1658937937277460486"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 20:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @iamdavidmiller: We have had a Conservative dominated Council and Conservative Mayors for 12 years. They inherited a city government wit…</title>
-      <link>https://twitter.com/tyrell_turing/status/1658939511794028550</link>
-      <description>RT @iamdavidmiller: We have had a Conservative dominated Council and Conservative Mayors for 12 years. They inherited a city government wit…</description>
-      <content:encoded>RT @iamdavidmiller: We have had a Conservative dominated Council and Conservative Mayors for 12 years. They inherited a city government wit…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1658939511794028550"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 20:56:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AlisonGopnik: Very pleased to be part of this fascinating NOVA about perception and consciousness</title>
-      <link>https://twitter.com/tyrell_turing/status/1658939641897050113</link>
-      <description>RT @AlisonGopnik: Very pleased to be part of this fascinating NOVA about perception and consciousness</description>
-      <content:encoded>RT @AlisonGopnik: Very pleased to be part of this fascinating NOVA about perception and consciousness&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1658939641897050113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 20:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Have you registered yet? 🤔 
-
-Attend the live event to join the conversation! 
-
-#neurotwitter #phdchat https://t.co/gWNRSqcz9W</title>
-      <link>https://twitter.com/SfNtweets/status/1658939699975659522</link>
-      <description>Have you registered yet? 🤔 
-
-Attend the live event to join the conversation! 
-
-#neurotwitter #phdchat https://t.co/gWNRSqcz9W</description>
-      <content:encoded>Have you registered yet? 🤔 
-
-Attend the live event to join the conversation! 
-
-#neurotwitter #phdchat https://t.co/gWNRSqcz9W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1658939699975659522"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 20:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Ready to take your generative AI skills to the next level?
-
-Don't miss this #GoogleIO session where you’ll learn common use cases for LLMs and how to integrate them into your apps using Google Cloud Vertex AI → https://t.co/xQvTKz22u1 https://t.co/FFw4SIVsgD</title>
-      <link>https://twitter.com/TensorFlow/status/1658940461996732416</link>
-      <description>⚡ Ready to take your generative AI skills to the next level?
-
-Don't miss this #GoogleIO session where you’ll learn common use cases for LLMs and how to integrate them into your apps using Google Cloud Vertex AI → https://t.co/xQvTKz22u1 https://t.co/FFw4SIVsgD</description>
-      <content:encoded>⚡ Ready to take your generative AI skills to the next level?
-
-Don't miss this #GoogleIO session where you’ll learn common use cases for LLMs and how to integrate them into your apps using Google Cloud Vertex AI → https://t.co/xQvTKz22u1 https://t.co/FFw4SIVsgD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1658940461996732416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwW9jpmWIAAyrSL.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 17 May 2023 21:00:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 May 2023 15:16:01 +0000</lastBuildDate>
     <item>
       <title>New in @SciImmunology: Two protein-based Novavax vaccines used as a booster matched the Moderna vaccine’s performance against #SARSCoV2 in rhesus macaques. https://t.co/WU1ashILH7 https://t.co/diGeldyArY</title>
       <link>https://twitter.com/ScienceMagazine/status/1658940498202206212</link>
@@ -935,20 +721,6 @@ Truth:
       <description>Sex-dependent improvement in traumatic brain injury outcomes after liposomal delivery of dexamethasone in mice.  https://t.co/V42QSnR5Lc #biorxiv_neursci</description>
       <content:encoded>Sex-dependent improvement in traumatic brain injury outcomes after liposomal delivery of dexamethasone in mice.  https://t.co/V42QSnR5Lc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1659065483629404160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 18 May 2023 05:16:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>44 years ago #Today, Viking 2 took this iconic image of frost on #Mars 
-
-[source, read more: https://t.co/O5BmzHVVve] https://t.co/cb3giuYI5n</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659066468716126210</link>
-      <description>44 years ago #Today, Viking 2 took this iconic image of frost on #Mars 
-
-[source, read more: https://t.co/O5BmzHVVve] https://t.co/cb3giuYI5n</description>
-      <content:encoded>44 years ago #Today, Viking 2 took this iconic image of frost on #Mars 
-
-[source, read more: https://t.co/O5BmzHVVve] https://t.co/cb3giuYI5n&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659066468716126210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwYwIUFWIAAnADn.jpg" length="768" type="photo"/>
-      <pubDate>Thu, 18 May 2023 05:20:44 +0000</pubDate>
     </item>
     <item>
       <title>RT @kfrankelab: Registration done ✅ come join us at the European Retina Meeting 2023 in beautiful Tübingen 😊 
@@ -2191,6 +1963,254 @@ Application deadline: July 7
 Learn more and apply: https://t.co/66u7IoglxR https://t.co/2QTtHKRlMI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1659200629020196864"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwaqLNDagAM8GHv.jpg" length="1160" type="photo"/>
       <pubDate>Thu, 18 May 2023 14:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>POV: you're inside my head
+
+Original: The Verge on TikTok https://t.co/9CXfXnHM5v</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1659200873229328384</link>
+      <description>POV: you're inside my head
+
+Original: The Verge on TikTok https://t.co/9CXfXnHM5v</description>
+      <content:encoded>POV: you're inside my head
+
+Original: The Verge on TikTok https://t.co/9CXfXnHM5v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1659200873229328384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1659200811027800064/pu/img/Xz-Q2aLHz1d4Vgzn.jpg" length="675" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
+
+[site: https://t.co/jpz3ylzbgK]
+[TikTok: https://t.co/3XWShB8jla]
+https://t.co/XLhB1hxRTI</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659202375087947783</link>
+      <description>Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
+
+[site: https://t.co/jpz3ylzbgK]
+[TikTok: https://t.co/3XWShB8jla]
+https://t.co/XLhB1hxRTI</description>
+      <content:encoded>Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
+
+[site: https://t.co/jpz3ylzbgK]
+[TikTok: https://t.co/3XWShB8jla]
+https://t.co/XLhB1hxRTI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659202375087947783"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1600460525669859328/pu/img/nJMataZN7rthwGJI.jpg" length="576" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senolytic compounds have shown promise for the treatment of aging-related diseases. A study in @NatureAging uses a deep learning model to identify compounds with favorable drug-like properties and confirms one compound’s in vivo activity in aged mice. 🔒 https://t.co/DF0OWretkx https://t.co/ObopuuFJdI</title>
+      <link>https://twitter.com/NaturePortfolio/status/1659203459093233665</link>
+      <description>Senolytic compounds have shown promise for the treatment of aging-related diseases. A study in @NatureAging uses a deep learning model to identify compounds with favorable drug-like properties and confirms one compound’s in vivo activity in aged mice. 🔒 https://t.co/DF0OWretkx https://t.co/ObopuuFJdI</description>
+      <content:encoded>Senolytic compounds have shown promise for the treatment of aging-related diseases. A study in @NatureAging uses a deep learning model to identify compounds with favorable drug-like properties and confirms one compound’s in vivo activity in aged mice. 🔒 https://t.co/DF0OWretkx https://t.co/ObopuuFJdI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1659203459093233665"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwasvHxagAQCLEH.jpg" length="1000" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jessica Flack: from discovering a theory of collective computation to consciousness.</title>
+      <link>https://twitter.com/PessoaBrain/status/1659206421203017736</link>
+      <description>Jessica Flack: from discovering a theory of collective computation to consciousness.</description>
+      <content:encoded>Jessica Flack: from discovering a theory of collective computation to consciousness.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1659206421203017736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 14:36:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Hippocampal area CA2: interneuron disfunction during pathological states #NeuralCircuits https://t.co/Zc0B58h6nM</title>
+      <link>https://twitter.com/FrontNeurosci/status/1659207233119617025</link>
+      <description>New Research: Hippocampal area CA2: interneuron disfunction during pathological states #NeuralCircuits https://t.co/Zc0B58h6nM</description>
+      <content:encoded>New Research: Hippocampal area CA2: interneuron disfunction during pathological states #NeuralCircuits https://t.co/Zc0B58h6nM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1659207233119617025"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 14:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artist Kenichi Kanazawa might be well defined as a 'sound sculptor' as in this clip he gives a visual demonstration of the power of sound to put order into chaos 
+
+[video: https://t.co/LwV8SSLXjO]
+[Chladni plates: https://t.co/KclxAr06Z6]
+https://t.co/385p5P82kU</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659207456302706691</link>
+      <description>Artist Kenichi Kanazawa might be well defined as a 'sound sculptor' as in this clip he gives a visual demonstration of the power of sound to put order into chaos 
+
+[video: https://t.co/LwV8SSLXjO]
+[Chladni plates: https://t.co/KclxAr06Z6]
+https://t.co/385p5P82kU</description>
+      <content:encoded>Artist Kenichi Kanazawa might be well defined as a 'sound sculptor' as in this clip he gives a visual demonstration of the power of sound to put order into chaos 
+
+[video: https://t.co/LwV8SSLXjO]
+[Chladni plates: https://t.co/KclxAr06Z6]
+https://t.co/385p5P82kU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659207456302706691"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1326721300568666112/pu/img/2HOC2doTSq3-fG-e.jpg" length="480" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Laura_E_Suarez: If you’re interested in NeuroAI, you should not miss this event 👀 organized by UNIQUE students 😉
+
+🧠🤖</title>
+      <link>https://twitter.com/tyrell_turing/status/1659212075523272708</link>
+      <description>RT @Laura_E_Suarez: If you’re interested in NeuroAI, you should not miss this event 👀 organized by UNIQUE students 😉
+
+🧠🤖</description>
+      <content:encoded>RT @Laura_E_Suarez: If you’re interested in NeuroAI, you should not miss this event 👀 organized by UNIQUE students 😉
+
+🧠🤖&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1659212075523272708"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 14:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mathwis_emily: Hey! did you know that we are crowdfunding for the Deep Learning Indaba this year in Ghana?
+
+Check out video + testimoni…</title>
+      <link>https://twitter.com/tyrell_turing/status/1659212181014204430</link>
+      <description>RT @mathwis_emily: Hey! did you know that we are crowdfunding for the Deep Learning Indaba this year in Ghana?
+
+Check out video + testimoni…</description>
+      <content:encoded>RT @mathwis_emily: Hey! did you know that we are crowdfunding for the Deep Learning Indaba this year in Ghana?
+
+Check out video + testimoni…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1659212181014204430"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 14:59:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Curious about what the Fc domain of an antibody can do? We're diving into Fc effector functions in our latest blog post! 
+
+https://t.co/AP1MY3QiBW</title>
+      <link>https://twitter.com/Addgene/status/1659212247825256449</link>
+      <description>Curious about what the Fc domain of an antibody can do? We're diving into Fc effector functions in our latest blog post! 
+
+https://t.co/AP1MY3QiBW</description>
+      <content:encoded>Curious about what the Fc domain of an antibody can do? We're diving into Fc effector functions in our latest blog post! 
+
+https://t.co/AP1MY3QiBW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1659212247825256449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>44 years ago #Today, Viking 2 took this iconic image of frost on #Mars 
+
+[source: https://t.co/O5BmzHWtkM]
+[processing by @tedstryk] https://t.co/9VspmlicCd</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659212290938511362</link>
+      <description>44 years ago #Today, Viking 2 took this iconic image of frost on #Mars 
+
+[source: https://t.co/O5BmzHWtkM]
+[processing by @tedstryk] https://t.co/9VspmlicCd</description>
+      <content:encoded>44 years ago #Today, Viking 2 took this iconic image of frost on #Mars 
+
+[source: https://t.co/O5BmzHWtkM]
+[processing by @tedstryk] https://t.co/9VspmlicCd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659212290938511362"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwa0la0agAIUq-N.jpg" length="768" type="photo"/>
+      <pubDate>Thu, 18 May 2023 15:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new @SciImmunology study in mice investigates the developmental origins of CD4+ tissue resident memory cells, identifying a potential precursor population in the small intestine.
+
+Read more: https://t.co/LDrjPGjcK2 https://t.co/t8IZGC9bu7</title>
+      <link>https://twitter.com/ScienceMagazine/status/1659212448044568577</link>
+      <description>A new @SciImmunology study in mice investigates the developmental origins of CD4+ tissue resident memory cells, identifying a potential precursor population in the small intestine.
+
+Read more: https://t.co/LDrjPGjcK2 https://t.co/t8IZGC9bu7</description>
+      <content:encoded>A new @SciImmunology study in mice investigates the developmental origins of CD4+ tissue resident memory cells, identifying a potential precursor population in the small intestine.
+
+Read more: https://t.co/LDrjPGjcK2 https://t.co/t8IZGC9bu7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1659212448044568577"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwa07X8aIAArOGx.jpg" length="911" type="photo"/>
+      <pubDate>Thu, 18 May 2023 15:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Imagine you are going to #space. You’ll need lots of supplies, but you can’t bring everything. What if you could make what you need while in space? Learn more about the potential of in-space manufacturing in this week’s Voices from DARPA https://t.co/zsEc6BAmWV https://t.co/5JA4OlpiK4</title>
+      <link>https://twitter.com/DARPA/status/1659212813875957760</link>
+      <description>Imagine you are going to #space. You’ll need lots of supplies, but you can’t bring everything. What if you could make what you need while in space? Learn more about the potential of in-space manufacturing in this week’s Voices from DARPA https://t.co/zsEc6BAmWV https://t.co/5JA4OlpiK4</description>
+      <content:encoded>Imagine you are going to #space. You’ll need lots of supplies, but you can’t bring everything. What if you could make what you need while in space? Learn more about the potential of in-space manufacturing in this week’s Voices from DARPA https://t.co/zsEc6BAmWV https://t.co/5JA4OlpiK4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1659212813875957760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwa1QxlagAI9LUa.jpg" length="619" type="photo"/>
+      <pubDate>Thu, 18 May 2023 15:02:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>@KordingLab @blamlab I actually buy the causal link... based on personal anecdotal experience. 
+
+But, based on that same anecdotal data, I think it is almost surely the case that cannabis only accelerates and exacerbates the situation for those who are already at risk for schizophrenia anyway.</title>
+      <link>https://twitter.com/tyrell_turing/status/1659214298495737858</link>
+      <description>@KordingLab @blamlab I actually buy the causal link... based on personal anecdotal experience. 
+
+But, based on that same anecdotal data, I think it is almost surely the case that cannabis only accelerates and exacerbates the situation for those who are already at risk for schizophrenia anyway.</description>
+      <content:encoded>@KordingLab @blamlab I actually buy the causal link... based on personal anecdotal experience. 
+
+But, based on that same anecdotal data, I think it is almost surely the case that cannabis only accelerates and exacerbates the situation for those who are already at risk for schizophrenia anyway.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1659214298495737858"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 15:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>📢Upcoming INCF Short Course📢
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+Apply by: Jun 15
+
+Learn about the science &amp;amp; engineering of brain data - 50% course discount for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrLtWz
+
+#neuroscience #neuroinformatics</title>
+      <link>https://twitter.com/INCForg/status/1659214508970356739</link>
+      <description>📢Upcoming INCF Short Course📢
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+Apply by: Jun 15
+
+Learn about the science &amp;amp; engineering of brain data - 50% course discount for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrLtWz
+
+#neuroscience #neuroinformatics</description>
+      <content:encoded>📢Upcoming INCF Short Course📢
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+Apply by: Jun 15
+
+Learn about the science &amp;amp; engineering of brain data - 50% course discount for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrLtWz
+
+#neuroscience #neuroinformatics&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1659214508970356739"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 15:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Burn an element and it will show its color signature. Each element has an exactly defined line emission spectrum, we are able to identify them by the color of flame they produce
+
+[read more: https://t.co/oB1lFZ2dbO] 
+[📹 Thoisoi: https://t.co/5dQhbNodq8]
+https://t.co/4YkOLmnVCn</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659214823807414272</link>
+      <description>Burn an element and it will show its color signature. Each element has an exactly defined line emission spectrum, we are able to identify them by the color of flame they produce
+
+[read more: https://t.co/oB1lFZ2dbO] 
+[📹 Thoisoi: https://t.co/5dQhbNodq8]
+https://t.co/4YkOLmnVCn</description>
+      <content:encoded>Burn an element and it will show its color signature. Each element has an exactly defined line emission spectrum, we are able to identify them by the color of flame they produce
+
+[read more: https://t.co/oB1lFZ2dbO] 
+[📹 Thoisoi: https://t.co/5dQhbNodq8]
+https://t.co/4YkOLmnVCn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659214823807414272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1258276853653164032/pu/img/V5FDJM1ATmj49rkX.jpg" length="640" type="photo"/>
+      <pubDate>Thu, 18 May 2023 15:10:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open science breaks down barriers + creates a more diverse &amp;amp; inclusive research community. 
+
+Learn how CZI is partnering with researchers in Latin America to support #OpenScience ➡️ https://t.co/3p6NUG3ro0 https://t.co/lwmm1y5Mty</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1659216044517367808</link>
+      <description>Open science breaks down barriers + creates a more diverse &amp;amp; inclusive research community. 
+
+Learn how CZI is partnering with researchers in Latin America to support #OpenScience ➡️ https://t.co/3p6NUG3ro0 https://t.co/lwmm1y5Mty</description>
+      <content:encoded>Open science breaks down barriers + creates a more diverse &amp;amp; inclusive research community. 
+
+Learn how CZI is partnering with researchers in Latin America to support #OpenScience ➡️ https://t.co/3p6NUG3ro0 https://t.co/lwmm1y5Mty&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1659216044517367808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwa4MplWAAAasnD.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 18 May 2023 15:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparing mental imagery experiences across visual, auditory, and other sensory modalities  https://t.co/6zEpFKcaHZ #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1659216162704465920</link>
+      <description>Comparing mental imagery experiences across visual, auditory, and other sensory modalities  https://t.co/6zEpFKcaHZ #biorxiv_neursci</description>
+      <content:encoded>Comparing mental imagery experiences across visual, auditory, and other sensory modalities  https://t.co/6zEpFKcaHZ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1659216162704465920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 15:15:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
