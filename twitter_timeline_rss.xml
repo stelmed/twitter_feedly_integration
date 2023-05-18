@@ -6,173 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 May 2023 13:18:40 +0000</lastBuildDate>
-    <item>
-      <title>Half a truck towing a seaplane
-
-[source, explanation: https://t.co/w2XuwzLmZn]
-https://t.co/IpiPafhdGK</title>
-      <link>https://twitter.com/Rainmaker1973/status/1658901687220809733</link>
-      <description>Half a truck towing a seaplane
-
-[source, explanation: https://t.co/w2XuwzLmZn]
-https://t.co/IpiPafhdGK</description>
-      <content:encoded>Half a truck towing a seaplane
-
-[source, explanation: https://t.co/w2XuwzLmZn]
-https://t.co/IpiPafhdGK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658901687220809733"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1658853425776410626/pu/img/-clpENEP9pB3cBvY.jpg" length="406" type="photo"/>
-      <pubDate>Wed, 17 May 2023 18:25:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>For this year’s MICRODia - Microscopy Open Day, our Advanced BioImaging and BioOptics Experimental (ABBE) Platform prepared some special outreach activities @ChampalimaudF for a group of high school students.
-Photos: ABBE Platform Team
-#MICRODia #Microscopy #OpenDay #Outreach https://t.co/tf2KJIbk7x</title>
-      <link>https://twitter.com/Neuro_CF/status/1658903008850190356</link>
-      <description>For this year’s MICRODia - Microscopy Open Day, our Advanced BioImaging and BioOptics Experimental (ABBE) Platform prepared some special outreach activities @ChampalimaudF for a group of high school students.
-Photos: ABBE Platform Team
-#MICRODia #Microscopy #OpenDay #Outreach https://t.co/tf2KJIbk7x</description>
-      <content:encoded>For this year’s MICRODia - Microscopy Open Day, our Advanced BioImaging and BioOptics Experimental (ABBE) Platform prepared some special outreach activities @ChampalimaudF for a group of high school students.
-Photos: ABBE Platform Team
-#MICRODia #Microscopy #OpenDay #Outreach https://t.co/tf2KJIbk7x&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1658903008850190356"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwWZ9NvXgAAhHzT.jpg" length="866" type="photo"/>
-      <pubDate>Wed, 17 May 2023 18:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Research Highlight by @DrArunimaSingh:
-Researchers from @RappsilberLab and @rbolab developed AlphaLink, a structure prediction approach that integrates experimental data from crosslinking mass spectrometry (MS) into the AlphaFold2 architecture.
-
-https://t.co/d1GbCPrap1</title>
-      <link>https://twitter.com/naturemethods/status/1658903044141064194</link>
-      <description>Research Highlight by @DrArunimaSingh:
-Researchers from @RappsilberLab and @rbolab developed AlphaLink, a structure prediction approach that integrates experimental data from crosslinking mass spectrometry (MS) into the AlphaFold2 architecture.
-
-https://t.co/d1GbCPrap1</description>
-      <content:encoded>Research Highlight by @DrArunimaSingh:
-Researchers from @RappsilberLab and @rbolab developed AlphaLink, a structure prediction approach that integrates experimental data from crosslinking mass spectrometry (MS) into the AlphaFold2 architecture.
-
-https://t.co/d1GbCPrap1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1658903044141064194"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 18:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Original research paper here:
-https://t.co/kVVlokvCAZ</title>
-      <link>https://twitter.com/naturemethods/status/1658903045588017153</link>
-      <description>Original research paper here:
-https://t.co/kVVlokvCAZ</description>
-      <content:encoded>Original research paper here:
-https://t.co/kVVlokvCAZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1658903045588017153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 18:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @janeliaconf: Students + postdocs 👉 Apply by July 5 for @HHMIJanelia's #neurotheory workshop. A fun, intense week of talks, discussions,…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1658904724727373834</link>
-      <description>RT @janeliaconf: Students + postdocs 👉 Apply by July 5 for @HHMIJanelia's #neurotheory workshop. A fun, intense week of talks, discussions,…</description>
-      <content:encoded>RT @janeliaconf: Students + postdocs 👉 Apply by July 5 for @HHMIJanelia's #neurotheory workshop. A fun, intense week of talks, discussions,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1658904724727373834"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 18:38:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Human origins in Africa may be best described using a model in which at least two evolutionary branches split (but continued to mix) over hundreds of thousands of years, according to a paper in @Nature. https://t.co/PfzPfFGnmC https://t.co/T8riu7UIQz</title>
-      <link>https://twitter.com/NaturePortfolio/status/1658905493971116097</link>
-      <description>Human origins in Africa may be best described using a model in which at least two evolutionary branches split (but continued to mix) over hundreds of thousands of years, according to a paper in @Nature. https://t.co/PfzPfFGnmC https://t.co/T8riu7UIQz</description>
-      <content:encoded>Human origins in Africa may be best described using a model in which at least two evolutionary branches split (but continued to mix) over hundreds of thousands of years, according to a paper in @Nature. https://t.co/PfzPfFGnmC https://t.co/T8riu7UIQz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1658905493971116097"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwWdvRGXoA0a80W.jpg" length="1000" type="photo"/>
-      <pubDate>Wed, 17 May 2023 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine has arrived!
-
-A study of UK shiftworkers suggests women may be less s…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1658906194134671378</link>
-      <description>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine has arrived!
-
-A study of UK shiftworkers suggests women may be less s…</description>
-      <content:encoded>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine has arrived!
-
-A study of UK shiftworkers suggests women may be less s…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1658906194134671378"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 18:43:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>I’d like apologize for this post</title>
-      <link>https://twitter.com/elonmusk/status/1658907665030946821</link>
-      <description>I’d like apologize for this post</description>
-      <content:encoded>I’d like apologize for this post&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1658907665030946821"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 18:49:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>It was really unfair to Magneto</title>
-      <link>https://twitter.com/elonmusk/status/1658907746408833033</link>
-      <description>It was really unfair to Magneto</description>
-      <content:encoded>It was really unfair to Magneto&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1658907746408833033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 18:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>A continuous measure for understanding the accuracy of genetically based predictions https://t.co/7lhh6lkCdu</title>
-      <link>https://twitter.com/NatureNV/status/1658908262488580126</link>
-      <description>A continuous measure for understanding the accuracy of genetically based predictions https://t.co/7lhh6lkCdu</description>
-      <content:encoded>A continuous measure for understanding the accuracy of genetically based predictions https://t.co/7lhh6lkCdu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1658908262488580126"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 18:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>🖼️ Image data classification has never been easier with the help of BigQuery ML! 
-
-In this #GoogleIO session, @AbiramiSukumara shows you how to leverage BigQuery ML to build a classification model using only SQL constructs ➡️ https://t.co/9Zbi1nCiCi https://t.co/pgMD6wI1Lx</title>
-      <link>https://twitter.com/TensorFlow/status/1658910259950370818</link>
-      <description>🖼️ Image data classification has never been easier with the help of BigQuery ML! 
-
-In this #GoogleIO session, @AbiramiSukumara shows you how to leverage BigQuery ML to build a classification model using only SQL constructs ➡️ https://t.co/9Zbi1nCiCi https://t.co/pgMD6wI1Lx</description>
-      <content:encoded>🖼️ Image data classification has never been easier with the help of BigQuery ML! 
-
-In this #GoogleIO session, @AbiramiSukumara shows you how to leverage BigQuery ML to build a classification model using only SQL constructs ➡️ https://t.co/9Zbi1nCiCi https://t.co/pgMD6wI1Lx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1658910259950370818"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwWiFuaXoAEpbiC.png" length="857" type="photo"/>
-      <pubDate>Wed, 17 May 2023 19:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Stylized faces enhance ERP features used for the detection of emotional responses: For their ease of accessibility and low cost, current Brain-Computer Interfaces (BCI) used to detect subjective emotional and affective states… #Neuroscience https://t.co/LeJPAab935</title>
-      <link>https://twitter.com/FrontNeurosci/status/1658911398108463106</link>
-      <description>New Research: Stylized faces enhance ERP features used for the detection of emotional responses: For their ease of accessibility and low cost, current Brain-Computer Interfaces (BCI) used to detect subjective emotional and affective states… #Neuroscience https://t.co/LeJPAab935</description>
-      <content:encoded>New Research: Stylized faces enhance ERP features used for the detection of emotional responses: For their ease of accessibility and low cost, current Brain-Computer Interfaces (BCI) used to detect subjective emotional and affective states… #Neuroscience https://t.co/LeJPAab935&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1658911398108463106"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:04:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The original source is the following long video by Lesics: https://t.co/JW9CV1mYuZ. Thanks to @OmarSaydThat for pointing this out</title>
-      <link>https://twitter.com/Rainmaker1973/status/1658912072674025476</link>
-      <description>The original source is the following long video by Lesics: https://t.co/JW9CV1mYuZ. Thanks to @OmarSaydThat for pointing this out</description>
-      <content:encoded>The original source is the following long video by Lesics: https://t.co/JW9CV1mYuZ. Thanks to @OmarSaydThat for pointing this out&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1658912072674025476"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Certain antibodies against the Epstein-Barr virus that mistakenly attack a protein in the brain and spinal cord may be involved in #MultipleSclerosis in 1/4 of patients. KI study by @olitho7, Mattias Bronge et al published in @ScienceAdvances today. #MS https://t.co/jeZl6IdsO2 https://t.co/t3GAjtJtOG</title>
-      <link>https://twitter.com/karolinskainst/status/1658912751027200033</link>
-      <description>Certain antibodies against the Epstein-Barr virus that mistakenly attack a protein in the brain and spinal cord may be involved in #MultipleSclerosis in 1/4 of patients. KI study by @olitho7, Mattias Bronge et al published in @ScienceAdvances today. #MS https://t.co/jeZl6IdsO2 https://t.co/t3GAjtJtOG</description>
-      <content:encoded>Certain antibodies against the Epstein-Barr virus that mistakenly attack a protein in the brain and spinal cord may be involved in #MultipleSclerosis in 1/4 of patients. KI study by @olitho7, Mattias Bronge et al published in @ScienceAdvances today. #MS https://t.co/jeZl6IdsO2 https://t.co/t3GAjtJtOG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/karolinskainst/status/1658912751027200033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwWi5zzXoAkVNLl.jpg" length="750" type="photo"/>
-      <pubDate>Wed, 17 May 2023 19:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Link to publication ⬇️
-https://t.co/Z1DvRhUEX4</title>
-      <link>https://twitter.com/karolinskainst/status/1658912753476673572</link>
-      <description>Link to publication ⬇️
-https://t.co/Z1DvRhUEX4</description>
-      <content:encoded>Link to publication ⬇️
-https://t.co/Z1DvRhUEX4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/karolinskainst/status/1658912753476673572"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mkoeris: @JKeithJoung receiving outstanding achievement award @ASGCTherapy #ASGCT2023 giving shoutout to @Addgene for their early colla…</title>
-      <link>https://twitter.com/Addgene/status/1658915540608458762</link>
-      <description>RT @mkoeris: @JKeithJoung receiving outstanding achievement award @ASGCTherapy #ASGCT2023 giving shoutout to @Addgene for their early colla…</description>
-      <content:encoded>RT @mkoeris: @JKeithJoung receiving outstanding achievement award @ASGCTherapy #ASGCT2023 giving shoutout to @Addgene for their early colla…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1658915540608458762"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations to @AlexJourdon on winning a @YaleCSC pilot research award for his project on "Validating the gene regulatory network in ASD" 🥳🎉Alex is a postdoc in the Vaccarino Lab at Yale, where he studies brain development, somatic mosaicism &amp;amp; autism https://t.co/jEaSdsvYTX</title>
-      <link>https://twitter.com/KavliAtYale/status/1658916160933437446</link>
-      <description>Congratulations to @AlexJourdon on winning a @YaleCSC pilot research award for his project on "Validating the gene regulatory network in ASD" 🥳🎉Alex is a postdoc in the Vaccarino Lab at Yale, where he studies brain development, somatic mosaicism &amp;amp; autism https://t.co/jEaSdsvYTX</description>
-      <content:encoded>Congratulations to @AlexJourdon on winning a @YaleCSC pilot research award for his project on "Validating the gene regulatory network in ASD" 🥳🎉Alex is a postdoc in the Vaccarino Lab at Yale, where he studies brain development, somatic mosaicism &amp;amp; autism https://t.co/jEaSdsvYTX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KavliAtYale/status/1658916160933437446"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 17 May 2023 19:23:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 May 2023 14:14:19 +0000</lastBuildDate>
     <item>
       <title>Did you know that the data from our first #OpenScope project with the @AllenInstitute on predictive learning in cortex is available on-line?
 
@@ -1663,6 +1497,13 @@ You can watch this imaging and analysis webinar on our YouTube c…&lt;blockquot
       <pubDate>Thu, 18 May 2023 11:22:52 +0000</pubDate>
     </item>
     <item>
+      <title>RT @mitpress: In a significant move, the former editorial teams of Neuroimage and Neuroimage: Reports will lead the new MIT Press journal,…</title>
+      <link>https://twitter.com/KriegeskorteLab/status/1659157793675390977</link>
+      <description>RT @mitpress: In a significant move, the former editorial teams of Neuroimage and Neuroimage: Reports will lead the new MIT Press journal,…</description>
+      <content:encoded>RT @mitpress: In a significant move, the former editorial teams of Neuroimage and Neuroimage: Reports will lead the new MIT Press journal,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KriegeskorteLab/status/1659157793675390977"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 11:23:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Heavy Cannabis Use Linked to Schizophrenia, Especially among Young Men - thoughts on this ?  https://t.co/hjXgkYiQVy</title>
       <link>https://twitter.com/blamlab/status/1659158202091700225</link>
       <description>Heavy Cannabis Use Linked to Schizophrenia, Especially among Young Men - thoughts on this ?  https://t.co/hjXgkYiQVy</description>
@@ -2084,6 +1925,272 @@ https://t.co/lnv3F6BSPo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <content:encoded>Now Michael Silberstein deflating the hard problem: https://t.co/slaBd0VJnv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1659186444554977280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwadMHeX0AAAM2f.png" length="455" type="photo"/>
       <pubDate>Thu, 18 May 2023 13:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>This hypnotic clip by photographer Mike Nulty shows a whale shark peacefully gliding  through bioluminescent algae 
+
+[source: https://t.co/c7fZDCZ5vw]
+https://t.co/viiKRT26wt</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659187697150459907</link>
+      <description>This hypnotic clip by photographer Mike Nulty shows a whale shark peacefully gliding  through bioluminescent algae 
+
+[source: https://t.co/c7fZDCZ5vw]
+https://t.co/viiKRT26wt</description>
+      <content:encoded>This hypnotic clip by photographer Mike Nulty shows a whale shark peacefully gliding  through bioluminescent algae 
+
+[source: https://t.co/c7fZDCZ5vw]
+https://t.co/viiKRT26wt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659187697150459907"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1415555521386516484/pu/img/FU_wMiekJGlTZMiT.jpg" length="404" type="photo"/>
+      <pubDate>Thu, 18 May 2023 13:22:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Like air breathers, hammerhead sharks are also “breath holding” during dives, a new study finds.
+
+Learn more in this #SciencePerspective: https://t.co/Mf8FNBqrRA https://t.co/tPQG1tiE3u</title>
+      <link>https://twitter.com/ScienceMagazine/status/1659189647044476928</link>
+      <description>Like air breathers, hammerhead sharks are also “breath holding” during dives, a new study finds.
+
+Learn more in this #SciencePerspective: https://t.co/Mf8FNBqrRA https://t.co/tPQG1tiE3u</description>
+      <content:encoded>Like air breathers, hammerhead sharks are also “breath holding” during dives, a new study finds.
+
+Learn more in this #SciencePerspective: https://t.co/Mf8FNBqrRA https://t.co/tPQG1tiE3u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1659189647044476928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwagMIvaQAE0n3j.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 18 May 2023 13:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Alzheimers model mice exposed to 40 Hz vibration an hour a day for several weeks showed improved brain health and motor function compared to untreated controls. https://t.co/11FdvtvZuS @ScienceMIT @mitbrainandcog</title>
+      <link>https://twitter.com/MIT_Picower/status/1659189919841935360</link>
+      <description>#Alzheimers model mice exposed to 40 Hz vibration an hour a day for several weeks showed improved brain health and motor function compared to untreated controls. https://t.co/11FdvtvZuS @ScienceMIT @mitbrainandcog</description>
+      <content:encoded>#Alzheimers model mice exposed to 40 Hz vibration an hour a day for several weeks showed improved brain health and motor function compared to untreated controls. https://t.co/11FdvtvZuS @ScienceMIT @mitbrainandcog&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1659189919841935360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 13:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Full study in @FrontiersIn https://t.co/jOE0LAbfQl</title>
+      <link>https://twitter.com/MIT_Picower/status/1659189921414823936</link>
+      <description>Full study in @FrontiersIn https://t.co/jOE0LAbfQl</description>
+      <content:encoded>Full study in @FrontiersIn https://t.co/jOE0LAbfQl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1659189921414823936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 13:31:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Michael's long version of the argument is in book form too, highly recommend it: https://t.co/q0DktNfX9s</title>
+      <link>https://twitter.com/PessoaBrain/status/1659190552368144391</link>
+      <description>Michael's long version of the argument is in book form too, highly recommend it: https://t.co/q0DktNfX9s</description>
+      <content:encoded>Michael's long version of the argument is in book form too, highly recommend it: https://t.co/q0DktNfX9s&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1659190552368144391"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwag69uWwAAs9sZ.png" length="265" type="photo"/>
+      <pubDate>Thu, 18 May 2023 13:33:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 24, 1969 
+
+Departure from: Moon
+
+Arrival at: Honolulu, Hawaii, USA
+
+Cargo: Moon Rock and Moon Dust Samples
+
+Conditions which may lead to the spread of desease: To Be Determined
+
+Customs form that Armstrong, Aldrin and Collins had to fill when they came back from the moon. https://t.co/dzk06rqjII</title>
+      <link>https://twitter.com/fermatslibrary/status/1659190859160600576</link>
+      <description>July 24, 1969 
+
+Departure from: Moon
+
+Arrival at: Honolulu, Hawaii, USA
+
+Cargo: Moon Rock and Moon Dust Samples
+
+Conditions which may lead to the spread of desease: To Be Determined
+
+Customs form that Armstrong, Aldrin and Collins had to fill when they came back from the moon. https://t.co/dzk06rqjII</description>
+      <content:encoded>July 24, 1969 
+
+Departure from: Moon
+
+Arrival at: Honolulu, Hawaii, USA
+
+Cargo: Moon Rock and Moon Dust Samples
+
+Conditions which may lead to the spread of desease: To Be Determined
+
+Customs form that Armstrong, Aldrin and Collins had to fill when they came back from the moon. https://t.co/dzk06rqjII&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1659190859160600576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwahSmzWYAEaaB0.jpg" length="753" type="photo"/>
+      <pubDate>Thu, 18 May 2023 13:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bertie Gregory filmed this Eden’s whale trap feeding in the Gulf of Thailand. This behaviour is thought to have developed because pollution has made the gulf a hypoxic environment 
+
+[source: https://t.co/UmkKAw0Seh] 
+[paper: https://t.co/222icskr20]
+https://t.co/YSVihQlnLa</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659192799475163140</link>
+      <description>Bertie Gregory filmed this Eden’s whale trap feeding in the Gulf of Thailand. This behaviour is thought to have developed because pollution has made the gulf a hypoxic environment 
+
+[source: https://t.co/UmkKAw0Seh] 
+[paper: https://t.co/222icskr20]
+https://t.co/YSVihQlnLa</description>
+      <content:encoded>Bertie Gregory filmed this Eden’s whale trap feeding in the Gulf of Thailand. This behaviour is thought to have developed because pollution has made the gulf a hypoxic environment 
+
+[source: https://t.co/UmkKAw0Seh] 
+[paper: https://t.co/222icskr20]
+https://t.co/YSVihQlnLa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659192799475163140"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1349399132029509634/pu/img/jmnEB6s0Ns-qrWdA.jpg" length="720" type="photo"/>
+      <pubDate>Thu, 18 May 2023 13:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @NaveenGRao: 100% agree. Let’s please not regulate based on a couple of company’s commercial interests</title>
+      <link>https://twitter.com/ylecun/status/1659197282850607108</link>
+      <description>RT @NaveenGRao: 100% agree. Let’s please not regulate based on a couple of company’s commercial interests</description>
+      <content:encoded>RT @NaveenGRao: 100% agree. Let’s please not regulate based on a couple of company’s commercial interests&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659197282850607108"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 14:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cystisoma is a crustacean that lives between 600-1000 m deep in the ocean. Its body is totally transparent: only its eyes are pigmented. This one has a brooding pouch full of orange eggs
+
+[read first: https://t.co/d4jiqKNJ3J]
+[📹 Alejandro Damian-Serrano]
+https://t.co/6xJkNHqoPj</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659197880186593286</link>
+      <description>Cystisoma is a crustacean that lives between 600-1000 m deep in the ocean. Its body is totally transparent: only its eyes are pigmented. This one has a brooding pouch full of orange eggs
+
+[read first: https://t.co/d4jiqKNJ3J]
+[📹 Alejandro Damian-Serrano]
+https://t.co/6xJkNHqoPj</description>
+      <content:encoded>Cystisoma is a crustacean that lives between 600-1000 m deep in the ocean. Its body is totally transparent: only its eyes are pigmented. This one has a brooding pouch full of orange eggs
+
+[read first: https://t.co/d4jiqKNJ3J]
+[📹 Alejandro Damian-Serrano]
+https://t.co/6xJkNHqoPj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659197880186593286"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/845079223156953088/pu/img/KGNPaqK1PE75s9qh.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:02:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ever wonder if the Fc domain is more than just a structure? Read all about Fc effector functions in our latest Antibodies 101 blog post! 
+
+https://t.co/8uO1bfi7E7</title>
+      <link>https://twitter.com/Addgene/status/1659197897450344449</link>
+      <description>Ever wonder if the Fc domain is more than just a structure? Read all about Fc effector functions in our latest Antibodies 101 blog post! 
+
+https://t.co/8uO1bfi7E7</description>
+      <content:encoded>Ever wonder if the Fc domain is more than just a structure? Read all about Fc effector functions in our latest Antibodies 101 blog post! 
+
+https://t.co/8uO1bfi7E7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1659197897450344449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 14:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our #Community Fund supports San Mateo County orgs that are increasing access to the building blocks of social and economic well-being through:
+🏘️ Housing
+📚 Education
+🩺 Healthcare
+📋 Job skills training
+Apply now ⤵️  https://t.co/vlA2dnuyGq</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1659198423067934721</link>
+      <description>Our #Community Fund supports San Mateo County orgs that are increasing access to the building blocks of social and economic well-being through:
+🏘️ Housing
+📚 Education
+🩺 Healthcare
+📋 Job skills training
+Apply now ⤵️  https://t.co/vlA2dnuyGq</description>
+      <content:encoded>Our #Community Fund supports San Mateo County orgs that are increasing access to the building blocks of social and economic well-being through:
+🏘️ Housing
+📚 Education
+🩺 Healthcare
+📋 Job skills training
+Apply now ⤵️  https://t.co/vlA2dnuyGq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1659198423067934721"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 14:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>5G has been put to the test of managing the control signals used in railway operations — a step towards 5G-run automation in the transport sector https://t.co/qQQnKoy2Xq</title>
+      <link>https://twitter.com/NatureNV/status/1659198610255548427</link>
+      <description>5G has been put to the test of managing the control signals used in railway operations — a step towards 5G-run automation in the transport sector https://t.co/qQQnKoy2Xq</description>
+      <content:encoded>5G has been put to the test of managing the control signals used in railway operations — a step towards 5G-run automation in the transport sector https://t.co/qQQnKoy2Xq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1659198610255548427"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 14:05:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>📆 Plan ahead for September conferences at @HHMIJanelia! 🍁 
+
+No registration fees 💸 
+Accom &amp;amp; meals provided 🍲 
+Travel scholarships available ✈️ 
+
+Learn more and apply: https://t.co/FuWo45TZTA
+@janeliaconf 🧵(1/4) https://t.co/LxVmMbNKtX</title>
+      <link>https://twitter.com/HHMINEWS/status/1659200589186879493</link>
+      <description>📆 Plan ahead for September conferences at @HHMIJanelia! 🍁 
+
+No registration fees 💸 
+Accom &amp;amp; meals provided 🍲 
+Travel scholarships available ✈️ 
+
+Learn more and apply: https://t.co/FuWo45TZTA
+@janeliaconf 🧵(1/4) https://t.co/LxVmMbNKtX</description>
+      <content:encoded>📆 Plan ahead for September conferences at @HHMIJanelia! 🍁 
+
+No registration fees 💸 
+Accom &amp;amp; meals provided 🍲 
+Travel scholarships available ✈️ 
+
+Learn more and apply: https://t.co/FuWo45TZTA
+@janeliaconf 🧵(1/4) https://t.co/LxVmMbNKtX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1659200589186879493"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwaqH8iaMAEH59U.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fall 2023 events include:
+
+Fluorescent Proteins and Biological Sensors VII (September 10 - 13, 2023)
+
+Application deadline: June 9
+Learn more and apply: https://t.co/zAdzUm4Ise https://t.co/utm8LLY8n3</title>
+      <link>https://twitter.com/HHMINEWS/status/1659200606039576581</link>
+      <description>Fall 2023 events include:
+
+Fluorescent Proteins and Biological Sensors VII (September 10 - 13, 2023)
+
+Application deadline: June 9
+Learn more and apply: https://t.co/zAdzUm4Ise https://t.co/utm8LLY8n3</description>
+      <content:encoded>Fall 2023 events include:
+
+Fluorescent Proteins and Biological Sensors VII (September 10 - 13, 2023)
+
+Application deadline: June 9
+Learn more and apply: https://t.co/zAdzUm4Ise https://t.co/utm8LLY8n3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1659200606039576581"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwaqJ4YakAU48-w.jpg" length="1024" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond the Connectome (September 18 - 21, 2023)
+
+Application deadline: June 16
+Learn more and apply: https://t.co/WSL7G5kCc3 https://t.co/A7y53Bdogb</title>
+      <link>https://twitter.com/HHMINEWS/status/1659200616055603201</link>
+      <description>Beyond the Connectome (September 18 - 21, 2023)
+
+Application deadline: June 16
+Learn more and apply: https://t.co/WSL7G5kCc3 https://t.co/A7y53Bdogb</description>
+      <content:encoded>Beyond the Connectome (September 18 - 21, 2023)
+
+Application deadline: June 16
+Learn more and apply: https://t.co/WSL7G5kCc3 https://t.co/A7y53Bdogb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1659200616055603201"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwaqKgJagAM5CG9.jpg" length="1024" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simulated Bodies (September 26 - 29, 2023)
+
+Application deadline: July 7
+Learn more and apply: https://t.co/66u7IoglxR https://t.co/2QTtHKRlMI</title>
+      <link>https://twitter.com/HHMINEWS/status/1659200629020196864</link>
+      <description>Simulated Bodies (September 26 - 29, 2023)
+
+Application deadline: July 7
+Learn more and apply: https://t.co/66u7IoglxR https://t.co/2QTtHKRlMI</description>
+      <content:encoded>Simulated Bodies (September 26 - 29, 2023)
+
+Application deadline: July 7
+Learn more and apply: https://t.co/66u7IoglxR https://t.co/2QTtHKRlMI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1659200629020196864"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwaqLNDagAM8GHv.jpg" length="1160" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:13:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
