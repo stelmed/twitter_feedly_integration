@@ -6,250 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 May 2023 18:19:50 +0000</lastBuildDate>
-    <item>
-      <title>RT @kfrankelab: Registration done ✅ come join us at the European Retina Meeting 2023 in beautiful Tübingen 😊 
-
-#ERM2023 #retina</title>
-      <link>https://twitter.com/AToliasLab/status/1659069301733613570</link>
-      <description>RT @kfrankelab: Registration done ✅ come join us at the European Retina Meeting 2023 in beautiful Tübingen 😊 
-
-#ERM2023 #retina</description>
-      <content:encoded>RT @kfrankelab: Registration done ✅ come join us at the European Retina Meeting 2023 in beautiful Tübingen 😊 
-
-#ERM2023 #retina&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659069301733613570"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 18 May 2023 05:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New pooled library!  🎉
-The pCMV-Rep78/68 scanning saturation mutagenesis library contains all possible single codon mutations of the AAV2 rep gene. It can be used to study the effects of rep mutations on production of a wide range of AAV capsid serotypes.
-https://t.co/dSIdBLEmIT https://t.co/svUmEpqXrM</title>
-      <link>https://twitter.com/Addgene/status/1659077104166658048</link>
-      <description>New pooled library!  🎉
-The pCMV-Rep78/68 scanning saturation mutagenesis library contains all possible single codon mutations of the AAV2 rep gene. It can be used to study the effects of rep mutations on production of a wide range of AAV capsid serotypes.
-https://t.co/dSIdBLEmIT https://t.co/svUmEpqXrM</description>
-      <content:encoded>New pooled library!  🎉
-The pCMV-Rep78/68 scanning saturation mutagenesis library contains all possible single codon mutations of the AAV2 rep gene. It can be used to study the effects of rep mutations on production of a wide range of AAV capsid serotypes.
-https://t.co/dSIdBLEmIT https://t.co/svUmEpqXrM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1659077104166658048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwY51a8WAAAWyam.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 18 May 2023 06:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>54 years ago #Today, Apollo 10 launched to the Moon: the last mission before the lunar landing that would take place in July of the same year 
-
-[video: https://t.co/gVGPD7u4BV]
-https://t.co/o6ycKvOUPA</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659078959080849409</link>
-      <description>54 years ago #Today, Apollo 10 launched to the Moon: the last mission before the lunar landing that would take place in July of the same year 
-
-[video: https://t.co/gVGPD7u4BV]
-https://t.co/o6ycKvOUPA</description>
-      <content:encoded>54 years ago #Today, Apollo 10 launched to the Moon: the last mission before the lunar landing that would take place in July of the same year 
-
-[video: https://t.co/gVGPD7u4BV]
-https://t.co/o6ycKvOUPA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659078959080849409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1526957574570094592/pu/img/C5ONds5H-q09M89P.jpg" length="480" type="photo"/>
-      <pubDate>Thu, 18 May 2023 06:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Born 151 years ago #Today, Bertrand Russell, was philosopher, logician, mathematician, historian and writer. He is considered one of the founders of analytic philosophy and widely held to be one of the 20th century's premier logicians https://t.co/YCy0t932aY https://t.co/pxIJU0306Q</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659079322999705603</link>
-      <description>Born 151 years ago #Today, Bertrand Russell, was philosopher, logician, mathematician, historian and writer. He is considered one of the founders of analytic philosophy and widely held to be one of the 20th century's premier logicians https://t.co/YCy0t932aY https://t.co/pxIJU0306Q</description>
-      <content:encoded>Born 151 years ago #Today, Bertrand Russell, was philosopher, logician, mathematician, historian and writer. He is considered one of the founders of analytic philosophy and widely held to be one of the 20th century's premier logicians https://t.co/YCy0t932aY https://t.co/pxIJU0306Q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659079322999705603"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwY7zZfWAAEOGrp.jpg" length="680" type="photo"/>
-      <pubDate>Thu, 18 May 2023 06:11:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>43 years ago #Today, Mount St. Helens erupted: the deadliest and most destructive volcanic event in the history of the U.S. 
-
-[read more: https://t.co/isP9dd11Z5] 
-[video: https://t.co/PWTmaaEhDh]
-https://t.co/PB8qo2VGZD</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659081609969106944</link>
-      <description>43 years ago #Today, Mount St. Helens erupted: the deadliest and most destructive volcanic event in the history of the U.S. 
-
-[read more: https://t.co/isP9dd11Z5] 
-[video: https://t.co/PWTmaaEhDh]
-https://t.co/PB8qo2VGZD</description>
-      <content:encoded>43 years ago #Today, Mount St. Helens erupted: the deadliest and most destructive volcanic event in the history of the U.S. 
-
-[read more: https://t.co/isP9dd11Z5] 
-[video: https://t.co/PWTmaaEhDh]
-https://t.co/PB8qo2VGZD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659081609969106944"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1526951530800226304/pu/img/JRknduHd156a7fxs.jpg" length="640" type="photo"/>
-      <pubDate>Thu, 18 May 2023 06:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @_samihassan_: CA2 is critical for social but not nonsocial memory. We wondered what neural code could support such features and what th…</title>
-      <link>https://twitter.com/Chris_Lisgaras/status/1659082672939966468</link>
-      <description>RT @_samihassan_: CA2 is critical for social but not nonsocial memory. We wondered what neural code could support such features and what th…</description>
-      <content:encoded>RT @_samihassan_: CA2 is critical for social but not nonsocial memory. We wondered what neural code could support such features and what th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Chris_Lisgaras/status/1659082672939966468"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 18 May 2023 06:25:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>In these two pictures, Mount St. Helens is showed before and after the devastating 1980 eruption, happened 43 years ago #Today 
-
-[source: https://t.co/7utU4EebQB] https://t.co/RAuIwHhciT</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659082965479981059</link>
-      <description>In these two pictures, Mount St. Helens is showed before and after the devastating 1980 eruption, happened 43 years ago #Today 
-
-[source: https://t.co/7utU4EebQB] https://t.co/RAuIwHhciT</description>
-      <content:encoded>In these two pictures, Mount St. Helens is showed before and after the devastating 1980 eruption, happened 43 years ago #Today 
-
-[source: https://t.co/7utU4EebQB] https://t.co/RAuIwHhciT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659082965479981059"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwY_H_8WYAMB9yN.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 18 May 2023 06:26:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>What are the origins of chronic pain in #LongCovid?
-
-Studying hamsters, scientists show that #SARSCoV2 infections leave viral RNA in dorsal root ganglia, leading to pain sensitivity and disrupted gene expression in sensory neurons. https://t.co/M9jb6PVYeE @SciSignal #COVID19 https://t.co/ENZH25iWiH</title>
-      <link>https://twitter.com/ScienceMagazine/status/1659083924901974017</link>
-      <description>What are the origins of chronic pain in #LongCovid?
-
-Studying hamsters, scientists show that #SARSCoV2 infections leave viral RNA in dorsal root ganglia, leading to pain sensitivity and disrupted gene expression in sensory neurons. https://t.co/M9jb6PVYeE @SciSignal #COVID19 https://t.co/ENZH25iWiH</description>
-      <content:encoded>What are the origins of chronic pain in #LongCovid?
-
-Studying hamsters, scientists show that #SARSCoV2 infections leave viral RNA in dorsal root ganglia, leading to pain sensitivity and disrupted gene expression in sensory neurons. https://t.co/M9jb6PVYeE @SciSignal #COVID19 https://t.co/ENZH25iWiH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1659083924901974017"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwZACX3WcAI7TA4.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 18 May 2023 06:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Richard "Dick" Lasher was on his way to drive his dirt bike when Mount St Helens erupted #Today in 1980. The iconic photo of his red Ford Pinto tells the story of how he survived 
-
-[read more: https://t.co/07yJmvrH59] https://t.co/4xpX29KM1H</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659085438202593280</link>
-      <description>Richard "Dick" Lasher was on his way to drive his dirt bike when Mount St Helens erupted #Today in 1980. The iconic photo of his red Ford Pinto tells the story of how he survived 
-
-[read more: https://t.co/07yJmvrH59] https://t.co/4xpX29KM1H</description>
-      <content:encoded>Richard "Dick" Lasher was on his way to drive his dirt bike when Mount St Helens erupted #Today in 1980. The iconic photo of his red Ford Pinto tells the story of how he survived 
-
-[read more: https://t.co/07yJmvrH59] https://t.co/4xpX29KM1H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659085438202593280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwZBSk7XgAAAoae.jpg" length="537" type="photo"/>
-      <pubDate>Thu, 18 May 2023 06:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>This picture of a hiker on Mount Adams summit is one of the best photos of Mount St. Helens eruption, happened 43 years ago yesterday 
-
-[source, read more: https://t.co/ppMoa4ofBh] https://t.co/Yx9zOI4lgu</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659088363591196678</link>
-      <description>This picture of a hiker on Mount Adams summit is one of the best photos of Mount St. Helens eruption, happened 43 years ago yesterday 
-
-[source, read more: https://t.co/ppMoa4ofBh] https://t.co/Yx9zOI4lgu</description>
-      <content:encoded>This picture of a hiker on Mount Adams summit is one of the best photos of Mount St. Helens eruption, happened 43 years ago yesterday 
-
-[source, read more: https://t.co/ppMoa4ofBh] https://t.co/Yx9zOI4lgu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659088363591196678"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwZECHEXgAAZqim.jpg" length="444" type="photo"/>
-      <pubDate>Thu, 18 May 2023 06:47:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viète's formula is this infinite product of nested radicals representing π. 
-
-It is named after François Viète (1540–1603), who published it in 1593 in his work Variorum de rebus mathematicis responsorum, liber VIII  
-
-[read more: https://t.co/Pm3mo9aYbZ] https://t.co/JM3IJ8VTX3</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659096805299179521</link>
-      <description>Viète's formula is this infinite product of nested radicals representing π. 
-
-It is named after François Viète (1540–1603), who published it in 1593 in his work Variorum de rebus mathematicis responsorum, liber VIII  
-
-[read more: https://t.co/Pm3mo9aYbZ] https://t.co/JM3IJ8VTX3</description>
-      <content:encoded>Viète's formula is this infinite product of nested radicals representing π. 
-
-It is named after François Viète (1540–1603), who published it in 1593 in his work Variorum de rebus mathematicis responsorum, liber VIII  
-
-[read more: https://t.co/Pm3mo9aYbZ] https://t.co/JM3IJ8VTX3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659096805299179521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwZLosVXwAEl7lh.jpg" length="550" type="photo"/>
-      <pubDate>Thu, 18 May 2023 07:21:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>"… people want to pursue possibilities where they live. Fortunately, this is feasible and finally starting to happen."
-
-New programs in the U.S. are aiming to make #STEM opportunities more local, writes @DrPanch in a new #ScienceEditorial. https://t.co/JiQQAX7lc9 @NSF https://t.co/Ar6w8rLRRo</title>
-      <link>https://twitter.com/ScienceMagazine/status/1659099021749764096</link>
-      <description>"… people want to pursue possibilities where they live. Fortunately, this is feasible and finally starting to happen."
-
-New programs in the U.S. are aiming to make #STEM opportunities more local, writes @DrPanch in a new #ScienceEditorial. https://t.co/JiQQAX7lc9 @NSF https://t.co/Ar6w8rLRRo</description>
-      <content:encoded>"… people want to pursue possibilities where they live. Fortunately, this is feasible and finally starting to happen."
-
-New programs in the U.S. are aiming to make #STEM opportunities more local, writes @DrPanch in a new #ScienceEditorial. https://t.co/JiQQAX7lc9 @NSF https://t.co/Ar6w8rLRRo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1659099021749764096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwZNxK_XwAMKsJ0.jpg" length="750" type="photo"/>
-      <pubDate>Thu, 18 May 2023 07:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>QR code (abbreviated from Quick Response Code) is the trademark for a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan.
-
-This how it works
-
-[full video, Pillazo: https://t.co/s7wdFmo437] https://t.co/JKRBFlDrcR https://t.co/dLOYB3pCTq</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659100391714201601</link>
-      <description>QR code (abbreviated from Quick Response Code) is the trademark for a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan.
-
-This how it works
-
-[full video, Pillazo: https://t.co/s7wdFmo437] https://t.co/JKRBFlDrcR https://t.co/dLOYB3pCTq</description>
-      <content:encoded>QR code (abbreviated from Quick Response Code) is the trademark for a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan.
-
-This how it works
-
-[full video, Pillazo: https://t.co/s7wdFmo437] https://t.co/JKRBFlDrcR https://t.co/dLOYB3pCTq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659100391714201601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FwZOve1XgAAkF9v.jpg" length="480" type="photo"/>
-      <pubDate>Thu, 18 May 2023 07:35:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can’t see the wood for the #trees: Thorsten Wiegand recommends  Volkov, @GWtweets et al.’s  study in @PNASNexus on the importance of #metabolicscaling in forests on #carbon sequestration and for #climate science.
-
-https://t.co/w5Zhs8GQLa https://t.co/pAaKxH7e85</title>
-      <link>https://twitter.com/Facultyopinions/status/1659101527636574209</link>
-      <description>Can’t see the wood for the #trees: Thorsten Wiegand recommends  Volkov, @GWtweets et al.’s  study in @PNASNexus on the importance of #metabolicscaling in forests on #carbon sequestration and for #climate science.
-
-https://t.co/w5Zhs8GQLa https://t.co/pAaKxH7e85</description>
-      <content:encoded>Can’t see the wood for the #trees: Thorsten Wiegand recommends  Volkov, @GWtweets et al.’s  study in @PNASNexus on the importance of #metabolicscaling in forests on #carbon sequestration and for #climate science.
-
-https://t.co/w5Zhs8GQLa https://t.co/pAaKxH7e85&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1659101527636574209"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwZQCf-XoAI7yCT.jpg" length="960" type="photo"/>
-      <pubDate>Thu, 18 May 2023 07:40:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why is a full circle 360°? There are slightly different theories, but it is generally believed that this is because Sumerians &amp;amp; Babylonians used the sexagesimal numeral system with these 60 symbols, counting by 12 on the knuckles of the 4 fingers 
-
-[more: https://t.co/ajNNh0AcCv] https://t.co/OIPt0vKnob</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659105499424464898</link>
-      <description>Why is a full circle 360°? There are slightly different theories, but it is generally believed that this is because Sumerians &amp;amp; Babylonians used the sexagesimal numeral system with these 60 symbols, counting by 12 on the knuckles of the 4 fingers 
-
-[more: https://t.co/ajNNh0AcCv] https://t.co/OIPt0vKnob</description>
-      <content:encoded>Why is a full circle 360°? There are slightly different theories, but it is generally believed that this is because Sumerians &amp;amp; Babylonians used the sexagesimal numeral system with these 60 symbols, counting by 12 on the knuckles of the 4 fingers 
-
-[more: https://t.co/ajNNh0AcCv] https://t.co/OIPt0vKnob&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659105499424464898"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwZToCdWIAMa91w.jpg" length="680" type="photo"/>
-      <pubDate>Thu, 18 May 2023 07:55:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>How can we make fish farming more sustainable? 🐟
-
-ERC grantee Jorge Fernandes has found epigenetic factors that help fish grow in captivity. He hopes to leverage these findings to optimise farming.
-
-More 👉 https://t.co/xDoVyxMT1z
-
-@HorizonMagEU @Norduniversitet @Jorges_Lab https://t.co/6N3NjIjNCy</title>
-      <link>https://twitter.com/ERC_Research/status/1659106608197038083</link>
-      <description>How can we make fish farming more sustainable? 🐟
-
-ERC grantee Jorge Fernandes has found epigenetic factors that help fish grow in captivity. He hopes to leverage these findings to optimise farming.
-
-More 👉 https://t.co/xDoVyxMT1z
-
-@HorizonMagEU @Norduniversitet @Jorges_Lab https://t.co/6N3NjIjNCy</description>
-      <content:encoded>How can we make fish farming more sustainable? 🐟
-
-ERC grantee Jorge Fernandes has found epigenetic factors that help fish grow in captivity. He hopes to leverage these findings to optimise farming.
-
-More 👉 https://t.co/xDoVyxMT1z
-
-@HorizonMagEU @Norduniversitet @Jorges_Lab https://t.co/6N3NjIjNCy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1659106608197038083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwZUnzBaIAAhz53.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 18 May 2023 08:00:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 May 2023 19:12:36 +0000</lastBuildDate>
     <item>
       <title>In 1940, Toshiba produced a new kind of typewriter, featuring a horizontal cylinder featuring 1172 Japanese and Chinese characters. This system remained in production until 1954 
 
@@ -1271,6 +1028,26 @@ Original: The Verge on TikTok https://t.co/9CXfXnHM5v&lt;blockquote class="twitt
       <pubDate>Thu, 18 May 2023 14:14:49 +0000</pubDate>
     </item>
     <item>
+      <title>Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
+
+[site: https://t.co/jpz3ylzbgK]
+[TikTok: https://t.co/3XWShB8jla]
+https://t.co/XLhB1hxRTI</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659202375087947783</link>
+      <description>Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
+
+[site: https://t.co/jpz3ylzbgK]
+[TikTok: https://t.co/3XWShB8jla]
+https://t.co/XLhB1hxRTI</description>
+      <content:encoded>Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
+
+[site: https://t.co/jpz3ylzbgK]
+[TikTok: https://t.co/3XWShB8jla]
+https://t.co/XLhB1hxRTI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659202375087947783"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1600460525669859328/pu/img/nJMataZN7rthwGJI.jpg" length="576" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:20:47 +0000</pubDate>
+    </item>
+    <item>
       <title>Senolytic compounds have shown promise for the treatment of aging-related diseases. A study in @NatureAging uses a deep learning model to identify compounds with favorable drug-like properties and confirms one compound’s in vivo activity in aged mice. 🔒 https://t.co/DF0OWretkx https://t.co/ObopuuFJdI</title>
       <link>https://twitter.com/NaturePortfolio/status/1659203459093233665</link>
       <description>Senolytic compounds have shown promise for the treatment of aging-related diseases. A study in @NatureAging uses a deep learning model to identify compounds with favorable drug-like properties and confirms one compound’s in vivo activity in aged mice. 🔒 https://t.co/DF0OWretkx https://t.co/ObopuuFJdI</description>
@@ -2271,6 +2048,207 @@ https://t.co/pII2fFTf1a</description>
 https://t.co/pII2fFTf1a&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659262314816602113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1659050567086522368/pu/img/IA9BjHQXP3Xj1tte.jpg" length="1200" type="photo"/>
       <pubDate>Thu, 18 May 2023 18:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MetaAI: 📣 Just announced! Join live us on May 18th for #AtScaleMetaAI, a one-day virtual event sharing a look at the next generation of…</title>
+      <link>https://twitter.com/ylecun/status/1659262869114953740</link>
+      <description>RT @MetaAI: 📣 Just announced! Join live us on May 18th for #AtScaleMetaAI, a one-day virtual event sharing a look at the next generation of…</description>
+      <content:encoded>RT @MetaAI: 📣 Just announced! Join live us on May 18th for #AtScaleMetaAI, a one-day virtual event sharing a look at the next generation of…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659262869114953740"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 18:21:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @OHBM_BrainArt: Our #OHBM2023 BrainArt Competition is now live! 🥳
+
+We accept submissions across five categories and invite artists to ex…</title>
+      <link>https://twitter.com/rgutzen/status/1659263962465148949</link>
+      <description>RT @OHBM_BrainArt: Our #OHBM2023 BrainArt Competition is now live! 🥳
+
+We accept submissions across five categories and invite artists to ex…</description>
+      <content:encoded>RT @OHBM_BrainArt: Our #OHBM2023 BrainArt Competition is now live! 🥳
+
+We accept submissions across five categories and invite artists to ex…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rgutzen/status/1659263962465148949"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 18:25:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>A series of AI announcements by Meta:
+- MTIA v1: an AI chip for fast inference: https://t.co/akQ67IOELa
+- RSC: 5 exaflops, 16,000 GPU Research Super Cluster for AI research: https://t.co/OMrHeoB27v
+- AI-focused data centers: https://t.co/jBP8sMV33h https://t.co/MYkF0bqnNp</title>
+      <link>https://twitter.com/ylecun/status/1659264667255021578</link>
+      <description>A series of AI announcements by Meta:
+- MTIA v1: an AI chip for fast inference: https://t.co/akQ67IOELa
+- RSC: 5 exaflops, 16,000 GPU Research Super Cluster for AI research: https://t.co/OMrHeoB27v
+- AI-focused data centers: https://t.co/jBP8sMV33h https://t.co/MYkF0bqnNp</description>
+      <content:encoded>A series of AI announcements by Meta:
+- MTIA v1: an AI chip for fast inference: https://t.co/akQ67IOELa
+- RSC: 5 exaflops, 16,000 GPU Research Super Cluster for AI research: https://t.co/OMrHeoB27v
+- AI-focused data centers: https://t.co/jBP8sMV33h https://t.co/MYkF0bqnNp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659264667255021578"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwbkDHuXoAEA9j6.png" length="747" type="photo"/>
+      <pubDate>Thu, 18 May 2023 18:28:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CellPressNews: Human cortical interneurons optimized for grafting specifically integrate, abort seizures, and display prolonged efficac…</title>
+      <link>https://twitter.com/NeuroCellPress/status/1659267558116139023</link>
+      <description>RT @CellPressNews: Human cortical interneurons optimized for grafting specifically integrate, abort seizures, and display prolonged efficac…</description>
+      <content:encoded>RT @CellPressNews: Human cortical interneurons optimized for grafting specifically integrate, abort seizures, and display prolonged efficac…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1659267558116139023"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 18:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @TrendsCognSci: Same but different: how agency modulates pain perception
+
+New Spotlight by @KatjaWiech discussing recent work by @andrea…</title>
+      <link>https://twitter.com/NeuroCellPress/status/1659267600432472070</link>
+      <description>RT @TrendsCognSci: Same but different: how agency modulates pain perception
+
+New Spotlight by @KatjaWiech discussing recent work by @andrea…</description>
+      <content:encoded>RT @TrendsCognSci: Same but different: how agency modulates pain perception
+
+New Spotlight by @KatjaWiech discussing recent work by @andrea…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1659267600432472070"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 18:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>A @SciReports paper presents a dinosaur specimen from Castellón, Spain, that represents a new proposed species of spinosaurid. https://t.co/7W0ADXuwmc https://t.co/iRsnfzhj4C</title>
+      <link>https://twitter.com/NaturePortfolio/status/1659267883153727504</link>
+      <description>A @SciReports paper presents a dinosaur specimen from Castellón, Spain, that represents a new proposed species of spinosaurid. https://t.co/7W0ADXuwmc https://t.co/iRsnfzhj4C</description>
+      <content:encoded>A @SciReports paper presents a dinosaur specimen from Castellón, Spain, that represents a new proposed species of spinosaurid. https://t.co/7W0ADXuwmc https://t.co/iRsnfzhj4C&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1659267883153727504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwbnVGKXoBYlEvo.jpg" length="1066" type="photo"/>
+      <pubDate>Thu, 18 May 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>How can we use AI to make the world around us more accessible? 💡
+
+Today, we’re proud to help launch a new visual question and answer feature within @Google’s Lookout app, designed to support blind people and those from low vision communities. https://t.co/nfB7yroJXh #GAAD2023 https://t.co/jCrQuy0pZT https://t.co/nIZ6tG6zim</title>
+      <link>https://twitter.com/DeepMind/status/1659268340618076167</link>
+      <description>How can we use AI to make the world around us more accessible? 💡
+
+Today, we’re proud to help launch a new visual question and answer feature within @Google’s Lookout app, designed to support blind people and those from low vision communities. https://t.co/nfB7yroJXh #GAAD2023 https://t.co/jCrQuy0pZT https://t.co/nIZ6tG6zim</description>
+      <content:encoded>How can we use AI to make the world around us more accessible? 💡
+
+Today, we’re proud to help launch a new visual question and answer feature within @Google’s Lookout app, designed to support blind people and those from low vision communities. https://t.co/nfB7yroJXh #GAAD2023 https://t.co/jCrQuy0pZT https://t.co/nIZ6tG6zim&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1659268340618076167"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FwbnZ2oXoA8fk_J.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 18 May 2023 18:42:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Built using our powerful AI model Flamingo, it can auto-generate image descriptions and allows users to ask follow-up questions about them.
+
+A limited group will be invited to test out this feature and we hope to make it available more widely soon. ⬇️ https://t.co/nfB7yroJXh</title>
+      <link>https://twitter.com/DeepMind/status/1659268342346129418</link>
+      <description>Built using our powerful AI model Flamingo, it can auto-generate image descriptions and allows users to ask follow-up questions about them.
+
+A limited group will be invited to test out this feature and we hope to make it available more widely soon. ⬇️ https://t.co/nfB7yroJXh</description>
+      <content:encoded>Built using our powerful AI model Flamingo, it can auto-generate image descriptions and allows users to ask follow-up questions about them.
+
+A limited group will be invited to test out this feature and we hope to make it available more widely soon. ⬇️ https://t.co/nfB7yroJXh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1659268342346129418"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 18:42:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DanielJDrucker: Who is gonna want to use once weekly GLP-1-based medicines if one can directly inject AAV-based GLP-1 gene therapy ther…</title>
+      <link>https://twitter.com/YasirSalas/status/1659270730071121965</link>
+      <description>RT @DanielJDrucker: Who is gonna want to use once weekly GLP-1-based medicines if one can directly inject AAV-based GLP-1 gene therapy ther…</description>
+      <content:encoded>RT @DanielJDrucker: Who is gonna want to use once weekly GLP-1-based medicines if one can directly inject AAV-based GLP-1 gene therapy ther…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/YasirSalas/status/1659270730071121965"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 18:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Question for folks who read in vivo ephys papers: what quality control standards would benefit the field? Do you worry about unit isolation, stability/drift, epileptiform activity, noise levels? Large scale recordings are now common but not sure we have agreed on standards.</title>
+      <link>https://twitter.com/anne_churchland/status/1659270812397076480</link>
+      <description>Question for folks who read in vivo ephys papers: what quality control standards would benefit the field? Do you worry about unit isolation, stability/drift, epileptiform activity, noise levels? Large scale recordings are now common but not sure we have agreed on standards.</description>
+      <content:encoded>Question for folks who read in vivo ephys papers: what quality control standards would benefit the field? Do you worry about unit isolation, stability/drift, epileptiform activity, noise levels? Large scale recordings are now common but not sure we have agreed on standards.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/anne_churchland/status/1659270812397076480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 18:52:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>First lab lunch! https://t.co/Lcsjd2SwYp</title>
+      <link>https://twitter.com/neurograce/status/1659271106908364813</link>
+      <description>First lab lunch! https://t.co/Lcsjd2SwYp</description>
+      <content:encoded>First lab lunch! https://t.co/Lcsjd2SwYp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1659271106908364813"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwbqNSvXoBIssp3.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 18 May 2023 18:53:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Check out this interdisciplinary work, modelling /analysis by @Mars_Schneider and recordings by @atzanou. High frequency flicker primarily recruits fs interneurons and more or less "strands" in L4 of V1 —with no entrainment of CA1 as also shown by recent Buzsaki lab paper https://t.co/1qwiebXrhv</title>
+      <link>https://twitter.com/martin_a_vinck/status/1659272336263061525</link>
+      <description>Check out this interdisciplinary work, modelling /analysis by @Mars_Schneider and recordings by @atzanou. High frequency flicker primarily recruits fs interneurons and more or less "strands" in L4 of V1 —with no entrainment of CA1 as also shown by recent Buzsaki lab paper https://t.co/1qwiebXrhv</description>
+      <content:encoded>Check out this interdisciplinary work, modelling /analysis by @Mars_Schneider and recordings by @atzanou. High frequency flicker primarily recruits fs interneurons and more or less "strands" in L4 of V1 —with no entrainment of CA1 as also shown by recent Buzsaki lab paper https://t.co/1qwiebXrhv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/martin_a_vinck/status/1659272336263061525"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 18:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is the diagram of an algorithm for the computation of Bernoulli numbers created by Ada Lovelace in 1842. It was developed for the Analytical Engine by Charles Babbage and is considered to be the first computer program 
+
+[source, read more: https://t.co/C5nxweVo0F] https://t.co/z50e5v9FPm</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659273185534124050</link>
+      <description>This is the diagram of an algorithm for the computation of Bernoulli numbers created by Ada Lovelace in 1842. It was developed for the Analytical Engine by Charles Babbage and is considered to be the first computer program 
+
+[source, read more: https://t.co/C5nxweVo0F] https://t.co/z50e5v9FPm</description>
+      <content:encoded>This is the diagram of an algorithm for the computation of Bernoulli numbers created by Ada Lovelace in 1842. It was developed for the Analytical Engine by Charles Babbage and is considered to be the first computer program 
+
+[source, read more: https://t.co/C5nxweVo0F] https://t.co/z50e5v9FPm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659273185534124050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwbsIUfXoAEpWIy.jpg" length="1024" type="photo"/>
+      <pubDate>Thu, 18 May 2023 19:02:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: The contribution of probiotics for the double-edge effect of cefazolin on postoperative neurocognitive disorders by rebalancing the gut microbiota: Introduction
+
+Emerging data suggest that perioperative gut dysbiosis is… #Neuroscience https://t.co/DtSZuynR5T</title>
+      <link>https://twitter.com/FrontNeurosci/status/1659273794337509376</link>
+      <description>New Research: The contribution of probiotics for the double-edge effect of cefazolin on postoperative neurocognitive disorders by rebalancing the gut microbiota: Introduction
+
+Emerging data suggest that perioperative gut dysbiosis is… #Neuroscience https://t.co/DtSZuynR5T</description>
+      <content:encoded>New Research: The contribution of probiotics for the double-edge effect of cefazolin on postoperative neurocognitive disorders by rebalancing the gut microbiota: Introduction
+
+Emerging data suggest that perioperative gut dysbiosis is… #Neuroscience https://t.co/DtSZuynR5T&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1659273794337509376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 19:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t miss a chance to make sure your voice is represented in our volunteer leadership!  
+
+If you are a regular, emeritus, or postdoc member check your email for a passcode and log in to the voting  system!  
+
+For more information visit ▶️ https://t.co/kuUGzRudd1  
+
+#neurotwitter https://t.co/qH0ByE83iR</title>
+      <link>https://twitter.com/SfNtweets/status/1659273932724219904</link>
+      <description>Don’t miss a chance to make sure your voice is represented in our volunteer leadership!  
+
+If you are a regular, emeritus, or postdoc member check your email for a passcode and log in to the voting  system!  
+
+For more information visit ▶️ https://t.co/kuUGzRudd1  
+
+#neurotwitter https://t.co/qH0ByE83iR</description>
+      <content:encoded>Don’t miss a chance to make sure your voice is represented in our volunteer leadership!  
+
+If you are a regular, emeritus, or postdoc member check your email for a passcode and log in to the voting  system!  
+
+For more information visit ▶️ https://t.co/kuUGzRudd1  
+
+#neurotwitter https://t.co/qH0ByE83iR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1659273932724219904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwbs1NRXoBE58GL.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 18 May 2023 19:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nature Chemical Biology @nchembio is looking for an associate or senior editor to join the editorial team! To be based in New York or Shanghai. Applicants with expertise in biosynthesis, biocatalysis, metabolic engineering, and protein design are desired. https://t.co/HemITkJBZU</title>
+      <link>https://twitter.com/naturemethods/status/1659274263914848260</link>
+      <description>Nature Chemical Biology @nchembio is looking for an associate or senior editor to join the editorial team! To be based in New York or Shanghai. Applicants with expertise in biosynthesis, biocatalysis, metabolic engineering, and protein design are desired. https://t.co/HemITkJBZU</description>
+      <content:encoded>Nature Chemical Biology @nchembio is looking for an associate or senior editor to join the editorial team! To be based in New York or Shanghai. Applicants with expertise in biosynthesis, biocatalysis, metabolic engineering, and protein design are desired. https://t.co/HemITkJBZU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1659274263914848260"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 18 May 2023 19:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>#113: Transcriptomic reprogramming for neuronal age reversal by Plesa,  Shadpour, @eboyden3 @geochurch 
+
+How do we go from treating the symptoms of neural disease to curing the underlying networks? Resetting the genetic regulatory landscape is key.
+
+https://t.co/WF8MOe54GI https://t.co/m5H3bGTS11</title>
+      <link>https://twitter.com/bdanubius/status/1659275268307972105</link>
+      <description>#113: Transcriptomic reprogramming for neuronal age reversal by Plesa,  Shadpour, @eboyden3 @geochurch 
+
+How do we go from treating the symptoms of neural disease to curing the underlying networks? Resetting the genetic regulatory landscape is key.
+
+https://t.co/WF8MOe54GI https://t.co/m5H3bGTS11</description>
+      <content:encoded>#113: Transcriptomic reprogramming for neuronal age reversal by Plesa,  Shadpour, @eboyden3 @geochurch 
+
+How do we go from treating the symptoms of neural disease to curing the underlying networks? Resetting the genetic regulatory landscape is key.
+
+https://t.co/WF8MOe54GI https://t.co/m5H3bGTS11&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1659275268307972105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwbt3-vWAAEK6k7.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 18 May 2023 19:10:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
