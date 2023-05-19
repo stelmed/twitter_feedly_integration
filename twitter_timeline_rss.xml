@@ -6,78 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 12:30:19 +0000</lastBuildDate>
-    <item>
-      <title>We fitted the readout of a pre-trained robust ResNet50 on our V4 data to predict neuronal firing rates to natural images, achieving high performance. We treated this model as a “digital twin” of macaque V4 and used it for vast in silico experimentation https://t.co/0JgczU8kW3</title>
-      <link>https://twitter.com/AToliasLab/status/1659236753666867206</link>
-      <description>We fitted the readout of a pre-trained robust ResNet50 on our V4 data to predict neuronal firing rates to natural images, achieving high performance. We treated this model as a “digital twin” of macaque V4 and used it for vast in silico experimentation https://t.co/0JgczU8kW3</description>
-      <content:encoded>We fitted the readout of a pre-trained robust ResNet50 on our V4 data to predict neuronal firing rates to natural images, achieving high performance. We treated this model as a “digital twin” of macaque V4 and used it for vast in silico experimentation https://t.co/0JgczU8kW3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659236753666867206"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwbJ_1fWAAk8c7p.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 18 May 2023 16:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>We used our model to generate “Maximally Exciting Images” (MEIs) for each neuron. These MEIs exhibited complex features like textures, shapes, or even high-level attributes such as eye-like structures in line w/ tuning properties of V4 neurons identified using parametric stimuli https://t.co/nqmDLDkgtb</title>
-      <link>https://twitter.com/AToliasLab/status/1659236755466223626</link>
-      <description>We used our model to generate “Maximally Exciting Images” (MEIs) for each neuron. These MEIs exhibited complex features like textures, shapes, or even high-level attributes such as eye-like structures in line w/ tuning properties of V4 neurons identified using parametric stimuli https://t.co/nqmDLDkgtb</description>
-      <content:encoded>We used our model to generate “Maximally Exciting Images” (MEIs) for each neuron. These MEIs exhibited complex features like textures, shapes, or even high-level attributes such as eye-like structures in line w/ tuning properties of V4 neurons identified using parametric stimuli https://t.co/nqmDLDkgtb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659236755466223626"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwbKDmhWIAADrJn.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 18 May 2023 16:37:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>We verified our MEIs in vivo by developing a closed-loop paradigm for acute electrophysiological recordings of single neurons. The MEI of a single neuron consistently elicited higher neuronal responses than control natural images, suggesting it is indeed the optimal stimulus https://t.co/246tbzluLR</title>
-      <link>https://twitter.com/AToliasLab/status/1659236757181804551</link>
-      <description>We verified our MEIs in vivo by developing a closed-loop paradigm for acute electrophysiological recordings of single neurons. The MEI of a single neuron consistently elicited higher neuronal responses than control natural images, suggesting it is indeed the optimal stimulus https://t.co/246tbzluLR</description>
-      <content:encoded>We verified our MEIs in vivo by developing a closed-loop paradigm for acute electrophysiological recordings of single neurons. The MEI of a single neuron consistently elicited higher neuronal responses than control natural images, suggesting it is indeed the optimal stimulus https://t.co/246tbzluLR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659236757181804551"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwbKHnnXoAYiCzz.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 18 May 2023 16:37:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>We noticed that MEIs from single sessions were more similar to each other than to MEIs from other sessions &amp;amp; quantified this using psychophysics. As neurons from one session are arranged orthogonal to the surface, this suggests that V4 tuning may be organized in a columnar manner https://t.co/Im4FGbHdxa</title>
-      <link>https://twitter.com/AToliasLab/status/1659236759241097229</link>
-      <description>We noticed that MEIs from single sessions were more similar to each other than to MEIs from other sessions &amp;amp; quantified this using psychophysics. As neurons from one session are arranged orthogonal to the surface, this suggests that V4 tuning may be organized in a columnar manner https://t.co/Im4FGbHdxa</description>
-      <content:encoded>We noticed that MEIs from single sessions were more similar to each other than to MEIs from other sessions &amp;amp; quantified this using psychophysics. As neurons from one session are arranged orthogonal to the surface, this suggests that V4 tuning may be organized in a columnar manner https://t.co/Im4FGbHdxa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659236759241097229"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwbKM-2WYAAw5Li.jpg" length="784" type="photo"/>
-      <pubDate>Thu, 18 May 2023 16:37:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>We employed a contrastive learning method to further quantify MEI similarity within and across recording sessions &amp;amp; found that the mean distance between MEIs in the embedding space was significantly smaller within a session than across sessions https://t.co/s9fWyEuFmA</title>
-      <link>https://twitter.com/AToliasLab/status/1659236761271140362</link>
-      <description>We employed a contrastive learning method to further quantify MEI similarity within and across recording sessions &amp;amp; found that the mean distance between MEIs in the embedding space was significantly smaller within a session than across sessions https://t.co/s9fWyEuFmA</description>
-      <content:encoded>We employed a contrastive learning method to further quantify MEI similarity within and across recording sessions &amp;amp; found that the mean distance between MEIs in the embedding space was significantly smaller within a session than across sessions https://t.co/s9fWyEuFmA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659236761271140362"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwbKSwDXwAEPoP9.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 18 May 2023 16:37:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moreover, the selectivity of the neuronal population was clustered in the similarity space, suggesting that V4 tuning properties identified using the neuron’s optimal stimuli can be separated into functional groups selective for a specific feature, reminiscent of cell types https://t.co/w3od121KcL</title>
-      <link>https://twitter.com/AToliasLab/status/1659236763414528001</link>
-      <description>Moreover, the selectivity of the neuronal population was clustered in the similarity space, suggesting that V4 tuning properties identified using the neuron’s optimal stimuli can be separated into functional groups selective for a specific feature, reminiscent of cell types https://t.co/w3od121KcL</description>
-      <content:encoded>Moreover, the selectivity of the neuronal population was clustered in the similarity space, suggesting that V4 tuning properties identified using the neuron’s optimal stimuli can be separated into functional groups selective for a specific feature, reminiscent of cell types https://t.co/w3od121KcL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659236763414528001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwbKXJIXgAAntqd.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 18 May 2023 16:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The contrastive learning method was based on this publication: https://t.co/mi4qGmfxg5 Thanks to @CellTypist @hippopedoid Niklas Bohm for their help in implementing it!</title>
-      <link>https://twitter.com/AToliasLab/status/1659236765310304262</link>
-      <description>The contrastive learning method was based on this publication: https://t.co/mi4qGmfxg5 Thanks to @CellTypist @hippopedoid Niklas Bohm for their help in implementing it!</description>
-      <content:encoded>The contrastive learning method was based on this publication: https://t.co/mi4qGmfxg5 Thanks to @CellTypist @hippopedoid Niklas Bohm for their help in implementing it!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659236765310304262"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 18 May 2023 16:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interestingly, these functional groups closely resemble the feature maps of units in deep neural networks trained on image classification, suggesting that computational principles are shared among biological &amp;amp; artificial visual systems - see work by @ch402 https://t.co/x5oy6GpwM3 https://t.co/BcvRIctHpM</title>
-      <link>https://twitter.com/AToliasLab/status/1659236766849675265</link>
-      <description>Interestingly, these functional groups closely resemble the feature maps of units in deep neural networks trained on image classification, suggesting that computational principles are shared among biological &amp;amp; artificial visual systems - see work by @ch402 https://t.co/x5oy6GpwM3 https://t.co/BcvRIctHpM</description>
-      <content:encoded>Interestingly, these functional groups closely resemble the feature maps of units in deep neural networks trained on image classification, suggesting that computational principles are shared among biological &amp;amp; artificial visual systems - see work by @ch402 https://t.co/x5oy6GpwM3 https://t.co/BcvRIctHpM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659236766849675265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwbKbv5XwAIhq8c.jpg" length="1190" type="photo"/>
-      <pubDate>Thu, 18 May 2023 16:37:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The resemblance between V4 neuronal &amp;amp; deep artificial neural network feature selectivity can be used to generate specific hypotheses about visual tuning properties of primate V4 neurons beyond spatial patterns, such as about color boundary encoding in monkey V4 functional groups https://t.co/JD8ljKicCw</title>
-      <link>https://twitter.com/AToliasLab/status/1659236768682586119</link>
-      <description>The resemblance between V4 neuronal &amp;amp; deep artificial neural network feature selectivity can be used to generate specific hypotheses about visual tuning properties of primate V4 neurons beyond spatial patterns, such as about color boundary encoding in monkey V4 functional groups https://t.co/JD8ljKicCw</description>
-      <content:encoded>The resemblance between V4 neuronal &amp;amp; deep artificial neural network feature selectivity can be used to generate specific hypotheses about visual tuning properties of primate V4 neurons beyond spatial patterns, such as about color boundary encoding in monkey V4 functional groups https://t.co/JD8ljKicCw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659236768682586119"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwbKrwNWwAAogfP.png" length="435" type="photo"/>
-      <pubDate>Thu, 18 May 2023 16:37:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 13:18:22 +0000</lastBuildDate>
     <item>
       <title>Our findings provide evidence that functional cortical columns may be a generalizable organizing principle in the cortex, beyond primary sensory areas &amp;amp; demonstrates how deep learning can uncover structure-function relationships in the brain by characterizing neuronal tuning</title>
       <link>https://twitter.com/AToliasLab/status/1659236770679078914</link>
@@ -2139,6 +2068,131 @@ Learn more and apply: https://t.co/DfXi3vFtI2 https://t.co/PgPNsszro7&lt;blockqu
       <description>@OferYizhar Nice. Planning similar for @USCNGP this year.</description>
       <content:encoded>@OferYizhar Nice. Planning similar for @USCNGP this year.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1659534843032801280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 19 May 2023 12:21:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤣🤣🤣
+
+https://t.co/vNGRNqYqKK</title>
+      <link>https://twitter.com/ylecun/status/1659538207376121857</link>
+      <description>🤣🤣🤣
+
+https://t.co/vNGRNqYqKK</description>
+      <content:encoded>🤣🤣🤣
+
+https://t.co/vNGRNqYqKK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659538207376121857"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 19 May 2023 12:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dating back to ancient Greece, Sumer/Babylonia, and China, the pentagram was used to represent the four elements (Earth, Air, Fire, Water) plus the 5th, “quintessence.
+
+This is a brilliant interlaced version
+
+[📹 神奇画笔: https://t.co/N9ek9nOBS1]
+https://t.co/fs4ajxxDqn https://t.co/a4wBUGeVAZ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659538497131118592</link>
+      <description>Dating back to ancient Greece, Sumer/Babylonia, and China, the pentagram was used to represent the four elements (Earth, Air, Fire, Water) plus the 5th, “quintessence.
+
+This is a brilliant interlaced version
+
+[📹 神奇画笔: https://t.co/N9ek9nOBS1]
+https://t.co/fs4ajxxDqn https://t.co/a4wBUGeVAZ</description>
+      <content:encoded>Dating back to ancient Greece, Sumer/Babylonia, and China, the pentagram was used to represent the four elements (Earth, Air, Fire, Water) plus the 5th, “quintessence.
+
+This is a brilliant interlaced version
+
+[📹 神奇画笔: https://t.co/N9ek9nOBS1]
+https://t.co/fs4ajxxDqn https://t.co/a4wBUGeVAZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659538497131118592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1659214607830102019/pu/img/ifNclnPd0y9buVSP.jpg" length="675" type="photo"/>
+      <pubDate>Fri, 19 May 2023 12:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @amasad: On the incentives of doom prophecies https://t.co/dR8UvWYIhE</title>
+      <link>https://twitter.com/ylecun/status/1659539065450930177</link>
+      <description>RT @amasad: On the incentives of doom prophecies https://t.co/dR8UvWYIhE</description>
+      <content:encoded>RT @amasad: On the incentives of doom prophecies https://t.co/dR8UvWYIhE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659539065450930177"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FweEAaKacAIGJ1m.jpg" length="659" type="photo"/>
+      <pubDate>Fri, 19 May 2023 12:38:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Calisthenics for cancer? Erik Fung highlights this work by @ALaGerche et al. in @CircAHA demonstrating the benefits of physical #exercise on cardiorespiratory #fitness and cardiotoxicity in a #breastcancer cohort receiving #chemotherapy.
+
+https://t.co/w0w8J6pF8L https://t.co/YTLZUxQbaV</title>
+      <link>https://twitter.com/Facultyopinions/status/1659539406989012994</link>
+      <description>Calisthenics for cancer? Erik Fung highlights this work by @ALaGerche et al. in @CircAHA demonstrating the benefits of physical #exercise on cardiorespiratory #fitness and cardiotoxicity in a #breastcancer cohort receiving #chemotherapy.
+
+https://t.co/w0w8J6pF8L https://t.co/YTLZUxQbaV</description>
+      <content:encoded>Calisthenics for cancer? Erik Fung highlights this work by @ALaGerche et al. in @CircAHA demonstrating the benefits of physical #exercise on cardiorespiratory #fitness and cardiotoxicity in a #breastcancer cohort receiving #chemotherapy.
+
+https://t.co/w0w8J6pF8L https://t.co/YTLZUxQbaV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1659539406989012994"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwfeS1OXoAAM0zZ.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 19 May 2023 12:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a 300-year-old book wheel kept in the Biblioteca Palafoxiana, Puebla, Mexico: it allowed 18th century researchers to have up to seven books open at once 
+
+A kind of analog of today's multi-tab browsers
+
+[source, read more: https://t.co/vAudDC2xmz] https://t.co/gOWLkFYfyE</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659543455951998977</link>
+      <description>This is a 300-year-old book wheel kept in the Biblioteca Palafoxiana, Puebla, Mexico: it allowed 18th century researchers to have up to seven books open at once 
+
+A kind of analog of today's multi-tab browsers
+
+[source, read more: https://t.co/vAudDC2xmz] https://t.co/gOWLkFYfyE</description>
+      <content:encoded>This is a 300-year-old book wheel kept in the Biblioteca Palafoxiana, Puebla, Mexico: it allowed 18th century researchers to have up to seven books open at once 
+
+A kind of analog of today's multi-tab browsers
+
+[source, read more: https://t.co/vAudDC2xmz] https://t.co/gOWLkFYfyE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659543455951998977"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwfhxEtWwAIGi7M.jpg" length="454" type="photo"/>
+      <pubDate>Fri, 19 May 2023 12:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuron–glia communication through bona fide synapses — a Journal Club article by @LucasCheadle
+
+https://t.co/vev3vw51Uz https://t.co/b3alK49ULL</title>
+      <link>https://twitter.com/NatRevNeurosci/status/1659544437075091461</link>
+      <description>Neuron–glia communication through bona fide synapses — a Journal Club article by @LucasCheadle
+
+https://t.co/vev3vw51Uz https://t.co/b3alK49ULL</description>
+      <content:encoded>Neuron–glia communication through bona fide synapses — a Journal Club article by @LucasCheadle
+
+https://t.co/vev3vw51Uz https://t.co/b3alK49ULL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatRevNeurosci/status/1659544437075091461"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwPkyRuXoAYqABW.jpg" length="1066" type="photo"/>
+      <pubDate>Fri, 19 May 2023 13:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @TheCraigLab: A beautiful confocal image from @AndrianovaLilya for a manuscript we'll pop on BioRxiv in the next few months. Green is Ca…</title>
+      <link>https://twitter.com/neuralengine/status/1659546540841619456</link>
+      <description>RT @TheCraigLab: A beautiful confocal image from @AndrianovaLilya for a manuscript we'll pop on BioRxiv in the next few months. Green is Ca…</description>
+      <content:encoded>RT @TheCraigLab: A beautiful confocal image from @AndrianovaLilya for a manuscript we'll pop on BioRxiv in the next few months. Green is Ca…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1659546540841619456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 19 May 2023 13:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Genetic patterning for child psychopathology is distinct from that for adults and implicates fetal cerebellar development
+
+New from @dehughes14 @joshuaroffman @MGHNeuroSci 
+
+https://t.co/FkiKczfIh9</title>
+      <link>https://twitter.com/NatureNeuro/status/1659548207528177666</link>
+      <description>Genetic patterning for child psychopathology is distinct from that for adults and implicates fetal cerebellar development
+
+New from @dehughes14 @joshuaroffman @MGHNeuroSci 
+
+https://t.co/FkiKczfIh9</description>
+      <content:encoded>Genetic patterning for child psychopathology is distinct from that for adults and implicates fetal cerebellar development
+
+New from @dehughes14 @joshuaroffman @MGHNeuroSci 
+
+https://t.co/FkiKczfIh9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1659548207528177666"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 19 May 2023 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Tidis__: 📢 My lab is hiring a PhD fellow !!! (4-year project) Join one of our new projects in sleep neurophysiology and molecular biolo…</title>
+      <link>https://twitter.com/FlavioDonato82/status/1659548746764414977</link>
+      <description>RT @Tidis__: 📢 My lab is hiring a PhD fellow !!! (4-year project) Join one of our new projects in sleep neurophysiology and molecular biolo…</description>
+      <content:encoded>RT @Tidis__: 📢 My lab is hiring a PhD fellow !!! (4-year project) Join one of our new projects in sleep neurophysiology and molecular biolo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FlavioDonato82/status/1659548746764414977"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 19 May 2023 13:17:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
