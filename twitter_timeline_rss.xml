@@ -6,85 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 06:20:23 +0000</lastBuildDate>
-    <item>
-      <title>RT @Laura_E_Suarez: If you’re interested in NeuroAI, you should not miss this event 👀 organized by UNIQUE students 😉
-
-🧠🤖</title>
-      <link>https://twitter.com/tyrell_turing/status/1659212075523272708</link>
-      <description>RT @Laura_E_Suarez: If you’re interested in NeuroAI, you should not miss this event 👀 organized by UNIQUE students 😉
-
-🧠🤖</description>
-      <content:encoded>RT @Laura_E_Suarez: If you’re interested in NeuroAI, you should not miss this event 👀 organized by UNIQUE students 😉
-
-🧠🤖&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1659212075523272708"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 18 May 2023 14:59:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mathwis_emily: Hey! did you know that we are crowdfunding for the Deep Learning Indaba this year in Ghana?
-
-Check out video + testimoni…</title>
-      <link>https://twitter.com/tyrell_turing/status/1659212181014204430</link>
-      <description>RT @mathwis_emily: Hey! did you know that we are crowdfunding for the Deep Learning Indaba this year in Ghana?
-
-Check out video + testimoni…</description>
-      <content:encoded>RT @mathwis_emily: Hey! did you know that we are crowdfunding for the Deep Learning Indaba this year in Ghana?
-
-Check out video + testimoni…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1659212181014204430"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 18 May 2023 14:59:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Curious about what the Fc domain of an antibody can do? We're diving into Fc effector functions in our latest blog post! 
-
-https://t.co/AP1MY3QiBW</title>
-      <link>https://twitter.com/Addgene/status/1659212247825256449</link>
-      <description>Curious about what the Fc domain of an antibody can do? We're diving into Fc effector functions in our latest blog post! 
-
-https://t.co/AP1MY3QiBW</description>
-      <content:encoded>Curious about what the Fc domain of an antibody can do? We're diving into Fc effector functions in our latest blog post! 
-
-https://t.co/AP1MY3QiBW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1659212247825256449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 18 May 2023 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>44 years ago #Today, Viking 2 took this iconic image of frost on #Mars 
-
-[source: https://t.co/O5BmzHWtkM]
-[processing by @tedstryk] https://t.co/9VspmlicCd</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659212290938511362</link>
-      <description>44 years ago #Today, Viking 2 took this iconic image of frost on #Mars 
-
-[source: https://t.co/O5BmzHWtkM]
-[processing by @tedstryk] https://t.co/9VspmlicCd</description>
-      <content:encoded>44 years ago #Today, Viking 2 took this iconic image of frost on #Mars 
-
-[source: https://t.co/O5BmzHWtkM]
-[processing by @tedstryk] https://t.co/9VspmlicCd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659212290938511362"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwa0la0agAIUq-N.jpg" length="768" type="photo"/>
-      <pubDate>Thu, 18 May 2023 15:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new @SciImmunology study in mice investigates the developmental origins of CD4+ tissue resident memory cells, identifying a potential precursor population in the small intestine.
-
-Read more: https://t.co/LDrjPGjcK2 https://t.co/t8IZGC9bu7</title>
-      <link>https://twitter.com/ScienceMagazine/status/1659212448044568577</link>
-      <description>A new @SciImmunology study in mice investigates the developmental origins of CD4+ tissue resident memory cells, identifying a potential precursor population in the small intestine.
-
-Read more: https://t.co/LDrjPGjcK2 https://t.co/t8IZGC9bu7</description>
-      <content:encoded>A new @SciImmunology study in mice investigates the developmental origins of CD4+ tissue resident memory cells, identifying a potential precursor population in the small intestine.
-
-Read more: https://t.co/LDrjPGjcK2 https://t.co/t8IZGC9bu7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1659212448044568577"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwa07X8aIAArOGx.jpg" length="911" type="photo"/>
-      <pubDate>Thu, 18 May 2023 15:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Imagine you are going to #space. You’ll need lots of supplies, but you can’t bring everything. What if you could make what you need while in space? Learn more about the potential of in-space manufacturing in this week’s Voices from DARPA https://t.co/zsEc6BAmWV https://t.co/5JA4OlpiK4</title>
-      <link>https://twitter.com/DARPA/status/1659212813875957760</link>
-      <description>Imagine you are going to #space. You’ll need lots of supplies, but you can’t bring everything. What if you could make what you need while in space? Learn more about the potential of in-space manufacturing in this week’s Voices from DARPA https://t.co/zsEc6BAmWV https://t.co/5JA4OlpiK4</description>
-      <content:encoded>Imagine you are going to #space. You’ll need lots of supplies, but you can’t bring everything. What if you could make what you need while in space? Learn more about the potential of in-space manufacturing in this week’s Voices from DARPA https://t.co/zsEc6BAmWV https://t.co/5JA4OlpiK4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1659212813875957760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwa1QxlagAI9LUa.jpg" length="619" type="photo"/>
-      <pubDate>Thu, 18 May 2023 15:02:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 07:14:21 +0000</lastBuildDate>
     <item>
       <title>@KordingLab @blamlab I actually buy the causal link... based on personal anecdotal experience. 
 
@@ -2028,6 +1950,91 @@ Here are 8 things that were not…&lt;blockquote class="twitter-tweet"&gt;&lt;a 
       <description>Multicore fiber optic imaging reveals that astrocyte calcium activity in the cerebral cortex is modulated by internal motivational state  https://t.co/gjCs8bo6Wr #biorxiv_neursci</description>
       <content:encoded>Multicore fiber optic imaging reveals that astrocyte calcium activity in the cerebral cortex is modulated by internal motivational state  https://t.co/gjCs8bo6Wr #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1659442791200575488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 19 May 2023 06:16:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>…and not available in Europe. Thanks EU, I feel so protected. https://t.co/o6nOyPBsMS</title>
+      <link>https://twitter.com/TheFrontalLobe_/status/1659444995735138304</link>
+      <description>…and not available in Europe. Thanks EU, I feel so protected. https://t.co/o6nOyPBsMS</description>
+      <content:encoded>…and not available in Europe. Thanks EU, I feel so protected. https://t.co/o6nOyPBsMS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheFrontalLobe_/status/1659444995735138304"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 19 May 2023 06:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>This stunning picture of the Space Shuttle Endeavour launching in the sunrise at the beginning of mission STS-77 was captured 27 years ago #Today 
+
+[source: https://t.co/Bio6zg0hxy] https://t.co/V01YUnvDxY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659445560196120577</link>
+      <description>This stunning picture of the Space Shuttle Endeavour launching in the sunrise at the beginning of mission STS-77 was captured 27 years ago #Today 
+
+[source: https://t.co/Bio6zg0hxy] https://t.co/V01YUnvDxY</description>
+      <content:encoded>This stunning picture of the Space Shuttle Endeavour launching in the sunrise at the beginning of mission STS-77 was captured 27 years ago #Today 
+
+[source: https://t.co/Bio6zg0hxy] https://t.co/V01YUnvDxY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659445560196120577"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FweI6sJXgAAnKms.jpg" length="1189" type="photo"/>
+      <pubDate>Fri, 19 May 2023 06:27:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The jaguarundi is a wild cat native to the Americas that  shows several features seen in mustelids such as otters and weasels
+
+[read more: https://t.co/Yv08QsgPLQ]
+[📹 Jacob + Katie Schwarz: https://t.co/LeSqHABbmw]
+https://t.co/IfP7bRWu7L</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659450375634649088</link>
+      <description>The jaguarundi is a wild cat native to the Americas that  shows several features seen in mustelids such as otters and weasels
+
+[read more: https://t.co/Yv08QsgPLQ]
+[📹 Jacob + Katie Schwarz: https://t.co/LeSqHABbmw]
+https://t.co/IfP7bRWu7L</description>
+      <content:encoded>The jaguarundi is a wild cat native to the Americas that  shows several features seen in mustelids such as otters and weasels
+
+[read more: https://t.co/Yv08QsgPLQ]
+[📹 Jacob + Katie Schwarz: https://t.co/LeSqHABbmw]
+https://t.co/IfP7bRWu7L&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659450375634649088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1343611263897784324/pu/img/b8XMqWTO_r1fH1Sx.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 19 May 2023 06:46:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>📢Call for survey participants - please share📢
+
+Help our Infrastructure Committee ID barriers to worldwide neuroscience data sharing &amp;amp; reuse - fill in this survey &amp;amp; help develop strategies for community support!
+
+Survey: https://t.co/os1qK5D7RB
+More info: https://t.co/OurBEYsP83 https://t.co/t5xVy510Us</title>
+      <link>https://twitter.com/INCForg/status/1659450815600373762</link>
+      <description>📢Call for survey participants - please share📢
+
+Help our Infrastructure Committee ID barriers to worldwide neuroscience data sharing &amp;amp; reuse - fill in this survey &amp;amp; help develop strategies for community support!
+
+Survey: https://t.co/os1qK5D7RB
+More info: https://t.co/OurBEYsP83 https://t.co/t5xVy510Us</description>
+      <content:encoded>📢Call for survey participants - please share📢
+
+Help our Infrastructure Committee ID barriers to worldwide neuroscience data sharing &amp;amp; reuse - fill in this survey &amp;amp; help develop strategies for community support!
+
+Survey: https://t.co/os1qK5D7RB
+More info: https://t.co/OurBEYsP83 https://t.co/t5xVy510Us&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1659450815600373762"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwaFilPWwAE19lb.jpg" length="500" type="photo"/>
+      <pubDate>Fri, 19 May 2023 06:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Today in 1845, the expedition of sir John Franklin in search of the Northwest Passage set sail from Greenhithe, England aboard HMS Erebus &amp;amp; HMS Terror. Both ships were trapped in sea ice in the Canadian Arctic &amp;amp; the entire expedition with 129 men was lost https://t.co/YQSIW05vuK https://t.co/tJI6BoxXxR</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659454507380613122</link>
+      <description>#Today in 1845, the expedition of sir John Franklin in search of the Northwest Passage set sail from Greenhithe, England aboard HMS Erebus &amp;amp; HMS Terror. Both ships were trapped in sea ice in the Canadian Arctic &amp;amp; the entire expedition with 129 men was lost https://t.co/YQSIW05vuK https://t.co/tJI6BoxXxR</description>
+      <content:encoded>#Today in 1845, the expedition of sir John Franklin in search of the Northwest Passage set sail from Greenhithe, England aboard HMS Erebus &amp;amp; HMS Terror. Both ships were trapped in sea ice in the Canadian Arctic &amp;amp; the entire expedition with 129 men was lost https://t.co/YQSIW05vuK https://t.co/tJI6BoxXxR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659454507380613122"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FweQ_ZAX0AEgk2j.jpg" length="680" type="photo"/>
+      <pubDate>Fri, 19 May 2023 07:02:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>There's more to Fc domains than meets the eye - Fc effector functions are a key part of an effective immune response! 
+
+https://t.co/4ad6XGyruq</title>
+      <link>https://twitter.com/Addgene/status/1659455091282268160</link>
+      <description>There's more to Fc domains than meets the eye - Fc effector functions are a key part of an effective immune response! 
+
+https://t.co/4ad6XGyruq</description>
+      <content:encoded>There's more to Fc domains than meets the eye - Fc effector functions are a key part of an effective immune response! 
+
+https://t.co/4ad6XGyruq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1659455091282268160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 19 May 2023 07:04:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
