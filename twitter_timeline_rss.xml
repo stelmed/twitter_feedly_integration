@@ -6,80 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 03:17:09 +0000</lastBuildDate>
-    <item>
-      <title>Full study in @FrontiersIn https://t.co/jOE0LAbfQl</title>
-      <link>https://twitter.com/MIT_Picower/status/1659189921414823936</link>
-      <description>Full study in @FrontiersIn https://t.co/jOE0LAbfQl</description>
-      <content:encoded>Full study in @FrontiersIn https://t.co/jOE0LAbfQl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1659189921414823936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 18 May 2023 13:31:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Michael's long version of the argument is in book form too, highly recommend it: https://t.co/q0DktNfX9s</title>
-      <link>https://twitter.com/PessoaBrain/status/1659190552368144391</link>
-      <description>Michael's long version of the argument is in book form too, highly recommend it: https://t.co/q0DktNfX9s</description>
-      <content:encoded>Michael's long version of the argument is in book form too, highly recommend it: https://t.co/q0DktNfX9s&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1659190552368144391"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwag69uWwAAs9sZ.png" length="265" type="photo"/>
-      <pubDate>Thu, 18 May 2023 13:33:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 24, 1969 
-
-Departure from: Moon
-
-Arrival at: Honolulu, Hawaii, USA
-
-Cargo: Moon Rock and Moon Dust Samples
-
-Conditions which may lead to the spread of desease: To Be Determined
-
-Customs form that Armstrong, Aldrin and Collins had to fill when they came back from the moon. https://t.co/dzk06rqjII</title>
-      <link>https://twitter.com/fermatslibrary/status/1659190859160600576</link>
-      <description>July 24, 1969 
-
-Departure from: Moon
-
-Arrival at: Honolulu, Hawaii, USA
-
-Cargo: Moon Rock and Moon Dust Samples
-
-Conditions which may lead to the spread of desease: To Be Determined
-
-Customs form that Armstrong, Aldrin and Collins had to fill when they came back from the moon. https://t.co/dzk06rqjII</description>
-      <content:encoded>July 24, 1969 
-
-Departure from: Moon
-
-Arrival at: Honolulu, Hawaii, USA
-
-Cargo: Moon Rock and Moon Dust Samples
-
-Conditions which may lead to the spread of desease: To Be Determined
-
-Customs form that Armstrong, Aldrin and Collins had to fill when they came back from the moon. https://t.co/dzk06rqjII&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1659190859160600576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwahSmzWYAEaaB0.jpg" length="753" type="photo"/>
-      <pubDate>Thu, 18 May 2023 13:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bertie Gregory filmed this Eden’s whale trap feeding in the Gulf of Thailand. This behaviour is thought to have developed because pollution has made the gulf a hypoxic environment 
-
-[source: https://t.co/UmkKAw0Seh] 
-[paper: https://t.co/222icskr20]
-https://t.co/YSVihQlnLa</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659192799475163140</link>
-      <description>Bertie Gregory filmed this Eden’s whale trap feeding in the Gulf of Thailand. This behaviour is thought to have developed because pollution has made the gulf a hypoxic environment 
-
-[source: https://t.co/UmkKAw0Seh] 
-[paper: https://t.co/222icskr20]
-https://t.co/YSVihQlnLa</description>
-      <content:encoded>Bertie Gregory filmed this Eden’s whale trap feeding in the Gulf of Thailand. This behaviour is thought to have developed because pollution has made the gulf a hypoxic environment 
-
-[source: https://t.co/UmkKAw0Seh] 
-[paper: https://t.co/222icskr20]
-https://t.co/YSVihQlnLa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659192799475163140"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1349399132029509634/pu/img/jmnEB6s0Ns-qrWdA.jpg" length="720" type="photo"/>
-      <pubDate>Thu, 18 May 2023 13:42:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 04:19:19 +0000</lastBuildDate>
     <item>
       <title>RT @NaveenGRao: 100% agree. Let’s please not regulate based on a couple of company’s commercial interests</title>
       <link>https://twitter.com/ylecun/status/1659197282850607108</link>
@@ -248,6 +175,26 @@ Original: The Verge on TikTok https://t.co/9CXfXnHM5v</description>
 Original: The Verge on TikTok https://t.co/9CXfXnHM5v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1659200873229328384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1659200811027800064/pu/img/Xz-Q2aLHz1d4Vgzn.jpg" length="675" type="photo"/>
       <pubDate>Thu, 18 May 2023 14:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
+
+[site: https://t.co/jpz3ylzbgK]
+[TikTok: https://t.co/3XWShB8jla]
+https://t.co/XLhB1hxRTI</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659202375087947783</link>
+      <description>Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
+
+[site: https://t.co/jpz3ylzbgK]
+[TikTok: https://t.co/3XWShB8jla]
+https://t.co/XLhB1hxRTI</description>
+      <content:encoded>Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
+
+[site: https://t.co/jpz3ylzbgK]
+[TikTok: https://t.co/3XWShB8jla]
+https://t.co/XLhB1hxRTI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659202375087947783"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1600460525669859328/pu/img/nJMataZN7rthwGJI.jpg" length="576" type="photo"/>
+      <pubDate>Thu, 18 May 2023 14:20:47 +0000</pubDate>
     </item>
     <item>
       <title>Senolytic compounds have shown promise for the treatment of aging-related diseases. A study in @NatureAging uses a deep learning model to identify compounds with favorable drug-like properties and confirms one compound’s in vivo activity in aged mice. 🔒 https://t.co/DF0OWretkx https://t.co/ObopuuFJdI</title>
@@ -1754,22 +1701,6 @@ Learn more ⬇️
       <pubDate>Thu, 18 May 2023 22:09:17 +0000</pubDate>
     </item>
     <item>
-      <title>RT @Rainmaker1973: Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
-
-[site: https://t.co/jpz3ylzbgK]
-[TikTok: htt…</title>
-      <link>https://twitter.com/TheFrontalLobe_/status/1659320298406133760</link>
-      <description>RT @Rainmaker1973: Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
-
-[site: https://t.co/jpz3ylzbgK]
-[TikTok: htt…</description>
-      <content:encoded>RT @Rainmaker1973: Living Rock Paper Scissors is a particle automata webgame by Peter Ganunis
-
-[site: https://t.co/jpz3ylzbgK]
-[TikTok: htt…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheFrontalLobe_/status/1659320298406133760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 18 May 2023 22:09:22 +0000</pubDate>
-    </item>
-    <item>
       <title>@tyrell_turing 🤣</title>
       <link>https://twitter.com/anne_churchland/status/1659320324322893825</link>
       <description>@tyrell_turing 🤣</description>
@@ -1973,6 +1904,13 @@ Get an overview…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://tw
       <pubDate>Thu, 18 May 2023 23:32:22 +0000</pubDate>
     </item>
     <item>
+      <title>New Research: A neural tract tracing study on synaptic connections for cortical glutamatergic terminals and cervical spinal calretinin neurons in rats #NeuralCircuits https://t.co/6vRcbgPwMS</title>
+      <link>https://twitter.com/FrontNeurosci/status/1659348283960225792</link>
+      <description>New Research: A neural tract tracing study on synaptic connections for cortical glutamatergic terminals and cervical spinal calretinin neurons in rats #NeuralCircuits https://t.co/6vRcbgPwMS</description>
+      <content:encoded>New Research: A neural tract tracing study on synaptic connections for cortical glutamatergic terminals and cervical spinal calretinin neurons in rats #NeuralCircuits https://t.co/6vRcbgPwMS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1659348283960225792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 19 May 2023 00:00:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Learning context shapes bimanual control strategy and generalization of novel dynamics  https://t.co/44VtNc5aLN #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1659352026986233856</link>
       <description>Learning context shapes bimanual control strategy and generalization of novel dynamics  https://t.co/44VtNc5aLN #biorxiv_neursci</description>
@@ -2119,6 +2057,34 @@ There is a lack of robust metabolic imaging techniques that can be routinely app
       <content:encoded>The differentiation of chemosensory gut epithelial cells, called tuft cells, is controlled by genetic variation in the Pou2af2 gene, finds new work in mice. https://t.co/wWeeQ618zZ @SciImmunology https://t.co/fQSbVMGvzu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1659393463039795203"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwdZj6IWcAIhIWd.jpg" length="910" type="photo"/>
       <pubDate>Fri, 19 May 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new explanation for the cognitive problems associated with human brain tumours. https://t.co/1ayV62TUtN</title>
+      <link>https://twitter.com/NatureNV/status/1659398001691860992</link>
+      <description>A new explanation for the cognitive problems associated with human brain tumours. https://t.co/1ayV62TUtN</description>
+      <content:encoded>A new explanation for the cognitive problems associated with human brain tumours. https://t.co/1ayV62TUtN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1659398001691860992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 19 May 2023 03:18:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI ♾️ https://t.co/U8b6ynMGrQ</title>
+      <link>https://twitter.com/elonmusk/status/1659409716634697728</link>
+      <description>AI ♾️ https://t.co/U8b6ynMGrQ</description>
+      <content:encoded>AI ♾️ https://t.co/U8b6ynMGrQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1659409716634697728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwdoV5YWcAIkUtt.jpg" length="986" type="photo"/>
+      <pubDate>Fri, 19 May 2023 04:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ch402: Very cool to see more parallels between neuroscience and mechanistic interpretability!
+
+There's a long history of us discovering…</title>
+      <link>https://twitter.com/patrickmineault/status/1659412149179916290</link>
+      <description>RT @ch402: Very cool to see more parallels between neuroscience and mechanistic interpretability!
+
+There's a long history of us discovering…</description>
+      <content:encoded>RT @ch402: Very cool to see more parallels between neuroscience and mechanistic interpretability!
+
+There's a long history of us discovering…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1659412149179916290"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 19 May 2023 04:14:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
