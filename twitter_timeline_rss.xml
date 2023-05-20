@@ -6,73 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 May 2023 01:19:35 +0000</lastBuildDate>
-    <item>
-      <title>🎉 #GSoC2023 project: Impact visualization portal for global neuroinformatics community 🎉
-
-Contributor: Atharva Purohit
-Mentor: Arnab Banerjee
-Project: Develop a complete end-to-end product that will visualize INCF’s impact on the global neuroscience and informatics community. https://t.co/zFN9D6VDWW</title>
-      <link>https://twitter.com/INCForg/status/1659480801753419776</link>
-      <description>🎉 #GSoC2023 project: Impact visualization portal for global neuroinformatics community 🎉
-
-Contributor: Atharva Purohit
-Mentor: Arnab Banerjee
-Project: Develop a complete end-to-end product that will visualize INCF’s impact on the global neuroscience and informatics community. https://t.co/zFN9D6VDWW</description>
-      <content:encoded>🎉 #GSoC2023 project: Impact visualization portal for global neuroinformatics community 🎉
-
-Contributor: Atharva Purohit
-Mentor: Arnab Banerjee
-Project: Develop a complete end-to-end product that will visualize INCF’s impact on the global neuroscience and informatics community. https://t.co/zFN9D6VDWW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1659480801753419776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FweosaqXwAIPH7t.png" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 08:47:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Follow this project on Neurostars: https://t.co/a7yuKY9T5c
-
-#GSoC #neuroscience #neuroinformatics #OpenScience</title>
-      <link>https://twitter.com/INCForg/status/1659480805746388994</link>
-      <description>Follow this project on Neurostars: https://t.co/a7yuKY9T5c
-
-#GSoC #neuroscience #neuroinformatics #OpenScience</description>
-      <content:encoded>Follow this project on Neurostars: https://t.co/a7yuKY9T5c
-
-#GSoC #neuroscience #neuroinformatics #OpenScience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1659480805746388994"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 08:47:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manhattan tree illusion
-
-[📹 Howard Lee: https://t.co/wvYZwkpTRg]
-https://t.co/cdn2PGlvPk</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659483466210082817</link>
-      <description>Manhattan tree illusion
-
-[📹 Howard Lee: https://t.co/wvYZwkpTRg]
-https://t.co/cdn2PGlvPk</description>
-      <content:encoded>Manhattan tree illusion
-
-[📹 Howard Lee: https://t.co/wvYZwkpTRg]
-https://t.co/cdn2PGlvPk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659483466210082817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1646845808216530951/pu/img/UBHJQ4mcyuzEMpeb.jpg" length="675" type="photo"/>
-      <pubDate>Fri, 19 May 2023 08:57:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Just came back from a 3-day lab retreat in the desert. We spent three intense days talking science and meta-science, cooking, eating, playing and singing. I came back feeling thankful for the amazing group of people that I have the privilege to work with. https://t.co/GaC0YUZSrp</title>
-      <link>https://twitter.com/OferYizhar/status/1659485541304336386</link>
-      <description>Just came back from a 3-day lab retreat in the desert. We spent three intense days talking science and meta-science, cooking, eating, playing and singing. I came back feeling thankful for the amazing group of people that I have the privilege to work with. https://t.co/GaC0YUZSrp</description>
-      <content:encoded>Just came back from a 3-day lab retreat in the desert. We spent three intense days talking science and meta-science, cooking, eating, playing and singing. I came back feeling thankful for the amazing group of people that I have the privilege to work with. https://t.co/GaC0YUZSrp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1659485541304336386"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwesgKQXgAAneRY.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 09:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/ySfpQ60FmU</title>
-      <link>https://twitter.com/OferYizhar/status/1659486121649225728</link>
-      <description>https://t.co/ySfpQ60FmU</description>
-      <content:encoded>https://t.co/ySfpQ60FmU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1659486121649225728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwet0CUXwAARs41.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 09:08:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 May 2023 02:31:35 +0000</lastBuildDate>
     <item>
       <title>Female humans, pilot whales and killer whales are unique among animals: they are the only 3 mammals known to undergo menopause. This allows them to help their children survive into adulthood &amp;amp; to act as grandmothers to the next generation 
 
@@ -2292,6 +2226,79 @@ Customize with your own data in just a few lines of code today ➡️ https://t.
       <description>New Research: Dynamic brain states in spatial neglect after stroke: Previous studies indicated that spatial neglect is characterized by widespread alteration of resting-state functional connectivity and changes in the functional topology of… #Neuroscience https://t.co/Hc7E9OfgOg</description>
       <content:encoded>New Research: Dynamic brain states in spatial neglect after stroke: Previous studies indicated that spatial neglect is characterized by widespread alteration of resting-state functional connectivity and changes in the functional topology of… #Neuroscience https://t.co/Hc7E9OfgOg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1659729543660470275"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 20 May 2023 01:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Science study constrains the elusive origins of fast radio bursts—brief flashes of intense radio waves from the distant Universe—and the local environments they occupy. Read more: https://t.co/bDk6YTCiEi #FRB https://t.co/jBJPzw9Hl8</title>
+      <link>https://twitter.com/ScienceMagazine/status/1659733212665372673</link>
+      <description>A new Science study constrains the elusive origins of fast radio bursts—brief flashes of intense radio waves from the distant Universe—and the local environments they occupy. Read more: https://t.co/bDk6YTCiEi #FRB https://t.co/jBJPzw9Hl8</description>
+      <content:encoded>A new Science study constrains the elusive origins of fast radio bursts—brief flashes of intense radio waves from the distant Universe—and the local environments they occupy. Read more: https://t.co/bDk6YTCiEi #FRB https://t.co/jBJPzw9Hl8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1659733212665372673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwiOjjCXwAMQY1V.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 20 May 2023 01:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CPDArobotics: #EmbodiedAI #CVPR2023 Workshop Abstract submissions open until 05/26 at https://t.co/8yONLSO9sm🤖 
+We will focus on genera…</title>
+      <link>https://twitter.com/neurograce/status/1659735164899958786</link>
+      <description>RT @CPDArobotics: #EmbodiedAI #CVPR2023 Workshop Abstract submissions open until 05/26 at https://t.co/8yONLSO9sm🤖 
+We will focus on genera…</description>
+      <content:encoded>RT @CPDArobotics: #EmbodiedAI #CVPR2023 Workshop Abstract submissions open until 05/26 at https://t.co/8yONLSO9sm🤖 
+We will focus on genera…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1659735164899958786"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 01:37:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entrada 👑. 1/8,137. 65k attempts. 877W for 60 seconds.
+
+https://t.co/IhVC4b5bvr https://t.co/sXJzmjX5PG</title>
+      <link>https://twitter.com/AndrewHires/status/1659735466483253248</link>
+      <description>Entrada 👑. 1/8,137. 65k attempts. 877W for 60 seconds.
+
+https://t.co/IhVC4b5bvr https://t.co/sXJzmjX5PG</description>
+      <content:encoded>Entrada 👑. 1/8,137. 65k attempts. 877W for 60 seconds.
+
+https://t.co/IhVC4b5bvr https://t.co/sXJzmjX5PG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1659735466483253248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwiQm2eaQAA8Dun.jpg" length="909" type="photo"/>
+      <pubDate>Sat, 20 May 2023 01:39:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>@TonyZador “What is best in life?” https://t.co/bPGqNt5taj</title>
+      <link>https://twitter.com/AndrewHires/status/1659735737426939906</link>
+      <description>@TonyZador “What is best in life?” https://t.co/bPGqNt5taj</description>
+      <content:encoded>@TonyZador “What is best in life?” https://t.co/bPGqNt5taj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1659735737426939906"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 01:40:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @HarryStebbings: You have to admit, it would be the most amazing show to hear @ylecun and @elonmusk in discussion on the future of AI on…</title>
+      <link>https://twitter.com/ylecun/status/1659738228436418560</link>
+      <description>RT @HarryStebbings: You have to admit, it would be the most amazing show to hear @ylecun and @elonmusk in discussion on the future of AI on…</description>
+      <content:encoded>RT @HarryStebbings: You have to admit, it would be the most amazing show to hear @ylecun and @elonmusk in discussion on the future of AI on…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659738228436418560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 01:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Efficacy and underlying mechanisms of acupuncture therapy for PTSD: evidence from animal and clinical studies: As a major public health problem, posttraumatic stress disorder (PTSD) has a substantial impact on individuals and… #neuroscience https://t.co/sC9CuZXbJf</title>
+      <link>https://twitter.com/FrontNeurosci/status/1659742625531064326</link>
+      <description>New Research: Efficacy and underlying mechanisms of acupuncture therapy for PTSD: evidence from animal and clinical studies: As a major public health problem, posttraumatic stress disorder (PTSD) has a substantial impact on individuals and… #neuroscience https://t.co/sC9CuZXbJf</description>
+      <content:encoded>New Research: Efficacy and underlying mechanisms of acupuncture therapy for PTSD: evidence from animal and clinical studies: As a major public health problem, posttraumatic stress disorder (PTSD) has a substantial impact on individuals and… #neuroscience https://t.co/sC9CuZXbJf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1659742625531064326"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 02:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PessimistsArc: Why's no one talking about the last time an emerging technology was rapidly slowed down due to perceived risk? 
+
+- Block…</title>
+      <link>https://twitter.com/ylecun/status/1659745875692859393</link>
+      <description>RT @PessimistsArc: Why's no one talking about the last time an emerging technology was rapidly slowed down due to perceived risk? 
+
+- Block…</description>
+      <content:encoded>RT @PessimistsArc: Why's no one talking about the last time an emerging technology was rapidly slowed down due to perceived risk? 
+
+- Block…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659745875692859393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 02:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/2tEm1Nr9SH</title>
+      <link>https://twitter.com/AToliasLab/status/1659746585083883520</link>
+      <description>https://t.co/2tEm1Nr9SH</description>
+      <content:encoded>https://t.co/2tEm1Nr9SH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659746585083883520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 02:23:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
