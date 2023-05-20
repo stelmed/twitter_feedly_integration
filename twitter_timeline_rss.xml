@@ -6,55 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 May 2023 22:14:02 +0000</lastBuildDate>
-    <item>
-      <title>RT @FreyaChay: I’m from Alaska and understand the need to diversify our revenue streams! Taking advantage of lax carbon market rules should…</title>
-      <link>https://twitter.com/thefreemanlab/status/1659632432138657792</link>
-      <description>RT @FreyaChay: I’m from Alaska and understand the need to diversify our revenue streams! Taking advantage of lax carbon market rules should…</description>
-      <content:encoded>RT @FreyaChay: I’m from Alaska and understand the need to diversify our revenue streams! Taking advantage of lax carbon market rules should…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/thefreemanlab/status/1659632432138657792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 18:49:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JKSteinberger: As floods &amp;amp; fires rise, oceans boil &amp;amp; ice melts, and "safe" temperatures are breached, something momentous just happened…</title>
-      <link>https://twitter.com/manlius84/status/1659633731307466754</link>
-      <description>RT @JKSteinberger: As floods &amp;amp; fires rise, oceans boil &amp;amp; ice melts, and "safe" temperatures are breached, something momentous just happened…</description>
-      <content:encoded>RT @JKSteinberger: As floods &amp;amp; fires rise, oceans boil &amp;amp; ice melts, and "safe" temperatures are breached, something momentous just happened…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1659633731307466754"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 18:54:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @StavrosZanos: Just uploaded a mixtape I recorded more than 15 years ago, enjoy!
-
-FreakBeat Shop: Swinging Sixties European Groove Obses…</title>
-      <link>https://twitter.com/theozanos/status/1659633802514137088</link>
-      <description>RT @StavrosZanos: Just uploaded a mixtape I recorded more than 15 years ago, enjoy!
-
-FreakBeat Shop: Swinging Sixties European Groove Obses…</description>
-      <content:encoded>RT @StavrosZanos: Just uploaded a mixtape I recorded more than 15 years ago, enjoy!
-
-FreakBeat Shop: Swinging Sixties European Groove Obses…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/theozanos/status/1659633802514137088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 18:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wtf? https://t.co/MAkvu1mOrQ</title>
-      <link>https://twitter.com/ranczlab/status/1659634230547062802</link>
-      <description>Wtf? https://t.co/MAkvu1mOrQ</description>
-      <content:encoded>Wtf? https://t.co/MAkvu1mOrQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1659634230547062802"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 18:56:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Fishguy_FHL: We have a new artist residency @MarineBiol_FHL. We will pay travel, room and board, and fees for an artist to visit and li…</title>
-      <link>https://twitter.com/furthlab/status/1659634378891206673</link>
-      <description>RT @Fishguy_FHL: We have a new artist residency @MarineBiol_FHL. We will pay travel, room and board, and fees for an artist to visit and li…</description>
-      <content:encoded>RT @Fishguy_FHL: We have a new artist residency @MarineBiol_FHL. We will pay travel, room and board, and fees for an artist to visit and li…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1659634378891206673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 18:57:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @seth_shipman: Phage biologists take note of this faculty search at the Gladstone Institute of Virology and UCSF! Join an incredible of…</title>
-      <link>https://twitter.com/furthlab/status/1659636108529901582</link>
-      <description>RT @seth_shipman: Phage biologists take note of this faculty search at the Gladstone Institute of Virology and UCSF! Join an incredible of…</description>
-      <content:encoded>RT @seth_shipman: Phage biologists take note of this faculty search at the Gladstone Institute of Virology and UCSF! Join an incredible of…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1659636108529901582"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 19:04:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 May 2023 23:15:00 +0000</lastBuildDate>
     <item>
       <title>New pooled library from @OlzmannLab ! This lentiviral CRISPR library targets 1,196 genes related to lipid droplet biology and cell metabolism.
 
@@ -2301,6 +2253,60 @@ Cc: @ylecun @Scobleizer @erikbryn @amcafee https://t.co/u3pa9XVihJ</description>
 Cc: @ylecun @Scobleizer @erikbryn @amcafee https://t.co/u3pa9XVihJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1660044560360194050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fwmi_iLWwAA3Q9k.jpg" length="976" type="photo"/>
       <pubDate>Sat, 20 May 2023 22:07:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Since we are talking about insults,
+This is one of the two rarest, most original, witty, and intelligent ones involving mutations of my name.
+I'll let you guess what the other one is. https://t.co/0ACOvNhDvm</title>
+      <link>https://twitter.com/ylecun/status/1660047549808488449</link>
+      <description>Since we are talking about insults,
+This is one of the two rarest, most original, witty, and intelligent ones involving mutations of my name.
+I'll let you guess what the other one is. https://t.co/0ACOvNhDvm</description>
+      <content:encoded>Since we are talking about insults,
+This is one of the two rarest, most original, witty, and intelligent ones involving mutations of my name.
+I'll let you guess what the other one is. https://t.co/0ACOvNhDvm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1660047549808488449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 22:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @twentyminutevc: Are there any countries that rival the US in terms of scientific research?
+
+VP &amp;amp; Chief AI Scientist at @Meta, @ylecun:…</title>
+      <link>https://twitter.com/ylecun/status/1660048615199453184</link>
+      <description>RT @twentyminutevc: Are there any countries that rival the US in terms of scientific research?
+
+VP &amp;amp; Chief AI Scientist at @Meta, @ylecun:…</description>
+      <content:encoded>RT @twentyminutevc: Are there any countries that rival the US in terms of scientific research?
+
+VP &amp;amp; Chief AI Scientist at @Meta, @ylecun:…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1660048615199453184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 22:23:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>How does water split during photosynthesis? The latest insights are discussed in this fascinating N&amp;amp;V https://t.co/0Nn0MRGVQE</title>
+      <link>https://twitter.com/NatureNV/status/1660050726591123458</link>
+      <description>How does water split during photosynthesis? The latest insights are discussed in this fascinating N&amp;amp;V https://t.co/0Nn0MRGVQE</description>
+      <content:encoded>How does water split during photosynthesis? The latest insights are discussed in this fascinating N&amp;amp;V https://t.co/0Nn0MRGVQE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1660050726591123458"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 22:31:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PrincipalSomOx: Oxford vice-chancellor: ‘Students must hear views they find distasteful’. Terrific interview with Irene Tracey ⁦@UniofO…</title>
+      <link>https://twitter.com/TheBrunoCortex/status/1660052647234228224</link>
+      <description>RT @PrincipalSomOx: Oxford vice-chancellor: ‘Students must hear views they find distasteful’. Terrific interview with Irene Tracey ⁦@UniofO…</description>
+      <content:encoded>RT @PrincipalSomOx: Oxford vice-chancellor: ‘Students must hear views they find distasteful’. Terrific interview with Irene Tracey ⁦@UniofO…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1660052647234228224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 22:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Estimates of total neuron number show that neonatal ethanol causes immediate and lasting neuron loss in cortical and subcortical areas: In neonatal brain development there is a period of normal apoptotic cell death that… #Neuroscience https://t.co/EHbBol4oxX</title>
+      <link>https://twitter.com/FrontNeurosci/status/1660053172793266177</link>
+      <description>New Research: Estimates of total neuron number show that neonatal ethanol causes immediate and lasting neuron loss in cortical and subcortical areas: In neonatal brain development there is a period of normal apoptotic cell death that… #Neuroscience https://t.co/EHbBol4oxX</description>
+      <content:encoded>New Research: Estimates of total neuron number show that neonatal ethanol causes immediate and lasting neuron loss in cortical and subcortical areas: In neonatal brain development there is a period of normal apoptotic cell death that… #Neuroscience https://t.co/EHbBol4oxX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1660053172793266177"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 22:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JustaNormalDino: Ok, so, how do you reply to the fact that as social scientists we claim that our object of study is much more complex…</title>
+      <link>https://twitter.com/KordingLab/status/1660058082431336448</link>
+      <description>RT @JustaNormalDino: Ok, so, how do you reply to the fact that as social scientists we claim that our object of study is much more complex…</description>
+      <content:encoded>RT @JustaNormalDino: Ok, so, how do you reply to the fact that as social scientists we claim that our object of study is much more complex…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1660058082431336448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 23:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
