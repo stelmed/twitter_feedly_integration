@@ -6,46 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 May 2023 21:12:50 +0000</lastBuildDate>
-    <item>
-      <title>New cool kid on the block: our bright and photostable yellow fluorescent protein mGold has earned an orange flame on @Addgene, indicating its popularity! https://t.co/7I2RREPSyp https://t.co/KpdwreEQg1</title>
-      <link>https://twitter.com/StPierreLab/status/1659628032917684233</link>
-      <description>New cool kid on the block: our bright and photostable yellow fluorescent protein mGold has earned an orange flame on @Addgene, indicating its popularity! https://t.co/7I2RREPSyp https://t.co/KpdwreEQg1</description>
-      <content:encoded>New cool kid on the block: our bright and photostable yellow fluorescent protein mGold has earned an orange flame on @Addgene, indicating its popularity! https://t.co/7I2RREPSyp https://t.co/KpdwreEQg1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/StPierreLab/status/1659628032917684233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwguu5rWwBAxLJP.jpg" length="922" type="photo"/>
-      <pubDate>Fri, 19 May 2023 18:32:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>📢 Attention privacy and security researchers📢 Check out the following corpus, which contains nearly 8 million PDFs. This resource is now available as part of our SafeDocs program. More at: https://t.co/qpBdJ0llwh https://t.co/P8HC19Fpf7</title>
-      <link>https://twitter.com/DARPA/status/1659629046651600908</link>
-      <description>📢 Attention privacy and security researchers📢 Check out the following corpus, which contains nearly 8 million PDFs. This resource is now available as part of our SafeDocs program. More at: https://t.co/qpBdJ0llwh https://t.co/P8HC19Fpf7</description>
-      <content:encoded>📢 Attention privacy and security researchers📢 Check out the following corpus, which contains nearly 8 million PDFs. This resource is now available as part of our SafeDocs program. More at: https://t.co/qpBdJ0llwh https://t.co/P8HC19Fpf7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1659629046651600908"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 18:36:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>A study in @SciReports investigates the sources of drinking water, sanitation and hygiene practices, and the incidence of diarrhoeal diseases among children during the war in Tigray, Ethiopia. https://t.co/FbzdkkNf1r https://t.co/ee9X1H4F6e</title>
-      <link>https://twitter.com/NaturePortfolio/status/1659630269719035907</link>
-      <description>A study in @SciReports investigates the sources of drinking water, sanitation and hygiene practices, and the incidence of diarrhoeal diseases among children during the war in Tigray, Ethiopia. https://t.co/FbzdkkNf1r https://t.co/ee9X1H4F6e</description>
-      <content:encoded>A study in @SciReports investigates the sources of drinking water, sanitation and hygiene practices, and the incidence of diarrhoeal diseases among children during the war in Tigray, Ethiopia. https://t.co/FbzdkkNf1r https://t.co/ee9X1H4F6e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1659630269719035907"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwgw6xCWwBEVkwq.jpg" length="1066" type="photo"/>
-      <pubDate>Fri, 19 May 2023 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>A mesmerizing documentary about how the brain shapes our reality, including interviews with @mcgovernmit profs @Nancy_Kanwisher @rebecca_saxe @MIT_Picower prof Emery Brown and former McGovern postdoc @RozFranklin51
-@ScienceMIT @mitbrainandcog 
-
-https://t.co/FkgcHh4BVf</title>
-      <link>https://twitter.com/mcgovernmit/status/1659631055291453440</link>
-      <description>A mesmerizing documentary about how the brain shapes our reality, including interviews with @mcgovernmit profs @Nancy_Kanwisher @rebecca_saxe @MIT_Picower prof Emery Brown and former McGovern postdoc @RozFranklin51
-@ScienceMIT @mitbrainandcog 
-
-https://t.co/FkgcHh4BVf</description>
-      <content:encoded>A mesmerizing documentary about how the brain shapes our reality, including interviews with @mcgovernmit profs @Nancy_Kanwisher @rebecca_saxe @MIT_Picower prof Emery Brown and former McGovern postdoc @RozFranklin51
-@ScienceMIT @mitbrainandcog 
-
-https://t.co/FkgcHh4BVf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/mcgovernmit/status/1659631055291453440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 18:44:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 May 2023 22:14:02 +0000</lastBuildDate>
     <item>
       <title>RT @FreyaChay: I’m from Alaska and understand the need to diversify our revenue streams! Taking advantage of lax carbon market rules should…</title>
       <link>https://twitter.com/thefreemanlab/status/1659632432138657792</link>
@@ -2292,6 +2253,54 @@ From: https://t.co/50mhtre60o https://t.co/RZvr2PpPH1&lt;blockquote class="twitt
       <content:encoded>https://t.co/QEAmqmnF93&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1660025122156158978"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwmYCw8X0AMkpe3.jpg" length="800" type="photo"/>
       <pubDate>Sat, 20 May 2023 20:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @scienceisstrat1: India 🇮🇳 will soon produce more CO2 emissions than the EU 🇪🇺 https://t.co/xIPqz1EBVq</title>
+      <link>https://twitter.com/ylecun/status/1660034655460925445</link>
+      <description>RT @scienceisstrat1: India 🇮🇳 will soon produce more CO2 emissions than the EU 🇪🇺 https://t.co/xIPqz1EBVq</description>
+      <content:encoded>RT @scienceisstrat1: India 🇮🇳 will soon produce more CO2 emissions than the EU 🇪🇺 https://t.co/xIPqz1EBVq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1660034655460925445"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwmXSSAXsAEv8rf.jpg" length="1170" type="photo"/>
+      <pubDate>Sat, 20 May 2023 21:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crazy! A pair of bees cooperating to open a bottle of Fanta
+
+I wonder if this is somehow related to some "natural" behavior or if this is a one-off that this Bonnie &amp;amp; Clyde pair learned? 
+
+(no pun intended) https://t.co/rVK2iWtpHK</title>
+      <link>https://twitter.com/TonyZador/status/1660043205247737856</link>
+      <description>Crazy! A pair of bees cooperating to open a bottle of Fanta
+
+I wonder if this is somehow related to some "natural" behavior or if this is a one-off that this Bonnie &amp;amp; Clyde pair learned? 
+
+(no pun intended) https://t.co/rVK2iWtpHK</description>
+      <content:encoded>Crazy! A pair of bees cooperating to open a bottle of Fanta
+
+I wonder if this is somehow related to some "natural" behavior or if this is a one-off that this Bonnie &amp;amp; Clyde pair learned? 
+
+(no pun intended) https://t.co/rVK2iWtpHK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1660043205247737856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 22:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>@TonyZador stunning</title>
+      <link>https://twitter.com/PessoaBrain/status/1660044276099698689</link>
+      <description>@TonyZador stunning</description>
+      <content:encoded>@TonyZador stunning&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1660044276099698689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 22:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @scienceisstrat1: Research interest in AI 🤖 has soared
+
+Cc: @ylecun @Scobleizer @erikbryn @amcafee https://t.co/u3pa9XVihJ</title>
+      <link>https://twitter.com/ylecun/status/1660044560360194050</link>
+      <description>RT @scienceisstrat1: Research interest in AI 🤖 has soared
+
+Cc: @ylecun @Scobleizer @erikbryn @amcafee https://t.co/u3pa9XVihJ</description>
+      <content:encoded>RT @scienceisstrat1: Research interest in AI 🤖 has soared
+
+Cc: @ylecun @Scobleizer @erikbryn @amcafee https://t.co/u3pa9XVihJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1660044560360194050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwmi_iLWwAA3Q9k.jpg" length="976" type="photo"/>
+      <pubDate>Sat, 20 May 2023 22:07:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
