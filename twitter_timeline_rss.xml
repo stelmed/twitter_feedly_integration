@@ -6,85 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 May 2023 19:11:52 +0000</lastBuildDate>
-    <item>
-      <title>We used the Open Ephys Acquisition Board and GUI to show:
-⚡️How different data sources from a headstage are acquired
-⚡️ Analog and digital input signals from external hardware
-⚡️ Possible setups for closed-loop experiments https://t.co/zKHqVEPwnM</title>
-      <link>https://twitter.com/OpenEphys/status/1659614098999394307</link>
-      <description>We used the Open Ephys Acquisition Board and GUI to show:
-⚡️How different data sources from a headstage are acquired
-⚡️ Analog and digital input signals from external hardware
-⚡️ Possible setups for closed-loop experiments https://t.co/zKHqVEPwnM</description>
-      <content:encoded>We used the Open Ephys Acquisition Board and GUI to show:
-⚡️How different data sources from a headstage are acquired
-⚡️ Analog and digital input signals from external hardware
-⚡️ Possible setups for closed-loop experiments https://t.co/zKHqVEPwnM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenEphys/status/1659614098999394307"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fwf3LDtXoAAn3T5.jpg" length="426" type="photo"/>
-      <pubDate>Fri, 19 May 2023 17:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>We looked at how @bonsai_rx can be used for acquisition and detection of behavioral events including real-time pose estimation and how it can interface with external hardware. https://t.co/EAZ29toLaV</title>
-      <link>https://twitter.com/OpenEphys/status/1659614101516038144</link>
-      <description>We looked at how @bonsai_rx can be used for acquisition and detection of behavioral events including real-time pose estimation and how it can interface with external hardware. https://t.co/EAZ29toLaV</description>
-      <content:encoded>We looked at how @bonsai_rx can be used for acquisition and detection of behavioral events including real-time pose estimation and how it can interface with external hardware. https://t.co/EAZ29toLaV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenEphys/status/1659614101516038144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwf7NRFXoAA23b_.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 17:36:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Of couse, students tried this out in interactive stations:
-🧠Online neural signal processing in the GUI to detect events in the neural signal
-🪲Tracking animal position in Bonsai and closing the loop with Arduino
-👯Real-time pose estimation in Bonsai to map body movement to sound https://t.co/RylgT2aLWb</title>
-      <link>https://twitter.com/OpenEphys/status/1659614104602984477</link>
-      <description>Of couse, students tried this out in interactive stations:
-🧠Online neural signal processing in the GUI to detect events in the neural signal
-🪲Tracking animal position in Bonsai and closing the loop with Arduino
-👯Real-time pose estimation in Bonsai to map body movement to sound https://t.co/RylgT2aLWb</description>
-      <content:encoded>Of couse, students tried this out in interactive stations:
-🧠Online neural signal processing in the GUI to detect events in the neural signal
-🪲Tracking animal position in Bonsai and closing the loop with Arduino
-👯Real-time pose estimation in Bonsai to map body movement to sound https://t.co/RylgT2aLWb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenEphys/status/1659614104602984477"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwf6GaUWAAAc8Rg.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 17:36:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>The feedback we got was that it was fun to have interactive stations but too short! 
-Many thanks to the organizers, especially Yannick and Katja that made this possible remotely.
-Happy to come back and meet everyone in person :) https://t.co/oI6yWCLUMB</title>
-      <link>https://twitter.com/OpenEphys/status/1659614107882991617</link>
-      <description>The feedback we got was that it was fun to have interactive stations but too short! 
-Many thanks to the organizers, especially Yannick and Katja that made this possible remotely.
-Happy to come back and meet everyone in person :) https://t.co/oI6yWCLUMB</description>
-      <content:encoded>The feedback we got was that it was fun to have interactive stations but too short! 
-Many thanks to the organizers, especially Yannick and Katja that made this possible remotely.
-Happy to come back and meet everyone in person :) https://t.co/oI6yWCLUMB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenEphys/status/1659614107882991617"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwf_Ai7WYAEtHVI.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 17:36:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learn more about our Training modules for our Acquisition Board and the UCLA Miniscope
-https://t.co/EWP8WtJqfZ
-
-As well as our Extracellular Electrophysiology Acquisition @Cajal_Training Neurokit Course
-
-And get in touch with us at training at https://t.co/aCEpGirEWP</title>
-      <link>https://twitter.com/OpenEphys/status/1659614111297093655</link>
-      <description>Learn more about our Training modules for our Acquisition Board and the UCLA Miniscope
-https://t.co/EWP8WtJqfZ
-
-As well as our Extracellular Electrophysiology Acquisition @Cajal_Training Neurokit Course
-
-And get in touch with us at training at https://t.co/aCEpGirEWP</description>
-      <content:encoded>Learn more about our Training modules for our Acquisition Board and the UCLA Miniscope
-https://t.co/EWP8WtJqfZ
-
-As well as our Extracellular Electrophysiology Acquisition @Cajal_Training Neurokit Course
-
-And get in touch with us at training at https://t.co/aCEpGirEWP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenEphys/status/1659614111297093655"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 17:36:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 May 2023 20:15:40 +0000</lastBuildDate>
     <item>
       <title>A Review in @natrevbioeng discusses the emerging trends and pertinent considerations for the development of a new generation of body-based biomolecular sensors for in vivo measurement. 🔒 https://t.co/IDZWbcSnap https://t.co/FdlHzHQiu8</title>
       <link>https://twitter.com/NaturePortfolio/status/1659614163516178446</link>
@@ -2366,6 +2288,35 @@ Cerebral malaria is one of the most severe manifestations of malaria and is a le
 
 Cerebral malaria is one of the most severe manifestations of malaria and is a leading cause of… #Neuroscience https://t.co/1HRtqWwFdP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1659998569640910848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 20 May 2023 19:04:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @vikasnavaratna: Giving everything you have to work is a privilege that not everyone can (or) should afford. There are other things &amp;amp; pe…</title>
+      <link>https://twitter.com/YasirSalas/status/1660002219217829891</link>
+      <description>RT @vikasnavaratna: Giving everything you have to work is a privilege that not everyone can (or) should afford. There are other things &amp;amp; pe…</description>
+      <content:encoded>RT @vikasnavaratna: Giving everything you have to work is a privilege that not everyone can (or) should afford. There are other things &amp;amp; pe…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/YasirSalas/status/1660002219217829891"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 19:19:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Honey bee nestmates may partly depend on their gut microbes to recognize one another, a 2020 study suggests, revealing how symbiotic bacteria can shape unique, colony-specific chemical cues on the pollinators’ bodies. https://t.co/mwVkOqkRyE @ScienceAdvances #WorldBeeDay https://t.co/sU59Tj2Qin</title>
+      <link>https://twitter.com/ScienceMagazine/status/1660004995687759874</link>
+      <description>Honey bee nestmates may partly depend on their gut microbes to recognize one another, a 2020 study suggests, revealing how symbiotic bacteria can shape unique, colony-specific chemical cues on the pollinators’ bodies. https://t.co/mwVkOqkRyE @ScienceAdvances #WorldBeeDay https://t.co/sU59Tj2Qin</description>
+      <content:encoded>Honey bee nestmates may partly depend on their gut microbes to recognize one another, a 2020 study suggests, revealing how symbiotic bacteria can shape unique, colony-specific chemical cues on the pollinators’ bodies. https://t.co/mwVkOqkRyE @ScienceAdvances #WorldBeeDay https://t.co/sU59Tj2Qin&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1660004995687759874"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwmFvu4WAAAcz7c.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 20 May 2023 19:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>💫 https://t.co/aBza3jHBAK</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660011434225569792</link>
+      <description>💫 https://t.co/aBza3jHBAK</description>
+      <content:encoded>💫 https://t.co/aBza3jHBAK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660011434225569792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 19:55:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JPMajor: This is pretty cool: it's a video showing ribbons of aurora waving in Saturn's atmosphere, comprising 138 32-second exposure i…</title>
+      <link>https://twitter.com/MichaelGalanin/status/1660012648837132290</link>
+      <description>RT @JPMajor: This is pretty cool: it's a video showing ribbons of aurora waving in Saturn's atmosphere, comprising 138 32-second exposure i…</description>
+      <content:encoded>RT @JPMajor: This is pretty cool: it's a video showing ribbons of aurora waving in Saturn's atmosphere, comprising 138 32-second exposure i…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1660012648837132290"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 20:00:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
