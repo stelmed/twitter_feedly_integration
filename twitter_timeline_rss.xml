@@ -6,88 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 May 2023 09:14:04 +0000</lastBuildDate>
-    <item>
-      <title>RT @ShahabBakht: Cool results
-
-“larger models tend to have lower intrinsic dimension after a fixed number of pre-training updates, at least…</title>
-      <link>https://twitter.com/tyrell_turing/status/1659553543345274880</link>
-      <description>RT @ShahabBakht: Cool results
-
-“larger models tend to have lower intrinsic dimension after a fixed number of pre-training updates, at least…</description>
-      <content:encoded>RT @ShahabBakht: Cool results
-
-“larger models tend to have lower intrinsic dimension after a fixed number of pre-training updates, at least…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1659553543345274880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 13:36:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Join us on Tuesday, May 30 for an interactive LLM workshop!
-
-Learn how to take an off-the-shelf LLM that has been fine-tuned on a set of instructions and use it to create powerful AI applications using custom input-output fine-tuning approaches.
-
-RSVP: https://t.co/FXbYXMyYfy https://t.co/L1R6rREZPo</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1659554979999367169</link>
-      <description>Join us on Tuesday, May 30 for an interactive LLM workshop!
-
-Learn how to take an off-the-shelf LLM that has been fine-tuned on a set of instructions and use it to create powerful AI applications using custom input-output fine-tuning approaches.
-
-RSVP: https://t.co/FXbYXMyYfy https://t.co/L1R6rREZPo</description>
-      <content:encoded>Join us on Tuesday, May 30 for an interactive LLM workshop!
-
-Learn how to take an off-the-shelf LLM that has been fine-tuned on a set of instructions and use it to create powerful AI applications using custom input-output fine-tuning approaches.
-
-RSVP: https://t.co/FXbYXMyYfy https://t.co/L1R6rREZPo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1659554979999367169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwfsdODWAAA1AwD.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 13:41:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Special thanks to @fourthbrainai for partnering with us for this event!</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1659555068079636482</link>
-      <description>Special thanks to @fourthbrainai for partnering with us for this event!</description>
-      <content:encoded>Special thanks to @fourthbrainai for partnering with us for this event!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1659555068079636482"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 13:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>A study of census data provides insights into intergenerational educational mobility across Africa, and finds links to religion  https://t.co/oDH1wlpu8Y</title>
-      <link>https://twitter.com/NatureNV/status/1659556605380243457</link>
-      <description>A study of census data provides insights into intergenerational educational mobility across Africa, and finds links to religion  https://t.co/oDH1wlpu8Y</description>
-      <content:encoded>A study of census data provides insights into intergenerational educational mobility across Africa, and finds links to religion  https://t.co/oDH1wlpu8Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1659556605380243457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 13:48:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗯𝗿𝗮𝗶𝗻, here we go, oh with temporal dynamics!
-Distributed “firing then oscillations” dynamics set the goal, initiation, and pace of actions.
-(via @marwenBelkaid)
-
-https://t.co/3QHMhGU7Nz</title>
-      <link>https://twitter.com/PessoaBrain/status/1659557793920057347</link>
-      <description>𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗯𝗿𝗮𝗶𝗻, here we go, oh with temporal dynamics!
-Distributed “firing then oscillations” dynamics set the goal, initiation, and pace of actions.
-(via @marwenBelkaid)
-
-https://t.co/3QHMhGU7Nz</description>
-      <content:encoded>𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗯𝗿𝗮𝗶𝗻, here we go, oh with temporal dynamics!
-Distributed “firing then oscillations” dynamics set the goal, initiation, and pace of actions.
-(via @marwenBelkaid)
-
-https://t.co/3QHMhGU7Nz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1659557793920057347"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 13:53:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>This GeoGebra app by Patrick Davis does a good job of plotting phase portraits and it is easy to use. It lets you show nullclines, direction fields, etc. if you want them. (I used to like using PPlane, but it no longer passes my browser's security tests.) https://t.co/RiTEGaORll https://t.co/Z2xnlYMsxn</title>
-      <link>https://twitter.com/stevenstrogatz/status/1659558580461207553</link>
-      <description>This GeoGebra app by Patrick Davis does a good job of plotting phase portraits and it is easy to use. It lets you show nullclines, direction fields, etc. if you want them. (I used to like using PPlane, but it no longer passes my browser's security tests.) https://t.co/RiTEGaORll https://t.co/Z2xnlYMsxn</description>
-      <content:encoded>This GeoGebra app by Patrick Davis does a good job of plotting phase portraits and it is easy to use. It lets you show nullclines, direction fields, etc. if you want them. (I used to like using PPlane, but it no longer passes my browser's security tests.) https://t.co/RiTEGaORll https://t.co/Z2xnlYMsxn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1659558580461207553"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwfvrKEWwAYk7UF.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 13:56:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @QuantaMagazine: Are there empirical reasons to think the multiverse is real? Find out on the newest episode of The Joy of Why, a Quanta…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1659558868433743877</link>
-      <description>RT @QuantaMagazine: Are there empirical reasons to think the multiverse is real? Find out on the newest episode of The Joy of Why, a Quanta…</description>
-      <content:encoded>RT @QuantaMagazine: Are there empirical reasons to think the multiverse is real? Find out on the newest episode of The Joy of Why, a Quanta…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1659558868433743877"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 13:57:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 May 2023 10:15:34 +0000</lastBuildDate>
     <item>
       <title>RT @mathillustrated: The best way to handle the “Why are we learning this?” question for early-grade #math, in my opinion, is to teach the…</title>
       <link>https://twitter.com/stevenstrogatz/status/1659559294512119809</link>
@@ -2120,14 +2039,6 @@ https://t.co/Erj4w2Fy29 https://t.co/T6I301Szhg&lt;blockquote class="twitter-twe
       <pubDate>Sat, 20 May 2023 07:57:42 +0000</pubDate>
     </item>
     <item>
-      <title>RT @crying_EM: 🙃 https://t.co/lLwuBg9X9b</title>
-      <link>https://twitter.com/brunopichler/status/1659831210485399552</link>
-      <description>RT @crying_EM: 🙃 https://t.co/lLwuBg9X9b</description>
-      <content:encoded>RT @crying_EM: 🙃 https://t.co/lLwuBg9X9b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brunopichler/status/1659831210485399552"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwf16UsXgAEBS2O.jpg" length="900" type="photo"/>
-      <pubDate>Sat, 20 May 2023 07:59:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Still very true today! https://t.co/nA30LQk2XA</title>
       <link>https://twitter.com/brunopichler/status/1659831285857091584</link>
       <description>Still very true today! https://t.co/nA30LQk2XA</description>
@@ -2263,6 +2174,108 @@ https://t.co/Vcx8n5qhfV</description>
 https://t.co/Vcx8n5qhfV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659849931861942274"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1484233994526990336/pu/img/G0uaaDJuX8Lz0cEY.jpg" length="404" type="photo"/>
       <pubDate>Sat, 20 May 2023 09:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>The industrial process for making chlorine uses a vast amount of energy. An organic catalyst could form the basis of a more energy-efficient process, replacing expensive inorganic catalysts. https://t.co/tWZkpGePkk</title>
+      <link>https://twitter.com/NatureNV/status/1659850457257213956</link>
+      <description>The industrial process for making chlorine uses a vast amount of energy. An organic catalyst could form the basis of a more energy-efficient process, replacing expensive inorganic catalysts. https://t.co/tWZkpGePkk</description>
+      <content:encoded>The industrial process for making chlorine uses a vast amount of energy. An organic catalyst could form the basis of a more energy-efficient process, replacing expensive inorganic catalysts. https://t.co/tWZkpGePkk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1659850457257213956"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 09:16:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>I've been saying this for years... https://t.co/4Ca6xBAmjr https://t.co/5mqKllijhL</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1659852755173875712</link>
+      <description>I've been saying this for years... https://t.co/4Ca6xBAmjr https://t.co/5mqKllijhL</description>
+      <content:encoded>I've been saying this for years... https://t.co/4Ca6xBAmjr https://t.co/5mqKllijhL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1659852755173875712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 09:25:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>One possible critique of the new ketamine-during-surgery study though: all the depressed patients were having elective surgery. https://t.co/1vu2DTmwH9 How depressed were they, then? When I was depressed, a big step like elective surgery would be last thing on my mind.</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1659853445736660992</link>
+      <description>One possible critique of the new ketamine-during-surgery study though: all the depressed patients were having elective surgery. https://t.co/1vu2DTmwH9 How depressed were they, then? When I was depressed, a big step like elective surgery would be last thing on my mind.</description>
+      <content:encoded>One possible critique of the new ketamine-during-surgery study though: all the depressed patients were having elective surgery. https://t.co/1vu2DTmwH9 How depressed were they, then? When I was depressed, a big step like elective surgery would be last thing on my mind.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1659853445736660992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 09:27:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>When seals' nose muscles are relaxed, the nostrils are naturally closed and airtight: this prevents water to access their lungs when underwater
+
+[read more: https://t.co/cgGsxfsYgS]
+[thony_hidalgop: https://t.co/NX3HocvmUE]
+https://t.co/jpckFPCBYe</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659856309490003969</link>
+      <description>When seals' nose muscles are relaxed, the nostrils are naturally closed and airtight: this prevents water to access their lungs when underwater
+
+[read more: https://t.co/cgGsxfsYgS]
+[thony_hidalgop: https://t.co/NX3HocvmUE]
+https://t.co/jpckFPCBYe</description>
+      <content:encoded>When seals' nose muscles are relaxed, the nostrils are naturally closed and airtight: this prevents water to access their lungs when underwater
+
+[read more: https://t.co/cgGsxfsYgS]
+[thony_hidalgop: https://t.co/NX3HocvmUE]
+https://t.co/jpckFPCBYe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659856309490003969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1494935656723845124/pu/img/nobGuvA4d-7R6Ri_.jpg" length="576" type="photo"/>
+      <pubDate>Sat, 20 May 2023 09:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>#115: Integrating bulk and single cell RNA-seq refines transcriptomic profiles of specific C. elegans neurons @barrett_alec @erdem___varol
+
+Bridging scRNA and bulk data for added depth, an issue I had previously had for surface membrane protein RNA!
+
+https://t.co/0C7Z3dE3ie https://t.co/hEx1mzOFWT</title>
+      <link>https://twitter.com/bdanubius/status/1659856440733974529</link>
+      <description>#115: Integrating bulk and single cell RNA-seq refines transcriptomic profiles of specific C. elegans neurons @barrett_alec @erdem___varol
+
+Bridging scRNA and bulk data for added depth, an issue I had previously had for surface membrane protein RNA!
+
+https://t.co/0C7Z3dE3ie https://t.co/hEx1mzOFWT</description>
+      <content:encoded>#115: Integrating bulk and single cell RNA-seq refines transcriptomic profiles of specific C. elegans neurons @barrett_alec @erdem___varol
+
+Bridging scRNA and bulk data for added depth, an issue I had previously had for surface membrane protein RNA!
+
+https://t.co/0C7Z3dE3ie https://t.co/hEx1mzOFWT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1659856440733974529"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwj9Pu6WAAIfuvz.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 20 May 2023 09:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mleptin: @GabrielMariya @ERC_Research And we @ERC_Research look forward to working with Commission VP @Vestager as she takes over the r…</title>
+      <link>https://twitter.com/ERC_Research/status/1659860042936377344</link>
+      <description>RT @mleptin: @GabrielMariya @ERC_Research And we @ERC_Research look forward to working with Commission VP @Vestager as she takes over the r…</description>
+      <content:encoded>RT @mleptin: @GabrielMariya @ERC_Research And we @ERC_Research look forward to working with Commission VP @Vestager as she takes over the r…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1659860042936377344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 09:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tapping the floating spherical magnet turns this LED lamp off and on. Within the base is a control system with adjustable electromagnet coils which allow for fine tuning of a magnetic field to precisely balance the pull of gravity: https://t.co/jrcFR0GdoY
+https://t.co/OzpgRlxVTF</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659861247305588736</link>
+      <description>Tapping the floating spherical magnet turns this LED lamp off and on. Within the base is a control system with adjustable electromagnet coils which allow for fine tuning of a magnetic field to precisely balance the pull of gravity: https://t.co/jrcFR0GdoY
+https://t.co/OzpgRlxVTF</description>
+      <content:encoded>Tapping the floating spherical magnet turns this LED lamp off and on. Within the base is a control system with adjustable electromagnet coils which allow for fine tuning of a magnetic field to precisely balance the pull of gravity: https://t.co/jrcFR0GdoY
+https://t.co/OzpgRlxVTF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659861247305588736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1538265681657008128/pu/img/LmJEPg8sMKsCX4_I.jpg" length="720" type="photo"/>
+      <pubDate>Sat, 20 May 2023 09:58:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strange marine creatures.
+
+Or not. A herd of manatees splashing and seeming quarrelsome at the surface of the water is a typical common mating behavior among male manatees pursuing a female
+
+[📹 galaxy32568: https://t.co/8oo5kfr0Gs]
+https://t.co/56i11whjhM https://t.co/FfVvQ4K319</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659864367456743424</link>
+      <description>Strange marine creatures.
+
+Or not. A herd of manatees splashing and seeming quarrelsome at the surface of the water is a typical common mating behavior among male manatees pursuing a female
+
+[📹 galaxy32568: https://t.co/8oo5kfr0Gs]
+https://t.co/56i11whjhM https://t.co/FfVvQ4K319</description>
+      <content:encoded>Strange marine creatures.
+
+Or not. A herd of manatees splashing and seeming quarrelsome at the surface of the water is a typical common mating behavior among male manatees pursuing a female
+
+[📹 galaxy32568: https://t.co/8oo5kfr0Gs]
+https://t.co/56i11whjhM https://t.co/FfVvQ4K319&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659864367456743424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1659351714728689666/img/BCVHCrxEHYZgivq4.jpg" length="408" type="photo"/>
+      <pubDate>Sat, 20 May 2023 10:11:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
