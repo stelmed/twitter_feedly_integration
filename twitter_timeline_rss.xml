@@ -6,96 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 May 2023 11:12:35 +0000</lastBuildDate>
-    <item>
-      <title>RT @PGrivasMDPhD: @theozanos gave a fantastic talk @WHBA1990 on neural networks &amp;amp; AI with several applications in biomedical research! @Chr…</title>
-      <link>https://twitter.com/theozanos/status/1659564828376137728</link>
-      <description>RT @PGrivasMDPhD: @theozanos gave a fantastic talk @WHBA1990 on neural networks &amp;amp; AI with several applications in biomedical research! @Chr…</description>
-      <content:encoded>RT @PGrivasMDPhD: @theozanos gave a fantastic talk @WHBA1990 on neural networks &amp;amp; AI with several applications in biomedical research! @Chr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/theozanos/status/1659564828376137728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 14:21:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Laundry detergents usually contain chemicals that are problematic to the environment. A paper in @naturesustainab introduces a polymer nanofilm that renders fabrics and many more materials stain resistant and detergent free. 🔒 https://t.co/8U7nzuj2gV https://t.co/SilvEBwqYK</title>
-      <link>https://twitter.com/NaturePortfolio/status/1659565954529894400</link>
-      <description>Laundry detergents usually contain chemicals that are problematic to the environment. A paper in @naturesustainab introduces a polymer nanofilm that renders fabrics and many more materials stain resistant and detergent free. 🔒 https://t.co/8U7nzuj2gV https://t.co/SilvEBwqYK</description>
-      <content:encoded>Laundry detergents usually contain chemicals that are problematic to the environment. A paper in @naturesustainab introduces a polymer nanofilm that renders fabrics and many more materials stain resistant and detergent free. 🔒 https://t.co/8U7nzuj2gV https://t.co/SilvEBwqYK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1659565954529894400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwf2bBLWcAEaRmh.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 14:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>"It comes without warning: all motion halts and activity stills. Moments later, the world returns between blinks, all memory of the lost time gone..."😮Check out this article on @HBlumenfeld's work unraveling the neuronal basis for absence #epilepsy ⬇️ https://t.co/wgVEx0daNa</title>
-      <link>https://twitter.com/KavliAtYale/status/1659566143927877633</link>
-      <description>"It comes without warning: all motion halts and activity stills. Moments later, the world returns between blinks, all memory of the lost time gone..."😮Check out this article on @HBlumenfeld's work unraveling the neuronal basis for absence #epilepsy ⬇️ https://t.co/wgVEx0daNa</description>
-      <content:encoded>"It comes without warning: all motion halts and activity stills. Moments later, the world returns between blinks, all memory of the lost time gone..."😮Check out this article on @HBlumenfeld's work unraveling the neuronal basis for absence #epilepsy ⬇️ https://t.co/wgVEx0daNa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KavliAtYale/status/1659566143927877633"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 14:26:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎉 #GSoC2023 project: Develop IO routines for HNN-core outputs🎉
-
-Contributor: Carolina Fernandez
-Mentor: @NickTolley4 @drstephjones @mainakjas Ryan Thorpe
-Project: Develop IO routines adapted from HNN-core objects while maintaining backwards compatibility with HNN-GUI. https://t.co/hKcFMcBVOd</title>
-      <link>https://twitter.com/INCForg/status/1659566280771350528</link>
-      <description>🎉 #GSoC2023 project: Develop IO routines for HNN-core outputs🎉
-
-Contributor: Carolina Fernandez
-Mentor: @NickTolley4 @drstephjones @mainakjas Ryan Thorpe
-Project: Develop IO routines adapted from HNN-core objects while maintaining backwards compatibility with HNN-GUI. https://t.co/hKcFMcBVOd</description>
-      <content:encoded>🎉 #GSoC2023 project: Develop IO routines for HNN-core outputs🎉
-
-Contributor: Carolina Fernandez
-Mentor: @NickTolley4 @drstephjones @mainakjas Ryan Thorpe
-Project: Develop IO routines adapted from HNN-core objects while maintaining backwards compatibility with HNN-GUI. https://t.co/hKcFMcBVOd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1659566280771350528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwf2miGWcAIcgV1.png" length="318" type="photo"/>
-      <pubDate>Fri, 19 May 2023 14:26:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Follow this project on Neurostars: https://t.co/MiK4DMMzaY
-
-#HNN #GSoC #neuroscience #neuroinformatics #OpenScience</title>
-      <link>https://twitter.com/INCForg/status/1659566283376021505</link>
-      <description>Follow this project on Neurostars: https://t.co/MiK4DMMzaY
-
-#HNN #GSoC #neuroscience #neuroinformatics #OpenScience</description>
-      <content:encoded>Follow this project on Neurostars: https://t.co/MiK4DMMzaY
-
-#HNN #GSoC #neuroscience #neuroinformatics #OpenScience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1659566283376021505"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 14:26:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinar open discussion on Neurorights on June 6th at REDemocracIA. Free registration : https://t.co/NPk9z37CXS https://t.co/dZROhtvSw2</title>
-      <link>https://twitter.com/yusterafa/status/1659566820691460098</link>
-      <description>Webinar open discussion on Neurorights on June 6th at REDemocracIA. Free registration : https://t.co/NPk9z37CXS https://t.co/dZROhtvSw2</description>
-      <content:encoded>Webinar open discussion on Neurorights on June 6th at REDemocracIA. Free registration : https://t.co/NPk9z37CXS https://t.co/dZROhtvSw2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/yusterafa/status/1659566820691460098"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwf2gdxWcAEfd1L.jpg" length="849" type="photo"/>
-      <pubDate>Fri, 19 May 2023 14:28:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>its Friday, it's sunny its the Friday of a long weekend (in Canada) so kick back and read some sensorimotor neuroscience. https://t.co/jsENoYc9i3</title>
-      <link>https://twitter.com/andpru/status/1659568074255728640</link>
-      <description>its Friday, it's sunny its the Friday of a long weekend (in Canada) so kick back and read some sensorimotor neuroscience. https://t.co/jsENoYc9i3</description>
-      <content:encoded>its Friday, it's sunny its the Friday of a long weekend (in Canada) so kick back and read some sensorimotor neuroscience. https://t.co/jsENoYc9i3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1659568074255728640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 14:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @academath: #FridayFun Mean, Meaner, and the Meanest Mean Value Theorem
-
-by J. J. Koliha in Amer. Math. Monthly @maanow
-
-cc @adhara_math…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1659568090198290432</link>
-      <description>RT @academath: #FridayFun Mean, Meaner, and the Meanest Mean Value Theorem
-
-by J. J. Koliha in Amer. Math. Monthly @maanow
-
-cc @adhara_math…</description>
-      <content:encoded>RT @academath: #FridayFun Mean, Meaner, and the Meanest Mean Value Theorem
-
-by J. J. Koliha in Amer. Math. Monthly @maanow
-
-cc @adhara_math…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1659568090198290432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 14:34:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 May 2023 12:29:06 +0000</lastBuildDate>
     <item>
       <title>RT @NeuroAlc: 📢 Do you want to showcase your research at @NeuroAlc⁉️ Don't miss this opportunity‼️The 2023 @NeuroAlc XX Christmas Meeting E…</title>
       <link>https://twitter.com/ranczlab/status/1659568669486194688</link>
@@ -2256,6 +2167,114 @@ https://t.co/FP0dklhArs</description>
 https://t.co/FP0dklhArs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659879235991875585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1507623707837333506/pu/img/jMJt6k7Vr5Ie83qF.jpg" length="720" type="photo"/>
       <pubDate>Sat, 20 May 2023 11:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a a Vampyrella, a micro organism often described as a vampire, feeding on filamentous algae by boring a hole through the algal cell wall and sucking out its gooey center 
+
+[📹 Oliver Skibbe/Science Source: https://t.co/rWS17ISfTI]
+https://t.co/laPJLoH8ju</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659885727260332033</link>
+      <description>This is a a Vampyrella, a micro organism often described as a vampire, feeding on filamentous algae by boring a hole through the algal cell wall and sucking out its gooey center 
+
+[📹 Oliver Skibbe/Science Source: https://t.co/rWS17ISfTI]
+https://t.co/laPJLoH8ju</description>
+      <content:encoded>This is a a Vampyrella, a micro organism often described as a vampire, feeding on filamentous algae by boring a hole through the algal cell wall and sucking out its gooey center 
+
+[📹 Oliver Skibbe/Science Source: https://t.co/rWS17ISfTI]
+https://t.co/laPJLoH8ju&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659885727260332033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1393878293158547456/pu/img/rmw_FEUCzMFaXXHV.jpg" length="640" type="photo"/>
+      <pubDate>Sat, 20 May 2023 11:36:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @sarahlovesmaths: I love when someone who doesn’t (yet!) consider themselves to be mathematically minded enjoys my book. 
+So this review…</title>
+      <link>https://twitter.com/stevenstrogatz/status/1659889340577710080</link>
+      <description>RT @sarahlovesmaths: I love when someone who doesn’t (yet!) consider themselves to be mathematically minded enjoys my book. 
+So this review…</description>
+      <content:encoded>RT @sarahlovesmaths: I love when someone who doesn’t (yet!) consider themselves to be mathematically minded enjoys my book. 
+So this review…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1659889340577710080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 11:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Superheated aluminum/copper alloy ball vs. a block of ice
+
+[📹 floridafoxanthillart: https://t.co/9i48Aeq463]
+https://t.co/fWI5AN7WKi</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659889871148793859</link>
+      <description>Superheated aluminum/copper alloy ball vs. a block of ice
+
+[📹 floridafoxanthillart: https://t.co/9i48Aeq463]
+https://t.co/fWI5AN7WKi</description>
+      <content:encoded>Superheated aluminum/copper alloy ball vs. a block of ice
+
+[📹 floridafoxanthillart: https://t.co/9i48Aeq463]
+https://t.co/fWI5AN7WKi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659889871148793859"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1656384100037537792/pu/img/4THdT9KMEYzV3Cwi.jpg" length="675" type="photo"/>
+      <pubDate>Sat, 20 May 2023 11:52:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>What happens when alcohol prices are slashed?
+
+Research from Pekka Martikainen has revealed that greatly reduced prices lead to a rise in consumption and a short term increase in adverse pregnancy outcomes.
+
+Read the full story 👉 https://t.co/3H3suGknjU
+
+@CORDIS_EU @helsinkiuni https://t.co/Lk2kRjZQzq</title>
+      <link>https://twitter.com/ERC_Research/status/1659891770375950337</link>
+      <description>What happens when alcohol prices are slashed?
+
+Research from Pekka Martikainen has revealed that greatly reduced prices lead to a rise in consumption and a short term increase in adverse pregnancy outcomes.
+
+Read the full story 👉 https://t.co/3H3suGknjU
+
+@CORDIS_EU @helsinkiuni https://t.co/Lk2kRjZQzq</description>
+      <content:encoded>What happens when alcohol prices are slashed?
+
+Research from Pekka Martikainen has revealed that greatly reduced prices lead to a rise in consumption and a short term increase in adverse pregnancy outcomes.
+
+Read the full story 👉 https://t.co/3H3suGknjU
+
+@CORDIS_EU @helsinkiuni https://t.co/Lk2kRjZQzq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1659891770375950337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwkevedaIAI8Z-U.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 20 May 2023 12:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>#SciJob: Do you have a strong background in behavioural or systems #neuroscience research and a PhD in neuroscience or a related discipline? @SussexUni has a position for a Research Fellow in Behavioural Neuroscience. Find out more here:
+https://t.co/UIgLSXmKRB https://t.co/OrxwpKn5eY</title>
+      <link>https://twitter.com/Scientifica_Int/status/1659891921559379969</link>
+      <description>#SciJob: Do you have a strong background in behavioural or systems #neuroscience research and a PhD in neuroscience or a related discipline? @SussexUni has a position for a Research Fellow in Behavioural Neuroscience. Find out more here:
+https://t.co/UIgLSXmKRB https://t.co/OrxwpKn5eY</description>
+      <content:encoded>#SciJob: Do you have a strong background in behavioural or systems #neuroscience research and a PhD in neuroscience or a related discipline? @SussexUni has a position for a Research Fellow in Behavioural Neuroscience. Find out more here:
+https://t.co/UIgLSXmKRB https://t.co/OrxwpKn5eY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1659891921559379969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwke57iWYAMmP6o.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 20 May 2023 12:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Immersive light exhibition at the Hall des Lumières art museum in New York
+
+[read more: https://t.co/NkdkJQlTkr] 
+[📹 eshaknows: https://t.co/AL45y3vi56]
+https://t.co/lbfRYlNm42</title>
+      <link>https://twitter.com/Rainmaker1973/status/1659894963935608835</link>
+      <description>Immersive light exhibition at the Hall des Lumières art museum in New York
+
+[read more: https://t.co/NkdkJQlTkr] 
+[📹 eshaknows: https://t.co/AL45y3vi56]
+https://t.co/lbfRYlNm42</description>
+      <content:encoded>Immersive light exhibition at the Hall des Lumières art museum in New York
+
+[read more: https://t.co/NkdkJQlTkr] 
+[📹 eshaknows: https://t.co/AL45y3vi56]
+https://t.co/lbfRYlNm42&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659894963935608835"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1651121238243262465/pu/img/EEa2GFHgaOmQuRYs.jpg" length="675" type="photo"/>
+      <pubDate>Sat, 20 May 2023 12:12:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @spiantado: What's a paper that changed your mind?</title>
+      <link>https://twitter.com/neurograce/status/1659896526745812994</link>
+      <description>RT @spiantado: What's a paper that changed your mind?</description>
+      <content:encoded>RT @spiantado: What's a paper that changed your mind?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1659896526745812994"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 20 May 2023 12:19:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
