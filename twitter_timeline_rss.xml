@@ -6,28 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2023 22:14:30 +0000</lastBuildDate>
-    <item>
-      <title>RT @spiantado: What's a paper that changed your mind?</title>
-      <link>https://twitter.com/neurograce/status/1659896526745812994</link>
-      <description>RT @spiantado: What's a paper that changed your mind?</description>
-      <content:encoded>RT @spiantado: What's a paper that changed your mind?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1659896526745812994"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 12:19:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dance like you want to win! For #worldbeeday, Xin Zhou and Shiqi Luo recommend this look at the importance of the #waggledance in a young #bee's social learning. Study by Dong et al. in @ScienceMagazine
-
-https://t.co/3JIlRD12pQ https://t.co/iCOVvTglyZ</title>
-      <link>https://twitter.com/Facultyopinions/status/1659901795081003009</link>
-      <description>Dance like you want to win! For #worldbeeday, Xin Zhou and Shiqi Luo recommend this look at the importance of the #waggledance in a young #bee's social learning. Study by Dong et al. in @ScienceMagazine
-
-https://t.co/3JIlRD12pQ https://t.co/iCOVvTglyZ</description>
-      <content:encoded>Dance like you want to win! For #worldbeeday, Xin Zhou and Shiqi Luo recommend this look at the importance of the #waggledance in a young #bee's social learning. Study by Dong et al. in @ScienceMagazine
-
-https://t.co/3JIlRD12pQ https://t.co/iCOVvTglyZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1659901795081003009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwkn4ouWcAEc5mZ.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 20 May 2023 12:40:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 23:15:31 +0000</lastBuildDate>
     <item>
       <title>RT @DrYohanJohn: Experimentalists in neuroscience use the term "manifold" a lot nowadays, often in the context of a low-dimensional manifol…</title>
       <link>https://twitter.com/KordingLab/status/1659902199948886018</link>
@@ -2207,6 +2186,27 @@ those who understand binary and those who don't.
       <description>How does the protein NINJ1 rupture the plasma membrane in certain types of cell death? Learn more in a terrific N&amp;amp;V by James Whisstock &amp;amp; Ruby Law https://t.co/guF4CZcq3f</description>
       <content:encoded>How does the protein NINJ1 rupture the plasma membrane in certain types of cell death? Learn more in a terrific N&amp;amp;V by James Whisstock &amp;amp; Ruby Law https://t.co/guF4CZcq3f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1660408058760110082"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 21 May 2023 22:11:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: The brain-inspired decoder for natural visual image reconstruction: The visual system provides a valuable model for studying the working mechanisms of sensory processing and high-level consciousness. A significant challenge in… #Neuroscience https://t.co/CijIrLl89K</title>
+      <link>https://twitter.com/FrontNeurosci/status/1660415681815543809</link>
+      <description>New Research: The brain-inspired decoder for natural visual image reconstruction: The visual system provides a valuable model for studying the working mechanisms of sensory processing and high-level consciousness. A significant challenge in… #Neuroscience https://t.co/CijIrLl89K</description>
+      <content:encoded>New Research: The brain-inspired decoder for natural visual image reconstruction: The visual system provides a valuable model for studying the working mechanisms of sensory processing and high-level consciousness. A significant challenge in… #Neuroscience https://t.co/CijIrLl89K&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1660415681815543809"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 22:42:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AdamEzraCohen: Work from @DingchangLin is on the cover!</title>
+      <link>https://twitter.com/MattNeuro/status/1660419428503224320</link>
+      <description>RT @AdamEzraCohen: Work from @DingchangLin is on the cover!</description>
+      <content:encoded>RT @AdamEzraCohen: Work from @DingchangLin is on the cover!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1660419428503224320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 22:56:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @faroque_eee: I was reading the book below by @stevenstrogatz . It has plenty of food for math lover; knowing the history and beauty of…</title>
+      <link>https://twitter.com/stevenstrogatz/status/1660419823652724736</link>
+      <description>RT @faroque_eee: I was reading the book below by @stevenstrogatz . It has plenty of food for math lover; knowing the history and beauty of…</description>
+      <content:encoded>RT @faroque_eee: I was reading the book below by @stevenstrogatz . It has plenty of food for math lover; knowing the history and beauty of…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1660419823652724736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 22:58:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
