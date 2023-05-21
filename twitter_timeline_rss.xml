@@ -6,46 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2023 01:34:15 +0000</lastBuildDate>
-    <item>
-      <title>Sleep is fundamental for humans to maintain normal physical and psychological functions. 
-
-So, what happens when we do not get enough?
-
-#neurotwitter</title>
-      <link>https://twitter.com/SfNtweets/status/1659639334767587328</link>
-      <description>Sleep is fundamental for humans to maintain normal physical and psychological functions. 
-
-So, what happens when we do not get enough?
-
-#neurotwitter</description>
-      <content:encoded>Sleep is fundamental for humans to maintain normal physical and psychological functions. 
-
-So, what happens when we do not get enough?
-
-#neurotwitter&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1659639334767587328"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 19:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Register for the next episode of the @SfNJournals #ResearchInConversation to watch Dr. Congying Chu and Dr. David Elmenhorst discuss new evidence that explains how sleep deprivation ages our brains w/ #JNeurosci Editor-in-Chief Sabine Kastner
-
-▶️ https://t.co/4U72w4c6Zp
-
-#phdchat https://t.co/XEdoJsVAon</title>
-      <link>https://twitter.com/SfNtweets/status/1659639339549184000</link>
-      <description>Register for the next episode of the @SfNJournals #ResearchInConversation to watch Dr. Congying Chu and Dr. David Elmenhorst discuss new evidence that explains how sleep deprivation ages our brains w/ #JNeurosci Editor-in-Chief Sabine Kastner
-
-▶️ https://t.co/4U72w4c6Zp
-
-#phdchat https://t.co/XEdoJsVAon</description>
-      <content:encoded>Register for the next episode of the @SfNJournals #ResearchInConversation to watch Dr. Congying Chu and Dr. David Elmenhorst discuss new evidence that explains how sleep deprivation ages our brains w/ #JNeurosci Editor-in-Chief Sabine Kastner
-
-▶️ https://t.co/4U72w4c6Zp
-
-#phdchat https://t.co/XEdoJsVAon&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1659639339549184000"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwg5BgvXgAMvAxP.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 19:17:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 02:37:27 +0000</lastBuildDate>
     <item>
       <title>@tyrell_turing OK, but the weather forecasters know which it is, ie they know whether there is a 50% chance that a hypothetical hurricane is about to dump 12 hours of rain on us, right? 
 
@@ -2270,6 +2231,20 @@ https://t.co/rgwUGrd4ks&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>New Research: Phase-amplitude coupling-based adaptive filters for neural signal decoding: Bandpass filters play a core role in ECoG signal processing. Commonly used frequency bands such as alpha, beta, and gamma bands can reflect the normal… #Neuroscience https://t.co/dPuGuB2Iaf</description>
       <content:encoded>New Research: Phase-amplitude coupling-based adaptive filters for neural signal decoding: Bandpass filters play a core role in ECoG signal processing. Commonly used frequency bands such as alpha, beta, and gamma bands can reflect the normal… #Neuroscience https://t.co/dPuGuB2Iaf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1660091927151378432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 21 May 2023 01:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Aesthetic experience models human learning: Aesthetic experiences have the potential to promote learning and creativity by enhancing the ability to understand complexity and to integrate novel or disparate information.… #Neuroscience https://t.co/ymzSCSnUy9</title>
+      <link>https://twitter.com/FrontNeurosci/status/1660105011857338368</link>
+      <description>New Research: Aesthetic experience models human learning: Aesthetic experiences have the potential to promote learning and creativity by enhancing the ability to understand complexity and to integrate novel or disparate information.… #Neuroscience https://t.co/ymzSCSnUy9</description>
+      <content:encoded>New Research: Aesthetic experience models human learning: Aesthetic experiences have the potential to promote learning and creativity by enhancing the ability to understand complexity and to integrate novel or disparate information.… #Neuroscience https://t.co/ymzSCSnUy9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1660105011857338368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 02:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SchuettHeiko: I am looking for a PostDoc to work with me for three years starting from September to start my new lab! I am at VSS now,…</title>
+      <link>https://twitter.com/jdlieber/status/1660106253798981632</link>
+      <description>RT @SchuettHeiko: I am looking for a PostDoc to work with me for three years starting from September to start my new lab! I am at VSS now,…</description>
+      <content:encoded>RT @SchuettHeiko: I am looking for a PostDoc to work with me for three years starting from September to start my new lab! I am at VSS now,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jdlieber/status/1660106253798981632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 02:12:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
