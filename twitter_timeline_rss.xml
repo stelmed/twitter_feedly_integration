@@ -6,20 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2023 02:37:27 +0000</lastBuildDate>
-    <item>
-      <title>@tyrell_turing OK, but the weather forecasters know which it is, ie they know whether there is a 50% chance that a hypothetical hurricane is about to dump 12 hours of rain on us, right? 
-
-The issue is that the app doesnt have a good way to express correlations in the hour-by-hour prediction</title>
-      <link>https://twitter.com/TonyZador/status/1659639496017686529</link>
-      <description>@tyrell_turing OK, but the weather forecasters know which it is, ie they know whether there is a 50% chance that a hypothetical hurricane is about to dump 12 hours of rain on us, right? 
-
-The issue is that the app doesnt have a good way to express correlations in the hour-by-hour prediction</description>
-      <content:encoded>@tyrell_turing OK, but the weather forecasters know which it is, ie they know whether there is a 50% chance that a hypothetical hurricane is about to dump 12 hours of rain on us, right? 
-
-The issue is that the app doesnt have a good way to express correlations in the hour-by-hour prediction&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1659639496017686529"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 19:17:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 03:16:28 +0000</lastBuildDate>
     <item>
       <title>@TonyZador It's the chance of rain occurring at some point within the specified time window.  If you like weather apps, highly recommend Windy and Radarscope to supplement https://t.co/IKjr4S7Dsw</title>
       <link>https://twitter.com/AndrewHires/status/1659639515257122816</link>
@@ -2245,6 +2232,13 @@ https://t.co/rgwUGrd4ks&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @SchuettHeiko: I am looking for a PostDoc to work with me for three years starting from September to start my new lab! I am at VSS now,…</description>
       <content:encoded>RT @SchuettHeiko: I am looking for a PostDoc to work with me for three years starting from September to start my new lab! I am at VSS now,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jdlieber/status/1660106253798981632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 21 May 2023 02:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy Guided Diffusion for Generating Neurally Exciting Images  https://t.co/hazcr3vnOS #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1660122106116423684</link>
+      <description>Energy Guided Diffusion for Generating Neurally Exciting Images  https://t.co/hazcr3vnOS #biorxiv_neursci</description>
+      <content:encoded>Energy Guided Diffusion for Generating Neurally Exciting Images  https://t.co/hazcr3vnOS #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660122106116423684"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 03:15:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
