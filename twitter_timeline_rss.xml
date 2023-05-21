@@ -6,125 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2023 07:13:22 +0000</lastBuildDate>
-    <item>
-      <title>The amount of water stored in more than half of the largest lakes and reservoirs worldwide is declining, a new Science study finds. 
-
-The results underscore the importance of better water management to protect essential ecosystem services. https://t.co/jXXegkkxIz https://t.co/0wIOETa5qg</title>
-      <link>https://twitter.com/ScienceMagazine/status/1659642609390723094</link>
-      <description>The amount of water stored in more than half of the largest lakes and reservoirs worldwide is declining, a new Science study finds. 
-
-The results underscore the importance of better water management to protect essential ecosystem services. https://t.co/jXXegkkxIz https://t.co/0wIOETa5qg</description>
-      <content:encoded>The amount of water stored in more than half of the largest lakes and reservoirs worldwide is declining, a new Science study finds. 
-
-The results underscore the importance of better water management to protect essential ecosystem services. https://t.co/jXXegkkxIz https://t.co/0wIOETa5qg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1659642609390723094"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwg8J-fXoAAYZct.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 19:30:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>@TonyZador Strava KOMs.  I always know which way the wind is blowing. (Currently weakly onshore, hoping we get a little more push later for an afternoon effort up Entrada Drive.)</title>
-      <link>https://twitter.com/AndrewHires/status/1659642784796786688</link>
-      <description>@TonyZador Strava KOMs.  I always know which way the wind is blowing. (Currently weakly onshore, hoping we get a little more push later for an afternoon effort up Entrada Drive.)</description>
-      <content:encoded>@TonyZador Strava KOMs.  I always know which way the wind is blowing. (Currently weakly onshore, hoping we get a little more push later for an afternoon effort up Entrada Drive.)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1659642784796786688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 19:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Good interview of Rodney Brooks in IEEE Spectrum about AI in general, and the LLM craze in particular.
-
-Favorite quote:
-- It sounds like you don’t think GPT-5 or GPT-6 is going to make a lot of progress on these issues.
-- Brooks: No, because it doesn’t have any underlying model… https://t.co/XRASVbJI7D</title>
-      <link>https://twitter.com/ylecun/status/1659642861166403590</link>
-      <description>Good interview of Rodney Brooks in IEEE Spectrum about AI in general, and the LLM craze in particular.
-
-Favorite quote:
-- It sounds like you don’t think GPT-5 or GPT-6 is going to make a lot of progress on these issues.
-- Brooks: No, because it doesn’t have any underlying model… https://t.co/XRASVbJI7D</description>
-      <content:encoded>Good interview of Rodney Brooks in IEEE Spectrum about AI in general, and the LLM craze in particular.
-
-Favorite quote:
-- It sounds like you don’t think GPT-5 or GPT-6 is going to make a lot of progress on these issues.
-- Brooks: No, because it doesn’t have any underlying model… https://t.co/XRASVbJI7D&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659642861166403590"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 19:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>I have to admit, this insult is actually funny 😄
-I'm certainly less fluent in English than a 13B-parameter auto-regressive LLM.
-(I wanted to say "a two-bit 13B LLM", but that might have been misinterpreted).
-I'm hoping I don't confabulate as much though. https://t.co/UJH6dtjGGS</title>
-      <link>https://twitter.com/ylecun/status/1659644965884928016</link>
-      <description>I have to admit, this insult is actually funny 😄
-I'm certainly less fluent in English than a 13B-parameter auto-regressive LLM.
-(I wanted to say "a two-bit 13B LLM", but that might have been misinterpreted).
-I'm hoping I don't confabulate as much though. https://t.co/UJH6dtjGGS</description>
-      <content:encoded>I have to admit, this insult is actually funny 😄
-I'm certainly less fluent in English than a 13B-parameter auto-regressive LLM.
-(I wanted to say "a two-bit 13B LLM", but that might have been misinterpreted).
-I'm hoping I don't confabulate as much though. https://t.co/UJH6dtjGGS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659644965884928016"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 19:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chromosomal comparisons reveal comb jellies as the sister group to all other animals https://t.co/iAjbYeAHCA</title>
-      <link>https://twitter.com/NatureNV/status/1659648469873598470</link>
-      <description>Chromosomal comparisons reveal comb jellies as the sister group to all other animals https://t.co/iAjbYeAHCA</description>
-      <content:encoded>Chromosomal comparisons reveal comb jellies as the sister group to all other animals https://t.co/iAjbYeAHCA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1659648469873598470"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 19:53:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Today, SpaceX tested a Raptor rocket engine, fired at a water-cooled "sandwich" of steel plates, designed to protect the launch pad during liftoff and mitigate the rock tornado experienced during Starship's launch on April 20
-
-https://t.co/dsLMfqqKM5</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659648607014756370</link>
-      <description>#Today, SpaceX tested a Raptor rocket engine, fired at a water-cooled "sandwich" of steel plates, designed to protect the launch pad during liftoff and mitigate the rock tornado experienced during Starship's launch on April 20
-
-https://t.co/dsLMfqqKM5</description>
-      <content:encoded>#Today, SpaceX tested a Raptor rocket engine, fired at a water-cooled "sandwich" of steel plates, designed to protect the launch pad during liftoff and mitigate the rock tornado experienced during Starship's launch on April 20
-
-https://t.co/dsLMfqqKM5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659648607014756370"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1659598928042688514/pu/img/I-XICDGRk_8bh8Sw.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 19:53:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>VRQR-ABEmax
-Depositor: David Liu @davidrliu 
-Purpose: A-to-G base editor
-
-https://t.co/7tpGmy6SQS https://t.co/eyjhtFQx8W</title>
-      <link>https://twitter.com/Addgene/status/1659651398357643265</link>
-      <description>VRQR-ABEmax
-Depositor: David Liu @davidrliu 
-Purpose: A-to-G base editor
-
-https://t.co/7tpGmy6SQS https://t.co/eyjhtFQx8W</description>
-      <content:encoded>VRQR-ABEmax
-Depositor: David Liu @davidrliu 
-Purpose: A-to-G base editor
-
-https://t.co/7tpGmy6SQS https://t.co/eyjhtFQx8W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1659651398357643265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FwhEJMbWIBMqSWH.jpg" length="480" type="photo"/>
-      <pubDate>Fri, 19 May 2023 20:05:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @StevenQuartz: If you could 'hack' your dopamine levels as optimization advice advertises, would that be a good thing? A #dopamine 🧵on w…</title>
-      <link>https://twitter.com/PessoaBrain/status/1659651825367130121</link>
-      <description>RT @StevenQuartz: If you could 'hack' your dopamine levels as optimization advice advertises, would that be a good thing? A #dopamine 🧵on w…</description>
-      <content:encoded>RT @StevenQuartz: If you could 'hack' your dopamine levels as optimization advice advertises, would that be a good thing? A #dopamine 🧵on w…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1659651825367130121"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 20:06:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>@tyrell_turing @dlevenstein Who cares? Nutella is way better on pancakes.</title>
-      <link>https://twitter.com/KordingLab/status/1659653131196571677</link>
-      <description>@tyrell_turing @dlevenstein Who cares? Nutella is way better on pancakes.</description>
-      <content:encoded>@tyrell_turing @dlevenstein Who cares? Nutella is way better on pancakes.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1659653131196571677"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 20:11:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @dyamins: This is one of my favorite projects -- I think it really suggests an approach to a unified theory for functional organization…</title>
-      <link>https://twitter.com/KordingLab/status/1659654496622919680</link>
-      <description>RT @dyamins: This is one of my favorite projects -- I think it really suggests an approach to a unified theory for functional organization…</description>
-      <content:encoded>RT @dyamins: This is one of my favorite projects -- I think it really suggests an approach to a unified theory for functional organization…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1659654496622919680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 20:17:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 08:18:38 +0000</lastBuildDate>
     <item>
       <title>RT @simon_c_bowes: Recording of the @SussexCOGS Workshop on Emergence: Natural Minds, now available on the website: https://t.co/1lj8KLiLtJ…</title>
       <link>https://twitter.com/PessoaBrain/status/1659655833381208064</link>
@@ -2223,6 +2105,117 @@ https://t.co/e2zTQpdXSy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @DavidOmer_: I'm looking for an ERC-synergy postdoc. Marmosets wireles ephys &amp;amp; genetic tools to study the neural code for space &amp;amp; territ…</description>
       <content:encoded>RT @DavidOmer_: I'm looking for an ERC-synergy postdoc. Marmosets wireles ephys &amp;amp; genetic tools to study the neural code for space &amp;amp; territ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SilberbergGilad/status/1660181110674841601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 21 May 2023 07:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>54 years ago #Today, Apollo 10 successfully entered Moon's orbit 
+
+[photos: https://t.co/dNlE1bDVWZ]
+https://t.co/ZWRxo0fPBy</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660181976492437504</link>
+      <description>54 years ago #Today, Apollo 10 successfully entered Moon's orbit 
+
+[photos: https://t.co/dNlE1bDVWZ]
+https://t.co/ZWRxo0fPBy</description>
+      <content:encoded>54 years ago #Today, Apollo 10 successfully entered Moon's orbit 
+
+[photos: https://t.co/dNlE1bDVWZ]
+https://t.co/ZWRxo0fPBy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660181976492437504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1527910470803509249/pu/img/tZdoHXu8l79CV7_m.jpg" length="512" type="photo"/>
+      <pubDate>Sun, 21 May 2023 07:13:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gaia Sky is a real-time, 3D, astronomy visualisation software developed in the framework of ESA's Gaia mission. DR3's catalog contains all DR3 stars with parallax relative errors up to 50% (466 million)
+
+[install &amp;amp;  test: https://t.co/T4rhesp91b]
+https://t.co/vdUvuKjTKq</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660185147134623745</link>
+      <description>Gaia Sky is a real-time, 3D, astronomy visualisation software developed in the framework of ESA's Gaia mission. DR3's catalog contains all DR3 stars with parallax relative errors up to 50% (466 million)
+
+[install &amp;amp;  test: https://t.co/T4rhesp91b]
+https://t.co/vdUvuKjTKq</description>
+      <content:encoded>Gaia Sky is a real-time, 3D, astronomy visualisation software developed in the framework of ESA's Gaia mission. DR3's catalog contains all DR3 stars with parallax relative errors up to 50% (466 million)
+
+[install &amp;amp;  test: https://t.co/T4rhesp91b]
+https://t.co/vdUvuKjTKq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660185147134623745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1538773453796417538/pu/img/INCgQilYkgMC-J6m.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 21 May 2023 07:25:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contagious yawning has been observed in humans, but there is also evidence for interspecific contagious yawning among non-human domesticated animals 
+
+[full paper: https://t.co/cmx4LVWi8k]
+[source: https://t.co/RysR1i1goY]
+https://t.co/wCkDLOHtUo</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660188561973321730</link>
+      <description>Contagious yawning has been observed in humans, but there is also evidence for interspecific contagious yawning among non-human domesticated animals 
+
+[full paper: https://t.co/cmx4LVWi8k]
+[source: https://t.co/RysR1i1goY]
+https://t.co/wCkDLOHtUo</description>
+      <content:encoded>Contagious yawning has been observed in humans, but there is also evidence for interspecific contagious yawning among non-human domesticated animals 
+
+[full paper: https://t.co/cmx4LVWi8k]
+[source: https://t.co/RysR1i1goY]
+https://t.co/wCkDLOHtUo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660188561973321730"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1660151670616080387/img/krb_DTcax_kUu660.jpg" length="720" type="photo"/>
+      <pubDate>Sun, 21 May 2023 07:39:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The interesting pattern created by the tangent lines to sine function 
+
+[source: https://t.co/7l2ArzNIVE] https://t.co/4VjrZBuNtU</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660193655750098946</link>
+      <description>The interesting pattern created by the tangent lines to sine function 
+
+[source: https://t.co/7l2ArzNIVE] https://t.co/4VjrZBuNtU</description>
+      <content:encoded>The interesting pattern created by the tangent lines to sine function 
+
+[source: https://t.co/7l2ArzNIVE] https://t.co/4VjrZBuNtU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660193655750098946"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwoxPopXoAEoQff.jpg" length="938" type="photo"/>
+      <pubDate>Sun, 21 May 2023 07:59:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Read this great N&amp;amp;V by @ToktamMahmoodi on the way that 5G networks could transform the transport sector. https://t.co/IIkn31Sq7N</title>
+      <link>https://twitter.com/NatureNV/status/1660195567455043587</link>
+      <description>Read this great N&amp;amp;V by @ToktamMahmoodi on the way that 5G networks could transform the transport sector. https://t.co/IIkn31Sq7N</description>
+      <content:encoded>Read this great N&amp;amp;V by @ToktamMahmoodi on the way that 5G networks could transform the transport sector. https://t.co/IIkn31Sq7N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1660195567455043587"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 08:07:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Distinct brain network features predict internalizing and externalizing traits in children and adults  https://t.co/6s9thsEcia #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1660197586626650114</link>
+      <description>Distinct brain network features predict internalizing and externalizing traits in children and adults  https://t.co/6s9thsEcia #biorxiv_neursci</description>
+      <content:encoded>Distinct brain network features predict internalizing and externalizing traits in children and adults  https://t.co/6s9thsEcia #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660197586626650114"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 08:15:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Focusing attention in human working memory and long-term memory: benefits through dissociable processes  https://t.co/xKZS6Evpuq #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1660197676351193089</link>
+      <description>Focusing attention in human working memory and long-term memory: benefits through dissociable processes  https://t.co/xKZS6Evpuq #biorxiv_neursci</description>
+      <content:encoded>Focusing attention in human working memory and long-term memory: benefits through dissociable processes  https://t.co/xKZS6Evpuq #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660197676351193089"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 08:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuronal Branching is Increasingly Asymmetric Near Synapses, Potentially Enabling Plasticity While Minimizing Energy Dissipation and ...  https://t.co/K1s8cUOBcP #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1660197775546433536</link>
+      <description>Neuronal Branching is Increasingly Asymmetric Near Synapses, Potentially Enabling Plasticity While Minimizing Energy Dissipation and ...  https://t.co/K1s8cUOBcP #biorxiv_neursci</description>
+      <content:encoded>Neuronal Branching is Increasingly Asymmetric Near Synapses, Potentially Enabling Plasticity While Minimizing Energy Dissipation and ...  https://t.co/K1s8cUOBcP #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660197775546433536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 08:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiplexed Volumetric CLEM enabled by antibody derivatives provides new insights into the cytology of the mouse cerebellar cortex  https://t.co/qiDJ70nfsi #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1660197873500168194</link>
+      <description>Multiplexed Volumetric CLEM enabled by antibody derivatives provides new insights into the cytology of the mouse cerebellar cortex  https://t.co/qiDJ70nfsi #biorxiv_neursci</description>
+      <content:encoded>Multiplexed Volumetric CLEM enabled by antibody derivatives provides new insights into the cytology of the mouse cerebellar cortex  https://t.co/qiDJ70nfsi #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660197873500168194"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 08:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The homes of the old walled city of Ghadames, Libya, honeycomb a pre-Saharan oasis on the desert’s edge. The thick albescent walls reflect the sunlight &amp;amp; keep the interiors of these buildings cool in all but the hottest summer months [📷 George Steinmetz: https://t.co/AY3IvVZPHS] https://t.co/VCvExuBGFV</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660197906077429760</link>
+      <description>The homes of the old walled city of Ghadames, Libya, honeycomb a pre-Saharan oasis on the desert’s edge. The thick albescent walls reflect the sunlight &amp;amp; keep the interiors of these buildings cool in all but the hottest summer months [📷 George Steinmetz: https://t.co/AY3IvVZPHS] https://t.co/VCvExuBGFV</description>
+      <content:encoded>The homes of the old walled city of Ghadames, Libya, honeycomb a pre-Saharan oasis on the desert’s edge. The thick albescent walls reflect the sunlight &amp;amp; keep the interiors of these buildings cool in all but the hottest summer months [📷 George Steinmetz: https://t.co/AY3IvVZPHS] https://t.co/VCvExuBGFV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660197906077429760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwo1GyKWIAA7AjU.jpg" length="510" type="photo"/>
+      <pubDate>Sun, 21 May 2023 08:16:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
