@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2023 03:16:28 +0000</lastBuildDate>
-    <item>
-      <title>@TonyZador It's the chance of rain occurring at some point within the specified time window.  If you like weather apps, highly recommend Windy and Radarscope to supplement https://t.co/IKjr4S7Dsw</title>
-      <link>https://twitter.com/AndrewHires/status/1659639515257122816</link>
-      <description>@TonyZador It's the chance of rain occurring at some point within the specified time window.  If you like weather apps, highly recommend Windy and Radarscope to supplement https://t.co/IKjr4S7Dsw</description>
-      <content:encoded>@TonyZador It's the chance of rain occurring at some point within the specified time window.  If you like weather apps, highly recommend Windy and Radarscope to supplement https://t.co/IKjr4S7Dsw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1659639515257122816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 19:17:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 04:18:34 +0000</lastBuildDate>
     <item>
       <title>@TonyZador Precipitation probability is one of those crazy norms. It’s basically the forecaster’s certainty that precipitation will form or move into the area weighted by areal coverage of precipitation that is expected.
 
@@ -2239,6 +2232,13 @@ https://t.co/rgwUGrd4ks&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>Energy Guided Diffusion for Generating Neurally Exciting Images  https://t.co/hazcr3vnOS #biorxiv_neursci</description>
       <content:encoded>Energy Guided Diffusion for Generating Neurally Exciting Images  https://t.co/hazcr3vnOS #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660122106116423684"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 21 May 2023 03:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DulacLab: Why is social isolation associated with negative valence while social grouping elicits positive reward? How to animals know t…</title>
+      <link>https://twitter.com/OferYizhar/status/1660130127546556418</link>
+      <description>RT @DulacLab: Why is social isolation associated with negative valence while social grouping elicits positive reward? How to animals know t…</description>
+      <content:encoded>RT @DulacLab: Why is social isolation associated with negative valence while social grouping elicits positive reward? How to animals know t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1660130127546556418"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 03:47:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
