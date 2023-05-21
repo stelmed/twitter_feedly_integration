@@ -6,55 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2023 12:29:01 +0000</lastBuildDate>
-    <item>
-      <title>@TonyZador “What is best in life?” https://t.co/bPGqNt5taj</title>
-      <link>https://twitter.com/AndrewHires/status/1659735737426939906</link>
-      <description>@TonyZador “What is best in life?” https://t.co/bPGqNt5taj</description>
-      <content:encoded>@TonyZador “What is best in life?” https://t.co/bPGqNt5taj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1659735737426939906"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 01:40:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HarryStebbings: You have to admit, it would be the most amazing show to hear @ylecun and @elonmusk in discussion on the future of AI on…</title>
-      <link>https://twitter.com/ylecun/status/1659738228436418560</link>
-      <description>RT @HarryStebbings: You have to admit, it would be the most amazing show to hear @ylecun and @elonmusk in discussion on the future of AI on…</description>
-      <content:encoded>RT @HarryStebbings: You have to admit, it would be the most amazing show to hear @ylecun and @elonmusk in discussion on the future of AI on…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659738228436418560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 01:50:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Efficacy and underlying mechanisms of acupuncture therapy for PTSD: evidence from animal and clinical studies: As a major public health problem, posttraumatic stress disorder (PTSD) has a substantial impact on individuals and… #neuroscience https://t.co/sC9CuZXbJf</title>
-      <link>https://twitter.com/FrontNeurosci/status/1659742625531064326</link>
-      <description>New Research: Efficacy and underlying mechanisms of acupuncture therapy for PTSD: evidence from animal and clinical studies: As a major public health problem, posttraumatic stress disorder (PTSD) has a substantial impact on individuals and… #neuroscience https://t.co/sC9CuZXbJf</description>
-      <content:encoded>New Research: Efficacy and underlying mechanisms of acupuncture therapy for PTSD: evidence from animal and clinical studies: As a major public health problem, posttraumatic stress disorder (PTSD) has a substantial impact on individuals and… #neuroscience https://t.co/sC9CuZXbJf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1659742625531064326"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 02:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @PessimistsArc: Why's no one talking about the last time an emerging technology was rapidly slowed down due to perceived risk? 
-
-- Block…</title>
-      <link>https://twitter.com/ylecun/status/1659745875692859393</link>
-      <description>RT @PessimistsArc: Why's no one talking about the last time an emerging technology was rapidly slowed down due to perceived risk? 
-
-- Block…</description>
-      <content:encoded>RT @PessimistsArc: Why's no one talking about the last time an emerging technology was rapidly slowed down due to perceived risk? 
-
-- Block…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659745875692859393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 02:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/2tEm1Nr9SH</title>
-      <link>https://twitter.com/AToliasLab/status/1659746585083883520</link>
-      <description>https://t.co/2tEm1Nr9SH</description>
-      <content:encoded>https://t.co/2tEm1Nr9SH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659746585083883520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 02:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @partha_mitra: @liron @ylecun Here is a simple example showing a lack of understanding. Two contradictory statements are made by ChatGPT…</title>
-      <link>https://twitter.com/partha_mitra/status/1659751451487346693</link>
-      <description>RT @partha_mitra: @liron @ylecun Here is a simple example showing a lack of understanding. Two contradictory statements are made by ChatGPT…</description>
-      <content:encoded>RT @partha_mitra: @liron @ylecun Here is a simple example showing a lack of understanding. Two contradictory statements are made by ChatGPT…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/partha_mitra/status/1659751451487346693"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 02:42:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 13:17:00 +0000</lastBuildDate>
     <item>
       <title>ChatGPT gets this wrong, GPT4 gets this right. 
 
@@ -2279,6 +2231,73 @@ Read more 👇
 [full article: https://t.co/nOsJpqJLVW] https://t.co/zoINNGcLeM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660259142261669888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fwou5WtXsAAZBcu.png" length="680" type="photo"/>
       <pubDate>Sun, 21 May 2023 12:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Please, no more quantum woo woo. It is even worse than neuro woo woo. https://t.co/zEANJeOZ7W</title>
+      <link>https://twitter.com/neuralengine/status/1660263147704406019</link>
+      <description>Please, no more quantum woo woo. It is even worse than neuro woo woo. https://t.co/zEANJeOZ7W</description>
+      <content:encoded>Please, no more quantum woo woo. It is even worse than neuro woo woo. https://t.co/zEANJeOZ7W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1660263147704406019"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 12:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a map of the Atlantic Ocean floor published in 1968 based on a large number of deep ocean soundings compiled by Bruce Heezen and Marie Tharp, painted by Heinrich Berann for National Geographic Magazine 
+
+[source: https://t.co/wRiMMmlB9N] https://t.co/hM2gVz5My5</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660264175132717060</link>
+      <description>This is a map of the Atlantic Ocean floor published in 1968 based on a large number of deep ocean soundings compiled by Bruce Heezen and Marie Tharp, painted by Heinrich Berann for National Geographic Magazine 
+
+[source: https://t.co/wRiMMmlB9N] https://t.co/hM2gVz5My5</description>
+      <content:encoded>This is a map of the Atlantic Ocean floor published in 1968 based on a large number of deep ocean soundings compiled by Bruce Heezen and Marie Tharp, painted by Heinrich Berann for National Geographic Magazine 
+
+[source: https://t.co/wRiMMmlB9N] https://t.co/hM2gVz5My5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660264175132717060"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwovK2-XgAApxyv.png" length="500" type="photo"/>
+      <pubDate>Sun, 21 May 2023 12:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beating the blues: Sharon Parish &amp;amp; Leah Susser highlights this Deligiannidis @smeltzerb et al @zhhresearch @UNCPsychiatry @JAMAPsych phase 3 RCT of a promising treatment for #postpartumdepression. #Zuranolone
+
+https://t.co/IHT8AjFa3x https://t.co/OYkZJ8XIlo</title>
+      <link>https://twitter.com/Facultyopinions/status/1660264180283219969</link>
+      <description>Beating the blues: Sharon Parish &amp;amp; Leah Susser highlights this Deligiannidis @smeltzerb et al @zhhresearch @UNCPsychiatry @JAMAPsych phase 3 RCT of a promising treatment for #postpartumdepression. #Zuranolone
+
+https://t.co/IHT8AjFa3x https://t.co/OYkZJ8XIlo</description>
+      <content:encoded>Beating the blues: Sharon Parish &amp;amp; Leah Susser highlights this Deligiannidis @smeltzerb et al @zhhresearch @UNCPsychiatry @JAMAPsych phase 3 RCT of a promising treatment for #postpartumdepression. #Zuranolone
+
+https://t.co/IHT8AjFa3x https://t.co/OYkZJ8XIlo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1660264180283219969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwpxeTkXwAISs_k.jpg" length="764" type="photo"/>
+      <pubDate>Sun, 21 May 2023 12:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>#LabHacks: Pipette drift disrupts #electrophysiology recordings and distorts results. Here are some tips for identifying and resolving causes of drift, to keep your experiments running smoothly. 
+https://t.co/1RCDjkhLjp https://t.co/It3z6z3aAr</title>
+      <link>https://twitter.com/Scientifica_Int/status/1660267955211456513</link>
+      <description>#LabHacks: Pipette drift disrupts #electrophysiology recordings and distorts results. Here are some tips for identifying and resolving causes of drift, to keep your experiments running smoothly. 
+https://t.co/1RCDjkhLjp https://t.co/It3z6z3aAr</description>
+      <content:encoded>#LabHacks: Pipette drift disrupts #electrophysiology recordings and distorts results. Here are some tips for identifying and resolving causes of drift, to keep your experiments running smoothly. 
+https://t.co/1RCDjkhLjp https://t.co/It3z6z3aAr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1660267955211456513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwp05-LWAAIBNWS.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 21 May 2023 12:55:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The blue-footed booby (Sula nebouxii) is a marine bird native to subtropical and tropical regions of the eastern Pacific Ocean. It is easily recognizable by its distinctive bright blue feet 
+
+[read more: https://t.co/ZbR0bLiNtD] https://t.co/mFIl5Xke7I</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660269215276994561</link>
+      <description>The blue-footed booby (Sula nebouxii) is a marine bird native to subtropical and tropical regions of the eastern Pacific Ocean. It is easily recognizable by its distinctive bright blue feet 
+
+[read more: https://t.co/ZbR0bLiNtD] https://t.co/mFIl5Xke7I</description>
+      <content:encoded>The blue-footed booby (Sula nebouxii) is a marine bird native to subtropical and tropical regions of the eastern Pacific Ocean. It is easily recognizable by its distinctive bright blue feet 
+
+[read more: https://t.co/ZbR0bLiNtD] https://t.co/mFIl5Xke7I&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660269215276994561"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwovSilWcAYcccl.jpg" length="482" type="photo"/>
+      <pubDate>Sun, 21 May 2023 13:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mmitchell_ai: Remember how Google claimed their system could translate English to Bengali without ever having seen that? And we were li…</title>
+      <link>https://twitter.com/KordingLab/status/1660271479248891905</link>
+      <description>RT @mmitchell_ai: Remember how Google claimed their system could translate English to Bengali without ever having seen that? And we were li…</description>
+      <content:encoded>RT @mmitchell_ai: Remember how Google claimed their system could translate English to Bengali without ever having seen that? And we were li…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1660271479248891905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 13:09:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
