@@ -6,62 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2023 10:15:34 +0000</lastBuildDate>
-    <item>
-      <title>Learn to build your own chatbot!
-
-Discover ChatGPT’s true potential with our new course, which teaches you how to craft effective text prompts and work with OpenAI’s API.
- 
-Get free access to our new course: https://t.co/nAirdEN1mQ</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1659680324954083332</link>
-      <description>Learn to build your own chatbot!
-
-Discover ChatGPT’s true potential with our new course, which teaches you how to craft effective text prompts and work with OpenAI’s API.
- 
-Get free access to our new course: https://t.co/nAirdEN1mQ</description>
-      <content:encoded>Learn to build your own chatbot!
-
-Discover ChatGPT’s true potential with our new course, which teaches you how to craft effective text prompts and work with OpenAI’s API.
- 
-Get free access to our new course: https://t.co/nAirdEN1mQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1659680324954083332"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 21:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>📱 Integrate on-device #MachineLearning into apps across platforms with the new MediaPipe Solutions from #GoogleIO! 
-
-Customize with your own data in just a few lines of code today ➡️ https://t.co/nXenGTwNld https://t.co/3lRWWH93x7</title>
-      <link>https://twitter.com/TensorFlow/status/1659680334177288193</link>
-      <description>📱 Integrate on-device #MachineLearning into apps across platforms with the new MediaPipe Solutions from #GoogleIO! 
-
-Customize with your own data in just a few lines of code today ➡️ https://t.co/nXenGTwNld https://t.co/3lRWWH93x7</description>
-      <content:encoded>📱 Integrate on-device #MachineLearning into apps across platforms with the new MediaPipe Solutions from #GoogleIO! 
-
-Customize with your own data in just a few lines of code today ➡️ https://t.co/nXenGTwNld https://t.co/3lRWWH93x7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1659680334177288193"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwhed7-XwAUQ8dy.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 19 May 2023 22:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @czbiohub: Meet @ShanaOKelley. She’s launched four biomedical companies, and now leads the new CZ Biohub in Chicago as it aims to unlock…</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1659685025640480768</link>
-      <description>RT @czbiohub: Meet @ShanaOKelley. She’s launched four biomedical companies, and now leads the new CZ Biohub in Chicago as it aims to unlock…</description>
-      <content:encoded>RT @czbiohub: Meet @ShanaOKelley. She’s launched four biomedical companies, and now leads the new CZ Biohub in Chicago as it aims to unlock…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1659685025640480768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 22:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>This week's dip into Nature's archive features an agricultural historian's take on a millennium of climate change, and the scent of a sitting pheasant https://t.co/cmmjZzQ31B https://t.co/gAHdfnSFzt</title>
-      <link>https://twitter.com/NatureNV/status/1659687178752913408</link>
-      <description>This week's dip into Nature's archive features an agricultural historian's take on a millennium of climate change, and the scent of a sitting pheasant https://t.co/cmmjZzQ31B https://t.co/gAHdfnSFzt</description>
-      <content:encoded>This week's dip into Nature's archive features an agricultural historian's take on a millennium of climate change, and the scent of a sitting pheasant https://t.co/cmmjZzQ31B https://t.co/gAHdfnSFzt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1659687178752913408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwhksXzXoAAofgz.jpg" length="1024" type="photo"/>
-      <pubDate>Fri, 19 May 2023 22:27:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Cultured brain pericytes adopt an immature phenotype and require endothelial cells for expression of canonical markers and ECM genes: Pericytes (PCs) are essential components of the blood brain barrier. Brain PCs are critical… #neuroscience https://t.co/pGYZ9HaVX6</title>
-      <link>https://twitter.com/FrontNeurosci/status/1659690902905032704</link>
-      <description>New Research: Cultured brain pericytes adopt an immature phenotype and require endothelial cells for expression of canonical markers and ECM genes: Pericytes (PCs) are essential components of the blood brain barrier. Brain PCs are critical… #neuroscience https://t.co/pGYZ9HaVX6</description>
-      <content:encoded>New Research: Cultured brain pericytes adopt an immature phenotype and require endothelial cells for expression of canonical markers and ECM genes: Pericytes (PCs) are essential components of the blood brain barrier. Brain PCs are critical… #neuroscience https://t.co/pGYZ9HaVX6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1659690902905032704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 19 May 2023 22:42:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 11:12:11 +0000</lastBuildDate>
     <item>
       <title>New Research: Assistance level quantification-based human-robot interaction space reshaping for rehabilitation training: Stroke has become a major disease that seriously threatens human health due to its high incidence and disability… #Neurorobotics https://t.co/79JyFwYYgg</title>
       <link>https://twitter.com/FrontNeurosci/status/1659710665500790784</link>
@@ -2238,6 +2183,74 @@ https://t.co/Bh3Vk0j4uR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <content:encoded>Northern Italy’s region Emilia Romagna has been hit this week by the most severe flooding to affect Italy in 100 years. The disaster claimed 14 lives so far. An estimated 20,000 have been left homeless and the extreme weather event caused 23 rivers to burst their banks and 280… https://t.co/fv9mDGzkrE https://t.co/KuZuJxNnX5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660225170345275393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwpN6e3X0AQyyL1.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 21 May 2023 10:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The cyanometer: a 230-year-old tool for measuring the blueness of the sky 
+
+[read more: https://t.co/LS4hPs7X9m] https://t.co/OtURqBLKoN</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660228942907727872</link>
+      <description>The cyanometer: a 230-year-old tool for measuring the blueness of the sky 
+
+[read more: https://t.co/LS4hPs7X9m] https://t.co/OtURqBLKoN</description>
+      <content:encoded>The cyanometer: a 230-year-old tool for measuring the blueness of the sky 
+
+[read more: https://t.co/LS4hPs7X9m] https://t.co/OtURqBLKoN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660228942907727872"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwotztAWwAAjx2l.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 21 May 2023 10:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>There is an island in the Pacific called Yap that uses circular stones as currency. The stones are too large to move so the ownership of the stones is passed by word of mouth to transact business 
+
+[read more: https://t.co/gF0cGZCCCK] https://t.co/kJLRxZcGYp</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660233976185856003</link>
+      <description>There is an island in the Pacific called Yap that uses circular stones as currency. The stones are too large to move so the ownership of the stones is passed by word of mouth to transact business 
+
+[read more: https://t.co/gF0cGZCCCK] https://t.co/kJLRxZcGYp</description>
+      <content:encoded>There is an island in the Pacific called Yap that uses circular stones as currency. The stones are too large to move so the ownership of the stones is passed by word of mouth to transact business 
+
+[read more: https://t.co/gF0cGZCCCK] https://t.co/kJLRxZcGYp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660233976185856003"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwot7yiXwAAOJed.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 21 May 2023 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A series of “it could be worst, but let’s enjoy the fact that now is better than 50-200 years ago” that cannot be used to claim that the world is not in bad shape. 
+
+The fact it could be worst does not mean it’s going well.
+
+#ClickBait https://t.co/Jn9cAEhUu9</title>
+      <link>https://twitter.com/manlius84/status/1660234815864545282</link>
+      <description>A series of “it could be worst, but let’s enjoy the fact that now is better than 50-200 years ago” that cannot be used to claim that the world is not in bad shape. 
+
+The fact it could be worst does not mean it’s going well.
+
+#ClickBait https://t.co/Jn9cAEhUu9</description>
+      <content:encoded>A series of “it could be worst, but let’s enjoy the fact that now is better than 50-200 years ago” that cannot be used to claim that the world is not in bad shape. 
+
+The fact it could be worst does not mean it’s going well.
+
+#ClickBait https://t.co/Jn9cAEhUu9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1660234815864545282"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 10:43:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Wallis published his product for π in 1656: an infinite product of even squared numbers divided by their two adjacent odd numbers. The surprising thing is scientists found it in a quantum mechanics formula for the energy states of the hydrogen atom https://t.co/PBC9hgAySt https://t.co/AFybTjgPuu</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660239010147573761</link>
+      <description>John Wallis published his product for π in 1656: an infinite product of even squared numbers divided by their two adjacent odd numbers. The surprising thing is scientists found it in a quantum mechanics formula for the energy states of the hydrogen atom https://t.co/PBC9hgAySt https://t.co/AFybTjgPuu</description>
+      <content:encoded>John Wallis published his product for π in 1656: an infinite product of even squared numbers divided by their two adjacent odd numbers. The surprising thing is scientists found it in a quantum mechanics formula for the energy states of the hydrogen atom https://t.co/PBC9hgAySt https://t.co/AFybTjgPuu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660239010147573761"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwouHwVXoAEPVtO.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 21 May 2023 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MBFBioscience: The May #NeuroArt contest is almost over!
+
+Submit up to 3 images at https://t.co/E00Ys1Gkxm — vote on your favorites! En…</title>
+      <link>https://twitter.com/INCForg/status/1660241947120791558</link>
+      <description>RT @MBFBioscience: The May #NeuroArt contest is almost over!
+
+Submit up to 3 images at https://t.co/E00Ys1Gkxm — vote on your favorites! En…</description>
+      <content:encoded>RT @MBFBioscience: The May #NeuroArt contest is almost over!
+
+Submit up to 3 images at https://t.co/E00Ys1Gkxm — vote on your favorites! En…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1660241947120791558"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 11:11:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
