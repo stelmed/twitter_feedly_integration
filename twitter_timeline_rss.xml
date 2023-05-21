@@ -6,56 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2023 17:12:49 +0000</lastBuildDate>
-    <item>
-      <title>A study by scientists @ELTE_UNI revealed that the further a dog breed is genetically distant from wolves, the larger its relative #brain size becomes and is likely influenced by urbanization and a more complex social environment. Read more here
-https://t.co/8bSCBhgyXT https://t.co/yvz1dDD0aW</title>
-      <link>https://twitter.com/Scientifica_Int/status/1659846476778856451</link>
-      <description>A study by scientists @ELTE_UNI revealed that the further a dog breed is genetically distant from wolves, the larger its relative #brain size becomes and is likely influenced by urbanization and a more complex social environment. Read more here
-https://t.co/8bSCBhgyXT https://t.co/yvz1dDD0aW</description>
-      <content:encoded>A study by scientists @ELTE_UNI revealed that the further a dog breed is genetically distant from wolves, the larger its relative #brain size becomes and is likely influenced by urbanization and a more complex social environment. Read more here
-https://t.co/8bSCBhgyXT https://t.co/yvz1dDD0aW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1659846476778856451"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwj1kv0XwAM5y-c.jpg" length="512" type="photo"/>
-      <pubDate>Sat, 20 May 2023 09:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uroplatus phantasticus, the satanic leaf-tailed gecko, is a species indigenous to Madagascar. Its specific name phantasticus is the Latin word for "imaginary", based upon the gecko's unique appearance  
-
-[📹 chromatic_chameleons: https://t.co/glK5DYK1TB]
-https://t.co/Vcx8n5qhfV</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659849931861942274</link>
-      <description>Uroplatus phantasticus, the satanic leaf-tailed gecko, is a species indigenous to Madagascar. Its specific name phantasticus is the Latin word for "imaginary", based upon the gecko's unique appearance  
-
-[📹 chromatic_chameleons: https://t.co/glK5DYK1TB]
-https://t.co/Vcx8n5qhfV</description>
-      <content:encoded>Uroplatus phantasticus, the satanic leaf-tailed gecko, is a species indigenous to Madagascar. Its specific name phantasticus is the Latin word for "imaginary", based upon the gecko's unique appearance  
-
-[📹 chromatic_chameleons: https://t.co/glK5DYK1TB]
-https://t.co/Vcx8n5qhfV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659849931861942274"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1484233994526990336/pu/img/G0uaaDJuX8Lz0cEY.jpg" length="404" type="photo"/>
-      <pubDate>Sat, 20 May 2023 09:13:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>The industrial process for making chlorine uses a vast amount of energy. An organic catalyst could form the basis of a more energy-efficient process, replacing expensive inorganic catalysts. https://t.co/tWZkpGePkk</title>
-      <link>https://twitter.com/NatureNV/status/1659850457257213956</link>
-      <description>The industrial process for making chlorine uses a vast amount of energy. An organic catalyst could form the basis of a more energy-efficient process, replacing expensive inorganic catalysts. https://t.co/tWZkpGePkk</description>
-      <content:encoded>The industrial process for making chlorine uses a vast amount of energy. An organic catalyst could form the basis of a more energy-efficient process, replacing expensive inorganic catalysts. https://t.co/tWZkpGePkk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1659850457257213956"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 09:16:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>I've been saying this for years... https://t.co/4Ca6xBAmjr https://t.co/5mqKllijhL</title>
-      <link>https://twitter.com/Neuro_Skeptic/status/1659852755173875712</link>
-      <description>I've been saying this for years... https://t.co/4Ca6xBAmjr https://t.co/5mqKllijhL</description>
-      <content:encoded>I've been saying this for years... https://t.co/4Ca6xBAmjr https://t.co/5mqKllijhL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1659852755173875712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 09:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>One possible critique of the new ketamine-during-surgery study though: all the depressed patients were having elective surgery. https://t.co/1vu2DTmwH9 How depressed were they, then? When I was depressed, a big step like elective surgery would be last thing on my mind.</title>
-      <link>https://twitter.com/Neuro_Skeptic/status/1659853445736660992</link>
-      <description>One possible critique of the new ketamine-during-surgery study though: all the depressed patients were having elective surgery. https://t.co/1vu2DTmwH9 How depressed were they, then? When I was depressed, a big step like elective surgery would be last thing on my mind.</description>
-      <content:encoded>One possible critique of the new ketamine-during-surgery study though: all the depressed patients were having elective surgery. https://t.co/1vu2DTmwH9 How depressed were they, then? When I was depressed, a big step like elective surgery would be last thing on my mind.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1659853445736660992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 09:27:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 18:18:52 +0000</lastBuildDate>
     <item>
       <title>When seals' nose muscles are relaxed, the nostrils are naturally closed and airtight: this prevents water to access their lungs when underwater
 
@@ -2291,6 +2242,62 @@ In such events, the Magnus effect is decisive in deflecting the trajectory of a 
 https://t.co/Tl9d6amF39 https://t.co/USJnUuxCBl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660330896380030981"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1660326611319681024/img/_peKp1eJ0iBs41h5.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 21 May 2023 17:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Very bright fireball was spotted over Queensland, Australia on May 20, 2023
+
+[read more: https://t.co/uqA8eHpXAJ]
+https://t.co/8tX0ZbdhKs</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660334279375691776</link>
+      <description>Very bright fireball was spotted over Queensland, Australia on May 20, 2023
+
+[read more: https://t.co/uqA8eHpXAJ]
+https://t.co/8tX0ZbdhKs</description>
+      <content:encoded>Very bright fireball was spotted over Queensland, Australia on May 20, 2023
+
+[read more: https://t.co/uqA8eHpXAJ]
+https://t.co/8tX0ZbdhKs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660334279375691776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1660073923655127040/pu/img/XP-CDhRrDL2uVaSW.jpg" length="675" type="photo"/>
+      <pubDate>Sun, 21 May 2023 17:18:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @NatRevCardiol describes eight molecular hallmarks of cardiovascular ageing. Therapeutically targeting these hallmarks might attenuate residual cardiovascular risk in older individuals. 🔒 https://t.co/H41VdGwRES https://t.co/I0zEGHpe7j</title>
+      <link>https://twitter.com/NaturePortfolio/status/1660338938848968707</link>
+      <description>A Review in @NatRevCardiol describes eight molecular hallmarks of cardiovascular ageing. Therapeutically targeting these hallmarks might attenuate residual cardiovascular risk in older individuals. 🔒 https://t.co/H41VdGwRES https://t.co/I0zEGHpe7j</description>
+      <content:encoded>A Review in @NatRevCardiol describes eight molecular hallmarks of cardiovascular ageing. Therapeutically targeting these hallmarks might attenuate residual cardiovascular risk in older individuals. 🔒 https://t.co/H41VdGwRES https://t.co/I0zEGHpe7j&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1660338938848968707"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fwq1cvRXsAMZMHh.jpg" length="1000" type="photo"/>
+      <pubDate>Sun, 21 May 2023 17:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @dr_alphalyrae: Self-driving laboratories to autonomously navigate the protein fitness landscape 👀 https://t.co/G8QTXdvhDw</title>
+      <link>https://twitter.com/sofroniewn/status/1660342869897678848</link>
+      <description>RT @dr_alphalyrae: Self-driving laboratories to autonomously navigate the protein fitness landscape 👀 https://t.co/G8QTXdvhDw</description>
+      <content:encoded>RT @dr_alphalyrae: Self-driving laboratories to autonomously navigate the protein fitness landscape 👀 https://t.co/G8QTXdvhDw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1660342869897678848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 17:52:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @stardazed0: Fun collaboration with the Lichtman Lab and others for exploring multiplexed CLEM with scFVs. https://t.co/ox1S3w6gUB</title>
+      <link>https://twitter.com/sofroniewn/status/1660343907883040768</link>
+      <description>RT @stardazed0: Fun collaboration with the Lichtman Lab and others for exploring multiplexed CLEM with scFVs. https://t.co/ox1S3w6gUB</description>
+      <content:encoded>RT @stardazed0: Fun collaboration with the Lichtman Lab and others for exploring multiplexed CLEM with scFVs. https://t.co/ox1S3w6gUB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1660343907883040768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 21 May 2023 17:56:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gravity causes bodies on Earth to fall towards the ground; however, the alpine ibex seem it doesn't care at all
+
+Its herbivorous diet is lacking in calcium salt, so it typically climbs dams' steep walls to reach deposits of mineral salts from the stones
+https://t.co/9OHpNOA1CU</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660345780505387008</link>
+      <description>Gravity causes bodies on Earth to fall towards the ground; however, the alpine ibex seem it doesn't care at all
+
+Its herbivorous diet is lacking in calcium salt, so it typically climbs dams' steep walls to reach deposits of mineral salts from the stones
+https://t.co/9OHpNOA1CU</description>
+      <content:encoded>Gravity causes bodies on Earth to fall towards the ground; however, the alpine ibex seem it doesn't care at all
+
+Its herbivorous diet is lacking in calcium salt, so it typically climbs dams' steep walls to reach deposits of mineral salts from the stones
+https://t.co/9OHpNOA1CU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660345780505387008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1660322066057371648/img/dTG0_TcS2Msi3tXV.jpg" length="480" type="photo"/>
+      <pubDate>Sun, 21 May 2023 18:04:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
