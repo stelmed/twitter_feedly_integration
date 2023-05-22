@@ -6,32 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 May 2023 04:19:35 +0000</lastBuildDate>
-    <item>
-      <title>A deep learning algorithm predicts the risk of pancreatic cancer from pre-cancer disease trajectories up to three years in advance, showing promising performance in retrospective validation, according to a @NatureMedicine paper. https://t.co/TUHkxdMhXE https://t.co/ecSmWvhy0T</title>
-      <link>https://twitter.com/NaturePortfolio/status/1659928233737846784</link>
-      <description>A deep learning algorithm predicts the risk of pancreatic cancer from pre-cancer disease trajectories up to three years in advance, showing promising performance in retrospective validation, according to a @NatureMedicine paper. https://t.co/TUHkxdMhXE https://t.co/ecSmWvhy0T</description>
-      <content:encoded>A deep learning algorithm predicts the risk of pancreatic cancer from pre-cancer disease trajectories up to three years in advance, showing promising performance in retrospective validation, according to a @NatureMedicine paper. https://t.co/TUHkxdMhXE https://t.co/ecSmWvhy0T&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1659928233737846784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwk_6juXsAE0roK.jpg" length="1000" type="photo"/>
-      <pubDate>Sat, 20 May 2023 14:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>"By the time the White House featured me on Snapchat, my 15-year-old niece exclaimed that no one even used Snapchat anymore. We were not meeting people where they were..." -- new Freeman Hrabowski Scholar @KizzyPhD https://t.co/rOXlFff12C</title>
-      <link>https://twitter.com/HHMINEWS/status/1659930107857760258</link>
-      <description>"By the time the White House featured me on Snapchat, my 15-year-old niece exclaimed that no one even used Snapchat anymore. We were not meeting people where they were..." -- new Freeman Hrabowski Scholar @KizzyPhD https://t.co/rOXlFff12C</description>
-      <content:encoded>"By the time the White House featured me on Snapchat, my 15-year-old niece exclaimed that no one even used Snapchat anymore. We were not meeting people where they were..." -- new Freeman Hrabowski Scholar @KizzyPhD https://t.co/rOXlFff12C&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1659930107857760258"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 14:32:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jerome_sallet: Our new comparative neuroanatomy study is out. Exciting collab lead by @CelineAmiez
-https://t.co/TQbfMJMUrO</title>
-      <link>https://twitter.com/laubach_mark/status/1659930162165608450</link>
-      <description>RT @jerome_sallet: Our new comparative neuroanatomy study is out. Exciting collab lead by @CelineAmiez
-https://t.co/TQbfMJMUrO</description>
-      <content:encoded>RT @jerome_sallet: Our new comparative neuroanatomy study is out. Exciting collab lead by @CelineAmiez
-https://t.co/TQbfMJMUrO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/laubach_mark/status/1659930162165608450"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 14:32:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 May 2023 05:15:42 +0000</lastBuildDate>
     <item>
       <title>New Research: Combination of multi-modal MRI radiomics and liquid biopsy technique for preoperatively non-invasive diagnosis of glioma based on deep learning: protocol for a double-center, ambispective, diagnostical observational… #Molecular #Neuroscience https://t.co/8ragAgBpW0</title>
       <link>https://twitter.com/FrontNeurosci/status/1659931867175591941</link>
@@ -1847,13 +1822,6 @@ https://t.co/9OHpNOA1CU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Sun, 21 May 2023 18:04:16 +0000</pubDate>
     </item>
     <item>
-      <title>Here is a nice little idea we had how to generate better and faster MEIs (maximally exciting inputs). Even better: the method is not specific to MEIs.</title>
-      <link>https://twitter.com/sinzlab/status/1660350228698890240</link>
-      <description>Here is a nice little idea we had how to generate better and faster MEIs (maximally exciting inputs). Even better: the method is not specific to MEIs.</description>
-      <content:encoded>Here is a nice little idea we had how to generate better and faster MEIs (maximally exciting inputs). Even better: the method is not specific to MEIs.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sinzlab/status/1660350228698890240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 21 May 2023 18:21:56 +0000</pubDate>
-    </item>
-    <item>
       <title>A study in @SciReports suggests the presence of human-controlled fires at Valdocarros—one of the oldest evidence of fire use in Europe. Hominins possibly used fire for two main activities, as a means of defense against predators and cooking. https://t.co/7qFQJKTJd5 https://t.co/2aCbYLWo2V</title>
       <link>https://twitter.com/NaturePortfolio/status/1660355045072748545</link>
       <description>A study in @SciReports suggests the presence of human-controlled fires at Valdocarros—one of the oldest evidence of fire use in Europe. Hominins possibly used fire for two main activities, as a means of defense against predators and cooking. https://t.co/7qFQJKTJd5 https://t.co/2aCbYLWo2V</description>
@@ -2161,6 +2129,34 @@ Given the state of things, it makes a lot of sense.&lt;blockquote class="twitter
       <description>RT @burgwx: The recent surge in Canadian wildfire activity underneath a highly stagnant anomalous ridge has resulted in smoke overspreading…</description>
       <content:encoded>RT @burgwx: The recent surge in Canadian wildfire activity underneath a highly stagnant anomalous ridge has resulted in smoke overspreading…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1660492304363433984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 22 May 2023 03:46:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Intelligence-in-a-dish”: John Doyle recommends this work in @FrontScience by @ToxmasHartung @JohnsHopkinsSPH on the field of #OrganoidIntelligence, including discussions on ethics and the opportunities to investigate diseases, such as #dementia.
+
+https://t.co/TYAhmQ3CJh https://t.co/0lmrf6CHnN</title>
+      <link>https://twitter.com/Facultyopinions/status/1660507720250793984</link>
+      <description>“Intelligence-in-a-dish”: John Doyle recommends this work in @FrontScience by @ToxmasHartung @JohnsHopkinsSPH on the field of #OrganoidIntelligence, including discussions on ethics and the opportunities to investigate diseases, such as #dementia.
+
+https://t.co/TYAhmQ3CJh https://t.co/0lmrf6CHnN</description>
+      <content:encoded>“Intelligence-in-a-dish”: John Doyle recommends this work in @FrontScience by @ToxmasHartung @JohnsHopkinsSPH on the field of #OrganoidIntelligence, including discussions on ethics and the opportunities to investigate diseases, such as #dementia.
+
+https://t.co/TYAhmQ3CJh https://t.co/0lmrf6CHnN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1660507720250793984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwtO-G6WYAY-Yrw.png" length="764" type="photo"/>
+      <pubDate>Mon, 22 May 2023 04:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here is a nice little idea we had how to generate better and faster MEIs (maximally exciting inputs). Even better: the method is not specific to MEIs. https://t.co/8q3CEu8Dkd</title>
+      <link>https://twitter.com/sinzlab/status/1660511578016366595</link>
+      <description>Here is a nice little idea we had how to generate better and faster MEIs (maximally exciting inputs). Even better: the method is not specific to MEIs. https://t.co/8q3CEu8Dkd</description>
+      <content:encoded>Here is a nice little idea we had how to generate better and faster MEIs (maximally exciting inputs). Even better: the method is not specific to MEIs. https://t.co/8q3CEu8Dkd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sinzlab/status/1660511578016366595"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 22 May 2023 05:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>SNAP25 disease mutations change the energy landscape for synaptic exocytosis due to aberrant SNARE interactions  https://t.co/oMONDRageg #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1660514679993561090</link>
+      <description>SNAP25 disease mutations change the energy landscape for synaptic exocytosis due to aberrant SNARE interactions  https://t.co/oMONDRageg #biorxiv_neursci</description>
+      <content:encoded>SNAP25 disease mutations change the energy landscape for synaptic exocytosis due to aberrant SNARE interactions  https://t.co/oMONDRageg #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660514679993561090"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 22 May 2023 05:15:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
