@@ -6,84 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 May 2023 02:37:49 +0000</lastBuildDate>
-    <item>
-      <title>RT @AJamesMcCarthy: Look in the upper arm of this galaxy- you'll see a star appear to blink in and out of existence. That's a supernova! Ve…</title>
-      <link>https://twitter.com/ylecun/status/1659916790502244352</link>
-      <description>RT @AJamesMcCarthy: Look in the upper arm of this galaxy- you'll see a star appear to blink in and out of existence. That's a supernova! Ve…</description>
-      <content:encoded>RT @AJamesMcCarthy: Look in the upper arm of this galaxy- you'll see a star appear to blink in and out of existence. That's a supernova! Ve…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1659916790502244352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 13:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>This so called 'infinity table' captured in the making is going around the Internet 
-
-[Logan Wilson: https://t.co/cxlhMzVlMw]. 
-
-What it's interesting is that it's inspired by the Silicon Graphics SGI logo visual illusion: https://t.co/UIJXXyAfXV https://t.co/YOf6dU4xZw</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659916886778281986</link>
-      <description>This so called 'infinity table' captured in the making is going around the Internet 
-
-[Logan Wilson: https://t.co/cxlhMzVlMw]. 
-
-What it's interesting is that it's inspired by the Silicon Graphics SGI logo visual illusion: https://t.co/UIJXXyAfXV https://t.co/YOf6dU4xZw</description>
-      <content:encoded>This so called 'infinity table' captured in the making is going around the Internet 
-
-[Logan Wilson: https://t.co/cxlhMzVlMw]. 
-
-What it's interesting is that it's inspired by the Silicon Graphics SGI logo visual illusion: https://t.co/UIJXXyAfXV https://t.co/YOf6dU4xZw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659916886778281986"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwkWw-0XsAAJotd.jpg" length="518" type="photo"/>
-      <pubDate>Sat, 20 May 2023 13:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visual Proof ✍️
-
-The sum of the squares of the first Fibonacci numbers up to  Fₙ  is the product of the nth and (n+1)th Fibonacci numbers.
-
-F₀² + F₁² + ... + Fₙ²   =   FₙFₙ₊₁
-
-where F₀=1. https://t.co/UBSCIjfWh7</title>
-      <link>https://twitter.com/fermatslibrary/status/1659921182253019139</link>
-      <description>Visual Proof ✍️
-
-The sum of the squares of the first Fibonacci numbers up to  Fₙ  is the product of the nth and (n+1)th Fibonacci numbers.
-
-F₀² + F₁² + ... + Fₙ²   =   FₙFₙ₊₁
-
-where F₀=1. https://t.co/UBSCIjfWh7</description>
-      <content:encoded>Visual Proof ✍️
-
-The sum of the squares of the first Fibonacci numbers up to  Fₙ  is the product of the nth and (n+1)th Fibonacci numbers.
-
-F₀² + F₁² + ... + Fₙ²   =   FₙFₙ₊₁
-
-where F₀=1. https://t.co/UBSCIjfWh7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1659921182253019139"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwk5hJHWAAAwXQ5.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 20 May 2023 13:57:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>The feet of geckos have a number of specializations. Find out the science behind their amazing capabilities 
-
-[read more: https://t.co/KZBJrp10NG]
-[📷: https://t.co/kSM5Z02kOQ] https://t.co/0eavjt26gp</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659921930047340545</link>
-      <description>The feet of geckos have a number of specializations. Find out the science behind their amazing capabilities 
-
-[read more: https://t.co/KZBJrp10NG]
-[📷: https://t.co/kSM5Z02kOQ] https://t.co/0eavjt26gp</description>
-      <content:encoded>The feet of geckos have a number of specializations. Find out the science behind their amazing capabilities 
-
-[read more: https://t.co/KZBJrp10NG]
-[📷: https://t.co/kSM5Z02kOQ] https://t.co/0eavjt26gp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659921930047340545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwkXEY0WAAIFTMD.jpg" length="649" type="photo"/>
-      <pubDate>Sat, 20 May 2023 14:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @leslievosshall: Did you know that @Columbia University was the last Ivy League to admit women? From 1754 - 1982 women were excluded. I…</title>
-      <link>https://twitter.com/AToliasLab/status/1659926351703416832</link>
-      <description>RT @leslievosshall: Did you know that @Columbia University was the last Ivy League to admit women? From 1754 - 1982 women were excluded. I…</description>
-      <content:encoded>RT @leslievosshall: Did you know that @Columbia University was the last Ivy League to admit women? From 1754 - 1982 women were excluded. I…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1659926351703416832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 20 May 2023 14:17:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 May 2023 03:18:15 +0000</lastBuildDate>
     <item>
       <title>The Philippine eagle is considered the largest of the extant eagles in the world in terms of length and wing surface. Being a critically endangered species, killing a Philippine eagle is punishable under Philippine law up to 12 years in prison [read more: https://t.co/tRX2pUFJp3] https://t.co/HU8lezrbYw</title>
       <link>https://twitter.com/Rainmaker1973/status/1659926953179185154</link>
@@ -2190,6 +2113,55 @@ Consumers’ emotional responses are the prime target for marketing commercials.
       <content:encoded>Sightseeing #Montreal https://t.co/CL3C2CP7ue&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1660470589507739648"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FwstMMlXoAALnsz.jpg" length="900" type="photo"/>
       <pubDate>Mon, 22 May 2023 02:20:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>New creation myth dropped, care of my 5 year old daughter.
+
+The planet is a giant's garbage bag, and the sun is where he burns the trash.
+
+Given the state of things, it makes a lot of sense.</title>
+      <link>https://twitter.com/NeuroBill/status/1660477489322561536</link>
+      <description>New creation myth dropped, care of my 5 year old daughter.
+
+The planet is a giant's garbage bag, and the sun is where he burns the trash.
+
+Given the state of things, it makes a lot of sense.</description>
+      <content:encoded>New creation myth dropped, care of my 5 year old daughter.
+
+The planet is a giant's garbage bag, and the sun is where he burns the trash.
+
+Given the state of things, it makes a lot of sense.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1660477489322561536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 22 May 2023 02:47:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Last minute weekend getaway to Niagara on the Lake... and a visit to the falls. https://t.co/F9opL0SUrQ</title>
+      <link>https://twitter.com/andpru/status/1660479060470890496</link>
+      <description>Last minute weekend getaway to Niagara on the Lake... and a visit to the falls. https://t.co/F9opL0SUrQ</description>
+      <content:encoded>Last minute weekend getaway to Niagara on the Lake... and a visit to the falls. https://t.co/F9opL0SUrQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1660479060470890496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fws05mMWYAAHCXE.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 22 May 2023 02:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @VPSHendriks: An artificial intelligence system trained on words and sentences alone will never approximate human understanding. | @ylec…</title>
+      <link>https://twitter.com/ylecun/status/1660481088353869825</link>
+      <description>RT @VPSHendriks: An artificial intelligence system trained on words and sentences alone will never approximate human understanding. | @ylec…</description>
+      <content:encoded>RT @VPSHendriks: An artificial intelligence system trained on words and sentences alone will never approximate human understanding. | @ylec…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1660481088353869825"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 22 May 2023 03:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>MIT senior Pam Stark and alumni Bhav Jain and Sreya Vangara are recipients of this year’s Knight-Hennessy Scholarship awards. The fellowship funds graduate studies for up to three years in any field at Stanford University. https://t.co/wN8KcVXlDT https://t.co/PyEc3No20e</title>
+      <link>https://twitter.com/MIT/status/1660481901247774726</link>
+      <description>MIT senior Pam Stark and alumni Bhav Jain and Sreya Vangara are recipients of this year’s Knight-Hennessy Scholarship awards. The fellowship funds graduate studies for up to three years in any field at Stanford University. https://t.co/wN8KcVXlDT https://t.co/PyEc3No20e</description>
+      <content:encoded>MIT senior Pam Stark and alumni Bhav Jain and Sreya Vangara are recipients of this year’s Knight-Hennessy Scholarship awards. The fellowship funds graduate studies for up to three years in any field at Stanford University. https://t.co/wN8KcVXlDT https://t.co/PyEc3No20e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1660481901247774726"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fws3fXYXgAESfab.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 22 May 2023 03:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>@ylecun AI systems are not people, they are human-made tools. Tools more capable than humans have been produced since the beginning of history. Tools themselves are nothing to be afraid of but humans also have a long history of using those tools to do things others fear.</title>
+      <link>https://twitter.com/partha_mitra/status/1660482940470538242</link>
+      <description>@ylecun AI systems are not people, they are human-made tools. Tools more capable than humans have been produced since the beginning of history. Tools themselves are nothing to be afraid of but humans also have a long history of using those tools to do things others fear.</description>
+      <content:encoded>@ylecun AI systems are not people, they are human-made tools. Tools more capable than humans have been produced since the beginning of history. Tools themselves are nothing to be afraid of but humans also have a long history of using those tools to do things others fear.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/partha_mitra/status/1660482940470538242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 22 May 2023 03:09:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
