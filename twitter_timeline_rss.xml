@@ -6,15 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 May 2023 03:18:15 +0000</lastBuildDate>
-    <item>
-      <title>The Philippine eagle is considered the largest of the extant eagles in the world in terms of length and wing surface. Being a critically endangered species, killing a Philippine eagle is punishable under Philippine law up to 12 years in prison [read more: https://t.co/tRX2pUFJp3] https://t.co/HU8lezrbYw</title>
-      <link>https://twitter.com/Rainmaker1973/status/1659926953179185154</link>
-      <description>The Philippine eagle is considered the largest of the extant eagles in the world in terms of length and wing surface. Being a critically endangered species, killing a Philippine eagle is punishable under Philippine law up to 12 years in prison [read more: https://t.co/tRX2pUFJp3] https://t.co/HU8lezrbYw</description>
-      <content:encoded>The Philippine eagle is considered the largest of the extant eagles in the world in terms of length and wing surface. Being a critically endangered species, killing a Philippine eagle is punishable under Philippine law up to 12 years in prison [read more: https://t.co/tRX2pUFJp3] https://t.co/HU8lezrbYw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1659926953179185154"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwkXQ-uWYAYFzPL.jpg" length="548" type="photo"/>
-      <pubDate>Sat, 20 May 2023 14:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 May 2023 04:19:35 +0000</lastBuildDate>
     <item>
       <title>A deep learning algorithm predicts the risk of pancreatic cancer from pre-cancer disease trajectories up to three years in advance, showing promising performance in retrospective validation, according to a @NatureMedicine paper. https://t.co/TUHkxdMhXE https://t.co/ecSmWvhy0T</title>
       <link>https://twitter.com/NaturePortfolio/status/1659928233737846784</link>
@@ -2162,6 +2154,13 @@ Given the state of things, it makes a lot of sense.&lt;blockquote class="twitter
       <description>@ylecun AI systems are not people, they are human-made tools. Tools more capable than humans have been produced since the beginning of history. Tools themselves are nothing to be afraid of but humans also have a long history of using those tools to do things others fear.</description>
       <content:encoded>@ylecun AI systems are not people, they are human-made tools. Tools more capable than humans have been produced since the beginning of history. Tools themselves are nothing to be afraid of but humans also have a long history of using those tools to do things others fear.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/partha_mitra/status/1660482940470538242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 22 May 2023 03:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @burgwx: The recent surge in Canadian wildfire activity underneath a highly stagnant anomalous ridge has resulted in smoke overspreading…</title>
+      <link>https://twitter.com/NeuroBill/status/1660492304363433984</link>
+      <description>RT @burgwx: The recent surge in Canadian wildfire activity underneath a highly stagnant anomalous ridge has resulted in smoke overspreading…</description>
+      <content:encoded>RT @burgwx: The recent surge in Canadian wildfire activity underneath a highly stagnant anomalous ridge has resulted in smoke overspreading…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1660492304363433984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 22 May 2023 03:46:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
