@@ -6,85 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 May 2023 18:19:34 +0000</lastBuildDate>
-    <item>
-      <title>RT @adhiraj_goel: okay what an amazing talk and demonstration by @stephaniehicks !! 🧠🧠 https://t.co/FCnhhrGzQ5</title>
-      <link>https://twitter.com/rhuganir/status/1660822597251252225</link>
-      <description>RT @adhiraj_goel: okay what an amazing talk and demonstration by @stephaniehicks !! 🧠🧠 https://t.co/FCnhhrGzQ5</description>
-      <content:encoded>RT @adhiraj_goel: okay what an amazing talk and demonstration by @stephaniehicks !! 🧠🧠 https://t.co/FCnhhrGzQ5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1660822597251252225"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwvtJ3SaAAAPbVJ.jpg" length="900" type="photo"/>
-      <pubDate>Tue, 23 May 2023 01:38:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mike_schatz: Awesome first talk by @timp0 for the @JHU_BDPs Epigenome Sciences Symposium on ‘Single Molecule Epigenetics: at large and…</title>
-      <link>https://twitter.com/rhuganir/status/1660822759356891137</link>
-      <description>RT @mike_schatz: Awesome first talk by @timp0 for the @JHU_BDPs Epigenome Sciences Symposium on ‘Single Molecule Epigenetics: at large and…</description>
-      <content:encoded>RT @mike_schatz: Awesome first talk by @timp0 for the @JHU_BDPs Epigenome Sciences Symposium on ‘Single Molecule Epigenetics: at large and…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1660822759356891137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 01:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Glial cells: an important switch for the vascular function of the central nervous system: In this review, we first describe the current understanding of glial-mediated vascular function affecting the role of the blood-brain… #neuroscience https://t.co/mvZ1GhLS5e</title>
-      <link>https://twitter.com/FrontNeurosci/status/1660829791405346816</link>
-      <description>New Research: Glial cells: an important switch for the vascular function of the central nervous system: In this review, we first describe the current understanding of glial-mediated vascular function affecting the role of the blood-brain… #neuroscience https://t.co/mvZ1GhLS5e</description>
-      <content:encoded>New Research: Glial cells: an important switch for the vascular function of the central nervous system: In this review, we first describe the current understanding of glial-mediated vascular function affecting the role of the blood-brain… #neuroscience https://t.co/mvZ1GhLS5e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1660829791405346816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 02:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Anand_Ganesan1: /1 🧵A highlight of #HRS2023 was interaction between views.
-
-A long standing divergence in AF mechanisms is between dete…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1660838414575452167</link>
-      <description>RT @Anand_Ganesan1: /1 🧵A highlight of #HRS2023 was interaction between views.
-
-A long standing divergence in AF mechanisms is between dete…</description>
-      <content:encoded>RT @Anand_Ganesan1: /1 🧵A highlight of #HRS2023 was interaction between views.
-
-A long standing divergence in AF mechanisms is between dete…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1660838414575452167"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 02:41:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rooting for success. https://t.co/sM0tL9dDWk</title>
-      <link>https://twitter.com/AndrewHires/status/1660838890738003968</link>
-      <description>Rooting for success. https://t.co/sM0tL9dDWk</description>
-      <content:encoded>Rooting for success. https://t.co/sM0tL9dDWk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1660838890738003968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 02:43:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @lyndoryndo: Come see my poster at #VSS2023 Tuesday AM about Plenoptic, our new software library for exploring + testing model perceptio…</title>
-      <link>https://twitter.com/jdlieber/status/1660840102166159360</link>
-      <description>RT @lyndoryndo: Come see my poster at #VSS2023 Tuesday AM about Plenoptic, our new software library for exploring + testing model perceptio…</description>
-      <content:encoded>RT @lyndoryndo: Come see my poster at #VSS2023 Tuesday AM about Plenoptic, our new software library for exploring + testing model perceptio…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jdlieber/status/1660840102166159360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 02:48:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HayleyBounds: Does recovery of task performance after lesion of a brain region mean that region was never really involved? In our new p…</title>
-      <link>https://twitter.com/AndrewHires/status/1660841289653579776</link>
-      <description>RT @HayleyBounds: Does recovery of task performance after lesion of a brain region mean that region was never really involved? In our new p…</description>
-      <content:encoded>RT @HayleyBounds: Does recovery of task performance after lesion of a brain region mean that region was never really involved? In our new p…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1660841289653579776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 02:53:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new @SciImmunology study in mice investigates the developmental origins of CD4+ tissue resident memory cells, identifying a potential precursor population in the small intestine.
-
-Read more: https://t.co/9lS38eDFN3 https://t.co/PXHjC31AYC</title>
-      <link>https://twitter.com/ScienceMagazine/status/1660843014384697345</link>
-      <description>A new @SciImmunology study in mice investigates the developmental origins of CD4+ tissue resident memory cells, identifying a potential precursor population in the small intestine.
-
-Read more: https://t.co/9lS38eDFN3 https://t.co/PXHjC31AYC</description>
-      <content:encoded>A new @SciImmunology study in mice investigates the developmental origins of CD4+ tissue resident memory cells, identifying a potential precursor population in the small intestine.
-
-Read more: https://t.co/9lS38eDFN3 https://t.co/PXHjC31AYC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1660843014384697345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwx_65EWYAAAcqd.jpg" length="911" type="photo"/>
-      <pubDate>Tue, 23 May 2023 03:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stop by tomorrow at #VSS2023 (Tuesday PM, 56.415) to see how macaque V4 responds to stuff, things, and everything in-between! https://t.co/0ZKtyydmKb</title>
-      <link>https://twitter.com/jdlieber/status/1660843127849074689</link>
-      <description>Stop by tomorrow at #VSS2023 (Tuesday PM, 56.415) to see how macaque V4 responds to stuff, things, and everything in-between! https://t.co/0ZKtyydmKb</description>
-      <content:encoded>Stop by tomorrow at #VSS2023 (Tuesday PM, 56.415) to see how macaque V4 responds to stuff, things, and everything in-between! https://t.co/0ZKtyydmKb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jdlieber/status/1660843127849074689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwx-p-EWYAIM9Me.png" length="1200" type="photo"/>
-      <pubDate>Tue, 23 May 2023 03:00:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 May 2023 19:13:48 +0000</lastBuildDate>
     <item>
       <title>Joker!</title>
       <link>https://twitter.com/andpru/status/1660847126622945285</link>
@@ -2344,6 +2266,100 @@ https://t.co/Q70hPTqHwK</description>
 https://t.co/Q70hPTqHwK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661073771929714689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1491281973028917248/pu/img/wpqeGEFiSYN8Q1Zv.jpg" length="675" type="photo"/>
       <pubDate>Tue, 23 May 2023 18:17:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Science is a diverse endeavour"🤗💛🌈(quote from the Max Planck Society's Code of Conduct) #DiversityDay https://t.co/uwnfBaJMdn</title>
+      <link>https://twitter.com/maxplanckpress/status/1661074867301625856</link>
+      <description>"Science is a diverse endeavour"🤗💛🌈(quote from the Max Planck Society's Code of Conduct) #DiversityDay https://t.co/uwnfBaJMdn</description>
+      <content:encoded>"Science is a diverse endeavour"🤗💛🌈(quote from the Max Planck Society's Code of Conduct) #DiversityDay https://t.co/uwnfBaJMdn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1661074867301625856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw1LqlXXwEYDhwc.jpg" length="1024" type="photo"/>
+      <pubDate>Tue, 23 May 2023 18:21:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @cppape: Introducing #SegmentAnything for microscopy, our napari based tools for interactive microscopy annotation: https://t.co/qbds1or…</title>
+      <link>https://twitter.com/FitzpatrickLab/status/1661078569403965440</link>
+      <description>RT @cppape: Introducing #SegmentAnything for microscopy, our napari based tools for interactive microscopy annotation: https://t.co/qbds1or…</description>
+      <content:encoded>RT @cppape: Introducing #SegmentAnything for microscopy, our napari based tools for interactive microscopy annotation: https://t.co/qbds1or…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1661078569403965440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 18:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @NatRevNeph provides an overview of the basis of autoimmune disease with a focus on autoantibodies, given their valuable role as markers for diagnosis, classification and of disease activity. 🔒 https://t.co/6GZdtDLAwR https://t.co/xrk7Cr8X72</title>
+      <link>https://twitter.com/NaturePortfolio/status/1661079821869301775</link>
+      <description>A Review in @NatRevNeph provides an overview of the basis of autoimmune disease with a focus on autoantibodies, given their valuable role as markers for diagnosis, classification and of disease activity. 🔒 https://t.co/6GZdtDLAwR https://t.co/xrk7Cr8X72</description>
+      <content:encoded>A Review in @NatRevNeph provides an overview of the basis of autoimmune disease with a focus on autoantibodies, given their valuable role as markers for diagnosis, classification and of disease activity. 🔒 https://t.co/6GZdtDLAwR https://t.co/xrk7Cr8X72&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1661079821869301775"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw1XRzqWwA8MnRV.jpg" length="1066" type="photo"/>
+      <pubDate>Tue, 23 May 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Danny Huynh's animatronics are not just for looks: this is a fully operational RC vehicle (with a GoPro)
+
+[source: https://t.co/Vhgpo9MP1P]
+https://t.co/lXrj6Jzb11</title>
+      <link>https://twitter.com/Rainmaker1973/status/1661082106552827905</link>
+      <description>Danny Huynh's animatronics are not just for looks: this is a fully operational RC vehicle (with a GoPro)
+
+[source: https://t.co/Vhgpo9MP1P]
+https://t.co/lXrj6Jzb11</description>
+      <content:encoded>Danny Huynh's animatronics are not just for looks: this is a fully operational RC vehicle (with a GoPro)
+
+[source: https://t.co/Vhgpo9MP1P]
+https://t.co/lXrj6Jzb11&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661082106552827905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1660723555821309953/pu/img/C3bplfZGJfJFvdkD.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 23 May 2023 18:50:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>The lack of #reproducibility in #scientificresearch causes delays and wasteful spending in many labs. @sciscore tackles this issue by verifying reporting #standards, reducing incompleteness, and boosting experimental reproducibility. #RRID #OpenScience  https://t.co/dAAj4kCwwp</title>
+      <link>https://twitter.com/neuinfo/status/1661082108134055937</link>
+      <description>The lack of #reproducibility in #scientificresearch causes delays and wasteful spending in many labs. @sciscore tackles this issue by verifying reporting #standards, reducing incompleteness, and boosting experimental reproducibility. #RRID #OpenScience  https://t.co/dAAj4kCwwp</description>
+      <content:encoded>The lack of #reproducibility in #scientificresearch causes delays and wasteful spending in many labs. @sciscore tackles this issue by verifying reporting #standards, reducing incompleteness, and boosting experimental reproducibility. #RRID #OpenScience  https://t.co/dAAj4kCwwp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuinfo/status/1661082108134055937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 18:50:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>@neurograce Here's a great course page I found a curated reference list: https://t.co/0uv1J888Hf</title>
+      <link>https://twitter.com/patrickmineault/status/1661083458980966400</link>
+      <description>@neurograce Here's a great course page I found a curated reference list: https://t.co/0uv1J888Hf</description>
+      <content:encoded>@neurograce Here's a great course page I found a curated reference list: https://t.co/0uv1J888Hf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661083458980966400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 18:55:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Effect and mechanisms of exercise for complex regional pain syndrome: Complex regional pain syndrome characterized by severe pain and dysfunction seriously affects patients’ quality of life. Exercise therapy is… #Molecular #Neuroscience https://t.co/9lZsoJMrJw</title>
+      <link>https://twitter.com/FrontNeurosci/status/1661085600974503936</link>
+      <description>New Research: Effect and mechanisms of exercise for complex regional pain syndrome: Complex regional pain syndrome characterized by severe pain and dysfunction seriously affects patients’ quality of life. Exercise therapy is… #Molecular #Neuroscience https://t.co/9lZsoJMrJw</description>
+      <content:encoded>New Research: Effect and mechanisms of exercise for complex regional pain syndrome: Complex regional pain syndrome characterized by severe pain and dysfunction seriously affects patients’ quality of life. Exercise therapy is… #Molecular #Neuroscience https://t.co/9lZsoJMrJw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1661085600974503936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 19:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Considering a multiplex immunofluorescence experiment? Read our latest Antibodies 101 post to get started! 
+
+https://t.co/Z5OPlFjtW0</title>
+      <link>https://twitter.com/Addgene/status/1661086091573706752</link>
+      <description>Considering a multiplex immunofluorescence experiment? Read our latest Antibodies 101 post to get started! 
+
+https://t.co/Z5OPlFjtW0</description>
+      <content:encoded>Considering a multiplex immunofluorescence experiment? Read our latest Antibodies 101 post to get started! 
+
+https://t.co/Z5OPlFjtW0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1661086091573706752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 19:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don't miss this opportunity to shape the future of our products! 🚀 Sign up now to participate in our UX Research and help us make your experience even better.
+
+Get started 👉 https://t.co/W0Ssf1QSZs
+
+#UX #UserExperience https://t.co/hvkowOgIbj</title>
+      <link>https://twitter.com/MATLAB/status/1661087859225362432</link>
+      <description>Don't miss this opportunity to shape the future of our products! 🚀 Sign up now to participate in our UX Research and help us make your experience even better.
+
+Get started 👉 https://t.co/W0Ssf1QSZs
+
+#UX #UserExperience https://t.co/hvkowOgIbj</description>
+      <content:encoded>Don't miss this opportunity to shape the future of our products! 🚀 Sign up now to participate in our UX Research and help us make your experience even better.
+
+Get started 👉 https://t.co/W0Ssf1QSZs
+
+#UX #UserExperience https://t.co/hvkowOgIbj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1661087859225362432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw1empZWwAUPOQe.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 23 May 2023 19:13:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
