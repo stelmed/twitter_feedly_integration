@@ -6,7 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 May 2023 03:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 04:18:51 +0000</lastBuildDate>
     <item>
       <title>A new paper posits that the electrical fields of neural networks influence the physical configuration of neurons’ sub-cellular components to optimize network stability and efficiency, a hypothesis called “Cytoelectric Coupling.” https://t.co/5q20Jg8dCQ @ScienceMIT #neuroscience</title>
       <link>https://twitter.com/MIT_Picower/status/1660632326920097794</link>
@@ -366,23 +366,6 @@ Join us in June in LA for an amazing interdisciplinary conference
 
 Fab line up of rock stars 😎…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1660659415173718019"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 22 May 2023 14:50:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is how a troop of Langur Monkeys show empathetic behaviour as they mourn what they think is a dead baby, which is actually a robotic spy monkey, designed to film them. At the point they hug and console each other 
-
-[📹 BBC: https://t.co/K66chHHIL7]
-https://t.co/seE9ov9LMX</title>
-      <link>https://twitter.com/Rainmaker1973/status/1660660083661971457</link>
-      <description>This is how a troop of Langur Monkeys show empathetic behaviour as they mourn what they think is a dead baby, which is actually a robotic spy monkey, designed to film them. At the point they hug and console each other 
-
-[📹 BBC: https://t.co/K66chHHIL7]
-https://t.co/seE9ov9LMX</description>
-      <content:encoded>This is how a troop of Langur Monkeys show empathetic behaviour as they mourn what they think is a dead baby, which is actually a robotic spy monkey, designed to film them. At the point they hug and console each other 
-
-[📹 BBC: https://t.co/K66chHHIL7]
-https://t.co/seE9ov9LMX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660660083661971457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1609868786185682944/pu/img/TebVu9MMW6kQt624.jpg" length="960" type="photo"/>
-      <pubDate>Mon, 22 May 2023 14:53:12 +0000</pubDate>
     </item>
     <item>
       <title>Researchers trained a text-to-image model to generate 3D images without using any 3D training data. 
@@ -2018,6 +2001,19 @@ Read more: https://t.co/9lS38eDFN3 https://t.co/PXHjC31AYC&lt;blockquote class="
       <description>Joker!</description>
       <content:encoded>Joker!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1660847126622945285"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 23 May 2023 03:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @GoogleDevEurope: Missed our #GoogleIO Twitter Space? We’ve got you covered! Dive into this live recording and find out:
+
+🤩 what our spe…</title>
+      <link>https://twitter.com/TensorFlow/status/1660847573295398912</link>
+      <description>RT @GoogleDevEurope: Missed our #GoogleIO Twitter Space? We’ve got you covered! Dive into this live recording and find out:
+
+🤩 what our spe…</description>
+      <content:encoded>RT @GoogleDevEurope: Missed our #GoogleIO Twitter Space? We’ve got you covered! Dive into this live recording and find out:
+
+🤩 what our spe…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1660847573295398912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 03:18:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
