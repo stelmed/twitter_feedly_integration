@@ -6,72 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 May 2023 23:16:09 +0000</lastBuildDate>
-    <item>
-      <title>Red hot metal ball melting through a jawbreaker
-
-[📹 floridafoxanthillart: https://t.co/9F7gtMFHOG]
-https://t.co/7f0WVftzo5</title>
-      <link>https://twitter.com/Rainmaker1973/status/1660607054111813633</link>
-      <description>Red hot metal ball melting through a jawbreaker
-
-[📹 floridafoxanthillart: https://t.co/9F7gtMFHOG]
-https://t.co/7f0WVftzo5</description>
-      <content:encoded>Red hot metal ball melting through a jawbreaker
-
-[📹 floridafoxanthillart: https://t.co/9F7gtMFHOG]
-https://t.co/7f0WVftzo5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660607054111813633"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1660556051790417922/img/OP_MUxK3j7EYehyZ.jpg" length="402" type="photo"/>
-      <pubDate>Mon, 22 May 2023 11:22:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @FENSorg: Hurry, as today is the last day to submit your proposals for symposia and technical workshops! The #FENS Forum is the perfect…</title>
-      <link>https://twitter.com/INCForg/status/1660610960510312448</link>
-      <description>RT @FENSorg: Hurry, as today is the last day to submit your proposals for symposia and technical workshops! The #FENS Forum is the perfect…</description>
-      <content:encoded>RT @FENSorg: Hurry, as today is the last day to submit your proposals for symposia and technical workshops! The #FENS Forum is the perfect…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1660610960510312448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 11:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#JobOpportunity https://t.co/VAkXGKWH0N</title>
-      <link>https://twitter.com/INCForg/status/1660611109995401217</link>
-      <description>#JobOpportunity https://t.co/VAkXGKWH0N</description>
-      <content:encoded>#JobOpportunity https://t.co/VAkXGKWH0N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1660611109995401217"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 11:38:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daizyu Watanabe wrote this computer program using OpenCV, capable of understanding a Rubik cube's current status, offering a hint on what the next move should be 
-
-[source: https://t.co/iaSGbTMSuH]
-https://t.co/aNWq1oO9Pz</title>
-      <link>https://twitter.com/Rainmaker1973/status/1660612104364122113</link>
-      <description>Daizyu Watanabe wrote this computer program using OpenCV, capable of understanding a Rubik cube's current status, offering a hint on what the next move should be 
-
-[source: https://t.co/iaSGbTMSuH]
-https://t.co/aNWq1oO9Pz</description>
-      <content:encoded>Daizyu Watanabe wrote this computer program using OpenCV, capable of understanding a Rubik cube's current status, offering a hint on what the next move should be 
-
-[source: https://t.co/iaSGbTMSuH]
-https://t.co/aNWq1oO9Pz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660612104364122113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1350149536665231369/pu/img/hI6kyh_2FER9rpFL.jpg" length="960" type="photo"/>
-      <pubDate>Mon, 22 May 2023 11:42:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ABC3D by Marion Bataille is as much a work of art as it is a pop-up book. Each of the 26 three-dimensional letters move and change before your eyes
-
-[more: https://t.co/wT5c5hE3Sn]
-https://t.co/pchnD8xFri</title>
-      <link>https://twitter.com/Rainmaker1973/status/1660616173220708352</link>
-      <description>ABC3D by Marion Bataille is as much a work of art as it is a pop-up book. Each of the 26 three-dimensional letters move and change before your eyes
-
-[more: https://t.co/wT5c5hE3Sn]
-https://t.co/pchnD8xFri</description>
-      <content:encoded>ABC3D by Marion Bataille is as much a work of art as it is a pop-up book. Each of the 26 three-dimensional letters move and change before your eyes
-
-[more: https://t.co/wT5c5hE3Sn]
-https://t.co/pchnD8xFri&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660616173220708352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1609594195987107842/pu/img/cds0652YZN6AldV6.jpg" length="720" type="photo"/>
-      <pubDate>Mon, 22 May 2023 11:58:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 May 2023 01:22:20 +0000</lastBuildDate>
     <item>
       <title>Each conservation law is associated with a symmetry in the underlying physics (Noether's Theorem):
 ‣ Translation Symmetry in Space ➡️ Conservation of Momentum
@@ -2017,6 +1952,73 @@ https://t.co/kiMAi1AYrz https://t.co/HpvZVPFCyP&lt;blockquote class="twitter-twe
       <description>Neuronal composition of processing modules in human V1: laminar density for neuronal and non-neuronal populations and a comparison ...  https://t.co/xdX3Ax7Q2H #biorxiv_neursci</description>
       <content:encoded>Neuronal composition of processing modules in human V1: laminar density for neuronal and non-neuronal populations and a comparison ...  https://t.co/xdX3Ax7Q2H #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660786501204992002"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 22 May 2023 23:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @ReviewCommons of 👉🏿 Inversely proportional myelin growth due to altered Pmp22 gene dosage identifies PI3K/Akt/mTOR signaling as a novel therapeutic target in HNPP  https://t.co/2sPHPLgICR #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1660791524945276931</link>
+      <description>#PeerReview from @ReviewCommons of 👉🏿 Inversely proportional myelin growth due to altered Pmp22 gene dosage identifies PI3K/Akt/mTOR signaling as a novel therapeutic target in HNPP  https://t.co/2sPHPLgICR #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @ReviewCommons of 👉🏿 Inversely proportional myelin growth due to altered Pmp22 gene dosage identifies PI3K/Akt/mTOR signaling as a novel therapeutic target in HNPP  https://t.co/2sPHPLgICR #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660791524945276931"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 22 May 2023 23:35:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AWS_Gov: 🎙 Don’t miss the @AllenInstitute's Ed Lein discuss how #AWS helps map the human brain 🧠. Register for the #AWSSummit Washingto…</title>
+      <link>https://twitter.com/AllenInstitute/status/1660797692736413700</link>
+      <description>RT @AWS_Gov: 🎙 Don’t miss the @AllenInstitute's Ed Lein discuss how #AWS helps map the human brain 🧠. Register for the #AWSSummit Washingto…</description>
+      <content:encoded>RT @AWS_Gov: 🎙 Don’t miss the @AllenInstitute's Ed Lein discuss how #AWS helps map the human brain 🧠. Register for the #AWSSummit Washingto…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1660797692736413700"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Scoping out noisy galvanic vestibular stimulation: a review of the parameters used to improve postural control: Objective
+
+Noisy galvanic vestibular stimulation (nGVS) has been used to facilitate vestibular function and… #Neuroscience https://t.co/jnUov0HWEC</title>
+      <link>https://twitter.com/FrontNeurosci/status/1660797827046580226</link>
+      <description>New Research: Scoping out noisy galvanic vestibular stimulation: a review of the parameters used to improve postural control: Objective
+
+Noisy galvanic vestibular stimulation (nGVS) has been used to facilitate vestibular function and… #Neuroscience https://t.co/jnUov0HWEC</description>
+      <content:encoded>New Research: Scoping out noisy galvanic vestibular stimulation: a review of the parameters used to improve postural control: Objective
+
+Noisy galvanic vestibular stimulation (nGVS) has been used to facilitate vestibular function and… #Neuroscience https://t.co/jnUov0HWEC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1660797827046580226"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 00:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @neurovium: A review @NatRevPhys
+From @DimaKrotov
+https://t.co/7gBfscyaGF</title>
+      <link>https://twitter.com/patrickmineault/status/1660805283797516288</link>
+      <description>RT @neurovium: A review @NatRevPhys
+From @DimaKrotov
+https://t.co/7gBfscyaGF</description>
+      <content:encoded>RT @neurovium: A review @NatRevPhys
+From @DimaKrotov
+https://t.co/7gBfscyaGF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1660805283797516288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 00:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ad astra, stem cells! 🧫🚀🛰️ 
+
+On Sunday, as part of a study led by @CedarsSinaiMed researchers @CliveSvendsen and @ArunSharmaPhD, one of our #StemCell lines went into space for the first time ever! Learn more: https://t.co/SZY4Eg5Ftn 
+
+@Axiom_Space @SpaceX @CedarsSinai https://t.co/5R55O5lD6u</title>
+      <link>https://twitter.com/AllenInstitute/status/1660816496438788102</link>
+      <description>Ad astra, stem cells! 🧫🚀🛰️ 
+
+On Sunday, as part of a study led by @CedarsSinaiMed researchers @CliveSvendsen and @ArunSharmaPhD, one of our #StemCell lines went into space for the first time ever! Learn more: https://t.co/SZY4Eg5Ftn 
+
+@Axiom_Space @SpaceX @CedarsSinai https://t.co/5R55O5lD6u</description>
+      <content:encoded>Ad astra, stem cells! 🧫🚀🛰️ 
+
+On Sunday, as part of a study led by @CedarsSinaiMed researchers @CliveSvendsen and @ArunSharmaPhD, one of our #StemCell lines went into space for the first time ever! Learn more: https://t.co/SZY4Eg5Ftn 
+
+@Axiom_Space @SpaceX @CedarsSinai https://t.co/5R55O5lD6u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1660816496438788102"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwxnxjxX0AQyknc.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 23 May 2023 01:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: SNAP25 differentially contributes to Gi/o-coupled receptor function at glutamatergic synapses in the nucleus accumbens: The nucleus accumbens (NAc) guides reward-related motivated behavior implicated in pathological behavioral… #neuroscience https://t.co/x3QkL0CpBE</title>
+      <link>https://twitter.com/FrontNeurosci/status/1660816704010878976</link>
+      <description>New Research: SNAP25 differentially contributes to Gi/o-coupled receptor function at glutamatergic synapses in the nucleus accumbens: The nucleus accumbens (NAc) guides reward-related motivated behavior implicated in pathological behavioral… #neuroscience https://t.co/x3QkL0CpBE</description>
+      <content:encoded>New Research: SNAP25 differentially contributes to Gi/o-coupled receptor function at glutamatergic synapses in the nucleus accumbens: The nucleus accumbens (NAc) guides reward-related motivated behavior implicated in pathological behavioral… #neuroscience https://t.co/x3QkL0CpBE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1660816704010878976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 01:15:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
