@@ -6,164 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 May 2023 08:19:59 +0000</lastBuildDate>
-    <item>
-      <title>RT @narayananlab: Save the date:
-The next Computational Properties of Prefrontal Cortex workshop will be May 15-17th 2024 at NIH in Bethesd…</title>
-      <link>https://twitter.com/PessoaBrain/status/1660658828080214019</link>
-      <description>RT @narayananlab: Save the date:
-The next Computational Properties of Prefrontal Cortex workshop will be May 15-17th 2024 at NIH in Bethesd…</description>
-      <content:encoded>RT @narayananlab: Save the date:
-The next Computational Properties of Prefrontal Cortex workshop will be May 15-17th 2024 at NIH in Bethesd…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1660658828080214019"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 14:48:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AnnaCiaunica: Final program now out ! 
-
-Join us in June in LA for an amazing interdisciplinary conference 
-
-Fab line up of rock stars 😎…</title>
-      <link>https://twitter.com/PessoaBrain/status/1660659415173718019</link>
-      <description>RT @AnnaCiaunica: Final program now out ! 
-
-Join us in June in LA for an amazing interdisciplinary conference 
-
-Fab line up of rock stars 😎…</description>
-      <content:encoded>RT @AnnaCiaunica: Final program now out ! 
-
-Join us in June in LA for an amazing interdisciplinary conference 
-
-Fab line up of rock stars 😎…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1660659415173718019"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 14:50:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers trained a text-to-image model to generate 3D images without using any 3D training data. 
-
-Learn how they did it with our paper summary in #TheBatch: https://t.co/XSuRHpDc1j</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1660661796334718978</link>
-      <description>Researchers trained a text-to-image model to generate 3D images without using any 3D training data. 
-
-Learn how they did it with our paper summary in #TheBatch: https://t.co/XSuRHpDc1j</description>
-      <content:encoded>Researchers trained a text-to-image model to generate 3D images without using any 3D training data. 
-
-Learn how they did it with our paper summary in #TheBatch: https://t.co/XSuRHpDc1j&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1660661796334718978"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new @SciRobotics Viewpoint presents a conceptual framework to improve sensing, haptics, and dexterity of robotic devices by integration with human users. https://t.co/Ek9l0DI8aw https://t.co/mNSBA3ZRiM</title>
-      <link>https://twitter.com/ScienceMagazine/status/1660661979382415362</link>
-      <description>A new @SciRobotics Viewpoint presents a conceptual framework to improve sensing, haptics, and dexterity of robotic devices by integration with human users. https://t.co/Ek9l0DI8aw https://t.co/mNSBA3ZRiM</description>
-      <content:encoded>A new @SciRobotics Viewpoint presents a conceptual framework to improve sensing, haptics, and dexterity of robotic devices by integration with human users. https://t.co/Ek9l0DI8aw https://t.co/mNSBA3ZRiM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1660661979382415362"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FwvbROyWYAEmGLi.jpg" length="900" type="photo"/>
-      <pubDate>Mon, 22 May 2023 15:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>4ActiveSystems offers highly automated robotic platforms for future ADAS and Autonomous Driving (AD) testing
-
-[video, read more: https://t.co/FZBpX7Ut1G]
-https://t.co/hL8AIBN47B</title>
-      <link>https://twitter.com/Rainmaker1973/status/1660664624285401088</link>
-      <description>4ActiveSystems offers highly automated robotic platforms for future ADAS and Autonomous Driving (AD) testing
-
-[video, read more: https://t.co/FZBpX7Ut1G]
-https://t.co/hL8AIBN47B</description>
-      <content:encoded>4ActiveSystems offers highly automated robotic platforms for future ADAS and Autonomous Driving (AD) testing
-
-[video, read more: https://t.co/FZBpX7Ut1G]
-https://t.co/hL8AIBN47B&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660664624285401088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1660398250732720128/pu/img/PbnYvVlaJNW_CEvX.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 22 May 2023 15:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Article: Single Exosome Amperometric Measurements Reveal Encapsulation of Chemical Messengers for Intercellular Communication #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #chemistry #science https://t.co/w9EYqRyyTT https://t.co/7eKyD7bb2l</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1660664757425168391</link>
-      <description>Article: Single Exosome Amperometric Measurements Reveal Encapsulation of Chemical Messengers for Intercellular Communication #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #chemistry #science https://t.co/w9EYqRyyTT https://t.co/7eKyD7bb2l</description>
-      <content:encoded>Article: Single Exosome Amperometric Measurements Reveal Encapsulation of Chemical Messengers for Intercellular Communication #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #chemistry #science https://t.co/w9EYqRyyTT https://t.co/7eKyD7bb2l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1660664757425168391"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 15:11:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ZhousLab: We made the world's first wood xerogel https://t.co/9Q4xl06fXE and demonstrated its high performance and application in Trans…</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1660664956822466562</link>
-      <description>RT @ZhousLab: We made the world's first wood xerogel https://t.co/9Q4xl06fXE and demonstrated its high performance and application in Trans…</description>
-      <content:encoded>RT @ZhousLab: We made the world's first wood xerogel https://t.co/9Q4xl06fXE and demonstrated its high performance and application in Trans…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1660664956822466562"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 15:12:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @dimitrispp: In a new paper below , we suggest that information processing shapes the metabolic, potential, chemical and electric energy…</title>
-      <link>https://twitter.com/MIT_Picower/status/1660667773867941888</link>
-      <description>RT @dimitrispp: In a new paper below , we suggest that information processing shapes the metabolic, potential, chemical and electric energy…</description>
-      <content:encoded>RT @dimitrispp: In a new paper below , we suggest that information processing shapes the metabolic, potential, chemical and electric energy…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1660667773867941888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 15:23:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ZijiaoC: 🧵🧠 We're witnessing incredible scientific progress in image &amp;amp; text reconstruction from fMRI nowadays. But what about reconstru…</title>
-      <link>https://twitter.com/patrickmineault/status/1660667943217254401</link>
-      <description>RT @ZijiaoC: 🧵🧠 We're witnessing incredible scientific progress in image &amp;amp; text reconstruction from fMRI nowadays. But what about reconstru…</description>
-      <content:encoded>RT @ZijiaoC: 🧵🧠 We're witnessing incredible scientific progress in image &amp;amp; text reconstruction from fMRI nowadays. But what about reconstru…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1660667943217254401"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 15:24:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @aran_nayebi: 1/ How do humans and animals form models of their world?
-
-We find that Foundation Models for Embodied AI may provide a fra…</title>
-      <link>https://twitter.com/patrickmineault/status/1660668553215746049</link>
-      <description>RT @aran_nayebi: 1/ How do humans and animals form models of their world?
-
-We find that Foundation Models for Embodied AI may provide a fra…</description>
-      <content:encoded>RT @aran_nayebi: 1/ How do humans and animals form models of their world?
-
-We find that Foundation Models for Embodied AI may provide a fra…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1660668553215746049"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 15:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>INTERCEPTOR 006: We’re wasting no time in Guatemala. 🇬🇹
-
-As we assemble the Interceptor Barricade, we’re removing the trash that’s already built up to free up space. We’re hoping to capture many times more once the floods arrive and Interceptor 006 is fully operational. https://t.co/bBboHmfPkh</title>
-      <link>https://twitter.com/TheOceanCleanup/status/1660668738155290627</link>
-      <description>INTERCEPTOR 006: We’re wasting no time in Guatemala. 🇬🇹
-
-As we assemble the Interceptor Barricade, we’re removing the trash that’s already built up to free up space. We’re hoping to capture many times more once the floods arrive and Interceptor 006 is fully operational. https://t.co/bBboHmfPkh</description>
-      <content:encoded>INTERCEPTOR 006: We’re wasting no time in Guatemala. 🇬🇹
-
-As we assemble the Interceptor Barricade, we’re removing the trash that’s already built up to free up space. We’re hoping to capture many times more once the floods arrive and Interceptor 006 is fully operational. https://t.co/bBboHmfPkh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheOceanCleanup/status/1660668738155290627"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1660668632257511426/pu/img/nOAnacNRlkeFVxSE.jpg" length="720" type="photo"/>
-      <pubDate>Mon, 22 May 2023 15:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>A @Nature News Explainer discusses a report that suggests the planet will reach 1.5 ºC above pre-industrial temperatures within the next five years and how it’s not quite the milestone most people mean when they talk about 1.5 ºC of warming. https://t.co/WGf6QP19yX</title>
-      <link>https://twitter.com/NaturePortfolio/status/1660669093916078082</link>
-      <description>A @Nature News Explainer discusses a report that suggests the planet will reach 1.5 ºC above pre-industrial temperatures within the next five years and how it’s not quite the milestone most people mean when they talk about 1.5 ºC of warming. https://t.co/WGf6QP19yX</description>
-      <content:encoded>A @Nature News Explainer discusses a report that suggests the planet will reach 1.5 ºC above pre-industrial temperatures within the next five years and how it’s not quite the milestone most people mean when they talk about 1.5 ºC of warming. https://t.co/WGf6QP19yX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1660669093916078082"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 15:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Let’s come together as communities, to feel inspired, believe that change is possible + remind ourselves, when change happens, that we can do it again and do it for the better." @NPHANC ‘s Amie Fishman on the importance of hope for #AffordableHousingMonth https://t.co/rELGSrntmS</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1660669386510725120</link>
-      <description>"Let’s come together as communities, to feel inspired, believe that change is possible + remind ourselves, when change happens, that we can do it again and do it for the better." @NPHANC ‘s Amie Fishman on the importance of hope for #AffordableHousingMonth https://t.co/rELGSrntmS</description>
-      <content:encoded>"Let’s come together as communities, to feel inspired, believe that change is possible + remind ourselves, when change happens, that we can do it again and do it for the better." @NPHANC ‘s Amie Fishman on the importance of hope for #AffordableHousingMonth https://t.co/rELGSrntmS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1660669386510725120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwvh__HWAAE3hBv.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 22 May 2023 15:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>I have to admit that I’m befuddled by non-Abelian anyons, let alone the debate about whether they are simulated or real. (Although my gut says simulated). https://t.co/uqKoKYg06K</title>
-      <link>https://twitter.com/neuralengine/status/1660672372423159808</link>
-      <description>I have to admit that I’m befuddled by non-Abelian anyons, let alone the debate about whether they are simulated or real. (Although my gut says simulated). https://t.co/uqKoKYg06K</description>
-      <content:encoded>I have to admit that I’m befuddled by non-Abelian anyons, let alone the debate about whether they are simulated or real. (Although my gut says simulated). https://t.co/uqKoKYg06K&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1660672372423159808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 15:42:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>It's always a bittersweet moment when we have to retire a reliable machine 
-
-Hope to see another MATLAB sticker for your new device! 💙 🧡 https://t.co/VNbiEkaXv0</title>
-      <link>https://twitter.com/MATLAB/status/1660672659145867264</link>
-      <description>It's always a bittersweet moment when we have to retire a reliable machine 
-
-Hope to see another MATLAB sticker for your new device! 💙 🧡 https://t.co/VNbiEkaXv0</description>
-      <content:encoded>It's always a bittersweet moment when we have to retire a reliable machine 
-
-Hope to see another MATLAB sticker for your new device! 💙 🧡 https://t.co/VNbiEkaXv0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1660672659145867264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 22 May 2023 15:43:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 May 2023 09:16:02 +0000</lastBuildDate>
     <item>
       <title>First-in-human prediction of chronic #pain state in individuals with refractory neuropathic pain using chronic intracranial electrodes implanted in ACC and OFC
 
@@ -2026,6 +1869,191 @@ https://t.co/jfw60ThPH0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>Identifying cellular markers of focal cortical dysplasia type II with cell-type deconvolution and single-cell signatures  https://t.co/YEjMvjyuiQ #biorxiv_neursci</description>
       <content:encoded>Identifying cellular markers of focal cortical dysplasia type II with cell-type deconvolution and single-cell signatures  https://t.co/YEjMvjyuiQ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1660922506042126338"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 23 May 2023 08:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microorganisms' climate adaptation can slow down global warming by storing carbon in soil #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #climate #globalwarming #science @lunduniversity @johannesrousk https://t.co/mPquJAwJEd https://t.co/7q0GolrkVm https://t.co/4qSyy2mQbN</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1660924031355215874</link>
+      <description>Microorganisms' climate adaptation can slow down global warming by storing carbon in soil #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #climate #globalwarming #science @lunduniversity @johannesrousk https://t.co/mPquJAwJEd https://t.co/7q0GolrkVm https://t.co/4qSyy2mQbN</description>
+      <content:encoded>Microorganisms' climate adaptation can slow down global warming by storing carbon in soil #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #climate #globalwarming #science @lunduniversity @johannesrousk https://t.co/mPquJAwJEd https://t.co/7q0GolrkVm https://t.co/4qSyy2mQbN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1660924031355215874"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwzJLArXwAE9Gdp.jpg" length="960" type="photo"/>
+      <pubDate>Tue, 23 May 2023 08:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Article: Atlas of mRNA translation and decay for bacteria #research supported by Knut and Alice Wallenberg Foundation #KAW100 #bacteria #mRNA #science 
+https://t.co/qyrcj9HgFb https://t.co/CcTY4HmojN https://t.co/eAnJidlUFu</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1660925454180597761</link>
+      <description>Article: Atlas of mRNA translation and decay for bacteria #research supported by Knut and Alice Wallenberg Foundation #KAW100 #bacteria #mRNA #science 
+https://t.co/qyrcj9HgFb https://t.co/CcTY4HmojN https://t.co/eAnJidlUFu</description>
+      <content:encoded>Article: Atlas of mRNA translation and decay for bacteria #research supported by Knut and Alice Wallenberg Foundation #KAW100 #bacteria #mRNA #science 
+https://t.co/qyrcj9HgFb https://t.co/CcTY4HmojN https://t.co/eAnJidlUFu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1660925454180597761"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwzKxU-WwAIpeUq.png" length="750" type="photo"/>
+      <pubDate>Tue, 23 May 2023 08:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>«It followed from the special theory of relativity that mass and energy are both but different manifestations of the same thing — a somewhat unfamilar conception for the average mind» 
+
+— Alber Einstein explains E=mc² 
+
+[listen: https://t.co/xAo9EJzHhj]
+https://t.co/sU5nOcLHlY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660926572906307587</link>
+      <description>«It followed from the special theory of relativity that mass and energy are both but different manifestations of the same thing — a somewhat unfamilar conception for the average mind» 
+
+— Alber Einstein explains E=mc² 
+
+[listen: https://t.co/xAo9EJzHhj]
+https://t.co/sU5nOcLHlY</description>
+      <content:encoded>«It followed from the special theory of relativity that mass and energy are both but different manifestations of the same thing — a somewhat unfamilar conception for the average mind» 
+
+— Alber Einstein explains E=mc² 
+
+[listen: https://t.co/xAo9EJzHhj]
+https://t.co/sU5nOcLHlY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660926572906307587"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1295226291973763072/pu/img/m7FKVA-qptNgin3P.jpg" length="480" type="photo"/>
+      <pubDate>Tue, 23 May 2023 08:32:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers @karolinskainst  have developed a molecular method able to detect whether or not #bacteria respond to #antibiotics within minutes #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #science @NatureMicrobiol 
+https://t.co/0bgGJRFfky https://t.co/ByFhr00fkc https://t.co/BqnD3TDwil</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1660927661995073536</link>
+      <description>Researchers @karolinskainst  have developed a molecular method able to detect whether or not #bacteria respond to #antibiotics within minutes #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #science @NatureMicrobiol 
+https://t.co/0bgGJRFfky https://t.co/ByFhr00fkc https://t.co/BqnD3TDwil</description>
+      <content:encoded>Researchers @karolinskainst  have developed a molecular method able to detect whether or not #bacteria respond to #antibiotics within minutes #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #science @NatureMicrobiol 
+https://t.co/0bgGJRFfky https://t.co/ByFhr00fkc https://t.co/BqnD3TDwil&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1660927661995073536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwzM5FGXoAIwLRl.png" length="721" type="photo"/>
+      <pubDate>Tue, 23 May 2023 08:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Labradorite can display an iridescent optical effect known as labradorescence, the peculiar reflection of the light from submicroscopical planes orientated in one direction
+
+[video by @rocksforthe: https://t.co/krxPPw6k50]
+https://t.co/By5GQnIN9W</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660929890466529281</link>
+      <description>Labradorite can display an iridescent optical effect known as labradorescence, the peculiar reflection of the light from submicroscopical planes orientated in one direction
+
+[video by @rocksforthe: https://t.co/krxPPw6k50]
+https://t.co/By5GQnIN9W</description>
+      <content:encoded>Labradorite can display an iridescent optical effect known as labradorescence, the peculiar reflection of the light from submicroscopical planes orientated in one direction
+
+[video by @rocksforthe: https://t.co/krxPPw6k50]
+https://t.co/By5GQnIN9W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660929890466529281"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1639352932901732354/pu/img/e6nkU8mfrhFpqA1l.jpg" length="675" type="photo"/>
+      <pubDate>Tue, 23 May 2023 08:45:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers have unlocked the secrets of luminous #quasar #J1144 - *shining 100,000 billion times brighter than the Sun!*- , shedding light on the inner workings of these cosmic powerhouses✨
+https://t.co/eRNyJhYg8z
+@EliasKammoun @IRAP_France @z_igo_ @MPE_Garching @eROSITA_SRG</title>
+      <link>https://twitter.com/maxplanckpress/status/1660930330625298432</link>
+      <description>Researchers have unlocked the secrets of luminous #quasar #J1144 - *shining 100,000 billion times brighter than the Sun!*- , shedding light on the inner workings of these cosmic powerhouses✨
+https://t.co/eRNyJhYg8z
+@EliasKammoun @IRAP_France @z_igo_ @MPE_Garching @eROSITA_SRG</description>
+      <content:encoded>Researchers have unlocked the secrets of luminous #quasar #J1144 - *shining 100,000 billion times brighter than the Sun!*- , shedding light on the inner workings of these cosmic powerhouses✨
+https://t.co/eRNyJhYg8z
+@EliasKammoun @IRAP_France @z_igo_ @MPE_Garching @eROSITA_SRG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1660930330625298432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 08:47:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ManyDogs consortium - a multi-lab study of dogs' pointing comprehension https://t.co/p3udbIvEXi via @OSFramework Participants were rewarded with Good Boy credit</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1660930705243664384</link>
+      <description>The ManyDogs consortium - a multi-lab study of dogs' pointing comprehension https://t.co/p3udbIvEXi via @OSFramework Participants were rewarded with Good Boy credit</description>
+      <content:encoded>The ManyDogs consortium - a multi-lab study of dogs' pointing comprehension https://t.co/p3udbIvEXi via @OSFramework Participants were rewarded with Good Boy credit&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1660930705243664384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 08:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>@OSFramework I tried to organize a ManyCats consortium but they wouldn't cooperate</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1660931019548119044</link>
+      <description>@OSFramework I tried to organize a ManyCats consortium but they wouldn't cooperate</description>
+      <content:encoded>@OSFramework I tried to organize a ManyCats consortium but they wouldn't cooperate&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1660931019548119044"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 08:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forskare vid @karolinskainst har utvecklat en molekylär metod som på bara några minuter kan ta reda på om bakterier svarar på antibiotikabehandling eller ej #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 #svmed #antibiotika 
+https://t.co/sKwZL6YAg8 https://t.co/K3nF5fPHta</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1660932727204458499</link>
+      <description>Forskare vid @karolinskainst har utvecklat en molekylär metod som på bara några minuter kan ta reda på om bakterier svarar på antibiotikabehandling eller ej #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 #svmed #antibiotika 
+https://t.co/sKwZL6YAg8 https://t.co/K3nF5fPHta</description>
+      <content:encoded>Forskare vid @karolinskainst har utvecklat en molekylär metod som på bara några minuter kan ta reda på om bakterier svarar på antibiotikabehandling eller ej #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 #svmed #antibiotika 
+https://t.co/sKwZL6YAg8 https://t.co/K3nF5fPHta&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1660932727204458499"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwzRfKGWIAAYdw6.png" length="721" type="photo"/>
+      <pubDate>Tue, 23 May 2023 08:56:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @QuantaMagazine: Late last year, an algorithm developed by DeepMind beat a half-century old record in efficient matrix multiplication. D…</title>
+      <link>https://twitter.com/DeepMind/status/1660933483735261184</link>
+      <description>RT @QuantaMagazine: Late last year, an algorithm developed by DeepMind beat a half-century old record in efficient matrix multiplication. D…</description>
+      <content:encoded>RT @QuantaMagazine: Late last year, an algorithm developed by DeepMind beat a half-century old record in efficient matrix multiplication. D…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1660933483735261184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 23 May 2023 08:59:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers have developed and tested in rats a neuromorphic electronic skin system that simultaneously emulates closed-loop sensory encoding and the mechanical softness of natural skin.
+
+Learn more ⬇️
+📄: https://t.co/c7g7cIfzfG
+#SciencePerspective: https://t.co/NMfiYi1cH5 https://t.co/1nvUSCN30P</title>
+      <link>https://twitter.com/ScienceMagazine/status/1660933639985561604</link>
+      <description>Researchers have developed and tested in rats a neuromorphic electronic skin system that simultaneously emulates closed-loop sensory encoding and the mechanical softness of natural skin.
+
+Learn more ⬇️
+📄: https://t.co/c7g7cIfzfG
+#SciencePerspective: https://t.co/NMfiYi1cH5 https://t.co/1nvUSCN30P</description>
+      <content:encoded>Researchers have developed and tested in rats a neuromorphic electronic skin system that simultaneously emulates closed-loop sensory encoding and the mechanical softness of natural skin.
+
+Learn more ⬇️
+📄: https://t.co/c7g7cIfzfG
+#SciencePerspective: https://t.co/NMfiYi1cH5 https://t.co/1nvUSCN30P&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1660933639985561604"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwzSV_IXsAAxDUu.jpg" length="939" type="photo"/>
+      <pubDate>Tue, 23 May 2023 09:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>En ny studie från @Lundsuni visar att mikroorganismers förmåga att anpassa sig till klimatuppvärmning kommer att sakta ner global uppvärmning genom att lagra kol i jorden #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 #klimat #miljö https://t.co/lJFgjpvofq https://t.co/KrY3GXRhIS</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1660933670843174912</link>
+      <description>En ny studie från @Lundsuni visar att mikroorganismers förmåga att anpassa sig till klimatuppvärmning kommer att sakta ner global uppvärmning genom att lagra kol i jorden #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 #klimat #miljö https://t.co/lJFgjpvofq https://t.co/KrY3GXRhIS</description>
+      <content:encoded>En ny studie från @Lundsuni visar att mikroorganismers förmåga att anpassa sig till klimatuppvärmning kommer att sakta ner global uppvärmning genom att lagra kol i jorden #Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 #klimat #miljö https://t.co/lJFgjpvofq https://t.co/KrY3GXRhIS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1660933670843174912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwzSVHqWcAIcdEU.jpg" length="960" type="photo"/>
+      <pubDate>Tue, 23 May 2023 09:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers @EdinburghUni provide new insights into the progression of #Alzheimer’s disease, focusing on the role of #synapses in transporting toxic proteins called #tau. Read more here https://t.co/RhamFX366W https://t.co/gRCgQyzMTS</title>
+      <link>https://twitter.com/Scientifica_Int/status/1660933906592350210</link>
+      <description>Researchers @EdinburghUni provide new insights into the progression of #Alzheimer’s disease, focusing on the role of #synapses in transporting toxic proteins called #tau. Read more here https://t.co/RhamFX366W https://t.co/gRCgQyzMTS</description>
+      <content:encoded>Researchers @EdinburghUni provide new insights into the progression of #Alzheimer’s disease, focusing on the role of #synapses in transporting toxic proteins called #tau. Read more here https://t.co/RhamFX366W https://t.co/gRCgQyzMTS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1660933906592350210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwzSlesWAAQRZ7S.jpg" length="720" type="photo"/>
+      <pubDate>Tue, 23 May 2023 09:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>According to World Wildlife Fund’s (WWF) Living Planet Report 2022, monitored populations of vertebrates (mammals, birds, amphibians, reptiles and fish) have seen a 69% drop on average since 1970
+
+[read more: https://t.co/U3YAmz7CIB] https://t.co/k5fwiOVqrS https://t.co/MtYeX1MAUB</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660934433099206656</link>
+      <description>According to World Wildlife Fund’s (WWF) Living Planet Report 2022, monitored populations of vertebrates (mammals, birds, amphibians, reptiles and fish) have seen a 69% drop on average since 1970
+
+[read more: https://t.co/U3YAmz7CIB] https://t.co/k5fwiOVqrS https://t.co/MtYeX1MAUB</description>
+      <content:encoded>According to World Wildlife Fund’s (WWF) Living Planet Report 2022, monitored populations of vertebrates (mammals, birds, amphibians, reptiles and fish) have seen a 69% drop on average since 1970
+
+[read more: https://t.co/U3YAmz7CIB] https://t.co/k5fwiOVqrS https://t.co/MtYeX1MAUB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660934433099206656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FwzSz1AWIAACLR4.jpg" length="680" type="photo"/>
+      <pubDate>Tue, 23 May 2023 09:03:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>This footage from a 1990’s psychology education video, shows Rusty the narcoleptic dog. Narcolepsy is a sleep disorder causing excessive daytime sleepiness and affetcs humans and animals
+
+[read more: https://t.co/VIFObiqeZX]
+[📹 https://t.co/noAtOyWelD]
+https://t.co/qNxmm3jX6m</title>
+      <link>https://twitter.com/Rainmaker1973/status/1660936420297527297</link>
+      <description>This footage from a 1990’s psychology education video, shows Rusty the narcoleptic dog. Narcolepsy is a sleep disorder causing excessive daytime sleepiness and affetcs humans and animals
+
+[read more: https://t.co/VIFObiqeZX]
+[📹 https://t.co/noAtOyWelD]
+https://t.co/qNxmm3jX6m</description>
+      <content:encoded>This footage from a 1990’s psychology education video, shows Rusty the narcoleptic dog. Narcolepsy is a sleep disorder causing excessive daytime sleepiness and affetcs humans and animals
+
+[read more: https://t.co/VIFObiqeZX]
+[📹 https://t.co/noAtOyWelD]
+https://t.co/qNxmm3jX6m&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1660936420297527297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1093968197919875074/pu/img/Mnm99BaEgwhvyLN6.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 23 May 2023 09:11:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
