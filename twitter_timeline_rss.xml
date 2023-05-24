@@ -6,115 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 May 2023 13:19:59 +0000</lastBuildDate>
-    <item>
-      <title>RT @komonews: Stem cells produced by scientists at Seattle's Allen Institute have made their way into space! Scientists are taking a deep l…</title>
-      <link>https://twitter.com/AllenInstitute/status/1661049352805138433</link>
-      <description>RT @komonews: Stem cells produced by scientists at Seattle's Allen Institute have made their way into space! Scientists are taking a deep l…</description>
-      <content:encoded>RT @komonews: Stem cells produced by scientists at Seattle's Allen Institute have made their way into space! Scientists are taking a deep l…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1661049352805138433"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 16:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @VictorBoutin: Our article "Diffusion Models as Artist: Are we Closing the Gap between Humans and Machine" (https://t.co/0qj3itzNrT) has…</title>
-      <link>https://twitter.com/patrickmineault/status/1661051503707144203</link>
-      <description>RT @VictorBoutin: Our article "Diffusion Models as Artist: Are we Closing the Gap between Humans and Machine" (https://t.co/0qj3itzNrT) has…</description>
-      <content:encoded>RT @VictorBoutin: Our article "Diffusion Models as Artist: Are we Closing the Gap between Humans and Machine" (https://t.co/0qj3itzNrT) has…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661051503707144203"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 16:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @eLife of 👉🏿 How honey bees make fast and accurate decisions  https://t.co/hw3dIGVDX5 #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661052003190030357</link>
-      <description>#PeerReview from @eLife of 👉🏿 How honey bees make fast and accurate decisions  https://t.co/hw3dIGVDX5 #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @eLife of 👉🏿 How honey bees make fast and accurate decisions  https://t.co/hw3dIGVDX5 #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661052003190030357"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 16:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Both quality &amp;amp; quantity of high quality posts of all kinds (short text, long essays, pictures, audio &amp;amp; video) have improved dramatically. 
-
-Thank you for contributing your voice to humanity’s digital public square!</title>
-      <link>https://twitter.com/elonmusk/status/1661052398842920974</link>
-      <description>Both quality &amp;amp; quantity of high quality posts of all kinds (short text, long essays, pictures, audio &amp;amp; video) have improved dramatically. 
-
-Thank you for contributing your voice to humanity’s digital public square!</description>
-      <content:encoded>Both quality &amp;amp; quantity of high quality posts of all kinds (short text, long essays, pictures, audio &amp;amp; video) have improved dramatically. 
-
-Thank you for contributing your voice to humanity’s digital public square!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1661052398842920974"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 16:52:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>We received a seed grant from the Genetic Design and Engineering Center (GDEC, https://t.co/F5IDxqxhaP) @RiceUniversity! GDEC will automate the development of large DNA libraries for a @CPRITTexas project. Excited to collaborate with Director Prof. Bao and Manager Dr. Gardner! https://t.co/6LQZTVC2VO</title>
-      <link>https://twitter.com/StPierreLab/status/1661053279592235019</link>
-      <description>We received a seed grant from the Genetic Design and Engineering Center (GDEC, https://t.co/F5IDxqxhaP) @RiceUniversity! GDEC will automate the development of large DNA libraries for a @CPRITTexas project. Excited to collaborate with Director Prof. Bao and Manager Dr. Gardner! https://t.co/6LQZTVC2VO</description>
-      <content:encoded>We received a seed grant from the Genetic Design and Engineering Center (GDEC, https://t.co/F5IDxqxhaP) @RiceUniversity! GDEC will automate the development of large DNA libraries for a @CPRITTexas project. Excited to collaborate with Director Prof. Bao and Manager Dr. Gardner! https://t.co/6LQZTVC2VO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/StPierreLab/status/1661053279592235019"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw0-8u9XwAoKBui.png" length="827" type="photo"/>
-      <pubDate>Tue, 23 May 2023 16:55:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fantastic work from @HistedLab - looking forward to trying this out! https://t.co/yS3yxNXU5N</title>
-      <link>https://twitter.com/OferYizhar/status/1661053688293605403</link>
-      <description>Fantastic work from @HistedLab - looking forward to trying this out! https://t.co/yS3yxNXU5N</description>
-      <content:encoded>Fantastic work from @HistedLab - looking forward to trying this out! https://t.co/yS3yxNXU5N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1661053688293605403"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 16:57:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Very excited to visit @SinaiBrain tomorrow! https://t.co/7WZxL99O43</title>
-      <link>https://twitter.com/OferYizhar/status/1661055010426306567</link>
-      <description>Very excited to visit @SinaiBrain tomorrow! https://t.co/7WZxL99O43</description>
-      <content:encoded>Very excited to visit @SinaiBrain tomorrow! https://t.co/7WZxL99O43&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1661055010426306567"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 17:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Francesca Riccio-Ackerman Works to Improve Access to Prosthetics: PhD student is designing and building a sustainable care and delivery model in Sierra Leone https://t.co/mvVelihLXq https://t.co/wNah02C7Ou</title>
-      <link>https://twitter.com/MIT/status/1661055714251489297</link>
-      <description>Francesca Riccio-Ackerman Works to Improve Access to Prosthetics: PhD student is designing and building a sustainable care and delivery model in Sierra Leone https://t.co/mvVelihLXq https://t.co/wNah02C7Ou</description>
-      <content:encoded>Francesca Riccio-Ackerman Works to Improve Access to Prosthetics: PhD student is designing and building a sustainable care and delivery model in Sierra Leone https://t.co/mvVelihLXq https://t.co/wNah02C7Ou&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1661055714251489297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw1BXqKXwAMesec.jpg" length="1000" type="photo"/>
-      <pubDate>Tue, 23 May 2023 17:05:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>A real time-saver in gardening and agricultural operations, the bulb planter allows to separate loose soil and deposit a bulb or seedling in one step only. This is a double-handle version
-
-[source: https://t.co/vjlmxAlr2M]
-https://t.co/QO1c5KDhsg</title>
-      <link>https://twitter.com/Rainmaker1973/status/1661055997736108046</link>
-      <description>A real time-saver in gardening and agricultural operations, the bulb planter allows to separate loose soil and deposit a bulb or seedling in one step only. This is a double-handle version
-
-[source: https://t.co/vjlmxAlr2M]
-https://t.co/QO1c5KDhsg</description>
-      <content:encoded>A real time-saver in gardening and agricultural operations, the bulb planter allows to separate loose soil and deposit a bulb or seedling in one step only. This is a double-handle version
-
-[source: https://t.co/vjlmxAlr2M]
-https://t.co/QO1c5KDhsg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661055997736108046"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1642831282542628867/pu/img/49z2icooWaLrSViZ.jpg" length="675" type="photo"/>
-      <pubDate>Tue, 23 May 2023 17:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>I need a way as a non-hardcore mathematician to keep up with deep  learning theory. Anyone know of good sources of review articles or other  easier-to-digest summaries of findings?
-
-(part 385 of me begging ML researchers to write more review articles)</title>
-      <link>https://twitter.com/neurograce/status/1661058045433233409</link>
-      <description>I need a way as a non-hardcore mathematician to keep up with deep  learning theory. Anyone know of good sources of review articles or other  easier-to-digest summaries of findings?
-
-(part 385 of me begging ML researchers to write more review articles)</description>
-      <content:encoded>I need a way as a non-hardcore mathematician to keep up with deep  learning theory. Anyone know of good sources of review articles or other  easier-to-digest summaries of findings?
-
-(part 385 of me begging ML researchers to write more review articles)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1661058045433233409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 17:14:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signatures of heuristic-based directed exploration in two-step sequential decision task behaviour.  https://t.co/4WQ7sSGaJU #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661058299062632454</link>
-      <description>Signatures of heuristic-based directed exploration in two-step sequential decision task behaviour.  https://t.co/4WQ7sSGaJU #biorxiv_neursci</description>
-      <content:encoded>Signatures of heuristic-based directed exploration in two-step sequential decision task behaviour.  https://t.co/4WQ7sSGaJU #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661058299062632454"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 17:15:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pelvic irradiation induces behavioral and neuronal damage through gut dysbiosis in a rat model  https://t.co/LICyL5s843 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661058430696669279</link>
-      <description>Pelvic irradiation induces behavioral and neuronal damage through gut dysbiosis in a rat model  https://t.co/LICyL5s843 #biorxiv_neursci</description>
-      <content:encoded>Pelvic irradiation induces behavioral and neuronal damage through gut dysbiosis in a rat model  https://t.co/LICyL5s843 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661058430696669279"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 17:16:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 May 2023 14:16:05 +0000</lastBuildDate>
     <item>
       <title>And works almost everywhere on Earth with global roaming enabled! https://t.co/QmglKYRpDz</title>
       <link>https://twitter.com/elonmusk/status/1661059564593201184</link>
@@ -156,16 +48,6 @@ Apply now: https://t.co/WfyJXOOkby
       <description>RT @AquariumCurator: Do you have 5 mins to answer a survey, which is designed to analyse human perspectives on the aesthetic value of tropi…</description>
       <content:encoded>RT @AquariumCurator: Do you have 5 mins to answer a survey, which is designed to analyse human perspectives on the aesthetic value of tropi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/koen_vervaeke/status/1661063015188381709"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 23 May 2023 17:34:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @neuralengine: Our latest paper on robotically automated, two-photon targeted patching is now on IEEE Xplore.
-Vera Gonzalez et al, 2023…</title>
-      <link>https://twitter.com/koen_vervaeke/status/1661063146663034929</link>
-      <description>RT @neuralengine: Our latest paper on robotically automated, two-photon targeted patching is now on IEEE Xplore.
-Vera Gonzalez et al, 2023…</description>
-      <content:encoded>RT @neuralengine: Our latest paper on robotically automated, two-photon targeted patching is now on IEEE Xplore.
-Vera Gonzalez et al, 2023…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/koen_vervaeke/status/1661063146663034929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 23 May 2023 17:34:49 +0000</pubDate>
     </item>
     <item>
       <title>This is gold. When everything you say is bullshit or lies, people eventually just stop asking you for your side of the story https://t.co/JaLZ7m1tlC https://t.co/11qKk7WUpr</title>
@@ -2349,6 +2231,153 @@ Charles Wilson
 George… https://t.co/KAQNuOIHki https://t.co/WZ835anleI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1661361289069842432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fw5XM6JXoAErGoM.jpg" length="1200" type="photo"/>
       <pubDate>Wed, 24 May 2023 13:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congratulations 🎉! 
+
+We are very pleased to have been able to support the research team, through funding the Lacto-Be project led by @SarahLebeer (details: https://t.co/i5lBF1HCmv)
+
+#CitizenScience https://t.co/QjsfTR0jx7</title>
+      <link>https://twitter.com/ERC_Research/status/1661363480950128640</link>
+      <description>Congratulations 🎉! 
+
+We are very pleased to have been able to support the research team, through funding the Lacto-Be project led by @SarahLebeer (details: https://t.co/i5lBF1HCmv)
+
+#CitizenScience https://t.co/QjsfTR0jx7</description>
+      <content:encoded>Congratulations 🎉! 
+
+We are very pleased to have been able to support the research team, through funding the Lacto-Be project led by @SarahLebeer (details: https://t.co/i5lBF1HCmv)
+
+#CitizenScience https://t.co/QjsfTR0jx7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1661363480950128640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 13:28:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @viajake: We're looking for someone to help build and maintain stuff in a 2p imaging/ephys/behavior lab, comfortable with basic optics,…</title>
+      <link>https://twitter.com/neuralengine/status/1661363639146692608</link>
+      <description>RT @viajake: We're looking for someone to help build and maintain stuff in a 2p imaging/ephys/behavior lab, comfortable with basic optics,…</description>
+      <content:encoded>RT @viajake: We're looking for someone to help build and maintain stuff in a 2p imaging/ephys/behavior lab, comfortable with basic optics,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1661363639146692608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 13:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Species recovery targets outlined in current engendered species law fall short of achieving culturally meaningful abundance for Indigenous peoples who rely on the species for food, material, medicine, spirituality, and a sense of place. #SciencePolicyForum https://t.co/O3UDDxCExK https://t.co/G7uneJsgz9</title>
+      <link>https://twitter.com/ScienceMagazine/status/1661363948476661760</link>
+      <description>Species recovery targets outlined in current engendered species law fall short of achieving culturally meaningful abundance for Indigenous peoples who rely on the species for food, material, medicine, spirituality, and a sense of place. #SciencePolicyForum https://t.co/O3UDDxCExK https://t.co/G7uneJsgz9</description>
+      <content:encoded>Species recovery targets outlined in current engendered species law fall short of achieving culturally meaningful abundance for Indigenous peoples who rely on the species for food, material, medicine, spirituality, and a sense of place. #SciencePolicyForum https://t.co/O3UDDxCExK https://t.co/G7uneJsgz9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661363948476661760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw5ZtPMXgAAzHK8.jpg" length="1092" type="photo"/>
+      <pubDate>Wed, 24 May 2023 13:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sea sapphire copepods are tiny virtually invisible sea creatures, until they light up with iridescent light 
+
+[source, read more: https://t.co/ctXck55Dll]
+https://t.co/UWCpOULTsW</title>
+      <link>https://twitter.com/Rainmaker1973/status/1661365442709975042</link>
+      <description>Sea sapphire copepods are tiny virtually invisible sea creatures, until they light up with iridescent light 
+
+[source, read more: https://t.co/ctXck55Dll]
+https://t.co/UWCpOULTsW</description>
+      <content:encoded>Sea sapphire copepods are tiny virtually invisible sea creatures, until they light up with iridescent light 
+
+[source, read more: https://t.co/ctXck55Dll]
+https://t.co/UWCpOULTsW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661365442709975042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1265711897283829760/pu/img/tKA-u9GBdJF_m2jy.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 24 May 2023 13:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>What about 80% taxes on revenues of all LLM models, to be handed out as UBI to all humans for their data contributions? Seems about fair to me.</title>
+      <link>https://twitter.com/KordingLab/status/1661368568246677516</link>
+      <description>What about 80% taxes on revenues of all LLM models, to be handed out as UBI to all humans for their data contributions? Seems about fair to me.</description>
+      <content:encoded>What about 80% taxes on revenues of all LLM models, to be handed out as UBI to all humans for their data contributions? Seems about fair to me.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1661368568246677516"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 13:48:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Xpeng X2 is a fifth-generation, fully electric flying car. The vehicle has eight propellers and eight electric motors that can send the it to heights of around 1,000 meters and speeds of 130 km/h.
+
+[read more: https://t.co/H1vW1YM6PB]
+https://t.co/auki9Ix89L</title>
+      <link>https://twitter.com/Rainmaker1973/status/1661368915547529218</link>
+      <description>The Xpeng X2 is a fifth-generation, fully electric flying car. The vehicle has eight propellers and eight electric motors that can send the it to heights of around 1,000 meters and speeds of 130 km/h.
+
+[read more: https://t.co/H1vW1YM6PB]
+https://t.co/auki9Ix89L</description>
+      <content:encoded>The Xpeng X2 is a fifth-generation, fully electric flying car. The vehicle has eight propellers and eight electric motors that can send the it to heights of around 1,000 meters and speeds of 130 km/h.
+
+[read more: https://t.co/H1vW1YM6PB]
+https://t.co/auki9Ix89L&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661368915547529218"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1659047566066032641/pu/img/yHeCN52XGyW10ye3.jpg" length="675" type="photo"/>
+      <pubDate>Wed, 24 May 2023 13:49:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AllostEricSite: Chatting with a colleague this morning and was reminded of this @Addgene blog post I wrote on lab-to-office culture sho…</title>
+      <link>https://twitter.com/Addgene/status/1661369104475774979</link>
+      <description>RT @AllostEricSite: Chatting with a colleague this morning and was reminded of this @Addgene blog post I wrote on lab-to-office culture sho…</description>
+      <content:encoded>RT @AllostEricSite: Chatting with a colleague this morning and was reminded of this @Addgene blog post I wrote on lab-to-office culture sho…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1661369104475774979"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 13:50:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>I mean if there was ever a case where UBI was clearly the right thing to do it is this.</title>
+      <link>https://twitter.com/KordingLab/status/1661371220837949440</link>
+      <description>I mean if there was ever a case where UBI was clearly the right thing to do it is this.</description>
+      <content:encoded>I mean if there was ever a case where UBI was clearly the right thing to do it is this.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1661371220837949440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 13:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>184217 Anti-GABA(B)R2 [N81/37.1R]
+Purpose: anti-GABA(B)R2 (Human) recombinant mouse monoclonal antibody
+Depositor: James Trimmer
+
+https://t.co/8e3XRJSvsQ https://t.co/0INBL0ndbW</title>
+      <link>https://twitter.com/Addgene/status/1661373499678531588</link>
+      <description>184217 Anti-GABA(B)R2 [N81/37.1R]
+Purpose: anti-GABA(B)R2 (Human) recombinant mouse monoclonal antibody
+Depositor: James Trimmer
+
+https://t.co/8e3XRJSvsQ https://t.co/0INBL0ndbW</description>
+      <content:encoded>184217 Anti-GABA(B)R2 [N81/37.1R]
+Purpose: anti-GABA(B)R2 (Human) recombinant mouse monoclonal antibody
+Depositor: James Trimmer
+
+https://t.co/8e3XRJSvsQ https://t.co/0INBL0ndbW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1661373499678531588"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fw5iYliXwAApSse.jpg" length="480" type="photo"/>
+      <pubDate>Wed, 24 May 2023 14:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn more about ChatGPT Prompt Engineering for Developers here: https://t.co/tY1MalRWip</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1661373646642769931</link>
+      <description>Learn more about ChatGPT Prompt Engineering for Developers here: https://t.co/tY1MalRWip</description>
+      <content:encoded>Learn more about ChatGPT Prompt Engineering for Developers here: https://t.co/tY1MalRWip&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1661373646642769931"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 14:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The revolutionary VistaScope combines the flexibility of a #multiphoton #microscope that enables high-resolution imaging over a wide wavelength range, with the large field of view of #mesoscopes, at an affordable, multiphoton microscope price. More: 
+https://t.co/IBM4NkJJvz https://t.co/lULq6XAnFK</title>
+      <link>https://twitter.com/Scientifica_Int/status/1661374712117616644</link>
+      <description>The revolutionary VistaScope combines the flexibility of a #multiphoton #microscope that enables high-resolution imaging over a wide wavelength range, with the large field of view of #mesoscopes, at an affordable, multiphoton microscope price. More: 
+https://t.co/IBM4NkJJvz https://t.co/lULq6XAnFK</description>
+      <content:encoded>The revolutionary VistaScope combines the flexibility of a #multiphoton #microscope that enables high-resolution imaging over a wide wavelength range, with the large field of view of #mesoscopes, at an affordable, multiphoton microscope price. More: 
+https://t.co/IBM4NkJJvz https://t.co/lULq6XAnFK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1661374712117616644"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw5jfpCWwAE2x1D.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 24 May 2023 14:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Civita di Bagnoregio was founded by the Etruscans more than 2,500 years ago. Due to its unstable foundation that often erodes, Civita is famously known as "the dying city".  
+
+[read more: https://t.co/YqMzXXKgIP] 
+[📹 manutoni24: https://t.co/Y84tuJqtBg]
+https://t.co/rkqw4klapW</title>
+      <link>https://twitter.com/Rainmaker1973/status/1661375146937012227</link>
+      <description>Civita di Bagnoregio was founded by the Etruscans more than 2,500 years ago. Due to its unstable foundation that often erodes, Civita is famously known as "the dying city".  
+
+[read more: https://t.co/YqMzXXKgIP] 
+[📹 manutoni24: https://t.co/Y84tuJqtBg]
+https://t.co/rkqw4klapW</description>
+      <content:encoded>Civita di Bagnoregio was founded by the Etruscans more than 2,500 years ago. Due to its unstable foundation that often erodes, Civita is famously known as "the dying city".  
+
+[read more: https://t.co/YqMzXXKgIP] 
+[📹 manutoni24: https://t.co/Y84tuJqtBg]
+https://t.co/rkqw4klapW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661375146937012227"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1486804862755033104/pu/img/5seds5m_gBM5JcyF.jpg" length="675" type="photo"/>
+      <pubDate>Wed, 24 May 2023 14:14:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
