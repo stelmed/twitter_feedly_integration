@@ -6,311 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 May 2023 19:12:15 +0000</lastBuildDate>
-    <item>
-      <title>The Inca tern is a uniquely plumaged bird that breeds on the coasts of Peru and Chile. It can be identified by its dark grey body, white moustache on both sides of its head, and red-orange beak and feet
-
-[read more: https://t.co/JGd88lXSdY] https://t.co/2iyztXSBe1</title>
-      <link>https://twitter.com/Rainmaker1973/status/1661270808164192258</link>
-      <description>The Inca tern is a uniquely plumaged bird that breeds on the coasts of Peru and Chile. It can be identified by its dark grey body, white moustache on both sides of its head, and red-orange beak and feet
-
-[read more: https://t.co/JGd88lXSdY] https://t.co/2iyztXSBe1</description>
-      <content:encoded>The Inca tern is a uniquely plumaged bird that breeds on the coasts of Peru and Chile. It can be identified by its dark grey body, white moustache on both sides of its head, and red-orange beak and feet
-
-[read more: https://t.co/JGd88lXSdY] https://t.co/2iyztXSBe1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661270808164192258"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwz35p7WYAEQgoO.jpg" length="533" type="photo"/>
-      <pubDate>Wed, 24 May 2023 07:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>#118: Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl by @MilesCranmer
-
-Well illustrated primer for human-interpretable ML, see also twitter thread linked below!
-
-https://t.co/DZekEyPk3M https://t.co/ZjVC0rIjR0</title>
-      <link>https://twitter.com/bdanubius/status/1661272787917365248</link>
-      <description>#118: Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl by @MilesCranmer
-
-Well illustrated primer for human-interpretable ML, see also twitter thread linked below!
-
-https://t.co/DZekEyPk3M https://t.co/ZjVC0rIjR0</description>
-      <content:encoded>#118: Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl by @MilesCranmer
-
-Well illustrated primer for human-interpretable ML, see also twitter thread linked below!
-
-https://t.co/DZekEyPk3M https://t.co/ZjVC0rIjR0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1661272787917365248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw4GjVpWAAATsfh.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 07:27:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>@MilesCranmer 's thread explaining the work and its implementation:
-https://t.co/B8qK2nH3hV</title>
-      <link>https://twitter.com/bdanubius/status/1661272790123569153</link>
-      <description>@MilesCranmer 's thread explaining the work and its implementation:
-https://t.co/B8qK2nH3hV</description>
-      <content:encoded>@MilesCranmer 's thread explaining the work and its implementation:
-https://t.co/B8qK2nH3hV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1661272790123569153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 07:27:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome to attend Thursday’s workshop: Publish with impact - How to avoid questionable journals
-
-Sign up here: https://t.co/rYqdZ6Laky https://t.co/4wJA9p3iys</title>
-      <link>https://twitter.com/kibiblioteket/status/1661272837473091586</link>
-      <description>Welcome to attend Thursday’s workshop: Publish with impact - How to avoid questionable journals
-
-Sign up here: https://t.co/rYqdZ6Laky https://t.co/4wJA9p3iys</description>
-      <content:encoded>Welcome to attend Thursday’s workshop: Publish with impact - How to avoid questionable journals
-
-Sign up here: https://t.co/rYqdZ6Laky https://t.co/4wJA9p3iys&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kibiblioteket/status/1661272837473091586"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw4GlhnWYAEsvry.png" length="816" type="photo"/>
-      <pubDate>Wed, 24 May 2023 07:28:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>The amount of water stored in more than half of the largest lakes and reservoirs worldwide is declining, a new Science study finds. 
-
-The results underscore the importance of better water management to protect essential ecosystem services. https://t.co/UizPMVH1WS https://t.co/aIKeTlVM6M</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661273354911842305</link>
-      <description>The amount of water stored in more than half of the largest lakes and reservoirs worldwide is declining, a new Science study finds. 
-
-The results underscore the importance of better water management to protect essential ecosystem services. https://t.co/UizPMVH1WS https://t.co/aIKeTlVM6M</description>
-      <content:encoded>The amount of water stored in more than half of the largest lakes and reservoirs worldwide is declining, a new Science study finds. 
-
-The results underscore the importance of better water management to protect essential ecosystem services. https://t.co/UizPMVH1WS https://t.co/aIKeTlVM6M&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661273354911842305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw4HT3FWYAM7UEp.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 07:30:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>We are all made of stardust. It sounds like a line from a poem, but there is some solid science behind this statement too. 93% of the mass in our body is actually stardust 
-
-[source: https://t.co/txLdzivLXf]
-[read more: https://t.co/L0cacOPz7Z] https://t.co/nk2MKn0xI5</title>
-      <link>https://twitter.com/Rainmaker1973/status/1661275841194516484</link>
-      <description>We are all made of stardust. It sounds like a line from a poem, but there is some solid science behind this statement too. 93% of the mass in our body is actually stardust 
-
-[source: https://t.co/txLdzivLXf]
-[read more: https://t.co/L0cacOPz7Z] https://t.co/nk2MKn0xI5</description>
-      <content:encoded>We are all made of stardust. It sounds like a line from a poem, but there is some solid science behind this statement too. 93% of the mass in our body is actually stardust 
-
-[source: https://t.co/txLdzivLXf]
-[read more: https://t.co/L0cacOPz7Z] https://t.co/nk2MKn0xI5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661275841194516484"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwz6NRRWYAMn3Ll.jpg" length="680" type="photo"/>
-      <pubDate>Wed, 24 May 2023 07:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A cannabinoid conundrum? For #WorldSchizophreniaDay, we revisit Dan Ragland’s pick of this @SchizBulletin meta-analysis, suggesting that #schizophrenic patients with history of #cannabis use perform better in neurocognitive tests. #RethinkMentalIllness
-
-https://t.co/689NkJYjNK https://t.co/zm8LxEvScN</title>
-      <link>https://twitter.com/Facultyopinions/status/1661275848068984832</link>
-      <description>A cannabinoid conundrum? For #WorldSchizophreniaDay, we revisit Dan Ragland’s pick of this @SchizBulletin meta-analysis, suggesting that #schizophrenic patients with history of #cannabis use perform better in neurocognitive tests. #RethinkMentalIllness
-
-https://t.co/689NkJYjNK https://t.co/zm8LxEvScN</description>
-      <content:encoded>A cannabinoid conundrum? For #WorldSchizophreniaDay, we revisit Dan Ragland’s pick of this @SchizBulletin meta-analysis, suggesting that #schizophrenic patients with history of #cannabis use perform better in neurocognitive tests. #RethinkMentalIllness
-
-https://t.co/689NkJYjNK https://t.co/zm8LxEvScN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1661275848068984832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw4JlE9WAAIgFqV.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 07:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paper: Limitations of X:autosome ratio as a measurement of X-chromosome upregulation. #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology @sciencedirect 
-https://t.co/OPMCQZzLTN https://t.co/qjFi8mHuQD https://t.co/LaN85TCaCs</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1661276761865306113</link>
-      <description>Paper: Limitations of X:autosome ratio as a measurement of X-chromosome upregulation. #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology @sciencedirect 
-https://t.co/OPMCQZzLTN https://t.co/qjFi8mHuQD https://t.co/LaN85TCaCs</description>
-      <content:encoded>Paper: Limitations of X:autosome ratio as a measurement of X-chromosome upregulation. #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology @sciencedirect 
-https://t.co/OPMCQZzLTN https://t.co/qjFi8mHuQD https://t.co/LaN85TCaCs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1661276761865306113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw4KXXKWYAAAVyq.jpg" length="769" type="photo"/>
-      <pubDate>Wed, 24 May 2023 07:43:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @julesstorr: My review in @FacultyOpinions on this interesting paper in @AJICJournal 👇Did managers of long-term care facilities neglect…</title>
-      <link>https://twitter.com/Facultyopinions/status/1661277187067068416</link>
-      <description>RT @julesstorr: My review in @FacultyOpinions on this interesting paper in @AJICJournal 👇Did managers of long-term care facilities neglect…</description>
-      <content:encoded>RT @julesstorr: My review in @FacultyOpinions on this interesting paper in @AJICJournal 👇Did managers of long-term care facilities neglect…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1661277187067068416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 07:45:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Article: Regulatory elements coordinating initiation of chromosome replication to the Escherichia coli cell cycle #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology @PNASNews @johan_elf_ 
-https://t.co/oEmn8pij1b https://t.co/deWJrP8Amr https://t.co/27033igd6Z</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1661278484977598466</link>
-      <description>Article: Regulatory elements coordinating initiation of chromosome replication to the Escherichia coli cell cycle #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology @PNASNews @johan_elf_ 
-https://t.co/oEmn8pij1b https://t.co/deWJrP8Amr https://t.co/27033igd6Z</description>
-      <content:encoded>Article: Regulatory elements coordinating initiation of chromosome replication to the Escherichia coli cell cycle #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology @PNASNews @johan_elf_ 
-https://t.co/oEmn8pij1b https://t.co/deWJrP8Amr https://t.co/27033igd6Z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1661278484977598466"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw4L-IgWcAMEqQ5.png" length="397" type="photo"/>
-      <pubDate>Wed, 24 May 2023 07:50:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Within the HBP, researchers integrate #neuroscience data into models and simulate the #brain on different scales.
-
-Now, the researchers have taken #simulation to the next level – or rather to multiple levels at once.
-
-Read more ➡️ https://t.co/ph2Edhsdee https://t.co/H1AMi5rjq2</title>
-      <link>https://twitter.com/HumanBrainProj/status/1661279113334730757</link>
-      <description>Within the HBP, researchers integrate #neuroscience data into models and simulate the #brain on different scales.
-
-Now, the researchers have taken #simulation to the next level – or rather to multiple levels at once.
-
-Read more ➡️ https://t.co/ph2Edhsdee https://t.co/H1AMi5rjq2</description>
-      <content:encoded>Within the HBP, researchers integrate #neuroscience data into models and simulate the #brain on different scales.
-
-Now, the researchers have taken #simulation to the next level – or rather to multiple levels at once.
-
-Read more ➡️ https://t.co/ph2Edhsdee https://t.co/H1AMi5rjq2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HumanBrainProj/status/1661279113334730757"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw4MOcIXoAMAj-p.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 07:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We're geared up for the final day of Pint of Science festival! 🎉
-
-Today's speakers are 
-🟠 Pallabi
-🟡 Lucas 
-🟢 Francisco
-
-Join us for talks on DNA structure, life on Mars, and Biodiversity, with fun activities!
-
-You can also win a prize! 🎁 🥳
-
-See you tonight at Elektra @ 6!</title>
-      <link>https://twitter.com/PostdocUmu/status/1661279506114523137</link>
-      <description>We're geared up for the final day of Pint of Science festival! 🎉
-
-Today's speakers are 
-🟠 Pallabi
-🟡 Lucas 
-🟢 Francisco
-
-Join us for talks on DNA structure, life on Mars, and Biodiversity, with fun activities!
-
-You can also win a prize! 🎁 🥳
-
-See you tonight at Elektra @ 6!</description>
-      <content:encoded>We're geared up for the final day of Pint of Science festival! 🎉
-
-Today's speakers are 
-🟠 Pallabi
-🟡 Lucas 
-🟢 Francisco
-
-Join us for talks on DNA structure, life on Mars, and Biodiversity, with fun activities!
-
-You can also win a prize! 🎁 🥳
-
-See you tonight at Elektra @ 6!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1661279506114523137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 07:54:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab @_fernando_rosas @ProfLaurenRoss Neurons are not molecules of a gas, that's for sure.
-
-If similar approaches won't get to some insights about the brain it's difficult to say. Statistical physics has provided a very powerful framework for many Complex problems, to date.</title>
-      <link>https://twitter.com/manlius84/status/1661279840526319617</link>
-      <description>@KordingLab @_fernando_rosas @ProfLaurenRoss Neurons are not molecules of a gas, that's for sure.
-
-If similar approaches won't get to some insights about the brain it's difficult to say. Statistical physics has provided a very powerful framework for many Complex problems, to date.</description>
-      <content:encoded>@KordingLab @_fernando_rosas @ProfLaurenRoss Neurons are not molecules of a gas, that's for sure.
-
-If similar approaches won't get to some insights about the brain it's difficult to say. Statistical physics has provided a very powerful framework for many Complex problems, to date.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1661279840526319617"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 07:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers @MIT_Picower conducted a detailed study on #serotonin, a key molecule in influencing mood and behavior, tracing its impact from the molecular level to the brain’s overall functioning. Read more here
-https://t.co/9lgRgmo1r5
-#neuroscience https://t.co/Gp7xfVGHIf</title>
-      <link>https://twitter.com/Scientifica_Int/status/1661280882949255172</link>
-      <description>Researchers @MIT_Picower conducted a detailed study on #serotonin, a key molecule in influencing mood and behavior, tracing its impact from the molecular level to the brain’s overall functioning. Read more here
-https://t.co/9lgRgmo1r5
-#neuroscience https://t.co/Gp7xfVGHIf</description>
-      <content:encoded>Researchers @MIT_Picower conducted a detailed study on #serotonin, a key molecule in influencing mood and behavior, tracing its impact from the molecular level to the brain’s overall functioning. Read more here
-https://t.co/9lgRgmo1r5
-#neuroscience https://t.co/Gp7xfVGHIf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1661280882949255172"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw4OKHxXoAgTZ3Q.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 08:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>#119: Choose Your Weapon: Survival Strategies for Depressed AI Academics by @togelius @yannakakis
-
-Tongue-in-cheek recs for AI researchers. It does seem that success lies in showing performance on a toy problem + getting hired to AI companies to scale it.
-
-https://t.co/jJauLzcEXY https://t.co/vFczQQ6AKk</title>
-      <link>https://twitter.com/bdanubius/status/1661281121017921536</link>
-      <description>#119: Choose Your Weapon: Survival Strategies for Depressed AI Academics by @togelius @yannakakis
-
-Tongue-in-cheek recs for AI researchers. It does seem that success lies in showing performance on a toy problem + getting hired to AI companies to scale it.
-
-https://t.co/jJauLzcEXY https://t.co/vFczQQ6AKk</description>
-      <content:encoded>#119: Choose Your Weapon: Survival Strategies for Depressed AI Academics by @togelius @yannakakis
-
-Tongue-in-cheek recs for AI researchers. It does seem that success lies in showing performance on a toy problem + getting hired to AI companies to scale it.
-
-https://t.co/jJauLzcEXY https://t.co/vFczQQ6AKk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1661281121017921536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw4NJyhXoAEvCfc.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 08:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>See also: "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models"
-
-@ThankYourNiceAI Sam Manning @ManlikeMishap @danielrock
-
-https://t.co/cRpJGc4uyt</title>
-      <link>https://twitter.com/bdanubius/status/1661281123295453185</link>
-      <description>See also: "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models"
-
-@ThankYourNiceAI Sam Manning @ManlikeMishap @danielrock
-
-https://t.co/cRpJGc4uyt</description>
-      <content:encoded>See also: "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models"
-
-@ThankYourNiceAI Sam Manning @ManlikeMishap @danielrock
-
-https://t.co/cRpJGc4uyt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1661281123295453185"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 08:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>A juvenile filefish. 
-
-They are closey related to pufferfish and live in shallow waters, inhabiting depths of no more than about 30 metres.
-
-[📹 Jacob Guy: https://t.co/BbrfnepImk]
-https://t.co/1JNmxqXQZw</title>
-      <link>https://twitter.com/Rainmaker1973/status/1661281159244926977</link>
-      <description>A juvenile filefish. 
-
-They are closey related to pufferfish and live in shallow waters, inhabiting depths of no more than about 30 metres.
-
-[📹 Jacob Guy: https://t.co/BbrfnepImk]
-https://t.co/1JNmxqXQZw</description>
-      <content:encoded>A juvenile filefish. 
-
-They are closey related to pufferfish and live in shallow waters, inhabiting depths of no more than about 30 metres.
-
-[📹 Jacob Guy: https://t.co/BbrfnepImk]
-https://t.co/1JNmxqXQZw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661281159244926977"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1661009646809944071/pu/img/X5fjxx4zTireqdFv.jpg" length="675" type="photo"/>
-      <pubDate>Wed, 24 May 2023 08:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations Kanaka 👏. 
-We are looking forward to you and your contributions at the #BernsteinConference in September! https://t.co/6RwOGyWVV1</title>
-      <link>https://twitter.com/BernsteinNeuro/status/1661283302945292294</link>
-      <description>Congratulations Kanaka 👏. 
-We are looking forward to you and your contributions at the #BernsteinConference in September! https://t.co/6RwOGyWVV1</description>
-      <content:encoded>Congratulations Kanaka 👏. 
-We are looking forward to you and your contributions at the #BernsteinConference in September! https://t.co/6RwOGyWVV1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1661283302945292294"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 08:09:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @RaffaellaRicc15: How to impact the #Agrifood system? 🌍🚀
-How to take the leap from an idea to the market?
-Don’t miss our #webinar tomorr…</title>
-      <link>https://twitter.com/PostdocUmu/status/1661283760426328073</link>
-      <description>RT @RaffaellaRicc15: How to impact the #Agrifood system? 🌍🚀
-How to take the leap from an idea to the market?
-Don’t miss our #webinar tomorr…</description>
-      <content:encoded>RT @RaffaellaRicc15: How to impact the #Agrifood system? 🌍🚀
-How to take the leap from an idea to the market?
-Don’t miss our #webinar tomorr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1661283760426328073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 08:11:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 May 2023 20:17:00 +0000</lastBuildDate>
     <item>
       <title>#Vaccines against #smallpox given until the mid-1970s offer continuing cross-reactive immunity to #mpox (monkeypox), report researchers from @karolinskainst #Research supported by Knut and Alice Wallenberg Foundation #KAW100 #infections @marcus_buggert 
 https://t.co/OelmAniSfM https://t.co/XVG6X3ZEMO https://t.co/0cKUxVAOUp</title>
@@ -2309,6 +2005,180 @@ https://t.co/VQS6VTo8Vd https://t.co/nW5VIcWCTz&lt;blockquote class="twitter-twe
       <description>Flexible solar cells made with crystalline silicon https://t.co/thpFZDB41c</description>
       <content:encoded>Flexible solar cells made with crystalline silicon https://t.co/thpFZDB41c&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1661449130768584707"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 24 May 2023 19:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fed-ComBat: A Generalized Federated Framework for Batch Effect Harmonization in Collaborative Studies  https://t.co/e5Bk3QmGaC #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1661450886311301132</link>
+      <description>Fed-ComBat: A Generalized Federated Framework for Batch Effect Harmonization in Collaborative Studies  https://t.co/e5Bk3QmGaC #biorxiv_neursci</description>
+      <content:encoded>Fed-ComBat: A Generalized Federated Framework for Batch Effect Harmonization in Collaborative Studies  https://t.co/e5Bk3QmGaC #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661450886311301132"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modulation of visually induced self-motion illusions by alpha transcranial electric stimulation over the superior parietal cortex  https://t.co/p5FwgmXSnb #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1661451001851682816</link>
+      <description>Modulation of visually induced self-motion illusions by alpha transcranial electric stimulation over the superior parietal cortex  https://t.co/p5FwgmXSnb #biorxiv_neursci</description>
+      <content:encoded>Modulation of visually induced self-motion illusions by alpha transcranial electric stimulation over the superior parietal cortex  https://t.co/p5FwgmXSnb #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661451001851682816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:16:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synaptic turnover promotes efficient learning in bio-realistic spiking neural networks  https://t.co/3xCyCYhPW4 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1661451069224808448</link>
+      <description>Synaptic turnover promotes efficient learning in bio-realistic spiking neural networks  https://t.co/3xCyCYhPW4 #biorxiv_neursci</description>
+      <content:encoded>Synaptic turnover promotes efficient learning in bio-realistic spiking neural networks  https://t.co/3xCyCYhPW4 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661451069224808448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @andreashorn_: As a consequence of the debacle that @ElsevierConnect put upon our field with @NeuroImage_EiC (-&amp;gt; now @ImagingNeurosci),…</title>
+      <link>https://twitter.com/chrisdc77/status/1661452060527677449</link>
+      <description>RT @andreashorn_: As a consequence of the debacle that @ElsevierConnect put upon our field with @NeuroImage_EiC (-&amp;gt; now @ImagingNeurosci),…</description>
+      <content:encoded>RT @andreashorn_: As a consequence of the debacle that @ElsevierConnect put upon our field with @NeuroImage_EiC (-&amp;gt; now @ImagingNeurosci),…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1661452060527677449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ai_unique: 🌟UNIQUE Student Symposium: EXTENSION DEADLINE🌟
+
+USS is a 2-day conference for students on Neuro-AI🧠🤖. Join us on June 5-6 at…</title>
+      <link>https://twitter.com/tyrell_turing/status/1661452288542625794</link>
+      <description>RT @ai_unique: 🌟UNIQUE Student Symposium: EXTENSION DEADLINE🌟
+
+USS is a 2-day conference for students on Neuro-AI🧠🤖. Join us on June 5-6 at…</description>
+      <content:encoded>RT @ai_unique: 🌟UNIQUE Student Symposium: EXTENSION DEADLINE🌟
+
+USS is a 2-day conference for students on Neuro-AI🧠🤖. Join us on June 5-6 at…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1661452288542625794"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>There's a great course by Aditi Raghunathan on deep learning theory (https://t.co/0uv1J888Hf), so I compiled the references and had an LLM summarize them https://t.co/H0AClytoKE https://t.co/zscFKC02Ix</title>
+      <link>https://twitter.com/patrickmineault/status/1661453458187198465</link>
+      <description>There's a great course by Aditi Raghunathan on deep learning theory (https://t.co/0uv1J888Hf), so I compiled the references and had an LLM summarize them https://t.co/H0AClytoKE https://t.co/zscFKC02Ix</description>
+      <content:encoded>There's a great course by Aditi Raghunathan on deep learning theory (https://t.co/0uv1J888Hf), so I compiled the references and had an LLM summarize them https://t.co/H0AClytoKE https://t.co/zscFKC02Ix&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661453458187198465"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impressed by how well the ChatGPT-4 LinkReader plugin works, 95% hit rate on fetching and summarizing PDFs. Also love how it's easy to create bespoke reviews targeting different audiences, we live in the future. https://t.co/qxsb23sYKV</title>
+      <link>https://twitter.com/patrickmineault/status/1661453460481384451</link>
+      <description>Impressed by how well the ChatGPT-4 LinkReader plugin works, 95% hit rate on fetching and summarizing PDFs. Also love how it's easy to create bespoke reviews targeting different audiences, we live in the future. https://t.co/qxsb23sYKV</description>
+      <content:encoded>Impressed by how well the ChatGPT-4 LinkReader plugin works, 95% hit rate on fetching and summarizing PDFs. Also love how it's easy to create bespoke reviews targeting different audiences, we live in the future. https://t.co/qxsb23sYKV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661453460481384451"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw6q7UVX0Aw85i6.png" length="1200" type="photo"/>
+      <pubDate>Wed, 24 May 2023 19:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @alex_ander: Multimodal transformers make it possible to transfer fMRI encoding models between language and vision! (though mostly from…</title>
+      <link>https://twitter.com/patrickmineault/status/1661454107381563394</link>
+      <description>RT @alex_ander: Multimodal transformers make it possible to transfer fMRI encoding models between language and vision! (though mostly from…</description>
+      <content:encoded>RT @alex_ander: Multimodal transformers make it possible to transfer fMRI encoding models between language and vision! (though mostly from…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661454107381563394"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:28:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>"To protect Venezuela’s people, culture, biodiversity, and environment, the country must curtail mineral extraction," argues a new #LetterToScience. https://t.co/Pgi5snT4qC https://t.co/CYqoR8WC5i</title>
+      <link>https://twitter.com/ScienceMagazine/status/1661454671100223489</link>
+      <description>"To protect Venezuela’s people, culture, biodiversity, and environment, the country must curtail mineral extraction," argues a new #LetterToScience. https://t.co/Pgi5snT4qC https://t.co/CYqoR8WC5i</description>
+      <content:encoded>"To protect Venezuela’s people, culture, biodiversity, and environment, the country must curtail mineral extraction," argues a new #LetterToScience. https://t.co/Pgi5snT4qC https://t.co/CYqoR8WC5i&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661454671100223489"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw6sN7-XgAASYAm.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 24 May 2023 19:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cool study applying goal-driven neural networks to higher-level, more cognitively-driven areas. The key experimental data comes from a mental Pong task in which the ball is hidden behind a wall. Only way to solve the task is via forward simulation/prediction. We're far from V1! https://t.co/VGdWPcorjt</title>
+      <link>https://twitter.com/patrickmineault/status/1661456954303164417</link>
+      <description>Cool study applying goal-driven neural networks to higher-level, more cognitively-driven areas. The key experimental data comes from a mental Pong task in which the ball is hidden behind a wall. Only way to solve the task is via forward simulation/prediction. We're far from V1! https://t.co/VGdWPcorjt</description>
+      <content:encoded>Cool study applying goal-driven neural networks to higher-level, more cognitively-driven areas. The key experimental data comes from a mental Pong task in which the ball is hidden behind a wall. Only way to solve the task is via forward simulation/prediction. We're far from V1! https://t.co/VGdWPcorjt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661456954303164417"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:39:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JWietek: Almost there... final touches... 12 plasmids @Addgene
+
+@ my co-authors: reserve some time in the near future to get through th…</title>
+      <link>https://twitter.com/Addgene/status/1661460721681440768</link>
+      <description>RT @JWietek: Almost there... final touches... 12 plasmids @Addgene
+
+@ my co-authors: reserve some time in the near future to get through th…</description>
+      <content:encoded>RT @JWietek: Almost there... final touches... 12 plasmids @Addgene
+
+@ my co-authors: reserve some time in the near future to get through th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1661460721681440768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>A digital bridge between brain and spinal cord restores walking after paralysis https://t.co/23nmu2wv2b</title>
+      <link>https://twitter.com/NatureNV/status/1661461319936094210</link>
+      <description>A digital bridge between brain and spinal cord restores walking after paralysis https://t.co/23nmu2wv2b</description>
+      <content:encoded>A digital bridge between brain and spinal cord restores walking after paralysis https://t.co/23nmu2wv2b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1661461319936094210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:57:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @l_masu: ÅNGSTRÖM-RESOLUTION FLUORESCENCE MICROSCOPY. Can we do structural biology with an optical microscope? Yes!
+
+Check out how we re…</title>
+      <link>https://twitter.com/Addgene/status/1661461432909660160</link>
+      <description>RT @l_masu: ÅNGSTRÖM-RESOLUTION FLUORESCENCE MICROSCOPY. Can we do structural biology with an optical microscope? Yes!
+
+Check out how we re…</description>
+      <content:encoded>RT @l_masu: ÅNGSTRÖM-RESOLUTION FLUORESCENCE MICROSCOPY. Can we do structural biology with an optical microscope? Yes!
+
+Check out how we re…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1661461432909660160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 19:57:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>What does carbon dioxide removal look like?
+💨 Direct air capture
+🌳 Reforestation 
+🌊 Coastal blue carbon 
+
+And more👇🏽  https://t.co/zEWlpr1go5</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1661462154749399042</link>
+      <description>What does carbon dioxide removal look like?
+💨 Direct air capture
+🌳 Reforestation 
+🌊 Coastal blue carbon 
+
+And more👇🏽  https://t.co/zEWlpr1go5</description>
+      <content:encoded>What does carbon dioxide removal look like?
+💨 Direct air capture
+🌳 Reforestation 
+🌊 Coastal blue carbon 
+
+And more👇🏽  https://t.co/zEWlpr1go5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1661462154749399042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 20:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spaces with @RonDeSantis in ~2 hours!</title>
+      <link>https://twitter.com/elonmusk/status/1661463844131340296</link>
+      <description>Spaces with @RonDeSantis in ~2 hours!</description>
+      <content:encoded>Spaces with @RonDeSantis in ~2 hours!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1661463844131340296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 20:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>AAV-syn-NES-jGCaMP8m-WPRE
+Depositor: Loren Looger
+Purpose: AAV-mediated cytosolic expression of jGCaMP8m under the synapsin promoter
+
+https://t.co/Et5AI7yfFX https://t.co/uyXornBayK</title>
+      <link>https://twitter.com/Addgene/status/1661464094426234880</link>
+      <description>AAV-syn-NES-jGCaMP8m-WPRE
+Depositor: Loren Looger
+Purpose: AAV-mediated cytosolic expression of jGCaMP8m under the synapsin promoter
+
+https://t.co/Et5AI7yfFX https://t.co/uyXornBayK</description>
+      <content:encoded>AAV-syn-NES-jGCaMP8m-WPRE
+Depositor: Loren Looger
+Purpose: AAV-mediated cytosolic expression of jGCaMP8m under the synapsin promoter
+
+https://t.co/Et5AI7yfFX https://t.co/uyXornBayK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1661464094426234880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fw60x7rXoAYGlpO.jpg" length="480" type="photo"/>
+      <pubDate>Wed, 24 May 2023 20:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SfNJournals: #JNeurosci research from @drmelp @dipa_pati et al @UNC @UMmedschool @UMMedNeuro shows the endogenous opioid system in the…</title>
+      <link>https://twitter.com/SfNtweets/status/1661465827906838528</link>
+      <description>RT @SfNJournals: #JNeurosci research from @drmelp @dipa_pati et al @UNC @UMmedschool @UMMedNeuro shows the endogenous opioid system in the…</description>
+      <content:encoded>RT @SfNJournals: #JNeurosci research from @drmelp @dipa_pati et al @UNC @UMmedschool @UMMedNeuro shows the endogenous opioid system in the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1661465827906838528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 20:14:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Basolateral Amygdala Corticotrophin Releasing Factor Receptor 2 Interacts with Nonmuscle Myosin II to Destabilize Memory  https://t.co/lFlL2HkhDP #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1661466023634124806</link>
+      <description>Basolateral Amygdala Corticotrophin Releasing Factor Receptor 2 Interacts with Nonmuscle Myosin II to Destabilize Memory  https://t.co/lFlL2HkhDP #biorxiv_neursci</description>
+      <content:encoded>Basolateral Amygdala Corticotrophin Releasing Factor Receptor 2 Interacts with Nonmuscle Myosin II to Destabilize Memory  https://t.co/lFlL2HkhDP #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661466023634124806"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 20:15:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
