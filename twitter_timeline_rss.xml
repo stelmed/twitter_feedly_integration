@@ -6,29 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 May 2023 01:21:27 +0000</lastBuildDate>
-    <item>
-      <title>Both DeepNets and Random Forest are way over confident when they get far from the training data.  6/12 https://t.co/Y2Y6sh0D1b</title>
-      <link>https://twitter.com/neuro_data/status/1661355032564858880</link>
-      <description>Both DeepNets and Random Forest are way over confident when they get far from the training data.  6/12 https://t.co/Y2Y6sh0D1b</description>
-      <content:encoded>Both DeepNets and Random Forest are way over confident when they get far from the training data.  6/12 https://t.co/Y2Y6sh0D1b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1661355032564858880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw5P5dQWcAMPYgB.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 12:54:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>We conceptualize both Deepnets (DN) and Random Forest (RF) as generalized partitioning rules with an affine function learned over each partition or polytope of the feature space.  7/12</title>
-      <link>https://twitter.com/neuro_data/status/1661355034737557504</link>
-      <description>We conceptualize both Deepnets (DN) and Random Forest (RF) as generalized partitioning rules with an affine function learned over each partition or polytope of the feature space.  7/12</description>
-      <content:encoded>We conceptualize both Deepnets (DN) and Random Forest (RF) as generalized partitioning rules with an affine function learned over each partition or polytope of the feature space.  7/12&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1661355034737557504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 12:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>We replace the affine function over each polytope populated by the training data with a Gaussian kernel learned using the training data and prune the unpopulated polytopes. We call the proposed approach Kernel Generative Forest (KGF) and Kernel Generative Network (KGN).  8/12</title>
-      <link>https://twitter.com/neuro_data/status/1661355036184657922</link>
-      <description>We replace the affine function over each polytope populated by the training data with a Gaussian kernel learned using the training data and prune the unpopulated polytopes. We call the proposed approach Kernel Generative Forest (KGF) and Kernel Generative Network (KGN).  8/12</description>
-      <content:encoded>We replace the affine function over each polytope populated by the training data with a Gaussian kernel learned using the training data and prune the unpopulated polytopes. We call the proposed approach Kernel Generative Forest (KGF) and Kernel Generative Network (KGN).  8/12&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1661355036184657922"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 12:54:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 May 2023 02:34:16 +0000</lastBuildDate>
     <item>
       <title>Our proposed modification results in better posterior calibration both in in- and out-of-distribution regions. 9/12 https://t.co/BWYsdmxEpK</title>
       <link>https://twitter.com/neuro_data/status/1661355037413588998</link>
@@ -1521,13 +1499,6 @@ https://t.co/oP4JJInAqW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Wed, 24 May 2023 20:26:29 +0000</pubDate>
     </item>
     <item>
-      <title>RT @NewsfromScience: Scientists who reflect on their racial and ethnic identities—as well as on those of their mentees—have the potential t…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661472408790876164</link>
-      <description>RT @NewsfromScience: Scientists who reflect on their racial and ethnic identities—as well as on those of their mentees—have the potential t…</description>
-      <content:encoded>RT @NewsfromScience: Scientists who reflect on their racial and ethnic identities—as well as on those of their mentees—have the potential t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661472408790876164"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:41:05 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @karimjerbineuro: 📣 Job announcement 📣 
 
 Assistant/Associate Professor in
@@ -1943,6 +1914,47 @@ Learn from these amazing AI experts and more here ➡️ https://t.co/TG4J2sd5hJ
       <description>Thalamic contributions to psychosis susceptibility: Evidence from co-activation patterns accounting for intra-seed spatial ...  https://t.co/jkcfNpC8eV #biorxiv_neursci</description>
       <content:encoded>Thalamic contributions to psychosis susceptibility: Evidence from co-activation patterns accounting for intra-seed spatial ...  https://t.co/jkcfNpC8eV #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661541749808943105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 25 May 2023 01:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fear of large predators drives smaller predators into human-inhabited areas they perceive as safer—but where risk is greater, a new Science study finds. The results describe a “paradox of the lethal human shield.”
+
+Learn more: https://t.co/Pqbo9sZX1V; https://t.co/TF3zLHl4xX https://t.co/pGvMyXry7O</title>
+      <link>https://twitter.com/ScienceMagazine/status/1661545143835426816</link>
+      <description>Fear of large predators drives smaller predators into human-inhabited areas they perceive as safer—but where risk is greater, a new Science study finds. The results describe a “paradox of the lethal human shield.”
+
+Learn more: https://t.co/Pqbo9sZX1V; https://t.co/TF3zLHl4xX https://t.co/pGvMyXry7O</description>
+      <content:encoded>Fear of large predators drives smaller predators into human-inhabited areas they perceive as safer—but where risk is greater, a new Science study finds. The results describe a “paradox of the lethal human shield.”
+
+Learn more: https://t.co/Pqbo9sZX1V; https://t.co/TF3zLHl4xX https://t.co/pGvMyXry7O&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661545143835426816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw7-gJ7WAAA_92R.jpg" length="800" type="photo"/>
+      <pubDate>Thu, 25 May 2023 01:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>And btw, if not accepted, great chance to get ready for next year. You got this.</title>
+      <link>https://twitter.com/KordingLab/status/1661545322428919815</link>
+      <description>And btw, if not accepted, great chance to get ready for next year. You got this.</description>
+      <content:encoded>And btw, if not accepted, great chance to get ready for next year. You got this.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1661545322428919815"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 01:30:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JHU_BDPs: CONGRATS to @HopkinsEngineer PhD student Yutong Bai for being named @Apple Scholar in artificial intelligence and machine lea…</title>
+      <link>https://twitter.com/rhuganir/status/1661550837468995584</link>
+      <description>RT @JHU_BDPs: CONGRATS to @HopkinsEngineer PhD student Yutong Bai for being named @Apple Scholar in artificial intelligence and machine lea…</description>
+      <content:encoded>RT @JHU_BDPs: CONGRATS to @HopkinsEngineer PhD student Yutong Bai for being named @Apple Scholar in artificial intelligence and machine lea…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1661550837468995584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 01:52:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: The role of category ambiguity in normal and impaired lexical processing: can you paint without the paint?: Introduction
+
+Many words are categorially ambiguous and can be used as a verb (to paint) or as a noun (the paint) due… #Neuroscience https://t.co/gWtUWfgww7</title>
+      <link>https://twitter.com/FrontNeurosci/status/1661554696589549569</link>
+      <description>New Research: The role of category ambiguity in normal and impaired lexical processing: can you paint without the paint?: Introduction
+
+Many words are categorially ambiguous and can be used as a verb (to paint) or as a noun (the paint) due… #Neuroscience https://t.co/gWtUWfgww7</description>
+      <content:encoded>New Research: The role of category ambiguity in normal and impaired lexical processing: can you paint without the paint?: Introduction
+
+Many words are categorially ambiguous and can be used as a verb (to paint) or as a noun (the paint) due… #Neuroscience https://t.co/gWtUWfgww7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1661554696589549569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 02:08:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
