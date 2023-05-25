@@ -6,242 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 May 2023 14:15:06 +0000</lastBuildDate>
-    <item>
-      <title>What does carbon dioxide removal look like?
-💨 Direct air capture
-🌳 Reforestation 
-🌊 Coastal blue carbon 
-
-And more👇🏽  https://t.co/zEWlpr1go5</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1661462154749399042</link>
-      <description>What does carbon dioxide removal look like?
-💨 Direct air capture
-🌳 Reforestation 
-🌊 Coastal blue carbon 
-
-And more👇🏽  https://t.co/zEWlpr1go5</description>
-      <content:encoded>What does carbon dioxide removal look like?
-💨 Direct air capture
-🌳 Reforestation 
-🌊 Coastal blue carbon 
-
-And more👇🏽  https://t.co/zEWlpr1go5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1661462154749399042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spaces with @RonDeSantis in ~2 hours!</title>
-      <link>https://twitter.com/elonmusk/status/1661463844131340296</link>
-      <description>Spaces with @RonDeSantis in ~2 hours!</description>
-      <content:encoded>Spaces with @RonDeSantis in ~2 hours!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1661463844131340296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>AAV-syn-NES-jGCaMP8m-WPRE
-Depositor: Loren Looger
-Purpose: AAV-mediated cytosolic expression of jGCaMP8m under the synapsin promoter
-
-https://t.co/Et5AI7yfFX https://t.co/uyXornBayK</title>
-      <link>https://twitter.com/Addgene/status/1661464094426234880</link>
-      <description>AAV-syn-NES-jGCaMP8m-WPRE
-Depositor: Loren Looger
-Purpose: AAV-mediated cytosolic expression of jGCaMP8m under the synapsin promoter
-
-https://t.co/Et5AI7yfFX https://t.co/uyXornBayK</description>
-      <content:encoded>AAV-syn-NES-jGCaMP8m-WPRE
-Depositor: Loren Looger
-Purpose: AAV-mediated cytosolic expression of jGCaMP8m under the synapsin promoter
-
-https://t.co/Et5AI7yfFX https://t.co/uyXornBayK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1661464094426234880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fw60x7rXoAYGlpO.jpg" length="480" type="photo"/>
-      <pubDate>Wed, 24 May 2023 20:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @SfNJournals: #JNeurosci research from @drmelp @dipa_pati et al @UNC @UMmedschool @UMMedNeuro shows the endogenous opioid system in the…</title>
-      <link>https://twitter.com/SfNtweets/status/1661465827906838528</link>
-      <description>RT @SfNJournals: #JNeurosci research from @drmelp @dipa_pati et al @UNC @UMmedschool @UMMedNeuro shows the endogenous opioid system in the…</description>
-      <content:encoded>RT @SfNJournals: #JNeurosci research from @drmelp @dipa_pati et al @UNC @UMmedschool @UMMedNeuro shows the endogenous opioid system in the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1661465827906838528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:14:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Basolateral Amygdala Corticotrophin Releasing Factor Receptor 2 Interacts with Nonmuscle Myosin II to Destabilize Memory  https://t.co/lFlL2HkhDP #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661466023634124806</link>
-      <description>Basolateral Amygdala Corticotrophin Releasing Factor Receptor 2 Interacts with Nonmuscle Myosin II to Destabilize Memory  https://t.co/lFlL2HkhDP #biorxiv_neursci</description>
-      <content:encoded>Basolateral Amygdala Corticotrophin Releasing Factor Receptor 2 Interacts with Nonmuscle Myosin II to Destabilize Memory  https://t.co/lFlL2HkhDP #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661466023634124806"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:15:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/plDKDcf8xP</title>
-      <link>https://twitter.com/ylecun/status/1661466801325187074</link>
-      <description>https://t.co/plDKDcf8xP</description>
-      <content:encoded>https://t.co/plDKDcf8xP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1661466801325187074"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw63Pe1WYAEFpOC.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 20:18:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @svscarpino: How do we build safe, ethical AI? 
-
-We need to make models, code, data open source. 
-
-Prof @ylecun during his fireside chat…</title>
-      <link>https://twitter.com/ylecun/status/1661467259343101955</link>
-      <description>RT @svscarpino: How do we build safe, ethical AI? 
-
-We need to make models, code, data open source. 
-
-Prof @ylecun during his fireside chat…</description>
-      <content:encoded>RT @svscarpino: How do we build safe, ethical AI? 
-
-We need to make models, code, data open source. 
-
-Prof @ylecun during his fireside chat…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1661467259343101955"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>This week’s AI news: 
-- An EU task force investigates AI
-- Investors predict bank rates using LLMs
-- Architects build on AI-generated designs
-
-Plus: Researchers run high-performance self-driving algorithms... on a toy car.
-
-Learn more in #TheBatch: https://t.co/lznbglMR9o</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1661468660970471427</link>
-      <description>This week’s AI news: 
-- An EU task force investigates AI
-- Investors predict bank rates using LLMs
-- Architects build on AI-generated designs
-
-Plus: Researchers run high-performance self-driving algorithms... on a toy car.
-
-Learn more in #TheBatch: https://t.co/lznbglMR9o</description>
-      <content:encoded>This week’s AI news: 
-- An EU task force investigates AI
-- Investors predict bank rates using LLMs
-- Architects build on AI-generated designs
-
-Plus: Researchers run high-performance self-driving algorithms... on a toy car.
-
-Learn more in #TheBatch: https://t.co/lznbglMR9o&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1661468660970471427"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Concept of the experiment: delivering IR light with the developed interface to generate heat-induced variations in neural activity while conducting simultaneous electrophysiology based on the integrated electrodes. Happy to be part of this work- congrats!
-https://t.co/oP4JJInAqW</title>
-      <link>https://twitter.com/RuneWBerg/status/1661468733955620866</link>
-      <description>Concept of the experiment: delivering IR light with the developed interface to generate heat-induced variations in neural activity while conducting simultaneous electrophysiology based on the integrated electrodes. Happy to be part of this work- congrats!
-https://t.co/oP4JJInAqW</description>
-      <content:encoded>Concept of the experiment: delivering IR light with the developed interface to generate heat-induced variations in neural activity while conducting simultaneous electrophysiology based on the integrated electrodes. Happy to be part of this work- congrats!
-https://t.co/oP4JJInAqW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/RuneWBerg/status/1661468733955620866"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:26:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @karimjerbineuro: 📣 Job announcement 📣 
-
-Assistant/Associate Professor in
-
-Artificial Intelligence (AI) Applied to Digital Health
-
-@ Dep…</title>
-      <link>https://twitter.com/tyrell_turing/status/1661473435460206592</link>
-      <description>RT @karimjerbineuro: 📣 Job announcement 📣 
-
-Assistant/Associate Professor in
-
-Artificial Intelligence (AI) Applied to Digital Health
-
-@ Dep…</description>
-      <content:encoded>RT @karimjerbineuro: 📣 Job announcement 📣 
-
-Assistant/Associate Professor in
-
-Artificial Intelligence (AI) Applied to Digital Health
-
-@ Dep…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1661473435460206592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:45:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>This approach to localization microscopy potentially opens the way to a more-detailed view of the molecular organization in cells - learn more in this terrific N&amp;amp;V by @AlistairCurd https://t.co/DTMH4fgia2</title>
-      <link>https://twitter.com/NatureNV/status/1661473672018665474</link>
-      <description>This approach to localization microscopy potentially opens the way to a more-detailed view of the molecular organization in cells - learn more in this terrific N&amp;amp;V by @AlistairCurd https://t.co/DTMH4fgia2</description>
-      <content:encoded>This approach to localization microscopy potentially opens the way to a more-detailed view of the molecular organization in cells - learn more in this terrific N&amp;amp;V by @AlistairCurd https://t.co/DTMH4fgia2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1661473672018665474"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 20:46:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>A fatty acid in maternal milk is critical for the maturation of the heart in newborn mice, according to a paper published in @Nature. https://t.co/p4A3kXvQcb https://t.co/qT2iAKW1SK</title>
-      <link>https://twitter.com/NaturePortfolio/status/1661474673505234949</link>
-      <description>A fatty acid in maternal milk is critical for the maturation of the heart in newborn mice, according to a paper published in @Nature. https://t.co/p4A3kXvQcb https://t.co/qT2iAKW1SK</description>
-      <content:encoded>A fatty acid in maternal milk is critical for the maturation of the heart in newborn mice, according to a paper published in @Nature. https://t.co/p4A3kXvQcb https://t.co/qT2iAKW1SK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1661474673505234949"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw6-ZM5XsAE7dNJ.jpg" length="1066" type="photo"/>
-      <pubDate>Wed, 24 May 2023 20:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>A vaccine for #chikungunya based on virus-like particles induces strong responses in humans and generates neutralizing antibodies that protect mice against multiple #alphaviruses, shows an analysis of a phase 2 trial. https://t.co/mjd6kK2jCI @ScienceTM https://t.co/EYgkRCAhiJ</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661477214498480130</link>
-      <description>A vaccine for #chikungunya based on virus-like particles induces strong responses in humans and generates neutralizing antibodies that protect mice against multiple #alphaviruses, shows an analysis of a phase 2 trial. https://t.co/mjd6kK2jCI @ScienceTM https://t.co/EYgkRCAhiJ</description>
-      <content:encoded>A vaccine for #chikungunya based on virus-like particles induces strong responses in humans and generates neutralizing antibodies that protect mice against multiple #alphaviruses, shows an analysis of a phase 2 trial. https://t.co/mjd6kK2jCI @ScienceTM https://t.co/EYgkRCAhiJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661477214498480130"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw7AuKEWAAA_pWA.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 21:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Effects of focused ultrasound in a "clean" mouse model of ultrasonic neuromodulation  https://t.co/CIwRYNK9sg #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661481060545298436</link>
-      <description>Effects of focused ultrasound in a "clean" mouse model of ultrasonic neuromodulation  https://t.co/CIwRYNK9sg #biorxiv_neursci</description>
-      <content:encoded>Effects of focused ultrasound in a "clean" mouse model of ultrasonic neuromodulation  https://t.co/CIwRYNK9sg #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661481060545298436"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 21:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Domain-specific cognitive impairment reflects prefrontal dysfunction in aged common marmosets  https://t.co/AaU6nR8PKp #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661481156792012801</link>
-      <description>Domain-specific cognitive impairment reflects prefrontal dysfunction in aged common marmosets  https://t.co/AaU6nR8PKp #biorxiv_neursci</description>
-      <content:encoded>Domain-specific cognitive impairment reflects prefrontal dysfunction in aged common marmosets  https://t.co/AaU6nR8PKp #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661481156792012801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 21:15:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Compression strategies for large-scale electrophysiology data  https://t.co/XcVck9CIgQ #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661481283497631749</link>
-      <description>Compression strategies for large-scale electrophysiology data  https://t.co/XcVck9CIgQ #biorxiv_neursci</description>
-      <content:encoded>Compression strategies for large-scale electrophysiology data  https://t.co/XcVck9CIgQ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661481283497631749"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 21:16:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ppjgoncalves: Excited about linking single-neuron biophysics to neural-population dynamics? Excited about machine learning for scientif…</title>
-      <link>https://twitter.com/CellTypist/status/1661481323784196096</link>
-      <description>RT @ppjgoncalves: Excited about linking single-neuron biophysics to neural-population dynamics? Excited about machine learning for scientif…</description>
-      <content:encoded>RT @ppjgoncalves: Excited about linking single-neuron biophysics to neural-population dynamics? Excited about machine learning for scientif…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1661481323784196096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 21:16:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>A 🔑 factor in young people's growth and success is the strength of their relationships with their teachers. Learn more about the @SearchInstitute ’s developmental framework ⬇️ https://t.co/E1dALXmZjm</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1661484802376183813</link>
-      <description>A 🔑 factor in young people's growth and success is the strength of their relationships with their teachers. Learn more about the @SearchInstitute ’s developmental framework ⬇️ https://t.co/E1dALXmZjm</description>
-      <content:encoded>A 🔑 factor in young people's growth and success is the strength of their relationships with their teachers. Learn more about the @SearchInstitute ’s developmental framework ⬇️ https://t.co/E1dALXmZjm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1661484802376183813"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 21:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Annalisa4fun: 🚨Looking for Postdocs! Please RT and DM if you have any question! New project on synaptic dysfunction in AD available 
-ht…</title>
-      <link>https://twitter.com/ranczlab/status/1661488663853662212</link>
-      <description>RT @Annalisa4fun: 🚨Looking for Postdocs! Please RT and DM if you have any question! New project on synaptic dysfunction in AD available 
-ht…</description>
-      <content:encoded>RT @Annalisa4fun: 🚨Looking for Postdocs! Please RT and DM if you have any question! New project on synaptic dysfunction in AD available 
-ht…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1661488663853662212"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 21:45:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HistedLab: Pretty amazing — cortical neural recordings to guide electrical stimulation that enabled a partially paralyzed patient to wa…</title>
-      <link>https://twitter.com/ranczlab/status/1661489164859195392</link>
-      <description>RT @HistedLab: Pretty amazing — cortical neural recordings to guide electrical stimulation that enabled a partially paralyzed patient to wa…</description>
-      <content:encoded>RT @HistedLab: Pretty amazing — cortical neural recordings to guide electrical stimulation that enabled a partially paralyzed patient to wa…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1661489164859195392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 21:47:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>An elusive photon captured on camera. https://t.co/p6y7qk8tCU</title>
-      <link>https://twitter.com/NatureNV/status/1661489613448380416</link>
-      <description>An elusive photon captured on camera. https://t.co/p6y7qk8tCU</description>
-      <content:encoded>An elusive photon captured on camera. https://t.co/p6y7qk8tCU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1661489613448380416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 24 May 2023 21:49:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 May 2023 15:15:36 +0000</lastBuildDate>
     <item>
       <title>Had a good conversation with @RishiSunak and others at @10DowningStreet on developing AI responsibly. AI has the potential to improve life dramatically, transform industries, deliver scientific and medical breakthroughs if government and industry work together. https://t.co/1WQpvSvUzr</title>
       <link>https://twitter.com/demishassabis/status/1661492866344968198</link>
@@ -2007,6 +1772,301 @@ Read more in our latest blog post: https://t.co/m96qfyZ1co&lt;blockquote class="
       <description>A new organelle found in fruit flies stores inorganic phosphate as phospholipids, which can be released in times of nutrient starvation https://t.co/5vZSMrvy72</description>
       <content:encoded>A new organelle found in fruit flies stores inorganic phosphate as phospholipids, which can be released in times of nutrient starvation https://t.co/5vZSMrvy72&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1661736760412622850"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 25 May 2023 14:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>A newly identified, rare genetic variant of the gene RELN is associated with over two decades of resilience to autosomal dominant Alzheimer’s disease in a male individual, according to a study published in @NatureMedicine. https://t.co/9B3FMd8av0 https://t.co/7tYkXaHhtS</title>
+      <link>https://twitter.com/NaturePortfolio/status/1661740174429294592</link>
+      <description>A newly identified, rare genetic variant of the gene RELN is associated with over two decades of resilience to autosomal dominant Alzheimer’s disease in a male individual, according to a study published in @NatureMedicine. https://t.co/9B3FMd8av0 https://t.co/7tYkXaHhtS</description>
+      <content:encoded>A newly identified, rare genetic variant of the gene RELN is associated with over two decades of resilience to autosomal dominant Alzheimer’s disease in a male individual, according to a study published in @NatureMedicine. https://t.co/9B3FMd8av0 https://t.co/7tYkXaHhtS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1661740174429294592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw-v3ZJacAEtg1p.jpg" length="1066" type="photo"/>
+      <pubDate>Thu, 25 May 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Also known as breakback, center hinged or seesaw poles, mid hinged poles eliminate the need for an elevated work platform, cherry picker or safety climb aystems, reducing ongoing pole maintenance costs
+
+[read more: https://t.co/1Bmzi26hD1]
+https://t.co/qzRJdeORYc</title>
+      <link>https://twitter.com/Rainmaker1973/status/1661740488406491136</link>
+      <description>Also known as breakback, center hinged or seesaw poles, mid hinged poles eliminate the need for an elevated work platform, cherry picker or safety climb aystems, reducing ongoing pole maintenance costs
+
+[read more: https://t.co/1Bmzi26hD1]
+https://t.co/qzRJdeORYc</description>
+      <content:encoded>Also known as breakback, center hinged or seesaw poles, mid hinged poles eliminate the need for an elevated work platform, cherry picker or safety climb aystems, reducing ongoing pole maintenance costs
+
+[read more: https://t.co/1Bmzi26hD1]
+https://t.co/qzRJdeORYc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661740488406491136"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1539958997201166338/pu/img/eB7sOxYmoHyaw-w6.jpg" length="576" type="photo"/>
+      <pubDate>Thu, 25 May 2023 14:26:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>With more powerful AI systems comes more responsibility to identify novel capabilities in models. 🔍
+
+Our new research looks at evaluating future 𝘦𝘹𝘵𝘳𝘦𝘮𝘦 risks, which may cause harm through misuse or misalignment.
+
+Here’s a snapshot of the work. 🧵 https://t.co/Y499hpV4no</title>
+      <link>https://twitter.com/DeepMind/status/1661741186774884355</link>
+      <description>With more powerful AI systems comes more responsibility to identify novel capabilities in models. 🔍
+
+Our new research looks at evaluating future 𝘦𝘹𝘵𝘳𝘦𝘮𝘦 risks, which may cause harm through misuse or misalignment.
+
+Here’s a snapshot of the work. 🧵 https://t.co/Y499hpV4no</description>
+      <content:encoded>With more powerful AI systems comes more responsibility to identify novel capabilities in models. 🔍
+
+Our new research looks at evaluating future 𝘦𝘹𝘵𝘳𝘦𝘮𝘦 risks, which may cause harm through misuse or misalignment.
+
+Here’s a snapshot of the work. 🧵 https://t.co/Y499hpV4no&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741186774884355"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:29:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Under our framework, AI developers could use evaluation to uncover:
+
+🔵 To what extent a model has certain ‘dangerous capabilities’ that could be used to threaten security, exert influence, or evade oversight
+🔵 Whether it's prone to applying these to cause harm. ⬇️ https://t.co/M4AZvq4Yv7</title>
+      <link>https://twitter.com/DeepMind/status/1661741189044006916</link>
+      <description>Under our framework, AI developers could use evaluation to uncover:
+
+🔵 To what extent a model has certain ‘dangerous capabilities’ that could be used to threaten security, exert influence, or evade oversight
+🔵 Whether it's prone to applying these to cause harm. ⬇️ https://t.co/M4AZvq4Yv7</description>
+      <content:encoded>Under our framework, AI developers could use evaluation to uncover:
+
+🔵 To what extent a model has certain ‘dangerous capabilities’ that could be used to threaten security, exert influence, or evade oversight
+🔵 Whether it's prone to applying these to cause harm. ⬇️ https://t.co/M4AZvq4Yv7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741189044006916"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw-wPGqaUAMIykw.jpg" length="1169" type="photo"/>
+      <pubDate>Thu, 25 May 2023 14:29:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚪ What’s a rule of thumb?
+
+The AI community should treat a system as highly dangerous if it has a capability profile sufficient for extreme harm, 𝘢𝘴𝘴𝘶𝘮𝘪𝘯𝘨 it's misused or poorly aligned.
+
+Developers would need to show a very high standard of safety to deploy it. https://t.co/wjotF9vsEV</title>
+      <link>https://twitter.com/DeepMind/status/1661741191409565698</link>
+      <description>⚪ What’s a rule of thumb?
+
+The AI community should treat a system as highly dangerous if it has a capability profile sufficient for extreme harm, 𝘢𝘴𝘴𝘶𝘮𝘪𝘯𝘨 it's misused or poorly aligned.
+
+Developers would need to show a very high standard of safety to deploy it. https://t.co/wjotF9vsEV</description>
+      <content:encoded>⚪ What’s a rule of thumb?
+
+The AI community should treat a system as highly dangerous if it has a capability profile sufficient for extreme harm, 𝘢𝘴𝘴𝘶𝘮𝘪𝘯𝘨 it's misused or poorly aligned.
+
+Developers would need to show a very high standard of safety to deploy it. https://t.co/wjotF9vsEV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741191409565698"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw-wa5HaYAEFAue.png" length="1200" type="photo"/>
+      <pubDate>Thu, 25 May 2023 14:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @itsPaulAi: Many people don't know it, but ChatGPT can help you learn a new language.
+
+You can turn it into your own personal teacher wi…</title>
+      <link>https://twitter.com/YasirSalas/status/1661741193288634373</link>
+      <description>RT @itsPaulAi: Many people don't know it, but ChatGPT can help you learn a new language.
+
+You can turn it into your own personal teacher wi…</description>
+      <content:encoded>RT @itsPaulAi: Many people don't know it, but ChatGPT can help you learn a new language.
+
+You can turn it into your own personal teacher wi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/YasirSalas/status/1661741193288634373"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🟢 How can this framework help shape AI governance?
+
+If we have better tools for identifying risky models, companies and regulators can better ensure responsible training, responsible deployment, transparency, and appropriate security.
+
+Find out more: https://t.co/Y499hpV4no</title>
+      <link>https://twitter.com/DeepMind/status/1661741193632555009</link>
+      <description>🟢 How can this framework help shape AI governance?
+
+If we have better tools for identifying risky models, companies and regulators can better ensure responsible training, responsible deployment, transparency, and appropriate security.
+
+Find out more: https://t.co/Y499hpV4no</description>
+      <content:encoded>🟢 How can this framework help shape AI governance?
+
+If we have better tools for identifying risky models, companies and regulators can better ensure responsible training, responsible deployment, transparency, and appropriate security.
+
+Find out more: https://t.co/Y499hpV4no&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741193632555009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Work by: Toby Shevlane, @seb_far, Mary Phuong, @nahema_marchal, Lewis Ho, Will Hawkins, @_beenkim, @IasonGabriel, @Vijaybolina, @AllanDafoe, @JackclarkSF from @AnthropicAI, Yoshua Bengio from @Mila_Quebec, Paul Christiano from the Alignment Research Center…</title>
+      <link>https://twitter.com/DeepMind/status/1661741195884916736</link>
+      <description>Work by: Toby Shevlane, @seb_far, Mary Phuong, @nahema_marchal, Lewis Ho, Will Hawkins, @_beenkim, @IasonGabriel, @Vijaybolina, @AllanDafoe, @JackclarkSF from @AnthropicAI, Yoshua Bengio from @Mila_Quebec, Paul Christiano from the Alignment Research Center…</description>
+      <content:encoded>Work by: Toby Shevlane, @seb_far, Mary Phuong, @nahema_marchal, Lewis Ho, Will Hawkins, @_beenkim, @IasonGabriel, @Vijaybolina, @AllanDafoe, @JackclarkSF from @AnthropicAI, Yoshua Bengio from @Mila_Quebec, Paul Christiano from the Alignment Research Center…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741195884916736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>...@BMgarfinkel and @Manderljung from @GovAI_, @jesswhittles from @LongResilience, Jade Leung and Daniel Kokotajlo from @OpenAI, @divyasiddarth from @UniofOxford, Noam Kolt from @UofT and Shahar Avin from @CSERCambridge.</title>
+      <link>https://twitter.com/DeepMind/status/1661741198011437058</link>
+      <description>...@BMgarfinkel and @Manderljung from @GovAI_, @jesswhittles from @LongResilience, Jade Leung and Daniel Kokotajlo from @OpenAI, @divyasiddarth from @UniofOxford, Noam Kolt from @UofT and Shahar Avin from @CSERCambridge.</description>
+      <content:encoded>...@BMgarfinkel and @Manderljung from @GovAI_, @jesswhittles from @LongResilience, Jade Leung and Daniel Kokotajlo from @OpenAI, @divyasiddarth from @UniofOxford, Noam Kolt from @UofT and Shahar Avin from @CSERCambridge.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741198011437058"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazing achievement from @EPFL_en labs! @_NeuroRestore @Neuro_X_EPFL https://t.co/BaXpzYqeot</title>
+      <link>https://twitter.com/TrackingActions/status/1661741910015508481</link>
+      <description>Amazing achievement from @EPFL_en labs! @_NeuroRestore @Neuro_X_EPFL https://t.co/BaXpzYqeot</description>
+      <content:encoded>Amazing achievement from @EPFL_en labs! @_NeuroRestore @Neuro_X_EPFL https://t.co/BaXpzYqeot&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1661741910015508481"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:31:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @marcgbellemare: Yes.
+
+I have yet to hear a single new argument about AI existential risk that wasn't around ten years ago. These were p…</title>
+      <link>https://twitter.com/tyrell_turing/status/1661741960431017985</link>
+      <description>RT @marcgbellemare: Yes.
+
+I have yet to hear a single new argument about AI existential risk that wasn't around ten years ago. These were p…</description>
+      <content:encoded>RT @marcgbellemare: Yes.
+
+I have yet to hear a single new argument about AI existential risk that wasn't around ten years ago. These were p…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1661741960431017985"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:32:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Since AI base models are going to become a basic infrastructure, people (and the industry) will demand that it be open source.
+Just like the software infrastructure of the internet.
+Also, human feedback *must* be crowd-sourced, Wikipedia style, if we want those base systems to… https://t.co/ppVrfeyChW</title>
+      <link>https://twitter.com/ylecun/status/1661742529241563142</link>
+      <description>Since AI base models are going to become a basic infrastructure, people (and the industry) will demand that it be open source.
+Just like the software infrastructure of the internet.
+Also, human feedback *must* be crowd-sourced, Wikipedia style, if we want those base systems to… https://t.co/ppVrfeyChW</description>
+      <content:encoded>Since AI base models are going to become a basic infrastructure, people (and the industry) will demand that it be open source.
+Just like the software infrastructure of the internet.
+Also, human feedback *must* be crowd-sourced, Wikipedia style, if we want those base systems to… https://t.co/ppVrfeyChW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1661742529241563142"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Multi-head attention-based masked sequence model for mapping functional brain networks: The investigation of functional brain networks (FBNs) using task-based functional magnetic resonance imaging (tfMRI) has gained… #Neuroscience https://t.co/BF5jDvzvwK</title>
+      <link>https://twitter.com/FrontNeurosci/status/1661743812237217793</link>
+      <description>New Research: Multi-head attention-based masked sequence model for mapping functional brain networks: The investigation of functional brain networks (FBNs) using task-based functional magnetic resonance imaging (tfMRI) has gained… #Neuroscience https://t.co/BF5jDvzvwK</description>
+      <content:encoded>New Research: Multi-head attention-based masked sequence model for mapping functional brain networks: The investigation of functional brain networks (FBNs) using task-based functional magnetic resonance imaging (tfMRI) has gained… #Neuroscience https://t.co/BF5jDvzvwK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1661743812237217793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:39:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Menzi Muck, also known as the spider excavator, can adapt to any terrains to excavate. Its special features are based on a sophisticated high-tech chassis and various hydraulic cylinders 
+
+[read more: https://t.co/0Am9ZoQUTz]
+https://t.co/N6KLr3fKl7</title>
+      <link>https://twitter.com/Rainmaker1973/status/1661744594529423361</link>
+      <description>Menzi Muck, also known as the spider excavator, can adapt to any terrains to excavate. Its special features are based on a sophisticated high-tech chassis and various hydraulic cylinders 
+
+[read more: https://t.co/0Am9ZoQUTz]
+https://t.co/N6KLr3fKl7</description>
+      <content:encoded>Menzi Muck, also known as the spider excavator, can adapt to any terrains to excavate. Its special features are based on a sophisticated high-tech chassis and various hydraulic cylinders 
+
+[read more: https://t.co/0Am9ZoQUTz]
+https://t.co/N6KLr3fKl7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661744594529423361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1225591321253023749/pu/img/a52TimTFOKdRHNiL.jpg" length="720" type="photo"/>
+      <pubDate>Thu, 25 May 2023 14:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>One of the few modern philosophy books I enjoyed is Anscombe's Intention.  She's often better than her teacher Wittgenstein 
+https://t.co/wRkxvJv0Yz</title>
+      <link>https://twitter.com/HenryYin19/status/1661745370001739777</link>
+      <description>One of the few modern philosophy books I enjoyed is Anscombe's Intention.  She's often better than her teacher Wittgenstein 
+https://t.co/wRkxvJv0Yz</description>
+      <content:encoded>One of the few modern philosophy books I enjoyed is Anscombe's Intention.  She's often better than her teacher Wittgenstein 
+https://t.co/wRkxvJv0Yz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HenryYin19/status/1661745370001739777"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 14:45:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>📢Upcoming INCF Short Course📢
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+Apply by: Jun 15
+
+Learn about the science &amp;amp; engineering of brain data - 50% course discount for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrKW71
+
+#neuroscience #neuroinformatics https://t.co/3L8gyj0Qkm</title>
+      <link>https://twitter.com/INCForg/status/1661745687145357312</link>
+      <description>📢Upcoming INCF Short Course📢
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+Apply by: Jun 15
+
+Learn about the science &amp;amp; engineering of brain data - 50% course discount for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrKW71
+
+#neuroscience #neuroinformatics https://t.co/3L8gyj0Qkm</description>
+      <content:encoded>📢Upcoming INCF Short Course📢
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+Apply by: Jun 15
+
+Learn about the science &amp;amp; engineering of brain data - 50% course discount for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrKW71
+
+#neuroscience #neuroinformatics https://t.co/3L8gyj0Qkm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1661745687145357312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw1JYEaXwA4F4rC.jpg" length="500" type="photo"/>
+      <pubDate>Thu, 25 May 2023 14:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Join us at the 16th Canadian Neuroscience Meeting this Sunday! Discover our PatchScope Pro solution for patching cultured cells. Kris and Meghan will be there on booth T04 to discuss your #electrophysiology and #imaging needs. See you there!
+https://t.co/sOHt1yOebj https://t.co/EdhraUFAuq</title>
+      <link>https://twitter.com/Scientifica_Int/status/1661746829468520453</link>
+      <description>Join us at the 16th Canadian Neuroscience Meeting this Sunday! Discover our PatchScope Pro solution for patching cultured cells. Kris and Meghan will be there on booth T04 to discuss your #electrophysiology and #imaging needs. See you there!
+https://t.co/sOHt1yOebj https://t.co/EdhraUFAuq</description>
+      <content:encoded>Join us at the 16th Canadian Neuroscience Meeting this Sunday! Discover our PatchScope Pro solution for patching cultured cells. Kris and Meghan will be there on booth T04 to discuss your #electrophysiology and #imaging needs. See you there!
+https://t.co/sOHt1yOebj https://t.co/EdhraUFAuq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1661746829468520453"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw-1ynAacAI3skh.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 25 May 2023 14:51:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Niño has a persistent effect on economic growth, according to a new Science study, highlighting the sensitivity of global economies to climate variability independent of warming. https://t.co/MNRdyUo0bo https://t.co/0O7WKYsfNX</title>
+      <link>https://twitter.com/ScienceMagazine/status/1661749176508768258</link>
+      <description>El Niño has a persistent effect on economic growth, according to a new Science study, highlighting the sensitivity of global economies to climate variability independent of warming. https://t.co/MNRdyUo0bo https://t.co/0O7WKYsfNX</description>
+      <content:encoded>El Niño has a persistent effect on economic growth, according to a new Science study, highlighting the sensitivity of global economies to climate variability independent of warming. https://t.co/MNRdyUo0bo https://t.co/0O7WKYsfNX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661749176508768258"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw-4EX6aUA0BDu_.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 25 May 2023 15:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Omer Yilmaz studies how different diets and environmental conditions affect intestinal stem cells, and how those factors can lead to diseases such as cancer. This work could help researchers develop new therapies to improve gastrointestinal health. https://t.co/tukBRgSSVN https://t.co/RtkgwrZUDy</title>
+      <link>https://twitter.com/MIT/status/1661750294731161602</link>
+      <description>Omer Yilmaz studies how different diets and environmental conditions affect intestinal stem cells, and how those factors can lead to diseases such as cancer. This work could help researchers develop new therapies to improve gastrointestinal health. https://t.co/tukBRgSSVN https://t.co/RtkgwrZUDy</description>
+      <content:encoded>Omer Yilmaz studies how different diets and environmental conditions affect intestinal stem cells, and how those factors can lead to diseases such as cancer. This work could help researchers develop new therapies to improve gastrointestinal health. https://t.co/tukBRgSSVN https://t.co/RtkgwrZUDy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1661750294731161602"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw-5FUQagAAtLq5.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 25 May 2023 15:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>An origami aircraft launch platform
+
+[source, ideatimes: https://t.co/XTN3Yv1VIJ]
+https://t.co/G0a57sqKzH</title>
+      <link>https://twitter.com/Rainmaker1973/status/1661750445835169792</link>
+      <description>An origami aircraft launch platform
+
+[source, ideatimes: https://t.co/XTN3Yv1VIJ]
+https://t.co/G0a57sqKzH</description>
+      <content:encoded>An origami aircraft launch platform
+
+[source, ideatimes: https://t.co/XTN3Yv1VIJ]
+https://t.co/G0a57sqKzH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661750445835169792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1540394910754504704/pu/img/KGlgT5Kq7HRZP6W5.jpg" length="674" type="photo"/>
+      <pubDate>Thu, 25 May 2023 15:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DaveMomi: @CAMH_KCNI Spring Bulletin is officially out 
+https://t.co/PxwjLnMblZ
+
+Find out my extra project and other fascinating update…</title>
+      <link>https://twitter.com/wake_sleep/status/1661750594149949443</link>
+      <description>RT @DaveMomi: @CAMH_KCNI Spring Bulletin is officially out 
+https://t.co/PxwjLnMblZ
+
+Find out my extra project and other fascinating update…</description>
+      <content:encoded>RT @DaveMomi: @CAMH_KCNI Spring Bulletin is officially out 
+https://t.co/PxwjLnMblZ
+
+Find out my extra project and other fascinating update…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1661750594149949443"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 15:06:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
