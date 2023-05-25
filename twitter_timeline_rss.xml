@@ -6,31 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 May 2023 02:34:16 +0000</lastBuildDate>
-    <item>
-      <title>Our proposed modification results in better posterior calibration both in in- and out-of-distribution regions. 9/12 https://t.co/BWYsdmxEpK</title>
-      <link>https://twitter.com/neuro_data/status/1661355037413588998</link>
-      <description>Our proposed modification results in better posterior calibration both in in- and out-of-distribution regions. 9/12 https://t.co/BWYsdmxEpK</description>
-      <content:encoded>Our proposed modification results in better posterior calibration both in in- and out-of-distribution regions. 9/12 https://t.co/BWYsdmxEpK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1661355037413588998"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw5QKReX0AAcmro.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 12:54:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantitatively, we see a significant improvement in in- and out-of-distribution calibration with nearly same classification accuracy to that of RF and DNs on simulation datasets. 10/12 https://t.co/xHn6qLq79G</title>
-      <link>https://twitter.com/neuro_data/status/1661355039586222083</link>
-      <description>Quantitatively, we see a significant improvement in in- and out-of-distribution calibration with nearly same classification accuracy to that of RF and DNs on simulation datasets. 10/12 https://t.co/xHn6qLq79G</description>
-      <content:encoded>Quantitatively, we see a significant improvement in in- and out-of-distribution calibration with nearly same classification accuracy to that of RF and DNs on simulation datasets. 10/12 https://t.co/xHn6qLq79G&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1661355039586222083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw5RGvXXsAESDLd.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 12:54:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>We run elaborate experiments on the OpenML-CC18 data suite and the result shows the proposed approach results in better calibration both in in- and out-of-distribution regions while maintaining classification accuracy similar to those of ReLU-net and random forest.  11/12 https://t.co/fIgzf2aY1U</title>
-      <link>https://twitter.com/neuro_data/status/1661355042790621189</link>
-      <description>We run elaborate experiments on the OpenML-CC18 data suite and the result shows the proposed approach results in better calibration both in in- and out-of-distribution regions while maintaining classification accuracy similar to those of ReLU-net and random forest.  11/12 https://t.co/fIgzf2aY1U</description>
-      <content:encoded>We run elaborate experiments on the OpenML-CC18 data suite and the result shows the proposed approach results in better calibration both in in- and out-of-distribution regions while maintaining classification accuracy similar to those of ReLU-net and random forest.  11/12 https://t.co/fIgzf2aY1U&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1661355042790621189"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw5ROFAWAAErqGx.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 24 May 2023 12:54:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 May 2023 03:16:37 +0000</lastBuildDate>
     <item>
       <title>We are excited to hear how you feel about our findings and how we can work together to improve the work further. Follow our open source code at https://t.co/yW13G3F9kz for updates.  12/12</title>
       <link>https://twitter.com/neuro_data/status/1661355044984311814</link>
@@ -1499,6 +1475,13 @@ https://t.co/oP4JJInAqW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Wed, 24 May 2023 20:26:29 +0000</pubDate>
     </item>
     <item>
+      <title>RT @NewsfromScience: Scientists who reflect on their racial and ethnic identities—as well as on those of their mentees—have the potential t…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1661472408790876164</link>
+      <description>RT @NewsfromScience: Scientists who reflect on their racial and ethnic identities—as well as on those of their mentees—have the potential t…</description>
+      <content:encoded>RT @NewsfromScience: Scientists who reflect on their racial and ethnic identities—as well as on those of their mentees—have the potential t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661472408790876164"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 24 May 2023 20:41:05 +0000</pubDate>
+    </item>
+    <item>
       <title>RT @karimjerbineuro: 📣 Job announcement 📣 
 
 Assistant/Associate Professor in
@@ -1955,6 +1938,21 @@ Many words are categorially ambiguous and can be used as a verb (to paint) or as
 
 Many words are categorially ambiguous and can be used as a verb (to paint) or as a noun (the paint) due… #Neuroscience https://t.co/gWtUWfgww7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1661554696589549569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 25 May 2023 02:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>A fatty acid in the milk of nursing mice triggers a transformation in the metabolic pathways that are active in pups’ heart muscle cells, enabling the cells to rapidly mature after birth. https://t.co/EDhcSyFtl3</title>
+      <link>https://twitter.com/NatureNV/status/1661564645423841280</link>
+      <description>A fatty acid in the milk of nursing mice triggers a transformation in the metabolic pathways that are active in pups’ heart muscle cells, enabling the cells to rapidly mature after birth. https://t.co/EDhcSyFtl3</description>
+      <content:encoded>A fatty acid in the milk of nursing mice triggers a transformation in the metabolic pathways that are active in pups’ heart muscle cells, enabling the cells to rapidly mature after birth. https://t.co/EDhcSyFtl3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1661564645423841280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 02:47:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new @SciRobotics Viewpoint presents a conceptual framework to improve sensing, haptics, and dexterity of robotic devices by integration with human users. https://t.co/c1gXuzNV15 https://t.co/ZjEwVBDVlX</title>
+      <link>https://twitter.com/ScienceMagazine/status/1661567798076735488</link>
+      <description>A new @SciRobotics Viewpoint presents a conceptual framework to improve sensing, haptics, and dexterity of robotic devices by integration with human users. https://t.co/c1gXuzNV15 https://t.co/ZjEwVBDVlX</description>
+      <content:encoded>A new @SciRobotics Viewpoint presents a conceptual framework to improve sensing, haptics, and dexterity of robotic devices by integration with human users. https://t.co/c1gXuzNV15 https://t.co/ZjEwVBDVlX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661567798076735488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw8TG3jXoAAED5t.jpg" length="900" type="photo"/>
+      <pubDate>Thu, 25 May 2023 03:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
