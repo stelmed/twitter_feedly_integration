@@ -6,252 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 May 2023 16:21:08 +0000</lastBuildDate>
-    <item>
-      <title>This is pretty hilarious. Do people really fall for such a shallow fomo ad? Publish platinum OA. https://t.co/x6LZGcRGMf</title>
-      <link>https://twitter.com/KordingLab/status/1661523588623609857</link>
-      <description>This is pretty hilarious. Do people really fall for such a shallow fomo ad? Publish platinum OA. https://t.co/x6LZGcRGMf</description>
-      <content:encoded>This is pretty hilarious. Do people really fall for such a shallow fomo ad? Publish platinum OA. https://t.co/x6LZGcRGMf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1661523588623609857"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 00:04:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>👏🏾👏🏻 A huge thank you to our guests who joined us for season 1 of the People of AI podcast. 
-
-We're so grateful to be able to showcase all of the amazing ML work you're doing. 
-
-Learn from these amazing AI experts and more here ➡️ https://t.co/TG4J2sd5hJ https://t.co/8QdarqoqhY</title>
-      <link>https://twitter.com/TensorFlow/status/1661525222820913155</link>
-      <description>👏🏾👏🏻 A huge thank you to our guests who joined us for season 1 of the People of AI podcast. 
-
-We're so grateful to be able to showcase all of the amazing ML work you're doing. 
-
-Learn from these amazing AI experts and more here ➡️ https://t.co/TG4J2sd5hJ https://t.co/8QdarqoqhY</description>
-      <content:encoded>👏🏾👏🏻 A huge thank you to our guests who joined us for season 1 of the People of AI podcast. 
-
-We're so grateful to be able to showcase all of the amazing ML work you're doing. 
-
-Learn from these amazing AI experts and more here ➡️ https://t.co/TG4J2sd5hJ https://t.co/8QdarqoqhY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1661525222820913155"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw7sYiCWYAAvMoO.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 25 May 2023 00:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>👏🏾👏🏻👏🏽👏🏿 Give it up for our amazing guests! 
-@realSharonZhou @jason_mayes @DrCatNelson @GantLaborde @jocarrasqueira
-@michellercarney</title>
-      <link>https://twitter.com/TensorFlow/status/1661525226998382593</link>
-      <description>👏🏾👏🏻👏🏽👏🏿 Give it up for our amazing guests! 
-@realSharonZhou @jason_mayes @DrCatNelson @GantLaborde @jocarrasqueira
-@michellercarney</description>
-      <content:encoded>👏🏾👏🏻👏🏽👏🏿 Give it up for our amazing guests! 
-@realSharonZhou @jason_mayes @DrCatNelson @GantLaborde @jocarrasqueira
-@michellercarney&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1661525226998382593"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 00:10:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸🇺🇸 Untamed Free Speech FTW 🇺🇸🇺🇸 https://t.co/8jsVWiKQpJ</title>
-      <link>https://twitter.com/elonmusk/status/1661525947022180352</link>
-      <description>🇺🇸🇺🇸 Untamed Free Speech FTW 🇺🇸🇺🇸 https://t.co/8jsVWiKQpJ</description>
-      <content:encoded>🇺🇸🇺🇸 Untamed Free Speech FTW 🇺🇸🇺🇸 https://t.co/8jsVWiKQpJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1661525947022180352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 00:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dorsal and median raphe neuronal firing dynamics characterized by non-linear metrics  https://t.co/WwdnekpCjd #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661526376489312258</link>
-      <description>Dorsal and median raphe neuronal firing dynamics characterized by non-linear metrics  https://t.co/WwdnekpCjd #biorxiv_neursci</description>
-      <content:encoded>Dorsal and median raphe neuronal firing dynamics characterized by non-linear metrics  https://t.co/WwdnekpCjd #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661526376489312258"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 00:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Epigallocatechin Gallate Modulates Microglia Phenotype to Suppress Pro-Inflammatory Signalling Cues and Inhibit Phagocytosis  https://t.co/kRmxv9Q5T9 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661526499864739840</link>
-      <description>Epigallocatechin Gallate Modulates Microglia Phenotype to Suppress Pro-Inflammatory Signalling Cues and Inhibit Phagocytosis  https://t.co/kRmxv9Q5T9 #biorxiv_neursci</description>
-      <content:encoded>Epigallocatechin Gallate Modulates Microglia Phenotype to Suppress Pro-Inflammatory Signalling Cues and Inhibit Phagocytosis  https://t.co/kRmxv9Q5T9 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661526499864739840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 00:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-Scale Label-free Human Brain Imaging with Integrated Serial Sectioning Polarization Sensitive Optical Coherence Tomography and ...  https://t.co/2rf6fRLCd1 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661526601731825664</link>
-      <description>Multi-Scale Label-free Human Brain Imaging with Integrated Serial Sectioning Polarization Sensitive Optical Coherence Tomography and ...  https://t.co/2rf6fRLCd1 #biorxiv_neursci</description>
-      <content:encoded>Multi-Scale Label-free Human Brain Imaging with Integrated Serial Sectioning Polarization Sensitive Optical Coherence Tomography and ...  https://t.co/2rf6fRLCd1 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661526601731825664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 00:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shipment Stress in Early Life Aggravates Disease Pathogenesis in Mice with Experimental Autoimmune Encephalomyelitis: Support for a ...  https://t.co/eeMgbW0ANj #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661541474863915009</link>
-      <description>Shipment Stress in Early Life Aggravates Disease Pathogenesis in Mice with Experimental Autoimmune Encephalomyelitis: Support for a ...  https://t.co/eeMgbW0ANj #biorxiv_neursci</description>
-      <content:encoded>Shipment Stress in Early Life Aggravates Disease Pathogenesis in Mice with Experimental Autoimmune Encephalomyelitis: Support for a ...  https://t.co/eeMgbW0ANj #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661541474863915009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 01:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Cortical interneurons: fit for function and fit to function? Evidence from development and evolution #NeuralCircuits https://t.co/zplXw7A8Kx</title>
-      <link>https://twitter.com/FrontNeurosci/status/1661541482757787648</link>
-      <description>New Research: Cortical interneurons: fit for function and fit to function? Evidence from development and evolution #NeuralCircuits https://t.co/zplXw7A8Kx</description>
-      <content:encoded>New Research: Cortical interneurons: fit for function and fit to function? Evidence from development and evolution #NeuralCircuits https://t.co/zplXw7A8Kx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1661541482757787648"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 01:15:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Orai mediated Calcium entry sets the excitability threshold of central dopaminergic neurons by regulation of gene expression  https://t.co/WoEQogwiZC #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661541574000492544</link>
-      <description>Orai mediated Calcium entry sets the excitability threshold of central dopaminergic neurons by regulation of gene expression  https://t.co/WoEQogwiZC #biorxiv_neursci</description>
-      <content:encoded>Orai mediated Calcium entry sets the excitability threshold of central dopaminergic neurons by regulation of gene expression  https://t.co/WoEQogwiZC #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661541574000492544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 01:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phenotypic defects from the expression of wild-type and pathogenic TATA-Binding Proteins in new Drosophila models of Spinocerebellar ...  https://t.co/nWA5cgx9zO #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661541675741720577</link>
-      <description>Phenotypic defects from the expression of wild-type and pathogenic TATA-Binding Proteins in new Drosophila models of Spinocerebellar ...  https://t.co/nWA5cgx9zO #biorxiv_neursci</description>
-      <content:encoded>Phenotypic defects from the expression of wild-type and pathogenic TATA-Binding Proteins in new Drosophila models of Spinocerebellar ...  https://t.co/nWA5cgx9zO #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661541675741720577"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 01:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thalamic contributions to psychosis susceptibility: Evidence from co-activation patterns accounting for intra-seed spatial ...  https://t.co/jkcfNpC8eV #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661541749808943105</link>
-      <description>Thalamic contributions to psychosis susceptibility: Evidence from co-activation patterns accounting for intra-seed spatial ...  https://t.co/jkcfNpC8eV #biorxiv_neursci</description>
-      <content:encoded>Thalamic contributions to psychosis susceptibility: Evidence from co-activation patterns accounting for intra-seed spatial ...  https://t.co/jkcfNpC8eV #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661541749808943105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 01:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fear of large predators drives smaller predators into human-inhabited areas they perceive as safer—but where risk is greater, a new Science study finds. The results describe a “paradox of the lethal human shield.”
-
-Learn more: https://t.co/Pqbo9sZX1V; https://t.co/TF3zLHl4xX https://t.co/pGvMyXry7O</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661545143835426816</link>
-      <description>Fear of large predators drives smaller predators into human-inhabited areas they perceive as safer—but where risk is greater, a new Science study finds. The results describe a “paradox of the lethal human shield.”
-
-Learn more: https://t.co/Pqbo9sZX1V; https://t.co/TF3zLHl4xX https://t.co/pGvMyXry7O</description>
-      <content:encoded>Fear of large predators drives smaller predators into human-inhabited areas they perceive as safer—but where risk is greater, a new Science study finds. The results describe a “paradox of the lethal human shield.”
-
-Learn more: https://t.co/Pqbo9sZX1V; https://t.co/TF3zLHl4xX https://t.co/pGvMyXry7O&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661545143835426816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw7-gJ7WAAA_92R.jpg" length="800" type="photo"/>
-      <pubDate>Thu, 25 May 2023 01:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>And btw, if not accepted, great chance to get ready for next year. You got this.</title>
-      <link>https://twitter.com/KordingLab/status/1661545322428919815</link>
-      <description>And btw, if not accepted, great chance to get ready for next year. You got this.</description>
-      <content:encoded>And btw, if not accepted, great chance to get ready for next year. You got this.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1661545322428919815"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 01:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JHU_BDPs: CONGRATS to @HopkinsEngineer PhD student Yutong Bai for being named @Apple Scholar in artificial intelligence and machine lea…</title>
-      <link>https://twitter.com/rhuganir/status/1661550837468995584</link>
-      <description>RT @JHU_BDPs: CONGRATS to @HopkinsEngineer PhD student Yutong Bai for being named @Apple Scholar in artificial intelligence and machine lea…</description>
-      <content:encoded>RT @JHU_BDPs: CONGRATS to @HopkinsEngineer PhD student Yutong Bai for being named @Apple Scholar in artificial intelligence and machine lea…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1661550837468995584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 01:52:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: The role of category ambiguity in normal and impaired lexical processing: can you paint without the paint?: Introduction
-
-Many words are categorially ambiguous and can be used as a verb (to paint) or as a noun (the paint) due… #Neuroscience https://t.co/gWtUWfgww7</title>
-      <link>https://twitter.com/FrontNeurosci/status/1661554696589549569</link>
-      <description>New Research: The role of category ambiguity in normal and impaired lexical processing: can you paint without the paint?: Introduction
-
-Many words are categorially ambiguous and can be used as a verb (to paint) or as a noun (the paint) due… #Neuroscience https://t.co/gWtUWfgww7</description>
-      <content:encoded>New Research: The role of category ambiguity in normal and impaired lexical processing: can you paint without the paint?: Introduction
-
-Many words are categorially ambiguous and can be used as a verb (to paint) or as a noun (the paint) due… #Neuroscience https://t.co/gWtUWfgww7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1661554696589549569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 02:08:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>A fatty acid in the milk of nursing mice triggers a transformation in the metabolic pathways that are active in pups’ heart muscle cells, enabling the cells to rapidly mature after birth. https://t.co/EDhcSyFtl3</title>
-      <link>https://twitter.com/NatureNV/status/1661564645423841280</link>
-      <description>A fatty acid in the milk of nursing mice triggers a transformation in the metabolic pathways that are active in pups’ heart muscle cells, enabling the cells to rapidly mature after birth. https://t.co/EDhcSyFtl3</description>
-      <content:encoded>A fatty acid in the milk of nursing mice triggers a transformation in the metabolic pathways that are active in pups’ heart muscle cells, enabling the cells to rapidly mature after birth. https://t.co/EDhcSyFtl3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1661564645423841280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 02:47:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new @SciRobotics Viewpoint presents a conceptual framework to improve sensing, haptics, and dexterity of robotic devices by integration with human users. https://t.co/c1gXuzNV15 https://t.co/ZjEwVBDVlX</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661567798076735488</link>
-      <description>A new @SciRobotics Viewpoint presents a conceptual framework to improve sensing, haptics, and dexterity of robotic devices by integration with human users. https://t.co/c1gXuzNV15 https://t.co/ZjEwVBDVlX</description>
-      <content:encoded>A new @SciRobotics Viewpoint presents a conceptual framework to improve sensing, haptics, and dexterity of robotic devices by integration with human users. https://t.co/c1gXuzNV15 https://t.co/ZjEwVBDVlX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661567798076735488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw8TG3jXoAAED5t.jpg" length="900" type="photo"/>
-      <pubDate>Thu, 25 May 2023 03:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spirits boosted with some lovely T from @anne_churchland who empathizes about microscope as much as knee 😆🙏❤️sure to keep me feeling cozyyyy https://t.co/RwKFdUrWJl</title>
-      <link>https://twitter.com/kaymtye/status/1661572606930341888</link>
-      <description>Spirits boosted with some lovely T from @anne_churchland who empathizes about microscope as much as knee 😆🙏❤️sure to keep me feeling cozyyyy https://t.co/RwKFdUrWJl</description>
-      <content:encoded>Spirits boosted with some lovely T from @anne_churchland who empathizes about microscope as much as knee 😆🙏❤️sure to keep me feeling cozyyyy https://t.co/RwKFdUrWJl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1661572606930341888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw8XeoeaYAc-YLv.jpg" length="675" type="photo"/>
-      <pubDate>Thu, 25 May 2023 03:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NEJM: Late breaking at #APAAM23: Ketamine versus Electroconvulsive therapy (ECT) for Nonpsychotic Treatment-Resistant Major Depression…</title>
-      <link>https://twitter.com/pgolshani/status/1661576288262586368</link>
-      <description>RT @NEJM: Late breaking at #APAAM23: Ketamine versus Electroconvulsive therapy (ECT) for Nonpsychotic Treatment-Resistant Major Depression…</description>
-      <content:encoded>RT @NEJM: Late breaking at #APAAM23: Ketamine versus Electroconvulsive therapy (ECT) for Nonpsychotic Treatment-Resistant Major Depression…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/pgolshani/status/1661576288262586368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 03:33:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tree islands bring benefits for oil-palm plantations. Learn more in a terrific N&amp;amp;V by Robert Nasi @ForestsMatter @CIFOR-ICRAF https://t.co/17P2AFArlV</title>
-      <link>https://twitter.com/NatureNV/status/1661577503813644291</link>
-      <description>Tree islands bring benefits for oil-palm plantations. Learn more in a terrific N&amp;amp;V by Robert Nasi @ForestsMatter @CIFOR-ICRAF https://t.co/17P2AFArlV</description>
-      <content:encoded>Tree islands bring benefits for oil-palm plantations. Learn more in a terrific N&amp;amp;V by Robert Nasi @ForestsMatter @CIFOR-ICRAF https://t.co/17P2AFArlV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1661577503813644291"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 03:38:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Many of us face the perception that the more time a scientist spends popularizing science, the less scientifically accomplished they are. That is far from true," writes @frakyc in this week's #ScienceWorkingLife. https://t.co/HcMd9HaO5x @ScienceCareers</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661590420990709760</link>
-      <description>"Many of us face the perception that the more time a scientist spends popularizing science, the less scientifically accomplished they are. That is far from true," writes @frakyc in this week's #ScienceWorkingLife. https://t.co/HcMd9HaO5x @ScienceCareers</description>
-      <content:encoded>"Many of us face the perception that the more time a scientist spends popularizing science, the less scientifically accomplished they are. That is far from true," writes @frakyc in this week's #ScienceWorkingLife. https://t.co/HcMd9HaO5x @ScienceCareers&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661590420990709760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 04:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>A clue to the catalytic activation of splicing https://t.co/Saaixf6df8 https://t.co/qLUUnEP7ik</title>
-      <link>https://twitter.com/NatureNV/status/1661596321118134272</link>
-      <description>A clue to the catalytic activation of splicing https://t.co/Saaixf6df8 https://t.co/qLUUnEP7ik</description>
-      <content:encoded>A clue to the catalytic activation of splicing https://t.co/Saaixf6df8 https://t.co/qLUUnEP7ik&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1661596321118134272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw8tDHeXsAAxT7F.jpg" length="1024" type="photo"/>
-      <pubDate>Thu, 25 May 2023 04:53:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @EMBOPress of 👉🏿 Molecular and cognitive signatures of ageing partially restored through synthetic delivery of IL2 to the brain  https://t.co/EAfkoYQRNU #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661599305512235010</link>
-      <description>#PeerReview from @EMBOPress of 👉🏿 Molecular and cognitive signatures of ageing partially restored through synthetic delivery of IL2 to the brain  https://t.co/EAfkoYQRNU #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @EMBOPress of 👉🏿 Molecular and cognitive signatures of ageing partially restored through synthetic delivery of IL2 to the brain  https://t.co/EAfkoYQRNU #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661599305512235010"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 05:05:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>If the purpose of education is to score well on a test, we've lost sight of the real reason for learning.</title>
-      <link>https://twitter.com/ProfFeynman/status/1661600010138685440</link>
-      <description>If the purpose of education is to score well on a test, we've lost sight of the real reason for learning.</description>
-      <content:encoded>If the purpose of education is to score well on a test, we've lost sight of the real reason for learning.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1661600010138685440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 05:08:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Molecular dynamics of the interaction between the ALS/FTD-associated (GGGGCC)n RNA G-quadruplex structure and the three RRM domains ...  https://t.co/1Cl1Gs0XyL #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661601855489691650</link>
-      <description>Molecular dynamics of the interaction between the ALS/FTD-associated (GGGGCC)n RNA G-quadruplex structure and the three RRM domains ...  https://t.co/1Cl1Gs0XyL #biorxiv_neursci</description>
-      <content:encoded>Molecular dynamics of the interaction between the ALS/FTD-associated (GGGGCC)n RNA G-quadruplex structure and the three RRM domains ...  https://t.co/1Cl1Gs0XyL #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661601855489691650"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 05:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Early and late chaperone intervention therapy boosts XBP1s and ADAM10, restores proteostasis, and rescues learning in Alzheimer's ...  https://t.co/FxW55UH33f #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661601991255109632</link>
-      <description>Early and late chaperone intervention therapy boosts XBP1s and ADAM10, restores proteostasis, and rescues learning in Alzheimer's ...  https://t.co/FxW55UH33f #biorxiv_neursci</description>
-      <content:encoded>Early and late chaperone intervention therapy boosts XBP1s and ADAM10, restores proteostasis, and rescues learning in Alzheimer's ...  https://t.co/FxW55UH33f #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661601991255109632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 05:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Differential Contribution of Sensorimotor Cortex and Subthalamic Nucleus to Unimanual and Bimanual Hand Movements  https://t.co/C68kzLydrP #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661602105415614465</link>
-      <description>Differential Contribution of Sensorimotor Cortex and Subthalamic Nucleus to Unimanual and Bimanual Hand Movements  https://t.co/C68kzLydrP #biorxiv_neursci</description>
-      <content:encoded>Differential Contribution of Sensorimotor Cortex and Subthalamic Nucleus to Unimanual and Bimanual Hand Movements  https://t.co/C68kzLydrP #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661602105415614465"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 05:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>A hierarchical Bayesian brain parcellation framework for fusion of functional imaging datasets  https://t.co/fJuWbQbizS #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661602218691248132</link>
-      <description>A hierarchical Bayesian brain parcellation framework for fusion of functional imaging datasets  https://t.co/fJuWbQbizS #biorxiv_neursci</description>
-      <content:encoded>A hierarchical Bayesian brain parcellation framework for fusion of functional imaging datasets  https://t.co/fJuWbQbizS #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661602218691248132"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 05:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atypical connectome topography and signal flow in temporal lobe epilepsy  https://t.co/A6Fs3tFG3G #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661602383409938434</link>
-      <description>Atypical connectome topography and signal flow in temporal lobe epilepsy  https://t.co/A6Fs3tFG3G #biorxiv_neursci</description>
-      <content:encoded>Atypical connectome topography and signal flow in temporal lobe epilepsy  https://t.co/A6Fs3tFG3G #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661602383409938434"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 05:17:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 May 2023 17:14:09 +0000</lastBuildDate>
     <item>
       <title>Pupil size predicts the onset of exploration in brain and behavior.  https://t.co/b5SKgSK3s2 #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1661602537101828096</link>
@@ -2144,6 +1899,259 @@ https://t.co/O050nspmkE https://t.co/steuiqh57V</description>
 https://t.co/O050nspmkE https://t.co/steuiqh57V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1661769096625631234"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fw_KL8vWAAgtu2P.jpg" length="764" type="photo"/>
       <pubDate>Thu, 25 May 2023 16:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: Recent advances in image fusion and quality improvement for cyber-physical systems #Neurorobotics https://t.co/PLMJse5MsW</title>
+      <link>https://twitter.com/FrontNeurosci/status/1661769476319350787</link>
+      <description>New Research: Editorial: Recent advances in image fusion and quality improvement for cyber-physical systems #Neurorobotics https://t.co/PLMJse5MsW</description>
+      <content:encoded>New Research: Editorial: Recent advances in image fusion and quality improvement for cyber-physical systems #Neurorobotics https://t.co/PLMJse5MsW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1661769476319350787"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 16:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @virgingalactic: Release, release, release! VSS Unity is flying free, having separated cleanly from the mothership VMS Eve! #Unity25</title>
+      <link>https://twitter.com/MichaelGalanin/status/1661770589466505217</link>
+      <description>RT @virgingalactic: Release, release, release! VSS Unity is flying free, having separated cleanly from the mothership VMS Eve! #Unity25</description>
+      <content:encoded>RT @virgingalactic: Release, release, release! VSS Unity is flying free, having separated cleanly from the mothership VMS Eve! #Unity25&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1661770589466505217"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 16:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>enIscB is an engineered miniature RNA-guided endonuclease based on IscB and its corresponding ωRNA, for highly efficient genome editing in mammalian systems. https://t.co/56Hmkvj5yY https://t.co/ScPFdud0bS</title>
+      <link>https://twitter.com/naturemethods/status/1661770768647159808</link>
+      <description>enIscB is an engineered miniature RNA-guided endonuclease based on IscB and its corresponding ωRNA, for highly efficient genome editing in mammalian systems. https://t.co/56Hmkvj5yY https://t.co/ScPFdud0bS</description>
+      <content:encoded>enIscB is an engineered miniature RNA-guided endonuclease based on IscB and its corresponding ωRNA, for highly efficient genome editing in mammalian systems. https://t.co/56Hmkvj5yY https://t.co/ScPFdud0bS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1661770768647159808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_LpfFWYAA7jEV.png" length="889" type="photo"/>
+      <pubDate>Thu, 25 May 2023 16:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @virgingalactic: Successful boost, WE HAVE REACHED SPACE! 🌌#UNITY25</title>
+      <link>https://twitter.com/MichaelGalanin/status/1661771360006176768</link>
+      <description>RT @virgingalactic: Successful boost, WE HAVE REACHED SPACE! 🌌#UNITY25</description>
+      <content:encoded>RT @virgingalactic: Successful boost, WE HAVE REACHED SPACE! 🌌#UNITY25&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1661771360006176768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 16:29:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>"By discussing our experiences openly, we can reduce the isolation, shame, and resistance to seeking help that can come with it." 
+
+For this grad student, speaking publicly about #MentalHealth was scary but worth it. https://t.co/LdyJAqgThZ #MentalHealthAwarenessMonth</title>
+      <link>https://twitter.com/ScienceMagazine/status/1661771615670091778</link>
+      <description>"By discussing our experiences openly, we can reduce the isolation, shame, and resistance to seeking help that can come with it." 
+
+For this grad student, speaking publicly about #MentalHealth was scary but worth it. https://t.co/LdyJAqgThZ #MentalHealthAwarenessMonth</description>
+      <content:encoded>"By discussing our experiences openly, we can reduce the isolation, shame, and resistance to seeking help that can come with it." 
+
+For this grad student, speaking publicly about #MentalHealth was scary but worth it. https://t.co/LdyJAqgThZ #MentalHealthAwarenessMonth&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661771615670091778"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 16:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Although people of many ancestries experience endometrial cancer + endometriosis, the driving cause isn’t well understood. Ancestry Networks grantee Semir Beyaz hopes to build a cell atlas to improve scientists’ understanding of the endometrium #NationalCancerResearchMonth https://t.co/fkwVAYjeye</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1661772213907869696</link>
+      <description>Although people of many ancestries experience endometrial cancer + endometriosis, the driving cause isn’t well understood. Ancestry Networks grantee Semir Beyaz hopes to build a cell atlas to improve scientists’ understanding of the endometrium #NationalCancerResearchMonth https://t.co/fkwVAYjeye</description>
+      <content:encoded>Although people of many ancestries experience endometrial cancer + endometriosis, the driving cause isn’t well understood. Ancestry Networks grantee Semir Beyaz hopes to build a cell atlas to improve scientists’ understanding of the endometrium #NationalCancerResearchMonth https://t.co/fkwVAYjeye&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1661772213907869696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_NBVyWYAAM2vz.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 25 May 2023 16:32:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhanced protection of Indian forests for tiger conservation may have led to over 1 million metric tons of avoided carbon emissions as a result of averted forest loss, according to a paper published in @NatureEcoEvo. https://t.co/qNgV6U4eDl https://t.co/Wtl4G5QTms</title>
+      <link>https://twitter.com/NaturePortfolio/status/1661772386063069193</link>
+      <description>Enhanced protection of Indian forests for tiger conservation may have led to over 1 million metric tons of avoided carbon emissions as a result of averted forest loss, according to a paper published in @NatureEcoEvo. https://t.co/qNgV6U4eDl https://t.co/Wtl4G5QTms</description>
+      <content:encoded>Enhanced protection of Indian forests for tiger conservation may have led to over 1 million metric tons of avoided carbon emissions as a result of averted forest loss, according to a paper published in @NatureEcoEvo. https://t.co/qNgV6U4eDl https://t.co/Wtl4G5QTms&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1661772386063069193"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_NKWcWYAEZEWl.jpg" length="1066" type="photo"/>
+      <pubDate>Thu, 25 May 2023 16:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @IceLab_umea: LUNCH PITCH RECAP: Today we had another interesting Lunch Pitch with Laura Carroll, Teresa Frisan and Danielle Wilde. Catc…</title>
+      <link>https://twitter.com/PostdocUmu/status/1661775236109414404</link>
+      <description>RT @IceLab_umea: LUNCH PITCH RECAP: Today we had another interesting Lunch Pitch with Laura Carroll, Teresa Frisan and Danielle Wilde. Catc…</description>
+      <content:encoded>RT @IceLab_umea: LUNCH PITCH RECAP: Today we had another interesting Lunch Pitch with Laura Carroll, Teresa Frisan and Danielle Wilde. Catc…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1661775236109414404"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 16:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>MISAR-seq from Guangdun Peng’s lab combines spatial ATAC-seq and RNA-seq for spatial profiling of both chromatin accessibility and gene expression, as demonstrated in the developing mouse brain. https://t.co/9z3j66SGjG https://t.co/I4J6Ptc1g9</title>
+      <link>https://twitter.com/naturemethods/status/1661777603693359112</link>
+      <description>MISAR-seq from Guangdun Peng’s lab combines spatial ATAC-seq and RNA-seq for spatial profiling of both chromatin accessibility and gene expression, as demonstrated in the developing mouse brain. https://t.co/9z3j66SGjG https://t.co/I4J6Ptc1g9</description>
+      <content:encoded>MISAR-seq from Guangdun Peng’s lab combines spatial ATAC-seq and RNA-seq for spatial profiling of both chromatin accessibility and gene expression, as demonstrated in the developing mouse brain. https://t.co/9z3j66SGjG https://t.co/I4J6Ptc1g9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1661777603693359112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_RyZeXoAEoF1-.png" length="512" type="photo"/>
+      <pubDate>Thu, 25 May 2023 16:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Quest For Arecibo 2.0 https://t.co/OvDU03SyC7 https://t.co/ldSsPOWPo5</title>
+      <link>https://twitter.com/arxivblog/status/1661777635544903691</link>
+      <description>The Quest For Arecibo 2.0 https://t.co/OvDU03SyC7 https://t.co/ldSsPOWPo5</description>
+      <content:encoded>The Quest For Arecibo 2.0 https://t.co/OvDU03SyC7 https://t.co/ldSsPOWPo5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/arxivblog/status/1661777635544903691"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_R1eoXsAosBq6.png" length="641" type="photo"/>
+      <pubDate>Thu, 25 May 2023 16:53:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congratulations to @mims_umea for the award! 
+More opportunities for postdocs to become PIs!! https://t.co/1bgb4yIivN</title>
+      <link>https://twitter.com/PostdocUmu/status/1661779114955616261</link>
+      <description>Congratulations to @mims_umea for the award! 
+More opportunities for postdocs to become PIs!! https://t.co/1bgb4yIivN</description>
+      <content:encoded>Congratulations to @mims_umea for the award! 
+More opportunities for postdocs to become PIs!! https://t.co/1bgb4yIivN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1661779114955616261"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 16:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔬 New research from @LabLappalainen @helsinkiuni in collaboration w/@AICJanelia reveals 2 new nanoscale layers within focal adhesions -- structures that connect cells to their surroundings – that are critical for focal adhesion turnover. 🧵 (1/7)
+
+🔗https://t.co/N6ycl91Hsv https://t.co/sVi2KtNO4f</title>
+      <link>https://twitter.com/HHMIJanelia/status/1661779217439240193</link>
+      <description>🔬 New research from @LabLappalainen @helsinkiuni in collaboration w/@AICJanelia reveals 2 new nanoscale layers within focal adhesions -- structures that connect cells to their surroundings – that are critical for focal adhesion turnover. 🧵 (1/7)
+
+🔗https://t.co/N6ycl91Hsv https://t.co/sVi2KtNO4f</description>
+      <content:encoded>🔬 New research from @LabLappalainen @helsinkiuni in collaboration w/@AICJanelia reveals 2 new nanoscale layers within focal adhesions -- structures that connect cells to their surroundings – that are critical for focal adhesion turnover. 🧵 (1/7)
+
+🔗https://t.co/N6ycl91Hsv https://t.co/sVi2KtNO4f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1661779217439240193"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1661779167266865152/pu/img/DikgKLiAl3DKaDOA.jpg" length="1024" type="photo"/>
+      <pubDate>Thu, 25 May 2023 17:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦠 Focal adhesions (FAs) -- protein complexes that connect the inner workings of cells to their surrounding extracellular matrix – help keep cells in place, enable them to move and facilitate passing of signals between cells. (2/7)</title>
+      <link>https://twitter.com/HHMIJanelia/status/1661779223160270852</link>
+      <description>🦠 Focal adhesions (FAs) -- protein complexes that connect the inner workings of cells to their surrounding extracellular matrix – help keep cells in place, enable them to move and facilitate passing of signals between cells. (2/7)</description>
+      <content:encoded>🦠 Focal adhesions (FAs) -- protein complexes that connect the inner workings of cells to their surrounding extracellular matrix – help keep cells in place, enable them to move and facilitate passing of signals between cells. (2/7)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1661779223160270852"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧫 Many cellular processes, like cell growth and differentiation, rely on the precisely regulated turnover of FAs, and defects in the structure or function of FAs can lead to cancer or immunological disorders. (3/7)</title>
+      <link>https://twitter.com/HHMIJanelia/status/1661779225219674121</link>
+      <description>🧫 Many cellular processes, like cell growth and differentiation, rely on the precisely regulated turnover of FAs, and defects in the structure or function of FAs can lead to cancer or immunological disorders. (3/7)</description>
+      <content:encoded>🧫 Many cellular processes, like cell growth and differentiation, rely on the precisely regulated turnover of FAs, and defects in the structure or function of FAs can lead to cancer or immunological disorders. (3/7)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1661779225219674121"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧪 Previous research found FAs contain three vertical layers, which connect the extracellular matrix to the cell’s cytoskeleton, but the molecules that control turnover of FAs remained elusive. (4/7)</title>
+      <link>https://twitter.com/HHMIJanelia/status/1661779226486353931</link>
+      <description>🧪 Previous research found FAs contain three vertical layers, which connect the extracellular matrix to the cell’s cytoskeleton, but the molecules that control turnover of FAs remained elusive. (4/7)</description>
+      <content:encoded>🧪 Previous research found FAs contain three vertical layers, which connect the extracellular matrix to the cell’s cytoskeleton, but the molecules that control turnover of FAs remained elusive. (4/7)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1661779226486353931"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using super-resolution iPALM microscopy @AICJanelia, the team identified 2 additional nanoscale layers within the FA. Two tropomyosin (Tpm) isoforms -- proteins that bind along actin filaments -- generate specific actin filament layers along the vertical axis of FAs. (5/7) https://t.co/fZE9t2WCvb</title>
+      <link>https://twitter.com/HHMIJanelia/status/1661779230089261057</link>
+      <description>Using super-resolution iPALM microscopy @AICJanelia, the team identified 2 additional nanoscale layers within the FA. Two tropomyosin (Tpm) isoforms -- proteins that bind along actin filaments -- generate specific actin filament layers along the vertical axis of FAs. (5/7) https://t.co/fZE9t2WCvb</description>
+      <content:encoded>Using super-resolution iPALM microscopy @AICJanelia, the team identified 2 additional nanoscale layers within the FA. Two tropomyosin (Tpm) isoforms -- proteins that bind along actin filaments -- generate specific actin filament layers along the vertical axis of FAs. (5/7) https://t.co/fZE9t2WCvb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1661779230089261057"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_TZ01XsBo7biN.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 25 May 2023 17:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>The study identified different roles for the Tpm1.6-actin filaments, located underneath the previously identified “actin-regulatory layer”, and the Tpm3.2-actin filament layer, toward the bottom of the FA. (6/7) https://t.co/aVKx2tMDrj</title>
+      <link>https://twitter.com/HHMIJanelia/status/1661779282748755970</link>
+      <description>The study identified different roles for the Tpm1.6-actin filaments, located underneath the previously identified “actin-regulatory layer”, and the Tpm3.2-actin filament layer, toward the bottom of the FA. (6/7) https://t.co/aVKx2tMDrj</description>
+      <content:encoded>The study identified different roles for the Tpm1.6-actin filaments, located underneath the previously identified “actin-regulatory layer”, and the Tpm3.2-actin filament layer, toward the bottom of the FA. (6/7) https://t.co/aVKx2tMDrj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1661779282748755970"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1661779233826304000/pu/img/DFZOduToN8kQ6Xo6.jpg" length="1024" type="photo"/>
+      <pubDate>Thu, 25 May 2023 17:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>The new research shows FAs are made up of multiple distinct actin filament layers, each having specific roles in FA development &amp;amp; disassembly, which could help scientists to understand how the FA carries out important cellular processes. (7/7)
+
+https://t.co/N6ycl91Hsv</title>
+      <link>https://twitter.com/HHMIJanelia/status/1661779285600874504</link>
+      <description>The new research shows FAs are made up of multiple distinct actin filament layers, each having specific roles in FA development &amp;amp; disassembly, which could help scientists to understand how the FA carries out important cellular processes. (7/7)
+
+https://t.co/N6ycl91Hsv</description>
+      <content:encoded>The new research shows FAs are made up of multiple distinct actin filament layers, each having specific roles in FA development &amp;amp; disassembly, which could help scientists to understand how the FA carries out important cellular processes. (7/7)
+
+https://t.co/N6ycl91Hsv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1661779285600874504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @IlaeWeb: The #ILAE Career Development Commission is launching a mentoring programme! If you're interested in providing mentorship to me…</title>
+      <link>https://twitter.com/Chris_Lisgaras/status/1661779583924940923</link>
+      <description>RT @IlaeWeb: The #ILAE Career Development Commission is launching a mentoring programme! If you're interested in providing mentorship to me…</description>
+      <content:encoded>RT @IlaeWeb: The #ILAE Career Development Commission is launching a mentoring programme! If you're interested in providing mentorship to me…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Chris_Lisgaras/status/1661779583924940923"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:01:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>A classic optical illusion floor by CasaCeramica
+
+[how it was made: https://t.co/kwtj7oVXai]
+https://t.co/N80NsREYyb</title>
+      <link>https://twitter.com/Rainmaker1973/status/1661780394927173641</link>
+      <description>A classic optical illusion floor by CasaCeramica
+
+[how it was made: https://t.co/kwtj7oVXai]
+https://t.co/N80NsREYyb</description>
+      <content:encoded>A classic optical illusion floor by CasaCeramica
+
+[how it was made: https://t.co/kwtj7oVXai]
+https://t.co/N80NsREYyb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661780394927173641"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/911245411947614208/pu/img/vtQwIoITyq4Y1dcN.jpg" length="720" type="photo"/>
+      <pubDate>Thu, 25 May 2023 17:04:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>That moment when you’re nodding off is a sweet spot for creativity: A new study finds people are more creative after waking from the earliest stage of sleep, especially when they are guided to dream about a particular topic. https://t.co/9fnhqagMJP https://t.co/DXkPSIpCPu</title>
+      <link>https://twitter.com/MIT/status/1661780484672696324</link>
+      <description>That moment when you’re nodding off is a sweet spot for creativity: A new study finds people are more creative after waking from the earliest stage of sleep, especially when they are guided to dream about a particular topic. https://t.co/9fnhqagMJP https://t.co/DXkPSIpCPu</description>
+      <content:encoded>That moment when you’re nodding off is a sweet spot for creativity: A new study finds people are more creative after waking from the earliest stage of sleep, especially when they are guided to dream about a particular topic. https://t.co/9fnhqagMJP https://t.co/DXkPSIpCPu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1661780484672696324"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_UivOXsBE3Vg8.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 25 May 2023 17:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>What a cool paper characterizing neurons in the intermediate visual area V4. A great example of neuroscience ideas hopping to AI and back. Bonus: I think we found the trypophobia neurons 1/ https://t.co/EBJJ7cn9Q5 https://t.co/kC1DibpFyL</title>
+      <link>https://twitter.com/patrickmineault/status/1661781194437013518</link>
+      <description>What a cool paper characterizing neurons in the intermediate visual area V4. A great example of neuroscience ideas hopping to AI and back. Bonus: I think we found the trypophobia neurons 1/ https://t.co/EBJJ7cn9Q5 https://t.co/kC1DibpFyL</description>
+      <content:encoded>What a cool paper characterizing neurons in the intermediate visual area V4. A great example of neuroscience ideas hopping to AI and back. Bonus: I think we found the trypophobia neurons 1/ https://t.co/EBJJ7cn9Q5 https://t.co/kC1DibpFyL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781194437013518"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_BztuXsAIszVW.jpg" length="1164" type="photo"/>
+      <pubDate>Thu, 25 May 2023 17:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>There's a long tradition in neuroscience of characterizing neuron preferences using methods like reverse correlation, dating back to work in the auditory cortex adapting linear systems identification methods from Norbert Wiener https://t.co/L3IWQbfpAk 2/</title>
+      <link>https://twitter.com/patrickmineault/status/1661781196756463642</link>
+      <description>There's a long tradition in neuroscience of characterizing neuron preferences using methods like reverse correlation, dating back to work in the auditory cortex adapting linear systems identification methods from Norbert Wiener https://t.co/L3IWQbfpAk 2/</description>
+      <content:encoded>There's a long tradition in neuroscience of characterizing neuron preferences using methods like reverse correlation, dating back to work in the auditory cortex adapting linear systems identification methods from Norbert Wiener https://t.co/L3IWQbfpAk 2/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781196756463642"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:08:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>V4 is an intermediate area of visual cortex, ~5 synapses from the retina. Jack Gallant made an early stab at finding out what V4 neurons care about, characterizing responses to complex patterns called radial and concentric gratings.  https://t.co/ayBvCJPs6q 3/ https://t.co/rcl99floRo</title>
+      <link>https://twitter.com/patrickmineault/status/1661781198174138378</link>
+      <description>V4 is an intermediate area of visual cortex, ~5 synapses from the retina. Jack Gallant made an early stab at finding out what V4 neurons care about, characterizing responses to complex patterns called radial and concentric gratings.  https://t.co/ayBvCJPs6q 3/ https://t.co/rcl99floRo</description>
+      <content:encoded>V4 is an intermediate area of visual cortex, ~5 synapses from the retina. Jack Gallant made an early stab at finding out what V4 neurons care about, characterizing responses to complex patterns called radial and concentric gratings.  https://t.co/ayBvCJPs6q 3/ https://t.co/rcl99floRo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781198174138378"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_EMK7WAAAzVbL.png" length="526" type="photo"/>
+      <pubDate>Thu, 25 May 2023 17:08:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pasupathy and Connor followed up with work showing that V4 neurons really care about boundary conformation (curves) https://t.co/vWptIULonw 4/ https://t.co/bQqB2vLt80</title>
+      <link>https://twitter.com/patrickmineault/status/1661781199910498304</link>
+      <description>Pasupathy and Connor followed up with work showing that V4 neurons really care about boundary conformation (curves) https://t.co/vWptIULonw 4/ https://t.co/bQqB2vLt80</description>
+      <content:encoded>Pasupathy and Connor followed up with work showing that V4 neurons really care about boundary conformation (curves) https://t.co/vWptIULonw 4/ https://t.co/bQqB2vLt80&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781199910498304"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw_EubJWIAAnCET.png" length="624" type="photo"/>
+      <pubDate>Thu, 25 May 2023 17:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>It was clear from this work that whatever the true selectivity was, it was complicated. Yamins &amp;amp; DiCarlo and Khalig-Razavi &amp;amp; Kriegeskorte (2014) found that the ventral visual stream matched deep nets https://t.co/d1T4segzyD 5/</title>
+      <link>https://twitter.com/patrickmineault/status/1661781201923846163</link>
+      <description>It was clear from this work that whatever the true selectivity was, it was complicated. Yamins &amp;amp; DiCarlo and Khalig-Razavi &amp;amp; Kriegeskorte (2014) found that the ventral visual stream matched deep nets https://t.co/d1T4segzyD 5/</description>
+      <content:encoded>It was clear from this work that whatever the true selectivity was, it was complicated. Yamins &amp;amp; DiCarlo and Khalig-Razavi &amp;amp; Kriegeskorte (2014) found that the ventral visual stream matched deep nets https://t.co/d1T4segzyD 5/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781201923846163"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enter @ch402 and their work on mechanistic interpretability. They were able to find robust maximizing stimuli using gradient descent + random transformations in deep nets https://t.co/1bZe8tmB5o 6/</title>
+      <link>https://twitter.com/patrickmineault/status/1661781203383463942</link>
+      <description>Enter @ch402 and their work on mechanistic interpretability. They were able to find robust maximizing stimuli using gradient descent + random transformations in deep nets https://t.co/1bZe8tmB5o 6/</description>
+      <content:encoded>Enter @ch402 and their work on mechanistic interpretability. They were able to find robust maximizing stimuli using gradient descent + random transformations in deep nets https://t.co/1bZe8tmB5o 6/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781203383463942"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tolias and co. leveraged some of the same methods of mechanistic interpretability to characterize optimal stimuli in individual neurons in V4. See also some earlier work by Ponce et al. (https://t.co/z96zsOpVKw) and @PouyaBashivan et al. (https://t.co/jYmOlkblxk) 7/</title>
+      <link>https://twitter.com/patrickmineault/status/1661781204792750088</link>
+      <description>Tolias and co. leveraged some of the same methods of mechanistic interpretability to characterize optimal stimuli in individual neurons in V4. See also some earlier work by Ponce et al. (https://t.co/z96zsOpVKw) and @PouyaBashivan et al. (https://t.co/jYmOlkblxk) 7/</description>
+      <content:encoded>Tolias and co. leveraged some of the same methods of mechanistic interpretability to characterize optimal stimuli in individual neurons in V4. See also some earlier work by Ponce et al. (https://t.co/z96zsOpVKw) and @PouyaBashivan et al. (https://t.co/jYmOlkblxk) 7/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781204792750088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's a great story about how discovery in AI and neuroscience influence each other: it's rarely linear, and we see loops of influence jumping back and forth between fields. 8/</title>
+      <link>https://twitter.com/patrickmineault/status/1661781206432718848</link>
+      <description>It's a great story about how discovery in AI and neuroscience influence each other: it's rarely linear, and we see loops of influence jumping back and forth between fields. 8/</description>
+      <content:encoded>It's a great story about how discovery in AI and neuroscience influence each other: it's rarely linear, and we see loops of influence jumping back and forth between fields. 8/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781206432718848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>If you'd like to learn more about the history of systems identification in neuroscience, a good place to start is the intro to my PhD thesis (https://t.co/XtixC6dSLp), my postdoc advisor @DarioRingach 's review (https://t.co/GUIX1AKroG), or dig up Marmarelis' 1978 classic9/9</title>
+      <link>https://twitter.com/patrickmineault/status/1661781208181747723</link>
+      <description>If you'd like to learn more about the history of systems identification in neuroscience, a good place to start is the intro to my PhD thesis (https://t.co/XtixC6dSLp), my postdoc advisor @DarioRingach 's review (https://t.co/GUIX1AKroG), or dig up Marmarelis' 1978 classic9/9</description>
+      <content:encoded>If you'd like to learn more about the history of systems identification in neuroscience, a good place to start is the intro to my PhD thesis (https://t.co/XtixC6dSLp), my postdoc advisor @DarioRingach 's review (https://t.co/GUIX1AKroG), or dig up Marmarelis' 1978 classic9/9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781208181747723"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 25 May 2023 17:08:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
