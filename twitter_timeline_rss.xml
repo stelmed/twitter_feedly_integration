@@ -6,225 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 May 2023 15:15:50 +0000</lastBuildDate>
-    <item>
-      <title>A Review on the contribution of the peripheral #immune system to #neurodegeneration
-
-https://t.co/mvFUAF9a3e</title>
-      <link>https://twitter.com/NatureNeuro/status/1661795600730390536</link>
-      <description>A Review on the contribution of the peripheral #immune system to #neurodegeneration
-
-https://t.co/mvFUAF9a3e</description>
-      <content:encoded>A Review on the contribution of the peripheral #immune system to #neurodegeneration
-
-https://t.co/mvFUAF9a3e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1661795600730390536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 18:05:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>DIY neurons?! 😲
-
-In the latest #BasicallyScience, Senior Scientist Gokhan Dalgin shares how human induced pluripotent #StemCells can be turned into heart cells, blood cells, and even neurons! https://t.co/vQveUfnqn4</title>
-      <link>https://twitter.com/AllenInstitute/status/1661799146892713984</link>
-      <description>DIY neurons?! 😲
-
-In the latest #BasicallyScience, Senior Scientist Gokhan Dalgin shares how human induced pluripotent #StemCells can be turned into heart cells, blood cells, and even neurons! https://t.co/vQveUfnqn4</description>
-      <content:encoded>DIY neurons?! 😲
-
-In the latest #BasicallyScience, Senior Scientist Gokhan Dalgin shares how human induced pluripotent #StemCells can be turned into heart cells, blood cells, and even neurons! https://t.co/vQveUfnqn4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1661799146892713984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_lfUiXwAQB1tD.png" length="324" type="photo"/>
-      <pubDate>Thu, 25 May 2023 18:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @BevilConway: This is a landmark achievement. 25 yrs ago, I watched Superman in a wheelchair after falling from a horse tell me that one…</title>
-      <link>https://twitter.com/sofroniewn/status/1661800657836445697</link>
-      <description>RT @BevilConway: This is a landmark achievement. 25 yrs ago, I watched Superman in a wheelchair after falling from a horse tell me that one…</description>
-      <content:encoded>RT @BevilConway: This is a landmark achievement. 25 yrs ago, I watched Superman in a wheelchair after falling from a horse tell me that one…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1661800657836445697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 18:25:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @attninaction: Yes, buy the book for the cover.
-
-https://t.co/7TSSZg5K8B https://t.co/YlWI0aEyZd</title>
-      <link>https://twitter.com/PessoaBrain/status/1661801868333383697</link>
-      <description>RT @attninaction: Yes, buy the book for the cover.
-
-https://t.co/7TSSZg5K8B https://t.co/YlWI0aEyZd</description>
-      <content:encoded>RT @attninaction: Yes, buy the book for the cover.
-
-https://t.co/7TSSZg5K8B https://t.co/YlWI0aEyZd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1661801868333383697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw-R17_WAAEgBYI.jpg" length="900" type="photo"/>
-      <pubDate>Thu, 25 May 2023 18:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mitcommencement: You'll find the Commencement Celebration Schedule for 2023 here: https://t.co/JU7V8NfRC0 https://t.co/8COKBZO0O4</title>
-      <link>https://twitter.com/MIT/status/1661802042682400768</link>
-      <description>RT @mitcommencement: You'll find the Commencement Celebration Schedule for 2023 here: https://t.co/JU7V8NfRC0 https://t.co/8COKBZO0O4</description>
-      <content:encoded>RT @mitcommencement: You'll find the Commencement Celebration Schedule for 2023 here: https://t.co/JU7V8NfRC0 https://t.co/8COKBZO0O4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1661802042682400768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fwv_hSYWwCEajag.jpg" length="900" type="photo"/>
-      <pubDate>Thu, 25 May 2023 18:30:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @diedrichsenlab: Check out @dzhi93's new framework to learn brain parcellations across task-based datasets. Thanks to @MoatazAssem, Rand…</title>
-      <link>https://twitter.com/andpru/status/1661803188377272320</link>
-      <description>RT @diedrichsenlab: Check out @dzhi93's new framework to learn brain parcellations across task-based datasets. Thanks to @MoatazAssem, Rand…</description>
-      <content:encoded>RT @diedrichsenlab: Check out @dzhi93's new framework to learn brain parcellations across task-based datasets. Thanks to @MoatazAssem, Rand…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1661803188377272320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 18:35:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>#ScienceUpdate in @NeuroCellPress
-@Jo8renn &amp;amp; @_Ribel_ et al. at @Scanziani1 w/ 3 @neuronexustech designs in lateral HVAs + optoelectrodes in SC of awake, head-fixed mice to ID &amp;amp; characterize the pathway from SC to visual cortices via pulvinar. 
-Read more: https://t.co/MbCProKAD2 https://t.co/Mlh1IcbbWK</title>
-      <link>https://twitter.com/neuronexustech/status/1661803378278629384</link>
-      <description>#ScienceUpdate in @NeuroCellPress
-@Jo8renn &amp;amp; @_Ribel_ et al. at @Scanziani1 w/ 3 @neuronexustech designs in lateral HVAs + optoelectrodes in SC of awake, head-fixed mice to ID &amp;amp; characterize the pathway from SC to visual cortices via pulvinar. 
-Read more: https://t.co/MbCProKAD2 https://t.co/Mlh1IcbbWK</description>
-      <content:encoded>#ScienceUpdate in @NeuroCellPress
-@Jo8renn &amp;amp; @_Ribel_ et al. at @Scanziani1 w/ 3 @neuronexustech designs in lateral HVAs + optoelectrodes in SC of awake, head-fixed mice to ID &amp;amp; characterize the pathway from SC to visual cortices via pulvinar. 
-Read more: https://t.co/MbCProKAD2 https://t.co/Mlh1IcbbWK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuronexustech/status/1661803378278629384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_pXd1XsAEqGng.png" length="879" type="photo"/>
-      <pubDate>Thu, 25 May 2023 18:36:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>A reversible hibernation-like state can be induced in mice and rats using ultrasound pulses directed at the head, according to a study in @NatMetabolism. https://t.co/aXeQHbU41z https://t.co/3isTEOrv8O</title>
-      <link>https://twitter.com/NaturePortfolio/status/1661804597520859154</link>
-      <description>A reversible hibernation-like state can be induced in mice and rats using ultrasound pulses directed at the head, according to a study in @NatMetabolism. https://t.co/aXeQHbU41z https://t.co/3isTEOrv8O</description>
-      <content:encoded>A reversible hibernation-like state can be induced in mice and rats using ultrasound pulses directed at the head, according to a study in @NatMetabolism. https://t.co/aXeQHbU41z https://t.co/3isTEOrv8O&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1661804597520859154"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_qdS6XgD8NqyE.jpg" length="1066" type="photo"/>
-      <pubDate>Thu, 25 May 2023 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bastien Dausse's "Moon" is a show imagined as a living and acrobatic exhibition, conceived as an accumulation of surprising antigravity devices. This is one of them 
-
-[source: https://t.co/9Dn9aKsmJ9] 
-[video: https://t.co/YrLT62Ek8T]
-https://t.co/HG49GRGO73</title>
-      <link>https://twitter.com/Rainmaker1973/status/1661804939235000337</link>
-      <description>Bastien Dausse's "Moon" is a show imagined as a living and acrobatic exhibition, conceived as an accumulation of surprising antigravity devices. This is one of them 
-
-[source: https://t.co/9Dn9aKsmJ9] 
-[video: https://t.co/YrLT62Ek8T]
-https://t.co/HG49GRGO73</description>
-      <content:encoded>Bastien Dausse's "Moon" is a show imagined as a living and acrobatic exhibition, conceived as an accumulation of surprising antigravity devices. This is one of them 
-
-[source: https://t.co/9Dn9aKsmJ9] 
-[video: https://t.co/YrLT62Ek8T]
-https://t.co/HG49GRGO73&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661804939235000337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1518322934368059395/pu/img/8RcX7L1fKsLs08bC.jpg" length="675" type="photo"/>
-      <pubDate>Thu, 25 May 2023 18:42:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bringing safe surgery to patients everywhere: The @dlab_mit-supported startup SurgiBox has developed a portable kit that doctors can use to create sterile operating environments where they’re needed most. https://t.co/TjdVxtuOwL https://t.co/Asl3xdYfsX</title>
-      <link>https://twitter.com/MIT/status/1661808009004154891</link>
-      <description>Bringing safe surgery to patients everywhere: The @dlab_mit-supported startup SurgiBox has developed a portable kit that doctors can use to create sterile operating environments where they’re needed most. https://t.co/TjdVxtuOwL https://t.co/Asl3xdYfsX</description>
-      <content:encoded>Bringing safe surgery to patients everywhere: The @dlab_mit-supported startup SurgiBox has developed a portable kit that doctors can use to create sterile operating environments where they’re needed most. https://t.co/TjdVxtuOwL https://t.co/Asl3xdYfsX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1661808009004154891"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_tk9JXgAYJMEn.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 25 May 2023 18:54:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>@ranczlab @JeanLaurensLab @X_Cano_Ferrer Very cool!</title>
-      <link>https://twitter.com/TrackingActions/status/1661810000262561800</link>
-      <description>@ranczlab @JeanLaurensLab @X_Cano_Ferrer Very cool!</description>
-      <content:encoded>@ranczlab @JeanLaurensLab @X_Cano_Ferrer Very cool!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1661810000262561800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 19:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Effect of nutrition in Alzheimer’s disease: A systematic review: Background and objective
-
-Alzheimer’s disease (AD) is a progressive neurodegenerative disease characterized by declining cognitive ability. Currently, there are… #Neuroscience https://t.co/6YrGJweg6X</title>
-      <link>https://twitter.com/FrontNeurosci/status/1661810505328263169</link>
-      <description>New Research: Effect of nutrition in Alzheimer’s disease: A systematic review: Background and objective
-
-Alzheimer’s disease (AD) is a progressive neurodegenerative disease characterized by declining cognitive ability. Currently, there are… #Neuroscience https://t.co/6YrGJweg6X</description>
-      <content:encoded>New Research: Effect of nutrition in Alzheimer’s disease: A systematic review: Background and objective
-
-Alzheimer’s disease (AD) is a progressive neurodegenerative disease characterized by declining cognitive ability. Currently, there are… #Neuroscience https://t.co/6YrGJweg6X&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1661810505328263169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 19:04:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>192039 Anti-Ankyrin-G [N106/36]
-Purpose: anti-Ankyrin-G (Human) recombinant mouse monoclonal antibody
-Depositor: James Trimmer
-
-https://t.co/CcahnQ9ZOO https://t.co/ytdqjbxzfV</title>
-      <link>https://twitter.com/Addgene/status/1661811887581847552</link>
-      <description>192039 Anti-Ankyrin-G [N106/36]
-Purpose: anti-Ankyrin-G (Human) recombinant mouse monoclonal antibody
-Depositor: James Trimmer
-
-https://t.co/CcahnQ9ZOO https://t.co/ytdqjbxzfV</description>
-      <content:encoded>192039 Anti-Ankyrin-G [N106/36]
-Purpose: anti-Ankyrin-G (Human) recombinant mouse monoclonal antibody
-Depositor: James Trimmer
-
-https://t.co/CcahnQ9ZOO https://t.co/ytdqjbxzfV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1661811887581847552"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fw_xGOTXgCI3DWA.jpg" length="480" type="photo"/>
-      <pubDate>Thu, 25 May 2023 19:10:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>My friend @dan_rockmore's dad recently passed away. May his memory be for a blessing. 
-
-If you missed Dan's article about his father's theorem when it first appeared, now would be a good time to read it, to honor his dad's memory. It's a beautiful piece.
-
-https://t.co/U3ZX2T01ao</title>
-      <link>https://twitter.com/stevenstrogatz/status/1661812136182513678</link>
-      <description>My friend @dan_rockmore's dad recently passed away. May his memory be for a blessing. 
-
-If you missed Dan's article about his father's theorem when it first appeared, now would be a good time to read it, to honor his dad's memory. It's a beautiful piece.
-
-https://t.co/U3ZX2T01ao</description>
-      <content:encoded>My friend @dan_rockmore's dad recently passed away. May his memory be for a blessing. 
-
-If you missed Dan's article about his father's theorem when it first appeared, now would be a good time to read it, to honor his dad's memory. It's a beautiful piece.
-
-https://t.co/U3ZX2T01ao&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1661812136182513678"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 19:11:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>It was an honor to meet Navajo Nation President @BuuVanNygren and First Lady @NygrenJasmine. https://t.co/COYtIsvGTP</title>
-      <link>https://twitter.com/BillGates/status/1661812592074194945</link>
-      <description>It was an honor to meet Navajo Nation President @BuuVanNygren and First Lady @NygrenJasmine. https://t.co/COYtIsvGTP</description>
-      <content:encoded>It was an honor to meet Navajo Nation President @BuuVanNygren and First Lady @NygrenJasmine. https://t.co/COYtIsvGTP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1661812592074194945"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_xl3maQAEwu9w.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 25 May 2023 19:12:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mazen_kheirbek: We are super excited to host the next round of UCSF EPSP talks! Postdocs, come give a talk in the 2023-2024 @UCSFNSGrad…</title>
-      <link>https://twitter.com/ewadorotaz/status/1661815207218257939</link>
-      <description>RT @mazen_kheirbek: We are super excited to host the next round of UCSF EPSP talks! Postdocs, come give a talk in the 2023-2024 @UCSFNSGrad…</description>
-      <content:encoded>RT @mazen_kheirbek: We are super excited to host the next round of UCSF EPSP talks! Postdocs, come give a talk in the 2023-2024 @UCSFNSGrad…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1661815207218257939"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 19:23:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>In March, @NewsfromScience published a story that chronicled five cases of individuals, mostly Chinese or of Chinese descent, whose research careers were disrupted or ended as a result of questions raised by the U.S. NIH. https://t.co/Do9fTwsOR8 (THREAD 🧵)</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661816913595334656</link>
-      <description>In March, @NewsfromScience published a story that chronicled five cases of individuals, mostly Chinese or of Chinese descent, whose research careers were disrupted or ended as a result of questions raised by the U.S. NIH. https://t.co/Do9fTwsOR8 (THREAD 🧵)</description>
-      <content:encoded>In March, @NewsfromScience published a story that chronicled five cases of individuals, mostly Chinese or of Chinese descent, whose research careers were disrupted or ended as a result of questions raised by the U.S. NIH. https://t.co/Do9fTwsOR8 (THREAD 🧵)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661816913595334656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 19:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>@NewsfromScience In a new #LetterToScience, authors from several Asian and Chinese organizations argue that the NIH policies detailed in the @NewsfromScience story have negatively affected Asian Americans and eroded U.S. leadership in science and technology. https://t.co/hwe4wle8SM https://t.co/RrBSa1Sqm6</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661817016871690242</link>
-      <description>@NewsfromScience In a new #LetterToScience, authors from several Asian and Chinese organizations argue that the NIH policies detailed in the @NewsfromScience story have negatively affected Asian Americans and eroded U.S. leadership in science and technology. https://t.co/hwe4wle8SM https://t.co/RrBSa1Sqm6</description>
-      <content:encoded>@NewsfromScience In a new #LetterToScience, authors from several Asian and Chinese organizations argue that the NIH policies detailed in the @NewsfromScience story have negatively affected Asian Americans and eroded U.S. leadership in science and technology. https://t.co/hwe4wle8SM https://t.co/RrBSa1Sqm6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661817016871690242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_1w_6WcAAOUXN.png" length="1200" type="photo"/>
-      <pubDate>Thu, 25 May 2023 19:30:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>@NewsfromScience "Although non-disclosure of details to the public may have led to misunderstandings…NIH followed appropriate procedures and guidelines to protect the integrity of its funding," write NIH's Michael Lauer and Patricia Valdez in a #LetterToScience response. https://t.co/EargPvSVur https://t.co/7G47haLUNR</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661817111637905409</link>
-      <description>@NewsfromScience "Although non-disclosure of details to the public may have led to misunderstandings…NIH followed appropriate procedures and guidelines to protect the integrity of its funding," write NIH's Michael Lauer and Patricia Valdez in a #LetterToScience response. https://t.co/EargPvSVur https://t.co/7G47haLUNR</description>
-      <content:encoded>@NewsfromScience "Although non-disclosure of details to the public may have led to misunderstandings…NIH followed appropriate procedures and guidelines to protect the integrity of its funding," write NIH's Michael Lauer and Patricia Valdez in a #LetterToScience response. https://t.co/EargPvSVur https://t.co/7G47haLUNR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661817111637905409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_12ffWIAMlnXs.png" length="1200" type="photo"/>
-      <pubDate>Thu, 25 May 2023 19:30:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@NewsfromScience In a new #ScienceEditorial, NIH's Michael Lauer spoke with @hholdenthorp, agreeing that because the NIH has been vague about the issue in the eyes of the scientific community, it was understandable that these actions were viewed with suspicion. https://t.co/YIzwfXvcl5 https://t.co/zEdV7ga03A</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661817199894339595</link>
-      <description>@NewsfromScience In a new #ScienceEditorial, NIH's Michael Lauer spoke with @hholdenthorp, agreeing that because the NIH has been vague about the issue in the eyes of the scientific community, it was understandable that these actions were viewed with suspicion. https://t.co/YIzwfXvcl5 https://t.co/zEdV7ga03A</description>
-      <content:encoded>@NewsfromScience In a new #ScienceEditorial, NIH's Michael Lauer spoke with @hholdenthorp, agreeing that because the NIH has been vague about the issue in the eyes of the scientific community, it was understandable that these actions were viewed with suspicion. https://t.co/YIzwfXvcl5 https://t.co/zEdV7ga03A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661817199894339595"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_16xcWIAENY2I.jpg" length="750" type="photo"/>
-      <pubDate>Thu, 25 May 2023 19:31:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 May 2023 16:20:40 +0000</lastBuildDate>
     <item>
       <title>@NewsfromScience @hholdenthorp Read the entire conversation between NIH's Michael Lauer and @hholdenthorp in a new Editor's Blog post. https://t.co/YSXNkPBWJT</title>
       <link>https://twitter.com/ScienceMagazine/status/1661817251975012364</link>
@@ -2254,6 +2036,202 @@ Make your submission here ➡️ https://t.co/IrKQTAPG6q https://t.co/1eQ5O9DPqI
       <description>Multimodal imaging for identifying brain markers of human prosocial behavior  https://t.co/WJNda1Dno5 #biorxiv_neursci</description>
       <content:encoded>Multimodal imaging for identifying brain markers of human prosocial behavior  https://t.co/WJNda1Dno5 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1662115244880064514"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 26 May 2023 15:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>The topic will be “neural architecture for the language of thought”</title>
+      <link>https://twitter.com/blamlab/status/1662115414015344643</link>
+      <description>The topic will be “neural architecture for the language of thought”</description>
+      <content:encoded>The topic will be “neural architecture for the language of thought”&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1662115414015344643"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flexible solar cells made with crystalline silicon https://t.co/sKwj1aQeGv</title>
+      <link>https://twitter.com/NatureNV/status/1662117675433066497</link>
+      <description>Flexible solar cells made with crystalline silicon https://t.co/sKwj1aQeGv</description>
+      <content:encoded>Flexible solar cells made with crystalline silicon https://t.co/sKwj1aQeGv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1662117675433066497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 15:25:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Precursors of the molecules needed for the origin of life may have been generated by chemical reactions promoted by iron-rich particles from meteors or volcanic eruptions on Earth approximately 4.4 billion years ago, according to a study in @SciReports. https://t.co/l0vuh6bbCe https://t.co/bTE8hgmPMk</title>
+      <link>https://twitter.com/NaturePortfolio/status/1662118667570511876</link>
+      <description>Precursors of the molecules needed for the origin of life may have been generated by chemical reactions promoted by iron-rich particles from meteors or volcanic eruptions on Earth approximately 4.4 billion years ago, according to a study in @SciReports. https://t.co/l0vuh6bbCe https://t.co/bTE8hgmPMk</description>
+      <content:encoded>Precursors of the molecules needed for the origin of life may have been generated by chemical reactions promoted by iron-rich particles from meteors or volcanic eruptions on Earth approximately 4.4 billion years ago, according to a study in @SciReports. https://t.co/l0vuh6bbCe https://t.co/bTE8hgmPMk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1662118667570511876"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEIGljXgAMj4wW.jpg" length="1000" type="photo"/>
+      <pubDate>Fri, 26 May 2023 15:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @apeyrache: Mice can take shortcuts, demonstrating that they certainly use a map or perform vector calculation somehow. Elegant study, 1…</title>
+      <link>https://twitter.com/tyrell_turing/status/1662119422184816640</link>
+      <description>RT @apeyrache: Mice can take shortcuts, demonstrating that they certainly use a map or perform vector calculation somehow. Elegant study, 1…</description>
+      <content:encoded>RT @apeyrache: Mice can take shortcuts, demonstrating that they certainly use a map or perform vector calculation somehow. Elegant study, 1…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1662119422184816640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 15:32:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ocean sunfish is the world's heaviest known bony fish: it reaches up to 2,300 kg of weight &amp;amp; 4.2 meters of size across the fins
+
+[read more: https://t.co/Q3q2LQouPN]
+[video: https://t.co/Y7b66SrkLA]
+https://t.co/IgyJvA3reX</title>
+      <link>https://twitter.com/Rainmaker1973/status/1662119475276050433</link>
+      <description>The ocean sunfish is the world's heaviest known bony fish: it reaches up to 2,300 kg of weight &amp;amp; 4.2 meters of size across the fins
+
+[read more: https://t.co/Q3q2LQouPN]
+[video: https://t.co/Y7b66SrkLA]
+https://t.co/IgyJvA3reX</description>
+      <content:encoded>The ocean sunfish is the world's heaviest known bony fish: it reaches up to 2,300 kg of weight &amp;amp; 4.2 meters of size across the fins
+
+[read more: https://t.co/Q3q2LQouPN]
+[video: https://t.co/Y7b66SrkLA]
+https://t.co/IgyJvA3reX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662119475276050433"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1047842682406502402/pu/img/NuDPH9ohzBIj79_b.jpg" length="720" type="photo"/>
+      <pubDate>Fri, 26 May 2023 15:32:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @danielthibault: «Si le Québec avait compté sur l’accroissement naturel de sa population, sa croissance serait quasi nulle, avec un gain…</title>
+      <link>https://twitter.com/tyrell_turing/status/1662119906438152192</link>
+      <description>RT @danielthibault: «Si le Québec avait compté sur l’accroissement naturel de sa population, sa croissance serait quasi nulle, avec un gain…</description>
+      <content:encoded>RT @danielthibault: «Si le Québec avait compté sur l’accroissement naturel de sa population, sa croissance serait quasi nulle, avec un gain…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1662119906438152192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 15:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗺️ From Zeuthen to Vienna, Florence and more... let the world of quantum take you across Europe !
+🧐 Check the newest job offers in quantum science and technologies available on our website https://t.co/qGkj7ARKr0
+
+#Joboftheweek #Hiring #Quantum #QuantumTechnologies https://t.co/5wB2XRUxfO</title>
+      <link>https://twitter.com/QuantumFlagship/status/1662122258796621824</link>
+      <description>🗺️ From Zeuthen to Vienna, Florence and more... let the world of quantum take you across Europe !
+🧐 Check the newest job offers in quantum science and technologies available on our website https://t.co/qGkj7ARKr0
+
+#Joboftheweek #Hiring #Quantum #QuantumTechnologies https://t.co/5wB2XRUxfO</description>
+      <content:encoded>🗺️ From Zeuthen to Vienna, Florence and more... let the world of quantum take you across Europe !
+🧐 Check the newest job offers in quantum science and technologies available on our website https://t.co/qGkj7ARKr0
+
+#Joboftheweek #Hiring #Quantum #QuantumTechnologies https://t.co/5wB2XRUxfO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/QuantumFlagship/status/1662122258796621824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxELWNaWAAcV0XS.jpg" length="768" type="photo"/>
+      <pubDate>Fri, 26 May 2023 15:43:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MarinaP63: The Lustman Awards celebrating the research by psychiatry residents are among my favorite Grand Rounds of the year. Congratu…</title>
+      <link>https://twitter.com/kwanalexc/status/1662124405290303490</link>
+      <description>RT @MarinaP63: The Lustman Awards celebrating the research by psychiatry residents are among my favorite Grand Rounds of the year. Congratu…</description>
+      <content:encoded>RT @MarinaP63: The Lustman Awards celebrating the research by psychiatry residents are among my favorite Grand Rounds of the year. Congratu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kwanalexc/status/1662124405290303490"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 15:51:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>People doing observational / quasiexperimental causality. Can we all agree p=0.02 is always a false discovery? https://t.co/tk8HP85FST</title>
+      <link>https://twitter.com/KordingLab/status/1662125141810384898</link>
+      <description>People doing observational / quasiexperimental causality. Can we all agree p=0.02 is always a false discovery? https://t.co/tk8HP85FST</description>
+      <content:encoded>People doing observational / quasiexperimental causality. Can we all agree p=0.02 is always a false discovery? https://t.co/tk8HP85FST&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1662125141810384898"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 15:54:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Students &amp;amp; Postdocs: Apply by June 21 for our Junior Scientist Workshop on Theoretical Biophysics. 🔥 
+
+🏠 Accommodation, 🍔 meals &amp;amp; ✈️ reasonable travel expenses covered. 
+
+🔗 https://t.co/J7a2s6oATA
+@janeliaconf https://t.co/6i8vY0MY2q</title>
+      <link>https://twitter.com/HHMIJanelia/status/1662126453381627905</link>
+      <description>🔥 Students &amp;amp; Postdocs: Apply by June 21 for our Junior Scientist Workshop on Theoretical Biophysics. 🔥 
+
+🏠 Accommodation, 🍔 meals &amp;amp; ✈️ reasonable travel expenses covered. 
+
+🔗 https://t.co/J7a2s6oATA
+@janeliaconf https://t.co/6i8vY0MY2q</description>
+      <content:encoded>🔥 Students &amp;amp; Postdocs: Apply by June 21 for our Junior Scientist Workshop on Theoretical Biophysics. 🔥 
+
+🏠 Accommodation, 🍔 meals &amp;amp; ✈️ reasonable travel expenses covered. 
+
+🔗 https://t.co/J7a2s6oATA
+@janeliaconf https://t.co/6i8vY0MY2q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1662126453381627905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEPM3AWcAYPGX_.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 26 May 2023 16:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Considering a multiplex immunofluorescence experiment? Read our latest Antibodies 101 post to get started! 
+
+https://t.co/ur7aeumUrU</title>
+      <link>https://twitter.com/Addgene/status/1662126950058475526</link>
+      <description>Considering a multiplex immunofluorescence experiment? Read our latest Antibodies 101 post to get started! 
+
+https://t.co/ur7aeumUrU</description>
+      <content:encoded>Considering a multiplex immunofluorescence experiment? Read our latest Antibodies 101 post to get started! 
+
+https://t.co/ur7aeumUrU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1662126950058475526"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 16:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📣 “Don’t underestimate the power of the patient voice + patient-centered research.” 📣
+
+As part of the #RareAsOne network, @curehht launched a patient registry so people living with HHT can participate in scientific research &amp;amp; advance science towards a cure https://t.co/pH8NrSlWTf</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1662127302157692928</link>
+      <description>📣 “Don’t underestimate the power of the patient voice + patient-centered research.” 📣
+
+As part of the #RareAsOne network, @curehht launched a patient registry so people living with HHT can participate in scientific research &amp;amp; advance science towards a cure https://t.co/pH8NrSlWTf</description>
+      <content:encoded>📣 “Don’t underestimate the power of the patient voice + patient-centered research.” 📣
+
+As part of the #RareAsOne network, @curehht launched a patient registry so people living with HHT can participate in scientific research &amp;amp; advance science towards a cure https://t.co/pH8NrSlWTf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1662127302157692928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEP-PZXwAEdwek.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 26 May 2023 16:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reminder!! The deadline for our Neuropolicy Competition is approaching- do not forget to submit your paper before it is too late! 
+
+https://t.co/x31qg1e4FZ https://t.co/9JboNXfPQT</title>
+      <link>https://twitter.com/KnowingNeurons/status/1662127435192705026</link>
+      <description>Reminder!! The deadline for our Neuropolicy Competition is approaching- do not forget to submit your paper before it is too late! 
+
+https://t.co/x31qg1e4FZ https://t.co/9JboNXfPQT</description>
+      <content:encoded>Reminder!! The deadline for our Neuropolicy Competition is approaching- do not forget to submit your paper before it is too late! 
+
+https://t.co/x31qg1e4FZ https://t.co/9JboNXfPQT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KnowingNeurons/status/1662127435192705026"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEQF-aXsAI7NeR.jpg" length="1080" type="photo"/>
+      <pubDate>Fri, 26 May 2023 16:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daniel Anderson receives 2023 Wilhelm Exner Medal: Award honors researchers who “have had a direct impact on business and industry through their scientific achievements and contributions.” https://t.co/5U30IRogME https://t.co/RzZ2uLxbdk</title>
+      <link>https://twitter.com/MIT/status/1662127778873966592</link>
+      <description>Daniel Anderson receives 2023 Wilhelm Exner Medal: Award honors researchers who “have had a direct impact on business and industry through their scientific achievements and contributions.” https://t.co/5U30IRogME https://t.co/RzZ2uLxbdk</description>
+      <content:encoded>Daniel Anderson receives 2023 Wilhelm Exner Medal: Award honors researchers who “have had a direct impact on business and industry through their scientific achievements and contributions.” https://t.co/5U30IRogME https://t.co/RzZ2uLxbdk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1662127778873966592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEQaDCXoAEWcOa.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 26 May 2023 16:05:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @cureSYNGAP1: 🚨New pre print from @yoichi_araki @Ih_current &amp;amp; @rhuganir is a first!
+
+ - 1st #SynGAP Patient Derived  Models
+ 🐭🧬 p.L813Rf…</title>
+      <link>https://twitter.com/rhuganir/status/1662130194159906816</link>
+      <description>RT @cureSYNGAP1: 🚨New pre print from @yoichi_araki @Ih_current &amp;amp; @rhuganir is a first!
+
+ - 1st #SynGAP Patient Derived  Models
+ 🐭🧬 p.L813Rf…</description>
+      <content:encoded>RT @cureSYNGAP1: 🚨New pre print from @yoichi_araki @Ih_current &amp;amp; @rhuganir is a first!
+
+ - 1st #SynGAP Patient Derived  Models
+ 🐭🧬 p.L813Rf…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1662130194159906816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 16:14:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @StuartJRitchie: Here's my article on the ridiculous UK laws on baby formula - we restrict it and shame mothers for using it for no good…</title>
+      <link>https://twitter.com/chrisdc77/status/1662130590156566528</link>
+      <description>RT @StuartJRitchie: Here's my article on the ridiculous UK laws on baby formula - we restrict it and shame mothers for using it for no good…</description>
+      <content:encoded>RT @StuartJRitchie: Here's my article on the ridiculous UK laws on baby formula - we restrict it and shame mothers for using it for no good…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1662130590156566528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 16:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heavy metal, heavy consequences? Paul Terry &amp;amp; Jiangang Chen on this @ElsevierConnect Env Res work from @HarvardHPM &amp;amp; others suggesting a “potential and dangerous link between lead ammunition and child blood lead levels” #EnvironmentalToxicology #Firearms
+
+https://t.co/1PWptFqplr https://t.co/MgFx4uLiv0</title>
+      <link>https://twitter.com/Facultyopinions/status/1662131489599897607</link>
+      <description>Heavy metal, heavy consequences? Paul Terry &amp;amp; Jiangang Chen on this @ElsevierConnect Env Res work from @HarvardHPM &amp;amp; others suggesting a “potential and dangerous link between lead ammunition and child blood lead levels” #EnvironmentalToxicology #Firearms
+
+https://t.co/1PWptFqplr https://t.co/MgFx4uLiv0</description>
+      <content:encoded>Heavy metal, heavy consequences? Paul Terry &amp;amp; Jiangang Chen on this @ElsevierConnect Env Res work from @HarvardHPM &amp;amp; others suggesting a “potential and dangerous link between lead ammunition and child blood lead levels” #EnvironmentalToxicology #Firearms
+
+https://t.co/1PWptFqplr https://t.co/MgFx4uLiv0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1662131489599897607"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxETxvLX0AANrq7.jpg" length="1161" type="photo"/>
+      <pubDate>Fri, 26 May 2023 16:20:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
