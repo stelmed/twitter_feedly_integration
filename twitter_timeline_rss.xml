@@ -6,142 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 May 2023 07:15:45 +0000</lastBuildDate>
-    <item>
-      <title>With more powerful AI systems comes more responsibility to identify novel capabilities in models. 🔍
-
-Our new research looks at evaluating future 𝘦𝘹𝘵𝘳𝘦𝘮𝘦 risks, which may cause harm through misuse or misalignment.
-
-Here’s a snapshot of the work. 🧵 https://t.co/Y499hpV4no</title>
-      <link>https://twitter.com/DeepMind/status/1661741186774884355</link>
-      <description>With more powerful AI systems comes more responsibility to identify novel capabilities in models. 🔍
-
-Our new research looks at evaluating future 𝘦𝘹𝘵𝘳𝘦𝘮𝘦 risks, which may cause harm through misuse or misalignment.
-
-Here’s a snapshot of the work. 🧵 https://t.co/Y499hpV4no</description>
-      <content:encoded>With more powerful AI systems comes more responsibility to identify novel capabilities in models. 🔍
-
-Our new research looks at evaluating future 𝘦𝘹𝘵𝘳𝘦𝘮𝘦 risks, which may cause harm through misuse or misalignment.
-
-Here’s a snapshot of the work. 🧵 https://t.co/Y499hpV4no&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741186774884355"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 14:29:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Under our framework, AI developers could use evaluation to uncover:
-
-🔵 To what extent a model has certain ‘dangerous capabilities’ that could be used to threaten security, exert influence, or evade oversight
-🔵 Whether it's prone to applying these to cause harm. ⬇️ https://t.co/M4AZvq4Yv7</title>
-      <link>https://twitter.com/DeepMind/status/1661741189044006916</link>
-      <description>Under our framework, AI developers could use evaluation to uncover:
-
-🔵 To what extent a model has certain ‘dangerous capabilities’ that could be used to threaten security, exert influence, or evade oversight
-🔵 Whether it's prone to applying these to cause harm. ⬇️ https://t.co/M4AZvq4Yv7</description>
-      <content:encoded>Under our framework, AI developers could use evaluation to uncover:
-
-🔵 To what extent a model has certain ‘dangerous capabilities’ that could be used to threaten security, exert influence, or evade oversight
-🔵 Whether it's prone to applying these to cause harm. ⬇️ https://t.co/M4AZvq4Yv7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741189044006916"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw-wPGqaUAMIykw.jpg" length="1169" type="photo"/>
-      <pubDate>Thu, 25 May 2023 14:29:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚪ What’s a rule of thumb?
-
-The AI community should treat a system as highly dangerous if it has a capability profile sufficient for extreme harm, 𝘢𝘴𝘴𝘶𝘮𝘪𝘯𝘨 it's misused or poorly aligned.
-
-Developers would need to show a very high standard of safety to deploy it. https://t.co/wjotF9vsEV</title>
-      <link>https://twitter.com/DeepMind/status/1661741191409565698</link>
-      <description>⚪ What’s a rule of thumb?
-
-The AI community should treat a system as highly dangerous if it has a capability profile sufficient for extreme harm, 𝘢𝘴𝘴𝘶𝘮𝘪𝘯𝘨 it's misused or poorly aligned.
-
-Developers would need to show a very high standard of safety to deploy it. https://t.co/wjotF9vsEV</description>
-      <content:encoded>⚪ What’s a rule of thumb?
-
-The AI community should treat a system as highly dangerous if it has a capability profile sufficient for extreme harm, 𝘢𝘴𝘴𝘶𝘮𝘪𝘯𝘨 it's misused or poorly aligned.
-
-Developers would need to show a very high standard of safety to deploy it. https://t.co/wjotF9vsEV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741191409565698"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw-wa5HaYAEFAue.png" length="1200" type="photo"/>
-      <pubDate>Thu, 25 May 2023 14:29:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @itsPaulAi: Many people don't know it, but ChatGPT can help you learn a new language.
-
-You can turn it into your own personal teacher wi…</title>
-      <link>https://twitter.com/YasirSalas/status/1661741193288634373</link>
-      <description>RT @itsPaulAi: Many people don't know it, but ChatGPT can help you learn a new language.
-
-You can turn it into your own personal teacher wi…</description>
-      <content:encoded>RT @itsPaulAi: Many people don't know it, but ChatGPT can help you learn a new language.
-
-You can turn it into your own personal teacher wi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/YasirSalas/status/1661741193288634373"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 14:29:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>🟢 How can this framework help shape AI governance?
-
-If we have better tools for identifying risky models, companies and regulators can better ensure responsible training, responsible deployment, transparency, and appropriate security.
-
-Find out more: https://t.co/Y499hpV4no</title>
-      <link>https://twitter.com/DeepMind/status/1661741193632555009</link>
-      <description>🟢 How can this framework help shape AI governance?
-
-If we have better tools for identifying risky models, companies and regulators can better ensure responsible training, responsible deployment, transparency, and appropriate security.
-
-Find out more: https://t.co/Y499hpV4no</description>
-      <content:encoded>🟢 How can this framework help shape AI governance?
-
-If we have better tools for identifying risky models, companies and regulators can better ensure responsible training, responsible deployment, transparency, and appropriate security.
-
-Find out more: https://t.co/Y499hpV4no&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741193632555009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 14:29:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Work by: Toby Shevlane, @seb_far, Mary Phuong, @nahema_marchal, Lewis Ho, Will Hawkins, @_beenkim, @IasonGabriel, @Vijaybolina, @AllanDafoe, @JackclarkSF from @AnthropicAI, Yoshua Bengio from @Mila_Quebec, Paul Christiano from the Alignment Research Center…</title>
-      <link>https://twitter.com/DeepMind/status/1661741195884916736</link>
-      <description>Work by: Toby Shevlane, @seb_far, Mary Phuong, @nahema_marchal, Lewis Ho, Will Hawkins, @_beenkim, @IasonGabriel, @Vijaybolina, @AllanDafoe, @JackclarkSF from @AnthropicAI, Yoshua Bengio from @Mila_Quebec, Paul Christiano from the Alignment Research Center…</description>
-      <content:encoded>Work by: Toby Shevlane, @seb_far, Mary Phuong, @nahema_marchal, Lewis Ho, Will Hawkins, @_beenkim, @IasonGabriel, @Vijaybolina, @AllanDafoe, @JackclarkSF from @AnthropicAI, Yoshua Bengio from @Mila_Quebec, Paul Christiano from the Alignment Research Center…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741195884916736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 14:29:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>...@BMgarfinkel and @Manderljung from @GovAI_, @jesswhittles from @LongResilience, Jade Leung and Daniel Kokotajlo from @OpenAI, @divyasiddarth from @UniofOxford, Noam Kolt from @UofT and Shahar Avin from @CSERCambridge.</title>
-      <link>https://twitter.com/DeepMind/status/1661741198011437058</link>
-      <description>...@BMgarfinkel and @Manderljung from @GovAI_, @jesswhittles from @LongResilience, Jade Leung and Daniel Kokotajlo from @OpenAI, @divyasiddarth from @UniofOxford, Noam Kolt from @UofT and Shahar Avin from @CSERCambridge.</description>
-      <content:encoded>...@BMgarfinkel and @Manderljung from @GovAI_, @jesswhittles from @LongResilience, Jade Leung and Daniel Kokotajlo from @OpenAI, @divyasiddarth from @UniofOxford, Noam Kolt from @UofT and Shahar Avin from @CSERCambridge.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1661741198011437058"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 14:29:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazing achievement from @EPFL_en labs! @_NeuroRestore @Neuro_X_EPFL https://t.co/BaXpzYqeot</title>
-      <link>https://twitter.com/TrackingActions/status/1661741910015508481</link>
-      <description>Amazing achievement from @EPFL_en labs! @_NeuroRestore @Neuro_X_EPFL https://t.co/BaXpzYqeot</description>
-      <content:encoded>Amazing achievement from @EPFL_en labs! @_NeuroRestore @Neuro_X_EPFL https://t.co/BaXpzYqeot&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1661741910015508481"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 14:31:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @marcgbellemare: Yes.
-
-I have yet to hear a single new argument about AI existential risk that wasn't around ten years ago. These were p…</title>
-      <link>https://twitter.com/tyrell_turing/status/1661741960431017985</link>
-      <description>RT @marcgbellemare: Yes.
-
-I have yet to hear a single new argument about AI existential risk that wasn't around ten years ago. These were p…</description>
-      <content:encoded>RT @marcgbellemare: Yes.
-
-I have yet to hear a single new argument about AI existential risk that wasn't around ten years ago. These were p…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1661741960431017985"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 14:32:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Since AI base models are going to become a basic infrastructure, people (and the industry) will demand that it be open source.
-Just like the software infrastructure of the internet.
-Also, human feedback *must* be crowd-sourced, Wikipedia style, if we want those base systems to… https://t.co/ppVrfeyChW</title>
-      <link>https://twitter.com/ylecun/status/1661742529241563142</link>
-      <description>Since AI base models are going to become a basic infrastructure, people (and the industry) will demand that it be open source.
-Just like the software infrastructure of the internet.
-Also, human feedback *must* be crowd-sourced, Wikipedia style, if we want those base systems to… https://t.co/ppVrfeyChW</description>
-      <content:encoded>Since AI base models are going to become a basic infrastructure, people (and the industry) will demand that it be open source.
-Just like the software infrastructure of the internet.
-Also, human feedback *must* be crowd-sourced, Wikipedia style, if we want those base systems to… https://t.co/ppVrfeyChW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1661742529241563142"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 14:34:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 May 2023 08:19:58 +0000</lastBuildDate>
     <item>
       <title>New Research: Multi-head attention-based masked sequence model for mapping functional brain networks: The investigation of functional brain networks (FBNs) using task-based functional magnetic resonance imaging (tfMRI) has gained… #Neuroscience https://t.co/BF5jDvzvwK</title>
       <link>https://twitter.com/FrontNeurosci/status/1661743812237217793</link>
@@ -1951,6 +1816,171 @@ Errors accumulate exponentially. "This is not fixable wit…&lt;blockquote class
       <description>Implications of variable synaptic weights for rate and temporal coding of cerebellar outputs  https://t.co/9prpGaF3U4 #biorxiv_neursci</description>
       <content:encoded>Implications of variable synaptic weights for rate and temporal coding of cerebellar outputs  https://t.co/9prpGaF3U4 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661994415425048576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 26 May 2023 07:15:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Video of my Distinguished Lecture at the Institute for Experiential AI at Northeastern University on May 24.
+
+Video: https://t.co/BOZRBQcYgN
+
+Slides: https://t.co/FCTtNBNUjn</title>
+      <link>https://twitter.com/ylecun/status/1661994984952721409</link>
+      <description>Video of my Distinguished Lecture at the Institute for Experiential AI at Northeastern University on May 24.
+
+Video: https://t.co/BOZRBQcYgN
+
+Slides: https://t.co/FCTtNBNUjn</description>
+      <content:encoded>Video of my Distinguished Lecture at the Institute for Experiential AI at Northeastern University on May 24.
+
+Video: https://t.co/BOZRBQcYgN
+
+Slides: https://t.co/FCTtNBNUjn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1661994984952721409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 07:17:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠Registration is open for Assembly 2023🧠
+
+Join us for investigator-led talks, round-table discussions, tutorials, &amp;amp; hands-on workshops on FAIR neuro!
+
+Learn more: https://t.co/x8uwUtRye8
+Submit a session abstract: https://t.co/XD7BUmgo1H
+Submit a poster: https://t.co/34eUbMGQWs https://t.co/7Qi1W8byUO</title>
+      <link>https://twitter.com/INCForg/status/1661995835478130689</link>
+      <description>🧠Registration is open for Assembly 2023🧠
+
+Join us for investigator-led talks, round-table discussions, tutorials, &amp;amp; hands-on workshops on FAIR neuro!
+
+Learn more: https://t.co/x8uwUtRye8
+Submit a session abstract: https://t.co/XD7BUmgo1H
+Submit a poster: https://t.co/34eUbMGQWs https://t.co/7Qi1W8byUO</description>
+      <content:encoded>🧠Registration is open for Assembly 2023🧠
+
+Join us for investigator-led talks, round-table discussions, tutorials, &amp;amp; hands-on workshops on FAIR neuro!
+
+Learn more: https://t.co/x8uwUtRye8
+Submit a session abstract: https://t.co/XD7BUmgo1H
+Submit a poster: https://t.co/34eUbMGQWs https://t.co/7Qi1W8byUO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1661995835478130689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw1InMyXwAg6Pzq.jpg" length="979" type="photo"/>
+      <pubDate>Fri, 26 May 2023 07:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congratulations Carlos! https://t.co/Ew22GSU6yE</title>
+      <link>https://twitter.com/ylecun/status/1661995992546172928</link>
+      <description>Congratulations Carlos! https://t.co/Ew22GSU6yE</description>
+      <content:encoded>Congratulations Carlos! https://t.co/Ew22GSU6yE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1661995992546172928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 07:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>This turtle-inspired pneumatic soft #robot that can move around without electronics, powered only by a constant source of pressurized air. 
+
+Learn more: https://t.co/I9KiRktDH7 @SciRobotics https://t.co/0ixwOs0eoz</title>
+      <link>https://twitter.com/ScienceMagazine/status/1661998151018872832</link>
+      <description>This turtle-inspired pneumatic soft #robot that can move around without electronics, powered only by a constant source of pressurized air. 
+
+Learn more: https://t.co/I9KiRktDH7 @SciRobotics https://t.co/0ixwOs0eoz</description>
+      <content:encoded>This turtle-inspired pneumatic soft #robot that can move around without electronics, powered only by a constant source of pressurized air. 
+
+Learn more: https://t.co/I9KiRktDH7 @SciRobotics https://t.co/0ixwOs0eoz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661998151018872832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1661998138922528768/pu/img/8Il0mQHgZPQfVzBW.jpg" length="640" type="photo"/>
+      <pubDate>Fri, 26 May 2023 07:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>These stunning photograph, which looks like a glorious late evening sky with dashes of pink and purple, is actually a picture of Japan’s largest wisteria whose foliage covers 1,990 square meters and it's 150 years old 
+
+[read more: https://t.co/YwU2UHLlq2] https://t.co/0E222AObhC</title>
+      <link>https://twitter.com/Rainmaker1973/status/1661999541233627138</link>
+      <description>These stunning photograph, which looks like a glorious late evening sky with dashes of pink and purple, is actually a picture of Japan’s largest wisteria whose foliage covers 1,990 square meters and it's 150 years old 
+
+[read more: https://t.co/YwU2UHLlq2] https://t.co/0E222AObhC</description>
+      <content:encoded>These stunning photograph, which looks like a glorious late evening sky with dashes of pink and purple, is actually a picture of Japan’s largest wisteria whose foliage covers 1,990 square meters and it's 150 years old 
+
+[read more: https://t.co/YwU2UHLlq2] https://t.co/0E222AObhC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1661999541233627138"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxCbvE2XsAAsJwW.jpg" length="880" type="photo"/>
+      <pubDate>Fri, 26 May 2023 07:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>You’re not you when you’re hungry: @JohnSpeakman4 recommends this new article in @PNASNews by @ClaretLab @UniBarcelona on the factors that affect pro-social #behavior, including food restriction and #energy status.
+
+https://t.co/rjeo8YPN7B https://t.co/72AcWQlvMO</title>
+      <link>https://twitter.com/Facultyopinions/status/1662000623187898369</link>
+      <description>You’re not you when you’re hungry: @JohnSpeakman4 recommends this new article in @PNASNews by @ClaretLab @UniBarcelona on the factors that affect pro-social #behavior, including food restriction and #energy status.
+
+https://t.co/rjeo8YPN7B https://t.co/72AcWQlvMO</description>
+      <content:encoded>You’re not you when you’re hungry: @JohnSpeakman4 recommends this new article in @PNASNews by @ClaretLab @UniBarcelona on the factors that affect pro-social #behavior, including food restriction and #energy status.
+
+https://t.co/rjeo8YPN7B https://t.co/72AcWQlvMO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1662000623187898369"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxCcwlFXwAIaOeT.jpg" length="764" type="photo"/>
+      <pubDate>Fri, 26 May 2023 07:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>#120: Modular subgraphs in large-scale connectomes underpin spontaneous co-fluctuation “events” @EllyR130 @JacobCTanner1 @Jo_Youngheun @FarnazZesf @ColettaLudovico @Gozzi_Ale @richardfbetzel
+
+Inspiring application of NetworkNeuro approaches to mouse data!
+
+https://t.co/uNkwXjlkLW https://t.co/UWKt4Atbva</title>
+      <link>https://twitter.com/bdanubius/status/1662002126850015233</link>
+      <description>#120: Modular subgraphs in large-scale connectomes underpin spontaneous co-fluctuation “events” @EllyR130 @JacobCTanner1 @Jo_Youngheun @FarnazZesf @ColettaLudovico @Gozzi_Ale @richardfbetzel
+
+Inspiring application of NetworkNeuro approaches to mouse data!
+
+https://t.co/uNkwXjlkLW https://t.co/UWKt4Atbva</description>
+      <content:encoded>#120: Modular subgraphs in large-scale connectomes underpin spontaneous co-fluctuation “events” @EllyR130 @JacobCTanner1 @Jo_Youngheun @FarnazZesf @ColettaLudovico @Gozzi_Ale @richardfbetzel
+
+Inspiring application of NetworkNeuro approaches to mouse data!
+
+https://t.co/uNkwXjlkLW https://t.co/UWKt4Atbva&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1662002126850015233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw9EsAgX0AAhJWu.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 26 May 2023 07:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clavelina sp. are sea squirts also known as skeleton tunicates, belonging to ascidians, invertebrate filter feeders, i.e. feeding by taking in water through a tube, the oral siphon 
+
+[source: https://t.co/fSMzks0IwL] 
+https://t.co/dlayoVjy34</title>
+      <link>https://twitter.com/Rainmaker1973/status/1662003135903158272</link>
+      <description>Clavelina sp. are sea squirts also known as skeleton tunicates, belonging to ascidians, invertebrate filter feeders, i.e. feeding by taking in water through a tube, the oral siphon 
+
+[source: https://t.co/fSMzks0IwL] 
+https://t.co/dlayoVjy34</description>
+      <content:encoded>Clavelina sp. are sea squirts also known as skeleton tunicates, belonging to ascidians, invertebrate filter feeders, i.e. feeding by taking in water through a tube, the oral siphon 
+
+[source: https://t.co/fSMzks0IwL] 
+https://t.co/dlayoVjy34&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662003135903158272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1223627604013522944/pu/img/CxnHqku6mq3sahvR.jpg" length="640" type="photo"/>
+      <pubDate>Fri, 26 May 2023 07:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An enzyme in worms that damage crops activates a set of compounds that become toxic for the parasites https://t.co/ubbYBXK6pT</title>
+      <link>https://twitter.com/NatureNV/status/1662005345923760130</link>
+      <description>An enzyme in worms that damage crops activates a set of compounds that become toxic for the parasites https://t.co/ubbYBXK6pT</description>
+      <content:encoded>An enzyme in worms that damage crops activates a set of compounds that become toxic for the parasites https://t.co/ubbYBXK6pT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1662005345923760130"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 07:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @wise_materials: irst WISE Industrial PhD &amp;amp; Postdoc projects approved!
+
+49 applications were submitted in the first industrial PhD and P…</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1662005943419150336</link>
+      <description>RT @wise_materials: irst WISE Industrial PhD &amp;amp; Postdoc projects approved!
+
+49 applications were submitted in the first industrial PhD and P…</description>
+      <content:encoded>RT @wise_materials: irst WISE Industrial PhD &amp;amp; Postdoc projects approved!
+
+49 applications were submitted in the first industrial PhD and P…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1662005943419150336"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 08:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>When a triple lightning strikes three of a city's tallest buildings at once, as happened to videographer Craig Shimala while filming a timelapse of a derecho from his home in 2014 
+
+[source, read more: https://t.co/HtbrsKDLtk] https://t.co/zlaAUXh9rv</title>
+      <link>https://twitter.com/Rainmaker1973/status/1662007936514703360</link>
+      <description>When a triple lightning strikes three of a city's tallest buildings at once, as happened to videographer Craig Shimala while filming a timelapse of a derecho from his home in 2014 
+
+[source, read more: https://t.co/HtbrsKDLtk] https://t.co/zlaAUXh9rv</description>
+      <content:encoded>When a triple lightning strikes three of a city's tallest buildings at once, as happened to videographer Craig Shimala while filming a timelapse of a derecho from his home in 2014 
+
+[source, read more: https://t.co/HtbrsKDLtk] https://t.co/zlaAUXh9rv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662007936514703360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxCjXc2WIAExZ2y.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 26 May 2023 08:09:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
