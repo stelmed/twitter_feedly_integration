@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 May 2023 03:16:24 +0000</lastBuildDate>
-    <item>
-      <title>@KordingLab @PeerCommunityIn @PCI_RegReports This is just the nomination stage, nobody has been chosen</title>
-      <link>https://twitter.com/chrisdc77/status/1661706516431536128</link>
-      <description>@KordingLab @PeerCommunityIn @PCI_RegReports This is just the nomination stage, nobody has been chosen</description>
-      <content:encoded>@KordingLab @PeerCommunityIn @PCI_RegReports This is just the nomination stage, nobody has been chosen&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1661706516431536128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 12:11:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 May 2023 04:19:10 +0000</lastBuildDate>
     <item>
       <title>RT @siminevazire: Wish me luck! I’m going for Psych Science editor in chief again. Here’s my vision statement from when I applied in 2019,…</title>
       <link>https://twitter.com/chrisdc77/status/1661707087842344962</link>
@@ -1959,6 +1952,13 @@ This study examined prefrontal cortex (PFC) activation during dual-task seated s
       <description>Stealth privatization of the public sector continues unchecked. https://t.co/oePBcPcQdt</description>
       <content:encoded>Stealth privatization of the public sector continues unchecked. https://t.co/oePBcPcQdt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1661930774118174722"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 26 May 2023 03:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuroanatomical and functional dissociations between variably present anterior lateral prefrontal sulci  https://t.co/nxbkOvChXe #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1661934290660216834</link>
+      <description>Neuroanatomical and functional dissociations between variably present anterior lateral prefrontal sulci  https://t.co/nxbkOvChXe #biorxiv_neursci</description>
+      <content:encoded>Neuroanatomical and functional dissociations between variably present anterior lateral prefrontal sulci  https://t.co/nxbkOvChXe #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661934290660216834"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 03:16:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
