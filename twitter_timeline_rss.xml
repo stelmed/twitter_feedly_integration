@@ -6,141 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 May 2023 14:14:14 +0000</lastBuildDate>
-    <item>
-      <title>Pasupathy and Connor followed up with work showing that V4 neurons really care about boundary conformation (curves) https://t.co/vWptIULonw 4/ https://t.co/bQqB2vLt80</title>
-      <link>https://twitter.com/patrickmineault/status/1661781199910498304</link>
-      <description>Pasupathy and Connor followed up with work showing that V4 neurons really care about boundary conformation (curves) https://t.co/vWptIULonw 4/ https://t.co/bQqB2vLt80</description>
-      <content:encoded>Pasupathy and Connor followed up with work showing that V4 neurons really care about boundary conformation (curves) https://t.co/vWptIULonw 4/ https://t.co/bQqB2vLt80&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781199910498304"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_EubJWIAAnCET.png" length="624" type="photo"/>
-      <pubDate>Thu, 25 May 2023 17:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>It was clear from this work that whatever the true selectivity was, it was complicated. Yamins &amp;amp; DiCarlo and Khalig-Razavi &amp;amp; Kriegeskorte (2014) found that the ventral visual stream matched deep nets https://t.co/d1T4segzyD 5/</title>
-      <link>https://twitter.com/patrickmineault/status/1661781201923846163</link>
-      <description>It was clear from this work that whatever the true selectivity was, it was complicated. Yamins &amp;amp; DiCarlo and Khalig-Razavi &amp;amp; Kriegeskorte (2014) found that the ventral visual stream matched deep nets https://t.co/d1T4segzyD 5/</description>
-      <content:encoded>It was clear from this work that whatever the true selectivity was, it was complicated. Yamins &amp;amp; DiCarlo and Khalig-Razavi &amp;amp; Kriegeskorte (2014) found that the ventral visual stream matched deep nets https://t.co/d1T4segzyD 5/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781201923846163"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enter @ch402 and their work on mechanistic interpretability. They were able to find robust maximizing stimuli using gradient descent + random transformations in deep nets https://t.co/1bZe8tmB5o 6/</title>
-      <link>https://twitter.com/patrickmineault/status/1661781203383463942</link>
-      <description>Enter @ch402 and their work on mechanistic interpretability. They were able to find robust maximizing stimuli using gradient descent + random transformations in deep nets https://t.co/1bZe8tmB5o 6/</description>
-      <content:encoded>Enter @ch402 and their work on mechanistic interpretability. They were able to find robust maximizing stimuli using gradient descent + random transformations in deep nets https://t.co/1bZe8tmB5o 6/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781203383463942"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tolias and co. leveraged some of the same methods of mechanistic interpretability to characterize optimal stimuli in individual neurons in V4. See also some earlier work by Ponce et al. (https://t.co/z96zsOpVKw) and @PouyaBashivan et al. (https://t.co/jYmOlkblxk) 7/</title>
-      <link>https://twitter.com/patrickmineault/status/1661781204792750088</link>
-      <description>Tolias and co. leveraged some of the same methods of mechanistic interpretability to characterize optimal stimuli in individual neurons in V4. See also some earlier work by Ponce et al. (https://t.co/z96zsOpVKw) and @PouyaBashivan et al. (https://t.co/jYmOlkblxk) 7/</description>
-      <content:encoded>Tolias and co. leveraged some of the same methods of mechanistic interpretability to characterize optimal stimuli in individual neurons in V4. See also some earlier work by Ponce et al. (https://t.co/z96zsOpVKw) and @PouyaBashivan et al. (https://t.co/jYmOlkblxk) 7/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781204792750088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:08:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>It's a great story about how discovery in AI and neuroscience influence each other: it's rarely linear, and we see loops of influence jumping back and forth between fields. 8/</title>
-      <link>https://twitter.com/patrickmineault/status/1661781206432718848</link>
-      <description>It's a great story about how discovery in AI and neuroscience influence each other: it's rarely linear, and we see loops of influence jumping back and forth between fields. 8/</description>
-      <content:encoded>It's a great story about how discovery in AI and neuroscience influence each other: it's rarely linear, and we see loops of influence jumping back and forth between fields. 8/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781206432718848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:08:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>If you'd like to learn more about the history of systems identification in neuroscience, a good place to start is the intro to my PhD thesis (https://t.co/XtixC6dSLp), my postdoc advisor @DarioRingach 's review (https://t.co/GUIX1AKroG), or dig up Marmarelis' 1978 classic9/9</title>
-      <link>https://twitter.com/patrickmineault/status/1661781208181747723</link>
-      <description>If you'd like to learn more about the history of systems identification in neuroscience, a good place to start is the intro to my PhD thesis (https://t.co/XtixC6dSLp), my postdoc advisor @DarioRingach 's review (https://t.co/GUIX1AKroG), or dig up Marmarelis' 1978 classic9/9</description>
-      <content:encoded>If you'd like to learn more about the history of systems identification in neuroscience, a good place to start is the intro to my PhD thesis (https://t.co/XtixC6dSLp), my postdoc advisor @DarioRingach 's review (https://t.co/GUIX1AKroG), or dig up Marmarelis' 1978 classic9/9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1661781208181747723"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model matters: Differential outcomes in traumatic optic neuropathy pathophysiology between blunt and blast-wave mediated head injuries.  https://t.co/ct5AYQYxdr #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661783132616503312</link>
-      <description>Model matters: Differential outcomes in traumatic optic neuropathy pathophysiology between blunt and blast-wave mediated head injuries.  https://t.co/ct5AYQYxdr #biorxiv_neursci</description>
-      <content:encoded>Model matters: Differential outcomes in traumatic optic neuropathy pathophysiology between blunt and blast-wave mediated head injuries.  https://t.co/ct5AYQYxdr #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661783132616503312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:15:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Low-dimensional neural manifolds for the control of constrained and unconstrained movements  https://t.co/JwcbSl2QhS #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1661783259737468942</link>
-      <description>Low-dimensional neural manifolds for the control of constrained and unconstrained movements  https://t.co/JwcbSl2QhS #biorxiv_neursci</description>
-      <content:encoded>Low-dimensional neural manifolds for the control of constrained and unconstrained movements  https://t.co/JwcbSl2QhS #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1661783259737468942"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @chrost_hugo: From the brain to every little synapse. An incredible video by @AllenInstitute 
-
-#MedTwitter https://t.co/wGj84Tou1N</title>
-      <link>https://twitter.com/AllenInstitute/status/1661784193221767183</link>
-      <description>RT @chrost_hugo: From the brain to every little synapse. An incredible video by @AllenInstitute 
-
-#MedTwitter https://t.co/wGj84Tou1N</description>
-      <content:encoded>RT @chrost_hugo: From the brain to every little synapse. An incredible video by @AllenInstitute 
-
-#MedTwitter https://t.co/wGj84Tou1N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1661784193221767183"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1661136752642338817/pu/img/Ko7kFTibtTCPYKoZ.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 25 May 2023 17:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>With researchers reporting high rates of anxiety and depression, calls are growing to fundamentally change science before it’s too late. Read the @Nature feature article. https://t.co/qMMbLySSGO</title>
-      <link>https://twitter.com/NaturePortfolio/status/1661788469864136732</link>
-      <description>With researchers reporting high rates of anxiety and depression, calls are growing to fundamentally change science before it’s too late. Read the @Nature feature article. https://t.co/qMMbLySSGO</description>
-      <content:encoded>With researchers reporting high rates of anxiety and depression, calls are growing to fundamentally change science before it’s too late. Read the @Nature feature article. https://t.co/qMMbLySSGO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1661788469864136732"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @science_seattle: Space: The final frontier … for #StemCells? 🤔
-
-The @AllenInstitute says cells from its collection are going into space…</title>
-      <link>https://twitter.com/AllenInstitute/status/1661790161469059072</link>
-      <description>RT @science_seattle: Space: The final frontier … for #StemCells? 🤔
-
-The @AllenInstitute says cells from its collection are going into space…</description>
-      <content:encoded>RT @science_seattle: Space: The final frontier … for #StemCells? 🤔
-
-The @AllenInstitute says cells from its collection are going into space…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1661790161469059072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:43:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>BehaviorDEPOT is an #opensource software package for MATLAB that detects and classifies behaviors based on pose estimation data. @cjgabrie28 @ladenardo @ScottWilke5 @BrainOfZedZed @DanielBAharoni @MelissaJSharpe
-
-Read about it on OpenBehavior:
-https://t.co/EYDSueaMh5</title>
-      <link>https://twitter.com/OpenBehavior/status/1661791583262457857</link>
-      <description>BehaviorDEPOT is an #opensource software package for MATLAB that detects and classifies behaviors based on pose estimation data. @cjgabrie28 @ladenardo @ScottWilke5 @BrainOfZedZed @DanielBAharoni @MelissaJSharpe
-
-Read about it on OpenBehavior:
-https://t.co/EYDSueaMh5</description>
-      <content:encoded>BehaviorDEPOT is an #opensource software package for MATLAB that detects and classifies behaviors based on pose estimation data. @cjgabrie28 @ladenardo @ScottWilke5 @BrainOfZedZed @DanielBAharoni @MelissaJSharpe
-
-Read about it on OpenBehavior:
-https://t.co/EYDSueaMh5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenBehavior/status/1661791583262457857"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 17:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new regulatory body created by the European Union will investigate the algorithms behind social media sites and search engines. 
-
-Learn more in #TheBatch: https://t.co/YbBofWgAp8</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1661794258490105857</link>
-      <description>A new regulatory body created by the European Union will investigate the algorithms behind social media sites and search engines. 
-
-Learn more in #TheBatch: https://t.co/YbBofWgAp8</description>
-      <content:encoded>A new regulatory body created by the European Union will investigate the algorithms behind social media sites and search engines. 
-
-Learn more in #TheBatch: https://t.co/YbBofWgAp8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1661794258490105857"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 25 May 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Since first evolving 350 million years ago, the tongue has amplified animal diversity by adopting functions as varied as pumping nectar, snagging prey, shaping speech, and startling enemies.
-
-Learn more this week in Science: https://t.co/3FDKLAZNn7 https://t.co/BPSnlGh2uX</title>
-      <link>https://twitter.com/ScienceMagazine/status/1661795545264914442</link>
-      <description>Since first evolving 350 million years ago, the tongue has amplified animal diversity by adopting functions as varied as pumping nectar, snagging prey, shaping speech, and startling enemies.
-
-Learn more this week in Science: https://t.co/3FDKLAZNn7 https://t.co/BPSnlGh2uX</description>
-      <content:encoded>Since first evolving 350 million years ago, the tongue has amplified animal diversity by adopting functions as varied as pumping nectar, snagging prey, shaping speech, and startling enemies.
-
-Learn more this week in Science: https://t.co/3FDKLAZNn7 https://t.co/BPSnlGh2uX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1661795545264914442"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw_iPZCXgAUcQtg.jpg" length="943" type="photo"/>
-      <pubDate>Thu, 25 May 2023 18:05:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 May 2023 15:15:50 +0000</lastBuildDate>
     <item>
       <title>A Review on the contribution of the peripheral #immune system to #neurodegeneration
 
@@ -2198,6 +2064,196 @@ https://t.co/G4eaVMTBan https://t.co/oSVHIjDQie&lt;blockquote class="twitter-twe
       <description>Kempestiftelserna, Knut and Alice Wallenberg Foundation and Umeå University invest SEK 67.5 million in the Laboratory for Molecular Infection Medicine Sweden (MIMS): "A world-leading environment", says Peter Wallenberg Jr. https://t.co/6A0HzUNwuJ</description>
       <content:encoded>Kempestiftelserna, Knut and Alice Wallenberg Foundation and Umeå University invest SEK 67.5 million in the Laboratory for Molecular Infection Medicine Sweden (MIMS): "A world-leading environment", says Peter Wallenberg Jr. https://t.co/6A0HzUNwuJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/umeauniversity/status/1662099609789816836"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 26 May 2023 14:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Louis de Broglie 100 years ago posed the question if matter particles could behave like waves. Extending the duality to electrons and all matter had huge implications, especially for the development of quantum mechanics. Read the @NatRevPhys feature. 🔒 https://t.co/2bGcNSlbe0 https://t.co/sV1QODEfMB</title>
+      <link>https://twitter.com/NaturePortfolio/status/1662102561556447236</link>
+      <description>Louis de Broglie 100 years ago posed the question if matter particles could behave like waves. Extending the duality to electrons and all matter had huge implications, especially for the development of quantum mechanics. Read the @NatRevPhys feature. 🔒 https://t.co/2bGcNSlbe0 https://t.co/sV1QODEfMB</description>
+      <content:encoded>Louis de Broglie 100 years ago posed the question if matter particles could behave like waves. Extending the duality to electrons and all matter had huge implications, especially for the development of quantum mechanics. Read the @NatRevPhys feature. 🔒 https://t.co/2bGcNSlbe0 https://t.co/sV1QODEfMB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1662102561556447236"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxD5dGDWIAIXVe6.jpg" length="1066" type="photo"/>
+      <pubDate>Fri, 26 May 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @OGdukeneurosurg: Look at how small and delicate the human spinal cord is 
+
+from Utah https://t.co/dsy7iG2yJy</title>
+      <link>https://twitter.com/PessoaBrain/status/1662105893511495682</link>
+      <description>RT @OGdukeneurosurg: Look at how small and delicate the human spinal cord is 
+
+from Utah https://t.co/dsy7iG2yJy</description>
+      <content:encoded>RT @OGdukeneurosurg: Look at how small and delicate the human spinal cord is 
+
+from Utah https://t.co/dsy7iG2yJy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1662105893511495682"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1662105162939346955/img/vdZdFWGhBtefL4F3.jpg" length="752" type="photo"/>
+      <pubDate>Fri, 26 May 2023 14:38:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is how a team of researchers taught a goldfish to pilot a tiny land vehicle. In their paper, the group describes the vehicle, how the fish were taught to use it and the navigational skills they displayed 
+
+[read more: https://t.co/9mQN8vGRXF]
+https://t.co/qZcHWpIt0i</title>
+      <link>https://twitter.com/Rainmaker1973/status/1662106314909143040</link>
+      <description>This is how a team of researchers taught a goldfish to pilot a tiny land vehicle. In their paper, the group describes the vehicle, how the fish were taught to use it and the navigational skills they displayed 
+
+[read more: https://t.co/9mQN8vGRXF]
+https://t.co/qZcHWpIt0i</description>
+      <content:encoded>This is how a team of researchers taught a goldfish to pilot a tiny land vehicle. In their paper, the group describes the vehicle, how the fish were taught to use it and the navigational skills they displayed 
+
+[read more: https://t.co/9mQN8vGRXF]
+https://t.co/qZcHWpIt0i&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662106314909143040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1477888837292593152/pu/img/AmVsahA8a0Rtdm0q.jpg" length="606" type="photo"/>
+      <pubDate>Fri, 26 May 2023 14:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: microRNA-dependent regulation of gene expression in GABAergic interneurons: Information processing within neuronal circuits relies on their proper development and a balanced interplay between principal and local inhibitory… #neuroscience https://t.co/5bKmHDuoxl</title>
+      <link>https://twitter.com/FrontNeurosci/status/1662106320340930560</link>
+      <description>New Research: microRNA-dependent regulation of gene expression in GABAergic interneurons: Information processing within neuronal circuits relies on their proper development and a balanced interplay between principal and local inhibitory… #neuroscience https://t.co/5bKmHDuoxl</description>
+      <content:encoded>New Research: microRNA-dependent regulation of gene expression in GABAergic interneurons: Information processing within neuronal circuits relies on their proper development and a balanced interplay between principal and local inhibitory… #neuroscience https://t.co/5bKmHDuoxl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1662106320340930560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 14:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congrats to Grace Lee, who won the outstanding senior thesis in neuroscience award.  As an undergrad working in my lab, she did some beautiful work on the superior colliculus.  Grace will take a gap year before med school and work with @zaknight at UCSF.  I'm sure she will thrive</title>
+      <link>https://twitter.com/HenryYin19/status/1662107446209556480</link>
+      <description>Congrats to Grace Lee, who won the outstanding senior thesis in neuroscience award.  As an undergrad working in my lab, she did some beautiful work on the superior colliculus.  Grace will take a gap year before med school and work with @zaknight at UCSF.  I'm sure she will thrive</description>
+      <content:encoded>Congrats to Grace Lee, who won the outstanding senior thesis in neuroscience award.  As an undergrad working in my lab, she did some beautiful work on the superior colliculus.  Grace will take a gap year before med school and work with @zaknight at UCSF.  I'm sure she will thrive&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HenryYin19/status/1662107446209556480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 14:44:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Confusing perspective"  
+
+[📹 Larry Carlson: https://t.co/9I2Ny71SSh]
+https://t.co/uTDXuWZTBk</title>
+      <link>https://twitter.com/Rainmaker1973/status/1662111249948188672</link>
+      <description>"Confusing perspective"  
+
+[📹 Larry Carlson: https://t.co/9I2Ny71SSh]
+https://t.co/uTDXuWZTBk</description>
+      <content:encoded>"Confusing perspective"  
+
+[📹 Larry Carlson: https://t.co/9I2Ny71SSh]
+https://t.co/uTDXuWZTBk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662111249948188672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1210343817049542657/pu/img/drJ9XfvafO-ATfTp.jpg" length="720" type="photo"/>
+      <pubDate>Fri, 26 May 2023 14:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>JPMorgan, one of the world’s largest investment banks, trained a model based on ChatGPT to forecast changes in interest rates. 
+
+Learn more in #TheBatch: https://t.co/qQsK3ZdAoU</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1662111349822849024</link>
+      <description>JPMorgan, one of the world’s largest investment banks, trained a model based on ChatGPT to forecast changes in interest rates. 
+
+Learn more in #TheBatch: https://t.co/qQsK3ZdAoU</description>
+      <content:encoded>JPMorgan, one of the world’s largest investment banks, trained a model based on ChatGPT to forecast changes in interest rates. 
+
+Learn more in #TheBatch: https://t.co/qQsK3ZdAoU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1662111349822849024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anti-PD-L1 therapy may have limited success in certain cancers because it unleashes the immunosuppressive capacity of regulatory T cells, a new @SciImmunology study finds in mice. https://t.co/ssJfWAATkS https://t.co/dQxjz7McY7</title>
+      <link>https://twitter.com/ScienceMagazine/status/1662111419737812994</link>
+      <description>Anti-PD-L1 therapy may have limited success in certain cancers because it unleashes the immunosuppressive capacity of regulatory T cells, a new @SciImmunology study finds in mice. https://t.co/ssJfWAATkS https://t.co/dQxjz7McY7</description>
+      <content:encoded>Anti-PD-L1 therapy may have limited success in certain cancers because it unleashes the immunosuppressive capacity of regulatory T cells, a new @SciImmunology study finds in mice. https://t.co/ssJfWAATkS https://t.co/dQxjz7McY7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1662111419737812994"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEBhyYXwAMAGr-.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 26 May 2023 15:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>✨Teacher well-being✨ is foundational for student learning. Share if you agree! https://t.co/Q7jnA2Sx0m</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1662111451031429120</link>
+      <description>✨Teacher well-being✨ is foundational for student learning. Share if you agree! https://t.co/Q7jnA2Sx0m</description>
+      <content:encoded>✨Teacher well-being✨ is foundational for student learning. Share if you agree! https://t.co/Q7jnA2Sx0m&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1662111451031429120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEBjjmWIAAr2jT.png" length="960" type="photo"/>
+      <pubDate>Fri, 26 May 2023 15:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>გილოცავთ საქართველოს დამოუკიდებლობის დღეს 🇬🇪🇪🇺
+
+Last days to register for our info session for potential applicants from Georgia  
+🗓 31 May 
+🕰 9:00 - 11:00 (CEST)
+
+Programme &amp;amp; registration link: https://t.co/yDxgugWHYn
+#ResearchImpactEU #HorizonEU
+@EUinGeorgia 
+@angelaliberat16 https://t.co/tLvjJoaXGe</title>
+      <link>https://twitter.com/ERC_Research/status/1662111586801131522</link>
+      <description>გილოცავთ საქართველოს დამოუკიდებლობის დღეს 🇬🇪🇪🇺
+
+Last days to register for our info session for potential applicants from Georgia  
+🗓 31 May 
+🕰 9:00 - 11:00 (CEST)
+
+Programme &amp;amp; registration link: https://t.co/yDxgugWHYn
+#ResearchImpactEU #HorizonEU
+@EUinGeorgia 
+@angelaliberat16 https://t.co/tLvjJoaXGe</description>
+      <content:encoded>გილოცავთ საქართველოს დამოუკიდებლობის დღეს 🇬🇪🇪🇺
+
+Last days to register for our info session for potential applicants from Georgia  
+🗓 31 May 
+🕰 9:00 - 11:00 (CEST)
+
+Programme &amp;amp; registration link: https://t.co/yDxgugWHYn
+#ResearchImpactEU #HorizonEU
+@EUinGeorgia 
+@angelaliberat16 https://t.co/tLvjJoaXGe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1662111586801131522"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEBeS8aYAIP7EO.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 26 May 2023 15:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interceptor 007 has completed its first storm season but will remain on standby in case of rain events during the drier months. 🇺🇸 Thanks to our partners @CalYachtClub for their vital support in transporting our researchers, engineers, and visitors to and from Interceptor 007. https://t.co/POLf7KSmsa</title>
+      <link>https://twitter.com/TheOceanCleanup/status/1662111997016539137</link>
+      <description>Interceptor 007 has completed its first storm season but will remain on standby in case of rain events during the drier months. 🇺🇸 Thanks to our partners @CalYachtClub for their vital support in transporting our researchers, engineers, and visitors to and from Interceptor 007. https://t.co/POLf7KSmsa</description>
+      <content:encoded>Interceptor 007 has completed its first storm season but will remain on standby in case of rain events during the drier months. 🇺🇸 Thanks to our partners @CalYachtClub for their vital support in transporting our researchers, engineers, and visitors to and from Interceptor 007. https://t.co/POLf7KSmsa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheOceanCleanup/status/1662111997016539137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxECDIeWYAQTgIF.jpg" length="1017" type="photo"/>
+      <pubDate>Fri, 26 May 2023 15:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers have identified a new antibiotic drug that kills Acinetobacter baumannii using AI to sift through thousands of compounds. The microbe is “public enemy number one for multidrug-resistant bacterial infections,” says Jonathan Stokes. https://t.co/N5QkpTq27B https://t.co/KGSdjRbLzK</title>
+      <link>https://twitter.com/MIT/status/1662112685650067457</link>
+      <description>Researchers have identified a new antibiotic drug that kills Acinetobacter baumannii using AI to sift through thousands of compounds. The microbe is “public enemy number one for multidrug-resistant bacterial infections,” says Jonathan Stokes. https://t.co/N5QkpTq27B https://t.co/KGSdjRbLzK</description>
+      <content:encoded>Researchers have identified a new antibiotic drug that kills Acinetobacter baumannii using AI to sift through thousands of compounds. The microbe is “public enemy number one for multidrug-resistant bacterial infections,” says Jonathan Stokes. https://t.co/N5QkpTq27B https://t.co/KGSdjRbLzK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1662112685650067457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxECrgBXsAARUXg.jpg" length="1000" type="photo"/>
+      <pubDate>Fri, 26 May 2023 15:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Join us this afternoon on #thelearningsalon with @gualtieropicc 
+Hosted by me and @criticalneuro 
+https://t.co/xMkadcI5tN</title>
+      <link>https://twitter.com/blamlab/status/1662114484226252800</link>
+      <description>Join us this afternoon on #thelearningsalon with @gualtieropicc 
+Hosted by me and @criticalneuro 
+https://t.co/xMkadcI5tN</description>
+      <content:encoded>Join us this afternoon on #thelearningsalon with @gualtieropicc 
+Hosted by me and @criticalneuro 
+https://t.co/xMkadcI5tN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1662114484226252800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 15:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚨 Call for Abstracts 🚨
+
+Submit your theoretical and experimental results on techniques for designing, simulating, sensing, and controlling rehabilitation devices outside of clinical settings.
+
+Make your submission here ➡️ https://t.co/IrKQTAPG6q https://t.co/1eQ5O9DPqI</title>
+      <link>https://twitter.com/FrontNeurosci/status/1662115189607546881</link>
+      <description>🚨 Call for Abstracts 🚨
+
+Submit your theoretical and experimental results on techniques for designing, simulating, sensing, and controlling rehabilitation devices outside of clinical settings.
+
+Make your submission here ➡️ https://t.co/IrKQTAPG6q https://t.co/1eQ5O9DPqI</description>
+      <content:encoded>🚨 Call for Abstracts 🚨
+
+Submit your theoretical and experimental results on techniques for designing, simulating, sensing, and controlling rehabilitation devices outside of clinical settings.
+
+Make your submission here ➡️ https://t.co/IrKQTAPG6q https://t.co/1eQ5O9DPqI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1662115189607546881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEAXJtWcAEJsQz.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 26 May 2023 15:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multimodal imaging for identifying brain markers of human prosocial behavior  https://t.co/WJNda1Dno5 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1662115244880064514</link>
+      <description>Multimodal imaging for identifying brain markers of human prosocial behavior  https://t.co/WJNda1Dno5 #biorxiv_neursci</description>
+      <content:encoded>Multimodal imaging for identifying brain markers of human prosocial behavior  https://t.co/WJNda1Dno5 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1662115244880064514"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 26 May 2023 15:15:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
