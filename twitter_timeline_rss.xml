@@ -6,47 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 May 2023 19:11:53 +0000</lastBuildDate>
-    <item>
-      <title>Students on a medical illustration course had to make anatomically accurate images of their own brain https://t.co/UIkq3t5Qjx Neuro-selfies. I like it https://t.co/pqEYxgIJQM</title>
-      <link>https://twitter.com/Neuro_Skeptic/status/1662197542065520641</link>
-      <description>Students on a medical illustration course had to make anatomically accurate images of their own brain https://t.co/UIkq3t5Qjx Neuro-selfies. I like it https://t.co/pqEYxgIJQM</description>
-      <content:encoded>Students on a medical illustration course had to make anatomically accurate images of their own brain https://t.co/UIkq3t5Qjx Neuro-selfies. I like it https://t.co/pqEYxgIJQM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1662197542065520641"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxFPqMfX0AAJB3p.jpg" length="1140" type="photo"/>
-      <pubDate>Fri, 26 May 2023 20:42:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is how the periaqueductal gray (PAG) saves you if you're a rabbit, amazing. But the PAG is not some simple "output station", the jump and turn are perfectly timed.
-https://t.co/0qOMdJ4nWt</title>
-      <link>https://twitter.com/PessoaBrain/status/1662198256384835584</link>
-      <description>This is how the periaqueductal gray (PAG) saves you if you're a rabbit, amazing. But the PAG is not some simple "output station", the jump and turn are perfectly timed.
-https://t.co/0qOMdJ4nWt</description>
-      <content:encoded>This is how the periaqueductal gray (PAG) saves you if you're a rabbit, amazing. But the PAG is not some simple "output station", the jump and turn are perfectly timed.
-https://t.co/0qOMdJ4nWt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1662198256384835584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 26 May 2023 20:45:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>A paper in @NatureMicrobiol provides a degradome atlas for 96 species to enable analysis of mechanisms of RNA degradation in bacteria. https://t.co/O51wLoXIbe https://t.co/VGSKVRWmw4</title>
-      <link>https://twitter.com/NaturePortfolio/status/1662199449173540866</link>
-      <description>A paper in @NatureMicrobiol provides a degradome atlas for 96 species to enable analysis of mechanisms of RNA degradation in bacteria. https://t.co/O51wLoXIbe https://t.co/VGSKVRWmw4</description>
-      <content:encoded>A paper in @NatureMicrobiol provides a degradome atlas for 96 species to enable analysis of mechanisms of RNA degradation in bacteria. https://t.co/O51wLoXIbe https://t.co/VGSKVRWmw4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1662199449173540866"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxFRkswX0AEyitK.jpg" length="1066" type="photo"/>
-      <pubDate>Fri, 26 May 2023 20:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @czbiohub: @PGeldsetzer1 Join our live discussion at 4 pm PT today with Biohub Investigator @PGeldsetzer1 of @StanfordMed and Joe DeRisi…</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1662199708595507200</link>
-      <description>RT @czbiohub: @PGeldsetzer1 Join our live discussion at 4 pm PT today with Biohub Investigator @PGeldsetzer1 of @StanfordMed and Joe DeRisi…</description>
-      <content:encoded>RT @czbiohub: @PGeldsetzer1 Join our live discussion at 4 pm PT today with Biohub Investigator @PGeldsetzer1 of @StanfordMed and Joe DeRisi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1662199708595507200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 26 May 2023 20:51:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HayleyBounds: Does recovery of task performance after lesion of a brain region mean that region was never really involved? In our new p…</title>
-      <link>https://twitter.com/DLRamamurthy/status/1662201395175636993</link>
-      <description>RT @HayleyBounds: Does recovery of task performance after lesion of a brain region mean that region was never really involved? In our new p…</description>
-      <content:encoded>RT @HayleyBounds: Does recovery of task performance after lesion of a brain region mean that region was never really involved? In our new p…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DLRamamurthy/status/1662201395175636993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 26 May 2023 20:57:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 May 2023 20:16:02 +0000</lastBuildDate>
     <item>
       <title>Architects at one of the world’s top firms are using generative AI to come up with ideas for new building concepts. 
 
@@ -1153,22 +1113,6 @@ https://t.co/jHERANBdZk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Sat, 27 May 2023 10:46:38 +0000</pubDate>
     </item>
     <item>
-      <title>Paphiopedilum micranthum, described in 1951, is commonly known as the silver slipper orchid. Native to China and Vietnam, the plant is found on cliffs and in crevices which contain leaf litter, limestone, and clay
-
-[📹 https://t.co/9zejARW31G]
-https://t.co/Z59cF9uaoz https://t.co/IpttXNcoA1</title>
-      <link>https://twitter.com/Rainmaker1973/status/1662410629699756033</link>
-      <description>Paphiopedilum micranthum, described in 1951, is commonly known as the silver slipper orchid. Native to China and Vietnam, the plant is found on cliffs and in crevices which contain leaf litter, limestone, and clay
-
-[📹 https://t.co/9zejARW31G]
-https://t.co/Z59cF9uaoz https://t.co/IpttXNcoA1</description>
-      <content:encoded>Paphiopedilum micranthum, described in 1951, is commonly known as the silver slipper orchid. Native to China and Vietnam, the plant is found on cliffs and in crevices which contain leaf litter, limestone, and clay
-
-[📹 https://t.co/9zejARW31G]
-https://t.co/Z59cF9uaoz https://t.co/IpttXNcoA1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662410629699756033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 10:49:14 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @Huda_Akil1: Just ran into this short scientific autobiography by the pioneering developmental neurobiologist, Nicole Le Douarin. Worth…</title>
       <link>https://twitter.com/PessoaBrain/status/1662414902198140928</link>
       <description>RT @Huda_Akil1: Just ran into this short scientific autobiography by the pioneering developmental neurobiologist, Nicole Le Douarin. Worth…</description>
@@ -2016,6 +1960,59 @@ https://t.co/YyE7jyzLIH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <content:encoded>RT @Franklandlab: Landed in Montreal. Ready for some Canadian Neuroscience! #CAN2023 https://t.co/BOH8SQItqi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1662536941143826435"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxJxQB7WwAEuhE7.jpg" length="1200" type="photo"/>
       <pubDate>Sat, 27 May 2023 19:11:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paphiopedilum micranthum, described in 1951, is commonly known as the silver slipper orchid. Native to China and Vietnam, the plant is found on cliffs and in crevices which contain leaf litter, limestone, and clay
+
+[📹https://t.co/9zejARW31G]
+https://t.co/JdcpunyXJs https://t.co/MQK8W7IeAO</title>
+      <link>https://twitter.com/Rainmaker1973/status/1662538293190246400</link>
+      <description>Paphiopedilum micranthum, described in 1951, is commonly known as the silver slipper orchid. Native to China and Vietnam, the plant is found on cliffs and in crevices which contain leaf litter, limestone, and clay
+
+[📹https://t.co/9zejARW31G]
+https://t.co/JdcpunyXJs https://t.co/MQK8W7IeAO</description>
+      <content:encoded>Paphiopedilum micranthum, described in 1951, is commonly known as the silver slipper orchid. Native to China and Vietnam, the plant is found on cliffs and in crevices which contain leaf litter, limestone, and clay
+
+[📹https://t.co/9zejARW31G]
+https://t.co/JdcpunyXJs https://t.co/MQK8W7IeAO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662538293190246400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1655645767753687042/pu/img/aCThxgy0nZ94VjKf.jpg" length="675" type="photo"/>
+      <pubDate>Sat, 27 May 2023 19:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Office Space is an awesome movie</title>
+      <link>https://twitter.com/elonmusk/status/1662539707559952384</link>
+      <description>Office Space is an awesome movie</description>
+      <content:encoded>Office Space is an awesome movie&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1662539707559952384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 27 May 2023 19:22:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new procedure for donating hearts and other organs is saving lives. But for some, it challenges the definition of death.
+
+Learn more in this @NewsfromScience feature: https://t.co/OUZKs0lRP5 https://t.co/F0ox67Kd7H</title>
+      <link>https://twitter.com/ScienceMagazine/status/1662541710507868161</link>
+      <description>A new procedure for donating hearts and other organs is saving lives. But for some, it challenges the definition of death.
+
+Learn more in this @NewsfromScience feature: https://t.co/OUZKs0lRP5 https://t.co/F0ox67Kd7H</description>
+      <content:encoded>A new procedure for donating hearts and other organs is saving lives. But for some, it challenges the definition of death.
+
+Learn more in this @NewsfromScience feature: https://t.co/OUZKs0lRP5 https://t.co/F0ox67Kd7H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1662541710507868161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxKI3_UX0AALVYM.jpg" length="1068" type="photo"/>
+      <pubDate>Sat, 27 May 2023 19:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anyone going to CAN or in Montreal want to go watch the Celtics-Heat tonight? DM me.</title>
+      <link>https://twitter.com/andpru/status/1662548399416123392</link>
+      <description>Anyone going to CAN or in Montreal want to go watch the Celtics-Heat tonight? DM me.</description>
+      <content:encoded>Anyone going to CAN or in Montreal want to go watch the Celtics-Heat tonight? DM me.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1662548399416123392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 27 May 2023 19:56:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>qwerty and azlan are now officially besties https://t.co/r4XoLCUAy5</title>
+      <link>https://twitter.com/gottapatchemall/status/1662549000384552960</link>
+      <description>qwerty and azlan are now officially besties https://t.co/r4XoLCUAy5</description>
+      <content:encoded>qwerty and azlan are now officially besties https://t.co/r4XoLCUAy5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1662549000384552960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1662548817408061440/pu/img/rZhSpjZHTnaEqqTo.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 27 May 2023 19:59:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
