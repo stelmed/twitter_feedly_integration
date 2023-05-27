@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 May 2023 21:13:58 +0000</lastBuildDate>
-    <item>
-      <title>Development of a genetically-encoded sensor for probing endogenous nociceptin opioid peptide release  https://t.co/fIljYaEgjY #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1662205830840606721</link>
-      <description>Development of a genetically-encoded sensor for probing endogenous nociceptin opioid peptide release  https://t.co/fIljYaEgjY #biorxiv_neursci</description>
-      <content:encoded>Development of a genetically-encoded sensor for probing endogenous nociceptin opioid peptide release  https://t.co/fIljYaEgjY #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1662205830840606721"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 26 May 2023 21:15:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 May 2023 22:13:46 +0000</lastBuildDate>
     <item>
       <title>Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings  https://t.co/9KF7p5VKxX #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1662205925485158401</link>
@@ -2033,6 +2026,13 @@ Our short course, ChatGPT Prompt Engineering for developers, will help you harne
 
 Sign up today and get free access: https://t.co/Yj3m6bqKnm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1662564328971616256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 27 May 2023 20:59:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Woohoo!!! https://t.co/H7lQgv445c</title>
+      <link>https://twitter.com/behrenstimb/status/1662567951206064128</link>
+      <description>Woohoo!!! https://t.co/H7lQgv445c</description>
+      <content:encoded>Woohoo!!! https://t.co/H7lQgv445c&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1662567951206064128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 27 May 2023 21:14:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
