@@ -6,64 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 May 2023 02:42:43 +0000</lastBuildDate>
-    <item>
-      <title>Acute pain drives different effects on local and global cortical excitability in motor and prefrontal areas: Insights into ...  https://t.co/aQPFRy3xnN #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1662207041413185537</link>
-      <description>Acute pain drives different effects on local and global cortical excitability in motor and prefrontal areas: Insights into ...  https://t.co/aQPFRy3xnN #biorxiv_neursci</description>
-      <content:encoded>Acute pain drives different effects on local and global cortical excitability in motor and prefrontal areas: Insights into ...  https://t.co/aQPFRy3xnN #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1662207041413185537"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 26 May 2023 21:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Delissa76: We have completed 92% of our lab move. This was a team effort on a large scale. As always the #spatialtranscriptomics team w…</title>
-      <link>https://twitter.com/AllenInstitute/status/1662210529681879042</link>
-      <description>RT @Delissa76: We have completed 92% of our lab move. This was a team effort on a large scale. As always the #spatialtranscriptomics team w…</description>
-      <content:encoded>RT @Delissa76: We have completed 92% of our lab move. This was a team effort on a large scale. As always the #spatialtranscriptomics team w…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1662210529681879042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 26 May 2023 21:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @rowancheung: This is insane. 
-
-A paralyzed man can walk thanks again to AI.
-
-Plus, huge announcments from Neuralink, TikTok, Dharmesh,…</title>
-      <link>https://twitter.com/ylecun/status/1662212160402104320</link>
-      <description>RT @rowancheung: This is insane. 
-
-A paralyzed man can walk thanks again to AI.
-
-Plus, huge announcments from Neuralink, TikTok, Dharmesh,…</description>
-      <content:encoded>RT @rowancheung: This is insane. 
-
-A paralyzed man can walk thanks again to AI.
-
-Plus, huge announcments from Neuralink, TikTok, Dharmesh,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1662212160402104320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 26 May 2023 21:40:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab When the assumptions are satisfied, it is a false discovery exactly 2% of the time, by definition.  If your study design failed to adequately address potential confounding, all p-values are meaningless.</title>
-      <link>https://twitter.com/neuro_data/status/1662213413475586048</link>
-      <description>@KordingLab When the assumptions are satisfied, it is a false discovery exactly 2% of the time, by definition.  If your study design failed to adequately address potential confounding, all p-values are meaningless.</description>
-      <content:encoded>@KordingLab When the assumptions are satisfied, it is a false discovery exactly 2% of the time, by definition.  If your study design failed to adequately address potential confounding, all p-values are meaningless.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1662213413475586048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 26 May 2023 21:45:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>M&amp;amp;Ms, gummy bears, Smarties, marshmallow, beef jerky... This is NOT a recipe for a new dessert to be condemned by your dentist, but part of procedure for one of our classic experiments - recording jaw muscle EMG during chewing! #FBF
-
-Full experiment ⏬⏬
-https://t.co/HcFfdguZNU https://t.co/MKyPeQlFsk</title>
-      <link>https://twitter.com/BackyardBrains/status/1662214023067373568</link>
-      <description>M&amp;amp;Ms, gummy bears, Smarties, marshmallow, beef jerky... This is NOT a recipe for a new dessert to be condemned by your dentist, but part of procedure for one of our classic experiments - recording jaw muscle EMG during chewing! #FBF
-
-Full experiment ⏬⏬
-https://t.co/HcFfdguZNU https://t.co/MKyPeQlFsk</description>
-      <content:encoded>M&amp;amp;Ms, gummy bears, Smarties, marshmallow, beef jerky... This is NOT a recipe for a new dessert to be condemned by your dentist, but part of procedure for one of our classic experiments - recording jaw muscle EMG during chewing! #FBF
-
-Full experiment ⏬⏬
-https://t.co/HcFfdguZNU https://t.co/MKyPeQlFsk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BackyardBrains/status/1662214023067373568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1662090749570170882/pu/img/BenrxkPg5HA_5W4A.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 26 May 2023 21:48:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 May 2023 03:16:59 +0000</lastBuildDate>
     <item>
       <title>@neuro_data Nah. Confounding is not binary. Ovb</title>
       <link>https://twitter.com/KordingLab/status/1662215576029396993</link>
@@ -2043,6 +1986,43 @@ Date &amp;amp; Details to Follow&lt;blockquote class="twitter-tweet"&gt;&lt;a hr
       <description>pretty incredible that the Heat are only down 7 here...</description>
       <content:encoded>pretty incredible that the Heat are only down 7 here...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1662648000911495168"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 28 May 2023 02:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sorry this app takes up so much space https://t.co/bCCfcOhNJt</title>
+      <link>https://twitter.com/elonmusk/status/1662654838398697472</link>
+      <description>Sorry this app takes up so much space https://t.co/bCCfcOhNJt</description>
+      <content:encoded>Sorry this app takes up so much space https://t.co/bCCfcOhNJt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1662654838398697472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxLvvm1XoAEkCaK.jpg" length="716" type="photo"/>
+      <pubDate>Sun, 28 May 2023 02:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hello Montreal. https://t.co/gMLZLn8G1v</title>
+      <link>https://twitter.com/andpru/status/1662655115797381121</link>
+      <description>Hello Montreal. https://t.co/gMLZLn8G1v</description>
+      <content:encoded>Hello Montreal. https://t.co/gMLZLn8G1v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1662655115797381121"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxLwA0tWcAEWRop.jpg" length="1023" type="photo"/>
+      <pubDate>Sun, 28 May 2023 03:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>What a game! Heat just won't die.</title>
+      <link>https://twitter.com/andpru/status/1662657369711554565</link>
+      <description>What a game! Heat just won't die.</description>
+      <content:encoded>What a game! Heat just won't die.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1662657369711554565"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 28 May 2023 03:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oh my God.</title>
+      <link>https://twitter.com/andpru/status/1662658502148382721</link>
+      <description>Oh my God.</description>
+      <content:encoded>Oh my God.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1662658502148382721"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 28 May 2023 03:14:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>I apologize to whoever is next to me in this hotel but I promise that screaming was NBA related. Insane.</title>
+      <link>https://twitter.com/andpru/status/1662658875617574912</link>
+      <description>I apologize to whoever is next to me in this hotel but I promise that screaming was NBA related. Insane.</description>
+      <content:encoded>I apologize to whoever is next to me in this hotel but I promise that screaming was NBA related. Insane.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1662658875617574912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 28 May 2023 03:15:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
