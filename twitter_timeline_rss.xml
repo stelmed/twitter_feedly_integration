@@ -6,56 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 May 2023 19:12:12 +0000</lastBuildDate>
-    <item>
-      <title>RT @EPFL_en: Today, EPFL president @MartinVetterli awarded the title of Doctor Honoris Causa to @demishassabis, Founder and CEO of @DeepMin…</title>
-      <link>https://twitter.com/demishassabis/status/1662405245337518080</link>
-      <description>RT @EPFL_en: Today, EPFL president @MartinVetterli awarded the title of Doctor Honoris Causa to @demishassabis, Founder and CEO of @DeepMin…</description>
-      <content:encoded>RT @EPFL_en: Today, EPFL president @MartinVetterli awarded the title of Doctor Honoris Causa to @demishassabis, Founder and CEO of @DeepMin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/demishassabis/status/1662405245337518080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 10:27:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clarification: Although the initial discussions were with Demis, it was @mustafasuleymn who became the co-founder of PAI for Google/DeepMind.</title>
-      <link>https://twitter.com/ylecun/status/1662405358684389378</link>
-      <description>Clarification: Although the initial discussions were with Demis, it was @mustafasuleymn who became the co-founder of PAI for Google/DeepMind.</description>
-      <content:encoded>Clarification: Although the initial discussions were with Demis, it was @mustafasuleymn who became the co-founder of PAI for Google/DeepMind.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1662405358684389378"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 10:28:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blue snow? Why this color?  It's because ice absorbs red light more strongly than blue light, so inside the snowbank the light tends to have bluish tint.  The absorption minimum in ice is actually around 470 nm, which is blue-green 
-
-[source: https://t.co/3CUPjcMpXe] https://t.co/Pm0iejf5GY</title>
-      <link>https://twitter.com/Rainmaker1973/status/1662406152175353859</link>
-      <description>Blue snow? Why this color?  It's because ice absorbs red light more strongly than blue light, so inside the snowbank the light tends to have bluish tint.  The absorption minimum in ice is actually around 470 nm, which is blue-green 
-
-[source: https://t.co/3CUPjcMpXe] https://t.co/Pm0iejf5GY</description>
-      <content:encoded>Blue snow? Why this color?  It's because ice absorbs red light more strongly than blue light, so inside the snowbank the light tends to have bluish tint.  The absorption minimum in ice is actually around 470 nm, which is blue-green 
-
-[source: https://t.co/3CUPjcMpXe] https://t.co/Pm0iejf5GY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662406152175353859"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxINkiPXwAA187l.jpg" length="680" type="photo"/>
-      <pubDate>Sat, 27 May 2023 10:31:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>An unepxected role for a mother’s milk in promoting the maturation of her offspring’s heart https://t.co/FMpj4wzUSS</title>
-      <link>https://twitter.com/NatureNV/status/1662409975820349449</link>
-      <description>An unepxected role for a mother’s milk in promoting the maturation of her offspring’s heart https://t.co/FMpj4wzUSS</description>
-      <content:encoded>An unepxected role for a mother’s milk in promoting the maturation of her offspring’s heart https://t.co/FMpj4wzUSS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1662409975820349449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 10:46:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Huda_Akil1: Just ran into this short scientific autobiography by the pioneering developmental neurobiologist, Nicole Le Douarin. Worth…</title>
-      <link>https://twitter.com/PessoaBrain/status/1662414902198140928</link>
-      <description>RT @Huda_Akil1: Just ran into this short scientific autobiography by the pioneering developmental neurobiologist, Nicole Le Douarin. Worth…</description>
-      <content:encoded>RT @Huda_Akil1: Just ran into this short scientific autobiography by the pioneering developmental neurobiologist, Nicole Le Douarin. Worth…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1662414902198140928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 11:06:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @WiringTheBrain: Beware ‘persuasive communication devices’ when writing and reading scientific articles https://t.co/7CiDzvNuVe - import…</title>
-      <link>https://twitter.com/PessoaBrain/status/1662417146775842816</link>
-      <description>RT @WiringTheBrain: Beware ‘persuasive communication devices’ when writing and reading scientific articles https://t.co/7CiDzvNuVe - import…</description>
-      <content:encoded>RT @WiringTheBrain: Beware ‘persuasive communication devices’ when writing and reading scientific articles https://t.co/7CiDzvNuVe - import…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1662417146775842816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 11:15:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 May 2023 20:15:28 +0000</lastBuildDate>
     <item>
       <title>RT @MPIEisen: Congrats to Jing Yang! 🌟🏅 She's been honored with a #research fellowship from the @AvHStiftung . She'll develop corrosion-res…</title>
       <link>https://twitter.com/maxplanckpress/status/1662417421867655168</link>
@@ -2000,6 +1951,14 @@ To explore the association between acupuncture sessions and its effects on the m
       <pubDate>Sun, 28 May 2023 16:21:36 +0000</pubDate>
     </item>
     <item>
+      <title>Ancient #DNA from pre-Hispanic northern and central Mexico reveals population continuity during a period of drastic environmental change, according to a new Science study, and provides new insights into the region’s complex and rich demographic history. https://t.co/mxIKgKYckz https://t.co/ErmoxliKjW</title>
+      <link>https://twitter.com/ScienceMagazine/status/1662858816277430272</link>
+      <description>Ancient #DNA from pre-Hispanic northern and central Mexico reveals population continuity during a period of drastic environmental change, according to a new Science study, and provides new insights into the region’s complex and rich demographic history. https://t.co/mxIKgKYckz https://t.co/ErmoxliKjW</description>
+      <content:encoded>Ancient #DNA from pre-Hispanic northern and central Mexico reveals population continuity during a period of drastic environmental change, according to a new Science study, and provides new insights into the region’s complex and rich demographic history. https://t.co/mxIKgKYckz https://t.co/ErmoxliKjW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1662858816277430272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxOpR8kWYAIEuMd.jpg" length="893" type="photo"/>
+      <pubDate>Sun, 28 May 2023 16:30:10 +0000</pubDate>
+    </item>
+    <item>
       <title>A study in @NatureComms finds that, for people who received their vaccination prior to SARS-CoV-2 infection, vaccination was associated with lower incidence of long COVID. https://t.co/HAUsSM9Px1 https://t.co/FMkgfe4h7B</title>
       <link>https://twitter.com/NaturePortfolio/status/1662859548573458438</link>
       <description>A study in @NatureComms finds that, for people who received their vaccination prior to SARS-CoV-2 infection, vaccination was associated with lower incidence of long COVID. https://t.co/HAUsSM9Px1 https://t.co/FMkgfe4h7B</description>
@@ -2155,6 +2114,59 @@ https://t.co/pfKTtS1aL5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>New Research: Anesthesia for non-traditional consciousness #Neuroscience https://t.co/ooFSN9EUdB</description>
       <content:encoded>New Research: Anesthesia for non-traditional consciousness #Neuroscience https://t.co/ooFSN9EUdB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1662897663090782208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 28 May 2023 19:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @albrgr: interesting post from Yoshua Bengio: https://t.co/ze1Fd4aDrk</title>
+      <link>https://twitter.com/tegmark/status/1662903851568058374</link>
+      <description>RT @albrgr: interesting post from Yoshua Bengio: https://t.co/ze1Fd4aDrk</description>
+      <content:encoded>RT @albrgr: interesting post from Yoshua Bengio: https://t.co/ze1Fd4aDrk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1662903851568058374"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 28 May 2023 19:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>New medicine-carrying nanoparticles described in @ScienceAdvances improved physical and psychological symptoms in mice with inflammatory bowel disease. https://t.co/yUnOMRRcJE https://t.co/QcIImh9YrJ</title>
+      <link>https://twitter.com/ScienceMagazine/status/1662904106678099972</link>
+      <description>New medicine-carrying nanoparticles described in @ScienceAdvances improved physical and psychological symptoms in mice with inflammatory bowel disease. https://t.co/yUnOMRRcJE https://t.co/QcIImh9YrJ</description>
+      <content:encoded>New medicine-carrying nanoparticles described in @ScienceAdvances improved physical and psychological symptoms in mice with inflammatory bowel disease. https://t.co/yUnOMRRcJE https://t.co/QcIImh9YrJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1662904106678099972"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxPSd0FWAAAF2QV.jpg" length="1138" type="photo"/>
+      <pubDate>Sun, 28 May 2023 19:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @doctorveera: Cool infographics on the historic milestones of post-translational modifications. 
+Pic from Wu et al. Signal Transduct Tar…</title>
+      <link>https://twitter.com/sofroniewn/status/1662905591092883456</link>
+      <description>RT @doctorveera: Cool infographics on the historic milestones of post-translational modifications. 
+Pic from Wu et al. Signal Transduct Tar…</description>
+      <content:encoded>RT @doctorveera: Cool infographics on the historic milestones of post-translational modifications. 
+Pic from Wu et al. Signal Transduct Tar…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1662905591092883456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 28 May 2023 19:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>What a bonkers Indy 500. Another red now?</title>
+      <link>https://twitter.com/andpru/status/1662907209154543616</link>
+      <description>What a bonkers Indy 500. Another red now?</description>
+      <content:encoded>What a bonkers Indy 500. Another red now?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1662907209154543616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 28 May 2023 19:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MartinGiurfa: See our new review and perspectives on Trace Conditioning in Insects, written with @CatherineMacri and Marco Paoli. A lea…</title>
+      <link>https://twitter.com/PessoaBrain/status/1662909820163203073</link>
+      <description>RT @MartinGiurfa: See our new review and perspectives on Trace Conditioning in Insects, written with @CatherineMacri and Marco Paoli. A lea…</description>
+      <content:encoded>RT @MartinGiurfa: See our new review and perspectives on Trace Conditioning in Insects, written with @CatherineMacri and Marco Paoli. A lea…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1662909820163203073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 28 May 2023 19:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Great photo. https://t.co/9wUhay6kwD</title>
+      <link>https://twitter.com/BOlveczky/status/1662913163602321408</link>
+      <description>Great photo. https://t.co/9wUhay6kwD</description>
+      <content:encoded>Great photo. https://t.co/9wUhay6kwD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BOlveczky/status/1662913163602321408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 28 May 2023 20:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>What a crazy procedure to end this race.</title>
+      <link>https://twitter.com/andpru/status/1662913664159043588</link>
+      <description>What a crazy procedure to end this race.</description>
+      <content:encoded>What a crazy procedure to end this race.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1662913664159043588"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 28 May 2023 20:08:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
