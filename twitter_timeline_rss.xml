@@ -6,7 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 04:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 05:15:17 +0000</lastBuildDate>
     <item>
       <title>Many (some?) of us would side with a more distributed, heterarchical view of things. In the discussion we learned that it should be possible within the framework presented to accommodate that. 
 Looking forward to more distributed, heterarchical, dynamical versions!</title>
@@ -1701,14 +1701,6 @@ To explore the association between acupuncture sessions and its effects on the m
       <pubDate>Sun, 28 May 2023 16:21:36 +0000</pubDate>
     </item>
     <item>
-      <title>Ancient #DNA from pre-Hispanic northern and central Mexico reveals population continuity during a period of drastic environmental change, according to a new Science study, and provides new insights into the region’s complex and rich demographic history. https://t.co/mxIKgKYckz https://t.co/ErmoxliKjW</title>
-      <link>https://twitter.com/ScienceMagazine/status/1662858816277430272</link>
-      <description>Ancient #DNA from pre-Hispanic northern and central Mexico reveals population continuity during a period of drastic environmental change, according to a new Science study, and provides new insights into the region’s complex and rich demographic history. https://t.co/mxIKgKYckz https://t.co/ErmoxliKjW</description>
-      <content:encoded>Ancient #DNA from pre-Hispanic northern and central Mexico reveals population continuity during a period of drastic environmental change, according to a new Science study, and provides new insights into the region’s complex and rich demographic history. https://t.co/mxIKgKYckz https://t.co/ErmoxliKjW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1662858816277430272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxOpR8kWYAIEuMd.jpg" length="893" type="photo"/>
-      <pubDate>Sun, 28 May 2023 16:30:10 +0000</pubDate>
-    </item>
-    <item>
       <title>A study in @NatureComms finds that, for people who received their vaccination prior to SARS-CoV-2 infection, vaccination was associated with lower incidence of long COVID. https://t.co/HAUsSM9Px1 https://t.co/FMkgfe4h7B</title>
       <link>https://twitter.com/NaturePortfolio/status/1662859548573458438</link>
       <description>A study in @NatureComms finds that, for people who received their vaccination prior to SARS-CoV-2 infection, vaccination was associated with lower incidence of long COVID. https://t.co/HAUsSM9Px1 https://t.co/FMkgfe4h7B</description>
@@ -2097,6 +2089,13 @@ Although neuroimaging investigations have revealed significant changes in brain 
       <description>Incompetence, in the limit, is indistinguishable from sabotage</description>
       <content:encoded>Incompetence, in the limit, is indistinguishable from sabotage&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1663015083738374146"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 29 May 2023 02:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth's current forests have only limited remaining carbon storage potential—even under the most unlikely of scenarios—to substantially mitigate atmospheric carbon dioxide without major reductions in emissions, a new Science study suggests. https://t.co/DY6sHD2Byp</title>
+      <link>https://twitter.com/ScienceMagazine/status/1663039972755095555</link>
+      <description>Earth's current forests have only limited remaining carbon storage potential—even under the most unlikely of scenarios—to substantially mitigate atmospheric carbon dioxide without major reductions in emissions, a new Science study suggests. https://t.co/DY6sHD2Byp</description>
+      <content:encoded>Earth's current forests have only limited remaining carbon storage potential—even under the most unlikely of scenarios—to substantially mitigate atmospheric carbon dioxide without major reductions in emissions, a new Science study suggests. https://t.co/DY6sHD2Byp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1663039972755095555"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 29 May 2023 04:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
