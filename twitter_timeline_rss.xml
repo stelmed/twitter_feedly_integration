@@ -6,46 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 10:17:26 +0000</lastBuildDate>
-    <item>
-      <title>RT @cwhowell123: So I followed @GaryMarcus's suggestion and had my undergrad class use ChatGPT for a critical assignment. I had them all ge…</title>
-      <link>https://twitter.com/betenoire1/status/1662525245100814337</link>
-      <description>RT @cwhowell123: So I followed @GaryMarcus's suggestion and had my undergrad class use ChatGPT for a critical assignment. I had them all ge…</description>
-      <content:encoded>RT @cwhowell123: So I followed @GaryMarcus's suggestion and had my undergrad class use ChatGPT for a critical assignment. I had them all ge…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/betenoire1/status/1662525245100814337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 18:24:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @cwhowell123: opined that AI both knew more than us but is dumber than we are since it cannot think critically. She wrote, "I’m not worr…</title>
-      <link>https://twitter.com/jdlieber/status/1662525499690696705</link>
-      <description>RT @cwhowell123: opined that AI both knew more than us but is dumber than we are since it cannot think critically. She wrote, "I’m not worr…</description>
-      <content:encoded>RT @cwhowell123: opined that AI both knew more than us but is dumber than we are since it cannot think critically. She wrote, "I’m not worr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jdlieber/status/1662525499690696705"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 18:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your heart's conduction system is the network of nodes (groups of cells that can be either nerve or muscle tissue), specialized cells and electrical signals that keep your heart beating
-
-[📹 SciePro]
-https://t.co/YyE7jyzLIH</title>
-      <link>https://twitter.com/Rainmaker1973/status/1662528295638794240</link>
-      <description>Your heart's conduction system is the network of nodes (groups of cells that can be either nerve or muscle tissue), specialized cells and electrical signals that keep your heart beating
-
-[📹 SciePro]
-https://t.co/YyE7jyzLIH</description>
-      <content:encoded>Your heart's conduction system is the network of nodes (groups of cells that can be either nerve or muscle tissue), specialized cells and electrical signals that keep your heart beating
-
-[📹 SciePro]
-https://t.co/YyE7jyzLIH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662528295638794240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1651484736202612737/pu/img/YvucAMC9hngNWb28.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 27 May 2023 18:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Landmark paper in Nature demonstrating walking in a paraplegic patient via direct stimulation of the spine, decoding intent to walk from a brain implant (ECoG). 1/ https://t.co/AAjAkhlfTC https://t.co/fTsUTsKBCZ</title>
-      <link>https://twitter.com/patrickmineault/status/1662528750301454343</link>
-      <description>Landmark paper in Nature demonstrating walking in a paraplegic patient via direct stimulation of the spine, decoding intent to walk from a brain implant (ECoG). 1/ https://t.co/AAjAkhlfTC https://t.co/fTsUTsKBCZ</description>
-      <content:encoded>Landmark paper in Nature demonstrating walking in a paraplegic patient via direct stimulation of the spine, decoding intent to walk from a brain implant (ECoG). 1/ https://t.co/AAjAkhlfTC https://t.co/fTsUTsKBCZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1662528750301454343"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1662525707803668486/pu/img/D3bUIQwQ7xIcfd32.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 27 May 2023 18:38:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 11:13:04 +0000</lastBuildDate>
     <item>
       <title>If you're an ML person, you should absolutely read the methods and the previous paper (https://t.co/XUel1lFVrF). On the one hand, it's amazing how well the implant works. OTOH, the decoding methods are super simple and there's no doubt that there's tremendous headroom. 2/ https://t.co/cbdV6Msqnm</title>
       <link>https://twitter.com/patrickmineault/status/1662528753942028288</link>
@@ -2064,6 +2025,43 @@ In this blog post, Jared Diethorn walks you through how his team used Fuzzy logi
 In this blog post, Jared Diethorn walks you through how his team used Fuzzy logic to develop their adaptive cruise control in the EcoCAR mobility challenge 👉 https://t.co/EMROKYwDOe https://t.co/aYZUKTeBPs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1663124529206501377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxSa8cUXsAY4M0u.jpg" length="1117" type="photo"/>
       <pubDate>Mon, 29 May 2023 10:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sound on. A black magnetic fluid interacts with a variable strength electromagnet (like those found in speakers) and produces this captivating motion that keeps time with any music played
+
+[source, read more: https://t.co/N7JdknU7qJ]
+https://t.co/LwLvjB2qE2 https://t.co/nskF1vrxzq</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663132757885681664</link>
+      <description>Sound on. A black magnetic fluid interacts with a variable strength electromagnet (like those found in speakers) and produces this captivating motion that keeps time with any music played
+
+[source, read more: https://t.co/N7JdknU7qJ]
+https://t.co/LwLvjB2qE2 https://t.co/nskF1vrxzq</description>
+      <content:encoded>Sound on. A black magnetic fluid interacts with a variable strength electromagnet (like those found in speakers) and produces this captivating motion that keeps time with any music played
+
+[source, read more: https://t.co/N7JdknU7qJ]
+https://t.co/LwLvjB2qE2 https://t.co/nskF1vrxzq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663132757885681664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1541814386926522368/pu/img/JFYf0CFysD4zb5Sg.jpg" length="720" type="photo"/>
+      <pubDate>Mon, 29 May 2023 10:38:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Life finds a way
+
+Two tenacious cedar trees tryly living at the edge, Nevada Falls, Yosemite
+
+[📹 Mark Camp: https://t.co/hgoXCw0F4B] https://t.co/Y9URzLv488</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663136356418179073</link>
+      <description>Life finds a way
+
+Two tenacious cedar trees tryly living at the edge, Nevada Falls, Yosemite
+
+[📹 Mark Camp: https://t.co/hgoXCw0F4B] https://t.co/Y9URzLv488</description>
+      <content:encoded>Life finds a way
+
+Two tenacious cedar trees tryly living at the edge, Nevada Falls, Yosemite
+
+[📹 Mark Camp: https://t.co/hgoXCw0F4B] https://t.co/Y9URzLv488&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663136356418179073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxSlRDBWIAENz3P.jpg" length="511" type="photo"/>
+      <pubDate>Mon, 29 May 2023 10:53:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
