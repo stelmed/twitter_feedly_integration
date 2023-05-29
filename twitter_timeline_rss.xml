@@ -6,20 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 02:38:17 +0000</lastBuildDate>
-    <item>
-      <title>𝗙𝗿𝗲𝗲 𝗲𝗻𝗲𝗿𝗴𝘆 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲 𝗮𝗻𝗱 𝗰𝗼𝗻𝘀𝗰𝗶𝗼𝘂𝘀𝗻𝗲𝘀𝘀: the hippocampus as the top level of the brain!
-Great session with Maxwell Ramstead (@mjdramstead), Karl Friston, @adamsafron, and  many others.
-https://t.co/aEtaNCzlNZ</title>
-      <link>https://twitter.com/PessoaBrain/status/1662455702709731331</link>
-      <description>𝗙𝗿𝗲𝗲 𝗲𝗻𝗲𝗿𝗴𝘆 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲 𝗮𝗻𝗱 𝗰𝗼𝗻𝘀𝗰𝗶𝗼𝘂𝘀𝗻𝗲𝘀𝘀: the hippocampus as the top level of the brain!
-Great session with Maxwell Ramstead (@mjdramstead), Karl Friston, @adamsafron, and  many others.
-https://t.co/aEtaNCzlNZ</description>
-      <content:encoded>𝗙𝗿𝗲𝗲 𝗲𝗻𝗲𝗿𝗴𝘆 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲 𝗮𝗻𝗱 𝗰𝗼𝗻𝘀𝗰𝗶𝗼𝘂𝘀𝗻𝗲𝘀𝘀: the hippocampus as the top level of the brain!
-Great session with Maxwell Ramstead (@mjdramstead), Karl Friston, @adamsafron, and  many others.
-https://t.co/aEtaNCzlNZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1662455702709731331"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 13:48:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 03:16:57 +0000</lastBuildDate>
     <item>
       <title>A key concept is that there's a "top" (or irreducible) level to a nested hierarchy in the brain. The suggestion of the hippocampus will certainly generate some debate! https://t.co/CmpGLyGGPb</title>
       <link>https://twitter.com/PessoaBrain/status/1662455704966365184</link>
@@ -2103,6 +2090,13 @@ Although neuroimaging investigations have revealed significant changes in brain 
       <description>New Research: The effect of the subthreshold oscillation induced by the neurons' resonance upon the electrical stimulation-dependent instability: Repetitive electrical nerve stimulation can induce a long-lasting perturbation of the axon's… #Neuroscience https://t.co/hCM41zJXcj</description>
       <content:encoded>New Research: The effect of the subthreshold oscillation induced by the neurons' resonance upon the electrical stimulation-dependent instability: Repetitive electrical nerve stimulation can induce a long-lasting perturbation of the axon's… #Neuroscience https://t.co/hCM41zJXcj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1663004246495887361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 29 May 2023 02:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incompetence, in the limit, is indistinguishable from sabotage</title>
+      <link>https://twitter.com/elonmusk/status/1663015083738374146</link>
+      <description>Incompetence, in the limit, is indistinguishable from sabotage</description>
+      <content:encoded>Incompetence, in the limit, is indistinguishable from sabotage&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1663015083738374146"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 29 May 2023 02:51:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
