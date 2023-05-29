@@ -6,80 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 11:13:04 +0000</lastBuildDate>
-    <item>
-      <title>If you're an ML person, you should absolutely read the methods and the previous paper (https://t.co/XUel1lFVrF). On the one hand, it's amazing how well the implant works. OTOH, the decoding methods are super simple and there's no doubt that there's tremendous headroom. 2/ https://t.co/cbdV6Msqnm</title>
-      <link>https://twitter.com/patrickmineault/status/1662528753942028288</link>
-      <description>If you're an ML person, you should absolutely read the methods and the previous paper (https://t.co/XUel1lFVrF). On the one hand, it's amazing how well the implant works. OTOH, the decoding methods are super simple and there's no doubt that there's tremendous headroom. 2/ https://t.co/cbdV6Msqnm</description>
-      <content:encoded>If you're an ML person, you should absolutely read the methods and the previous paper (https://t.co/XUel1lFVrF). On the one hand, it's amazing how well the implant works. OTOH, the decoding methods are super simple and there's no doubt that there's tremendous headroom. 2/ https://t.co/cbdV6Msqnm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1662528753942028288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxJ65CdXoAEAmAA.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 27 May 2023 18:38:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The relationship between ECoG and latent states is nonlinear, ECoG is nonstationary, the dynamics are non-Markovian, etc. There's tremendous space to make these BCIs operate better by adapting SOTA ML methods. 3/</title>
-      <link>https://twitter.com/patrickmineault/status/1662528755749855234</link>
-      <description>The relationship between ECoG and latent states is nonlinear, ECoG is nonstationary, the dynamics are non-Markovian, etc. There's tremendous space to make these BCIs operate better by adapting SOTA ML methods. 3/</description>
-      <content:encoded>The relationship between ECoG and latent states is nonlinear, ECoG is nonstationary, the dynamics are non-Markovian, etc. There's tremendous space to make these BCIs operate better by adapting SOTA ML methods. 3/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1662528755749855234"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 18:38:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>As @mattangle likes to say, if you're in ML, you can do a lot of good by joining neurotech 4/4 https://t.co/S5ldOtZysY</title>
-      <link>https://twitter.com/patrickmineault/status/1662528756911579138</link>
-      <description>As @mattangle likes to say, if you're in ML, you can do a lot of good by joining neurotech 4/4 https://t.co/S5ldOtZysY</description>
-      <content:encoded>As @mattangle likes to say, if you're in ML, you can do a lot of good by joining neurotech 4/4 https://t.co/S5ldOtZysY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1662528756911579138"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 18:38:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>I was today’s years old when I learned that some people genuinely love cooked salmon</title>
-      <link>https://twitter.com/elonmusk/status/1662528767221280768</link>
-      <description>I was today’s years old when I learned that some people genuinely love cooked salmon</description>
-      <content:encoded>I was today’s years old when I learned that some people genuinely love cooked salmon&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1662528767221280768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 18:38:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>A paper in @ScientificData presents GeoMAP, the first detailed geological map dataset covering all of Antarctica. It depicts ‘known geology’ of rock exposures and is suitable for continent-wide perspectives and cross-discipline interrogation. https://t.co/6kq0cck15Y https://t.co/6DO8ol3sUH</title>
-      <link>https://twitter.com/NaturePortfolio/status/1662529372337651718</link>
-      <description>A paper in @ScientificData presents GeoMAP, the first detailed geological map dataset covering all of Antarctica. It depicts ‘known geology’ of rock exposures and is suitable for continent-wide perspectives and cross-discipline interrogation. https://t.co/6kq0cck15Y https://t.co/6DO8ol3sUH</description>
-      <content:encoded>A paper in @ScientificData presents GeoMAP, the first detailed geological map dataset covering all of Antarctica. It depicts ‘known geology’ of rock exposures and is suitable for continent-wide perspectives and cross-discipline interrogation. https://t.co/6kq0cck15Y https://t.co/6DO8ol3sUH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1662529372337651718"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxJ9owZXoAMsKTB.jpg" length="1000" type="photo"/>
-      <pubDate>Sat, 27 May 2023 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Previously, I had thought it was some pescatarian conspiracy theory, but nope</title>
-      <link>https://twitter.com/elonmusk/status/1662529714634752001</link>
-      <description>Previously, I had thought it was some pescatarian conspiracy theory, but nope</description>
-      <content:encoded>Previously, I had thought it was some pescatarian conspiracy theory, but nope&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1662529714634752001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 18:42:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Recessive aminoacyl-tRNA synthase disorders: lessons learned from in vivo disease models: Protein synthesis is a fundamental process that underpins almost every aspect of cellular functioning. Intriguingly, despite their… #Neuroscience https://t.co/UzGmwm5E43</title>
-      <link>https://twitter.com/FrontNeurosci/status/1662535405701570560</link>
-      <description>New Research: Recessive aminoacyl-tRNA synthase disorders: lessons learned from in vivo disease models: Protein synthesis is a fundamental process that underpins almost every aspect of cellular functioning. Intriguingly, despite their… #Neuroscience https://t.co/UzGmwm5E43</description>
-      <content:encoded>New Research: Recessive aminoacyl-tRNA synthase disorders: lessons learned from in vivo disease models: Protein synthesis is a fundamental process that underpins almost every aspect of cellular functioning. Intriguingly, despite their… #Neuroscience https://t.co/UzGmwm5E43&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1662535405701570560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 19:05:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spring Hippocampal Research Conference... 28 May-2 June, 2023 in Verona, Italy - Spring Hippocampal Research Conference #hippocampus #interesting #FOMO https://t.co/pXorQ5EXgv</title>
-      <link>https://twitter.com/ewadorotaz/status/1662536379778101250</link>
-      <description>Spring Hippocampal Research Conference... 28 May-2 June, 2023 in Verona, Italy - Spring Hippocampal Research Conference #hippocampus #interesting #FOMO https://t.co/pXorQ5EXgv</description>
-      <content:encoded>Spring Hippocampal Research Conference... 28 May-2 June, 2023 in Verona, Italy - Spring Hippocampal Research Conference #hippocampus #interesting #FOMO https://t.co/pXorQ5EXgv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1662536379778101250"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 19:08:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Suzannevjones: @cureSYNGAP1 @yoichi_araki @Ih_current @rhuganir Amazing!! 🧬</title>
-      <link>https://twitter.com/rhuganir/status/1662536455594311682</link>
-      <description>RT @Suzannevjones: @cureSYNGAP1 @yoichi_araki @Ih_current @rhuganir Amazing!! 🧬</description>
-      <content:encoded>RT @Suzannevjones: @cureSYNGAP1 @yoichi_araki @Ih_current @rhuganir Amazing!! 🧬&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1662536455594311682"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 19:09:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Franklandlab: Landed in Montreal. Ready for some Canadian Neuroscience! #CAN2023 https://t.co/BOH8SQItqi</title>
-      <link>https://twitter.com/ruimcosta/status/1662536941143826435</link>
-      <description>RT @Franklandlab: Landed in Montreal. Ready for some Canadian Neuroscience! #CAN2023 https://t.co/BOH8SQItqi</description>
-      <content:encoded>RT @Franklandlab: Landed in Montreal. Ready for some Canadian Neuroscience! #CAN2023 https://t.co/BOH8SQItqi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1662536941143826435"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxJxQB7WwAEuhE7.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 27 May 2023 19:11:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 12:31:42 +0000</lastBuildDate>
     <item>
       <title>Paphiopedilum micranthum, described in 1951, is commonly known as the silver slipper orchid. Native to China and Vietnam, the plant is found on cliffs and in crevices which contain leaf litter, limestone, and clay
 
@@ -2062,6 +1989,159 @@ Two tenacious cedar trees tryly living at the edge, Nevada Falls, Yosemite
 [📹 Mark Camp: https://t.co/hgoXCw0F4B] https://t.co/Y9URzLv488&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663136356418179073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxSlRDBWIAENz3P.jpg" length="511" type="photo"/>
       <pubDate>Mon, 29 May 2023 10:53:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The water quality in Warsaw, the capital city of Poland, is monitored by clams. If the water gets too toxic, they close, and the triggers shut off the city’s water supply automatically 
+
+[read more: https://t.co/CN82xLjUqE] 
+[documentary trailer: https://t.co/KYnftvOBS5] https://t.co/YOoE3WfXHF</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663142203173085186</link>
+      <description>The water quality in Warsaw, the capital city of Poland, is monitored by clams. If the water gets too toxic, they close, and the triggers shut off the city’s water supply automatically 
+
+[read more: https://t.co/CN82xLjUqE] 
+[documentary trailer: https://t.co/KYnftvOBS5] https://t.co/YOoE3WfXHF</description>
+      <content:encoded>The water quality in Warsaw, the capital city of Poland, is monitored by clams. If the water gets too toxic, they close, and the triggers shut off the city’s water supply automatically 
+
+[read more: https://t.co/CN82xLjUqE] 
+[documentary trailer: https://t.co/KYnftvOBS5] https://t.co/YOoE3WfXHF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663142203173085186"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxSq-7xXsAAEIig.jpg" length="680" type="photo"/>
+      <pubDate>Mon, 29 May 2023 11:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Japanese technique called Daisugi, enables foresters to grow more wood using less land and consists in heavy pruning of a mother cedar tree, which encourages tall, thin saplings to shoot upwards. In other words, think of it as a bonsai on a large scale https://t.co/uUEy1visQi https://t.co/d8l3yxqZOJ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663144875368275970</link>
+      <description>The Japanese technique called Daisugi, enables foresters to grow more wood using less land and consists in heavy pruning of a mother cedar tree, which encourages tall, thin saplings to shoot upwards. In other words, think of it as a bonsai on a large scale https://t.co/uUEy1visQi https://t.co/d8l3yxqZOJ</description>
+      <content:encoded>The Japanese technique called Daisugi, enables foresters to grow more wood using less land and consists in heavy pruning of a mother cedar tree, which encourages tall, thin saplings to shoot upwards. In other words, think of it as a bonsai on a large scale https://t.co/uUEy1visQi https://t.co/d8l3yxqZOJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663144875368275970"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxStV18XsAc929L.jpg" length="614" type="photo"/>
+      <pubDate>Mon, 29 May 2023 11:26:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Helping researchers understand how important communication is for the success of their project... and how in the longterm it will benefit their research.”
+
+Saman Musacchio @musacchios shares aims of and insights from the #scicomm team @cnrs (&amp;amp; others!)
+
+👇https://t.co/Doe7BVF35a https://t.co/WXACcgO8RK</title>
+      <link>https://twitter.com/ERC_Research/status/1663146021503762432</link>
+      <description>“Helping researchers understand how important communication is for the success of their project... and how in the longterm it will benefit their research.”
+
+Saman Musacchio @musacchios shares aims of and insights from the #scicomm team @cnrs (&amp;amp; others!)
+
+👇https://t.co/Doe7BVF35a https://t.co/WXACcgO8RK</description>
+      <content:encoded>“Helping researchers understand how important communication is for the success of their project... and how in the longterm it will benefit their research.”
+
+Saman Musacchio @musacchios shares aims of and insights from the #scicomm team @cnrs (&amp;amp; others!)
+
+👇https://t.co/Doe7BVF35a https://t.co/WXACcgO8RK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1663146021503762432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1663145665734778880/pu/img/481fukxwDVvjddR_.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 29 May 2023 11:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mattyglesias: Living in a richer, more technologically advanced world means natural disaster deaths have gotten less common even as glo…</title>
+      <link>https://twitter.com/KordingLab/status/1663147091588182016</link>
+      <description>RT @mattyglesias: Living in a richer, more technologically advanced world means natural disaster deaths have gotten less common even as glo…</description>
+      <content:encoded>RT @mattyglesias: Living in a richer, more technologically advanced world means natural disaster deaths have gotten less common even as glo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1663147091588182016"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 29 May 2023 11:35:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚨Frontiers in Neuroscience is delighted to present this Research Topic as part of the ‘Reviews and Perspectives in’ series, led by @Pier_Complexity, Siegfried Karg, Gyorgy Csaba, Konrad Szaciłowski
+
+Get involved and make your contribution▶️https://t.co/N9nOyin0eq https://t.co/zPiFFrecFl</title>
+      <link>https://twitter.com/FrontNeurosci/status/1663149342599835654</link>
+      <description>🚨Frontiers in Neuroscience is delighted to present this Research Topic as part of the ‘Reviews and Perspectives in’ series, led by @Pier_Complexity, Siegfried Karg, Gyorgy Csaba, Konrad Szaciłowski
+
+Get involved and make your contribution▶️https://t.co/N9nOyin0eq https://t.co/zPiFFrecFl</description>
+      <content:encoded>🚨Frontiers in Neuroscience is delighted to present this Research Topic as part of the ‘Reviews and Perspectives in’ series, led by @Pier_Complexity, Siegfried Karg, Gyorgy Csaba, Konrad Szaciłowski
+
+Get involved and make your contribution▶️https://t.co/N9nOyin0eq https://t.co/zPiFFrecFl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1663149342599835654"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxSjmEZX0AMfrZ1.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 29 May 2023 11:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a large nest of yellowjacket hornets. The nests of the species southern yellowjacket (Vespula squamosa) along with eastern yellowjackets, are usually built underground 
+
+[read more: https://t.co/cCBrRw9E8H]
+[more videos: https://t.co/4BZWMNdzvS]
+https://t.co/gphN0Rw8oJ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663149874940895232</link>
+      <description>This is a large nest of yellowjacket hornets. The nests of the species southern yellowjacket (Vespula squamosa) along with eastern yellowjackets, are usually built underground 
+
+[read more: https://t.co/cCBrRw9E8H]
+[more videos: https://t.co/4BZWMNdzvS]
+https://t.co/gphN0Rw8oJ</description>
+      <content:encoded>This is a large nest of yellowjacket hornets. The nests of the species southern yellowjacket (Vespula squamosa) along with eastern yellowjackets, are usually built underground 
+
+[read more: https://t.co/cCBrRw9E8H]
+[more videos: https://t.co/4BZWMNdzvS]
+https://t.co/gphN0Rw8oJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663149874940895232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1430147040667914242/pu/img/a4lW--ZCHi-lR6Lx.jpg" length="720" type="photo"/>
+      <pubDate>Mon, 29 May 2023 11:46:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>On October 31, 1903, Frank Nelson Cole took to the stage at a now famous meeting of the American Mathematical Society with the aim of unveiling the factors of the Mersenne number 2⁶⁷ - 1, denoted as M67. Édouard Lucas had earlier, in 1876, established that M67 was not prime and… https://t.co/rAdIEeb7sZ https://t.co/z2xibJORFz</title>
+      <link>https://twitter.com/fermatslibrary/status/1663152551712137222</link>
+      <description>On October 31, 1903, Frank Nelson Cole took to the stage at a now famous meeting of the American Mathematical Society with the aim of unveiling the factors of the Mersenne number 2⁶⁷ - 1, denoted as M67. Édouard Lucas had earlier, in 1876, established that M67 was not prime and… https://t.co/rAdIEeb7sZ https://t.co/z2xibJORFz</description>
+      <content:encoded>On October 31, 1903, Frank Nelson Cole took to the stage at a now famous meeting of the American Mathematical Society with the aim of unveiling the factors of the Mersenne number 2⁶⁷ - 1, denoted as M67. Édouard Lucas had earlier, in 1876, established that M67 was not prime and… https://t.co/rAdIEeb7sZ https://t.co/z2xibJORFz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1663152551712137222"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxS0U7qXgAAQzLK.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 29 May 2023 11:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Body transfer illusion is the illusion of owning a part of a body other than one's own.  This is the famous rubber hand experiment and it tricks your brain.
+
+[read more: https://t.co/ZIPj1jhhIB] 
+[📹 Adley and Story House Media: https://t.co/vuKS2WoIE9]
+https://t.co/ueQycBlrbw</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663154237499482112</link>
+      <description>Body transfer illusion is the illusion of owning a part of a body other than one's own.  This is the famous rubber hand experiment and it tricks your brain.
+
+[read more: https://t.co/ZIPj1jhhIB] 
+[📹 Adley and Story House Media: https://t.co/vuKS2WoIE9]
+https://t.co/ueQycBlrbw</description>
+      <content:encoded>Body transfer illusion is the illusion of owning a part of a body other than one's own.  This is the famous rubber hand experiment and it tricks your brain.
+
+[read more: https://t.co/ZIPj1jhhIB] 
+[📹 Adley and Story House Media: https://t.co/vuKS2WoIE9]
+https://t.co/ueQycBlrbw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663154237499482112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1528888192740601859/pu/img/FQaxryiGnc9KLA_d.jpg" length="608" type="photo"/>
+      <pubDate>Mon, 29 May 2023 12:04:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Which fantastic neuroscientist is givning a talk right now @StratNeuro?? https://t.co/K7Zzoz15lk</title>
+      <link>https://twitter.com/CarlenLab/status/1663156234059501569</link>
+      <description>Which fantastic neuroscientist is givning a talk right now @StratNeuro?? https://t.co/K7Zzoz15lk</description>
+      <content:encoded>Which fantastic neuroscientist is givning a talk right now @StratNeuro?? https://t.co/K7Zzoz15lk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CarlenLab/status/1663156234059501569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxS3xqtXoAEZoxc.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 29 May 2023 12:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗒️ Please note NeuroNexus offices are closed on Monday, May 29 for Memorial Day. 🇺🇸
+
+Contact us online and we'll get in touch tomorrow: https://t.co/frYd7Pq3R2 https://t.co/jJLEK9fK4H</title>
+      <link>https://twitter.com/neuronexustech/status/1663157240642039814</link>
+      <description>🗒️ Please note NeuroNexus offices are closed on Monday, May 29 for Memorial Day. 🇺🇸
+
+Contact us online and we'll get in touch tomorrow: https://t.co/frYd7Pq3R2 https://t.co/jJLEK9fK4H</description>
+      <content:encoded>🗒️ Please note NeuroNexus offices are closed on Monday, May 29 for Memorial Day. 🇺🇸
+
+Contact us online and we'll get in touch tomorrow: https://t.co/frYd7Pq3R2 https://t.co/jJLEK9fK4H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuronexustech/status/1663157240642039814"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FxS4smLXgAMjhqq.jpg" length="600" type="photo"/>
+      <pubDate>Mon, 29 May 2023 12:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The science of a cheetah's speed and the extraordinary stability of its head when it runs full speed 
+
+[source, full video: https://t.co/QqRLuv3UiT]
+https://t.co/qplqAH3DWG</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663160786921963522</link>
+      <description>The science of a cheetah's speed and the extraordinary stability of its head when it runs full speed 
+
+[source, full video: https://t.co/QqRLuv3UiT]
+https://t.co/qplqAH3DWG</description>
+      <content:encoded>The science of a cheetah's speed and the extraordinary stability of its head when it runs full speed 
+
+[source, full video: https://t.co/QqRLuv3UiT]
+https://t.co/qplqAH3DWG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663160786921963522"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1541814825109655554/pu/img/sD_Am9XCwoT0qqXM.jpg" length="640" type="photo"/>
+      <pubDate>Mon, 29 May 2023 12:30:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
