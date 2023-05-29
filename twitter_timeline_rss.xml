@@ -6,84 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 08:20:34 +0000</lastBuildDate>
-    <item>
-      <title>@ylecun Just tap the button for FSD Beta</title>
-      <link>https://twitter.com/elonmusk/status/1662501986627977218</link>
-      <description>@ylecun Just tap the button for FSD Beta</description>
-      <content:encoded>@ylecun Just tap the button for FSD Beta&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1662501986627977218"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 16:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inspired by a long tradition of impossible objects, this 'impossible portal' created by coded loop artist @jn3008 challanges your mind leaning toward you or away from you according to the point of the portal you focus on
-
-[site: https://t.co/whtIlL5YZr]
-https://t.co/6RvM1yDyEI</title>
-      <link>https://twitter.com/Rainmaker1973/status/1662502558923993091</link>
-      <description>Inspired by a long tradition of impossible objects, this 'impossible portal' created by coded loop artist @jn3008 challanges your mind leaning toward you or away from you according to the point of the portal you focus on
-
-[site: https://t.co/whtIlL5YZr]
-https://t.co/6RvM1yDyEI</description>
-      <content:encoded>Inspired by a long tradition of impossible objects, this 'impossible portal' created by coded loop artist @jn3008 challanges your mind leaning toward you or away from you according to the point of the portal you focus on
-
-[site: https://t.co/whtIlL5YZr]
-https://t.co/6RvM1yDyEI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662502558923993091"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FWW7ifhXgAIuRht.jpg" length="600" type="photo"/>
-      <pubDate>Sat, 27 May 2023 16:54:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Catch up on the week’s AI news:
-
-- AI under investigation in the EU
-- AI-powered architecture
-- Small hardware, big algorithms: New research
-Plus: Andrew Ng explains a new paradigm for data.
-
-Learn more in #TheBatch: https://t.co/8P50vmQaly</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1662503934441791492</link>
-      <description>Catch up on the week’s AI news:
-
-- AI under investigation in the EU
-- AI-powered architecture
-- Small hardware, big algorithms: New research
-Plus: Andrew Ng explains a new paradigm for data.
-
-Learn more in #TheBatch: https://t.co/8P50vmQaly</description>
-      <content:encoded>Catch up on the week’s AI news:
-
-- AI under investigation in the EU
-- AI-powered architecture
-- Small hardware, big algorithms: New research
-Plus: Andrew Ng explains a new paradigm for data.
-
-Learn more in #TheBatch: https://t.co/8P50vmQaly&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1662503934441791492"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 27 May 2023 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is called wake-riding and this orca is very likely doing it for fun. It's literally surfing — it can go very fast with very little effort when riding in the wake of a boat like this
-
-[📹 iteekesharing: https://t.co/VldeoRg7Xt]
-https://t.co/NF0YXds7wP https://t.co/524qEOLmoI</title>
-      <link>https://twitter.com/Rainmaker1973/status/1662505397062717440</link>
-      <description>This is called wake-riding and this orca is very likely doing it for fun. It's literally surfing — it can go very fast with very little effort when riding in the wake of a boat like this
-
-[📹 iteekesharing: https://t.co/VldeoRg7Xt]
-https://t.co/NF0YXds7wP https://t.co/524qEOLmoI</description>
-      <content:encoded>This is called wake-riding and this orca is very likely doing it for fun. It's literally surfing — it can go very fast with very little effort when riding in the wake of a boat like this
-
-[📹 iteekesharing: https://t.co/VldeoRg7Xt]
-https://t.co/NF0YXds7wP https://t.co/524qEOLmoI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662505397062717440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1657400220861485057/img/GmK0ZY9r95CV-inE.jpg" length="392" type="photo"/>
-      <pubDate>Sat, 27 May 2023 17:05:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/u2YCCPD6Az</title>
-      <link>https://twitter.com/elonmusk/status/1662508369234608128</link>
-      <description>https://t.co/u2YCCPD6Az</description>
-      <content:encoded>https://t.co/u2YCCPD6Az&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1662508369234608128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxJqjLpWwAAhqMq.jpg" length="320" type="photo"/>
-      <pubDate>Sat, 27 May 2023 17:17:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 09:15:46 +0000</lastBuildDate>
     <item>
       <title>.@Nature reports on how researchers are starting to learn how the early stages of menopause affect brain health and what that could mean for treatment. https://t.co/MskugOxeA0</title>
       <link>https://twitter.com/NaturePortfolio/status/1662513245100425216</link>
@@ -1375,6 +1298,14 @@ To explore the association between acupuncture sessions and its effects on the m
       <pubDate>Sun, 28 May 2023 16:21:36 +0000</pubDate>
     </item>
     <item>
+      <title>Ancient #DNA from pre-Hispanic northern and central Mexico reveals population continuity during a period of drastic environmental change, according to a new Science study, and provides new insights into the region’s complex and rich demographic history. https://t.co/mxIKgKYckz https://t.co/ErmoxliKjW</title>
+      <link>https://twitter.com/ScienceMagazine/status/1662858816277430272</link>
+      <description>Ancient #DNA from pre-Hispanic northern and central Mexico reveals population continuity during a period of drastic environmental change, according to a new Science study, and provides new insights into the region’s complex and rich demographic history. https://t.co/mxIKgKYckz https://t.co/ErmoxliKjW</description>
+      <content:encoded>Ancient #DNA from pre-Hispanic northern and central Mexico reveals population continuity during a period of drastic environmental change, according to a new Science study, and provides new insights into the region’s complex and rich demographic history. https://t.co/mxIKgKYckz https://t.co/ErmoxliKjW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1662858816277430272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxOpR8kWYAIEuMd.jpg" length="893" type="photo"/>
+      <pubDate>Sun, 28 May 2023 16:30:10 +0000</pubDate>
+    </item>
+    <item>
       <title>A study in @NatureComms finds that, for people who received their vaccination prior to SARS-CoV-2 infection, vaccination was associated with lower incidence of long COVID. https://t.co/HAUsSM9Px1 https://t.co/FMkgfe4h7B</title>
       <link>https://twitter.com/NaturePortfolio/status/1662859548573458438</link>
       <description>A study in @NatureComms finds that, for people who received their vaccination prior to SARS-CoV-2 infection, vaccination was associated with lower incidence of long COVID. https://t.co/HAUsSM9Px1 https://t.co/FMkgfe4h7B</description>
@@ -2064,6 +1995,56 @@ https://t.co/X4r8u953aP https://t.co/MxgzX7DNlM&lt;blockquote class="twitter-twe
 [source and more photos: https://t.co/buQxvVB6Hm] https://t.co/LZ1YBMAv5l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663097578731233280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxSCTcDXwAI6K_c.jpg" length="550" type="photo"/>
       <pubDate>Mon, 29 May 2023 08:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Øresund Bridge is the longest combined road and rail bridge in Europe and it goes from bridge to tunnel underwater 
+
+[read more: https://t.co/6H5wavbUts] https://t.co/prC6i0VXLn</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663101428146094080</link>
+      <description>The Øresund Bridge is the longest combined road and rail bridge in Europe and it goes from bridge to tunnel underwater 
+
+[read more: https://t.co/6H5wavbUts] https://t.co/prC6i0VXLn</description>
+      <content:encoded>The Øresund Bridge is the longest combined road and rail bridge in Europe and it goes from bridge to tunnel underwater 
+
+[read more: https://t.co/6H5wavbUts] https://t.co/prC6i0VXLn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663101428146094080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxSF6jKWwAAqxP9.jpg" length="600" type="photo"/>
+      <pubDate>Mon, 29 May 2023 08:34:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bakterier som trivs i löv, rötter och frön kan vara gynnsamma för ett hållbart jord- och #skogsbruk. Derek Lundberg vill nå kunskap, som kan förbättra jordbruket i ett föränderligt #klimat #KAW100 #jordbruk #hållbar #vetenskap @_SLU 
+https://t.co/BL0FzWb2Ux</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1663103044123328513</link>
+      <description>Bakterier som trivs i löv, rötter och frön kan vara gynnsamma för ett hållbart jord- och #skogsbruk. Derek Lundberg vill nå kunskap, som kan förbättra jordbruket i ett föränderligt #klimat #KAW100 #jordbruk #hållbar #vetenskap @_SLU 
+https://t.co/BL0FzWb2Ux</description>
+      <content:encoded>Bakterier som trivs i löv, rötter och frön kan vara gynnsamma för ett hållbart jord- och #skogsbruk. Derek Lundberg vill nå kunskap, som kan förbättra jordbruket i ett föränderligt #klimat #KAW100 #jordbruk #hållbar #vetenskap @_SLU 
+https://t.co/BL0FzWb2Ux&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1663103044123328513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 29 May 2023 08:40:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Bacteria that thrive in leaves, roots and seeds may be beneficial to sustainable agriculture and #forestry. Derek Lundberg wants to obtain knowledge that may improve #agriculture in a changing #climate #KAW100 #Sustainability @_SLU #biology 
+https://t.co/xhrBYFAuei</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1663103647020904448</link>
+      <description>#Bacteria that thrive in leaves, roots and seeds may be beneficial to sustainable agriculture and #forestry. Derek Lundberg wants to obtain knowledge that may improve #agriculture in a changing #climate #KAW100 #Sustainability @_SLU #biology 
+https://t.co/xhrBYFAuei</description>
+      <content:encoded>#Bacteria that thrive in leaves, roots and seeds may be beneficial to sustainable agriculture and #forestry. Derek Lundberg wants to obtain knowledge that may improve #agriculture in a changing #climate #KAW100 #Sustainability @_SLU #biology 
+https://t.co/xhrBYFAuei&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1663103647020904448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 29 May 2023 08:43:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tigers' prey are deer, boars &amp;amp; other ungulates. These animals are dichromats or red-green blind. Scientists used a machine learning algorithm to simulate what the world looks like to dichromats. On the left, what a tiger looks like to a dichromat [paper: https://t.co/rEjuoojO36] https://t.co/ArHR8ga4yN</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663106001740890112</link>
+      <description>Tigers' prey are deer, boars &amp;amp; other ungulates. These animals are dichromats or red-green blind. Scientists used a machine learning algorithm to simulate what the world looks like to dichromats. On the left, what a tiger looks like to a dichromat [paper: https://t.co/rEjuoojO36] https://t.co/ArHR8ga4yN</description>
+      <content:encoded>Tigers' prey are deer, boars &amp;amp; other ungulates. These animals are dichromats or red-green blind. Scientists used a machine learning algorithm to simulate what the world looks like to dichromats. On the left, what a tiger looks like to a dichromat [paper: https://t.co/rEjuoojO36] https://t.co/ArHR8ga4yN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663106001740890112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxSKE1uXgAMMplx.jpg" length="680" type="photo"/>
+      <pubDate>Mon, 29 May 2023 08:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>A vaccine for #chikungunya based on virus-like particles induces strong responses in humans and generates neutralizing antibodies that protect mice against multiple #alphaviruses, shows an analysis of a phase 2 trial. https://t.co/d8l06WqFO8 @ScienceTM https://t.co/nUo27o4qA0</title>
+      <link>https://twitter.com/ScienceMagazine/status/1663108017607385090</link>
+      <description>A vaccine for #chikungunya based on virus-like particles induces strong responses in humans and generates neutralizing antibodies that protect mice against multiple #alphaviruses, shows an analysis of a phase 2 trial. https://t.co/d8l06WqFO8 @ScienceTM https://t.co/nUo27o4qA0</description>
+      <content:encoded>A vaccine for #chikungunya based on virus-like particles induces strong responses in humans and generates neutralizing antibodies that protect mice against multiple #alphaviruses, shows an analysis of a phase 2 trial. https://t.co/d8l06WqFO8 @ScienceTM https://t.co/nUo27o4qA0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1663108017607385090"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxSL7ZpWcAEModx.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 29 May 2023 09:00:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
