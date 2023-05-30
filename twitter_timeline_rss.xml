@@ -6,53 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 May 2023 09:15:39 +0000</lastBuildDate>
-    <item>
-      <title>RT @f2harrell: @AnilMakam @ProfHayward @drjohnm @kaulcsmc No we do not live in a binary or categorical world.  We live in a world where nat…</title>
-      <link>https://twitter.com/PessoaBrain/status/1662930350136238086</link>
-      <description>RT @f2harrell: @AnilMakam @ProfHayward @drjohnm @kaulcsmc No we do not live in a binary or categorical world.  We live in a world where nat…</description>
-      <content:encoded>RT @f2harrell: @AnilMakam @ProfHayward @drjohnm @kaulcsmc No we do not live in a binary or categorical world.  We live in a world where nat…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1662930350136238086"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 21:14:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in #ModelDB: HH-type model of fast-spiking parvalbumin interneurons in spinal dorsal horn (Ma et al, 2023)
-https://t.co/VvWNpOXYef</title>
-      <link>https://twitter.com/SenseLabProject/status/1662932276156432385</link>
-      <description>New in #ModelDB: HH-type model of fast-spiking parvalbumin interneurons in spinal dorsal horn (Ma et al, 2023)
-https://t.co/VvWNpOXYef</description>
-      <content:encoded>New in #ModelDB: HH-type model of fast-spiking parvalbumin interneurons in spinal dorsal horn (Ma et al, 2023)
-https://t.co/VvWNpOXYef&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SenseLabProject/status/1662932276156432385"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 21:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome! https://t.co/cJtjdpTndX</title>
-      <link>https://twitter.com/KordingLab/status/1662933966691631105</link>
-      <description>Welcome! https://t.co/cJtjdpTndX</description>
-      <content:encoded>Welcome! https://t.co/cJtjdpTndX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1662933966691631105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 21:28:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>The red and black cocktail 😋 ⁦@smittenkitchen⁩ #memorialweekend https://t.co/KfX03zCxev</title>
-      <link>https://twitter.com/ewadorotaz/status/1662936891916791810</link>
-      <description>The red and black cocktail 😋 ⁦@smittenkitchen⁩ #memorialweekend https://t.co/KfX03zCxev</description>
-      <content:encoded>The red and black cocktail 😋 ⁦@smittenkitchen⁩ #memorialweekend https://t.co/KfX03zCxev&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1662936891916791810"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxPwSi8XgAMdYuY.jpg" length="866" type="photo"/>
-      <pubDate>Sun, 28 May 2023 21:40:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elevated sleep need in a stress-resilient Drosophila species  https://t.co/5m7mT3SIoy #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1662945720981233665</link>
-      <description>Elevated sleep need in a stress-resilient Drosophila species  https://t.co/5m7mT3SIoy #biorxiv_neursci</description>
-      <content:encoded>Elevated sleep need in a stress-resilient Drosophila species  https://t.co/5m7mT3SIoy #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1662945720981233665"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 22:15:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acute ampakines increase voiding function and coordination in a rat model of SCI  https://t.co/COcqhDCL9E #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1662945811309707264</link>
-      <description>Acute ampakines increase voiding function and coordination in a rat model of SCI  https://t.co/COcqhDCL9E #biorxiv_neursci</description>
-      <content:encoded>Acute ampakines increase voiding function and coordination in a rat model of SCI  https://t.co/COcqhDCL9E #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1662945811309707264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 22:15:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 May 2023 10:16:57 +0000</lastBuildDate>
     <item>
       <title>Three separable roles for context in breaking environmental symmetries for place cells  https://t.co/Zlti1GEcOh #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1662945900950372356</link>
@@ -2328,6 +2282,77 @@ Click here for more details: https://t.co/yqPa5sEWLv https://t.co/ILihT0p8L2 htt
 Click here for more details: https://t.co/yqPa5sEWLv https://t.co/ILihT0p8L2 https://t.co/AxVaOOxHAV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1663472561496248323"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxXXCIYXsAEk9wl.jpg" length="900" type="photo"/>
       <pubDate>Tue, 30 May 2023 09:08:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>This video shows the resonance suffered by the Arcos de Alconétar bridge, over the Tagus river, on the A-66 in the province of Cáceres, Spain 
+
+[full video by Emilio M. Arévalo Hernández, read more (ES): https://t.co/KKfJ538Q2b]
+https://t.co/UNxFrqUQnM</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663477726668357633</link>
+      <description>This video shows the resonance suffered by the Arcos de Alconétar bridge, over the Tagus river, on the A-66 in the province of Cáceres, Spain 
+
+[full video by Emilio M. Arévalo Hernández, read more (ES): https://t.co/KKfJ538Q2b]
+https://t.co/UNxFrqUQnM</description>
+      <content:encoded>This video shows the resonance suffered by the Arcos de Alconétar bridge, over the Tagus river, on the A-66 in the province of Cáceres, Spain 
+
+[full video by Emilio M. Arévalo Hernández, read more (ES): https://t.co/KKfJ538Q2b]
+https://t.co/UNxFrqUQnM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663477726668357633"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1542153961557434368/pu/img/JgMCflRT8lAMRvli.jpg" length="958" type="photo"/>
+      <pubDate>Tue, 30 May 2023 09:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @leuvenbrainins1: Steun de alzheimer onderzoekers van het #LeuvenBrainInstitute prof Rik Vandenberghe &amp;amp; prof Mathieu Vandenbulcke in hun…</title>
+      <link>https://twitter.com/avdjeugd/status/1663481763694362624</link>
+      <description>RT @leuvenbrainins1: Steun de alzheimer onderzoekers van het #LeuvenBrainInstitute prof Rik Vandenberghe &amp;amp; prof Mathieu Vandenbulcke in hun…</description>
+      <content:encoded>RT @leuvenbrainins1: Steun de alzheimer onderzoekers van het #LeuvenBrainInstitute prof Rik Vandenberghe &amp;amp; prof Mathieu Vandenbulcke in hun…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1663481763694362624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 09:45:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>This beautiful composite image by Franco Banfi showcases the beauty of Mexico’s Revillagigedo Archipelago both above and below the surface, one of the most unique and pristine island habitat that remains on Earth 
+
+[source, read more: https://t.co/kYSSt2hB6I] https://t.co/FkDtPrRBXU</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663485411857932290</link>
+      <description>This beautiful composite image by Franco Banfi showcases the beauty of Mexico’s Revillagigedo Archipelago both above and below the surface, one of the most unique and pristine island habitat that remains on Earth 
+
+[source, read more: https://t.co/kYSSt2hB6I] https://t.co/FkDtPrRBXU</description>
+      <content:encoded>This beautiful composite image by Franco Banfi showcases the beauty of Mexico’s Revillagigedo Archipelago both above and below the surface, one of the most unique and pristine island habitat that remains on Earth 
+
+[source, read more: https://t.co/kYSSt2hB6I] https://t.co/FkDtPrRBXU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663485411857932290"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxTykbwX0AECEXY.jpg" length="410" type="photo"/>
+      <pubDate>Tue, 30 May 2023 10:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠Applications open for the William H. Gates Sr. Fellowship🧠
+
+The prize: Up to $100,000 USD over 2 yrs to pursue their research questions with mentorship &amp;amp; opportunities to ID or pilot new tools &amp;amp; analytics, attend conferences, &amp;amp; more!
+
+Learn more: https://t.co/J26S6F2m3E https://t.co/icOlPYzKTo</title>
+      <link>https://twitter.com/INCForg/status/1663486407715823617</link>
+      <description>🧠Applications open for the William H. Gates Sr. Fellowship🧠
+
+The prize: Up to $100,000 USD over 2 yrs to pursue their research questions with mentorship &amp;amp; opportunities to ID or pilot new tools &amp;amp; analytics, attend conferences, &amp;amp; more!
+
+Learn more: https://t.co/J26S6F2m3E https://t.co/icOlPYzKTo</description>
+      <content:encoded>🧠Applications open for the William H. Gates Sr. Fellowship🧠
+
+The prize: Up to $100,000 USD over 2 yrs to pursue their research questions with mentorship &amp;amp; opportunities to ID or pilot new tools &amp;amp; analytics, attend conferences, &amp;amp; more!
+
+Learn more: https://t.co/J26S6F2m3E https://t.co/icOlPYzKTo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1663486407715823617"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw095LBWAAAwKYF.png" length="1200" type="photo"/>
+      <pubDate>Tue, 30 May 2023 10:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @pgmid: Yiota sees your neuron, and raises you a plethora of dendrites.
+
+We discuss @YiotaPoirazi's work and (evolving) thoughts about h…</title>
+      <link>https://twitter.com/KordingLab/status/1663486408600715264</link>
+      <description>RT @pgmid: Yiota sees your neuron, and raises you a plethora of dendrites.
+
+We discuss @YiotaPoirazi's work and (evolving) thoughts about h…</description>
+      <content:encoded>RT @pgmid: Yiota sees your neuron, and raises you a plethora of dendrites.
+
+We discuss @YiotaPoirazi's work and (evolving) thoughts about h…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1663486408600715264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 10:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
