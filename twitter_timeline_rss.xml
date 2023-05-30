@@ -6,37 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 May 2023 04:19:17 +0000</lastBuildDate>
-    <item>
-      <title>RT @RishiSunak: I want the UK to be a science &amp;amp; tech superpower –@Google plays an important role in achieving that.
-
-So it was great to hos…</title>
-      <link>https://twitter.com/demishassabis/status/1662852729532809216</link>
-      <description>RT @RishiSunak: I want the UK to be a science &amp;amp; tech superpower –@Google plays an important role in achieving that.
-
-So it was great to hos…</description>
-      <content:encoded>RT @RishiSunak: I want the UK to be a science &amp;amp; tech superpower –@Google plays an important role in achieving that.
-
-So it was great to hos…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/demishassabis/status/1662852729532809216"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 16:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yes, this really happened: this is a robot trying to escape from children's abuse 
-
-[read more: https://t.co/y19bGO3HPw]
-https://t.co/BpsocyLc21</title>
-      <link>https://twitter.com/Rainmaker1973/status/1662856056131792898</link>
-      <description>Yes, this really happened: this is a robot trying to escape from children's abuse 
-
-[read more: https://t.co/y19bGO3HPw]
-https://t.co/BpsocyLc21</description>
-      <content:encoded>Yes, this really happened: this is a robot trying to escape from children's abuse 
-
-[read more: https://t.co/y19bGO3HPw]
-https://t.co/BpsocyLc21&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662856056131792898"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1398513884374384644/pu/img/etngSNZ061lZ54Rg.jpg" length="490" type="photo"/>
-      <pubDate>Sun, 28 May 2023 16:19:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 May 2023 05:14:48 +0000</lastBuildDate>
     <item>
       <title>New Research: Qualitative and quantitative meta-analysis of acupuncture effects on the motor function of Parkinson's disease patients: Objective
 
@@ -2194,6 +2164,26 @@ The focus of cognitive and psychological approaches to narrative has not so much
       <description>RT @BeatingBryan: I can't match Bryan Johnson's team of doctors. But I DO have my 9-5 job's health plan. And I just scheduled my yearly phy…</description>
       <content:encoded>RT @BeatingBryan: I can't match Bryan Johnson's team of doctors. But I DO have my 9-5 job's health plan. And I just scheduled my yearly phy…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1663395000795926528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 30 May 2023 04:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>"By discussing our experiences openly, we can reduce the isolation, shame, and resistance to seeking help that can come with it." 
+
+For this grad student, speaking publicly about #MentalHealth was scary but worth it. https://t.co/BBoZ2akFns #MentalHealthAwarenessMonth</title>
+      <link>https://twitter.com/ScienceMagazine/status/1663402360863961089</link>
+      <description>"By discussing our experiences openly, we can reduce the isolation, shame, and resistance to seeking help that can come with it." 
+
+For this grad student, speaking publicly about #MentalHealth was scary but worth it. https://t.co/BBoZ2akFns #MentalHealthAwarenessMonth</description>
+      <content:encoded>"By discussing our experiences openly, we can reduce the isolation, shame, and resistance to seeking help that can come with it." 
+
+For this grad student, speaking publicly about #MentalHealth was scary but worth it. https://t.co/BBoZ2akFns #MentalHealthAwarenessMonth&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1663402360863961089"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 04:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ClementDelangue: We need more great scientists in AI to intentionally decide to work and fight for open science &amp;amp; open-source projects…</title>
+      <link>https://twitter.com/sofroniewn/status/1663406002883149824</link>
+      <description>RT @ClementDelangue: We need more great scientists in AI to intentionally decide to work and fight for open science &amp;amp; open-source projects…</description>
+      <content:encoded>RT @ClementDelangue: We need more great scientists in AI to intentionally decide to work and fight for open science &amp;amp; open-source projects…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1663406002883149824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 04:44:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
