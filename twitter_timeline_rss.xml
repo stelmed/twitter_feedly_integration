@@ -6,50 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 May 2023 08:20:15 +0000</lastBuildDate>
-    <item>
-      <title>RT @MartinGiurfa: See our new review and perspectives on Trace Conditioning in Insects, written with @CatherineMacri and Marco Paoli. A lea…</title>
-      <link>https://twitter.com/PessoaBrain/status/1662909820163203073</link>
-      <description>RT @MartinGiurfa: See our new review and perspectives on Trace Conditioning in Insects, written with @CatherineMacri and Marco Paoli. A lea…</description>
-      <content:encoded>RT @MartinGiurfa: See our new review and perspectives on Trace Conditioning in Insects, written with @CatherineMacri and Marco Paoli. A lea…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1662909820163203073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 19:52:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Great photo. https://t.co/9wUhay6kwD</title>
-      <link>https://twitter.com/BOlveczky/status/1662913163602321408</link>
-      <description>Great photo. https://t.co/9wUhay6kwD</description>
-      <content:encoded>Great photo. https://t.co/9wUhay6kwD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BOlveczky/status/1662913163602321408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 20:06:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>What a crazy procedure to end this race.</title>
-      <link>https://twitter.com/andpru/status/1662913664159043588</link>
-      <description>What a crazy procedure to end this race.</description>
-      <content:encoded>What a crazy procedure to end this race.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1662913664159043588"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 20:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @zenith_etn: 🤗Congrats to our students @sharbat_c @LaboJeanPerrin and Joe @EmilianiLab, who received extra funding from the FRM to conti…</title>
-      <link>https://twitter.com/EmilianiLab/status/1662916580798242817</link>
-      <description>RT @zenith_etn: 🤗Congrats to our students @sharbat_c @LaboJeanPerrin and Joe @EmilianiLab, who received extra funding from the FRM to conti…</description>
-      <content:encoded>RT @zenith_etn: 🤗Congrats to our students @sharbat_c @LaboJeanPerrin and Joe @EmilianiLab, who received extra funding from the FRM to conti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/EmilianiLab/status/1662916580798242817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 20:19:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @bradyajohnston: Preparing some videos for upcoming talks. I'll be in Aarhus and Cambridge in the next couple of weeks. Lots of talking…</title>
-      <link>https://twitter.com/FitzpatrickLab/status/1662916912475406339</link>
-      <description>RT @bradyajohnston: Preparing some videos for upcoming talks. I'll be in Aarhus and Cambridge in the next couple of weeks. Lots of talking…</description>
-      <content:encoded>RT @bradyajohnston: Preparing some videos for upcoming talks. I'll be in Aarhus and Cambridge in the next couple of weeks. Lots of talking…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1662916912475406339"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 20:21:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>A study in @nchembio uses machine learning to discover abaucin, an antibacterial compound with narrow-spectrum activity against Acinetobacter baumannii, a nosocomial Gram-negative pathogen that often displays multidrug resistance. 🔒 https://t.co/02Zz32vFeh https://t.co/arVNIw2Ota</title>
-      <link>https://twitter.com/NaturePortfolio/status/1662924224078413824</link>
-      <description>A study in @nchembio uses machine learning to discover abaucin, an antibacterial compound with narrow-spectrum activity against Acinetobacter baumannii, a nosocomial Gram-negative pathogen that often displays multidrug resistance. 🔒 https://t.co/02Zz32vFeh https://t.co/arVNIw2Ota</description>
-      <content:encoded>A study in @nchembio uses machine learning to discover abaucin, an antibacterial compound with narrow-spectrum activity against Acinetobacter baumannii, a nosocomial Gram-negative pathogen that often displays multidrug resistance. 🔒 https://t.co/02Zz32vFeh https://t.co/arVNIw2Ota&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1662924224078413824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxPkwJXXgAAd9lx.jpg" length="1066" type="photo"/>
-      <pubDate>Sun, 28 May 2023 20:50:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 May 2023 09:15:39 +0000</lastBuildDate>
     <item>
       <title>RT @f2harrell: @AnilMakam @ProfHayward @drjohnm @kaulcsmc No we do not live in a binary or categorical world.  We live in a world where nat…</title>
       <link>https://twitter.com/PessoaBrain/status/1662930350136238086</link>
@@ -2285,6 +2242,92 @@ https://t.co/zSXBjP8ioK https://t.co/6CRCSkVrR6&lt;blockquote class="twitter-twe
       <description>World’s strongest laser enables pressure-driven ionization https://t.co/DszsLLnTO3</description>
       <content:encoded>World’s strongest laser enables pressure-driven ionization https://t.co/DszsLLnTO3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1663457149140303873"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 30 May 2023 08:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aptly named the Moses Bridge, this sunken passage  has in fact parted waters. The bridge is in the Netherlands and it is the most practical and fun way of accessing a stunning 17th century fortress
+
+[read more: https://t.co/MRVk9ErzNd] https://t.co/BCPXGDazaA</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663463485538291715</link>
+      <description>Aptly named the Moses Bridge, this sunken passage  has in fact parted waters. The bridge is in the Netherlands and it is the most practical and fun way of accessing a stunning 17th century fortress
+
+[read more: https://t.co/MRVk9ErzNd] https://t.co/BCPXGDazaA</description>
+      <content:encoded>Aptly named the Moses Bridge, this sunken passage  has in fact parted waters. The bridge is in the Netherlands and it is the most practical and fun way of accessing a stunning 17th century fortress
+
+[read more: https://t.co/MRVk9ErzNd] https://t.co/BCPXGDazaA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663463485538291715"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxXOtk-XwAAls5G.jpg" length="680" type="photo"/>
+      <pubDate>Tue, 30 May 2023 08:32:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lying as a sleeping giant in a bed of granite, the Unfinished Obelisk in Aswan, Egypt is an incredible look at the building methods of these monolithic monuments. It would have measured about 42 m if completed and is estimated to weigh around 1,200 tons https://t.co/QlHXBl72Rs https://t.co/l9uTmh4ZHA</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663469401675268097</link>
+      <description>Lying as a sleeping giant in a bed of granite, the Unfinished Obelisk in Aswan, Egypt is an incredible look at the building methods of these monolithic monuments. It would have measured about 42 m if completed and is estimated to weigh around 1,200 tons https://t.co/QlHXBl72Rs https://t.co/l9uTmh4ZHA</description>
+      <content:encoded>Lying as a sleeping giant in a bed of granite, the Unfinished Obelisk in Aswan, Egypt is an incredible look at the building methods of these monolithic monuments. It would have measured about 42 m if completed and is estimated to weigh around 1,200 tons https://t.co/QlHXBl72Rs https://t.co/l9uTmh4ZHA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663469401675268097"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxXUlXuWIAA3Dws.jpg" length="680" type="photo"/>
+      <pubDate>Tue, 30 May 2023 08:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Science: As Alaskan permafrost warms, hibernating arctic ground squirrels generate less heat, causing females to emerge from hibernation up to 10 days before their male counterparts—a mismatch that could have large, cascading ecological impacts. https://t.co/YAzI4Xmsq8 https://t.co/Kdd0QzW54t</title>
+      <link>https://twitter.com/ScienceMagazine/status/1663470392147689473</link>
+      <description>New in Science: As Alaskan permafrost warms, hibernating arctic ground squirrels generate less heat, causing females to emerge from hibernation up to 10 days before their male counterparts—a mismatch that could have large, cascading ecological impacts. https://t.co/YAzI4Xmsq8 https://t.co/Kdd0QzW54t</description>
+      <content:encoded>New in Science: As Alaskan permafrost warms, hibernating arctic ground squirrels generate less heat, causing females to emerge from hibernation up to 10 days before their male counterparts—a mismatch that could have large, cascading ecological impacts. https://t.co/YAzI4Xmsq8 https://t.co/Kdd0QzW54t&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1663470392147689473"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxXVgXVWIAAzo4f.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 30 May 2023 09:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The vocal sac is the flexible membrane of skin possessed by most male frogs and toads. The purpose of the vocal sac is usually as an amplification of their mating or advertisement call.
+
+[read more: https://t.co/zPGz60CXoy]
+[📹 https://t.co/Kg19GXF48X]
+https://t.co/a7Hg5g1jXr</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663471592079278080</link>
+      <description>The vocal sac is the flexible membrane of skin possessed by most male frogs and toads. The purpose of the vocal sac is usually as an amplification of their mating or advertisement call.
+
+[read more: https://t.co/zPGz60CXoy]
+[📹 https://t.co/Kg19GXF48X]
+https://t.co/a7Hg5g1jXr</description>
+      <content:encoded>The vocal sac is the flexible membrane of skin possessed by most male frogs and toads. The purpose of the vocal sac is usually as an amplification of their mating or advertisement call.
+
+[read more: https://t.co/zPGz60CXoy]
+[📹 https://t.co/Kg19GXF48X]
+https://t.co/a7Hg5g1jXr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663471592079278080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1660307195806842881/pu/img/JsV9WOVUB12R-daq.jpg" length="576" type="photo"/>
+      <pubDate>Tue, 30 May 2023 09:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>We are giving postdocs an opportunity to have an informal discussion over lunch with the speaker of UCMR Distinguished Guest Seminar - Prof. Herbert Waldmann.
+
+Register now as we have a few open spots: https://t.co/nff9B5KhQo
+
+More details on the seminar:
+https://t.co/83LeovzdU4</title>
+      <link>https://twitter.com/PostdocUmu/status/1663471730885636096</link>
+      <description>We are giving postdocs an opportunity to have an informal discussion over lunch with the speaker of UCMR Distinguished Guest Seminar - Prof. Herbert Waldmann.
+
+Register now as we have a few open spots: https://t.co/nff9B5KhQo
+
+More details on the seminar:
+https://t.co/83LeovzdU4</description>
+      <content:encoded>We are giving postdocs an opportunity to have an informal discussion over lunch with the speaker of UCMR Distinguished Guest Seminar - Prof. Herbert Waldmann.
+
+Register now as we have a few open spots: https://t.co/nff9B5KhQo
+
+More details on the seminar:
+https://t.co/83LeovzdU4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1663471730885636096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 09:05:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sign up for the 10th National Infection Biology and Swedish Society for Microbiology meeting and get a  chance to discuss your work with eminent infection biologists!
+
+Click here for more details: https://t.co/yqPa5sEWLv https://t.co/ILihT0p8L2 https://t.co/AxVaOOxHAV</title>
+      <link>https://twitter.com/PostdocUmu/status/1663472561496248323</link>
+      <description>Sign up for the 10th National Infection Biology and Swedish Society for Microbiology meeting and get a  chance to discuss your work with eminent infection biologists!
+
+Click here for more details: https://t.co/yqPa5sEWLv https://t.co/ILihT0p8L2 https://t.co/AxVaOOxHAV</description>
+      <content:encoded>Sign up for the 10th National Infection Biology and Swedish Society for Microbiology meeting and get a  chance to discuss your work with eminent infection biologists!
+
+Click here for more details: https://t.co/yqPa5sEWLv https://t.co/ILihT0p8L2 https://t.co/AxVaOOxHAV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1663472561496248323"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxXXCIYXsAEk9wl.jpg" length="900" type="photo"/>
+      <pubDate>Tue, 30 May 2023 09:08:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
