@@ -6,31 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 23:15:34 +0000</lastBuildDate>
-    <item>
-      <title>When marine biologist Roger Hanlon caught this creature on camera, he said he screamed bloody murder. And no wonder. A superb visualization of how chromatophores allow an octopus to blend in with the backdrops 
-
-[source, read more: https://t.co/Vp1Uxhq0He]
-https://t.co/1bp6cWouSN</title>
-      <link>https://twitter.com/Rainmaker1973/status/1662835091377123333</link>
-      <description>When marine biologist Roger Hanlon caught this creature on camera, he said he screamed bloody murder. And no wonder. A superb visualization of how chromatophores allow an octopus to blend in with the backdrops 
-
-[source, read more: https://t.co/Vp1Uxhq0He]
-https://t.co/1bp6cWouSN</description>
-      <content:encoded>When marine biologist Roger Hanlon caught this creature on camera, he said he screamed bloody murder. And no wonder. A superb visualization of how chromatophores allow an octopus to blend in with the backdrops 
-
-[source, read more: https://t.co/Vp1Uxhq0He]
-https://t.co/1bp6cWouSN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1662835091377123333"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1275095787769298945/pu/img/N1FBw5UyIKm-WDWV.jpg" length="1200" type="photo"/>
-      <pubDate>Sun, 28 May 2023 14:55:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DavidCRowland: Major breakthrough in recovery from paralysis! With the aid of brain-spine interface, this patient was able climb steps…</title>
-      <link>https://twitter.com/anna_beyeler/status/1662836215467343875</link>
-      <description>RT @DavidCRowland: Major breakthrough in recovery from paralysis! With the aid of brain-spine interface, this patient was able climb steps…</description>
-      <content:encoded>RT @DavidCRowland: Major breakthrough in recovery from paralysis! With the aid of brain-spine interface, this patient was able climb steps…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/anna_beyeler/status/1662836215467343875"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 28 May 2023 15:00:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 May 2023 01:26:30 +0000</lastBuildDate>
     <item>
       <title>Engineers design sutures that can deliver drugs or sense inflammation: The bioderived “smart sutures” could help patients heal after bowel resection or other types of surgery. https://t.co/DJgK5vIbWC https://t.co/WuUk6Yw96R</title>
       <link>https://twitter.com/MIT/status/1662837431891111938</link>
@@ -2242,6 +2218,26 @@ We introduced a new diffusion guidance method EGG 🥚 using energy functions th
       <description>New Research: Phantom limb therapy improves cortical efficiency of the sensorimotor network in a targeted muscle reinnervation amputee: a case report: Targeted muscle reinnervation (TMR) surgery involves the coaptation of amputated nerves… #Neuroscience https://t.co/s1J8W26eGL</description>
       <content:encoded>New Research: Phantom limb therapy improves cortical efficiency of the sensorimotor network in a targeted muscle reinnervation amputee: a case report: Targeted muscle reinnervation (TMR) surgery involves the coaptation of amputated nerves… #Neuroscience https://t.co/s1J8W26eGL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1663314667731832832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 29 May 2023 22:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: The affective aspects of chronic pain and potential treatments #neuroscience https://t.co/E78hKsh1q3</title>
+      <link>https://twitter.com/FrontNeurosci/status/1663334676105408518</link>
+      <description>New Research: Editorial: The affective aspects of chronic pain and potential treatments #neuroscience https://t.co/E78hKsh1q3</description>
+      <content:encoded>New Research: Editorial: The affective aspects of chronic pain and potential treatments #neuroscience https://t.co/E78hKsh1q3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1663334676105408518"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 00:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: The month of walking alone and BDNF level differ between drug-naive first-episode schizophrenia patients and healthy controls: Introduction
+
+Schizophrenia is a neurodevelopmental disorder, characterized by… #Molecular #Neuroscience https://t.co/WUABt4F3YN</title>
+      <link>https://twitter.com/FrontNeurosci/status/1663353418851975168</link>
+      <description>New Research: The month of walking alone and BDNF level differ between drug-naive first-episode schizophrenia patients and healthy controls: Introduction
+
+Schizophrenia is a neurodevelopmental disorder, characterized by… #Molecular #Neuroscience https://t.co/WUABt4F3YN</description>
+      <content:encoded>New Research: The month of walking alone and BDNF level differ between drug-naive first-episode schizophrenia patients and healthy controls: Introduction
+
+Schizophrenia is a neurodevelopmental disorder, characterized by… #Molecular #Neuroscience https://t.co/WUABt4F3YN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1663353418851975168"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 01:15:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
