@@ -6,98 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 May 2023 06:22:17 +0000</lastBuildDate>
-    <item>
-      <title>This photo is an example of how optical illusions mess with your mind.     
-
-First you see a beach, ocean sky, rocks and stars. And then... https://t.co/JTkiCI9ExD</title>
-      <link>https://twitter.com/Rainmaker1973/status/1663546459915177984</link>
-      <description>This photo is an example of how optical illusions mess with your mind.     
-
-First you see a beach, ocean sky, rocks and stars. And then... https://t.co/JTkiCI9ExD</description>
-      <content:encoded>This photo is an example of how optical illusions mess with your mind.     
-
-First you see a beach, ocean sky, rocks and stars. And then... https://t.co/JTkiCI9ExD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663546459915177984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxYZINgakAIliNF.jpg" length="674" type="photo"/>
-      <pubDate>Tue, 30 May 2023 14:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cool new paper by @TankredSaanum showing how compression can be used to find good innate priors for movement 
-
-(We argue below that biology figured this out a long time ago)
-
-https://t.co/SsTGdr9duZ https://t.co/GYiWSZR3Xp</title>
-      <link>https://twitter.com/TonyZador/status/1663547897219289088</link>
-      <description>Cool new paper by @TankredSaanum showing how compression can be used to find good innate priors for movement 
-
-(We argue below that biology figured this out a long time ago)
-
-https://t.co/SsTGdr9duZ https://t.co/GYiWSZR3Xp</description>
-      <content:encoded>Cool new paper by @TankredSaanum showing how compression can be used to find good innate priors for movement 
-
-(We argue below that biology figured this out a long time ago)
-
-https://t.co/SsTGdr9duZ https://t.co/GYiWSZR3Xp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1663547897219289088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 30 May 2023 14:08:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>What you see here is a quite amazing series of captures of SpaceX Falcon 9 fairing and booster separations, as seen from the ground. But how can one see in such rich details what happens at 60-70 km of height? Using specific tracking mounts
-
-[read more: https://t.co/LLyhoIp3md] https://t.co/JNdr5RXK4H</title>
-      <link>https://twitter.com/Rainmaker1973/status/1663548182184476673</link>
-      <description>What you see here is a quite amazing series of captures of SpaceX Falcon 9 fairing and booster separations, as seen from the ground. But how can one see in such rich details what happens at 60-70 km of height? Using specific tracking mounts
-
-[read more: https://t.co/LLyhoIp3md] https://t.co/JNdr5RXK4H</description>
-      <content:encoded>What you see here is a quite amazing series of captures of SpaceX Falcon 9 fairing and booster separations, as seen from the ground. But how can one see in such rich details what happens at 60-70 km of height? Using specific tracking mounts
-
-[read more: https://t.co/LLyhoIp3md] https://t.co/JNdr5RXK4H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663548182184476673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1663548121983639557/pu/img/Nt4w5V6NJ14MEdVo.jpg" length="450" type="photo"/>
-      <pubDate>Tue, 30 May 2023 14:09:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural correlate of reduced respiratory chemosensitivity during chronic epilepsy  https://t.co/AdzDfhhROC #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1663548540784881666</link>
-      <description>Neural correlate of reduced respiratory chemosensitivity during chronic epilepsy  https://t.co/AdzDfhhROC #biorxiv_neursci</description>
-      <content:encoded>Neural correlate of reduced respiratory chemosensitivity during chronic epilepsy  https://t.co/AdzDfhhROC #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1663548540784881666"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 30 May 2023 14:10:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @pessoagabi: Wrapping up my experience at @MIT_CIS as @IWMF Neuffer Fellow. MIT has changed my mindset forever! Here, I not only thought…</title>
-      <link>https://twitter.com/MIT/status/1663550030798807043</link>
-      <description>RT @pessoagabi: Wrapping up my experience at @MIT_CIS as @IWMF Neuffer Fellow. MIT has changed my mindset forever! Here, I not only thought…</description>
-      <content:encoded>RT @pessoagabi: Wrapping up my experience at @MIT_CIS as @IWMF Neuffer Fellow. MIT has changed my mindset forever! Here, I not only thought…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1663550030798807043"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 30 May 2023 14:16:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Come say hello to Kris and Meghan on booth T04 at the16th Canadian Neuroscience Meeting. They are looking forward to discussing your #electrophysiology and #imaging needs, and to show you our PatchScope Pro solution for patching cultured cells.  @CAN_ACN  https://t.co/Eo1lHSOtRX https://t.co/57YhYwk2Oh</title>
-      <link>https://twitter.com/Scientifica_Int/status/1663550844816748553</link>
-      <description>Come say hello to Kris and Meghan on booth T04 at the16th Canadian Neuroscience Meeting. They are looking forward to discussing your #electrophysiology and #imaging needs, and to show you our PatchScope Pro solution for patching cultured cells.  @CAN_ACN  https://t.co/Eo1lHSOtRX https://t.co/57YhYwk2Oh</description>
-      <content:encoded>Come say hello to Kris and Meghan on booth T04 at the16th Canadian Neuroscience Meeting. They are looking forward to discussing your #electrophysiology and #imaging needs, and to show you our PatchScope Pro solution for patching cultured cells.  @CAN_ACN  https://t.co/Eo1lHSOtRX https://t.co/57YhYwk2Oh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1663550844816748553"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxYerKcaUAckP55.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 30 May 2023 14:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>I look forward to hosting! https://t.co/2nnMzUNzJL</title>
-      <link>https://twitter.com/spornslab/status/1663551197775798276</link>
-      <description>I look forward to hosting! https://t.co/2nnMzUNzJL</description>
-      <content:encoded>I look forward to hosting! https://t.co/2nnMzUNzJL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/spornslab/status/1663551197775798276"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 30 May 2023 14:21:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>SIMBA learns a co-embedding space of single cells and multiple features such as genes, chromatin accessible regions, and transcription factor binding sequences, boosting performance of various analyses of cellular diversity and regulation. https://t.co/VwWU5QLjTl https://t.co/Rzh4V0hacJ</title>
-      <link>https://twitter.com/naturemethods/status/1663551712999907333</link>
-      <description>SIMBA learns a co-embedding space of single cells and multiple features such as genes, chromatin accessible regions, and transcription factor binding sequences, boosting performance of various analyses of cellular diversity and regulation. https://t.co/VwWU5QLjTl https://t.co/Rzh4V0hacJ</description>
-      <content:encoded>SIMBA learns a co-embedding space of single cells and multiple features such as genes, chromatin accessible regions, and transcription factor binding sequences, boosting performance of various analyses of cellular diversity and regulation. https://t.co/VwWU5QLjTl https://t.co/Rzh4V0hacJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1663551712999907333"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxYfOzQaQAkmd4g.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 30 May 2023 14:23:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>.@Nature describes how researchers are finding ways to improve functional magnetic resonance imaging (fMRI), a favorite tool of neuroscientists. https://t.co/lO1RonazNt</title>
-      <link>https://twitter.com/NaturePortfolio/status/1663552094543187972</link>
-      <description>.@Nature describes how researchers are finding ways to improve functional magnetic resonance imaging (fMRI), a favorite tool of neuroscientists. https://t.co/lO1RonazNt</description>
-      <content:encoded>.@Nature describes how researchers are finding ways to improve functional magnetic resonance imaging (fMRI), a favorite tool of neuroscientists. https://t.co/lO1RonazNt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1663552094543187972"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 30 May 2023 14:25:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 May 2023 07:14:45 +0000</lastBuildDate>
     <item>
       <title>🔸𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐬𝐮𝐫𝐯𝐞𝐲🔸
 💭What are your thoughts on #Diversity, #Inclusion and #Equity in the field of quantum ?
@@ -418,6 +327,14 @@ Programme &amp;amp; registration link: https://t.co/yDxgugXfNV
 #AffordableHousingMonth https://t.co/jEhmJbLRO9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1663561135856181254"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxYoCPmaUAENMrq.jpg" length="960" type="photo"/>
       <pubDate>Tue, 30 May 2023 15:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combining digital technology with the human voice, McDermott Award visiting artist Pamela Z creates layered music from everyday life. She sees technology as “something we express ourselves through,” rather than something that communicates for us. https://t.co/n8zfyeQbEu https://t.co/tzhagTJqA8</title>
+      <link>https://twitter.com/MIT/status/1663562231651655686</link>
+      <description>Combining digital technology with the human voice, McDermott Award visiting artist Pamela Z creates layered music from everyday life. She sees technology as “something we express ourselves through,” rather than something that communicates for us. https://t.co/n8zfyeQbEu https://t.co/tzhagTJqA8</description>
+      <content:encoded>Combining digital technology with the human voice, McDermott Award visiting artist Pamela Z creates layered music from everyday life. She sees technology as “something we express ourselves through,” rather than something that communicates for us. https://t.co/n8zfyeQbEu https://t.co/tzhagTJqA8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1663562231651655686"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxYpCMCaMAMT_ow.jpg" length="1000" type="photo"/>
+      <pubDate>Tue, 30 May 2023 15:05:18 +0000</pubDate>
     </item>
     <item>
       <title>Stare at the central cross for 15-20 seconds     
@@ -884,6 +801,13 @@ https://t.co/cbdaBW2Ax1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Tue, 30 May 2023 16:41:32 +0000</pubDate>
     </item>
     <item>
+      <title>RT @gatesfoundation: The transition to high school is a game-changer, and ninth grade sets the stage for success in high school, college, a…</title>
+      <link>https://twitter.com/BillGates/status/1663587466979459078</link>
+      <description>RT @gatesfoundation: The transition to high school is a game-changer, and ninth grade sets the stage for success in high school, college, a…</description>
+      <content:encoded>RT @gatesfoundation: The transition to high school is a game-changer, and ninth grade sets the stage for success in high school, college, a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1663587466979459078"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 16:45:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Want to study the medial temporal lobe? Study and learn anatomy!
 https://t.co/sC3Amr6qB8 https://t.co/3bJLDE5yhh</title>
       <link>https://twitter.com/PessoaBrain/status/1663588798482006017</link>
@@ -1231,6 +1155,19 @@ You think you know everything, without questioning.
 • Intelligence: 
 You question everything you think you know.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1663608672608571396"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 30 May 2023 18:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @scisignal: This week’s new issue of #ScienceSignaling has arrived!
+
+Experiments in mice show how hepatic stellate cells help maintain n…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1663608836266291200</link>
+      <description>RT @scisignal: This week’s new issue of #ScienceSignaling has arrived!
+
+Experiments in mice show how hepatic stellate cells help maintain n…</description>
+      <content:encoded>RT @scisignal: This week’s new issue of #ScienceSignaling has arrived!
+
+Experiments in mice show how hepatic stellate cells help maintain n…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1663608836266291200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 18:10:29 +0000</pubDate>
     </item>
     <item>
       <title>Adaptor protein complex 2 in the orbitofrontal cortexpredicts alcohol use disorder  https://t.co/1ZuHygCMb4 #biorxiv_neursci</title>
@@ -1995,6 +1932,75 @@ https://t.co/q5FgRpTKzn</description>
 https://t.co/q5FgRpTKzn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663791395826548740"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1663674125930381314/img/MTbqCVs1tLm0R1fs.jpg" length="1200" type="photo"/>
       <pubDate>Wed, 31 May 2023 06:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>In 2004, Bose invented what it looked like a revolutionary car suspension system. Seen in action it's a huge technical success but it was actually a commercial flop 
+
+[read more: https://t.co/FRuacQFm1H]
+https://t.co/XRGpXDHkFF</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663798806511493120</link>
+      <description>In 2004, Bose invented what it looked like a revolutionary car suspension system. Seen in action it's a huge technical success but it was actually a commercial flop 
+
+[read more: https://t.co/FRuacQFm1H]
+https://t.co/XRGpXDHkFF</description>
+      <content:encoded>In 2004, Bose invented what it looked like a revolutionary car suspension system. Seen in action it's a huge technical success but it was actually a commercial flop 
+
+[read more: https://t.co/FRuacQFm1H]
+https://t.co/XRGpXDHkFF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663798806511493120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/909750316559724544/pu/img/qzvXihzsgTjQfm48.jpg" length="850" type="photo"/>
+      <pubDate>Wed, 31 May 2023 06:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starting in 10 minutes! Don't forget to watch 👇 https://t.co/UQCC6sExON</title>
+      <link>https://twitter.com/ERC_Research/status/1663799519249588224</link>
+      <description>Starting in 10 minutes! Don't forget to watch 👇 https://t.co/UQCC6sExON</description>
+      <content:encoded>Starting in 10 minutes! Don't forget to watch 👇 https://t.co/UQCC6sExON&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1663799519249588224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 31 May 2023 06:48:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JonAMichaels: The vulnerability and emotion displayed by these people is not something I will forget. Incredible.</title>
+      <link>https://twitter.com/andpru/status/1663801900028813313</link>
+      <description>RT @JonAMichaels: The vulnerability and emotion displayed by these people is not something I will forget. Incredible.</description>
+      <content:encoded>RT @JonAMichaels: The vulnerability and emotion displayed by these people is not something I will forget. Incredible.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1663801900028813313"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 31 May 2023 06:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @HBP_Education: 📹 The videos of the keynote lectures from the 7th HBP Student Conference #HBPSC2023, which took place in Madrid 🇪🇸 in Ja…</title>
+      <link>https://twitter.com/HumanBrainProj/status/1663803758285840384</link>
+      <description>RT @HBP_Education: 📹 The videos of the keynote lectures from the 7th HBP Student Conference #HBPSC2023, which took place in Madrid 🇪🇸 in Ja…</description>
+      <content:encoded>RT @HBP_Education: 📹 The videos of the keynote lectures from the 7th HBP Student Conference #HBPSC2023, which took place in Madrid 🇪🇸 in Ja…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HumanBrainProj/status/1663803758285840384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 31 May 2023 07:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>This simulation from the IllustrisTNG collaboration tracks gas from the early universe (redshift 12) until today (redshift 0) and shows how a disk galaxy (like the Milky Way) may have formed
+
+[source: https://t.co/xS96PFXyu2]
+https://t.co/do0B6rl365</title>
+      <link>https://twitter.com/Rainmaker1973/status/1663804080274259969</link>
+      <description>This simulation from the IllustrisTNG collaboration tracks gas from the early universe (redshift 12) until today (redshift 0) and shows how a disk galaxy (like the Milky Way) may have formed
+
+[source: https://t.co/xS96PFXyu2]
+https://t.co/do0B6rl365</description>
+      <content:encoded>This simulation from the IllustrisTNG collaboration tracks gas from the early universe (redshift 12) until today (redshift 0) and shows how a disk galaxy (like the Milky Way) may have formed
+
+[source: https://t.co/xS96PFXyu2]
+https://t.co/do0B6rl365&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663804080274259969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1663402947139575808/pu/img/drrXCrUyN2pTjPoy.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 31 May 2023 07:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>HBP Scientific Director Katrin Amunts presented the Human Brain Project, its digital multilevel #brain atlas and the @EBRAINS_eu Research Infrastructure at the Copernicus Science Festival in Krakow.
+
+Read more ➡️ https://t.co/pFSR7ovX0A https://t.co/0N51oXahzG</title>
+      <link>https://twitter.com/HumanBrainProj/status/1663804510735675392</link>
+      <description>HBP Scientific Director Katrin Amunts presented the Human Brain Project, its digital multilevel #brain atlas and the @EBRAINS_eu Research Infrastructure at the Copernicus Science Festival in Krakow.
+
+Read more ➡️ https://t.co/pFSR7ovX0A https://t.co/0N51oXahzG</description>
+      <content:encoded>HBP Scientific Director Katrin Amunts presented the Human Brain Project, its digital multilevel #brain atlas and the @EBRAINS_eu Research Infrastructure at the Copernicus Science Festival in Krakow.
+
+Read more ➡️ https://t.co/pFSR7ovX0A https://t.co/0N51oXahzG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HumanBrainProj/status/1663804510735675392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxcFUcdWcAAna_f.jpg" length="1024" type="photo"/>
+      <pubDate>Wed, 31 May 2023 07:08:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
