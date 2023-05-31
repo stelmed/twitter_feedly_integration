@@ -6,7 +6,14 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 May 2023 04:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2023 05:15:02 +0000</lastBuildDate>
+    <item>
+      <title>Survey of brain cell junctions shows striking similarities between schizophrenia and bipolar disorder https://t.co/I7fGaAmNHh</title>
+      <link>https://twitter.com/MIT_Picower/status/1663534865873006593</link>
+      <description>Survey of brain cell junctions shows striking similarities between schizophrenia and bipolar disorder https://t.co/I7fGaAmNHh</description>
+      <content:encoded>Survey of brain cell junctions shows striking similarities between schizophrenia and bipolar disorder https://t.co/I7fGaAmNHh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1663534865873006593"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 30 May 2023 13:16:33 +0000</pubDate>
+    </item>
     <item>
       <title>Which LLM concept do you find most difficult to explain to coworkers, bosses, and family members? 
 
@@ -563,14 +570,6 @@ Programme &amp;amp; registration link: https://t.co/yDxgugXfNV
       <pubDate>Tue, 30 May 2023 15:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>Combining digital technology with the human voice, McDermott Award visiting artist Pamela Z creates layered music from everyday life. She sees technology as “something we express ourselves through,” rather than something that communicates for us. https://t.co/n8zfyeQbEu https://t.co/tzhagTJqA8</title>
-      <link>https://twitter.com/MIT/status/1663562231651655686</link>
-      <description>Combining digital technology with the human voice, McDermott Award visiting artist Pamela Z creates layered music from everyday life. She sees technology as “something we express ourselves through,” rather than something that communicates for us. https://t.co/n8zfyeQbEu https://t.co/tzhagTJqA8</description>
-      <content:encoded>Combining digital technology with the human voice, McDermott Award visiting artist Pamela Z creates layered music from everyday life. She sees technology as “something we express ourselves through,” rather than something that communicates for us. https://t.co/n8zfyeQbEu https://t.co/tzhagTJqA8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1663562231651655686"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxYpCMCaMAMT_ow.jpg" length="1000" type="photo"/>
-      <pubDate>Tue, 30 May 2023 15:05:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Stare at the central cross for 15-20 seconds     
 
 3 distinct illusions take place: 
@@ -1035,13 +1034,6 @@ https://t.co/cbdaBW2Ax1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Tue, 30 May 2023 16:41:32 +0000</pubDate>
     </item>
     <item>
-      <title>RT @gatesfoundation: The transition to high school is a game-changer, and ninth grade sets the stage for success in high school, college, a…</title>
-      <link>https://twitter.com/BillGates/status/1663587466979459078</link>
-      <description>RT @gatesfoundation: The transition to high school is a game-changer, and ninth grade sets the stage for success in high school, college, a…</description>
-      <content:encoded>RT @gatesfoundation: The transition to high school is a game-changer, and ninth grade sets the stage for success in high school, college, a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1663587466979459078"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 30 May 2023 16:45:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Want to study the medial temporal lobe? Study and learn anatomy!
 https://t.co/sC3Amr6qB8 https://t.co/3bJLDE5yhh</title>
       <link>https://twitter.com/PessoaBrain/status/1663588798482006017</link>
@@ -1389,19 +1381,6 @@ You think you know everything, without questioning.
 • Intelligence: 
 You question everything you think you know.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1663608672608571396"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 30 May 2023 18:09:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @scisignal: This week’s new issue of #ScienceSignaling has arrived!
-
-Experiments in mice show how hepatic stellate cells help maintain n…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1663608836266291200</link>
-      <description>RT @scisignal: This week’s new issue of #ScienceSignaling has arrived!
-
-Experiments in mice show how hepatic stellate cells help maintain n…</description>
-      <content:encoded>RT @scisignal: This week’s new issue of #ScienceSignaling has arrived!
-
-Experiments in mice show how hepatic stellate cells help maintain n…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1663608836266291200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 30 May 2023 18:10:29 +0000</pubDate>
     </item>
     <item>
       <title>Adaptor protein complex 2 in the orbitofrontal cortexpredicts alcohol use disorder  https://t.co/1ZuHygCMb4 #biorxiv_neursci</title>
@@ -2038,6 +2017,21 @@ https://t.co/VHHox2O9tp https…&lt;blockquote class="twitter-tweet"&gt;&lt;a hr
       <description>The Bergen Breakfast Scanning Club dataset: a deep brain imaging dataset  https://t.co/zI1tSUj7GJ #biorxiv_neursci</description>
       <content:encoded>The Bergen Breakfast Scanning Club dataset: a deep brain imaging dataset  https://t.co/zI1tSUj7GJ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1663761105729073152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 31 May 2023 04:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers have conducted a novel analysis of French Canadian ancestry in Quebec, Canada, since the 17th Century. https://t.co/LJQoOPgDXw https://t.co/ODTrfBcqGj</title>
+      <link>https://twitter.com/ScienceMagazine/status/1663764775250034688</link>
+      <description>Researchers have conducted a novel analysis of French Canadian ancestry in Quebec, Canada, since the 17th Century. https://t.co/LJQoOPgDXw https://t.co/ODTrfBcqGj</description>
+      <content:encoded>Researchers have conducted a novel analysis of French Canadian ancestry in Quebec, Canada, since the 17th Century. https://t.co/LJQoOPgDXw https://t.co/ODTrfBcqGj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1663764775250034688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxbhPcGWAAEPBBd.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 31 May 2023 04:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Awesome 🥳 https://t.co/nuuEAO93Vi</title>
+      <link>https://twitter.com/brunopichler/status/1663768338131042306</link>
+      <description>Awesome 🥳 https://t.co/nuuEAO93Vi</description>
+      <content:encoded>Awesome 🥳 https://t.co/nuuEAO93Vi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brunopichler/status/1663768338131042306"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 31 May 2023 04:44:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
