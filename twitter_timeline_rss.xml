@@ -6,57 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 09:16:03 +0000</lastBuildDate>
-    <item>
-      <title>RT @ray_khz: For my first thread, let’s travel back in time to the early 90s, when Deep Learning was not the coolest kid on the block. Humm…</title>
-      <link>https://twitter.com/patrickmineault/status/1663928857987039233</link>
-      <description>RT @ray_khz: For my first thread, let’s travel back in time to the early 90s, when Deep Learning was not the coolest kid on the block. Humm…</description>
-      <content:encoded>RT @ray_khz: For my first thread, let’s travel back in time to the early 90s, when Deep Learning was not the coolest kid on the block. Humm…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1663928857987039233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 31 May 2023 15:22:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hoya Bella has waxy leaves and produces clusters of small star-shaped white or pinkish-purple flowers from May to August. The flowers have a sweet fragrance, and some people refer to it as the honey plant.
-
-[📹 tastemadehome: https://t.co/eHH0nArjkt]
-https://t.co/SwaJHPBCFm</title>
-      <link>https://twitter.com/Rainmaker1973/status/1663930295374970881</link>
-      <description>Hoya Bella has waxy leaves and produces clusters of small star-shaped white or pinkish-purple flowers from May to August. The flowers have a sweet fragrance, and some people refer to it as the honey plant.
-
-[📹 tastemadehome: https://t.co/eHH0nArjkt]
-https://t.co/SwaJHPBCFm</description>
-      <content:encoded>Hoya Bella has waxy leaves and produces clusters of small star-shaped white or pinkish-purple flowers from May to August. The flowers have a sweet fragrance, and some people refer to it as the honey plant.
-
-[📹 tastemadehome: https://t.co/eHH0nArjkt]
-https://t.co/SwaJHPBCFm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663930295374970881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1357119152511713282/pu/img/tRHcwkoK-nuu2GOh.jpg" length="576" type="photo"/>
-      <pubDate>Wed, 31 May 2023 15:27:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>A study in @Nature presents a set of measures assessing the impact of humanity on the Earth system, intended to help ensure safety and justice for all living things. https://t.co/5F6DHGPvYl https://t.co/rcyy4wJIWC</title>
-      <link>https://twitter.com/NaturePortfolio/status/1663930606294638595</link>
-      <description>A study in @Nature presents a set of measures assessing the impact of humanity on the Earth system, intended to help ensure safety and justice for all living things. https://t.co/5F6DHGPvYl https://t.co/rcyy4wJIWC</description>
-      <content:encoded>A study in @Nature presents a set of measures assessing the impact of humanity on the Earth system, intended to help ensure safety and justice for all living things. https://t.co/5F6DHGPvYl https://t.co/rcyy4wJIWC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1663930606294638595"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxd4DTSWcAAlFLZ.jpg" length="1000" type="photo"/>
-      <pubDate>Wed, 31 May 2023 15:29:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Housing is part of what people need to heal, be connected + feel a sense of belonging.” —Amie Fishman of @NPHANC on the importance of home 
-#AffordableHousingMonth https://t.co/6BrDMJFmAg</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1663931010042454017</link>
-      <description>“Housing is part of what people need to heal, be connected + feel a sense of belonging.” —Amie Fishman of @NPHANC on the importance of home 
-#AffordableHousingMonth https://t.co/6BrDMJFmAg</description>
-      <content:encoded>“Housing is part of what people need to heal, be connected + feel a sense of belonging.” —Amie Fishman of @NPHANC on the importance of home 
-#AffordableHousingMonth https://t.co/6BrDMJFmAg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1663931010042454017"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxd4b0cX0AApTUw.jpg" length="1080" type="photo"/>
-      <pubDate>Wed, 31 May 2023 15:30:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Machine-learning model makes predictions about network biology https://t.co/l8g0EVBfEU</title>
-      <link>https://twitter.com/NatureNV/status/1663931040996392962</link>
-      <description>Machine-learning model makes predictions about network biology https://t.co/l8g0EVBfEU</description>
-      <content:encoded>Machine-learning model makes predictions about network biology https://t.co/l8g0EVBfEU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1663931040996392962"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 31 May 2023 15:30:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jun 2023 10:20:03 +0000</lastBuildDate>
     <item>
       <title>The Stadio Meazza, commonly known as San Siro, is a football stadium in Milan's San Siro district. Its walkways are spiral shaped and the motion of the walking people gives you the illusion of an automatic rotation
 
@@ -2179,6 +2129,94 @@ https://t.co/KmFUenZRI0
 @albers_eva @werner_hauke https://t.co/3PZfJPgu3L&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatRevNeurosci/status/1664198987371380738"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxhsIPLWwAA8RCZ.png" length="685" type="photo"/>
       <pubDate>Thu, 01 Jun 2023 09:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oh come on, that's barely a word!
+
+Wordle 712 X/6*
+
+⬛⬛🟨⬛⬛
+⬛⬛⬛⬛🟨
+⬛🟩⬛⬛🟩
+⬛🟩⬛⬛🟩
+⬛🟩⬛⬛🟩
+⬛🟩⬛⬛🟩</title>
+      <link>https://twitter.com/MattNeuro/status/1664200218668154880</link>
+      <description>Oh come on, that's barely a word!
+
+Wordle 712 X/6*
+
+⬛⬛🟨⬛⬛
+⬛⬛⬛⬛🟨
+⬛🟩⬛⬛🟩
+⬛🟩⬛⬛🟩
+⬛🟩⬛⬛🟩
+⬛🟩⬛⬛🟩</description>
+      <content:encoded>Oh come on, that's barely a word!
+
+Wordle 712 X/6*
+
+⬛⬛🟨⬛⬛
+⬛⬛⬛⬛🟨
+⬛🟩⬛⬛🟩
+⬛🟩⬛⬛🟩
+⬛🟩⬛⬛🟩
+⬛🟩⬛⬛🟩&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1664200218668154880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 01 Jun 2023 09:20:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>This hypnotic clip illustrates how engraved mahjong tiles are colored. A computer-controlled arm with inkjets nozzles sprays precise amounts of red and black pigments onto the right spots on each tile 
+
+[source: https://t.co/n2sfBfQTWF]
+https://t.co/vtRZ8EYqrm</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664203208820944897</link>
+      <description>This hypnotic clip illustrates how engraved mahjong tiles are colored. A computer-controlled arm with inkjets nozzles sprays precise amounts of red and black pigments onto the right spots on each tile 
+
+[source: https://t.co/n2sfBfQTWF]
+https://t.co/vtRZ8EYqrm</description>
+      <content:encoded>This hypnotic clip illustrates how engraved mahjong tiles are colored. A computer-controlled arm with inkjets nozzles sprays precise amounts of red and black pigments onto the right spots on each tile 
+
+[source: https://t.co/n2sfBfQTWF]
+https://t.co/vtRZ8EYqrm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664203208820944897"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1525384601635635200/pu/img/FI-cr0wtVMKDImdk.jpg" length="608" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 09:32:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @fouzia_bano: 🗣️Exciting news: annoucning our upcoming symposium of Physical &amp;amp; Computational Tools in Biology at Umeå University! 🇸🇪🔬
+
+S…</title>
+      <link>https://twitter.com/PostdocUmu/status/1664210116759920642</link>
+      <description>RT @fouzia_bano: 🗣️Exciting news: annoucning our upcoming symposium of Physical &amp;amp; Computational Tools in Biology at Umeå University! 🇸🇪🔬
+
+S…</description>
+      <content:encoded>RT @fouzia_bano: 🗣️Exciting news: annoucning our upcoming symposium of Physical &amp;amp; Computational Tools in Biology at Umeå University! 🇸🇪🔬
+
+S…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1664210116759920642"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 01 Jun 2023 09:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Life has been evolving for over 3 billion years, and brains appeared only 0.5 billion years ago. If life were a TV series, the brain would be a new character that's introduced in season 7 and quickly dominates the show to the dismay of older fans.</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1664212865501343744</link>
+      <description>Life has been evolving for over 3 billion years, and brains appeared only 0.5 billion years ago. If life were a TV series, the brain would be a new character that's introduced in season 7 and quickly dominates the show to the dismay of older fans.</description>
+      <content:encoded>Life has been evolving for over 3 billion years, and brains appeared only 0.5 billion years ago. If life were a TV series, the brain would be a new character that's introduced in season 7 and quickly dominates the show to the dismay of older fans.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1664212865501343744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 01 Jun 2023 10:10:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>KAERI Robot lab made this prototype of a personal off-the-ground mobility system. The goal is to develop a non-contact transportation system that can be used by individuals. In other words, a hoverboard in real life 
+
+[source: https://t.co/z0VOIQlz7e]
+https://t.co/uJPWH6ref7</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664213712905879553</link>
+      <description>KAERI Robot lab made this prototype of a personal off-the-ground mobility system. The goal is to develop a non-contact transportation system that can be used by individuals. In other words, a hoverboard in real life 
+
+[source: https://t.co/z0VOIQlz7e]
+https://t.co/uJPWH6ref7</description>
+      <content:encoded>KAERI Robot lab made this prototype of a personal off-the-ground mobility system. The goal is to develop a non-contact transportation system that can be used by individuals. In other words, a hoverboard in real life 
+
+[source: https://t.co/z0VOIQlz7e]
+https://t.co/uJPWH6ref7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664213712905879553"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1543173645413109761/pu/img/iIm6U50rUfagclXz.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 10:14:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
