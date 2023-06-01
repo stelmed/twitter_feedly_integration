@@ -6,149 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 08:19:46 +0000</lastBuildDate>
-    <item>
-      <title>May 24th: Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl by @MilesCranmer
-
-https://t.co/QONaoFFRQt</title>
-      <link>https://twitter.com/bdanubius/status/1663923348512858116</link>
-      <description>May 24th: Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl by @MilesCranmer
-
-https://t.co/QONaoFFRQt</description>
-      <content:encoded>May 24th: Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl by @MilesCranmer
-
-https://t.co/QONaoFFRQt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1663923348512858116"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 31 May 2023 15:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 25th: Choose Your Weapon: Survival Strategies for Depressed AI Academics by @togelius @yannakakis 
-
-https://t.co/HV7A2MKHSX</title>
-      <link>https://twitter.com/bdanubius/status/1663923350656147456</link>
-      <description>May 25th: Choose Your Weapon: Survival Strategies for Depressed AI Academics by @togelius @yannakakis 
-
-https://t.co/HV7A2MKHSX</description>
-      <content:encoded>May 25th: Choose Your Weapon: Survival Strategies for Depressed AI Academics by @togelius @yannakakis 
-
-https://t.co/HV7A2MKHSX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1663923350656147456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 31 May 2023 15:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 26th: Modular subgraphs in large-scale connectomes underpin spontaneous co-fluctuation “events” @EllyR130 @JacobCTanner1 @Jo_Youngheun @FarnazZesf @ColettaLudovico @Gozzi_Ale @richardfbetzel
-
-https://t.co/s5IPkvyk5f</title>
-      <link>https://twitter.com/bdanubius/status/1663923352728117249</link>
-      <description>May 26th: Modular subgraphs in large-scale connectomes underpin spontaneous co-fluctuation “events” @EllyR130 @JacobCTanner1 @Jo_Youngheun @FarnazZesf @ColettaLudovico @Gozzi_Ale @richardfbetzel
-
-https://t.co/s5IPkvyk5f</description>
-      <content:encoded>May 26th: Modular subgraphs in large-scale connectomes underpin spontaneous co-fluctuation “events” @EllyR130 @JacobCTanner1 @Jo_Youngheun @FarnazZesf @ColettaLudovico @Gozzi_Ale @richardfbetzel
-
-https://t.co/s5IPkvyk5f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1663923352728117249"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 31 May 2023 15:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>#DYK #ovarian #cancer is one of the most common cancers for ♀️ in 🌍 with ~ 68k new cases in 2020?
-
-@Pmsilvamendes @unibirmingham developed 🆕 screening tools to detect 🎗️ovarian cancer early 👉 https://t.co/PJfxAiGkWe
-
-#MissionCancer #EWAC2023 #nanotechnology @EUScienceInnov https://t.co/NGi749XE3Z</title>
-      <link>https://twitter.com/ERC_Research/status/1663923392234524673</link>
-      <description>#DYK #ovarian #cancer is one of the most common cancers for ♀️ in 🌍 with ~ 68k new cases in 2020?
-
-@Pmsilvamendes @unibirmingham developed 🆕 screening tools to detect 🎗️ovarian cancer early 👉 https://t.co/PJfxAiGkWe
-
-#MissionCancer #EWAC2023 #nanotechnology @EUScienceInnov https://t.co/NGi749XE3Z</description>
-      <content:encoded>#DYK #ovarian #cancer is one of the most common cancers for ♀️ in 🌍 with ~ 68k new cases in 2020?
-
-@Pmsilvamendes @unibirmingham developed 🆕 screening tools to detect 🎗️ovarian cancer early 👉 https://t.co/PJfxAiGkWe
-
-#MissionCancer #EWAC2023 #nanotechnology @EUScienceInnov https://t.co/NGi749XE3Z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1663923392234524673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxdxat1aUAAfl5u.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 31 May 2023 15:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bacteria are vital for the diversity and survival of insects. New study from @lunduniversity 
-#Research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology #ecology #diversity https://t.co/x69HBll6K6 https://t.co/Tieo5U5wSr</title>
-      <link>https://twitter.com/KAWstiftelsen/status/1663923780836622344</link>
-      <description>Bacteria are vital for the diversity and survival of insects. New study from @lunduniversity 
-#Research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology #ecology #diversity https://t.co/x69HBll6K6 https://t.co/Tieo5U5wSr</description>
-      <content:encoded>Bacteria are vital for the diversity and survival of insects. New study from @lunduniversity 
-#Research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology #ecology #diversity https://t.co/x69HBll6K6 https://t.co/Tieo5U5wSr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1663923780836622344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxdw2WXWIAICN_M.jpg" length="960" type="photo"/>
-      <pubDate>Wed, 31 May 2023 15:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ellen Swallow Richards became MIT’s first female graduate when she earned her BS in chemistry on May 31, 1873 — 150 years ago today. https://t.co/USMfmXkCjO</title>
-      <link>https://twitter.com/MIT/status/1663924613913378817</link>
-      <description>Ellen Swallow Richards became MIT’s first female graduate when she earned her BS in chemistry on May 31, 1873 — 150 years ago today. https://t.co/USMfmXkCjO</description>
-      <content:encoded>Ellen Swallow Richards became MIT’s first female graduate when she earned her BS in chemistry on May 31, 1873 — 150 years ago today. https://t.co/USMfmXkCjO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1663924613913378817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxdynpIWIAAH-Mr.jpg" length="510" type="photo"/>
-      <pubDate>Wed, 31 May 2023 15:05:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @hardmaru: While the rest of the world is focused on runaway AGI existential "risks", large scale machine learning is systematically app…</title>
-      <link>https://twitter.com/tyrell_turing/status/1663925633158619136</link>
-      <description>RT @hardmaru: While the rest of the world is focused on runaway AGI existential "risks", large scale machine learning is systematically app…</description>
-      <content:encoded>RT @hardmaru: While the rest of the world is focused on runaway AGI existential "risks", large scale machine learning is systematically app…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1663925633158619136"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 31 May 2023 15:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚨New Research Topic🚨
-
-We are delighted to welcome submissions to this important topic focused on highlighting work that aims to both quantify and improve the reproducibility of neuroscience research.
-
-Submit here: https://t.co/IxJ9d3aUEL https://t.co/qTPO9jm50y</title>
-      <link>https://twitter.com/FrontNeurosci/status/1663926673966858242</link>
-      <description>🚨New Research Topic🚨
-
-We are delighted to welcome submissions to this important topic focused on highlighting work that aims to both quantify and improve the reproducibility of neuroscience research.
-
-Submit here: https://t.co/IxJ9d3aUEL https://t.co/qTPO9jm50y</description>
-      <content:encoded>🚨New Research Topic🚨
-
-We are delighted to welcome submissions to this important topic focused on highlighting work that aims to both quantify and improve the reproducibility of neuroscience research.
-
-Submit here: https://t.co/IxJ9d3aUEL https://t.co/qTPO9jm50y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1663926673966858242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxdz3joWIAAx8E-.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 31 May 2023 15:13:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>After more than 25 years, this is still one of the most mind boggling cinema's visual effects, from the movie Contact 
-
-[how it was filmed: https://t.co/wQ6PfBXZzQ]
-https://t.co/fxHqGmb7kl https://t.co/ikapavpFbd</title>
-      <link>https://twitter.com/Rainmaker1973/status/1663928331643891713</link>
-      <description>After more than 25 years, this is still one of the most mind boggling cinema's visual effects, from the movie Contact 
-
-[how it was filmed: https://t.co/wQ6PfBXZzQ]
-https://t.co/fxHqGmb7kl https://t.co/ikapavpFbd</description>
-      <content:encoded>After more than 25 years, this is still one of the most mind boggling cinema's visual effects, from the movie Contact 
-
-[how it was filmed: https://t.co/wQ6PfBXZzQ]
-https://t.co/fxHqGmb7kl https://t.co/ikapavpFbd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1663928331643891713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1547707879154601985/pu/img/rbdKpbvH3XryFgAp.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 31 May 2023 15:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚨New Research Topic Alert🚨 
-
-We are pleased to welcome submissions to this fascinating topic which aims to disseminate and discuss recent advances in the underlying mechanisms of stress-related disorders.
-
-Submit here ➡️https://t.co/kOYUBA3aab https://t.co/p2fYltE46Q</title>
-      <link>https://twitter.com/FrontNeurosci/status/1663928569867780096</link>
-      <description>🚨New Research Topic Alert🚨 
-
-We are pleased to welcome submissions to this fascinating topic which aims to disseminate and discuss recent advances in the underlying mechanisms of stress-related disorders.
-
-Submit here ➡️https://t.co/kOYUBA3aab https://t.co/p2fYltE46Q</description>
-      <content:encoded>🚨New Research Topic Alert🚨 
-
-We are pleased to welcome submissions to this fascinating topic which aims to disseminate and discuss recent advances in the underlying mechanisms of stress-related disorders.
-
-Submit here ➡️https://t.co/kOYUBA3aab https://t.co/p2fYltE46Q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1663928569867780096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxd1WubWYAA1y-6.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 31 May 2023 15:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jun 2023 09:16:03 +0000</lastBuildDate>
     <item>
       <title>RT @ray_khz: For my first thread, let’s travel back in time to the early 90s, when Deep Learning was not the coolest kid on the block. Humm…</title>
       <link>https://twitter.com/patrickmineault/status/1663928857987039233</link>
@@ -2141,6 +1999,186 @@ by…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neu
 [read more: https://t.co/KVmejpu6zC] https://t.co/VietWuhIUe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664182236659216384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxhbOoXWAAAfmGr.jpg" length="680" type="photo"/>
       <pubDate>Thu, 01 Jun 2023 08:08:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Right at the beginning of summer, @CNRsocial_ and the HBP welcomed students from all over Europe and the world once again to partake in the @EBRAINS_eu Brain #Simulation School, taking place from 19 - 23 May 2023.
+
+Read more ➡️ https://t.co/bwOQ2RA3R2 https://t.co/HGB8LPi9nq</title>
+      <link>https://twitter.com/HumanBrainProj/status/1664185100882378752</link>
+      <description>Right at the beginning of summer, @CNRsocial_ and the HBP welcomed students from all over Europe and the world once again to partake in the @EBRAINS_eu Brain #Simulation School, taking place from 19 - 23 May 2023.
+
+Read more ➡️ https://t.co/bwOQ2RA3R2 https://t.co/HGB8LPi9nq</description>
+      <content:encoded>Right at the beginning of summer, @CNRsocial_ and the HBP welcomed students from all over Europe and the world once again to partake in the @EBRAINS_eu Brain #Simulation School, taking place from 19 - 23 May 2023.
+
+Read more ➡️ https://t.co/bwOQ2RA3R2 https://t.co/HGB8LPi9nq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HumanBrainProj/status/1664185100882378752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxhff2xWwAA-i8u.jpg" length="945" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 08:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>38 astronauts to orbit so far! https://t.co/l00qTaWntt</title>
+      <link>https://twitter.com/elonmusk/status/1664187538330775552</link>
+      <description>38 astronauts to orbit so far! https://t.co/l00qTaWntt</description>
+      <content:encoded>38 astronauts to orbit so far! https://t.co/l00qTaWntt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1664187538330775552"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 01 Jun 2023 08:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Article: Ablation of ZC3H11A causes early embryonic lethality and dysregulation of metabolic processes #research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology #Genomics #evolution @PNASNews  https://t.co/CgMnaC2Zud https://t.co/YlroesYZMq https://t.co/bQen6o7s1q</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1664188467520086017</link>
+      <description>Article: Ablation of ZC3H11A causes early embryonic lethality and dysregulation of metabolic processes #research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology #Genomics #evolution @PNASNews  https://t.co/CgMnaC2Zud https://t.co/YlroesYZMq https://t.co/bQen6o7s1q</description>
+      <content:encoded>Article: Ablation of ZC3H11A causes early embryonic lethality and dysregulation of metabolic processes #research supported by Knut and Alice Wallenberg Foundation #KAW100 #biology #Genomics #evolution @PNASNews  https://t.co/CgMnaC2Zud https://t.co/YlroesYZMq https://t.co/bQen6o7s1q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1664188467520086017"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxhilsIXgAEx4Em.png" length="799" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 08:33:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>In 1956, IBM’s Data Processing Division in southern San Jose, Ca transported the first hard-drive that only held a whopping 5 megabytes of storage 
+
+[read more: https://t.co/Rnpcf7HnYv] https://t.co/GGxuWYMy4b</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664189182271537152</link>
+      <description>In 1956, IBM’s Data Processing Division in southern San Jose, Ca transported the first hard-drive that only held a whopping 5 megabytes of storage 
+
+[read more: https://t.co/Rnpcf7HnYv] https://t.co/GGxuWYMy4b</description>
+      <content:encoded>In 1956, IBM’s Data Processing Division in southern San Jose, Ca transported the first hard-drive that only held a whopping 5 megabytes of storage 
+
+[read more: https://t.co/Rnpcf7HnYv] https://t.co/GGxuWYMy4b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664189182271537152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxhjOaZXgAAJJAp.jpg" length="680" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 08:36:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>#123: Evolution of neuronal cell classes and types in the vertebrate retina @MuQiao6 @PengYRLab  @Yvonne_Koelsch @mameister4 @RobLucasDar @Wei_Li_Vision @shekharlab
+
+On the conservation of retinal developmental programs across vertebrates!
+
+https://t.co/az3dXnbwOk https://t.co/OAiN9Glb0W</title>
+      <link>https://twitter.com/bdanubius/status/1664193105342390272</link>
+      <description>#123: Evolution of neuronal cell classes and types in the vertebrate retina @MuQiao6 @PengYRLab  @Yvonne_Koelsch @mameister4 @RobLucasDar @Wei_Li_Vision @shekharlab
+
+On the conservation of retinal developmental programs across vertebrates!
+
+https://t.co/az3dXnbwOk https://t.co/OAiN9Glb0W</description>
+      <content:encoded>#123: Evolution of neuronal cell classes and types in the vertebrate retina @MuQiao6 @PengYRLab  @Yvonne_Koelsch @mameister4 @RobLucasDar @Wei_Li_Vision @shekharlab
+
+On the conservation of retinal developmental programs across vertebrates!
+
+https://t.co/az3dXnbwOk https://t.co/OAiN9Glb0W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1664193105342390272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxhmaLaWYAEn9XS.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 08:52:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>See also tweeprint:
+https://t.co/1alhWZ88uc</title>
+      <link>https://twitter.com/bdanubius/status/1664193108173570048</link>
+      <description>See also tweeprint:
+https://t.co/1alhWZ88uc</description>
+      <content:encoded>See also tweeprint:
+https://t.co/1alhWZ88uc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1664193108173570048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 01 Jun 2023 08:52:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bulbs like this 3D Fireworks Decorative Lamp have an interesting construction beyond the effect itself
+
+[what's inside: https://t.co/IytSXARzDs]
+https://t.co/p0ynL6LhHi</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664193366974767104</link>
+      <description>Bulbs like this 3D Fireworks Decorative Lamp have an interesting construction beyond the effect itself
+
+[what's inside: https://t.co/IytSXARzDs]
+https://t.co/p0ynL6LhHi</description>
+      <content:encoded>Bulbs like this 3D Fireworks Decorative Lamp have an interesting construction beyond the effect itself
+
+[what's inside: https://t.co/IytSXARzDs]
+https://t.co/p0ynL6LhHi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664193366974767104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1542501298217504769/pu/img/SlYrywpGCzib9VVh.jpg" length="460" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 08:53:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>"A university is like a city … But in too many of those cities, postdocs … are priced out."
+
+A new #ExperimentalError column reflects on a “serious flaw” in one institution’s affordable housing efforts. https://t.co/PLM8M3sXA6 @adam_ruben @ScienceCareers</title>
+      <link>https://twitter.com/ScienceMagazine/status/1664195087977291777</link>
+      <description>"A university is like a city … But in too many of those cities, postdocs … are priced out."
+
+A new #ExperimentalError column reflects on a “serious flaw” in one institution’s affordable housing efforts. https://t.co/PLM8M3sXA6 @adam_ruben @ScienceCareers</description>
+      <content:encoded>"A university is like a city … But in too many of those cities, postdocs … are priced out."
+
+A new #ExperimentalError column reflects on a “serious flaw” in one institution’s affordable housing efforts. https://t.co/PLM8M3sXA6 @adam_ruben @ScienceCareers&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1664195087977291777"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 01 Jun 2023 09:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ready for the first session of the 𝐐𝐮𝐚𝐧𝐭𝐮𝐦 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐩𝐨𝐥𝐢𝐜𝐲𝐦𝐚𝐤𝐞𝐫𝐬 with Pr. Tommaso Calarco ?
+
+⏰ It's happening in 30min.. Grab your headphones and let's connect !
+✔️ Get your online invitation now : https://t.co/xPnoyEcE6q https://t.co/H5u9YdX3Wl</title>
+      <link>https://twitter.com/QuantumFlagship/status/1664195414029901824</link>
+      <description>Ready for the first session of the 𝐐𝐮𝐚𝐧𝐭𝐮𝐦 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐩𝐨𝐥𝐢𝐜𝐲𝐦𝐚𝐤𝐞𝐫𝐬 with Pr. Tommaso Calarco ?
+
+⏰ It's happening in 30min.. Grab your headphones and let's connect !
+✔️ Get your online invitation now : https://t.co/xPnoyEcE6q https://t.co/H5u9YdX3Wl</description>
+      <content:encoded>Ready for the first session of the 𝐐𝐮𝐚𝐧𝐭𝐮𝐦 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐩𝐨𝐥𝐢𝐜𝐲𝐦𝐚𝐤𝐞𝐫𝐬 with Pr. Tommaso Calarco ?
+
+⏰ It's happening in 30min.. Grab your headphones and let's connect !
+✔️ Get your online invitation now : https://t.co/xPnoyEcE6q https://t.co/H5u9YdX3Wl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/QuantumFlagship/status/1664195414029901824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxhoxJpWwAEhPi_.jpg" length="1080" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 09:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>The National Fisheries Development Board is located in Hyderabad, India. 
+
+The building is notable as a unique example of memetic or novelty architecture, being designed in the shape of a gigantic fish.
+
+[read more: https://t.co/UyRAgTXyQf] https://t.co/cidT9NKy10</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664195870529601536</link>
+      <description>The National Fisheries Development Board is located in Hyderabad, India. 
+
+The building is notable as a unique example of memetic or novelty architecture, being designed in the shape of a gigantic fish.
+
+[read more: https://t.co/UyRAgTXyQf] https://t.co/cidT9NKy10</description>
+      <content:encoded>The National Fisheries Development Board is located in Hyderabad, India. 
+
+The building is notable as a unique example of memetic or novelty architecture, being designed in the shape of a gigantic fish.
+
+[read more: https://t.co/UyRAgTXyQf] https://t.co/cidT9NKy10&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664195870529601536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxhpCfxXsAIZOLI.jpg" length="1024" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 09:03:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>A slow motion look at an industrial sewing machine is probably the best way to understand how this kind of machines works 
+
+[animation: https://t.co/tvONyxZXpZ] 
+[source, Ben Geisler: https://t.co/lNmeWS9RSG]
+https://t.co/WUcSeLypcE</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664198753123807239</link>
+      <description>A slow motion look at an industrial sewing machine is probably the best way to understand how this kind of machines works 
+
+[animation: https://t.co/tvONyxZXpZ] 
+[source, Ben Geisler: https://t.co/lNmeWS9RSG]
+https://t.co/WUcSeLypcE</description>
+      <content:encoded>A slow motion look at an industrial sewing machine is probably the best way to understand how this kind of machines works 
+
+[animation: https://t.co/tvONyxZXpZ] 
+[source, Ben Geisler: https://t.co/lNmeWS9RSG]
+https://t.co/WUcSeLypcE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664198753123807239"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1440339044337008645/pu/img/OHTWtvB1nJYJoBiT.jpg" length="960" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 09:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanisms of axonal support by oligodendrocyte-derived extracellular vesicles — a Review by Eva-Maria Krämer-Albers &amp;amp; Hauke B. Werner
+
+https://t.co/KmFUenZRI0
+
+@albers_eva @werner_hauke https://t.co/3PZfJPgu3L</title>
+      <link>https://twitter.com/NatRevNeurosci/status/1664198987371380738</link>
+      <description>Mechanisms of axonal support by oligodendrocyte-derived extracellular vesicles — a Review by Eva-Maria Krämer-Albers &amp;amp; Hauke B. Werner
+
+https://t.co/KmFUenZRI0
+
+@albers_eva @werner_hauke https://t.co/3PZfJPgu3L</description>
+      <content:encoded>Mechanisms of axonal support by oligodendrocyte-derived extracellular vesicles — a Review by Eva-Maria Krämer-Albers &amp;amp; Hauke B. Werner
+
+https://t.co/KmFUenZRI0
+
+@albers_eva @werner_hauke https://t.co/3PZfJPgu3L&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatRevNeurosci/status/1664198987371380738"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxhsIPLWwAA8RCZ.png" length="685" type="photo"/>
+      <pubDate>Thu, 01 Jun 2023 09:15:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
