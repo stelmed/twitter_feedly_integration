@@ -6,104 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jun 2023 16:20:20 +0000</lastBuildDate>
-    <item>
-      <title>Class of #MIT2023, we are in awe of all you’ve accomplished. https://t.co/AxoEekIl3h</title>
-      <link>https://twitter.com/MIT/status/1664358652600373248</link>
-      <description>Class of #MIT2023, we are in awe of all you’ve accomplished. https://t.co/AxoEekIl3h</description>
-      <content:encoded>Class of #MIT2023, we are in awe of all you’ve accomplished. https://t.co/AxoEekIl3h&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664358652600373248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxj9RJjWIAAQQoq.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 19:49:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>President Sally Kornbluth to the graduating class of 2023. https://t.co/bWKzAEYYNF</title>
-      <link>https://twitter.com/MIT/status/1664358973829533696</link>
-      <description>President Sally Kornbluth to the graduating class of 2023. https://t.co/bWKzAEYYNF</description>
-      <content:encoded>President Sally Kornbluth to the graduating class of 2023. https://t.co/bWKzAEYYNF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664358973829533696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxj9kTIXgAERWWn.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 19:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @StarTalkRadio: A recently discovered ‘quasi-moon’ has been orbiting our planet since 100 BC https://t.co/3zLCxJ7x4D</title>
-      <link>https://twitter.com/MichaelGalanin/status/1664359295528345602</link>
-      <description>RT @StarTalkRadio: A recently discovered ‘quasi-moon’ has been orbiting our planet since 100 BC https://t.co/3zLCxJ7x4D</description>
-      <content:encoded>RT @StarTalkRadio: A recently discovered ‘quasi-moon’ has been orbiting our planet since 100 BC https://t.co/3zLCxJ7x4D&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1664359295528345602"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxj4kyWX0AI6sN4.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 19:52:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>President Sally Kornbluth’s charge to the Class of 2023: https://t.co/RfV8GZQsBo</title>
-      <link>https://twitter.com/MIT/status/1664360427961323520</link>
-      <description>President Sally Kornbluth’s charge to the Class of 2023: https://t.co/RfV8GZQsBo</description>
-      <content:encoded>President Sally Kornbluth’s charge to the Class of 2023: https://t.co/RfV8GZQsBo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664360427961323520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxj-f6YWAAMDwWm.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 19:57:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>President Sally Kornbluth’s charge to the Class of 2023: https://t.co/KVNHaTD0BD</title>
-      <link>https://twitter.com/MIT/status/1664360607393492993</link>
-      <description>President Sally Kornbluth’s charge to the Class of 2023: https://t.co/KVNHaTD0BD</description>
-      <content:encoded>President Sally Kornbluth’s charge to the Class of 2023: https://t.co/KVNHaTD0BD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664360607393492993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxj_DEmX0AMSkEC.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 19:57:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>@TrackingActions @OpenSimSU Word : )</title>
-      <link>https://twitter.com/JonRWhitlock/status/1664361350439600130</link>
-      <description>@TrackingActions @OpenSimSU Word : )</description>
-      <content:encoded>@TrackingActions @OpenSimSU Word : )&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/JonRWhitlock/status/1664361350439600130"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 20:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>P61m
-Depositor: Richard Murray
-Purpose: MoClo golden gate assembly AB part for pTac (Adam Meyer's improved pTac promoter selected for dynamic range and low cross-sensitivity; unpublished, using strategy from https://t.co/NE5x88cuTZ).
-
-https://t.co/n1lgTvtony https://t.co/sT6kAJk53H</title>
-      <link>https://twitter.com/Addgene/status/1664362694206529537</link>
-      <description>P61m
-Depositor: Richard Murray
-Purpose: MoClo golden gate assembly AB part for pTac (Adam Meyer's improved pTac promoter selected for dynamic range and low cross-sensitivity; unpublished, using strategy from https://t.co/NE5x88cuTZ).
-
-https://t.co/n1lgTvtony https://t.co/sT6kAJk53H</description>
-      <content:encoded>P61m
-Depositor: Richard Murray
-Purpose: MoClo golden gate assembly AB part for pTac (Adam Meyer's improved pTac promoter selected for dynamic range and low cross-sensitivity; unpublished, using strategy from https://t.co/NE5x88cuTZ).
-
-https://t.co/n1lgTvtony https://t.co/sT6kAJk53H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1664362694206529537"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FxkBCqNWcAIEBVI.jpg" length="480" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 20:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>First mortarboard to ever fly away from an MIT Commencement ceremony. Nice one, @MarkRober! 🎓 #OnlyatMIT #MIT2023 https://t.co/qP5YYxxUmq</title>
-      <link>https://twitter.com/MIT/status/1664364707468247049</link>
-      <description>First mortarboard to ever fly away from an MIT Commencement ceremony. Nice one, @MarkRober! 🎓 #OnlyatMIT #MIT2023 https://t.co/qP5YYxxUmq</description>
-      <content:encoded>First mortarboard to ever fly away from an MIT Commencement ceremony. Nice one, @MarkRober! 🎓 #OnlyatMIT #MIT2023 https://t.co/qP5YYxxUmq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664364707468247049"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxkCxwgXoAgLbBs.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 20:14:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @s_batzoglou: PrimateAI-3D, an AI transformer that accurately predicts disease causing variants in proteins, will be published at tomorr…</title>
-      <link>https://twitter.com/sofroniewn/status/1664365013962985473</link>
-      <description>RT @s_batzoglou: PrimateAI-3D, an AI transformer that accurately predicts disease causing variants in proteins, will be published at tomorr…</description>
-      <content:encoded>RT @s_batzoglou: PrimateAI-3D, an AI transformer that accurately predicts disease causing variants in proteins, will be published at tomorr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1664365013962985473"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 20:15:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations, #MIT2023, and welcome to the @MIT_alumni family! 👏 https://t.co/T8IwhIxKFF</title>
-      <link>https://twitter.com/MIT/status/1664366018645356544</link>
-      <description>Congratulations, #MIT2023, and welcome to the @MIT_alumni family! 👏 https://t.co/T8IwhIxKFF</description>
-      <content:encoded>Congratulations, #MIT2023, and welcome to the @MIT_alumni family! 👏 https://t.co/T8IwhIxKFF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664366018645356544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxkEDlcX0A4tofw.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 20:19:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mattbotvinick: I’ve written down some purely personal thoughts about AI and what remains special about the human mind. I hope these wil…</title>
-      <link>https://twitter.com/tyrell_turing/status/1664367599566704655</link>
-      <description>RT @mattbotvinick: I’ve written down some purely personal thoughts about AI and what remains special about the human mind. I hope these wil…</description>
-      <content:encoded>RT @mattbotvinick: I’ve written down some purely personal thoughts about AI and what remains special about the human mind. I hope these wil…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1664367599566704655"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 20:25:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jun 2023 17:13:56 +0000</lastBuildDate>
     <item>
       <title>RT @mmitchell_ai: Look guys. If you're worried abt an extinction-level event from AI, one way to *create* that event is to enable LLMs to t…</title>
       <link>https://twitter.com/tyrell_turing/status/1664368967585071107</link>
@@ -2168,6 +2071,173 @@ https://t.co/EZOpcQZ0mp https://t.co/857r0Nuo8W</description>
 https://t.co/EZOpcQZ0mp https://t.co/857r0Nuo8W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1664668205741211648"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxoW6DoWcAcoJqQ.jpg" length="801" type="photo"/>
       <pubDate>Fri, 02 Jun 2023 16:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newborn kangaroos, or joeys, are born as small as a grape (~2.5 cm) and are able to climb on their own through their mother's dense fur to reach the safety and comfort of her pouch to nurse
+
+[📹 https://t.co/6veozBkkP0]
+https://t.co/u3WBMXZHFi</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664668344685821962</link>
+      <description>Newborn kangaroos, or joeys, are born as small as a grape (~2.5 cm) and are able to climb on their own through their mother's dense fur to reach the safety and comfort of her pouch to nurse
+
+[📹 https://t.co/6veozBkkP0]
+https://t.co/u3WBMXZHFi</description>
+      <content:encoded>Newborn kangaroos, or joeys, are born as small as a grape (~2.5 cm) and are able to climb on their own through their mother's dense fur to reach the safety and comfort of her pouch to nurse
+
+[📹 https://t.co/6veozBkkP0]
+https://t.co/u3WBMXZHFi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664668344685821962"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1661617566496768005/img/gVWQbEXjK1hc_qm0.jpg" length="406" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 16:20:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Synaptic properties of mouse tecto-parabigeminal pathways: The superior colliculus (SC) is a critical hub for the generation of visually-evoked orienting and defensive behaviors. Among the SC’s myriad downstream targets is the… #Neuroscience https://t.co/2EvjTPckFY</title>
+      <link>https://twitter.com/FrontNeurosci/status/1664668583035797510</link>
+      <description>New Research: Synaptic properties of mouse tecto-parabigeminal pathways: The superior colliculus (SC) is a critical hub for the generation of visually-evoked orienting and defensive behaviors. Among the SC’s myriad downstream targets is the… #Neuroscience https://t.co/2EvjTPckFY</description>
+      <content:encoded>New Research: Synaptic properties of mouse tecto-parabigeminal pathways: The superior colliculus (SC) is a critical hub for the generation of visually-evoked orienting and defensive behaviors. Among the SC’s myriad downstream targets is the… #Neuroscience https://t.co/2EvjTPckFY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1664668583035797510"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 16:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Science, researchers present a new method for achieving autonomous realignment and self-healing in multilayered soft electronic devices and robots.
+
+Learn more: https://t.co/7gAjdJIkVl https://t.co/MrVQ73ZO8L</title>
+      <link>https://twitter.com/ScienceMagazine/status/1664670737410453505</link>
+      <description>In Science, researchers present a new method for achieving autonomous realignment and self-healing in multilayered soft electronic devices and robots.
+
+Learn more: https://t.co/7gAjdJIkVl https://t.co/MrVQ73ZO8L</description>
+      <content:encoded>In Science, researchers present a new method for achieving autonomous realignment and self-healing in multilayered soft electronic devices and robots.
+
+Learn more: https://t.co/7gAjdJIkVl https://t.co/MrVQ73ZO8L&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1664670737410453505"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxoZNrTWAAQ07U2.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 16:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamixel servos allow a super precise, fast and stable motor controls.
+
+[read more: https://t.co/Ebxa9MqgWY]
+https://t.co/c3AAU1zEN4</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664671128080482314</link>
+      <description>Dynamixel servos allow a super precise, fast and stable motor controls.
+
+[read more: https://t.co/Ebxa9MqgWY]
+https://t.co/c3AAU1zEN4</description>
+      <content:encoded>Dynamixel servos allow a super precise, fast and stable motor controls.
+
+[read more: https://t.co/Ebxa9MqgWY]
+https://t.co/c3AAU1zEN4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664671128080482314"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664189410861015045/pu/img/wcu1DJY1VU0zTBWC.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 16:31:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>.@Nature reports on an explosion of skeletal editing methods to insert, delete or swap individual atoms in molecular backbones that could accelerate drug discovery. https://t.co/XNKmmRu1NN</title>
+      <link>https://twitter.com/NaturePortfolio/status/1664671467533893640</link>
+      <description>.@Nature reports on an explosion of skeletal editing methods to insert, delete or swap individual atoms in molecular backbones that could accelerate drug discovery. https://t.co/XNKmmRu1NN</description>
+      <content:encoded>.@Nature reports on an explosion of skeletal editing methods to insert, delete or swap individual atoms in molecular backbones that could accelerate drug discovery. https://t.co/XNKmmRu1NN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1664671467533893640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 16:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Chongqing monorail transport system
+
+[video: https://t.co/25GfzSmoIH]
+https://t.co/oQ22Ejv2iL</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664673426638766080</link>
+      <description>The Chongqing monorail transport system
+
+[video: https://t.co/25GfzSmoIH]
+https://t.co/oQ22Ejv2iL</description>
+      <content:encoded>The Chongqing monorail transport system
+
+[video: https://t.co/25GfzSmoIH]
+https://t.co/oQ22Ejv2iL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664673426638766080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1663867967833255936/pu/img/H4WiA3geoNTO4OgC.jpg" length="640" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 16:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a class of firework called girandola: a wheel propelled by angled jets that give it a combination of rotation and vertical thrust. Generally built in South East Asian traditions
+
+[read more: https://t.co/3Iun5SfElV]
+https://t.co/m8hywfCQqN</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664675696931635200</link>
+      <description>This is a class of firework called girandola: a wheel propelled by angled jets that give it a combination of rotation and vertical thrust. Generally built in South East Asian traditions
+
+[read more: https://t.co/3Iun5SfElV]
+https://t.co/m8hywfCQqN</description>
+      <content:encoded>This is a class of firework called girandola: a wheel propelled by angled jets that give it a combination of rotation and vertical thrust. Generally built in South East Asian traditions
+
+[read more: https://t.co/3Iun5SfElV]
+https://t.co/m8hywfCQqN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664675696931635200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664597270182998017/pu/img/S8sIhEBY8GNe5IZA.jpg" length="576" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 16:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's Friday already!! 
+#fluorescencefriday https://t.co/OBiakOKXh8</title>
+      <link>https://twitter.com/ewadorotaz/status/1664677632464519181</link>
+      <description>It's Friday already!! 
+#fluorescencefriday https://t.co/OBiakOKXh8</description>
+      <content:encoded>It's Friday already!! 
+#fluorescencefriday https://t.co/OBiakOKXh8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1664677632464519181"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 16:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gain hands-on experience implementing image generation using diffusion models and truly understand how they work with our new free course taught by @realSharonZhou.
+
+Join "How Diffusion Models Work" for free: https://t.co/NyTbZdpCdT https://t.co/lW6zoUALdA</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1664678266685227031</link>
+      <description>Gain hands-on experience implementing image generation using diffusion models and truly understand how they work with our new free course taught by @realSharonZhou.
+
+Join "How Diffusion Models Work" for free: https://t.co/NyTbZdpCdT https://t.co/lW6zoUALdA</description>
+      <content:encoded>Gain hands-on experience implementing image generation using diffusion models and truly understand how they work with our new free course taught by @realSharonZhou.
+
+Join "How Diffusion Models Work" for free: https://t.co/NyTbZdpCdT https://t.co/lW6zoUALdA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1664678266685227031"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxogD7jWcAEcT_W.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 17:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Worker bees in a hive know where the queen is at all times thanks to her pheromones which relay messages to create a "global map" that tells them where to go.
+
+[full paper: https://t.co/hQ0koGUKsh]
+[📹 Mr. Mrs. Bee Rescue: https://t.co/GghFxRD98H]
+https://t.co/fnOFsNxD4c</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664678617693945871</link>
+      <description>Worker bees in a hive know where the queen is at all times thanks to her pheromones which relay messages to create a "global map" that tells them where to go.
+
+[full paper: https://t.co/hQ0koGUKsh]
+[📹 Mr. Mrs. Bee Rescue: https://t.co/GghFxRD98H]
+https://t.co/fnOFsNxD4c</description>
+      <content:encoded>Worker bees in a hive know where the queen is at all times thanks to her pheromones which relay messages to create a "global map" that tells them where to go.
+
+[full paper: https://t.co/hQ0koGUKsh]
+[📹 Mr. Mrs. Bee Rescue: https://t.co/GghFxRD98H]
+https://t.co/fnOFsNxD4c&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664678617693945871"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664389333221101573/pu/img/2bhZ2LH_9PhLLxR4.jpg" length="675" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 17:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Even our four-legged friends are in graduation attire. https://t.co/9FGbZ0O7KG</title>
+      <link>https://twitter.com/MIT/status/1664679519310204929</link>
+      <description>Even our four-legged friends are in graduation attire. https://t.co/9FGbZ0O7KG</description>
+      <content:encoded>Even our four-legged friends are in graduation attire. https://t.co/9FGbZ0O7KG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664679519310204929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxodQmpWAAsK1Xa.jpg" length="949" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Imagine a future in which your daily interaction with the world of information is mediated by an AI assistant.
+
+This AI assistant would be like an active repository of all human knowledge.
+
+It will become your best rampart *against* misinformation.</title>
+      <link>https://twitter.com/ylecun/status/1664681619335020560</link>
+      <description>Imagine a future in which your daily interaction with the world of information is mediated by an AI assistant.
+
+This AI assistant would be like an active repository of all human knowledge.
+
+It will become your best rampart *against* misinformation.</description>
+      <content:encoded>Imagine a future in which your daily interaction with the world of information is mediated by an AI assistant.
+
+This AI assistant would be like an active repository of all human knowledge.
+
+It will become your best rampart *against* misinformation.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1664681619335020560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 17:13:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
