@@ -6,44 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jun 2023 21:14:01 +0000</lastBuildDate>
-    <item>
-      <title>More job opportunities in ERC-funded projects are now available for talented researchers from #Ukraine. List 👉 https://t.co/mhw2XjVAbe
-
-Listen also to ERC grantee 🇺🇦 Anastasia Piliavsky @KingsCollegeLon who established a relief fund to provide support 👇
-
-#StandWithUkraine https://t.co/4deBS9KtLd</title>
-      <link>https://twitter.com/ERC_Research/status/1664549983994146817</link>
-      <description>More job opportunities in ERC-funded projects are now available for talented researchers from #Ukraine. List 👉 https://t.co/mhw2XjVAbe
-
-Listen also to ERC grantee 🇺🇦 Anastasia Piliavsky @KingsCollegeLon who established a relief fund to provide support 👇
-
-#StandWithUkraine https://t.co/4deBS9KtLd</description>
-      <content:encoded>More job opportunities in ERC-funded projects are now available for talented researchers from #Ukraine. List 👉 https://t.co/mhw2XjVAbe
-
-Listen also to ERC grantee 🇺🇦 Anastasia Piliavsky @KingsCollegeLon who established a relief fund to provide support 👇
-
-#StandWithUkraine https://t.co/4deBS9KtLd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1664549983994146817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664549920731443207/pu/img/lCYziPhAPDa-mJbT.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 02 Jun 2023 08:30:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tool use in elephants involves holding branches and scratching themselves in places that the trunk and tail cannot reach. But this one uses a branch in a quite alternative way, to deter a rhino's charge
-
-[📹 Latest Sightings: https://t.co/kgk4HbZqOZ]
-https://t.co/DylMB1zsNR</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664550287007264768</link>
-      <description>Tool use in elephants involves holding branches and scratching themselves in places that the trunk and tail cannot reach. But this one uses a branch in a quite alternative way, to deter a rhino's charge
-
-[📹 Latest Sightings: https://t.co/kgk4HbZqOZ]
-https://t.co/DylMB1zsNR</description>
-      <content:encoded>Tool use in elephants involves holding branches and scratching themselves in places that the trunk and tail cannot reach. But this one uses a branch in a quite alternative way, to deter a rhino's charge
-
-[📹 Latest Sightings: https://t.co/kgk4HbZqOZ]
-https://t.co/DylMB1zsNR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664550287007264768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1664320222273191941/img/Br8Ksib6CRO9K2BX.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 02 Jun 2023 08:31:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jun 2023 22:14:37 +0000</lastBuildDate>
     <item>
       <title>Watch the moment the Kham Lha herd runs to a reunion with Darrick Thompson, who operates an elephant sanctuary in Chiang Mai province, Thailand, after 14 months
 
@@ -2249,6 +2212,21 @@ The results offer a new perspective on neuronal networks and neurotransmission. 
       <description>RT @AndrewYNg: 1/The false and sensationalist coverage of the purported Air Force simulation where an AI-drone decided to kill an operator…</description>
       <content:encoded>RT @AndrewYNg: 1/The false and sensationalist coverage of the purported Air Force simulation where an AI-drone decided to kill an operator…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1664740739568353281"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 02 Jun 2023 21:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/RcSSEN38FI</title>
+      <link>https://twitter.com/elonmusk/status/1664742794135470083</link>
+      <description>https://t.co/RcSSEN38FI</description>
+      <content:encoded>https://t.co/RcSSEN38FI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1664742794135470083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxpav4lXwAUOjyI.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 21:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maybe it already has? 🤷‍♂️ https://t.co/19E6B77kJl</title>
+      <link>https://twitter.com/AndrewHires/status/1664755194075430912</link>
+      <description>Maybe it already has? 🤷‍♂️ https://t.co/19E6B77kJl</description>
+      <content:encoded>Maybe it already has? 🤷‍♂️ https://t.co/19E6B77kJl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1664755194075430912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 22:05:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
