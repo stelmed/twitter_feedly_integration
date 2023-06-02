@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jun 2023 02:49:25 +0000</lastBuildDate>
-    <item>
-      <title>RT @7homaslin: .@stevenstrogatz: “I’ll be looking in the bathroom mirror, shaving. And then I get this creepy feeling like: What is this lu…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1664231598999339008</link>
-      <description>RT @7homaslin: .@stevenstrogatz: “I’ll be looking in the bathroom mirror, shaving. And then I get this creepy feeling like: What is this lu…</description>
-      <content:encoded>RT @7homaslin: .@stevenstrogatz: “I’ll be looking in the bathroom mirror, shaving. And then I get this creepy feeling like: What is this lu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1664231598999339008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 11:25:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jun 2023 03:17:09 +0000</lastBuildDate>
     <item>
       <title>Safe and just boundaries have been defined for Earth. Find out why the task is so challenging in this great N&amp;amp;V by Stephen Humphreys @LSELaw https://t.co/85Lm8cTlWj</title>
       <link>https://twitter.com/NatureNV/status/1664235631986319360</link>
@@ -2045,6 +2038,14 @@ Learn more: https://t.co/744gZvYCBB
       <description>New Research: New Research: AI-driven and automated MRI sequence optimization in scanner-independent MRI sequences formulated by a domain-specific language #Neuroimaging https://t.co/PiNU3d1kht</description>
       <content:encoded>New Research: New Research: AI-driven and automated MRI sequence optimization in scanner-independent MRI sequences formulated by a domain-specific language #Neuroimaging https://t.co/PiNU3d1kht&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1664453669394464769"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 02 Jun 2023 02:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Higher depression risks are associated with suburban residential areas in Denmark, finds a new @ScienceAdvances study of urban forms and depression diagnoses across the country. https://t.co/DU2HbhECgc https://t.co/ePEUNOqves</title>
+      <link>https://twitter.com/ScienceMagazine/status/1664466904256335875</link>
+      <description>Higher depression risks are associated with suburban residential areas in Denmark, finds a new @ScienceAdvances study of urban forms and depression diagnoses across the country. https://t.co/DU2HbhECgc https://t.co/ePEUNOqves</description>
+      <content:encoded>Higher depression risks are associated with suburban residential areas in Denmark, finds a new @ScienceAdvances study of urban forms and depression diagnoses across the country. https://t.co/DU2HbhECgc https://t.co/ePEUNOqves&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1664466904256335875"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxlf0t0WYAQ3uED.jpg" length="990" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 03:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
