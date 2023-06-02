@@ -6,182 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jun 2023 13:21:54 +0000</lastBuildDate>
-    <item>
-      <title>RT @yoavgo: yeah the model makes occasional mistakes, is demonstrated to be full of biases, and cannot be trusted to supply reliable inform…</title>
-      <link>https://twitter.com/ylecun/status/1664312124099772432</link>
-      <description>RT @yoavgo: yeah the model makes occasional mistakes, is demonstrated to be full of biases, and cannot be trusted to supply reliable inform…</description>
-      <content:encoded>RT @yoavgo: yeah the model makes occasional mistakes, is demonstrated to be full of biases, and cannot be trusted to supply reliable inform…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1664312124099772432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 16:45:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Research by Janelia Senior Group Leader @MishaAhrens and his team into the brain cells that enable a zebrafish to "give up" are included in Pulitzer Prize-winning writer Julia Keller's new book "Quitting: A Life Strategy."
-
-Read more @NextBigIdeaClub ⬇️ https://t.co/X6XTUkVS0w</title>
-      <link>https://twitter.com/HHMIJanelia/status/1664312363800051712</link>
-      <description>Research by Janelia Senior Group Leader @MishaAhrens and his team into the brain cells that enable a zebrafish to "give up" are included in Pulitzer Prize-winning writer Julia Keller's new book "Quitting: A Life Strategy."
-
-Read more @NextBigIdeaClub ⬇️ https://t.co/X6XTUkVS0w</description>
-      <content:encoded>Research by Janelia Senior Group Leader @MishaAhrens and his team into the brain cells that enable a zebrafish to "give up" are included in Pulitzer Prize-winning writer Julia Keller's new book "Quitting: A Life Strategy."
-
-Read more @NextBigIdeaClub ⬇️ https://t.co/X6XTUkVS0w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1664312363800051712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 16:46:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @GabrielSarch: 1/ 🧠🔍 New research alert! We've trained a neural network to predict brain responses to images, and then “dissected” the n…</title>
-      <link>https://twitter.com/patrickmineault/status/1664312385782284288</link>
-      <description>RT @GabrielSarch: 1/ 🧠🔍 New research alert! We've trained a neural network to predict brain responses to images, and then “dissected” the n…</description>
-      <content:encoded>RT @GabrielSarch: 1/ 🧠🔍 New research alert! We've trained a neural network to predict brain responses to images, and then “dissected” the n…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1664312385782284288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 16:46:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan has become a machine learning paradise. https://t.co/uUWMvRmULX</title>
-      <link>https://twitter.com/ylecun/status/1664313215310807041</link>
-      <description>Japan has become a machine learning paradise. https://t.co/uUWMvRmULX</description>
-      <content:encoded>Japan has become a machine learning paradise. https://t.co/uUWMvRmULX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1664313215310807041"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 16:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CambridgePolice: K9 Zambra has been ready to ensure a safe and enjoyable @MIT Commencement Ceremony. https://t.co/OQwMDRRgeg</title>
-      <link>https://twitter.com/MIT/status/1664314569093791750</link>
-      <description>RT @CambridgePolice: K9 Zambra has been ready to ensure a safe and enjoyable @MIT Commencement Ceremony. https://t.co/OQwMDRRgeg</description>
-      <content:encoded>RT @CambridgePolice: K9 Zambra has been ready to ensure a safe and enjoyable @MIT Commencement Ceremony. https://t.co/OQwMDRRgeg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664314569093791750"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxjRvkMWAAIiigQ.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 16:54:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @naturemethods: In case you missed it yesterday! CAMPA (Conditional Autoencoder for Multiplexed Pixel Analysis) learns representations o…</title>
-      <link>https://twitter.com/sofroniewn/status/1664314703999533057</link>
-      <description>RT @naturemethods: In case you missed it yesterday! CAMPA (Conditional Autoencoder for Multiplexed Pixel Analysis) learns representations o…</description>
-      <content:encoded>RT @naturemethods: In case you missed it yesterday! CAMPA (Conditional Autoencoder for Multiplexed Pixel Analysis) learns representations o…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1664314703999533057"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 16:55:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>LangChain is rapidly becoming the main go-to framework for developing applications on top of large language models.
-
-With our new short course, you will learn how to leverage @LangChainAI to quickly build cutting-edge LLM applications. 
-
-Sign up for free: https://t.co/FVHTMgq2yX https://t.co/HlliJ8KtBR</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1664315937951039497</link>
-      <description>LangChain is rapidly becoming the main go-to framework for developing applications on top of large language models.
-
-With our new short course, you will learn how to leverage @LangChainAI to quickly build cutting-edge LLM applications. 
-
-Sign up for free: https://t.co/FVHTMgq2yX https://t.co/HlliJ8KtBR</description>
-      <content:encoded>LangChain is rapidly becoming the main go-to framework for developing applications on top of large language models.
-
-With our new short course, you will learn how to leverage @LangChainAI to quickly build cutting-edge LLM applications. 
-
-Sign up for free: https://t.co/FVHTMgq2yX https://t.co/HlliJ8KtBR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1664315937951039497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664315876479320072/pu/img/POdhd7hAu_GhGTOZ.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 17:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @sparc_science: This in-person course will teach #neuroscientists &amp;amp; other researchers about #neuroinformatics: the #science &amp;amp; #engineeri…</title>
-      <link>https://twitter.com/INCForg/status/1664316260006412288</link>
-      <description>RT @sparc_science: This in-person course will teach #neuroscientists &amp;amp; other researchers about #neuroinformatics: the #science &amp;amp; #engineeri…</description>
-      <content:encoded>RT @sparc_science: This in-person course will teach #neuroscientists &amp;amp; other researchers about #neuroinformatics: the #science &amp;amp; #engineeri…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1664316260006412288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 17:01:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @hardmaru: Japan recently reaffirmed that it will not enforce copyrights on data used in AI training.
-
-The policy allows AI to use any d…</title>
-      <link>https://twitter.com/ylecun/status/1664316529763139596</link>
-      <description>RT @hardmaru: Japan recently reaffirmed that it will not enforce copyrights on data used in AI training.
-
-The policy allows AI to use any d…</description>
-      <content:encoded>RT @hardmaru: Japan recently reaffirmed that it will not enforce copyrights on data used in AI training.
-
-The policy allows AI to use any d…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1664316529763139596"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 17:02:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DaveKeating: "If you’re bored of Belgium you’re bored of life. Few countries pack so much culture, history, fine food, world-class citi…</title>
-      <link>https://twitter.com/avdjeugd/status/1664318667360813060</link>
-      <description>RT @DaveKeating: "If you’re bored of Belgium you’re bored of life. Few countries pack so much culture, history, fine food, world-class citi…</description>
-      <content:encoded>RT @DaveKeating: "If you’re bored of Belgium you’re bored of life. Few countries pack so much culture, history, fine food, world-class citi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1664318667360813060"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 17:11:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @flandersbio: We’re happy to see you all back at #KFG2023, a time to reunite and reignite the spirit of collaboration, innovation, and k…</title>
-      <link>https://twitter.com/avdjeugd/status/1664318898307473410</link>
-      <description>RT @flandersbio: We’re happy to see you all back at #KFG2023, a time to reunite and reignite the spirit of collaboration, innovation, and k…</description>
-      <content:encoded>RT @flandersbio: We’re happy to see you all back at #KFG2023, a time to reunite and reignite the spirit of collaboration, innovation, and k…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1664318898307473410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 17:12:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>A variation of the Hero's engine, this steam propelled rotor/generator is among the simplest forms of steam engine, yet very useful to understand energy conservation, from heat to pressure, to kinetic energy to electricity
-
-[video: https://t.co/ovDW7tDqXf]
-https://t.co/SMnggNchZZ</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664319441075683328</link>
-      <description>A variation of the Hero's engine, this steam propelled rotor/generator is among the simplest forms of steam engine, yet very useful to understand energy conservation, from heat to pressure, to kinetic energy to electricity
-
-[video: https://t.co/ovDW7tDqXf]
-https://t.co/SMnggNchZZ</description>
-      <content:encoded>A variation of the Hero's engine, this steam propelled rotor/generator is among the simplest forms of steam engine, yet very useful to understand energy conservation, from heat to pressure, to kinetic energy to electricity
-
-[video: https://t.co/ovDW7tDqXf]
-https://t.co/SMnggNchZZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664319441075683328"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1663843850698518528/pu/img/B8a3eWSZEbrny-Mo.jpg" length="675" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 17:14:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microstructural dynamics of motor learning and sleep-dependent consolidation: a diffusion imaging study  https://t.co/lYl5wtEqBo #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1664319831615717382</link>
-      <description>Microstructural dynamics of motor learning and sleep-dependent consolidation: a diffusion imaging study  https://t.co/lYl5wtEqBo #biorxiv_neursci</description>
-      <content:encoded>Microstructural dynamics of motor learning and sleep-dependent consolidation: a diffusion imaging study  https://t.co/lYl5wtEqBo #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1664319831615717382"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 17:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @QuantaMagazine: @saimamaysidik @Nature @jojofoshosho0 Inflammation can cause many problems, but it also protects us from pathogens. In…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1664320731436531726</link>
-      <description>RT @QuantaMagazine: @saimamaysidik @Nature @jojofoshosho0 Inflammation can cause many problems, but it also protects us from pathogens. In…</description>
-      <content:encoded>RT @QuantaMagazine: @saimamaysidik @Nature @jojofoshosho0 Inflammation can cause many problems, but it also protects us from pathogens. In…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1664320731436531726"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 17:19:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wauw dit is erg cool 🐜 https://t.co/pgQIrs2Nms</title>
-      <link>https://twitter.com/avdjeugd/status/1664321021665591315</link>
-      <description>Wauw dit is erg cool 🐜 https://t.co/pgQIrs2Nms</description>
-      <content:encoded>Wauw dit is erg cool 🐜 https://t.co/pgQIrs2Nms&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1664321021665591315"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 17:20:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mpicbg: Eugene Myers @TheGeneMyers, Director Emeritus &amp;amp; research group leader @mpicbg &amp;amp; @csbdresden was honored with the @Caltech Disti…</title>
-      <link>https://twitter.com/betenoire1/status/1664322881570979846</link>
-      <description>RT @mpicbg: Eugene Myers @TheGeneMyers, Director Emeritus &amp;amp; research group leader @mpicbg &amp;amp; @csbdresden was honored with the @Caltech Disti…</description>
-      <content:encoded>RT @mpicbg: Eugene Myers @TheGeneMyers, Director Emeritus &amp;amp; research group leader @mpicbg &amp;amp; @csbdresden was honored with the @Caltech Disti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/betenoire1/status/1664322881570979846"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 17:27:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Reliability eXplorer (ReX) is a tool for assessing measurement reliability in human neuroimaging studies. It also can be used to guide optimizations when measuring individual differences.
-@tingsterx @childmindinst 
-https://t.co/dd9wCTAWWn https://t.co/XIQIiSgdaI</title>
-      <link>https://twitter.com/naturemethods/status/1664323846877462539</link>
-      <description>The Reliability eXplorer (ReX) is a tool for assessing measurement reliability in human neuroimaging studies. It also can be used to guide optimizations when measuring individual differences.
-@tingsterx @childmindinst 
-https://t.co/dd9wCTAWWn https://t.co/XIQIiSgdaI</description>
-      <content:encoded>The Reliability eXplorer (ReX) is a tool for assessing measurement reliability in human neuroimaging studies. It also can be used to guide optimizations when measuring individual differences.
-@tingsterx @childmindinst 
-https://t.co/dd9wCTAWWn https://t.co/XIQIiSgdaI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1664323846877462539"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxjdrISXwAULpMv.png" length="606" type="photo"/>
-      <pubDate>Thu, 01 Jun 2023 17:31:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s #AlzheimersAwareness Month! 
-
-Read how scientists are taking an innovative approach to understanding how our brains work + combating #NeurodegenerativeDiseases like #Alzheimers https://t.co/oJdiYFGnsC</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1664324257973948416</link>
-      <description>It’s #AlzheimersAwareness Month! 
-
-Read how scientists are taking an innovative approach to understanding how our brains work + combating #NeurodegenerativeDiseases like #Alzheimers https://t.co/oJdiYFGnsC</description>
-      <content:encoded>It’s #AlzheimersAwareness Month! 
-
-Read how scientists are taking an innovative approach to understanding how our brains work + combating #NeurodegenerativeDiseases like #Alzheimers https://t.co/oJdiYFGnsC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1664324257973948416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 01 Jun 2023 17:33:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jun 2023 14:14:05 +0000</lastBuildDate>
     <item>
       <title>If a plastic bottle is left in your car and the right amount of sunlight hits it at just the right angle, a car seat could catch fire. This video shows how
 
@@ -2155,6 +1980,190 @@ Now Konrad Kording https://t.co/LMTTXshtlq</description>
 Now Konrad Kording https://t.co/LMTTXshtlq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1664623067249745920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxnscuUWAAA0XPc.jpg" length="900" type="photo"/>
       <pubDate>Fri, 02 Jun 2023 13:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lesion studies can be misleading https://t.co/SBIFziJ6zP</title>
+      <link>https://twitter.com/PessoaBrain/status/1664623538056093699</link>
+      <description>Lesion studies can be misleading https://t.co/SBIFziJ6zP</description>
+      <content:encoded>Lesion studies can be misleading https://t.co/SBIFziJ6zP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1664623538056093699"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxnuSVwaEAAfzJ0.jpg" length="900" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 13:22:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>After his 2023 Commencement address, Mark Rober affixed his mortarboard to a drone and sent it soaring over the Great Dome. His remarks and grand finale drew a standing ovation from the crowd. https://t.co/xt929u7OvY</title>
+      <link>https://twitter.com/MIT/status/1664624684669739008</link>
+      <description>After his 2023 Commencement address, Mark Rober affixed his mortarboard to a drone and sent it soaring over the Great Dome. His remarks and grand finale drew a standing ovation from the crowd. https://t.co/xt929u7OvY</description>
+      <content:encoded>After his 2023 Commencement address, Mark Rober affixed his mortarboard to a drone and sent it soaring over the Great Dome. His remarks and grand finale drew a standing ovation from the crowd. https://t.co/xt929u7OvY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664624684669739008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 13:27:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AschbacherJosef: Over the next 2 years, from the upcoming Space Summit in Sevilla through #CM25, @ESA is committed to working with Memb…</title>
+      <link>https://twitter.com/AndrejBicanski/status/1664625279124361218</link>
+      <description>RT @AschbacherJosef: Over the next 2 years, from the upcoming Space Summit in Sevilla through #CM25, @ESA is committed to working with Memb…</description>
+      <content:encoded>RT @AschbacherJosef: Over the next 2 years, from the upcoming Space Summit in Sevilla through #CM25, @ESA is committed to working with Memb…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrejBicanski/status/1664625279124361218"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 13:29:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pop star @Grimezsz isn’t afraid of AI. In fact, she recently released a tool that makes it easy for anyone to clone her voice. 
+
+Learn more in #TheBatch: https://t.co/8wA7QGRgL4</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1664625408828997632</link>
+      <description>Pop star @Grimezsz isn’t afraid of AI. In fact, she recently released a tool that makes it easy for anyone to clone her voice. 
+
+Learn more in #TheBatch: https://t.co/8wA7QGRgL4</description>
+      <content:encoded>Pop star @Grimezsz isn’t afraid of AI. In fact, she recently released a tool that makes it easy for anyone to clone her voice. 
+
+Learn more in #TheBatch: https://t.co/8wA7QGRgL4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1664625408828997632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 13:29:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>This week on the #SciencePodcast🎙️, @mhc205 talks with @RoopeKaaronen about how and why cultures use body-based measurements, such as arm lengths and hand spans. 
+
+🎧 Listen to this segment and more: https://t.co/jPy65llLUG https://t.co/nvu0NoUj6u</title>
+      <link>https://twitter.com/ScienceMagazine/status/1664625487790874626</link>
+      <description>This week on the #SciencePodcast🎙️, @mhc205 talks with @RoopeKaaronen about how and why cultures use body-based measurements, such as arm lengths and hand spans. 
+
+🎧 Listen to this segment and more: https://t.co/jPy65llLUG https://t.co/nvu0NoUj6u</description>
+      <content:encoded>This week on the #SciencePodcast🎙️, @mhc205 talks with @RoopeKaaronen about how and why cultures use body-based measurements, such as arm lengths and hand spans. 
+
+🎧 Listen to this segment and more: https://t.co/jPy65llLUG https://t.co/nvu0NoUj6u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1664625487790874626"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664625452672069634/pu/img/xQCAz8AAgBSIm1VD.jpg" length="1080" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 13:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>let's put some shoes on this headline!
+
+("A lie travels around the globe while the truth is putting on its shoes.") https://t.co/dQn1EXVNpL</title>
+      <link>https://twitter.com/TonyZador/status/1664625779093667843</link>
+      <description>let's put some shoes on this headline!
+
+("A lie travels around the globe while the truth is putting on its shoes.") https://t.co/dQn1EXVNpL</description>
+      <content:encoded>let's put some shoes on this headline!
+
+("A lie travels around the globe while the truth is putting on its shoes.") https://t.co/dQn1EXVNpL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1664625779093667843"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 13:31:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>The not so optimistic bottom line: no path to causality! https://t.co/M4U0O7PIZi</title>
+      <link>https://twitter.com/PessoaBrain/status/1664626032081608705</link>
+      <description>The not so optimistic bottom line: no path to causality! https://t.co/M4U0O7PIZi</description>
+      <content:encoded>The not so optimistic bottom line: no path to causality! https://t.co/M4U0O7PIZi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1664626032081608705"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxnwjdZaUAEqrhr.jpg" length="900" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 13:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our paper on the interaction of Paramecium with obstacles is out:
+
+https://t.co/eKeqHMSdY2
+
+It's an empirical analysis of what Paramecium, the "swimming neuron", does when it encounters an obstacle: slide, swim backward (spike), slide then swim backward (spike).</title>
+      <link>https://twitter.com/RomainBrette/status/1664627418450083840</link>
+      <description>Our paper on the interaction of Paramecium with obstacles is out:
+
+https://t.co/eKeqHMSdY2
+
+It's an empirical analysis of what Paramecium, the "swimming neuron", does when it encounters an obstacle: slide, swim backward (spike), slide then swim backward (spike).</description>
+      <content:encoded>Our paper on the interaction of Paramecium with obstacles is out:
+
+https://t.co/eKeqHMSdY2
+
+It's an empirical analysis of what Paramecium, the "swimming neuron", does when it encounters an obstacle: slide, swim backward (spike), slide then swim backward (spike).&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/RomainBrette/status/1664627418450083840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 13:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>A world of languages - and how many speak them 
+
+[source, HD, read more: https://t.co/goSX1GKWQ4] https://t.co/BLUTV5PexQ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664627929182003200</link>
+      <description>A world of languages - and how many speak them 
+
+[source, HD, read more: https://t.co/goSX1GKWQ4] https://t.co/BLUTV5PexQ</description>
+      <content:encoded>A world of languages - and how many speak them 
+
+[source, HD, read more: https://t.co/goSX1GKWQ4] https://t.co/BLUTV5PexQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664627929182003200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxi1ytJakAADxLB.jpg" length="426" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 13:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>X</title>
+      <link>https://twitter.com/elonmusk/status/1664627982638407687</link>
+      <description>X</description>
+      <content:encoded>X&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1664627982638407687"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 13:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Konrad still: https://t.co/3Ohh4wY8L4</title>
+      <link>https://twitter.com/PessoaBrain/status/1664629607356682240</link>
+      <description>Konrad still: https://t.co/3Ohh4wY8L4</description>
+      <content:encoded>Konrad still: https://t.co/3Ohh4wY8L4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1664629607356682240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxnzzkPaYAEUEOo.jpg" length="900" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 13:46:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SciLifeLab_DC: Check out the latest #opendata item in @scilifelab Data Repository!
+
+This item includes the recording and slides from of…</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1664630201467240451</link>
+      <description>RT @SciLifeLab_DC: Check out the latest #opendata item in @scilifelab Data Repository!
+
+This item includes the recording and slides from of…</description>
+      <content:encoded>RT @SciLifeLab_DC: Check out the latest #opendata item in @scilifelab Data Repository!
+
+This item includes the recording and slides from of…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1664630201467240451"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 13:49:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why is causality hard? https://t.co/GJIQi9R0IN</title>
+      <link>https://twitter.com/PessoaBrain/status/1664632345058500610</link>
+      <description>Why is causality hard? https://t.co/GJIQi9R0IN</description>
+      <content:encoded>Why is causality hard? https://t.co/GJIQi9R0IN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1664632345058500610"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxn2S7yXsAQexh9.jpg" length="900" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 13:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>How different the Moon looks if seen from the Northern and the Southern Hemisphere 
+
+[source: https://t.co/yujf1yiiax] https://t.co/kVq3LGvVrE</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664632967535394816</link>
+      <description>How different the Moon looks if seen from the Northern and the Southern Hemisphere 
+
+[source: https://t.co/yujf1yiiax] https://t.co/kVq3LGvVrE</description>
+      <content:encoded>How different the Moon looks if seen from the Northern and the Southern Hemisphere 
+
+[source: https://t.co/yujf1yiiax] https://t.co/kVq3LGvVrE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664632967535394816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxi17_KaEAEU8O_.jpg" length="639" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 14:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>System 002/C at 26° 54.5’ N / 138° 53.5’ W on May 17th, 2023. https://t.co/7JJcVNxFtr</title>
+      <link>https://twitter.com/TheOceanCleanup/status/1664633322830540809</link>
+      <description>System 002/C at 26° 54.5’ N / 138° 53.5’ W on May 17th, 2023. https://t.co/7JJcVNxFtr</description>
+      <content:encoded>System 002/C at 26° 54.5’ N / 138° 53.5’ W on May 17th, 2023. https://t.co/7JJcVNxFtr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheOceanCleanup/status/1664633322830540809"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxn3Li6WYAMsjUI.jpg" length="1070" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 14:01:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>You are welcome here. https://t.co/b1kkcEZGeG https://t.co/XGJWyqyGAe</title>
+      <link>https://twitter.com/MIT/status/1664634293031694337</link>
+      <description>You are welcome here. https://t.co/b1kkcEZGeG https://t.co/XGJWyqyGAe</description>
+      <content:encoded>You are welcome here. https://t.co/b1kkcEZGeG https://t.co/XGJWyqyGAe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1664634293031694337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxn4EX6X0AEYa0x.jpg" length="1080" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 14:05:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Timothy0Leary: Can someone please explain to me why editors at top journals can tell me that "in silico" work on neural circuits is not…</title>
+      <link>https://twitter.com/neuralengine/status/1664634476234784774</link>
+      <description>RT @Timothy0Leary: Can someone please explain to me why editors at top journals can tell me that "in silico" work on neural circuits is not…</description>
+      <content:encoded>RT @Timothy0Leary: Can someone please explain to me why editors at top journals can tell me that "in silico" work on neural circuits is not…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1664634476234784774"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 02 Jun 2023 14:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis of 24 types of human cancer provides new insights into patterns of gene-expression variability. This tumour heterogeneity might provide clues about cancer that has clinical relevance. https://t.co/5USN2BUZJd https://t.co/ZW0SI6hTaf</title>
+      <link>https://twitter.com/NatureNV/status/1664636223149813763</link>
+      <description>Analysis of 24 types of human cancer provides new insights into patterns of gene-expression variability. This tumour heterogeneity might provide clues about cancer that has clinical relevance. https://t.co/5USN2BUZJd https://t.co/ZW0SI6hTaf</description>
+      <content:encoded>Analysis of 24 types of human cancer provides new insights into patterns of gene-expression variability. This tumour heterogeneity might provide clues about cancer that has clinical relevance. https://t.co/5USN2BUZJd https://t.co/ZW0SI6hTaf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1664636223149813763"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxn50sxWIAEgsaa.jpg" length="1024" type="photo"/>
+      <pubDate>Fri, 02 Jun 2023 14:12:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
