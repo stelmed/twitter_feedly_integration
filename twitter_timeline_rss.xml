@@ -6,23 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jun 2023 02:46:21 +0000</lastBuildDate>
-    <item>
-      <title>Did you know that in order to transmit DNA to our descendants, our DNA strings get shuffled? This involves breaking and repairing the DNA. The "Broken Genome" project tries to better understand this process. https://t.co/EAiVNAFoAv</title>
-      <link>https://twitter.com/ERC_Research/status/1664578972691189762</link>
-      <description>Did you know that in order to transmit DNA to our descendants, our DNA strings get shuffled? This involves breaking and repairing the DNA. The "Broken Genome" project tries to better understand this process. https://t.co/EAiVNAFoAv</description>
-      <content:encoded>Did you know that in order to transmit DNA to our descendants, our DNA strings get shuffled? This involves breaking and repairing the DNA. The "Broken Genome" project tries to better understand this process. https://t.co/EAiVNAFoAv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1664578972691189762"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxnB_SdWYAMBFoI.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 02 Jun 2023 10:25:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>The lab is located in Belgium at @UCLouvain_be and its research group comes from countries such as 🇧🇪Belgium, 🇫🇷France, 🇪🇸Spain, 🇮🇳India, 🇱🇧Lebanon and 🇨🇳China. https://t.co/XbldaDsim5</title>
-      <link>https://twitter.com/ERC_Research/status/1664578976633831426</link>
-      <description>The lab is located in Belgium at @UCLouvain_be and its research group comes from countries such as 🇧🇪Belgium, 🇫🇷France, 🇪🇸Spain, 🇮🇳India, 🇱🇧Lebanon and 🇨🇳China. https://t.co/XbldaDsim5</description>
-      <content:encoded>The lab is located in Belgium at @UCLouvain_be and its research group comes from countries such as 🇧🇪Belgium, 🇫🇷France, 🇪🇸Spain, 🇮🇳India, 🇱🇧Lebanon and 🇨🇳China. https://t.co/XbldaDsim5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1664578976633831426"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxnFYZvXwAAki5v.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 02 Jun 2023 10:25:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jun 2023 03:15:47 +0000</lastBuildDate>
     <item>
       <title>Research from the Claeys Bouuaert Lab could improve our understanding of DNA repair, and could also lead to a better understanding of fertility disorders.
 
@@ -1063,13 +1047,6 @@ In this paper, we’ve discovered a new…&lt;blockquote class="twitter-tweet"&g
       <description>The @humancellatlas aims to map every cell type in the human body– but we don’t know how many there are. The answer is turning out to be a lot more than scientists once thought https://t.co/8UOboKfsjQ</description>
       <content:encoded>The @humancellatlas aims to map every cell type in the human body– but we don’t know how many there are. The answer is turning out to be a lot more than scientists once thought https://t.co/8UOboKfsjQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1664663745295966210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 02 Jun 2023 16:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JakeYeston: This week, in a @ScienceMagazine study that hearkens back to my own 25-year-old(!) graduate work, Philippe Wernet and colla…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1664664795709153289</link>
-      <description>RT @JakeYeston: This week, in a @ScienceMagazine study that hearkens back to my own 25-year-old(!) graduate work, Philippe Wernet and colla…</description>
-      <content:encoded>RT @JakeYeston: This week, in a @ScienceMagazine study that hearkens back to my own 25-year-old(!) graduate work, Philippe Wernet and colla…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1664664795709153289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 02 Jun 2023 16:06:29 +0000</pubDate>
     </item>
     <item>
       <title>RT @RoopeKaaronen: Our research article on body-based units of measure and the evolution of measurement systems was published in @ScienceMa…</title>
@@ -2138,6 +2115,34 @@ This study aimed to investigate the feasibility of Transcranial Doppler… #Neur
       <description>Biophysical and sociopolitical factors have been integrated into a set of measures of planetary change that aim to pinpoint safe and just thresholds for all living things https://t.co/4G4TxuhnEG</description>
       <content:encoded>Biophysical and sociopolitical factors have been integrated into a set of measures of planetary change that aim to pinpoint safe and just thresholds for all living things https://t.co/4G4TxuhnEG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1664822944403423234"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 03 Jun 2023 02:34:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recent work on modular reconfiguration of #DNAorigami assemblies could be used to inform the development of molecular robots.
+
+Learn more in @SciRobotics: https://t.co/eJcVmZtwki https://t.co/uOAP6KzKB2</title>
+      <link>https://twitter.com/ScienceMagazine/status/1664829281539686400</link>
+      <description>Recent work on modular reconfiguration of #DNAorigami assemblies could be used to inform the development of molecular robots.
+
+Learn more in @SciRobotics: https://t.co/eJcVmZtwki https://t.co/uOAP6KzKB2</description>
+      <content:encoded>Recent work on modular reconfiguration of #DNAorigami assemblies could be used to inform the development of molecular robots.
+
+Learn more in @SciRobotics: https://t.co/eJcVmZtwki https://t.co/uOAP6KzKB2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1664829281539686400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxqpaJJXsAA1OzR.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 03 Jun 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dagan Shani has IMHO made the most important film of the year -  about the harsh #AI truth: https://t.co/Ajshj0MyQe</title>
+      <link>https://twitter.com/tegmark/status/1664830152193323008</link>
+      <description>Dagan Shani has IMHO made the most important film of the year -  about the harsh #AI truth: https://t.co/Ajshj0MyQe</description>
+      <content:encoded>Dagan Shani has IMHO made the most important film of the year -  about the harsh #AI truth: https://t.co/Ajshj0MyQe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1664830152193323008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 03 Jun 2023 03:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experience is the greatest teacher.</title>
+      <link>https://twitter.com/MichaelGalanin/status/1664831051200446466</link>
+      <description>Experience is the greatest teacher.</description>
+      <content:encoded>Experience is the greatest teacher.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1664831051200446466"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 03 Jun 2023 03:07:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
