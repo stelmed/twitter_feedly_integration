@@ -6,57 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jun 2023 09:13:54 +0000</lastBuildDate>
-    <item>
-      <title>RT @pcastr: An excellent interview with @kchonyc on this current phenomenon we're experiencing of AI doomerism and heroism.
-I agree with pr…</title>
-      <link>https://twitter.com/tyrell_turing/status/1664622669604478976</link>
-      <description>RT @pcastr: An excellent interview with @kchonyc on this current phenomenon we're experiencing of AI doomerism and heroism.
-I agree with pr…</description>
-      <content:encoded>RT @pcastr: An excellent interview with @kchonyc on this current phenomenon we're experiencing of AI doomerism and heroism.
-I agree with pr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1664622669604478976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 02 Jun 2023 13:19:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The zeptosecond is a unit of time equal to 0.000 000 000 000 000 000 001 seconds, that is, 10⁻²¹ seconds: it's the smallest sliver of time yet measured and corresponds to the amount of time it takes for the electron to be ejected after the photon strike https://t.co/wWQ6xEvCLP https://t.co/i0waSKUjrf</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664622896155639808</link>
-      <description>The zeptosecond is a unit of time equal to 0.000 000 000 000 000 000 001 seconds, that is, 10⁻²¹ seconds: it's the smallest sliver of time yet measured and corresponds to the amount of time it takes for the electron to be ejected after the photon strike https://t.co/wWQ6xEvCLP https://t.co/i0waSKUjrf</description>
-      <content:encoded>The zeptosecond is a unit of time equal to 0.000 000 000 000 000 000 001 seconds, that is, 10⁻²¹ seconds: it's the smallest sliver of time yet measured and corresponds to the amount of time it takes for the electron to be ejected after the photon strike https://t.co/wWQ6xEvCLP https://t.co/i0waSKUjrf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664622896155639808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxi1hxwaEAsdEmM.jpg" length="680" type="photo"/>
-      <pubDate>Fri, 02 Jun 2023 13:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is your university or institution looking to find the right candidate for a #research or #postdoc role? You can post your position on the Scientifica website 
-https://t.co/9RUWKuJ8mR
-#researchjobs #electrophysiology #neuroscience https://t.co/2mADMi2YU7</title>
-      <link>https://twitter.com/Scientifica_Int/status/1664622903650922496</link>
-      <description>Is your university or institution looking to find the right candidate for a #research or #postdoc role? You can post your position on the Scientifica website 
-https://t.co/9RUWKuJ8mR
-#researchjobs #electrophysiology #neuroscience https://t.co/2mADMi2YU7</description>
-      <content:encoded>Is your university or institution looking to find the right candidate for a #research or #postdoc role? You can post your position on the Scientifica website 
-https://t.co/9RUWKuJ8mR
-#researchjobs #electrophysiology #neuroscience https://t.co/2mADMi2YU7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1664622903650922496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxnttQFWAAANJyP.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 02 Jun 2023 13:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NSB_MBL: The calm before the storm. So much work is happening behind the scenes to get ready. NS&amp;amp;B 2024 coming soon! https://t.co/yXLte…</title>
-      <link>https://twitter.com/ewadorotaz/status/1664622924656005121</link>
-      <description>RT @NSB_MBL: The calm before the storm. So much work is happening behind the scenes to get ready. NS&amp;amp;B 2024 coming soon! https://t.co/yXLte…</description>
-      <content:encoded>RT @NSB_MBL: The calm before the storm. So much work is happening behind the scenes to get ready. NS&amp;amp;B 2024 coming soon! https://t.co/yXLte…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1664622924656005121"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 02 Jun 2023 13:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Summer seminars in neuroscience and philosophy at Duke University!
-Now Konrad Kording https://t.co/LMTTXshtlq</title>
-      <link>https://twitter.com/PessoaBrain/status/1664623067249745920</link>
-      <description>Summer seminars in neuroscience and philosophy at Duke University!
-Now Konrad Kording https://t.co/LMTTXshtlq</description>
-      <content:encoded>Summer seminars in neuroscience and philosophy at Duke University!
-Now Konrad Kording https://t.co/LMTTXshtlq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1664623067249745920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxnscuUWAAA0XPc.jpg" length="900" type="photo"/>
-      <pubDate>Fri, 02 Jun 2023 13:20:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jun 2023 10:15:41 +0000</lastBuildDate>
     <item>
       <title>Lesion studies can be misleading https://t.co/SBIFziJ6zP</title>
       <link>https://twitter.com/PessoaBrain/status/1664623538056093699</link>
@@ -1514,14 +1464,6 @@ The results offer a new perspective on neuronal networks and neurotransmission. 
       <pubDate>Fri, 02 Jun 2023 21:08:16 +0000</pubDate>
     </item>
     <item>
-      <title>https://t.co/RcSSEN38FI</title>
-      <link>https://twitter.com/elonmusk/status/1664742794135470083</link>
-      <description>https://t.co/RcSSEN38FI</description>
-      <content:encoded>https://t.co/RcSSEN38FI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1664742794135470083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxpav4lXwAUOjyI.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 02 Jun 2023 21:16:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Maybe it already has? 🤷‍♂️ https://t.co/19E6B77kJl</title>
       <link>https://twitter.com/AndrewHires/status/1664755194075430912</link>
       <description>Maybe it already has? 🤷‍♂️ https://t.co/19E6B77kJl</description>
@@ -2097,6 +2039,71 @@ https://t.co/14XJ4zqybu</description>
 https://t.co/14XJ4zqybu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664918072270962690"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1543579495441043457/pu/img/yTro8ddopWkUVzrn.jpg" length="406" type="photo"/>
       <pubDate>Sat, 03 Jun 2023 08:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a visualization of photosynthesis: photons of red and blue light are absorbed: the energy is used to strip electrons from water, breaking the molecule into oxygen and hydrogen
+
+[full video by https://t.co/sT1spXjNgG: https://t.co/YfGCyRnnjB]
+https://t.co/N1YIonQdss</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664923488862236673</link>
+      <description>This is a visualization of photosynthesis: photons of red and blue light are absorbed: the energy is used to strip electrons from water, breaking the molecule into oxygen and hydrogen
+
+[full video by https://t.co/sT1spXjNgG: https://t.co/YfGCyRnnjB]
+https://t.co/N1YIonQdss</description>
+      <content:encoded>This is a visualization of photosynthesis: photons of red and blue light are absorbed: the energy is used to strip electrons from water, breaking the molecule into oxygen and hydrogen
+
+[full video by https://t.co/sT1spXjNgG: https://t.co/YfGCyRnnjB]
+https://t.co/N1YIonQdss&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664923488862236673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1229090913034657793/pu/img/LZXAURmK8_Ix49cK.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 03 Jun 2023 09:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dendritic voltage imaging reveals biophysical basis of associative plasticity rules  https://t.co/q3sFx3RHVM #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1664923783495311361</link>
+      <description>Dendritic voltage imaging reveals biophysical basis of associative plasticity rules  https://t.co/q3sFx3RHVM #biorxiv_neursci</description>
+      <content:encoded>Dendritic voltage imaging reveals biophysical basis of associative plasticity rules  https://t.co/q3sFx3RHVM #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1664923783495311361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 03 Jun 2023 09:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PierreY83952112: Francesca Sargolini is looking for a PhD student to work on a head direction cell project . I would love to apply but…</title>
+      <link>https://twitter.com/AndrejBicanski/status/1664928686758322177</link>
+      <description>RT @PierreY83952112: Francesca Sargolini is looking for a PhD student to work on a head direction cell project . I would love to apply but…</description>
+      <content:encoded>RT @PierreY83952112: Francesca Sargolini is looking for a PhD student to work on a head direction cell project . I would love to apply but…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrejBicanski/status/1664928686758322177"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 03 Jun 2023 09:35:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conceived by Theo Cook, the "impossible" Japanese sunrise dovetail joint is kind of a challenge to the eye, but it works effectively to connect wooden parts 
+
+[read more, video by Wood Review TV: https://t.co/og0R1EExUQ]
+https://t.co/jOVeFmjAjv</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664929984568348673</link>
+      <description>Conceived by Theo Cook, the "impossible" Japanese sunrise dovetail joint is kind of a challenge to the eye, but it works effectively to connect wooden parts 
+
+[read more, video by Wood Review TV: https://t.co/og0R1EExUQ]
+https://t.co/jOVeFmjAjv</description>
+      <content:encoded>Conceived by Theo Cook, the "impossible" Japanese sunrise dovetail joint is kind of a challenge to the eye, but it works effectively to connect wooden parts 
+
+[read more, video by Wood Review TV: https://t.co/og0R1EExUQ]
+https://t.co/jOVeFmjAjv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664929984568348673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FWwi_EuXwAE5blo.jpg" length="480" type="photo"/>
+      <pubDate>Sat, 03 Jun 2023 09:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Termite queens have the longest known lifespan of any insect, with some queens reportedly living up to 30 to 50 years. A large queen may lay more than 1000 eggs per day
+
+[read more: https://t.co/Duyga4upc0]
+https://t.co/vBw2fduxg6</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664936710038253569</link>
+      <description>Termite queens have the longest known lifespan of any insect, with some queens reportedly living up to 30 to 50 years. A large queen may lay more than 1000 eggs per day
+
+[read more: https://t.co/Duyga4upc0]
+https://t.co/vBw2fduxg6</description>
+      <content:encoded>Termite queens have the longest known lifespan of any insect, with some queens reportedly living up to 30 to 50 years. A large queen may lay more than 1000 eggs per day
+
+[read more: https://t.co/Duyga4upc0]
+https://t.co/vBw2fduxg6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664936710038253569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1500162161577975817/pu/img/WQMpUreg6BOyOOxd.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 03 Jun 2023 10:06:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
