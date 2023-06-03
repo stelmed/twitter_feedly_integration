@@ -6,55 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jun 2023 05:14:14 +0000</lastBuildDate>
-    <item>
-      <title>Have an idea for
-@SPARC_science's summer codeathon? Submit it by Jun 8!
-
-FYI there's a prize pool of US$50,000💰
-
-📅Proposals due: Jun 8
-📅2023 SPARC FAIR Codeathon: Aug 5-7
-
-Learn more: https://t.co/00u1BVBdbe
-
-#FAIR #FAIRData #OpenScience #neuroscience #neuroinformatics https://t.co/MoMMhRnWvY</title>
-      <link>https://twitter.com/INCForg/status/1664592697192071171</link>
-      <description>Have an idea for
-@SPARC_science's summer codeathon? Submit it by Jun 8!
-
-FYI there's a prize pool of US$50,000💰
-
-📅Proposals due: Jun 8
-📅2023 SPARC FAIR Codeathon: Aug 5-7
-
-Learn more: https://t.co/00u1BVBdbe
-
-#FAIR #FAIRData #OpenScience #neuroscience #neuroinformatics https://t.co/MoMMhRnWvY</description>
-      <content:encoded>Have an idea for
-@SPARC_science's summer codeathon? Submit it by Jun 8!
-
-FYI there's a prize pool of US$50,000💰
-
-📅Proposals due: Jun 8
-📅2023 SPARC FAIR Codeathon: Aug 5-7
-
-Learn more: https://t.co/00u1BVBdbe
-
-#FAIR #FAIRData #OpenScience #neuroscience #neuroinformatics https://t.co/MoMMhRnWvY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1664592697192071171"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fw1DOpQXwA8uF_4.png" length="584" type="photo"/>
-      <pubDate>Fri, 02 Jun 2023 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ElDuvelle: Neuroscientists: are you looking for a place to ask (or answer) questions about methods in neuroscience? 
-Come and join the…</title>
-      <link>https://twitter.com/trose_neuro/status/1664593983652220929</link>
-      <description>RT @ElDuvelle: Neuroscientists: are you looking for a place to ask (or answer) questions about methods in neuroscience? 
-Come and join the…</description>
-      <content:encoded>RT @ElDuvelle: Neuroscientists: are you looking for a place to ask (or answer) questions about methods in neuroscience? 
-Come and join the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trose_neuro/status/1664593983652220929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 02 Jun 2023 11:25:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jun 2023 06:19:27 +0000</lastBuildDate>
     <item>
       <title>RT @matosman: At Swedish immigration, the border guy says, ‘Bass player, huh? Pick or fingers?’
 Me: ‘Pick, at the moment’
@@ -2121,6 +2073,30 @@ G…</description>
 Bug fixes, more robust, more options, more LLMs support, and improved UI.
 G…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1664861011625779200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 03 Jun 2023 05:06:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>58 years ago #Today, Ed White became the first American to perform a spacewalk during the Gemini IV mission
+
+[video: https://t.co/xrpjNZZgfG]
+https://t.co/cbPQl3xoLw</title>
+      <link>https://twitter.com/Rainmaker1973/status/1664876994620735491</link>
+      <description>58 years ago #Today, Ed White became the first American to perform a spacewalk during the Gemini IV mission
+
+[video: https://t.co/xrpjNZZgfG]
+https://t.co/cbPQl3xoLw</description>
+      <content:encoded>58 years ago #Today, Ed White became the first American to perform a spacewalk during the Gemini IV mission
+
+[video: https://t.co/xrpjNZZgfG]
+https://t.co/cbPQl3xoLw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664876994620735491"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1532752068338978816/pu/img/VZVHQ6Mst-_69k0r.jpg" length="480" type="photo"/>
+      <pubDate>Sat, 03 Jun 2023 06:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electrophysiological correlates of (mis)judging social information  https://t.co/tL0hai3DKc #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1664878415898345472</link>
+      <description>Electrophysiological correlates of (mis)judging social information  https://t.co/tL0hai3DKc #biorxiv_neursci</description>
+      <content:encoded>Electrophysiological correlates of (mis)judging social information  https://t.co/tL0hai3DKc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1664878415898345472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 03 Jun 2023 06:15:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
