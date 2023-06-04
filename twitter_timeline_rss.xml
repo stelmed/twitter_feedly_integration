@@ -6,38 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 21:13:23 +0000</lastBuildDate>
-    <item>
-      <title>RT @KafuiDzirasa: I'm now a Full Professor. That's it. That's the tweet.</title>
-      <link>https://twitter.com/ruimcosta/status/1664995487794049024</link>
-      <description>RT @KafuiDzirasa: I'm now a Full Professor. That's it. That's the tweet.</description>
-      <content:encoded>RT @KafuiDzirasa: I'm now a Full Professor. That's it. That's the tweet.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1664995487794049024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 14:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spacious, stable and and versatile, the Scientifica SlicePlatform is ideal for long-term #electrophysiology experiments and can easily be integrated into your existing upright microscope setup.
-https://t.co/Y2WVnRUyb8 https://t.co/pRUJVhxqpE</title>
-      <link>https://twitter.com/Scientifica_Int/status/1664995602197774338</link>
-      <description>Spacious, stable and and versatile, the Scientifica SlicePlatform is ideal for long-term #electrophysiology experiments and can easily be integrated into your existing upright microscope setup.
-https://t.co/Y2WVnRUyb8 https://t.co/pRUJVhxqpE</description>
-      <content:encoded>Spacious, stable and and versatile, the Scientifica SlicePlatform is ideal for long-term #electrophysiology experiments and can easily be integrated into your existing upright microscope setup.
-https://t.co/Y2WVnRUyb8 https://t.co/pRUJVhxqpE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1664995602197774338"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxtArQzXoAAOXfo.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @TrackingActions: 🥳 @akaijsa &amp;amp; @pranavm42 et al introduce task-driven modelling of the proprioceptive system, now out in @eLife!
-
-Our wo…</title>
-      <link>https://twitter.com/ruimcosta/status/1664996835751018497</link>
-      <description>RT @TrackingActions: 🥳 @akaijsa &amp;amp; @pranavm42 et al introduce task-driven modelling of the proprioceptive system, now out in @eLife!
-
-Our wo…</description>
-      <content:encoded>RT @TrackingActions: 🥳 @akaijsa &amp;amp; @pranavm42 et al introduce task-driven modelling of the proprioceptive system, now out in @eLife!
-
-Our wo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1664996835751018497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 14:05:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 22:14:04 +0000</lastBuildDate>
     <item>
       <title>RT @albarran_neuro: Endocannabinoids are powerful synaptic modulators, but there's so much we don't know about how they signal. Here we sho…</title>
       <link>https://twitter.com/ruimcosta/status/1664997351830982657</link>
@@ -2179,6 +2148,31 @@ Submit a poster: https://t.co/34eUbMGj6U https://t.co/iqdBy2ISkN&lt;blockquote c
       <content:encoded>A study in @NatureMedicine shows that using polygenic scores to account for variability in PSA levels improves detection of prostate cancer, suggesting an approach for enhancing screening accuracy. https://t.co/S1IKV2pMFS https://t.co/jqgXWpPGPZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1665460939670319105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fxzn4a1XgAA07Ty.jpg" length="1000" type="photo"/>
       <pubDate>Sun, 04 Jun 2023 20:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @EliSennesh: You know guys I'm really starting to think dopamine doesn't primarily encode "reward" and we should ABOLISH THE VALUE FUNCT…</title>
+      <link>https://twitter.com/koen_vervaeke/status/1665468040425660417</link>
+      <description>RT @EliSennesh: You know guys I'm really starting to think dopamine doesn't primarily encode "reward" and we should ABOLISH THE VALUE FUNCT…</description>
+      <content:encoded>RT @EliSennesh: You know guys I'm really starting to think dopamine doesn't primarily encode "reward" and we should ABOLISH THE VALUE FUNCT…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/koen_vervaeke/status/1665468040425660417"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 21:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Direct-print three-dimensional electrodes for large-scale, high-density, and customizable neural interfaces
+https://t.co/jZhrhRbJoB https://t.co/FEOiMv3YNm</title>
+      <link>https://twitter.com/gottapatchemall/status/1665468771845173248</link>
+      <description>Direct-print three-dimensional electrodes for large-scale, high-density, and customizable neural interfaces
+https://t.co/jZhrhRbJoB https://t.co/FEOiMv3YNm</description>
+      <content:encoded>Direct-print three-dimensional electrodes for large-scale, high-density, and customizable neural interfaces
+https://t.co/jZhrhRbJoB https://t.co/FEOiMv3YNm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1665468771845173248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxzuxnzaUAADE2z.png" length="757" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 21:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @matthewcobb: Even C elegans with just a few neurons for a brain needs to sleep in order to remember things. https://t.co/mGS804MEH1</title>
+      <link>https://twitter.com/PessoaBrain/status/1665468859443302400</link>
+      <description>RT @matthewcobb: Even C elegans with just a few neurons for a brain needs to sleep in order to remember things. https://t.co/mGS804MEH1</description>
+      <content:encoded>RT @matthewcobb: Even C elegans with just a few neurons for a brain needs to sleep in order to remember things. https://t.co/mGS804MEH1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1665468859443302400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 21:21:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
