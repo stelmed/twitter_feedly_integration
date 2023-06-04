@@ -6,53 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 06:19:19 +0000</lastBuildDate>
-    <item>
-      <title>RT @yaksi_emre: What a pleasure to have Prof Hitoshi Okamoto of @RIKEN_CBS to visit our lab and @KISNeuro @NTNUnorway . Thank you for the f…</title>
-      <link>https://twitter.com/KISNeuro/status/1664892607829274624</link>
-      <description>RT @yaksi_emre: What a pleasure to have Prof Hitoshi Okamoto of @RIKEN_CBS to visit our lab and @KISNeuro @NTNUnorway . Thank you for the f…</description>
-      <content:encoded>RT @yaksi_emre: What a pleasure to have Prof Hitoshi Okamoto of @RIKEN_CBS to visit our lab and @KISNeuro @NTNUnorway . Thank you for the f…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1664892607829274624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 07:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MaxNigro_Neuro: It was a pleasure to host Dr Hitoshi Okamoto for the Institute Seminar Series @KISNeuro https://t.co/cTIyC9Ygp2</title>
-      <link>https://twitter.com/KISNeuro/status/1664892647436107777</link>
-      <description>RT @MaxNigro_Neuro: It was a pleasure to host Dr Hitoshi Okamoto for the Institute Seminar Series @KISNeuro https://t.co/cTIyC9Ygp2</description>
-      <content:encoded>RT @MaxNigro_Neuro: It was a pleasure to host Dr Hitoshi Okamoto for the Institute Seminar Series @KISNeuro https://t.co/cTIyC9Ygp2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1664892647436107777"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxo1TCcX0AQoZKZ.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 07:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MatGuardamagna: We have a new preprint (from my PhD @battaglialab) w/ Kentros lab (@OscarChadney)! We explore CA1 circuit dynamics comb…</title>
-      <link>https://twitter.com/KISNeuro/status/1664892899740319745</link>
-      <description>RT @MatGuardamagna: We have a new preprint (from my PhD @battaglialab) w/ Kentros lab (@OscarChadney)! We explore CA1 circuit dynamics comb…</description>
-      <content:encoded>RT @MatGuardamagna: We have a new preprint (from my PhD @battaglialab) w/ Kentros lab (@OscarChadney)! We explore CA1 circuit dynamics comb…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1664892899740319745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 07:12:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is a set of intertwined and motorized Möbius gears
-
-[source, u/elmins: https://t.co/UvVNJW2Cgd]
-https://t.co/Zjb2FZbH86</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664893509193678849</link>
-      <description>This is a set of intertwined and motorized Möbius gears
-
-[source, u/elmins: https://t.co/UvVNJW2Cgd]
-https://t.co/Zjb2FZbH86</description>
-      <content:encoded>This is a set of intertwined and motorized Möbius gears
-
-[source, u/elmins: https://t.co/UvVNJW2Cgd]
-https://t.co/Zjb2FZbH86&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664893509193678849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FWurxIFXoAAluh3.jpg" length="360" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 07:15:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multimodal analysis of neuronal maturation in the developing primate prefrontal cortex  https://t.co/x5cWWx4yid #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1664893584271630336</link>
-      <description>Multimodal analysis of neuronal maturation in the developing primate prefrontal cortex  https://t.co/x5cWWx4yid #biorxiv_neursci</description>
-      <content:encoded>Multimodal analysis of neuronal maturation in the developing primate prefrontal cortex  https://t.co/x5cWWx4yid #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1664893584271630336"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 07:15:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 07:14:16 +0000</lastBuildDate>
     <item>
       <title>A structural model of the core of cilia https://t.co/GDkMDHeVgX</title>
       <link>https://twitter.com/NatureNV/status/1664898132314923013</link>
@@ -2071,6 +2025,101 @@ Learn more: https://t.co/yAPUqrLtWz
 #neuroscience #neuroinformatics https://t.co/gLhykY1LRQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1665234173572055043"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxEeJl0XwBcWdz9.jpg" length="500" type="photo"/>
       <pubDate>Sun, 04 Jun 2023 05:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Sun can sometimes explode into violence on a scale that boggles the mind. Like 77 years ago #Today, when the Great Eruptive Prominence was observed on the Sun
+
+[read more: https://t.co/A1XZREYnpY]
+https://t.co/XjMBU9chcl</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665242214727839744</link>
+      <description>Our Sun can sometimes explode into violence on a scale that boggles the mind. Like 77 years ago #Today, when the Great Eruptive Prominence was observed on the Sun
+
+[read more: https://t.co/A1XZREYnpY]
+https://t.co/XjMBU9chcl</description>
+      <content:encoded>Our Sun can sometimes explode into violence on a scale that boggles the mind. Like 77 years ago #Today, when the Great Eruptive Prominence was observed on the Sun
+
+[read more: https://t.co/A1XZREYnpY]
+https://t.co/XjMBU9chcl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665242214727839744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1532983752950947840/pu/img/xcfN0jl6D_NokZHs.jpg" length="640" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 06:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>86 years ago #Today (1937), the first shopping carts were introduced in Oklahoma City, invented by Sylvan Goldman
+
+[read more: https://t.co/9YkkF55Vgt] https://t.co/tQNXZVta3V</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665244058950815745</link>
+      <description>86 years ago #Today (1937), the first shopping carts were introduced in Oklahoma City, invented by Sylvan Goldman
+
+[read more: https://t.co/9YkkF55Vgt] https://t.co/tQNXZVta3V</description>
+      <content:encoded>86 years ago #Today (1937), the first shopping carts were introduced in Oklahoma City, invented by Sylvan Goldman
+
+[read more: https://t.co/9YkkF55Vgt] https://t.co/tQNXZVta3V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665244058950815745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxwin9oXoAANYAw.jpg" length="504" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 06:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Today in 1982, Star Trek II: The Wrath of Khan was released.
+
+[read more: https://t.co/E3JoPkqYNr]
+https://t.co/TApaVKKwx0 https://t.co/JvSypkwdup</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665246914017632256</link>
+      <description>#Today in 1982, Star Trek II: The Wrath of Khan was released.
+
+[read more: https://t.co/E3JoPkqYNr]
+https://t.co/TApaVKKwx0 https://t.co/JvSypkwdup</description>
+      <content:encoded>#Today in 1982, Star Trek II: The Wrath of Khan was released.
+
+[read more: https://t.co/E3JoPkqYNr]
+https://t.co/TApaVKKwx0 https://t.co/JvSypkwdup&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665246914017632256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1435557588356276227/pu/img/W2LyPV8blLoWTNkR.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 06:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>120 years ago #Today, one of the earliest and notable hacking episodes in history took place. Neville Maskelyn hacked a demonstration of the Marconi radio communications system to make the point of security flaws in radio messaging.
+
+[read more: https://t.co/uVzN6opwEQ] https://t.co/9ha3frsbrD</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665247550155239426</link>
+      <description>120 years ago #Today, one of the earliest and notable hacking episodes in history took place. Neville Maskelyn hacked a demonstration of the Marconi radio communications system to make the point of security flaws in radio messaging.
+
+[read more: https://t.co/uVzN6opwEQ] https://t.co/9ha3frsbrD</description>
+      <content:encoded>120 years ago #Today, one of the earliest and notable hacking episodes in history took place. Neville Maskelyn hacked a demonstration of the Marconi radio communications system to make the point of security flaws in radio messaging.
+
+[read more: https://t.co/uVzN6opwEQ] https://t.co/9ha3frsbrD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665247550155239426"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxwlb27WwAA2FUS.jpg" length="360" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 06:42:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PsychScientists: My dreams are utterly unable to make a working phone, to the point where it can derail the dream. I had one last night…</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1665251949329915905</link>
+      <description>RT @PsychScientists: My dreams are utterly unable to make a working phone, to the point where it can derail the dream. I had one last night…</description>
+      <content:encoded>RT @PsychScientists: My dreams are utterly unable to make a working phone, to the point where it can derail the dream. I had one last night…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1665251949329915905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 06:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>We know from the golden ratio formula that 1 + √5 = 2ϕ and from the famous Euler's identity, that eⁱⁿ + 1 = 0.  
+
+Since 1 = 2ϕ - √5, we can also write that eⁱⁿ + 2ϕ - √5 = 0 or eⁱⁿ + 2ϕ = √5
+
+A simple expression relating ϕ, π, i, and e
+
+[source: https://t.co/5gN5TKM5XM] https://t.co/ytNIRFWY87</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665254244226670593</link>
+      <description>We know from the golden ratio formula that 1 + √5 = 2ϕ and from the famous Euler's identity, that eⁱⁿ + 1 = 0.  
+
+Since 1 = 2ϕ - √5, we can also write that eⁱⁿ + 2ϕ - √5 = 0 or eⁱⁿ + 2ϕ = √5
+
+A simple expression relating ϕ, π, i, and e
+
+[source: https://t.co/5gN5TKM5XM] https://t.co/ytNIRFWY87</description>
+      <content:encoded>We know from the golden ratio formula that 1 + √5 = 2ϕ and from the famous Euler's identity, that eⁱⁿ + 1 = 0.  
+
+Since 1 = 2ϕ - √5, we can also write that eⁱⁿ + 2ϕ - √5 = 0 or eⁱⁿ + 2ϕ = √5
+
+A simple expression relating ϕ, π, i, and e
+
+[source: https://t.co/5gN5TKM5XM] https://t.co/ytNIRFWY87&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665254244226670593"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxwryK6XsAAaHZe.jpg" length="608" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 07:08:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
