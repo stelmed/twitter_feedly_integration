@@ -6,38 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 04:18:04 +0000</lastBuildDate>
-    <item>
-      <title>This is a fun way to teach kids place value using a simple hack, using just styrofoam cups to turn them into a DIY math manipulative 
-
-[video by WeAreTeachers: https://t.co/SQmqK5o9Ca]
-https://t.co/jdQAmvLD9l</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664881776676814848</link>
-      <description>This is a fun way to teach kids place value using a simple hack, using just styrofoam cups to turn them into a DIY math manipulative 
-
-[video by WeAreTeachers: https://t.co/SQmqK5o9Ca]
-https://t.co/jdQAmvLD9l</description>
-      <content:encoded>This is a fun way to teach kids place value using a simple hack, using just styrofoam cups to turn them into a DIY math manipulative 
-
-[video by WeAreTeachers: https://t.co/SQmqK5o9Ca]
-https://t.co/jdQAmvLD9l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664881776676814848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FWvl60cXkAE_HuN.jpg" length="600" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 06:28:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>40 years ago #Today, the movie WarGames was released. A fascinating snapshot of Western popular culture in the 1980s, celebrating the home computing pioneering years
-
-[read more: https://t.co/VMe27TcTHP] https://t.co/2m3bGd6qsy https://t.co/x3LfKGRbJP</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664886003323027456</link>
-      <description>40 years ago #Today, the movie WarGames was released. A fascinating snapshot of Western popular culture in the 1980s, celebrating the home computing pioneering years
-
-[read more: https://t.co/VMe27TcTHP] https://t.co/2m3bGd6qsy https://t.co/x3LfKGRbJP</description>
-      <content:encoded>40 years ago #Today, the movie WarGames was released. A fascinating snapshot of Western popular culture in the 1980s, celebrating the home computing pioneering years
-
-[read more: https://t.co/VMe27TcTHP] https://t.co/2m3bGd6qsy https://t.co/x3LfKGRbJP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664886003323027456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fxrc6DzXoAEd0p1.jpg" length="640" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 06:45:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 05:14:52 +0000</lastBuildDate>
     <item>
       <title>#Today in 1982, Game &amp;amp; Watch Multi Screen: Donkey Kong was released: the very first piece of video game hardware to use the now-iconic cross-shaped directional pad
 
@@ -2059,6 +2028,22 @@ Education should be a rewarding experience which allows you to think, imagine, q
 📷: Me for @SuperclusterHQ @elonmusk https://t.co/vUhmnd9ifg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1665196464413241345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxuKrD5XgAAyFL6.jpg" length="1051" type="photo"/>
       <pubDate>Sun, 04 Jun 2023 03:19:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CommanderMLA: Ed White became the first American to perform a spacewalk #OTD in 1965! https://t.co/chOMyD39Q6</title>
+      <link>https://twitter.com/MichaelGalanin/status/1665215976911020033</link>
+      <description>RT @CommanderMLA: Ed White became the first American to perform a spacewalk #OTD in 1965! https://t.co/chOMyD39Q6</description>
+      <content:encoded>RT @CommanderMLA: Ed White became the first American to perform a spacewalk #OTD in 1965! https://t.co/chOMyD39Q6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1665215976911020033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fxt_xexWcAEH_lZ.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 04:36:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/WKYyOlYRzq</title>
+      <link>https://twitter.com/elonmusk/status/1665222486915522564</link>
+      <description>https://t.co/WKYyOlYRzq</description>
+      <content:encoded>https://t.co/WKYyOlYRzq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1665222486915522564"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxwPBq4XoAAzF6p.jpg" length="835" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 05:02:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
