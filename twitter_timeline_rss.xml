@@ -6,43 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 10:16:18 +0000</lastBuildDate>
-    <item>
-      <title>RT @meharpist: How is (large-scale) behavior linked to (large-scale) neural dynamics? a new machine-learning algorithm called CEBRA can pro…</title>
-      <link>https://twitter.com/TrackingActions/status/1664941375824044032</link>
-      <description>RT @meharpist: How is (large-scale) behavior linked to (large-scale) neural dynamics? a new machine-learning algorithm called CEBRA can pro…</description>
-      <content:encoded>RT @meharpist: How is (large-scale) behavior linked to (large-scale) neural dynamics? a new machine-learning algorithm called CEBRA can pro…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1664941375824044032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 10:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subscribing to this account, unlocks long tweets covering science and culture topics documented with sources and references.
-
-The account doesn't change its routine.
-
-Active series:
-- Monday: fractals through history
-- Thursday: human consciousness theories
-- Sunday: food science https://t.co/eDWsXqDBL6 https://t.co/jGEAI99V0Y</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664941603880943616</link>
-      <description>Subscribing to this account, unlocks long tweets covering science and culture topics documented with sources and references.
-
-The account doesn't change its routine.
-
-Active series:
-- Monday: fractals through history
-- Thursday: human consciousness theories
-- Sunday: food science https://t.co/eDWsXqDBL6 https://t.co/jGEAI99V0Y</description>
-      <content:encoded>Subscribing to this account, unlocks long tweets covering science and culture topics documented with sources and references.
-
-The account doesn't change its routine.
-
-Active series:
-- Monday: fractals through history
-- Thursday: human consciousness theories
-- Sunday: food science https://t.co/eDWsXqDBL6 https://t.co/jGEAI99V0Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664941603880943616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664941477904908289/pu/img/pt4GNosFb2wl1tCd.jpg" length="612" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 10:26:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 11:12:14 +0000</lastBuildDate>
     <item>
       <title>https://t.co/D3sVqw7MHD</title>
       <link>https://twitter.com/elonmusk/status/1664941886040076288</link>
@@ -2108,6 +2072,30 @@ https://t.co/kwftMu2FJk</description>
 https://t.co/kwftMu2FJk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665301391055659008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1427617461738876933/pu/img/Z2gWwSfTUTwSp1Vk.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 04 Jun 2023 10:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @gabrielpeyre: Comparison of the Wasserstein, Hellinger, Kullback-Leibler and reverse KL on the space of Gaussian distributions. https:/…</title>
+      <link>https://twitter.com/ylecun/status/1665304559957204992</link>
+      <description>RT @gabrielpeyre: Comparison of the Wasserstein, Hellinger, Kullback-Leibler and reverse KL on the space of Gaussian distributions. https:/…</description>
+      <content:encoded>RT @gabrielpeyre: Comparison of the Wasserstein, Hellinger, Kullback-Leibler and reverse KL on the space of Gaussian distributions. https:/…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1665304559957204992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 10:28:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rosetta mission released over 400,000 images from its comet mission on 67P. Based on these material, motion designer Christian Stangl and composer Wolfgang Stangl worked together to create an impressive short film 
+
+[full video: https://t.co/7qVN6FaT6Z]
+https://t.co/wgaacu22aq</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665304836877811713</link>
+      <description>Rosetta mission released over 400,000 images from its comet mission on 67P. Based on these material, motion designer Christian Stangl and composer Wolfgang Stangl worked together to create an impressive short film 
+
+[full video: https://t.co/7qVN6FaT6Z]
+https://t.co/wgaacu22aq</description>
+      <content:encoded>Rosetta mission released over 400,000 images from its comet mission on 67P. Based on these material, motion designer Christian Stangl and composer Wolfgang Stangl worked together to create an impressive short film 
+
+[full video: https://t.co/7qVN6FaT6Z]
+https://t.co/wgaacu22aq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665304836877811713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1155905652855889920/pu/img/iLRqLsWINnrYky3V.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 10:29:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
