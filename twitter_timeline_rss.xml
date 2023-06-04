@@ -6,96 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 11:12:14 +0000</lastBuildDate>
-    <item>
-      <title>https://t.co/D3sVqw7MHD</title>
-      <link>https://twitter.com/elonmusk/status/1664941886040076288</link>
-      <description>https://t.co/D3sVqw7MHD</description>
-      <content:encoded>https://t.co/D3sVqw7MHD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1664941886040076288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxsP0ngWIAI0D0P.jpg" length="749" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 10:27:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ambiguous illusion objects series invented by mathematician Kokichi Sugihara also includes a Batman and a Superman logo, printed and sold by 3DNY Design 
-
-[source, more: https://t.co/0EupQXQi56]
-https://t.co/rZJM3h8cIm</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664952664906407936</link>
-      <description>The ambiguous illusion objects series invented by mathematician Kokichi Sugihara also includes a Batman and a Superman logo, printed and sold by 3DNY Design 
-
-[source, more: https://t.co/0EupQXQi56]
-https://t.co/rZJM3h8cIm</description>
-      <content:encoded>The ambiguous illusion objects series invented by mathematician Kokichi Sugihara also includes a Batman and a Superman logo, printed and sold by 3DNY Design 
-
-[source, more: https://t.co/0EupQXQi56]
-https://t.co/rZJM3h8cIm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664952664906407936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1544049823736889344/pu/img/b9QDKf0d9zJtTytJ.jpg" length="640" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 11:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AlexKontorovich: New @OpenAI paper:
-
-https://t.co/kMyfzIjI4t
-
-Instead of training with rewards for correct final answer, they reward fo…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1664952889360392192</link>
-      <description>RT @AlexKontorovich: New @OpenAI paper:
-
-https://t.co/kMyfzIjI4t
-
-Instead of training with rewards for correct final answer, they reward fo…</description>
-      <content:encoded>RT @AlexKontorovich: New @OpenAI paper:
-
-https://t.co/kMyfzIjI4t
-
-Instead of training with rewards for correct final answer, they reward fo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1664952889360392192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 11:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>I agree with this over the long term. But in the short term, human consciousness seems to persist without (current) environmental input in the form of dreams, which recycle old input. So environment is not needed at any given moment https://t.co/TPItpTKFJL</title>
-      <link>https://twitter.com/Neuro_Skeptic/status/1664953467595530243</link>
-      <description>I agree with this over the long term. But in the short term, human consciousness seems to persist without (current) environmental input in the form of dreams, which recycle old input. So environment is not needed at any given moment https://t.co/TPItpTKFJL</description>
-      <content:encoded>I agree with this over the long term. But in the short term, human consciousness seems to persist without (current) environmental input in the form of dreams, which recycle old input. So environment is not needed at any given moment https://t.co/TPItpTKFJL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1664953467595530243"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 11:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Better together: Objects in familiar constellations evoke high-level representations of real-world size  https://t.co/JW5NRmOvXn #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1664953948644491266</link>
-      <description>Better together: Objects in familiar constellations evoke high-level representations of real-world size  https://t.co/JW5NRmOvXn #biorxiv_neursci</description>
-      <content:encoded>Better together: Objects in familiar constellations evoke high-level representations of real-world size  https://t.co/JW5NRmOvXn #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1664953948644491266"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 11:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @BerkeleyPhysics: Natalie Wolchover, a senior editor at Quanta Magazine and winner of the 2022 Pulitzer Prize gave the keynote commencem…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1664954392284475392</link>
-      <description>RT @BerkeleyPhysics: Natalie Wolchover, a senior editor at Quanta Magazine and winner of the 2022 Pulitzer Prize gave the keynote commencem…</description>
-      <content:encoded>RT @BerkeleyPhysics: Natalie Wolchover, a senior editor at Quanta Magazine and winner of the 2022 Pulitzer Prize gave the keynote commencem…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1664954392284475392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 11:17:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @curiouswavefn: This recollection of Ed Witten's early career by a friend from his college days is really something. It shows that even…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1664955239282143232</link>
-      <description>RT @curiouswavefn: This recollection of Ed Witten's early career by a friend from his college days is really something. It shows that even…</description>
-      <content:encoded>RT @curiouswavefn: This recollection of Ed Witten's early career by a friend from his college days is really something. It shows that even…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1664955239282143232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 11:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The bizarre story of Troy Hurtubise, the inventor and conservationist noted for self-testing his creations among which the most popular one is possbly the Ursus suit, thought as a protection from grizzly bears
-
-[read more: https://t.co/7lXAvQrJSX]
-https://t.co/FsZKdk5Or1</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664956840566829056</link>
-      <description>The bizarre story of Troy Hurtubise, the inventor and conservationist noted for self-testing his creations among which the most popular one is possbly the Ursus suit, thought as a protection from grizzly bears
-
-[read more: https://t.co/7lXAvQrJSX]
-https://t.co/FsZKdk5Or1</description>
-      <content:encoded>The bizarre story of Troy Hurtubise, the inventor and conservationist noted for self-testing his creations among which the most popular one is possbly the Ursus suit, thought as a protection from grizzly bears
-
-[read more: https://t.co/7lXAvQrJSX]
-https://t.co/FsZKdk5Or1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664956840566829056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1569901069588652032/pu/img/kWhgxzB0gIs5R7Yv.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 11:26:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 12:30:01 +0000</lastBuildDate>
     <item>
       <title>This is the only pattern of its kind https://t.co/piS15USsKu</title>
       <link>https://twitter.com/fermatslibrary/status/1664956965687050242</link>
@@ -2096,6 +2007,112 @@ https://t.co/wgaacu22aq</description>
 https://t.co/wgaacu22aq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665304836877811713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1155905652855889920/pu/img/iLRqLsWINnrYky3V.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 04 Jun 2023 10:29:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Flagel_Lab: Great article with one of the great women neuroscientists that helped pave the way. My takeaways: don't get lost in technol…</title>
+      <link>https://twitter.com/meletislab/status/1665315882233475078</link>
+      <description>RT @Flagel_Lab: Great article with one of the great women neuroscientists that helped pave the way. My takeaways: don't get lost in technol…</description>
+      <content:encoded>RT @Flagel_Lab: Great article with one of the great women neuroscientists that helped pave the way. My takeaways: don't get lost in technol…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/meletislab/status/1665315882233475078"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 11:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Tesla coil suit is a Faraday cage that protects you from potential injury by allowing high voltage electrical currents to run around the body rather than through it, as shown by this famous clip by Allen Pan 
+
+[source + more: https://t.co/u05ngJG8Fu]
+https://t.co/2jD9pAou8F</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665316932348723200</link>
+      <description>A Tesla coil suit is a Faraday cage that protects you from potential injury by allowing high voltage electrical currents to run around the body rather than through it, as shown by this famous clip by Allen Pan 
+
+[source + more: https://t.co/u05ngJG8Fu]
+https://t.co/2jD9pAou8F</description>
+      <content:encoded>A Tesla coil suit is a Faraday cage that protects you from potential injury by allowing high voltage electrical currents to run around the body rather than through it, as shown by this famous clip by Allen Pan 
+
+[source + more: https://t.co/u05ngJG8Fu]
+https://t.co/2jD9pAou8F&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665316932348723200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1428775117174321152/pu/img/aMLwfvBZtF5VbS5B.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 11:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ouse Valley Viaduct along the London-Brighton Railway Line was completed in 1841. It's mostly known for its famous arched vaulting supporting brick piers
+
+[read more: https://t.co/LXslFMXRLA]
+[📹 Johannes Hulsch: https://t.co/qTTTEgkh5I]
+https://t.co/CirnM4rQ88</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665319561158184961</link>
+      <description>The Ouse Valley Viaduct along the London-Brighton Railway Line was completed in 1841. It's mostly known for its famous arched vaulting supporting brick piers
+
+[read more: https://t.co/LXslFMXRLA]
+[📹 Johannes Hulsch: https://t.co/qTTTEgkh5I]
+https://t.co/CirnM4rQ88</description>
+      <content:encoded>The Ouse Valley Viaduct along the London-Brighton Railway Line was completed in 1841. It's mostly known for its famous arched vaulting supporting brick piers
+
+[read more: https://t.co/LXslFMXRLA]
+[📹 Johannes Hulsch: https://t.co/qTTTEgkh5I]
+https://t.co/CirnM4rQ88&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665319561158184961"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665198006910722049/pu/img/IfaFrpXcK7nTqTHP.jpg" length="675" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 11:28:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>This visualization shows ocean current flows in the Mediterranean Sea &amp;amp; Eastern Atlantic from 16 Feb 2005 through 16 January 2006. For each second that passes in the visualization, about 2.75 days pass in the simulation
+
+[HD, NASA: https://t.co/s7EV1yvbv3]
+https://t.co/X7ASEfg92V</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665324291167076353</link>
+      <description>This visualization shows ocean current flows in the Mediterranean Sea &amp;amp; Eastern Atlantic from 16 Feb 2005 through 16 January 2006. For each second that passes in the visualization, about 2.75 days pass in the simulation
+
+[HD, NASA: https://t.co/s7EV1yvbv3]
+https://t.co/X7ASEfg92V</description>
+      <content:encoded>This visualization shows ocean current flows in the Mediterranean Sea &amp;amp; Eastern Atlantic from 16 Feb 2005 through 16 January 2006. For each second that passes in the visualization, about 2.75 days pass in the simulation
+
+[HD, NASA: https://t.co/s7EV1yvbv3]
+https://t.co/X7ASEfg92V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665324291167076353"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664955881190981634/pu/img/9V8HsW0ADVuRlAOi.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 11:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>If you put a spherical loaf of bread through a bread slicer, then each slice comes out with equal crust https://t.co/Zz0mGJVF02</title>
+      <link>https://twitter.com/fermatslibrary/status/1665326136702771200</link>
+      <description>If you put a spherical loaf of bread through a bread slicer, then each slice comes out with equal crust https://t.co/Zz0mGJVF02</description>
+      <content:encoded>If you put a spherical loaf of bread through a bread slicer, then each slice comes out with equal crust https://t.co/Zz0mGJVF02&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1665326136702771200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxxtS7SXsAI5gfP.jpg" length="846" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 11:54:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Gathering for Gardner Dragon is probably one of the most captivating examples of the hollow-face optical illusion, but this big version in a street of Beijing is even more mesmerizing 
+
+[read more: https://t.co/XL9qM0Udsk]
+https://t.co/V22kHXKLpx</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665328414516031488</link>
+      <description>The Gathering for Gardner Dragon is probably one of the most captivating examples of the hollow-face optical illusion, but this big version in a street of Beijing is even more mesmerizing 
+
+[read more: https://t.co/XL9qM0Udsk]
+https://t.co/V22kHXKLpx</description>
+      <content:encoded>The Gathering for Gardner Dragon is probably one of the most captivating examples of the hollow-face optical illusion, but this big version in a street of Beijing is even more mesmerizing 
+
+[read more: https://t.co/XL9qM0Udsk]
+https://t.co/V22kHXKLpx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665328414516031488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1514674300661514242/pu/img/tm3T1gO_AL6xCWOx.jpg" length="640" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 12:03:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>There's a mountain in the Tianmen Mountain National Park, Zhangjiajie, China, with a natural arch and a stairway leading to it: with 999 step, it's known as "the Stairway to Heaven"
+
+[read more: https://t.co/ixy73sQRkl]
+[📹 https://t.co/Rp2EYNJlaI]
+https://t.co/NqfC8q7kLG</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665334575747178496</link>
+      <description>There's a mountain in the Tianmen Mountain National Park, Zhangjiajie, China, with a natural arch and a stairway leading to it: with 999 step, it's known as "the Stairway to Heaven"
+
+[read more: https://t.co/ixy73sQRkl]
+[📹 https://t.co/Rp2EYNJlaI]
+https://t.co/NqfC8q7kLG</description>
+      <content:encoded>There's a mountain in the Tianmen Mountain National Park, Zhangjiajie, China, with a natural arch and a stairway leading to it: with 999 step, it's known as "the Stairway to Heaven"
+
+[read more: https://t.co/ixy73sQRkl]
+[📹 https://t.co/Rp2EYNJlaI]
+https://t.co/NqfC8q7kLG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665334575747178496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665312448642007043/pu/img/NiODse5nxxdH_Sz_.jpg" length="460" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 12:27:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
