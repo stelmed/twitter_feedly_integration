@@ -6,36 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 19:11:44 +0000</lastBuildDate>
-    <item>
-      <title>Kill the culture of “more is better”. There is no idea that deserves more than 10 subplots. https://t.co/VslHtGP7Ay</title>
-      <link>https://twitter.com/KordingLab/status/1664992511096508418</link>
-      <description>Kill the culture of “more is better”. There is no idea that deserves more than 10 subplots. https://t.co/VslHtGP7Ay</description>
-      <content:encoded>Kill the culture of “more is better”. There is no idea that deserves more than 10 subplots. https://t.co/VslHtGP7Ay&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1664992511096508418"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 13:48:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>@andpru @NeuroPolarbear @jenkins_paul @kevinmawright Well, in 2015/16 when they wanted to compete with CNS, a stated goal, I think people did count it like NN or Neuron, but idk - limited data observation 🤗</title>
-      <link>https://twitter.com/TrackingActions/status/1664993097997078531</link>
-      <description>@andpru @NeuroPolarbear @jenkins_paul @kevinmawright Well, in 2015/16 when they wanted to compete with CNS, a stated goal, I think people did count it like NN or Neuron, but idk - limited data observation 🤗</description>
-      <content:encoded>@andpru @NeuroPolarbear @jenkins_paul @kevinmawright Well, in 2015/16 when they wanted to compete with CNS, a stated goal, I think people did count it like NN or Neuron, but idk - limited data observation 🤗&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1664993097997078531"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 13:51:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>@TrackingActions @jenkins_paul @NeuroPolarbear @kevinmawright Review delays are highly variable, I sincerely doubt eLife is much different than other spots. I haven't seen anything change in the new system but very very low sample obviously.</title>
-      <link>https://twitter.com/andpru/status/1664993191156760577</link>
-      <description>@TrackingActions @jenkins_paul @NeuroPolarbear @kevinmawright Review delays are highly variable, I sincerely doubt eLife is much different than other spots. I haven't seen anything change in the new system but very very low sample obviously.</description>
-      <content:encoded>@TrackingActions @jenkins_paul @NeuroPolarbear @kevinmawright Review delays are highly variable, I sincerely doubt eLife is much different than other spots. I haven't seen anything change in the new system but very very low sample obviously.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1664993191156760577"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 13:51:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>@andpru @jenkins_paul @NeuroPolarbear @kevinmawright Agreed; but just to comment on first post comment, my experience with elife isn’t faster now than other journals ( it was in the past faster): again, n=2 in total though https://t.co/WeylhFE1r7</title>
-      <link>https://twitter.com/TrackingActions/status/1664993860185890817</link>
-      <description>@andpru @jenkins_paul @NeuroPolarbear @kevinmawright Agreed; but just to comment on first post comment, my experience with elife isn’t faster now than other journals ( it was in the past faster): again, n=2 in total though https://t.co/WeylhFE1r7</description>
-      <content:encoded>@andpru @jenkins_paul @NeuroPolarbear @kevinmawright Agreed; but just to comment on first post comment, my experience with elife isn’t faster now than other journals ( it was in the past faster): again, n=2 in total though https://t.co/WeylhFE1r7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1664993860185890817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxs_FySWYAQqwOm.jpg" length="1170" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 13:54:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 20:15:43 +0000</lastBuildDate>
     <item>
       <title>RT @russpoldrack: LGBTQ professionals in STEM are 30% more likely to experience workplace harassment compared with their non-LGBTQ peers. h…</title>
       <link>https://twitter.com/anne_churchland/status/1664994445203501056</link>
@@ -2141,6 +2112,59 @@ Despite verifying proton magnetic resonance… #Neuroscience https://t.co/u4lLEq
       <description>RT @Brainmind_EPFL: New paper by the Gerstner Lab in @NatureComms: “Computational models of episodic-like memory in food-caching birds”. Ch…</description>
       <content:encoded>RT @Brainmind_EPFL: New paper by the Gerstner Lab in @NatureComms: “Computational models of episodic-like memory in food-caching birds”. Ch…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/compneuro_epfl/status/1665434405047869441"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 04 Jun 2023 19:04:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>While searching today for a quote of Francis Crick's, I stumbled across this obituary. It gives a succinct and illuminating account of what Crick was like as a scientist, what he discovered, and why he was one of the greatest theoretical biologists ever.  https://t.co/JAlYU91IxT https://t.co/NgdLemkDhZ</title>
+      <link>https://twitter.com/stevenstrogatz/status/1665439587718529026</link>
+      <description>While searching today for a quote of Francis Crick's, I stumbled across this obituary. It gives a succinct and illuminating account of what Crick was like as a scientist, what he discovered, and why he was one of the greatest theoretical biologists ever.  https://t.co/JAlYU91IxT https://t.co/NgdLemkDhZ</description>
+      <content:encoded>While searching today for a quote of Francis Crick's, I stumbled across this obituary. It gives a succinct and illuminating account of what Crick was like as a scientist, what he discovered, and why he was one of the greatest theoretical biologists ever.  https://t.co/JAlYU91IxT https://t.co/NgdLemkDhZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1665439587718529026"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxzUXzQX0Ag-9kc.jpg" length="214" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 19:25:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arben Vllasaliu (@arbenl1berateme) is a 3D artist and creator of a lot of animations you see around the Internet. This famous one shows how 'all the bearings are moving in a straight line'
+
+[Instagram: https://t.co/B29cjtAZZM]
+https://t.co/RDhbeZho7k</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665440810672742400</link>
+      <description>Arben Vllasaliu (@arbenl1berateme) is a 3D artist and creator of a lot of animations you see around the Internet. This famous one shows how 'all the bearings are moving in a straight line'
+
+[Instagram: https://t.co/B29cjtAZZM]
+https://t.co/RDhbeZho7k</description>
+      <content:encoded>Arben Vllasaliu (@arbenl1berateme) is a 3D artist and creator of a lot of animations you see around the Internet. This famous one shows how 'all the bearings are moving in a straight line'
+
+[Instagram: https://t.co/B29cjtAZZM]
+https://t.co/RDhbeZho7k&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665440810672742400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1112335119044497408/pu/img/bkS4uzdqN6gidGdG.jpg" length="480" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 19:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2017 establishment of the largest marine protected area in North America—Mexico’s Revillagigedo National Park—has not harmed industrial fishing, according to a new analysis in @ScienceAdvances. https://t.co/AqLCXvqO1z https://t.co/7Xf0N5BBaG</title>
+      <link>https://twitter.com/ScienceMagazine/status/1665440812031770624</link>
+      <description>The 2017 establishment of the largest marine protected area in North America—Mexico’s Revillagigedo National Park—has not harmed industrial fishing, according to a new analysis in @ScienceAdvances. https://t.co/AqLCXvqO1z https://t.co/7Xf0N5BBaG</description>
+      <content:encoded>The 2017 establishment of the largest marine protected area in North America—Mexico’s Revillagigedo National Park—has not harmed industrial fishing, according to a new analysis in @ScienceAdvances. https://t.co/AqLCXvqO1z https://t.co/7Xf0N5BBaG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1665440812031770624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxzVl3hXwAIl9Wn.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 19:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎵 Let's change the world, one word (and rap) at a time.
+
+Help shape and advance the future of sign language transcription by joining the American Sign Language Fingerspelling Recognition Competition. 
+
+Learn more ➡️ https://t.co/Gy4H5o56aL https://t.co/a3QYCksjkJ</title>
+      <link>https://twitter.com/TensorFlow/status/1665448430569750530</link>
+      <description>🎵 Let's change the world, one word (and rap) at a time.
+
+Help shape and advance the future of sign language transcription by joining the American Sign Language Fingerspelling Recognition Competition. 
+
+Learn more ➡️ https://t.co/Gy4H5o56aL https://t.co/a3QYCksjkJ</description>
+      <content:encoded>🎵 Let's change the world, one word (and rap) at a time.
+
+Help shape and advance the future of sign language transcription by joining the American Sign Language Fingerspelling Recognition Competition. 
+
+Learn more ➡️ https://t.co/Gy4H5o56aL https://t.co/a3QYCksjkJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1665448430569750530"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665448344326373382/pu/img/vBCDE1n8A8tf77rp.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 20:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
