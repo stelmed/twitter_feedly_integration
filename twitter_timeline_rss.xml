@@ -6,66 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 15:14:48 +0000</lastBuildDate>
-    <item>
-      <title>Could the editor have denied the extension? Yes, but again, inviting a new reviewer would also have taken at least two weeks. There was no scenario where the editor could guarantee a faster review.</title>
-      <link>https://twitter.com/MattNeuro/status/1664975543433936903</link>
-      <description>Could the editor have denied the extension? Yes, but again, inviting a new reviewer would also have taken at least two weeks. There was no scenario where the editor could guarantee a faster review.</description>
-      <content:encoded>Could the editor have denied the extension? Yes, but again, inviting a new reviewer would also have taken at least two weeks. There was no scenario where the editor could guarantee a faster review.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1664975543433936903"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 12:41:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Realistically, the only way an editor could speed this up, is by not replacing a reviewer who dropped out. I sometimes did this, when the other reviewers covered a manuscript well enough, or if it was clear the manuscript should be rejected.
-
-A long review process is a good sign!</title>
-      <link>https://twitter.com/MattNeuro/status/1664975545300553728</link>
-      <description>Realistically, the only way an editor could speed this up, is by not replacing a reviewer who dropped out. I sometimes did this, when the other reviewers covered a manuscript well enough, or if it was clear the manuscript should be rejected.
-
-A long review process is a good sign!</description>
-      <content:encoded>Realistically, the only way an editor could speed this up, is by not replacing a reviewer who dropped out. I sometimes did this, when the other reviewers covered a manuscript well enough, or if it was clear the manuscript should be rejected.
-
-A long review process is a good sign!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1664975545300553728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 12:41:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Now imagine if the reviewer who dropped out had send a single, one-line email after a week: "sorry, I can't review after all".
-
-That single message would have sped up the process by about three weeks. More, if the editor was very busy or the timing coincided with a holiday.</title>
-      <link>https://twitter.com/MattNeuro/status/1664975547078791168</link>
-      <description>Now imagine if the reviewer who dropped out had send a single, one-line email after a week: "sorry, I can't review after all".
-
-That single message would have sped up the process by about three weeks. More, if the editor was very busy or the timing coincided with a holiday.</description>
-      <content:encoded>Now imagine if the reviewer who dropped out had send a single, one-line email after a week: "sorry, I can't review after all".
-
-That single message would have sped up the process by about three weeks. More, if the editor was very busy or the timing coincided with a holiday.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1664975547078791168"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 12:41:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>This isn't meant to blame and shame, merely to illustrate how much a manuscript can be delayed by a single reviewer not responding. How even hitting that "decline to review" button helps to speed up the process.
-
-How an editor can do everything right, and still take months.</title>
-      <link>https://twitter.com/MattNeuro/status/1664975548806733824</link>
-      <description>This isn't meant to blame and shame, merely to illustrate how much a manuscript can be delayed by a single reviewer not responding. How even hitting that "decline to review" button helps to speed up the process.
-
-How an editor can do everything right, and still take months.</description>
-      <content:encoded>This isn't meant to blame and shame, merely to illustrate how much a manuscript can be delayed by a single reviewer not responding. How even hitting that "decline to review" button helps to speed up the process.
-
-How an editor can do everything right, and still take months.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1664975548806733824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 12:41:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mind you, sometimes a delay really is just due to an editor forgetting to look at your manuscript. It has happened to me, and in such cases, it helps if authors enquire about their manuscript.
-
-Don't hesitate to e-mail your editor if it has taken more than a month or two!</title>
-      <link>https://twitter.com/MattNeuro/status/1664975550409060352</link>
-      <description>Mind you, sometimes a delay really is just due to an editor forgetting to look at your manuscript. It has happened to me, and in such cases, it helps if authors enquire about their manuscript.
-
-Don't hesitate to e-mail your editor if it has taken more than a month or two!</description>
-      <content:encoded>Mind you, sometimes a delay really is just due to an editor forgetting to look at your manuscript. It has happened to me, and in such cases, it helps if authors enquire about their manuscript.
-
-Don't hesitate to e-mail your editor if it has taken more than a month or two!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1664975550409060352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 12:41:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 16:20:21 +0000</lastBuildDate>
     <item>
       <title>.. oops, I meant QA instead of Q&amp;amp;A.
 
@@ -2148,6 +2089,74 @@ https://t.co/LOyftJMywL https://t.co/AlvzkjHkli&lt;blockquote class="twitter-twe
       <content:encoded>RT @maiz_julio: 📷 Rosette Nebula © Robert Leach https://t.co/dkc8ArchBy https://t.co/2QMezs3WKE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1665376032688414720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fxx15mJWIAMpV8c.jpg" length="960" type="photo"/>
       <pubDate>Sun, 04 Jun 2023 15:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>This impressive video of a lightning apparently striking two cars, is a proof you're relatively safe not thanks to the tires, but because a car is a Faraday cage 
+
+[read more: https://t.co/9zIEJIRXmg] 
+[📽️ LSC/Michaelle Paul Whalen, Florida, July 1, 2022]
+https://t.co/DIru655O5b</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665378847808708608</link>
+      <description>This impressive video of a lightning apparently striking two cars, is a proof you're relatively safe not thanks to the tires, but because a car is a Faraday cage 
+
+[read more: https://t.co/9zIEJIRXmg] 
+[📽️ LSC/Michaelle Paul Whalen, Florida, July 1, 2022]
+https://t.co/DIru655O5b</description>
+      <content:encoded>This impressive video of a lightning apparently striking two cars, is a proof you're relatively safe not thanks to the tires, but because a car is a Faraday cage 
+
+[read more: https://t.co/9zIEJIRXmg] 
+[📽️ LSC/Michaelle Paul Whalen, Florida, July 1, 2022]
+https://t.co/DIru655O5b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665378847808708608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FW1e3ZmWIAICJ_t.jpg" length="1050" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 15:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Comment article in Nature Medicine discusses how the application of an AI-based screening tool for retinal disease in India and Thailand highlighted the myths and reality of introducing medical AI. It may form a framework for subsequent tools. 🔒 https://t.co/SkTPfZ1L6A</title>
+      <link>https://twitter.com/NaturePortfolio/status/1665380135799865344</link>
+      <description>A Comment article in Nature Medicine discusses how the application of an AI-based screening tool for retinal disease in India and Thailand highlighted the myths and reality of introducing medical AI. It may form a framework for subsequent tools. 🔒 https://t.co/SkTPfZ1L6A</description>
+      <content:encoded>A Comment article in Nature Medicine discusses how the application of an AI-based screening tool for retinal disease in India and Thailand highlighted the myths and reality of introducing medical AI. It may form a framework for subsequent tools. 🔒 https://t.co/SkTPfZ1L6A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1665380135799865344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 15:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @philipcball: @SMcfarnell @skdh Indeed. That's why philosophers and others have developed measures of causation. And sometimes those con…</title>
+      <link>https://twitter.com/PessoaBrain/status/1665383014308741120</link>
+      <description>RT @philipcball: @SMcfarnell @skdh Indeed. That's why philosophers and others have developed measures of causation. And sometimes those con…</description>
+      <content:encoded>RT @philipcball: @SMcfarnell @skdh Indeed. That's why philosophers and others have developed measures of causation. And sometimes those con…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1665383014308741120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 15:40:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Candles burns thanks to a combustion reaction that requires oxygen (O₂). When you pour a cup of CO2 over the candles, this displacesall the normally mixed air, along with all that O₂ the fire needs to burn
+
+[read more: https://t.co/ov0hxtrXQc]
+https://t.co/oXYpi9CBvs</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665383652132376576</link>
+      <description>Candles burns thanks to a combustion reaction that requires oxygen (O₂). When you pour a cup of CO2 over the candles, this displacesall the normally mixed air, along with all that O₂ the fire needs to burn
+
+[read more: https://t.co/ov0hxtrXQc]
+https://t.co/oXYpi9CBvs</description>
+      <content:encoded>Candles burns thanks to a combustion reaction that requires oxygen (O₂). When you pour a cup of CO2 over the candles, this displacesall the normally mixed air, along with all that O₂ the fire needs to burn
+
+[read more: https://t.co/ov0hxtrXQc]
+https://t.co/oXYpi9CBvs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665383652132376576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1419708488788287515/pu/img/EHdraNl8i-kLPO3F.jpg" length="480" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 15:42:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a LEGO-powered Submarine with automatic depth control
+
+[📹 YouTube's Brick Experiment Channel: https://t.co/HT8gLJMjEt]
+https://t.co/JXH0UQONBa</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665390202985107456</link>
+      <description>Building a LEGO-powered Submarine with automatic depth control
+
+[📹 YouTube's Brick Experiment Channel: https://t.co/HT8gLJMjEt]
+https://t.co/JXH0UQONBa</description>
+      <content:encoded>Building a LEGO-powered Submarine with automatic depth control
+
+[📹 YouTube's Brick Experiment Channel: https://t.co/HT8gLJMjEt]
+https://t.co/JXH0UQONBa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665390202985107456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1619959916411719680/pu/img/pfIZ9wGHPjAVRvJ5.jpg" length="720" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 16:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
