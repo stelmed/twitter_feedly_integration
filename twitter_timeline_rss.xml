@@ -6,65 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 13:17:12 +0000</lastBuildDate>
-    <item>
-      <title>RT @Quasilocal: https://t.co/7kUWbK18Ph</title>
-      <link>https://twitter.com/PessoaBrain/status/1664962226514538500</link>
-      <description>RT @Quasilocal: https://t.co/7kUWbK18Ph</description>
-      <content:encoded>RT @Quasilocal: https://t.co/7kUWbK18Ph&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1664962226514538500"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxo1JDvWwAAd9zE.png" length="900" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 11:48:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @TingsterX: 1/5 - Officially out on Nature Methods! Reliability eXplorer (ReX), an integrative toolbox for examination of individual var…</title>
-      <link>https://twitter.com/PessoaBrain/status/1664962729390514178</link>
-      <description>RT @TingsterX: 1/5 - Officially out on Nature Methods! Reliability eXplorer (ReX), an integrative toolbox for examination of individual var…</description>
-      <content:encoded>RT @TingsterX: 1/5 - Officially out on Nature Methods! Reliability eXplorer (ReX), an integrative toolbox for examination of individual var…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1664962729390514178"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 11:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crows and corvids in general are among the most playful animals. 
-
-This is a snowboarding one.  
-
-[read more: https://t.co/J5vlwFRzdc] 
-[📹 MadtimeCA: https://t.co/t5qaMymQ6Z
-https://t.co/qaiSUHrLnW</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664964900135878656</link>
-      <description>Crows and corvids in general are among the most playful animals. 
-
-This is a snowboarding one.  
-
-[read more: https://t.co/J5vlwFRzdc] 
-[📹 MadtimeCA: https://t.co/t5qaMymQ6Z
-https://t.co/qaiSUHrLnW</description>
-      <content:encoded>Crows and corvids in general are among the most playful animals. 
-
-This is a snowboarding one.  
-
-[read more: https://t.co/J5vlwFRzdc] 
-[📹 MadtimeCA: https://t.co/t5qaMymQ6Z
-https://t.co/qaiSUHrLnW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664964900135878656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1503854632078127106/pu/img/bejnQvB29nC6mqlR.jpg" length="400" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 11:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drawing on clothes' plush fabric, evocating Salvador Dalí
-
-[📹 aidanniqiqi: https://t.co/i7l0cu6cu0]
-https://t.co/j5mPaZntE4</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664971348538474496</link>
-      <description>Drawing on clothes' plush fabric, evocating Salvador Dalí
-
-[📹 aidanniqiqi: https://t.co/i7l0cu6cu0]
-https://t.co/j5mPaZntE4</description>
-      <content:encoded>Drawing on clothes' plush fabric, evocating Salvador Dalí
-
-[📹 aidanniqiqi: https://t.co/i7l0cu6cu0]
-https://t.co/j5mPaZntE4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664971348538474496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1646073062813581312/pu/img/iH5evKNyzRkn0afH.jpg" length="480" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 12:24:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 14:12:44 +0000</lastBuildDate>
     <item>
       <title>This famous image by István Orosz features a scene from the classic novel The Mysterious Island. When a mirrored cylinder is placed on the Moon, it reveals by anamorphosis a portrait of the writer, Jules Verne 
 
@@ -2140,6 +2082,87 @@ https://t.co/Pa2l8o2cej</description>
 https://t.co/Pa2l8o2cej&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665343841417699328"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1222529254556143616/pu/img/SfUy1gvr7eQVqu5S.jpg" length="640" type="photo"/>
       <pubDate>Sun, 04 Jun 2023 13:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>BionicHIVE's SqUID consists of a synchronized autonomous robotic fleet that has 3-dimensional movement capabilities that extend the picking face of a warehouse from floor to ceiling
+
+[read more: https://t.co/jVG8bbhsaP]
+[video sped up 2x]
+https://t.co/KjXwbYnjSn</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665348735889440768</link>
+      <description>BionicHIVE's SqUID consists of a synchronized autonomous robotic fleet that has 3-dimensional movement capabilities that extend the picking face of a warehouse from floor to ceiling
+
+[read more: https://t.co/jVG8bbhsaP]
+[video sped up 2x]
+https://t.co/KjXwbYnjSn</description>
+      <content:encoded>BionicHIVE's SqUID consists of a synchronized autonomous robotic fleet that has 3-dimensional movement capabilities that extend the picking face of a warehouse from floor to ceiling
+
+[read more: https://t.co/jVG8bbhsaP]
+[video sped up 2x]
+https://t.co/KjXwbYnjSn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665348735889440768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1349087418767572992/pu/img/TYHCrmwXRRXuHMNy.jpg" length="852" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 13:24:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>A recent Science study described the evolution of regulatory sequences in the human genome. https://t.co/qDGrDO1xfW #Zoonomia https://t.co/KvTzGDNVWW</title>
+      <link>https://twitter.com/ScienceMagazine/status/1665350219054063616</link>
+      <description>A recent Science study described the evolution of regulatory sequences in the human genome. https://t.co/qDGrDO1xfW #Zoonomia https://t.co/KvTzGDNVWW</description>
+      <content:encoded>A recent Science study described the evolution of regulatory sequences in the human genome. https://t.co/qDGrDO1xfW #Zoonomia https://t.co/KvTzGDNVWW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1665350219054063616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxyDMkwXoAAkSK9.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 13:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>My 70 yo mom taught herself how to use a computer at the age of 54, and has been running a photography store in Kathmandu for several decades now. This is a good piece on my amazing mom, who has been my inspiration for as long as I can remember. https://t.co/5CgHYVCh7R https://t.co/39BkXDJtFW</title>
+      <link>https://twitter.com/prerana123/status/1665351160125964289</link>
+      <description>My 70 yo mom taught herself how to use a computer at the age of 54, and has been running a photography store in Kathmandu for several decades now. This is a good piece on my amazing mom, who has been my inspiration for as long as I can remember. https://t.co/5CgHYVCh7R https://t.co/39BkXDJtFW</description>
+      <content:encoded>My 70 yo mom taught herself how to use a computer at the age of 54, and has been running a photography store in Kathmandu for several decades now. This is a good piece on my amazing mom, who has been my inspiration for as long as I can remember. https://t.co/5CgHYVCh7R https://t.co/39BkXDJtFW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/prerana123/status/1665351160125964289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxyEDdeWcAEN-Ks.jpg" length="554" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 13:33:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>This happens because the refractive index  
+
+pyrex = vegetable oil = 1.47  
+
+[read more: https://t.co/n1WG6PdrTb] 
+[source: https://t.co/PGicfwDSXS]
+https://t.co/X1qNGs2LxD</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665354853390995458</link>
+      <description>This happens because the refractive index  
+
+pyrex = vegetable oil = 1.47  
+
+[read more: https://t.co/n1WG6PdrTb] 
+[source: https://t.co/PGicfwDSXS]
+https://t.co/X1qNGs2LxD</description>
+      <content:encoded>This happens because the refractive index  
+
+pyrex = vegetable oil = 1.47  
+
+[read more: https://t.co/n1WG6PdrTb] 
+[source: https://t.co/PGicfwDSXS]
+https://t.co/X1qNGs2LxD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665354853390995458"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1215275299434369029/pu/img/xvmDezA1fu78TWEb.jpg" length="480" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 13:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @alinefortuna2: ‘Corcovado visto da Baía de Botafogo’
+Charles Landseer, 1825
+(Instituto Moreira Salles, Brasiliana Iconográfica)
+
+https:…</title>
+      <link>https://twitter.com/PessoaBrain/status/1665358108103778305</link>
+      <description>RT @alinefortuna2: ‘Corcovado visto da Baía de Botafogo’
+Charles Landseer, 1825
+(Instituto Moreira Salles, Brasiliana Iconográfica)
+
+https:…</description>
+      <content:encoded>RT @alinefortuna2: ‘Corcovado visto da Baía de Botafogo’
+Charles Landseer, 1825
+(Instituto Moreira Salles, Brasiliana Iconográfica)
+
+https:…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1665358108103778305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 14:01:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
