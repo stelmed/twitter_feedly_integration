@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 03:07:52 +0000</lastBuildDate>
-    <item>
-      <title>Electrophysiological correlates of (mis)judging social information  https://t.co/tL0hai3DKc #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1664878415898345472</link>
-      <description>Electrophysiological correlates of (mis)judging social information  https://t.co/tL0hai3DKc #biorxiv_neursci</description>
-      <content:encoded>Electrophysiological correlates of (mis)judging social information  https://t.co/tL0hai3DKc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1664878415898345472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 06:15:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 04:18:04 +0000</lastBuildDate>
     <item>
       <title>This is a fun way to teach kids place value using a simple hack, using just styrofoam cups to turn them into a DIY math manipulative 
 
@@ -2052,6 +2045,20 @@ Education should be a rewarding experience which allows you to think, imagine, q
       <content:encoded>When your "education" limits your imagination it's called indoctrination. Those who cannot think for themselves are truly lost.
 Education should be a rewarding experience which allows you to think, imagine, question, doubt and solve problems.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1665189207147700224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 04 Jun 2023 02:50:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JennyHPhoto: Dragon details.
+
+📷: Me for @SuperclusterHQ @elonmusk https://t.co/vUhmnd9ifg</title>
+      <link>https://twitter.com/MichaelGalanin/status/1665196464413241345</link>
+      <description>RT @JennyHPhoto: Dragon details.
+
+📷: Me for @SuperclusterHQ @elonmusk https://t.co/vUhmnd9ifg</description>
+      <content:encoded>RT @JennyHPhoto: Dragon details.
+
+📷: Me for @SuperclusterHQ @elonmusk https://t.co/vUhmnd9ifg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1665196464413241345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxuKrD5XgAAyFL6.jpg" length="1051" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 03:19:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
