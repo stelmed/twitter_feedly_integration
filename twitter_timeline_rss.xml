@@ -6,37 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 01:57:48 +0000</lastBuildDate>
-    <item>
-      <title>RT @loicaroyer: 🚨Just released a significant update of #Omega! 
-Bug fixes, more robust, more options, more LLMs support, and improved UI.
-G…</title>
-      <link>https://twitter.com/sofroniewn/status/1664861011625779200</link>
-      <description>RT @loicaroyer: 🚨Just released a significant update of #Omega! 
-Bug fixes, more robust, more options, more LLMs support, and improved UI.
-G…</description>
-      <content:encoded>RT @loicaroyer: 🚨Just released a significant update of #Omega! 
-Bug fixes, more robust, more options, more LLMs support, and improved UI.
-G…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1664861011625779200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 05:06:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>58 years ago #Today, Ed White became the first American to perform a spacewalk during the Gemini IV mission
-
-[video: https://t.co/xrpjNZZgfG]
-https://t.co/cbPQl3xoLw</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664876994620735491</link>
-      <description>58 years ago #Today, Ed White became the first American to perform a spacewalk during the Gemini IV mission
-
-[video: https://t.co/xrpjNZZgfG]
-https://t.co/cbPQl3xoLw</description>
-      <content:encoded>58 years ago #Today, Ed White became the first American to perform a spacewalk during the Gemini IV mission
-
-[video: https://t.co/xrpjNZZgfG]
-https://t.co/cbPQl3xoLw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664876994620735491"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1532752068338978816/pu/img/VZVHQ6Mst-_69k0r.jpg" length="480" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 06:09:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 03:07:52 +0000</lastBuildDate>
     <item>
       <title>Electrophysiological correlates of (mis)judging social information  https://t.co/tL0hai3DKc #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1664878415898345472</link>
@@ -2059,6 +2029,29 @@ Various methods have been used to determine the frequency components of… #Mole
       <content:encoded>So it begins. https://t.co/yZDEvc7LqN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1665174976847138819"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fxvj0T_XoAAqB2z.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 04 Jun 2023 01:53:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Voxel-based morphometry reveals the correlation between gray matter volume and serum P-tau-181 in type 2 diabetes mellitus patients with different HbA1c levels: Introduction
+
+Emerging evidence suggested widespread decreased… #Neuroscience https://t.co/JUdjG69uUT</title>
+      <link>https://twitter.com/FrontNeurosci/status/1665178451115134976</link>
+      <description>New Research: Voxel-based morphometry reveals the correlation between gray matter volume and serum P-tau-181 in type 2 diabetes mellitus patients with different HbA1c levels: Introduction
+
+Emerging evidence suggested widespread decreased… #Neuroscience https://t.co/JUdjG69uUT</description>
+      <content:encoded>New Research: Voxel-based morphometry reveals the correlation between gray matter volume and serum P-tau-181 in type 2 diabetes mellitus patients with different HbA1c levels: Introduction
+
+Emerging evidence suggested widespread decreased… #Neuroscience https://t.co/JUdjG69uUT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1665178451115134976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 02:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>When your "education" limits your imagination it's called indoctrination. Those who cannot think for themselves are truly lost.
+Education should be a rewarding experience which allows you to think, imagine, question, doubt and solve problems.</title>
+      <link>https://twitter.com/ProfFeynman/status/1665189207147700224</link>
+      <description>When your "education" limits your imagination it's called indoctrination. Those who cannot think for themselves are truly lost.
+Education should be a rewarding experience which allows you to think, imagine, question, doubt and solve problems.</description>
+      <content:encoded>When your "education" limits your imagination it's called indoctrination. Those who cannot think for themselves are truly lost.
+Education should be a rewarding experience which allows you to think, imagine, question, doubt and solve problems.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1665189207147700224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 04 Jun 2023 02:50:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
