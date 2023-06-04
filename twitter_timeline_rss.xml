@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 05:14:52 +0000</lastBuildDate>
-    <item>
-      <title>#Today in 1982, Game &amp;amp; Watch Multi Screen: Donkey Kong was released: the very first piece of video game hardware to use the now-iconic cross-shaped directional pad
-
-[read more: https://t.co/aMFXkQIFic] https://t.co/13Y2JT53pa https://t.co/jLzN7W4bJk</title>
-      <link>https://twitter.com/Rainmaker1973/status/1664889757439078402</link>
-      <description>#Today in 1982, Game &amp;amp; Watch Multi Screen: Donkey Kong was released: the very first piece of video game hardware to use the now-iconic cross-shaped directional pad
-
-[read more: https://t.co/aMFXkQIFic] https://t.co/13Y2JT53pa https://t.co/jLzN7W4bJk</description>
-      <content:encoded>#Today in 1982, Game &amp;amp; Watch Multi Screen: Donkey Kong was released: the very first piece of video game hardware to use the now-iconic cross-shaped directional pad
-
-[read more: https://t.co/aMFXkQIFic] https://t.co/13Y2JT53pa https://t.co/jLzN7W4bJk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1664889757439078402"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FxrgIKZWAAA8kcW.jpg" length="500" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 07:00:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 06:19:19 +0000</lastBuildDate>
     <item>
       <title>RT @yaksi_emre: What a pleasure to have Prof Hitoshi Okamoto of @RIKEN_CBS to visit our lab and @KISNeuro @NTNUnorway . Thank you for the f…</title>
       <link>https://twitter.com/KISNeuro/status/1664892607829274624</link>
@@ -2044,6 +2030,47 @@ Education should be a rewarding experience which allows you to think, imagine, q
       <content:encoded>https://t.co/WKYyOlYRzq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1665222486915522564"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxwPBq4XoAAzF6p.jpg" length="835" type="photo"/>
       <pubDate>Sun, 04 Jun 2023 05:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Want to learn about the science &amp;amp; engineering of brain data? Check out our upcoming course!
+
+📢Apply by Jun 15
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+-50% for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrLtWz
+
+#neuroscience #neuroinformatics https://t.co/gLhykY1LRQ</title>
+      <link>https://twitter.com/INCForg/status/1665234173572055043</link>
+      <description>Want to learn about the science &amp;amp; engineering of brain data? Check out our upcoming course!
+
+📢Apply by Jun 15
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+-50% for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrLtWz
+
+#neuroscience #neuroinformatics https://t.co/gLhykY1LRQ</description>
+      <content:encoded>Want to learn about the science &amp;amp; engineering of brain data? Check out our upcoming course!
+
+📢Apply by Jun 15
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+-50% for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrLtWz
+
+#neuroscience #neuroinformatics https://t.co/gLhykY1LRQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1665234173572055043"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxEeJl0XwBcWdz9.jpg" length="500" type="photo"/>
+      <pubDate>Sun, 04 Jun 2023 05:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
