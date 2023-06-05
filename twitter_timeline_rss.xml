@@ -6,166 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 06:21:24 +0000</lastBuildDate>
-    <item>
-      <title>“In everything I do, I’m a creator”: Mechanical engineer and storyteller Hannah Gazdus integrates her love of art into all of her projects. https://t.co/KzkLqFJRbP https://t.co/Oyq5h0S5Xu</title>
-      <link>https://twitter.com/MIT/status/1665011760686874627</link>
-      <description>“In everything I do, I’m a creator”: Mechanical engineer and storyteller Hannah Gazdus integrates her love of art into all of her projects. https://t.co/KzkLqFJRbP https://t.co/Oyq5h0S5Xu</description>
-      <content:encoded>“In everything I do, I’m a creator”: Mechanical engineer and storyteller Hannah Gazdus integrates her love of art into all of her projects. https://t.co/KzkLqFJRbP https://t.co/Oyq5h0S5Xu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1665011760686874627"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxtPXu7X0AMfNzR.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 15:05:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @e17RnR_books: Once Upon A Prime by Sarah Hart @sarahlovesmaths one of 16 Books We Read This Week in the @WSJ https://t.co/1hLDL1wgz6</title>
-      <link>https://twitter.com/stevenstrogatz/status/1665015239434203137</link>
-      <description>RT @e17RnR_books: Once Upon A Prime by Sarah Hart @sarahlovesmaths one of 16 Books We Read This Week in the @WSJ https://t.co/1hLDL1wgz6</description>
-      <content:encoded>RT @e17RnR_books: Once Upon A Prime by Sarah Hart @sarahlovesmaths one of 16 Books We Read This Week in the @WSJ https://t.co/1hLDL1wgz6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1665015239434203137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 15:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>In 1959, 9yo Ronald McNair was told he couldn't check out his books from Lake City's segregated library. He went on to become Karate champion, earned an MIT PhD in physics, and became a NASA astronaut.
-
-Today that library is named after him.
-
-[read more: https://t.co/ZkQtGPIMXt] https://t.co/v2oCcT72Wn</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665015483198763009</link>
-      <description>In 1959, 9yo Ronald McNair was told he couldn't check out his books from Lake City's segregated library. He went on to become Karate champion, earned an MIT PhD in physics, and became a NASA astronaut.
-
-Today that library is named after him.
-
-[read more: https://t.co/ZkQtGPIMXt] https://t.co/v2oCcT72Wn</description>
-      <content:encoded>In 1959, 9yo Ronald McNair was told he couldn't check out his books from Lake City's segregated library. He went on to become Karate champion, earned an MIT PhD in physics, and became a NASA astronaut.
-
-Today that library is named after him.
-
-[read more: https://t.co/ZkQtGPIMXt] https://t.co/v2oCcT72Wn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665015483198763009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxsN-WMXsAAD4KX.jpg" length="544" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 15:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Have an idea for
-@SPARC_science's summer codeathon? Submit it by Jun 8!
-
-FYI there's a prize pool of US$50,000💰
-
-📅Proposals due: Jun 8
-📅2023 SPARC FAIR Codeathon: Aug 5-7
-
-Learn more: https://t.co/00u1BVBL0M
-
-#FAIR #FAIRData #OpenScience #neuroscience #neuroinformatics https://t.co/lmwbBbdR6w</title>
-      <link>https://twitter.com/INCForg/status/1665015985936670722</link>
-      <description>Have an idea for
-@SPARC_science's summer codeathon? Submit it by Jun 8!
-
-FYI there's a prize pool of US$50,000💰
-
-📅Proposals due: Jun 8
-📅2023 SPARC FAIR Codeathon: Aug 5-7
-
-Learn more: https://t.co/00u1BVBL0M
-
-#FAIR #FAIRData #OpenScience #neuroscience #neuroinformatics https://t.co/lmwbBbdR6w</description>
-      <content:encoded>Have an idea for
-@SPARC_science's summer codeathon? Submit it by Jun 8!
-
-FYI there's a prize pool of US$50,000💰
-
-📅Proposals due: Jun 8
-📅2023 SPARC FAIR Codeathon: Aug 5-7
-
-Learn more: https://t.co/00u1BVBL0M
-
-#FAIR #FAIRData #OpenScience #neuroscience #neuroinformatics https://t.co/lmwbBbdR6w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1665015985936670722"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxEgZTQXwA8paXO.png" length="584" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 15:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patients and health professionals in the US are often unaware of how HIPAA governs medical data, but agree that rights over such data should be expanded for patients and curtailed for health systems, according to a Comment article in @NatureMedicine. 🔒 https://t.co/GQQNE1xhVT</title>
-      <link>https://twitter.com/NaturePortfolio/status/1665017748005482496</link>
-      <description>Patients and health professionals in the US are often unaware of how HIPAA governs medical data, but agree that rights over such data should be expanded for patients and curtailed for health systems, according to a Comment article in @NatureMedicine. 🔒 https://t.co/GQQNE1xhVT</description>
-      <content:encoded>Patients and health professionals in the US are often unaware of how HIPAA governs medical data, but agree that rights over such data should be expanded for patients and curtailed for health systems, according to a Comment article in @NatureMedicine. 🔒 https://t.co/GQQNE1xhVT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1665017748005482496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 15:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This dancing Zaouli from Ivory Coast, whose feet never leave the ground in some part of performance, is an awesome visualization of human self-stabilization 
-
-[📹 Mask Collective: https://t.co/ZHMeN2gHnN]
-https://t.co/gQgPekRh0b</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665020446402551808</link>
-      <description>This dancing Zaouli from Ivory Coast, whose feet never leave the ground in some part of performance, is an awesome visualization of human self-stabilization 
-
-[📹 Mask Collective: https://t.co/ZHMeN2gHnN]
-https://t.co/gQgPekRh0b</description>
-      <content:encoded>This dancing Zaouli from Ivory Coast, whose feet never leave the ground in some part of performance, is an awesome visualization of human self-stabilization 
-
-[📹 Mask Collective: https://t.co/ZHMeN2gHnN]
-https://t.co/gQgPekRh0b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665020446402551808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1543211960161841152/pu/img/HjKDBbntYP4RziBW.jpg" length="480" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 15:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Now serotonin sensors in neuroscientists' toolkit: https://t.co/I9Taji6CoQ</title>
-      <link>https://twitter.com/PessoaBrain/status/1665020886263427075</link>
-      <description>Now serotonin sensors in neuroscientists' toolkit: https://t.co/I9Taji6CoQ</description>
-      <content:encoded>Now serotonin sensors in neuroscientists' toolkit: https://t.co/I9Taji6CoQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1665020886263427075"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 15:41:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🖥️ Recent advances enable detailed, whole-body biomechanical simulations of model organisms.
-
-✨ Apply by June 30 for this conference aiming to assess the state of the art &amp;amp; catalyze an interdisciplinary community to address existing gaps ➡️ https://t.co/ZO8SG2VNAM
-@janeliaconf https://t.co/hMSIJ37MNm</title>
-      <link>https://twitter.com/HHMIJanelia/status/1665026057257246720</link>
-      <description>🖥️ Recent advances enable detailed, whole-body biomechanical simulations of model organisms.
-
-✨ Apply by June 30 for this conference aiming to assess the state of the art &amp;amp; catalyze an interdisciplinary community to address existing gaps ➡️ https://t.co/ZO8SG2VNAM
-@janeliaconf https://t.co/hMSIJ37MNm</description>
-      <content:encoded>🖥️ Recent advances enable detailed, whole-body biomechanical simulations of model organisms.
-
-✨ Apply by June 30 for this conference aiming to assess the state of the art &amp;amp; catalyze an interdisciplinary community to address existing gaps ➡️ https://t.co/ZO8SG2VNAM
-@janeliaconf https://t.co/hMSIJ37MNm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1665026057257246720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxtcX-dX0AMmJ0W.jpg" length="1160" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 16:02:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Projection mapping, similar to video mapping and spatial AR, is a projection technology used to turn objects, often irregularly shaped, into a display surface for video projection. This was in Laon, France
-
-[📹 Luc Negri: https://t.co/9hytDjb7yI]
-https://t.co/qj2jkMRqnj</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665026993950212097</link>
-      <description>Projection mapping, similar to video mapping and spatial AR, is a projection technology used to turn objects, often irregularly shaped, into a display surface for video projection. This was in Laon, France
-
-[📹 Luc Negri: https://t.co/9hytDjb7yI]
-https://t.co/qj2jkMRqnj</description>
-      <content:encoded>Projection mapping, similar to video mapping and spatial AR, is a projection technology used to turn objects, often irregularly shaped, into a display surface for video projection. This was in Laon, France
-
-[📹 Luc Negri: https://t.co/9hytDjb7yI]
-https://t.co/qj2jkMRqnj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665026993950212097"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664811526895841280/pu/img/tG8759l7UeJpQ2lk.jpg" length="720" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 16:05:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @maiz_julio: IC434 Horsehead and Flame Nebula in Orion https://t.co/oi3oDjBXjU https://t.co/tg2xr9Fax2</title>
-      <link>https://twitter.com/MichaelGalanin/status/1665028590432395270</link>
-      <description>RT @maiz_julio: IC434 Horsehead and Flame Nebula in Orion https://t.co/oi3oDjBXjU https://t.co/tg2xr9Fax2</description>
-      <content:encoded>RT @maiz_julio: IC434 Horsehead and Flame Nebula in Orion https://t.co/oi3oDjBXjU https://t.co/tg2xr9Fax2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1665028590432395270"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxsN4D6WwAQs42i.jpg" length="463" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 16:12:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Bridging the BCI illiteracy gap: a subject-to-subject semantic style transfer for EEG-based motor imagery classification: Introduction
-
-Brain-computer interfaces (BCIs) facilitate direct interaction between the human brain and… #Neuroscience https://t.co/txQ86FuhAX</title>
-      <link>https://twitter.com/FrontNeurosci/status/1665030974009389058</link>
-      <description>New Research: Bridging the BCI illiteracy gap: a subject-to-subject semantic style transfer for EEG-based motor imagery classification: Introduction
-
-Brain-computer interfaces (BCIs) facilitate direct interaction between the human brain and… #Neuroscience https://t.co/txQ86FuhAX</description>
-      <content:encoded>New Research: Bridging the BCI illiteracy gap: a subject-to-subject semantic style transfer for EEG-based motor imagery classification: Introduction
-
-Brain-computer interfaces (BCIs) facilitate direct interaction between the human brain and… #Neuroscience https://t.co/txQ86FuhAX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1665030974009389058"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 16:21:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jun 2023 07:15:02 +0000</lastBuildDate>
     <item>
       <title>Preparing to work on your doctoral thesis over the summer? 📝 
 
@@ -2194,6 +2035,83 @@ More info: https://t.co/OurBEYsP83
 [source: https://t.co/rEEML9Dpiv] https://t.co/oqrV9r5MgP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665604363048599552"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FxxBe6qWIAAmZGG.jpg" length="1200" type="photo"/>
       <pubDate>Mon, 05 Jun 2023 06:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @kl4sp: Dette gleder jeg meg til! Vi sees snart i Tromsø! 🤩🤖🇳🇴</title>
+      <link>https://twitter.com/GauteEinevoll/status/1665609188418961412</link>
+      <description>RT @kl4sp: Dette gleder jeg meg til! Vi sees snart i Tromsø! 🤩🤖🇳🇴</description>
+      <content:encoded>RT @kl4sp: Dette gleder jeg meg til! Vi sees snart i Tromsø! 🤩🤖🇳🇴&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GauteEinevoll/status/1665609188418961412"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 06:39:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mystical by photographer Neil Burnell exposes the otherworldly elements of Wistman’s Wood, an ancient oak woodland on Dartmoor, Devon, UK. The overgrown forest is thought to be the remnants of a similarly wooded area dating back to 7,000 B.C. 
+
+[source: https://t.co/D0JKr9fQmj] https://t.co/L3Pm7fy8h9</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665609395990937601</link>
+      <description>Mystical by photographer Neil Burnell exposes the otherworldly elements of Wistman’s Wood, an ancient oak woodland on Dartmoor, Devon, UK. The overgrown forest is thought to be the remnants of a similarly wooded area dating back to 7,000 B.C. 
+
+[source: https://t.co/D0JKr9fQmj] https://t.co/L3Pm7fy8h9</description>
+      <content:encoded>Mystical by photographer Neil Burnell exposes the otherworldly elements of Wistman’s Wood, an ancient oak woodland on Dartmoor, Devon, UK. The overgrown forest is thought to be the remnants of a similarly wooded area dating back to 7,000 B.C. 
+
+[source: https://t.co/D0JKr9fQmj] https://t.co/L3Pm7fy8h9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665609395990937601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxxBrogWYAM8wbZ.jpg" length="544" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 06:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>It is interesting the parallels you can draw between successive books you read. I just finished "The Secret Race" from Tyler Hamilton. https://t.co/bDOpF6cXAj</title>
+      <link>https://twitter.com/LecoqJerome/status/1665614338877534208</link>
+      <description>It is interesting the parallels you can draw between successive books you read. I just finished "The Secret Race" from Tyler Hamilton. https://t.co/bDOpF6cXAj</description>
+      <content:encoded>It is interesting the parallels you can draw between successive books you read. I just finished "The Secret Race" from Tyler Hamilton. https://t.co/bDOpF6cXAj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1665614338877534208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 06:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond the story on doping, I learned quite a few things. So much of professional cycling is about managing states of pains. There is a whole world there that I had not considered at all.</title>
+      <link>https://twitter.com/LecoqJerome/status/1665614340764860423</link>
+      <description>Beyond the story on doping, I learned quite a few things. So much of professional cycling is about managing states of pains. There is a whole world there that I had not considered at all.</description>
+      <content:encoded>Beyond the story on doping, I learned quite a few things. So much of professional cycling is about managing states of pains. There is a whole world there that I had not considered at all.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1665614340764860423"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 06:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The parallel with my previous book : "The Brain that changes itself" was striking. https://t.co/YKWO5X5Y0I</title>
+      <link>https://twitter.com/LecoqJerome/status/1665614342350589952</link>
+      <description>The parallel with my previous book : "The Brain that changes itself" was striking. https://t.co/YKWO5X5Y0I</description>
+      <content:encoded>The parallel with my previous book : "The Brain that changes itself" was striking. https://t.co/YKWO5X5Y0I&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1665614342350589952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 06:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is how far human radio broadcasts have reached into the galaxy 
+
+[source, read more: https://t.co/ShYySiDsC7] https://t.co/LhNIHFZ1Az</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665614436856643584</link>
+      <description>This is how far human radio broadcasts have reached into the galaxy 
+
+[source, read more: https://t.co/ShYySiDsC7] https://t.co/LhNIHFZ1Az</description>
+      <content:encoded>This is how far human radio broadcasts have reached into the galaxy 
+
+[source, read more: https://t.co/ShYySiDsC7] https://t.co/LhNIHFZ1Az&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665614436856643584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxxZkbjXwAICwtl.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 07:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pain is a such a strong and complex emotion that you can associate with so many things, both positive and negative. Professional cyclists have a few things to teach us on this regard.</title>
+      <link>https://twitter.com/LecoqJerome/status/1665615913696260097</link>
+      <description>Pain is a such a strong and complex emotion that you can associate with so many things, both positive and negative. Professional cyclists have a few things to teach us on this regard.</description>
+      <content:encoded>Pain is a such a strong and complex emotion that you can associate with so many things, both positive and negative. Professional cyclists have a few things to teach us on this regard.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1665615913696260097"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 07:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>I recommend the passage where Tyler describes how he carried on and won a stage at the Tour de France with a broken Collarbone. Regardless of doping, that was truly extraordinary. He also gave colors to different stages of pain. Few of us have experienced such a synaesthesia...</title>
+      <link>https://twitter.com/LecoqJerome/status/1665615959913013251</link>
+      <description>I recommend the passage where Tyler describes how he carried on and won a stage at the Tour de France with a broken Collarbone. Regardless of doping, that was truly extraordinary. He also gave colors to different stages of pain. Few of us have experienced such a synaesthesia...</description>
+      <content:encoded>I recommend the passage where Tyler describes how he carried on and won a stage at the Tour de France with a broken Collarbone. Regardless of doping, that was truly extraordinary. He also gave colors to different stages of pain. Few of us have experienced such a synaesthesia...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1665615959913013251"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 07:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transformer stages incrementally optimize a sparse compression criterion using a LISTA-like method. https://t.co/zgYMucPfu6</title>
+      <link>https://twitter.com/ylecun/status/1665617776575238145</link>
+      <description>Transformer stages incrementally optimize a sparse compression criterion using a LISTA-like method. https://t.co/zgYMucPfu6</description>
+      <content:encoded>Transformer stages incrementally optimize a sparse compression criterion using a LISTA-like method. https://t.co/zgYMucPfu6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1665617776575238145"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 07:13:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
