@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 23:15:39 +0000</lastBuildDate>
-    <item>
-      <title>RT @andpru: An absolutely spectacular event, that  I will not soon forgotten. Thank you everyone at #CAN2023 who joined us, both artists an…</title>
-      <link>https://twitter.com/ruimcosta/status/1665000042170576899</link>
-      <description>RT @andpru: An absolutely spectacular event, that  I will not soon forgotten. Thank you everyone at #CAN2023 who joined us, both artists an…</description>
-      <content:encoded>RT @andpru: An absolutely spectacular event, that  I will not soon forgotten. Thank you everyone at #CAN2023 who joined us, both artists an…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1665000042170576899"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 14:18:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AllenInstitute: “When it comes to the human mind—we’re fortunate to have some of the brightest here at the Allen Institute working arou…</title>
-      <link>https://twitter.com/ruimcosta/status/1665000228402106368</link>
-      <description>RT @AllenInstitute: “When it comes to the human mind—we’re fortunate to have some of the brightest here at the Allen Institute working arou…</description>
-      <content:encoded>RT @AllenInstitute: “When it comes to the human mind—we’re fortunate to have some of the brightest here at the Allen Institute working arou…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1665000228402106368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 14:19:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jun 2023 01:44:06 +0000</lastBuildDate>
     <item>
       <title>How can you visualize the entire observable universe in a relatively small rectangular area? Using the logarithmic scale, as Pablo Carlos Budassi did, locating the most notable astronomical objects as far away as the edge of time 
 
@@ -2173,6 +2159,26 @@ https://t.co/jZhrhRbJoB https://t.co/FEOiMv3YNm&lt;blockquote class="twitter-twe
       <description>Machine-learning model makes predictions about network biology https://t.co/LjOrVnmVmD</description>
       <content:encoded>Machine-learning model makes predictions about network biology https://t.co/LjOrVnmVmD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1665493867959918597"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 04 Jun 2023 23:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Nicotinic acetylcholine receptors and learning and memory deficits in Neuroinflammatory diseases: Animal survival depends on cognitive abilities such as learning and memory to adapt to environmental changes. Memory functions… #Neuroscience https://t.co/AnX6frPlE8</title>
+      <link>https://twitter.com/FrontNeurosci/status/1665508869643304961</link>
+      <description>New Research: Nicotinic acetylcholine receptors and learning and memory deficits in Neuroinflammatory diseases: Animal survival depends on cognitive abilities such as learning and memory to adapt to environmental changes. Memory functions… #Neuroscience https://t.co/AnX6frPlE8</description>
+      <content:encoded>New Research: Nicotinic acetylcholine receptors and learning and memory deficits in Neuroinflammatory diseases: Animal survival depends on cognitive abilities such as learning and memory to adapt to environmental changes. Memory functions… #Neuroscience https://t.co/AnX6frPlE8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1665508869643304961"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 00:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Evaluation of autonomic nervous system activity in intradialytic hypotension using entropy and skin sympathetic nerve activity: Introduction
+
+The function of the autonomic nervous system (ANS) is crucial in the development of… #Neuroscience https://t.co/9Oc2xeju7N</title>
+      <link>https://twitter.com/FrontNeurosci/status/1665527748922847232</link>
+      <description>New Research: Evaluation of autonomic nervous system activity in intradialytic hypotension using entropy and skin sympathetic nerve activity: Introduction
+
+The function of the autonomic nervous system (ANS) is crucial in the development of… #Neuroscience https://t.co/9Oc2xeju7N</description>
+      <content:encoded>New Research: Evaluation of autonomic nervous system activity in intradialytic hypotension using entropy and skin sympathetic nerve activity: Introduction
+
+The function of the autonomic nervous system (ANS) is crucial in the development of… #Neuroscience https://t.co/9Oc2xeju7N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1665527748922847232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 01:15:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
