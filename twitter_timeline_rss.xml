@@ -6,324 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 14:14:49 +0000</lastBuildDate>
-    <item>
-      <title>https://t.co/WKYyOlYRzq</title>
-      <link>https://twitter.com/elonmusk/status/1665222486915522564</link>
-      <description>https://t.co/WKYyOlYRzq</description>
-      <content:encoded>https://t.co/WKYyOlYRzq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1665222486915522564"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxwPBq4XoAAzF6p.jpg" length="835" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 05:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want to learn about the science &amp;amp; engineering of brain data? Check out our upcoming course!
-
-📢Apply by Jun 15
-
-Introduction to Neuroinformatics
-📍@UW, Seattle, WA, USA
-📅Oct 2-4
--50% for INCF members 🧠
-
-Learn more: https://t.co/yAPUqrLtWz
-
-#neuroscience #neuroinformatics https://t.co/gLhykY1LRQ</title>
-      <link>https://twitter.com/INCForg/status/1665234173572055043</link>
-      <description>Want to learn about the science &amp;amp; engineering of brain data? Check out our upcoming course!
-
-📢Apply by Jun 15
-
-Introduction to Neuroinformatics
-📍@UW, Seattle, WA, USA
-📅Oct 2-4
--50% for INCF members 🧠
-
-Learn more: https://t.co/yAPUqrLtWz
-
-#neuroscience #neuroinformatics https://t.co/gLhykY1LRQ</description>
-      <content:encoded>Want to learn about the science &amp;amp; engineering of brain data? Check out our upcoming course!
-
-📢Apply by Jun 15
-
-Introduction to Neuroinformatics
-📍@UW, Seattle, WA, USA
-📅Oct 2-4
--50% for INCF members 🧠
-
-Learn more: https://t.co/yAPUqrLtWz
-
-#neuroscience #neuroinformatics https://t.co/gLhykY1LRQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1665234173572055043"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxEeJl0XwBcWdz9.jpg" length="500" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Sun can sometimes explode into violence on a scale that boggles the mind. Like 77 years ago #Today, when the Great Eruptive Prominence was observed on the Sun
-
-[read more: https://t.co/A1XZREYnpY]
-https://t.co/XjMBU9chcl</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665242214727839744</link>
-      <description>Our Sun can sometimes explode into violence on a scale that boggles the mind. Like 77 years ago #Today, when the Great Eruptive Prominence was observed on the Sun
-
-[read more: https://t.co/A1XZREYnpY]
-https://t.co/XjMBU9chcl</description>
-      <content:encoded>Our Sun can sometimes explode into violence on a scale that boggles the mind. Like 77 years ago #Today, when the Great Eruptive Prominence was observed on the Sun
-
-[read more: https://t.co/A1XZREYnpY]
-https://t.co/XjMBU9chcl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665242214727839744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1532983752950947840/pu/img/xcfN0jl6D_NokZHs.jpg" length="640" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 06:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>86 years ago #Today (1937), the first shopping carts were introduced in Oklahoma City, invented by Sylvan Goldman
-
-[read more: https://t.co/9YkkF55Vgt] https://t.co/tQNXZVta3V</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665244058950815745</link>
-      <description>86 years ago #Today (1937), the first shopping carts were introduced in Oklahoma City, invented by Sylvan Goldman
-
-[read more: https://t.co/9YkkF55Vgt] https://t.co/tQNXZVta3V</description>
-      <content:encoded>86 years ago #Today (1937), the first shopping carts were introduced in Oklahoma City, invented by Sylvan Goldman
-
-[read more: https://t.co/9YkkF55Vgt] https://t.co/tQNXZVta3V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665244058950815745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxwin9oXoAANYAw.jpg" length="504" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 06:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Today in 1982, Star Trek II: The Wrath of Khan was released.
-
-[read more: https://t.co/E3JoPkqYNr]
-https://t.co/TApaVKKwx0 https://t.co/JvSypkwdup</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665246914017632256</link>
-      <description>#Today in 1982, Star Trek II: The Wrath of Khan was released.
-
-[read more: https://t.co/E3JoPkqYNr]
-https://t.co/TApaVKKwx0 https://t.co/JvSypkwdup</description>
-      <content:encoded>#Today in 1982, Star Trek II: The Wrath of Khan was released.
-
-[read more: https://t.co/E3JoPkqYNr]
-https://t.co/TApaVKKwx0 https://t.co/JvSypkwdup&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665246914017632256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1435557588356276227/pu/img/W2LyPV8blLoWTNkR.jpg" length="1200" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 06:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>120 years ago #Today, one of the earliest and notable hacking episodes in history took place. Neville Maskelyn hacked a demonstration of the Marconi radio communications system to make the point of security flaws in radio messaging.
-
-[read more: https://t.co/uVzN6opwEQ] https://t.co/9ha3frsbrD</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665247550155239426</link>
-      <description>120 years ago #Today, one of the earliest and notable hacking episodes in history took place. Neville Maskelyn hacked a demonstration of the Marconi radio communications system to make the point of security flaws in radio messaging.
-
-[read more: https://t.co/uVzN6opwEQ] https://t.co/9ha3frsbrD</description>
-      <content:encoded>120 years ago #Today, one of the earliest and notable hacking episodes in history took place. Neville Maskelyn hacked a demonstration of the Marconi radio communications system to make the point of security flaws in radio messaging.
-
-[read more: https://t.co/uVzN6opwEQ] https://t.co/9ha3frsbrD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665247550155239426"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fxwlb27WwAA2FUS.jpg" length="360" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 06:42:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @PsychScientists: My dreams are utterly unable to make a working phone, to the point where it can derail the dream. I had one last night…</title>
-      <link>https://twitter.com/Neuro_Skeptic/status/1665251949329915905</link>
-      <description>RT @PsychScientists: My dreams are utterly unable to make a working phone, to the point where it can derail the dream. I had one last night…</description>
-      <content:encoded>RT @PsychScientists: My dreams are utterly unable to make a working phone, to the point where it can derail the dream. I had one last night…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1665251949329915905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 04 Jun 2023 06:59:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>We know from the golden ratio formula that 1 + √5 = 2ϕ and from the famous Euler's identity, that eⁱⁿ + 1 = 0.  
-
-Since 1 = 2ϕ - √5, we can also write that eⁱⁿ + 2ϕ - √5 = 0 or eⁱⁿ + 2ϕ = √5
-
-A simple expression relating ϕ, π, i, and e
-
-[source: https://t.co/5gN5TKM5XM] https://t.co/ytNIRFWY87</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665254244226670593</link>
-      <description>We know from the golden ratio formula that 1 + √5 = 2ϕ and from the famous Euler's identity, that eⁱⁿ + 1 = 0.  
-
-Since 1 = 2ϕ - √5, we can also write that eⁱⁿ + 2ϕ - √5 = 0 or eⁱⁿ + 2ϕ = √5
-
-A simple expression relating ϕ, π, i, and e
-
-[source: https://t.co/5gN5TKM5XM] https://t.co/ytNIRFWY87</description>
-      <content:encoded>We know from the golden ratio formula that 1 + √5 = 2ϕ and from the famous Euler's identity, that eⁱⁿ + 1 = 0.  
-
-Since 1 = 2ϕ - √5, we can also write that eⁱⁿ + 2ϕ - √5 = 0 or eⁱⁿ + 2ϕ = √5
-
-A simple expression relating ϕ, π, i, and e
-
-[source: https://t.co/5gN5TKM5XM] https://t.co/ytNIRFWY87&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665254244226670593"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxwryK6XsAAaHZe.jpg" length="608" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 07:08:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Differential encoding of temporal context and expectation under representational drift across hierarchically connected areas  https://t.co/C4BxAyb0Jf #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1665255926901755905</link>
-      <description>Differential encoding of temporal context and expectation under representational drift across hierarchically connected areas  https://t.co/C4BxAyb0Jf #biorxiv_neursci</description>
-      <content:encoded>Differential encoding of temporal context and expectation under representational drift across hierarchically connected areas  https://t.co/C4BxAyb0Jf #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1665255926901755905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 04 Jun 2023 07:15:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The spectacular wingtip vortices generated by the smoke and the low passage of this old Hawker Sea Fury 
-
-[full video, Elliot Seguin: https://t.co/UBBXm5jQ6b]
-https://t.co/Qgw5mDkIgy</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665260024199802881</link>
-      <description>The spectacular wingtip vortices generated by the smoke and the low passage of this old Hawker Sea Fury 
-
-[full video, Elliot Seguin: https://t.co/UBBXm5jQ6b]
-https://t.co/Qgw5mDkIgy</description>
-      <content:encoded>The spectacular wingtip vortices generated by the smoke and the low passage of this old Hawker Sea Fury 
-
-[full video, Elliot Seguin: https://t.co/UBBXm5jQ6b]
-https://t.co/Qgw5mDkIgy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665260024199802881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1105557775764070401/pu/img/nkeEvnlltKIHRxi7.jpg" length="640" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 07:31:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AJamesMcCarthy: If you haven't yet, make sure you look outside tonight to see the full moon Here's a closeup of the surface I captured…</title>
-      <link>https://twitter.com/MichaelGalanin/status/1665260899660070912</link>
-      <description>RT @AJamesMcCarthy: If you haven't yet, make sure you look outside tonight to see the full moon Here's a closeup of the surface I captured…</description>
-      <content:encoded>RT @AJamesMcCarthy: If you haven't yet, make sure you look outside tonight to see the full moon Here's a closeup of the surface I captured…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1665260899660070912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 04 Jun 2023 07:35:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Promising Therapy Approach: here is a highly recommended study in @NatureMedicine by Georg Schett @UniFAU et al., demonstrating the effectiveness and tolerability of CD19 CAR T cell transfer as a potential therapy for #systemiclupuserythematosus
-
-https://t.co/2HYwj50g60 https://t.co/JbykC1ZNyX</title>
-      <link>https://twitter.com/Facultyopinions/status/1665262113403678720</link>
-      <description>A Promising Therapy Approach: here is a highly recommended study in @NatureMedicine by Georg Schett @UniFAU et al., demonstrating the effectiveness and tolerability of CD19 CAR T cell transfer as a potential therapy for #systemiclupuserythematosus
-
-https://t.co/2HYwj50g60 https://t.co/JbykC1ZNyX</description>
-      <content:encoded>A Promising Therapy Approach: here is a highly recommended study in @NatureMedicine by Georg Schett @UniFAU et al., demonstrating the effectiveness and tolerability of CD19 CAR T cell transfer as a potential therapy for #systemiclupuserythematosus
-
-https://t.co/2HYwj50g60 https://t.co/JbykC1ZNyX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1665262113403678720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxwzEShWIAA944S.jpg" length="764" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 07:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>This 👇
-(Make sure to read the whole thread) https://t.co/K4paBx0ChW</title>
-      <link>https://twitter.com/vdignum/status/1665263693083320321</link>
-      <description>This 👇
-(Make sure to read the whole thread) https://t.co/K4paBx0ChW</description>
-      <content:encoded>This 👇
-(Make sure to read the whole thread) https://t.co/K4paBx0ChW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1665263693083320321"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 04 Jun 2023 07:46:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DrTechlash: Why do Doomers initiate Open Letters?
-Because they draw all the attention.
-
-How well does this PR stunt work?
-See for yours…</title>
-      <link>https://twitter.com/vdignum/status/1665264634109087745</link>
-      <description>RT @DrTechlash: Why do Doomers initiate Open Letters?
-Because they draw all the attention.
-
-How well does this PR stunt work?
-See for yours…</description>
-      <content:encoded>RT @DrTechlash: Why do Doomers initiate Open Letters?
-Because they draw all the attention.
-
-How well does this PR stunt work?
-See for yours…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1665264634109087745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 04 Jun 2023 07:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adding some salt and using a 9V battery you can split water into hydrogen and oxygen. It's called electrolysis and since 2H₂O --&amp;gt; 2 H₂ + O₂, you also visualize what electrode releases hydrogen and what oxygen 
-
-[📹 Tyler Lopez: https://t.co/0KDHAK5pOZ]
-https://t.co/OGHpBGpiVb</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665264668821135360</link>
-      <description>Adding some salt and using a 9V battery you can split water into hydrogen and oxygen. It's called electrolysis and since 2H₂O --&amp;gt; 2 H₂ + O₂, you also visualize what electrode releases hydrogen and what oxygen 
-
-[📹 Tyler Lopez: https://t.co/0KDHAK5pOZ]
-https://t.co/OGHpBGpiVb</description>
-      <content:encoded>Adding some salt and using a 9V battery you can split water into hydrogen and oxygen. It's called electrolysis and since 2H₂O --&amp;gt; 2 H₂ + O₂, you also visualize what electrode releases hydrogen and what oxygen 
-
-[📹 Tyler Lopez: https://t.co/0KDHAK5pOZ]
-https://t.co/OGHpBGpiVb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665264668821135360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FW1O7SOXoAA0aAJ.jpg" length="600" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 07:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>A demonstration for this Ramanujan nested radical 
-
-[video by MindYourDecisions: https://t.co/6EnUx8RQPQ] 
-[more about Srinivasa Ramanujan:  https://t.co/Xp3dvbLI0t]
-https://t.co/Encl2z4hff</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665270792395915264</link>
-      <description>A demonstration for this Ramanujan nested radical 
-
-[video by MindYourDecisions: https://t.co/6EnUx8RQPQ] 
-[more about Srinivasa Ramanujan:  https://t.co/Xp3dvbLI0t]
-https://t.co/Encl2z4hff</description>
-      <content:encoded>A demonstration for this Ramanujan nested radical 
-
-[video by MindYourDecisions: https://t.co/6EnUx8RQPQ] 
-[more about Srinivasa Ramanujan:  https://t.co/Xp3dvbLI0t]
-https://t.co/Encl2z4hff&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665270792395915264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FWzdzEKWYAAhmZ9.jpg" length="600" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 08:14:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interesting. https://t.co/wcbUGcYXh4</title>
-      <link>https://twitter.com/ylecun/status/1665271521823031297</link>
-      <description>Interesting. https://t.co/wcbUGcYXh4</description>
-      <content:encoded>Interesting. https://t.co/wcbUGcYXh4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1665271521823031297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 04 Jun 2023 08:17:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A statistician's view of AGI doomer drama. https://t.co/nx1pGaNVt9</title>
-      <link>https://twitter.com/ylecun/status/1665272537939423232</link>
-      <description>A statistician's view of AGI doomer drama. https://t.co/nx1pGaNVt9</description>
-      <content:encoded>A statistician's view of AGI doomer drama. https://t.co/nx1pGaNVt9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1665272537939423232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 04 Jun 2023 08:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The moment the massive dust storm that hit Egypt on June 1 gets to the Suez Canal
-
-[📹 Mohammed Saled: https://t.co/JX4VOrDfEZ]
-https://t.co/Qx0tS4IV2M</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665275898344493057</link>
-      <description>The moment the massive dust storm that hit Egypt on June 1 gets to the Suez Canal
-
-[📹 Mohammed Saled: https://t.co/JX4VOrDfEZ]
-https://t.co/Qx0tS4IV2M</description>
-      <content:encoded>The moment the massive dust storm that hit Egypt on June 1 gets to the Suez Canal
-
-[📹 Mohammed Saled: https://t.co/JX4VOrDfEZ]
-https://t.co/Qx0tS4IV2M&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665275898344493057"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665136933679382529/pu/img/SVFjnPz1oqzPOy6d.jpg" length="406" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 08:34:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers @TAMU published a research paper detailing their project, #BigNeuron. This initiative seeks to establish standard methods for the accurate and swift automated reconstruction of #neurons, using deep learning algorithms.
-https://t.co/NS1n0P9p46
-#neuroscience https://t.co/oDoa4b7fDg</title>
-      <link>https://twitter.com/Scientifica_Int/status/1665282278421942274</link>
-      <description>Researchers @TAMU published a research paper detailing their project, #BigNeuron. This initiative seeks to establish standard methods for the accurate and swift automated reconstruction of #neurons, using deep learning algorithms.
-https://t.co/NS1n0P9p46
-#neuroscience https://t.co/oDoa4b7fDg</description>
-      <content:encoded>Researchers @TAMU published a research paper detailing their project, #BigNeuron. This initiative seeks to establish standard methods for the accurate and swift automated reconstruction of #neurons, using deep learning algorithms.
-https://t.co/NS1n0P9p46
-#neuroscience https://t.co/oDoa4b7fDg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1665282278421942274"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxxFZL-XsAEW0WQ.jpg" length="1000" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 09:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is what it might look like to be on a planet orbiting a pulsar 
-
-[full video, NatGeo: https://t.co/rcP2Xpgu41]
-https://t.co/6Nf1Z5ORMX</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665285943253770242</link>
-      <description>This is what it might look like to be on a planet orbiting a pulsar 
-
-[full video, NatGeo: https://t.co/rcP2Xpgu41]
-https://t.co/6Nf1Z5ORMX</description>
-      <content:encoded>This is what it might look like to be on a planet orbiting a pulsar 
-
-[full video, NatGeo: https://t.co/rcP2Xpgu41]
-https://t.co/6Nf1Z5ORMX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665285943253770242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1543857627448414210/pu/img/NgOWNo66wGN4zn5k.jpg" length="960" type="photo"/>
-      <pubDate>Sun, 04 Jun 2023 09:14:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jun 2023 15:16:22 +0000</lastBuildDate>
     <item>
       <title>One way to scare the heck out of your guests https://t.co/fsaEn7uXBR</title>
       <link>https://twitter.com/neuralengine/status/1665289404665982976</link>
@@ -1256,19 +939,6 @@ Parents of autistic children experience increased levels of caregiver strain and
       <description>Cortical high-frequency oscillations ({approx} 110 Hz) in cats are state-dependent and enhanced by a subanesthetic dose of ketamine  https://t.co/0bW6w8QrJU #biorxiv_neursci</description>
       <content:encoded>Cortical high-frequency oscillations ({approx} 110 Hz) in cats are state-dependent and enhanced by a subanesthetic dose of ketamine  https://t.co/0bW6w8QrJU #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1665588144807321605"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 05 Jun 2023 05:15:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @PhysInHistory: "Only a few know, how much one must know to know how little one knows."
-
--- Werner Heisenberg (1901 - 1976) https://t.co…</title>
-      <link>https://twitter.com/ProfFeynman/status/1665591634787024896</link>
-      <description>RT @PhysInHistory: "Only a few know, how much one must know to know how little one knows."
-
--- Werner Heisenberg (1901 - 1976) https://t.co…</description>
-      <content:encoded>RT @PhysInHistory: "Only a few know, how much one must know to know how little one knows."
-
--- Werner Heisenberg (1901 - 1976) https://t.co…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1665591634787024896"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 05:29:25 +0000</pubDate>
     </item>
     <item>
       <title>There are about 600 known active and dormant volcanoes in the world: 450 of these (75%) is here, in the Ring of Fire 
@@ -2379,6 +2049,289 @@ PURPOSE: Anti-PSD95 chimeric recombinant antibody. The hybridoma-derived heavy c
 https://t.co/AQF3qtJe4s https://t.co/syrQslhb0q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1665721902084640768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fx3VO-CXsAMryPz.jpg" length="480" type="photo"/>
       <pubDate>Mon, 05 Jun 2023 14:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The genus Megachile is called leafcutter bees because they neatly cut pieces of leaves or petals to build their nests. Here are some babies 
+
+[read more: https://t.co/onyYVkxiIf] 
+[clip by Emily Doorish: https://t.co/G1gBrzkkq2]
+https://t.co/mjxAvQiQ7Y</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665726092328435713</link>
+      <description>The genus Megachile is called leafcutter bees because they neatly cut pieces of leaves or petals to build their nests. Here are some babies 
+
+[read more: https://t.co/onyYVkxiIf] 
+[clip by Emily Doorish: https://t.co/G1gBrzkkq2]
+https://t.co/mjxAvQiQ7Y</description>
+      <content:encoded>The genus Megachile is called leafcutter bees because they neatly cut pieces of leaves or petals to build their nests. Here are some babies 
+
+[read more: https://t.co/onyYVkxiIf] 
+[clip by Emily Doorish: https://t.co/G1gBrzkkq2]
+https://t.co/mjxAvQiQ7Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665726092328435713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1130397082899111936/pu/img/YuoYMxTM1WVWLiQP.jpg" length="720" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 14:23:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>A fatty acid in maternal milk is critical for the maturation of the heart in newborn mice, according to a paper published in @Nature. https://t.co/dvZoEY1LOq https://t.co/g7oSxLeZjT</title>
+      <link>https://twitter.com/NaturePortfolio/status/1665726439704911874</link>
+      <description>A fatty acid in maternal milk is critical for the maturation of the heart in newborn mice, according to a paper published in @Nature. https://t.co/dvZoEY1LOq https://t.co/g7oSxLeZjT</description>
+      <content:encoded>A fatty acid in maternal milk is critical for the maturation of the heart in newborn mice, according to a paper published in @Nature. https://t.co/dvZoEY1LOq https://t.co/g7oSxLeZjT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1665726439704911874"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx3ZWkNXoAEMWuQ.jpg" length="1066" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tyrell_turing Congratulations Blake! Enjoy it.</title>
+      <link>https://twitter.com/andpru/status/1665727364267929602</link>
+      <description>@tyrell_turing Congratulations Blake! Enjoy it.</description>
+      <content:encoded>@tyrell_turing Congratulations Blake! Enjoy it.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1665727364267929602"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 14:28:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Funded by the ERC, Marta Verginella from the University of Ljubljana delves into the captivating stories of women who shaped history in post-war times 👉https://t.co/ZIWMEIqHt0
+
+@EKvSloveniji
+#HorizonEU https://t.co/MYCvdaBnqT</title>
+      <link>https://twitter.com/ERC_Research/status/1665727687326076929</link>
+      <description>Funded by the ERC, Marta Verginella from the University of Ljubljana delves into the captivating stories of women who shaped history in post-war times 👉https://t.co/ZIWMEIqHt0
+
+@EKvSloveniji
+#HorizonEU https://t.co/MYCvdaBnqT</description>
+      <content:encoded>Funded by the ERC, Marta Verginella from the University of Ljubljana delves into the captivating stories of women who shaped history in post-war times 👉https://t.co/ZIWMEIqHt0
+
+@EKvSloveniji
+#HorizonEU https://t.co/MYCvdaBnqT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1665727687326076929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx3agC_aQAUCuaZ.jpg" length="298" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 14:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>@EKvSloveniji 📣 Don't forget to join our webinar for researchers based in Slovenia 🇸🇮: https://t.co/Dntlxo0TRT</title>
+      <link>https://twitter.com/ERC_Research/status/1665727697690185729</link>
+      <description>@EKvSloveniji 📣 Don't forget to join our webinar for researchers based in Slovenia 🇸🇮: https://t.co/Dntlxo0TRT</description>
+      <content:encoded>@EKvSloveniji 📣 Don't forget to join our webinar for researchers based in Slovenia 🇸🇮: https://t.co/Dntlxo0TRT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1665727697690185729"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 14:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>📢Upcoming INCF Short Course📢
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+Apply by: Jun 15
+
+Learn about the science &amp;amp; engineering of brain data - 50% course discount for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrKW71
+
+#neuroscience #neuroinformatics https://t.co/9n82k9nVLZ</title>
+      <link>https://twitter.com/INCForg/status/1665729185476755456</link>
+      <description>📢Upcoming INCF Short Course📢
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+Apply by: Jun 15
+
+Learn about the science &amp;amp; engineering of brain data - 50% course discount for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrKW71
+
+#neuroscience #neuroinformatics https://t.co/9n82k9nVLZ</description>
+      <content:encoded>📢Upcoming INCF Short Course📢
+
+Introduction to Neuroinformatics
+📍@UW, Seattle, WA, USA
+📅Oct 2-4
+Apply by: Jun 15
+
+Learn about the science &amp;amp; engineering of brain data - 50% course discount for INCF members 🧠
+
+Learn more: https://t.co/yAPUqrKW71
+
+#neuroscience #neuroinformatics https://t.co/9n82k9nVLZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1665729185476755456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fw1KZzRXwAAbStd.jpg" length="500" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 14:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Collagen mimetic peptide repair of the corneal nerve bed in a mouse model of dry eye disease: The intraepithelial sub-basal nerve plexus of the cornea is characterized by a central swirl of nerve processes that terminate… #Neuroscience https://t.co/dlN0ikub1Q</title>
+      <link>https://twitter.com/FrontNeurosci/status/1665730077576032258</link>
+      <description>New Research: Collagen mimetic peptide repair of the corneal nerve bed in a mouse model of dry eye disease: The intraepithelial sub-basal nerve plexus of the cornea is characterized by a central swirl of nerve processes that terminate… #Neuroscience https://t.co/dlN0ikub1Q</description>
+      <content:encoded>New Research: Collagen mimetic peptide repair of the corneal nerve bed in a mouse model of dry eye disease: The intraepithelial sub-basal nerve plexus of the cornea is characterized by a central swirl of nerve processes that terminate… #Neuroscience https://t.co/dlN0ikub1Q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1665730077576032258"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 14:39:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @HistedLab: Happy to share our recent paper, showing cortical pattern amplification with learning, w/ @KanakaRajanPhD lab,
+just pub'd in…</title>
+      <link>https://twitter.com/AndrewHires/status/1665731536497557504</link>
+      <description>RT @HistedLab: Happy to share our recent paper, showing cortical pattern amplification with learning, w/ @KanakaRajanPhD lab,
+just pub'd in…</description>
+      <content:encoded>RT @HistedLab: Happy to share our recent paper, showing cortical pattern amplification with learning, w/ @KanakaRajanPhD lab,
+just pub'd in…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1665731536497557504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 14:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tyrell_turing Congrats!!</title>
+      <link>https://twitter.com/gottapatchemall/status/1665731891566092288</link>
+      <description>@tyrell_turing Congrats!!</description>
+      <content:encoded>@tyrell_turing Congrats!!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1665731891566092288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 14:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tyrell_turing Congrats !</title>
+      <link>https://twitter.com/AToliasLab/status/1665732165814853634</link>
+      <description>@tyrell_turing Congrats !</description>
+      <content:encoded>@tyrell_turing Congrats !&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1665732165814853634"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 14:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hear what past awardees have to say about our Trainee Professional Development Award, opening June 15! 
+
+Recipients receive a travel stipend to present their research at #SfN23 and more.
+
+Applicants must submit an abstract to be eligible. 
+
+Learn more: https://t.co/SGMT82SsUf https://t.co/gl280wmNgP</title>
+      <link>https://twitter.com/SfNtweets/status/1665733581786718210</link>
+      <description>Hear what past awardees have to say about our Trainee Professional Development Award, opening June 15! 
+
+Recipients receive a travel stipend to present their research at #SfN23 and more.
+
+Applicants must submit an abstract to be eligible. 
+
+Learn more: https://t.co/SGMT82SsUf https://t.co/gl280wmNgP</description>
+      <content:encoded>Hear what past awardees have to say about our Trainee Professional Development Award, opening June 15! 
+
+Recipients receive a travel stipend to present their research at #SfN23 and more.
+
+Applicants must submit an abstract to be eligible. 
+
+Learn more: https://t.co/SGMT82SsUf https://t.co/gl280wmNgP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1665733581786718210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665733476648116225/pu/img/HDqE_aXk-hsLJQNn.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 14:53:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CoryMillerMarmo: SimCo Abstracts &amp;amp; YIA submission date is next week (6/15). You can submit your SFN abstract. NHP focused conference wi…</title>
+      <link>https://twitter.com/jdlieber/status/1665734536909451265</link>
+      <description>RT @CoryMillerMarmo: SimCo Abstracts &amp;amp; YIA submission date is next week (6/15). You can submit your SFN abstract. NHP focused conference wi…</description>
+      <content:encoded>RT @CoryMillerMarmo: SimCo Abstracts &amp;amp; YIA submission date is next week (6/15). You can submit your SFN abstract. NHP focused conference wi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jdlieber/status/1665734536909451265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 14:57:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eastern Hokkaido is amazingly gorgeous with its breathtaking flower parks and gardens in spring. Higashimokoto Shibazakura Park is one of the most valued flower kingdoms, exploding with purple phlox subulata
+
+[read more: https://t.co/rqKiIPgJFY]
+https://t.co/FMJyg2xGuM</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665734662705037313</link>
+      <description>Eastern Hokkaido is amazingly gorgeous with its breathtaking flower parks and gardens in spring. Higashimokoto Shibazakura Park is one of the most valued flower kingdoms, exploding with purple phlox subulata
+
+[read more: https://t.co/rqKiIPgJFY]
+https://t.co/FMJyg2xGuM</description>
+      <content:encoded>Eastern Hokkaido is amazingly gorgeous with its breathtaking flower parks and gardens in spring. Higashimokoto Shibazakura Park is one of the most valued flower kingdoms, exploding with purple phlox subulata
+
+[read more: https://t.co/rqKiIPgJFY]
+https://t.co/FMJyg2xGuM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665734662705037313"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1317143052192985089/pu/img/HRBAsmzEXEf-Jfgc.jpg" length="799" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 14:57:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>A high school’s AI-powered security screening system failed to detect a knife that a student later used to attack a classmate. 
+
+Learn more in #TheBatch: https://t.co/R689uZ1qNw</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1665735228290154496</link>
+      <description>A high school’s AI-powered security screening system failed to detect a knife that a student later used to attack a classmate. 
+
+Learn more in #TheBatch: https://t.co/R689uZ1qNw</description>
+      <content:encoded>A high school’s AI-powered security screening system failed to detect a knife that a student later used to attack a classmate. 
+
+Learn more in #TheBatch: https://t.co/R689uZ1qNw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1665735228290154496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The study of neuroscience and animal motor control has pivotally influenced robotic locomotion and has also helped robotics to inform basic science, according to a new @SciRobotics Review. https://t.co/qyMpGuJVZy https://t.co/dqKBLzKo3r</title>
+      <link>https://twitter.com/ScienceMagazine/status/1665735366710554627</link>
+      <description>The study of neuroscience and animal motor control has pivotally influenced robotic locomotion and has also helped robotics to inform basic science, according to a new @SciRobotics Review. https://t.co/qyMpGuJVZy https://t.co/dqKBLzKo3r</description>
+      <content:encoded>The study of neuroscience and animal motor control has pivotally influenced robotic locomotion and has also helped robotics to inform basic science, according to a new @SciRobotics Review. https://t.co/qyMpGuJVZy https://t.co/dqKBLzKo3r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1665735366710554627"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx3hfPQWwAAb8P4.jpg" length="910" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 15:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>On #WorldEnvironmentDay read about @ErikvanSebille effort to keep track of plastic #pollution in our oceans 🌊
+
+Tracking the movement of plastics could help policymakers design targeted measures to address this existential issue.
+
+Read more: https://t.co/3U7J89nJy3
+
+@UniUtrecht https://t.co/jQnodyeYmt</title>
+      <link>https://twitter.com/ERC_Research/status/1665735450953396224</link>
+      <description>On #WorldEnvironmentDay read about @ErikvanSebille effort to keep track of plastic #pollution in our oceans 🌊
+
+Tracking the movement of plastics could help policymakers design targeted measures to address this existential issue.
+
+Read more: https://t.co/3U7J89nJy3
+
+@UniUtrecht https://t.co/jQnodyeYmt</description>
+      <content:encoded>On #WorldEnvironmentDay read about @ErikvanSebille effort to keep track of plastic #pollution in our oceans 🌊
+
+Tracking the movement of plastics could help policymakers design targeted measures to address this existential issue.
+
+Read more: https://t.co/3U7J89nJy3
+
+@UniUtrecht https://t.co/jQnodyeYmt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1665735450953396224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665735248557277185/pu/img/Jtb1wHfHFAoiq8lU.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 15:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tyrell_turing Wow, congrats 👏🎉</title>
+      <link>https://twitter.com/ylecun/status/1665736527698178049</link>
+      <description>@tyrell_turing Wow, congrats 👏🎉</description>
+      <content:encoded>@tyrell_turing Wow, congrats 👏🎉&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1665736527698178049"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 15:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>What do a student tinkerer in Bhutan, a design professional in Nairobi, and an artist in Brazil have in common? They’re part of the fab lab network, a global community of makers of all skill levels working in maker facilities inspired by one at MIT. https://t.co/2aEcUFQqic https://t.co/PRf7gxyo1m</title>
+      <link>https://twitter.com/MIT/status/1665736562158497797</link>
+      <description>What do a student tinkerer in Bhutan, a design professional in Nairobi, and an artist in Brazil have in common? They’re part of the fab lab network, a global community of makers of all skill levels working in maker facilities inspired by one at MIT. https://t.co/2aEcUFQqic https://t.co/PRf7gxyo1m</description>
+      <content:encoded>What do a student tinkerer in Bhutan, a design professional in Nairobi, and an artist in Brazil have in common? They’re part of the fab lab network, a global community of makers of all skill levels working in maker facilities inspired by one at MIT. https://t.co/2aEcUFQqic https://t.co/PRf7gxyo1m&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1665736562158497797"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx3ik4iWcAM26LU.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 15:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our new special issue on Plant Interactions is out! Inside is a collection of pieces giving an overview of some of the many interesting ways in which plants interact with others and with each other. Have a look: https://t.co/taSVI6NKdr https://t.co/mzYQUNlehO</title>
+      <link>https://twitter.com/CurrentBiology/status/1665736587185991682</link>
+      <description>Our new special issue on Plant Interactions is out! Inside is a collection of pieces giving an overview of some of the many interesting ways in which plants interact with others and with each other. Have a look: https://t.co/taSVI6NKdr https://t.co/mzYQUNlehO</description>
+      <content:encoded>Our new special issue on Plant Interactions is out! Inside is a collection of pieces giving an overview of some of the many interesting ways in which plants interact with others and with each other. Have a look: https://t.co/taSVI6NKdr https://t.co/mzYQUNlehO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CurrentBiology/status/1665736587185991682"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx3iHOfWYAESaIn.jpg" length="591" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 15:05:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Students don't need a perfect teacher. They need a happy teacher, who's gonna make them excited to come to school and grow a love for learning. https://t.co/IgdxAvbcc9</title>
+      <link>https://twitter.com/ProfFeynman/status/1665738236935786497</link>
+      <description>Students don't need a perfect teacher. They need a happy teacher, who's gonna make them excited to come to school and grow a love for learning. https://t.co/IgdxAvbcc9</description>
+      <content:encoded>Students don't need a perfect teacher. They need a happy teacher, who's gonna make them excited to come to school and grow a love for learning. https://t.co/IgdxAvbcc9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1665738236935786497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx3kGCeXoAITqgn.jpg" length="565" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 15:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Danilo De Campos began his artistic career with classical dance and evolved its performances towards circus arts and parkour. This evocative installation against the blue sky in Arles, France is a minute of poetry
+
+[Instagram: https://t.co/UJpTJPOfZk]
+https://t.co/XUqtxL0ch3</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665738282792017921</link>
+      <description>Danilo De Campos began his artistic career with classical dance and evolved its performances towards circus arts and parkour. This evocative installation against the blue sky in Arles, France is a minute of poetry
+
+[Instagram: https://t.co/UJpTJPOfZk]
+https://t.co/XUqtxL0ch3</description>
+      <content:encoded>Danilo De Campos began his artistic career with classical dance and evolved its performances towards circus arts and parkour. This evocative installation against the blue sky in Arles, France is a minute of poetry
+
+[Instagram: https://t.co/UJpTJPOfZk]
+https://t.co/XUqtxL0ch3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665738282792017921"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665517451365462016/pu/img/KEAFOFrmmj1ZnwU3.jpg" length="675" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 15:12:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decoding Arbitrary and Informed Decisions from Intracranial Recordings in Humans  https://t.co/WbJ1bHzk7C #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1665739121547984896</link>
+      <description>Decoding Arbitrary and Informed Decisions from Intracranial Recordings in Humans  https://t.co/WbJ1bHzk7C #biorxiv_neursci</description>
+      <content:encoded>Decoding Arbitrary and Informed Decisions from Intracranial Recordings in Humans  https://t.co/WbJ1bHzk7C #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1665739121547984896"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 15:15:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
