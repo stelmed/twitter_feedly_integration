@@ -6,104 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 11:13:11 +0000</lastBuildDate>
-    <item>
-      <title>A simple model showed that inactivation of A-type K+ channels opens the dSpike window, and inactivation of dendritic NaV channels shuts it.  These channels implement a high-pass filter on the spike rate: increasing spike rates lead to dSpikes, while constant spiking does not. https://t.co/ns6nhdI6JV</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088492429512704</link>
-      <description>A simple model showed that inactivation of A-type K+ channels opens the dSpike window, and inactivation of dendritic NaV channels shuts it.  These channels implement a high-pass filter on the spike rate: increasing spike rates lead to dSpikes, while constant spiking does not. https://t.co/ns6nhdI6JV</description>
-      <content:encoded>A simple model showed that inactivation of A-type K+ channels opens the dSpike window, and inactivation of dendritic NaV channels shuts it.  These channels implement a high-pass filter on the spike rate: increasing spike rates lead to dSpikes, while constant spiking does not. https://t.co/ns6nhdI6JV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088492429512704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxuR80gaIAAvM1y.png" length="732" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 20:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>If the voltage has no record of the synaptic inputs, then where is the synaptic memory trace? NMDA receptors to the rescue! These receptors require glutamate and depolarization to open, so they are a natural candidate for the cross-correlator of pre- and post-synaptic activity.</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088494731919362</link>
-      <description>If the voltage has no record of the synaptic inputs, then where is the synaptic memory trace? NMDA receptors to the rescue! These receptors require glutamate and depolarization to open, so they are a natural candidate for the cross-correlator of pre- and post-synaptic activity.</description>
-      <content:encoded>If the voltage has no record of the synaptic inputs, then where is the synaptic memory trace? NMDA receptors to the rescue! These receptors require glutamate and depolarization to open, so they are a natural candidate for the cross-correlator of pre- and post-synaptic activity.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088494731919362"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 20:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>When Pojeong paired distal electric field stimulation (to evoke presynaptic glutamate release) with optical stimulation at the soma, he saw huge and beautiful plateau potentials in the dendrites and complex spikes in the soma. These events can drive place cell formation in vivo. https://t.co/2k278nvwfS</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088496686764032</link>
-      <description>When Pojeong paired distal electric field stimulation (to evoke presynaptic glutamate release) with optical stimulation at the soma, he saw huge and beautiful plateau potentials in the dendrites and complex spikes in the soma. These events can drive place cell formation in vivo. https://t.co/2k278nvwfS</description>
-      <content:encoded>When Pojeong paired distal electric field stimulation (to evoke presynaptic glutamate release) with optical stimulation at the soma, he saw huge and beautiful plateau potentials in the dendrites and complex spikes in the soma. These events can drive place cell formation in vivo. https://t.co/2k278nvwfS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088496686764032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxuSlnNaIAAmDZ0.jpg" length="1175" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 20:10:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>We only saw NMDA spikes when the soma stimulation was enough to evoke dSpikes. So our picture of plasticity is that spiking at the soma --&amp;gt; dendritic sodium spikes --&amp;gt; NMDA spikes --&amp;gt; plasticity.</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088498943115265</link>
-      <description>We only saw NMDA spikes when the soma stimulation was enough to evoke dSpikes. So our picture of plasticity is that spiking at the soma --&amp;gt; dendritic sodium spikes --&amp;gt; NMDA spikes --&amp;gt; plasticity.</description>
-      <content:encoded>We only saw NMDA spikes when the soma stimulation was enough to evoke dSpikes. So our picture of plasticity is that spiking at the soma --&amp;gt; dendritic sodium spikes --&amp;gt; NMDA spikes --&amp;gt; plasticity.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088498943115265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 20:10:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are dendritic nonlinearities important for neural computations, i.e. for deciding when a neuron spikes? In our experiments in slice, it seemed like the main role of nonlinearities was for regulating back-propagation and plasticity, not integration.</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088500902031361</link>
-      <description>Are dendritic nonlinearities important for neural computations, i.e. for deciding when a neuron spikes? In our experiments in slice, it seemed like the main role of nonlinearities was for regulating back-propagation and plasticity, not integration.</description>
-      <content:encoded>Are dendritic nonlinearities important for neural computations, i.e. for deciding when a neuron spikes? In our experiments in slice, it seemed like the main role of nonlinearities was for regulating back-propagation and plasticity, not integration.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088500902031361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 20:10:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Caveat emptor: everything could be different in vivo.</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088502663618560</link>
-      <description>Caveat emptor: everything could be different in vivo.</description>
-      <content:encoded>Caveat emptor: everything could be different in vivo.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088502663618560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 20:10:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>This work relied on amazing HaloTag ligand dyes from @rhodamine110 and the great voltage indicator Voltron2 from @Abdelfattah_Lab and @ERSchreiter</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088504546709504</link>
-      <description>This work relied on amazing HaloTag ligand dyes from @rhodamine110 and the great voltage indicator Voltron2 from @Abdelfattah_Lab and @ERSchreiter</description>
-      <content:encoded>This work relied on amazing HaloTag ligand dyes from @rhodamine110 and the great voltage indicator Voltron2 from @Abdelfattah_Lab and @ERSchreiter&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088504546709504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 20:10:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here is @jdwong_campos thread on dual-plane (dendrites + soma) voltage imaging and optogenetics in L2/3 neurons in awake mice. https://t.co/3pKDHQdaxP</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665089330740641792</link>
-      <description>Here is @jdwong_campos thread on dual-plane (dendrites + soma) voltage imaging and optogenetics in L2/3 neurons in awake mice. https://t.co/3pKDHQdaxP</description>
-      <content:encoded>Here is @jdwong_campos thread on dual-plane (dendrites + soma) voltage imaging and optogenetics in L2/3 neurons in awake mice. https://t.co/3pKDHQdaxP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665089330740641792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 20:13:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mpi_nat: Scientists around @ConstanzeDepp, @TingSun_MPINAT &amp;amp; @KlausNave have now shown that defective #myelin actively promotes disease…</title>
-      <link>https://twitter.com/maxplanckpress/status/1665093670754742272</link>
-      <description>RT @mpi_nat: Scientists around @ConstanzeDepp, @TingSun_MPINAT &amp;amp; @KlausNave have now shown that defective #myelin actively promotes disease…</description>
-      <content:encoded>RT @mpi_nat: Scientists around @ConstanzeDepp, @TingSun_MPINAT &amp;amp; @KlausNave have now shown that defective #myelin actively promotes disease…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1665093670754742272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 20:30:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @tylerraye: last week i defended my dissertation 😅🤗🥹😭
-
-i'm so grateful for everyone who's been with me throughout this scientific journe…</title>
-      <link>https://twitter.com/KordingLab/status/1665096415901622273</link>
-      <description>RT @tylerraye: last week i defended my dissertation 😅🤗🥹😭
-
-i'm so grateful for everyone who's been with me throughout this scientific journe…</description>
-      <content:encoded>RT @tylerraye: last week i defended my dissertation 😅🤗🥹😭
-
-i'm so grateful for everyone who's been with me throughout this scientific journe…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1665096415901622273"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 20:41:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doyeon Kim asked: how can we map all the synapses which got potentiated during a particular memory formation? i.e., what is the shape of a memory?
-https://t.co/F57Gpg9izh https://t.co/wT2gZ5HH5d</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665096863513550848</link>
-      <description>Doyeon Kim asked: how can we map all the synapses which got potentiated during a particular memory formation? i.e., what is the shape of a memory?
-https://t.co/F57Gpg9izh https://t.co/wT2gZ5HH5d</description>
-      <content:encoded>Doyeon Kim asked: how can we map all the synapses which got potentiated during a particular memory formation? i.e., what is the shape of a memory?
-https://t.co/F57Gpg9izh https://t.co/wT2gZ5HH5d&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665096863513550848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxuZ6qcaUAEEsEB.jpg" length="966" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 20:43:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s the scheme. We express an AMPA receptor subunit fused to a HaloTag. Sequential pulse-chase labeling with two colors of membrane-impermeable HaloTag-ligand dyes selectively tags synapses with newly exposed AMPARs during a user-selected interval. https://t.co/ZiAGYZNppk</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665096866634293248</link>
-      <description>Here’s the scheme. We express an AMPA receptor subunit fused to a HaloTag. Sequential pulse-chase labeling with two colors of membrane-impermeable HaloTag-ligand dyes selectively tags synapses with newly exposed AMPARs during a user-selected interval. https://t.co/ZiAGYZNppk</description>
-      <content:encoded>Here’s the scheme. We express an AMPA receptor subunit fused to a HaloTag. Sequential pulse-chase labeling with two colors of membrane-impermeable HaloTag-ligand dyes selectively tags synapses with newly exposed AMPARs during a user-selected interval. https://t.co/ZiAGYZNppk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665096866634293248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxuaG8taEAA9haM.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 20:43:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jun 2023 12:35:49 +0000</lastBuildDate>
     <item>
       <title>We do the labeling in vivo, and then do high-resolution imaging on fixed brain slices. The spines are nicely labeled! https://t.co/7n0WyZyMxT</title>
       <link>https://twitter.com/AdamEzraCohen/status/1665096869188448256</link>
@@ -2212,6 +2115,152 @@ https://t.co/pfeFxgH9SY</description>
 https://t.co/pfeFxgH9SY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665676180723212289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665670516823187456/pu/img/o53k65-41e_BKW-s.jpg" length="640" type="photo"/>
       <pubDate>Mon, 05 Jun 2023 11:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Currently trying to login to my Swedish Society for Neuroscience account, so I can use that to sign into my FENS account, so I can use that to apply for an ISM slot for SfN.
+
+Abstract-submission season is going swimmingly!</title>
+      <link>https://twitter.com/MattNeuro/status/1665679085102669825</link>
+      <description>Currently trying to login to my Swedish Society for Neuroscience account, so I can use that to sign into my FENS account, so I can use that to apply for an ISM slot for SfN.
+
+Abstract-submission season is going swimmingly!</description>
+      <content:encoded>Currently trying to login to my Swedish Society for Neuroscience account, so I can use that to sign into my FENS account, so I can use that to apply for an ISM slot for SfN.
+
+Abstract-submission season is going swimmingly!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1665679085102669825"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 11:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>It may be raining outside, but we are having a great time inside at this year’s joint retreat with @mitbrainandcog and @MIT_Picower 💃 https://t.co/dALxBr0LBB</title>
+      <link>https://twitter.com/mcgovernmit/status/1665679640059432960</link>
+      <description>It may be raining outside, but we are having a great time inside at this year’s joint retreat with @mitbrainandcog and @MIT_Picower 💃 https://t.co/dALxBr0LBB</description>
+      <content:encoded>It may be raining outside, but we are having a great time inside at this year’s joint retreat with @mitbrainandcog and @MIT_Picower 💃 https://t.co/dALxBr0LBB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/mcgovernmit/status/1665679640059432960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx2uy6zXsAgS76A.jpg" length="1024" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 11:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Persistence of vision display" or POV display are LED devices that compose images by displaying one spatial portion at a time in rapid succession. One example are Hologram Fans 
+
+[read more: https://t.co/z2DzmjRyFD] 
+[📹https://t.co/TIVlor70lB]
+https://t.co/ZcTulPAKP9</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665681307928494083</link>
+      <description>"Persistence of vision display" or POV display are LED devices that compose images by displaying one spatial portion at a time in rapid succession. One example are Hologram Fans 
+
+[read more: https://t.co/z2DzmjRyFD] 
+[📹https://t.co/TIVlor70lB]
+https://t.co/ZcTulPAKP9</description>
+      <content:encoded>"Persistence of vision display" or POV display are LED devices that compose images by displaying one spatial portion at a time in rapid succession. One example are Hologram Fans 
+
+[read more: https://t.co/z2DzmjRyFD] 
+[📹https://t.co/TIVlor70lB]
+https://t.co/ZcTulPAKP9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665681307928494083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1607378486401835010/pu/img/gy0ZAlAl5MVJhXsp.jpg" length="640" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 11:25:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>33 hours of a frog egg as it begins to divide from two cells into millions. 
+
+[📽️  Francis Chee: https://t.co/maeUMumxRV]
+https://t.co/uDpiuts3ow</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665685917598621697</link>
+      <description>33 hours of a frog egg as it begins to divide from two cells into millions. 
+
+[📽️  Francis Chee: https://t.co/maeUMumxRV]
+https://t.co/uDpiuts3ow</description>
+      <content:encoded>33 hours of a frog egg as it begins to divide from two cells into millions. 
+
+[📽️  Francis Chee: https://t.co/maeUMumxRV]
+https://t.co/uDpiuts3ow&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665685917598621697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1083693633495154688/pu/img/jbRFfvBcIrUbOL0b.jpg" length="640" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 11:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Article by ⁦@TheRobertHart⁩ ⁦@Forbes⁩ discussing NeuroTech and Neurorights  https://t.co/jcS71fDW94</title>
+      <link>https://twitter.com/yusterafa/status/1665685928961081344</link>
+      <description>Article by ⁦@TheRobertHart⁩ ⁦@Forbes⁩ discussing NeuroTech and Neurorights  https://t.co/jcS71fDW94</description>
+      <content:encoded>Article by ⁦@TheRobertHart⁩ ⁦@Forbes⁩ discussing NeuroTech and Neurorights  https://t.co/jcS71fDW94&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/yusterafa/status/1665685928961081344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 11:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @akaijsa: So glad that this work is finally out! In https://t.co/hbSXwXtslr, we show how task-driven modelling can be used to investigat…</title>
+      <link>https://twitter.com/compneuro_epfl/status/1665688608907337728</link>
+      <description>RT @akaijsa: So glad that this work is finally out! In https://t.co/hbSXwXtslr, we show how task-driven modelling can be used to investigat…</description>
+      <content:encoded>RT @akaijsa: So glad that this work is finally out! In https://t.co/hbSXwXtslr, we show how task-driven modelling can be used to investigat…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/compneuro_epfl/status/1665688608907337728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 11:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>We've been rAAVing about AAV at Addgene lately! Check out our introduction to AAV blog post https://t.co/XHmqkX6AQF</title>
+      <link>https://twitter.com/Addgene/status/1665691705499107329</link>
+      <description>We've been rAAVing about AAV at Addgene lately! Check out our introduction to AAV blog post https://t.co/XHmqkX6AQF</description>
+      <content:encoded>We've been rAAVing about AAV at Addgene lately! Check out our introduction to AAV blog post https://t.co/XHmqkX6AQF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1665691705499107329"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 12:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>To celebrate the anniversary of Denmark's 🇩🇰 constitution, read about how Mette Ramsgaard Thomsen is rethinking #architecture in a more sustainable way.
+
+Integrating renewable materials in modern #construction is key for a greener future.
+
+👉 https://t.co/I6K9b6P8kE 
+@kglakademi https://t.co/BKRu5Lqir8</title>
+      <link>https://twitter.com/ERC_Research/status/1665693142895718400</link>
+      <description>To celebrate the anniversary of Denmark's 🇩🇰 constitution, read about how Mette Ramsgaard Thomsen is rethinking #architecture in a more sustainable way.
+
+Integrating renewable materials in modern #construction is key for a greener future.
+
+👉 https://t.co/I6K9b6P8kE 
+@kglakademi https://t.co/BKRu5Lqir8</description>
+      <content:encoded>To celebrate the anniversary of Denmark's 🇩🇰 constitution, read about how Mette Ramsgaard Thomsen is rethinking #architecture in a more sustainable way.
+
+Integrating renewable materials in modern #construction is key for a greener future.
+
+👉 https://t.co/I6K9b6P8kE 
+@kglakademi https://t.co/BKRu5Lqir8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1665693142895718400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665693061761101830/pu/img/Vf6FJt-FiwfIAEgG.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 12:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @sinanguloksuz: ChatGPT generated EXPOSOME memes, prompt was simply: generate a meme about exposome https://t.co/DAV2sRQQUN</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1665693538305155074</link>
+      <description>RT @sinanguloksuz: ChatGPT generated EXPOSOME memes, prompt was simply: generate a meme about exposome https://t.co/DAV2sRQQUN</description>
+      <content:encoded>RT @sinanguloksuz: ChatGPT generated EXPOSOME memes, prompt was simply: generate a meme about exposome https://t.co/DAV2sRQQUN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1665693538305155074"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FxyW-isWIAEUR3E.jpg" length="518" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 12:14:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @fluidloading: C'est enfin online
+Enjoy
+#Gautretraction #Raoultgate #Chloroquinegate #FinDePartie #EchecEtmat
+https://t.co/vivvJ2ORiD</title>
+      <link>https://twitter.com/UNC_Optics/status/1665694175696764930</link>
+      <description>RT @fluidloading: C'est enfin online
+Enjoy
+#Gautretraction #Raoultgate #Chloroquinegate #FinDePartie #EchecEtmat
+https://t.co/vivvJ2ORiD</description>
+      <content:encoded>RT @fluidloading: C'est enfin online
+Enjoy
+#Gautretraction #Raoultgate #Chloroquinegate #FinDePartie #EchecEtmat
+https://t.co/vivvJ2ORiD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/UNC_Optics/status/1665694175696764930"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 12:16:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>First, those horizontal lines are actually straight.
+
+Then, the 'café wall' illusion is one of the oldest known. Learn why the lines are parallel and why you see them slanted: https://t.co/fob7BY6bj6 
+
+[source of this modified version, by Victoria Skye: https://t.co/GD2XlFdtu8] https://t.co/NUGtPNFbm9</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665694851176837121</link>
+      <description>First, those horizontal lines are actually straight.
+
+Then, the 'café wall' illusion is one of the oldest known. Learn why the lines are parallel and why you see them slanted: https://t.co/fob7BY6bj6 
+
+[source of this modified version, by Victoria Skye: https://t.co/GD2XlFdtu8] https://t.co/NUGtPNFbm9</description>
+      <content:encoded>First, those horizontal lines are actually straight.
+
+Then, the 'café wall' illusion is one of the oldest known. Learn why the lines are parallel and why you see them slanted: https://t.co/fob7BY6bj6 
+
+[source of this modified version, by Victoria Skye: https://t.co/GD2XlFdtu8] https://t.co/NUGtPNFbm9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665694851176837121"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx28dSXWIAUKLG0.jpg" length="680" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 12:19:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
