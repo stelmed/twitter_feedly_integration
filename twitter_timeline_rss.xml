@@ -6,61 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 10:17:58 +0000</lastBuildDate>
-    <item>
-      <title>Important new paper on the ingredients of plasticity in dendrites https://t.co/Ya0ynJDqMp</title>
-      <link>https://twitter.com/KordingLab/status/1665083438695677952</link>
-      <description>Important new paper on the ingredients of plasticity in dendrites https://t.co/Ya0ynJDqMp</description>
-      <content:encoded>Important new paper on the ingredients of plasticity in dendrites https://t.co/Ya0ynJDqMp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1665083438695677952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 19:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>That movie shows the wavefronts of an optogenetically triggered action potential in a CA1 pyramidal cell.</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088477384577024</link>
-      <description>That movie shows the wavefronts of an optogenetically triggered action potential in a CA1 pyramidal cell.</description>
-      <content:encoded>That movie shows the wavefronts of an optogenetically triggered action potential in a CA1 pyramidal cell.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088477384577024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 03 Jun 2023 20:10:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Optogenetic stimuli evoked two kinds of events: back-propagating action potentials (bAPs) and sodium-driven dendritic spikes (dSpikes). bAPs decayed away from the soma, while dSpikes were amplified in the distal dendrites. https://t.co/BdTFteSfnI</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088479083253760</link>
-      <description>Optogenetic stimuli evoked two kinds of events: back-propagating action potentials (bAPs) and sodium-driven dendritic spikes (dSpikes). bAPs decayed away from the soma, while dSpikes were amplified in the distal dendrites. https://t.co/BdTFteSfnI</description>
-      <content:encoded>Optogenetic stimuli evoked two kinds of events: back-propagating action potentials (bAPs) and sodium-driven dendritic spikes (dSpikes). bAPs decayed away from the soma, while dSpikes were amplified in the distal dendrites. https://t.co/BdTFteSfnI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088479083253760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxuOXP2aEAAp8on.png" length="673" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 20:10:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subthreshold voltages decayed smoothly with distance away from the stimulus location. We never saw locally evoked spikes or plateau potentials. https://t.co/3nv92gjdZm</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088481322778624</link>
-      <description>Subthreshold voltages decayed smoothly with distance away from the stimulus location. We never saw locally evoked spikes or plateau potentials. https://t.co/3nv92gjdZm</description>
-      <content:encoded>Subthreshold voltages decayed smoothly with distance away from the stimulus location. We never saw locally evoked spikes or plateau potentials. https://t.co/3nv92gjdZm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088481322778624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxuPQknaIAAJYWb.png" length="869" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 20:10:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>For both bAPs and dSpikes, the spatial profile did not care where the stimulus was—these events were broadcast signals throughout the dendritic tree, and had almost no spatial information about the stimulus that evoked them. This was a big surprise! (at least to me). https://t.co/Q5Z5IVOqTk</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088484791517184</link>
-      <description>For both bAPs and dSpikes, the spatial profile did not care where the stimulus was—these events were broadcast signals throughout the dendritic tree, and had almost no spatial information about the stimulus that evoked them. This was a big surprise! (at least to me). https://t.co/Q5Z5IVOqTk</description>
-      <content:encoded>For both bAPs and dSpikes, the spatial profile did not care where the stimulus was—these events were broadcast signals throughout the dendritic tree, and had almost no spatial information about the stimulus that evoked them. This was a big surprise! (at least to me). https://t.co/Q5Z5IVOqTk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088484791517184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxuPlwsaAAAH-_g.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 20:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>But the probability of evoking a dSpike depended sensitively on the voltage history in the distal dendrites. The dendrites needed to be depolarized for ~15 ms before they could support a dSpike. https://t.co/3kHEfZq8Ui</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088487627030529</link>
-      <description>But the probability of evoking a dSpike depended sensitively on the voltage history in the distal dendrites. The dendrites needed to be depolarized for ~15 ms before they could support a dSpike. https://t.co/3kHEfZq8Ui</description>
-      <content:encoded>But the probability of evoking a dSpike depended sensitively on the voltage history in the distal dendrites. The dendrites needed to be depolarized for ~15 ms before they could support a dSpike. https://t.co/3kHEfZq8Ui&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088487627030529"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxuQoCSaAAEkDRO.png" length="491" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 20:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>After a few dSpikes, the dendrites got tired and didn’t support any more dSpikes until given a rest. https://t.co/tlIWpUFtD1</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1665088489665298432</link>
-      <description>After a few dSpikes, the dendrites got tired and didn’t support any more dSpikes until given a rest. https://t.co/tlIWpUFtD1</description>
-      <content:encoded>After a few dSpikes, the dendrites got tired and didn’t support any more dSpikes until given a rest. https://t.co/tlIWpUFtD1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1665088489665298432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxuQ-siaEAEPpWg.png" length="689" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 20:10:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jun 2023 11:13:11 +0000</lastBuildDate>
     <item>
       <title>A simple model showed that inactivation of A-type K+ channels opens the dSpike window, and inactivation of dendritic NaV channels shuts it.  These channels implement a high-pass filter on the spike rate: increasing spike rates lead to dSpikes, while constant spiking does not. https://t.co/ns6nhdI6JV</title>
       <link>https://twitter.com/AdamEzraCohen/status/1665088492429512704</link>
@@ -2181,6 +2127,91 @@ More information: https://t.co/RYk2k8mCEo https://t.co/JQXWNAw1jt&lt;blockquote
 #MachineLearningFundamentals https://t.co/45OfvUN95S&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1665659755317043201"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665659731317252097/pu/img/VBb6ctfiYIGWH_2i.jpg" length="1200" type="photo"/>
       <pubDate>Mon, 05 Jun 2023 10:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanical springs are everywhere: they store mechanical energy, providing tension and compression in various applications. This is how springs are made 
+
+[read more: https://t.co/mkHHz6ENMr] 
+[watch: https://t.co/COewU8WFAi]
+https://t.co/rExvFPq7SQ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665664560777289730</link>
+      <description>Mechanical springs are everywhere: they store mechanical energy, providing tension and compression in various applications. This is how springs are made 
+
+[read more: https://t.co/mkHHz6ENMr] 
+[watch: https://t.co/COewU8WFAi]
+https://t.co/rExvFPq7SQ</description>
+      <content:encoded>Mechanical springs are everywhere: they store mechanical energy, providing tension and compression in various applications. This is how springs are made 
+
+[read more: https://t.co/mkHHz6ENMr] 
+[watch: https://t.co/COewU8WFAi]
+https://t.co/rExvFPq7SQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665664560777289730"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1544256977165066241/pu/img/laJW2-W9noiZ0LKP.jpg" length="480" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 10:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s the key to a feelgood #summer hit? 🎵☀️🤗 It might just be ... the #weather! 🎧Warmer &amp;amp; sunnier weather leads to a surge in energetic &amp;amp; upbeat songs in the charts, according to new research - suggesting our #music preferences are in tune with the seasons!… https://t.co/nXFfrGCJD3</title>
+      <link>https://twitter.com/maxplanckpress/status/1665668529318772737</link>
+      <description>What’s the key to a feelgood #summer hit? 🎵☀️🤗 It might just be ... the #weather! 🎧Warmer &amp;amp; sunnier weather leads to a surge in energetic &amp;amp; upbeat songs in the charts, according to new research - suggesting our #music preferences are in tune with the seasons!… https://t.co/nXFfrGCJD3</description>
+      <content:encoded>What’s the key to a feelgood #summer hit? 🎵☀️🤗 It might just be ... the #weather! 🎧Warmer &amp;amp; sunnier weather leads to a surge in energetic &amp;amp; upbeat songs in the charts, according to new research - suggesting our #music preferences are in tune with the seasons!… https://t.co/nXFfrGCJD3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1665668529318772737"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 10:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>The inside of the mouth of a penguin is probably not what you expect: this photo shot by Clinton Berry is a demonstration 
+
+[source, read more: https://t.co/aPaMiPIXkT] https://t.co/cP4dHTnqoN</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665671616292954115</link>
+      <description>The inside of the mouth of a penguin is probably not what you expect: this photo shot by Clinton Berry is a demonstration 
+
+[source, read more: https://t.co/aPaMiPIXkT] https://t.co/cP4dHTnqoN</description>
+      <content:encoded>The inside of the mouth of a penguin is probably not what you expect: this photo shot by Clinton Berry is a demonstration 
+
+[source, read more: https://t.co/aPaMiPIXkT] https://t.co/cP4dHTnqoN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665671616292954115"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx2naSOWwAAqs0m.jpg" length="680" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 10:47:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @WorldSummitAI: @Inspired__Minds Founder &amp;amp;CEO @SColesPorter was in the news again &amp;amp; she's not mincing her words:
+
+"People should not be…</title>
+      <link>https://twitter.com/vdignum/status/1665673411643813888</link>
+      <description>RT @WorldSummitAI: @Inspired__Minds Founder &amp;amp;CEO @SColesPorter was in the news again &amp;amp; she's not mincing her words:
+
+"People should not be…</description>
+      <content:encoded>RT @WorldSummitAI: @Inspired__Minds Founder &amp;amp;CEO @SColesPorter was in the news again &amp;amp; she's not mincing her words:
+
+"People should not be…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1665673411643813888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 10:54:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jdwong_campos: @VicenteParot @AdamEzraCohen @rhodamine110 The most important thing I can say is that, in these neurons, local dendritic…</title>
+      <link>https://twitter.com/adilgkhan/status/1665675417028640770</link>
+      <description>RT @jdwong_campos: @VicenteParot @AdamEzraCohen @rhodamine110 The most important thing I can say is that, in these neurons, local dendritic…</description>
+      <content:encoded>RT @jdwong_campos: @VicenteParot @AdamEzraCohen @rhodamine110 The most important thing I can say is that, in these neurons, local dendritic…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/adilgkhan/status/1665675417028640770"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 11:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jdwong_campos: I am thrilled to share my first bio paper ever in @AdamEzraCohen lab with super important contributions from @rhodamine1…</title>
+      <link>https://twitter.com/adilgkhan/status/1665675522863423488</link>
+      <description>RT @jdwong_campos: I am thrilled to share my first bio paper ever in @AdamEzraCohen lab with super important contributions from @rhodamine1…</description>
+      <content:encoded>RT @jdwong_campos: I am thrilled to share my first bio paper ever in @AdamEzraCohen lab with super important contributions from @rhodamine1…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/adilgkhan/status/1665675522863423488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 11:02:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a hummingbird "snoring"
+
+[source, full video and explanation: https://t.co/0rlV1914aF]
+https://t.co/pfeFxgH9SY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1665676180723212289</link>
+      <description>This is a hummingbird "snoring"
+
+[source, full video and explanation: https://t.co/0rlV1914aF]
+https://t.co/pfeFxgH9SY</description>
+      <content:encoded>This is a hummingbird "snoring"
+
+[source, full video and explanation: https://t.co/0rlV1914aF]
+https://t.co/pfeFxgH9SY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665676180723212289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665670516823187456/pu/img/o53k65-41e_BKW-s.jpg" length="640" type="photo"/>
+      <pubDate>Mon, 05 Jun 2023 11:05:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
