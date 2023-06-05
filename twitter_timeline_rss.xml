@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 01:44:06 +0000</lastBuildDate>
-    <item>
-      <title>How can you visualize the entire observable universe in a relatively small rectangular area? Using the logarithmic scale, as Pablo Carlos Budassi did, locating the most notable astronomical objects as far away as the edge of time 
-
-[source, zoomable: https://t.co/J4GJyryiEV] https://t.co/AD6VzmvlqY</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665000383494897664</link>
-      <description>How can you visualize the entire observable universe in a relatively small rectangular area? Using the logarithmic scale, as Pablo Carlos Budassi did, locating the most notable astronomical objects as far away as the edge of time 
-
-[source, zoomable: https://t.co/J4GJyryiEV] https://t.co/AD6VzmvlqY</description>
-      <content:encoded>How can you visualize the entire observable universe in a relatively small rectangular area? Using the logarithmic scale, as Pablo Carlos Budassi did, locating the most notable astronomical objects as far away as the edge of time 
-
-[source, zoomable: https://t.co/J4GJyryiEV] https://t.co/AD6VzmvlqY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665000383494897664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxsNWoOXwAAwiIu.jpg" length="294" type="photo"/>
-      <pubDate>Sat, 03 Jun 2023 14:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jun 2023 02:51:28 +0000</lastBuildDate>
     <item>
       <title>A @Nature paper demonstrates an implant that restores communication between the brain and spinal cord that helps a patient with paralysis of the arms and legs to stand and walk naturally. https://t.co/VkUt873jCb https://t.co/1ezmTSTaTq</title>
       <link>https://twitter.com/NaturePortfolio/status/1665001740574375937</link>
@@ -2179,6 +2165,19 @@ The function of the autonomic nervous system (ANS) is crucial in the development
 
 The function of the autonomic nervous system (ANS) is crucial in the development of… #Neuroscience https://t.co/9Oc2xeju7N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1665527748922847232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 05 Jun 2023 01:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Examining indicators of psychosocial risk and resilience in parents of autistic children: Background
+
+Parents of autistic children experience increased levels of caregiver strain and adverse mental health outcomes, even in… #neuroscience https://t.co/vSkvVS8VKS</title>
+      <link>https://twitter.com/FrontNeurosci/status/1665540831330340864</link>
+      <description>New Research: Examining indicators of psychosocial risk and resilience in parents of autistic children: Background
+
+Parents of autistic children experience increased levels of caregiver strain and adverse mental health outcomes, even in… #neuroscience https://t.co/vSkvVS8VKS</description>
+      <content:encoded>New Research: Examining indicators of psychosocial risk and resilience in parents of autistic children: Background
+
+Parents of autistic children experience increased levels of caregiver strain and adverse mental health outcomes, even in… #neuroscience https://t.co/vSkvVS8VKS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1665540831330340864"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 05 Jun 2023 02:07:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
