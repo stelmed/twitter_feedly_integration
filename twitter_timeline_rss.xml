@@ -6,135 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jun 2023 17:14:09 +0000</lastBuildDate>
-    <item>
-      <title>RT @DavidSKrueger: It still amazes me that Yann and Andrew Ng can confidently predict that human-like/level AI is too far off to worry abou…</title>
-      <link>https://twitter.com/tegmark/status/1665794343339192320</link>
-      <description>RT @DavidSKrueger: It still amazes me that Yann and Andrew Ng can confidently predict that human-like/level AI is too far off to worry abou…</description>
-      <content:encoded>RT @DavidSKrueger: It still amazes me that Yann and Andrew Ng can confidently predict that human-like/level AI is too far off to worry abou…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1665794343339192320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 18:54:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foveated Renderer</title>
-      <link>https://twitter.com/AndrewHires/status/1665794473954009089</link>
-      <description>Foveated Renderer</description>
-      <content:encoded>Foveated Renderer&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1665794473954009089"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 18:55:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DavidSKrueger: It's been disappointing to see how many of the media articles have focused -- almost exclusively -- on the tech CEOs tha…</title>
-      <link>https://twitter.com/tegmark/status/1665794957842472969</link>
-      <description>RT @DavidSKrueger: It's been disappointing to see how many of the media articles have focused -- almost exclusively -- on the tech CEOs tha…</description>
-      <content:encoded>RT @DavidSKrueger: It's been disappointing to see how many of the media articles have focused -- almost exclusively -- on the tech CEOs tha…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1665794957842472969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 18:57:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Editorial: Neuroscience of posture and gait control: mechanisms, influencing factors and cognitive-motor retraining #Neuroscience https://t.co/6AdbA8CiDx</title>
-      <link>https://twitter.com/FrontNeurosci/status/1665796652656099334</link>
-      <description>New Research: Editorial: Neuroscience of posture and gait control: mechanisms, influencing factors and cognitive-motor retraining #Neuroscience https://t.co/6AdbA8CiDx</description>
-      <content:encoded>New Research: Editorial: Neuroscience of posture and gait control: mechanisms, influencing factors and cognitive-motor retraining #Neuroscience https://t.co/6AdbA8CiDx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1665796652656099334"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:04:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>.</title>
-      <link>https://twitter.com/elonmusk/status/1665797367747026948</link>
-      <description>.</description>
-      <content:encoded>.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1665797367747026948"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:06:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strong teacher-student relationships are essential. @BarrCenter works with over 250 schools across 20 states to equip teachers with resources they need to help build strong relationships with their students https://t.co/QPhRqI5qA2</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1665797689303244801</link>
-      <description>Strong teacher-student relationships are essential. @BarrCenter works with over 250 schools across 20 states to equip teachers with resources they need to help build strong relationships with their students https://t.co/QPhRqI5qA2</description>
-      <content:encoded>Strong teacher-student relationships are essential. @BarrCenter works with over 250 schools across 20 states to equip teachers with resources they need to help build strong relationships with their students https://t.co/QPhRqI5qA2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1665797689303244801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fx4aK4EWYAA3hV0.jpg" length="960" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 19:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>In a new study, @rebecca_saxe + colleagues developed a computer model that can predict other people’s emotions - effectively mimicking an important aspect of human emotional intelligence. https://t.co/V5qc7WD4us @mitbrainandcog @ScienceMIT</title>
-      <link>https://twitter.com/mcgovernmit/status/1665798762709540867</link>
-      <description>In a new study, @rebecca_saxe + colleagues developed a computer model that can predict other people’s emotions - effectively mimicking an important aspect of human emotional intelligence. https://t.co/V5qc7WD4us @mitbrainandcog @ScienceMIT</description>
-      <content:encoded>In a new study, @rebecca_saxe + colleagues developed a computer model that can predict other people’s emotions - effectively mimicking an important aspect of human emotional intelligence. https://t.co/V5qc7WD4us @mitbrainandcog @ScienceMIT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/mcgovernmit/status/1665798762709540867"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:12:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>$3500 for a VR headset. Good luck.</title>
-      <link>https://twitter.com/andpru/status/1665799504069644290</link>
-      <description>$3500 for a VR headset. Good luck.</description>
-      <content:encoded>$3500 for a VR headset. Good luck.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1665799504069644290"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:15:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mesostriatal dopamine is sensitive to specific cue-reward contingencies  https://t.co/Lz8fBXjEh9 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1665799561347059713</link>
-      <description>Mesostriatal dopamine is sensitive to specific cue-reward contingencies  https://t.co/Lz8fBXjEh9 #biorxiv_neursci</description>
-      <content:encoded>Mesostriatal dopamine is sensitive to specific cue-reward contingencies  https://t.co/Lz8fBXjEh9 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1665799561347059713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @SpringerNature: Join Sir Philip Campbell and Vikram Patel (@harvardmed) as they explore the transformative journey of global mental hea…</title>
-      <link>https://twitter.com/NaturePortfolio/status/1665800444919119875</link>
-      <description>RT @SpringerNature: Join Sir Philip Campbell and Vikram Patel (@harvardmed) as they explore the transformative journey of global mental hea…</description>
-      <content:encoded>RT @SpringerNature: Join Sir Philip Campbell and Vikram Patel (@harvardmed) as they explore the transformative journey of global mental hea…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1665800444919119875"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:19:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @biorxivpreprint: Mesostriatal dopamine is sensitive to specific cue-reward contingencies  https://t.co/fECZ79mWU8 #bioRxiv</title>
-      <link>https://twitter.com/brainsOnMyMind/status/1665800538439467012</link>
-      <description>RT @biorxivpreprint: Mesostriatal dopamine is sensitive to specific cue-reward contingencies  https://t.co/fECZ79mWU8 #bioRxiv</description>
-      <content:encoded>RT @biorxivpreprint: Mesostriatal dopamine is sensitive to specific cue-reward contingencies  https://t.co/fECZ79mWU8 #bioRxiv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1665800538439467012"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:19:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @dyfbrain: @buccino_alessio @AllenInstitute Congrats @buccino_alessio and team! 
-
-Effective data compression is often treated as an afte…</title>
-      <link>https://twitter.com/AllenInstitute/status/1665800658207797248</link>
-      <description>RT @dyfbrain: @buccino_alessio @AllenInstitute Congrats @buccino_alessio and team! 
-
-Effective data compression is often treated as an afte…</description>
-      <content:encoded>RT @dyfbrain: @buccino_alessio @AllenInstitute Congrats @buccino_alessio and team! 
-
-Effective data compression is often treated as an afte…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1665800658207797248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hepatic stellate cells help maintain normal liver mass in mice by producing neurotrophin-3, a new @SciSignal study shows. The findings could one day help drive new therapies that control liver cell proliferation. https://t.co/JdS9V38N4s https://t.co/wtVtiubmTY</title>
-      <link>https://twitter.com/ScienceMagazine/status/1665803217354080257</link>
-      <description>Hepatic stellate cells help maintain normal liver mass in mice by producing neurotrophin-3, a new @SciSignal study shows. The findings could one day help drive new therapies that control liver cell proliferation. https://t.co/JdS9V38N4s https://t.co/wtVtiubmTY</description>
-      <content:encoded>Hepatic stellate cells help maintain normal liver mass in mice by producing neurotrophin-3, a new @SciSignal study shows. The findings could one day help drive new therapies that control liver cell proliferation. https://t.co/JdS9V38N4s https://t.co/wtVtiubmTY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1665803217354080257"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fx4fMscXoAERTG6.jpg" length="910" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 19:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @PrincetonUPress: Don't miss out on @markdhumphries' fascinating talk at the @YorkFestofIdeas tomorrow at 6 pm BST! Come along to find o…</title>
-      <link>https://twitter.com/markdhumphries/status/1665806606838243333</link>
-      <description>RT @PrincetonUPress: Don't miss out on @markdhumphries' fascinating talk at the @YorkFestofIdeas tomorrow at 6 pm BST! Come along to find o…</description>
-      <content:encoded>RT @PrincetonUPress: Don't miss out on @markdhumphries' fascinating talk at the @YorkFestofIdeas tomorrow at 6 pm BST! Come along to find o…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/markdhumphries/status/1665806606838243333"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:43:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AndersMNelson: Planning your trip to Neuroscience 2023?  Make sure to stick around for our minisymposium! https://t.co/2JFaCSOPPm</title>
-      <link>https://twitter.com/RuneWBerg/status/1665808450390196224</link>
-      <description>RT @AndersMNelson: Planning your trip to Neuroscience 2023?  Make sure to stick around for our minisymposium! https://t.co/2JFaCSOPPm</description>
-      <content:encoded>RT @AndersMNelson: Planning your trip to Neuroscience 2023?  Make sure to stick around for our minisymposium! https://t.co/2JFaCSOPPm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/RuneWBerg/status/1665808450390196224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fx4S5CLWYAc2tpq.png" length="1116" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 19:50:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @martinmbauer: The profit (!) that the parent company of Elsevier makes in 1.5 years would be enough to pay the construction of the Larg…</title>
-      <link>https://twitter.com/PessoaBrain/status/1665810216179453952</link>
-      <description>RT @martinmbauer: The profit (!) that the parent company of Elsevier makes in 1.5 years would be enough to pay the construction of the Larg…</description>
-      <content:encoded>RT @martinmbauer: The profit (!) that the parent company of Elsevier makes in 1.5 years would be enough to pay the construction of the Larg…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1665810216179453952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 19:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>@tyrell_turing Congratulations, Blake!</title>
-      <link>https://twitter.com/jpillowtime/status/1665812022313857029</link>
-      <description>@tyrell_turing Congratulations, Blake!</description>
-      <content:encoded>@tyrell_turing Congratulations, Blake!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jpillowtime/status/1665812022313857029"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 20:05:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jun 2023 18:19:23 +0000</lastBuildDate>
     <item>
       <title>RT @IBROorg: This year, #IBRO is supporting working parents by offering family-friendly facilities and childcare services during #IBRO2023.…</title>
       <link>https://twitter.com/CarlenLab/status/1665812095227551744</link>
@@ -2118,6 +1990,191 @@ https://t.co/gwBH353yNA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @AswendtMarkus: If you need another reason to register for this years @INCForg assembly: I am organizing a workshop together with @grand…</description>
       <content:encoded>RT @AswendtMarkus: If you need another reason to register for this years @INCForg assembly: I am organizing a workshop together with @grand…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1666129995977175062"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 06 Jun 2023 17:08:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @katebevan: Amused to see that a scammer has harvested the email address from @daphneflap and is trying to extort ... a catflap. Quite t…</title>
+      <link>https://twitter.com/chrisdc77/status/1666131647543095310</link>
+      <description>RT @katebevan: Amused to see that a scammer has harvested the email address from @daphneflap and is trying to extort ... a catflap. Quite t…</description>
+      <content:encoded>RT @katebevan: Amused to see that a scammer has harvested the email address from @daphneflap and is trying to extort ... a catflap. Quite t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1666131647543095310"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 17:15:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuropeptides with different cellular targets elicit similar output in a central pattern generating circuit  https://t.co/FW5DjWOPVQ #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1666131741432590347</link>
+      <description>Neuropeptides with different cellular targets elicit similar output in a central pattern generating circuit  https://t.co/FW5DjWOPVQ #biorxiv_neursci</description>
+      <content:encoded>Neuropeptides with different cellular targets elicit similar output in a central pattern generating circuit  https://t.co/FW5DjWOPVQ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1666131741432590347"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 17:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @analog_ashley: Lossless compression 🤤 https://t.co/0kaeoUh58Y</title>
+      <link>https://twitter.com/AllenInstitute/status/1666132847218896940</link>
+      <description>RT @analog_ashley: Lossless compression 🤤 https://t.co/0kaeoUh58Y</description>
+      <content:encoded>RT @analog_ashley: Lossless compression 🤤 https://t.co/0kaeoUh58Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1666132847218896940"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 17:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Andrew_Akbashev: Rejection of your paper or grant has NO relevance to the opinion of #research community. It is nothing but the opinion…</title>
+      <link>https://twitter.com/pgolshani/status/1666134308262920195</link>
+      <description>RT @Andrew_Akbashev: Rejection of your paper or grant has NO relevance to the opinion of #research community. It is nothing but the opinion…</description>
+      <content:encoded>RT @Andrew_Akbashev: Rejection of your paper or grant has NO relevance to the opinion of #research community. It is nothing but the opinion…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/pgolshani/status/1666134308262920195"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 17:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>We love this (totally unbiased) endorsement from our board member!  🥰 https://t.co/5BgK0Sg8qJ</title>
+      <link>https://twitter.com/Addgene/status/1666135210948276235</link>
+      <description>We love this (totally unbiased) endorsement from our board member!  🥰 https://t.co/5BgK0Sg8qJ</description>
+      <content:encoded>We love this (totally unbiased) endorsement from our board member!  🥰 https://t.co/5BgK0Sg8qJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1666135210948276235"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 17:29:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>In order to stop skin tumors, we have to know more about how they grow.
+
+To do that, @derm_scientist maps abnormal gene expression in tumor cells to find strategies to stop tumor development https://t.co/ndYyhYQAzY</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1666135418713124884</link>
+      <description>In order to stop skin tumors, we have to know more about how they grow.
+
+To do that, @derm_scientist maps abnormal gene expression in tumor cells to find strategies to stop tumor development https://t.co/ndYyhYQAzY</description>
+      <content:encoded>In order to stop skin tumors, we have to know more about how they grow.
+
+To do that, @derm_scientist maps abnormal gene expression in tumor cells to find strategies to stop tumor development https://t.co/ndYyhYQAzY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1666135418713124884"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx9NVQiXsBUXWcG.jpg" length="1080" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 17:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>A @NatureComms paper presents a single dose contraceptive injection for female domestic cats. The gene therapy injection could provide a strategy for population control that is less invasive than the current standard of surgical sterilization. https://t.co/Ts6EKxGUX4 https://t.co/E0NWh4ZaCa</title>
+      <link>https://twitter.com/NaturePortfolio/status/1666137145659076635</link>
+      <description>A @NatureComms paper presents a single dose contraceptive injection for female domestic cats. The gene therapy injection could provide a strategy for population control that is less invasive than the current standard of surgical sterilization. https://t.co/Ts6EKxGUX4 https://t.co/E0NWh4ZaCa</description>
+      <content:encoded>A @NatureComms paper presents a single dose contraceptive injection for female domestic cats. The gene therapy injection could provide a strategy for population control that is less invasive than the current standard of surgical sterilization. https://t.co/Ts6EKxGUX4 https://t.co/E0NWh4ZaCa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1666137145659076635"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx9O4zZXsC42YJk.jpg" length="1066" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 17:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @computingnature: Story time! Single neurons in the brain can’t be depended on for reliable information. Here are some neurons from our…</title>
+      <link>https://twitter.com/ewadorotaz/status/1666137269244243996</link>
+      <description>RT @computingnature: Story time! Single neurons in the brain can’t be depended on for reliable information. Here are some neurons from our…</description>
+      <content:encoded>RT @computingnature: Story time! Single neurons in the brain can’t be depended on for reliable information. Here are some neurons from our…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1666137269244243996"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 17:37:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decision Forests have an important advantage: Explainability 📝
+
+The dtreeviz library takes this to the next level with powerful, helpful, and beautiful visualizations!
+
+Learn how to use it with TFDF and more in this blog post ➡️  https://t.co/ENdtCwVLaT https://t.co/pBmqDQvqKo</title>
+      <link>https://twitter.com/TensorFlow/status/1666137868782252045</link>
+      <description>Decision Forests have an important advantage: Explainability 📝
+
+The dtreeviz library takes this to the next level with powerful, helpful, and beautiful visualizations!
+
+Learn how to use it with TFDF and more in this blog post ➡️  https://t.co/ENdtCwVLaT https://t.co/pBmqDQvqKo</description>
+      <content:encoded>Decision Forests have an important advantage: Explainability 📝
+
+The dtreeviz library takes this to the next level with powerful, helpful, and beautiful visualizations!
+
+Learn how to use it with TFDF and more in this blog post ➡️  https://t.co/ENdtCwVLaT https://t.co/pBmqDQvqKo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1666137868782252045"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx9Pj7zXsBEneJv.jpg" length="1024" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 17:39:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @vale_regalito: @Addgene  tqm https://t.co/sRNBJPLNSN</title>
+      <link>https://twitter.com/Addgene/status/1666139927296213001</link>
+      <description>RT @vale_regalito: @Addgene  tqm https://t.co/sRNBJPLNSN</description>
+      <content:encoded>RT @vale_regalito: @Addgene  tqm https://t.co/sRNBJPLNSN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1666139927296213001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx8zny5WAAIdwyP.jpg" length="554" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 17:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>In theory, every rainbow is a circle, but from the ground, usually only its upper half can be seen. This is not the case of Anthony Killeen, who spotted this full-circle rainbow  
+
+[📹 https://t.co/A9gbmPNvoU]  
+[read more: https://t.co/46aWwgbYbN]
+https://t.co/9f99bPOpa6</title>
+      <link>https://twitter.com/Rainmaker1973/status/1666140816908140544</link>
+      <description>In theory, every rainbow is a circle, but from the ground, usually only its upper half can be seen. This is not the case of Anthony Killeen, who spotted this full-circle rainbow  
+
+[📹 https://t.co/A9gbmPNvoU]  
+[read more: https://t.co/46aWwgbYbN]
+https://t.co/9f99bPOpa6</description>
+      <content:encoded>In theory, every rainbow is a circle, but from the ground, usually only its upper half can be seen. This is not the case of Anthony Killeen, who spotted this full-circle rainbow  
+
+[📹 https://t.co/A9gbmPNvoU]  
+[read more: https://t.co/46aWwgbYbN]
+https://t.co/9f99bPOpa6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1666140816908140544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1553519058489843714/pu/img/8JZgiDErOm9F0SnF.jpg" length="978" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 17:51:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI will save the world, not destroy it.
+A good piece by @pmarca about the destructive moral panic around AI. https://t.co/dIxvDkRtFF</title>
+      <link>https://twitter.com/ylecun/status/1666141302168092674</link>
+      <description>AI will save the world, not destroy it.
+A good piece by @pmarca about the destructive moral panic around AI. https://t.co/dIxvDkRtFF</description>
+      <content:encoded>AI will save the world, not destroy it.
+A good piece by @pmarca about the destructive moral panic around AI. https://t.co/dIxvDkRtFF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1666141302168092674"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 17:53:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product-market fit is the key to startup success.
+
+On June 13, join @AI_Fund’s virtual panel to discuss all the things you should consider about defining and measuring product-market fit.
+
+Register here: https://t.co/EjJwAhC74F https://t.co/CuEUfLA3qa</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1666142916278927360</link>
+      <description>Product-market fit is the key to startup success.
+
+On June 13, join @AI_Fund’s virtual panel to discuss all the things you should consider about defining and measuring product-market fit.
+
+Register here: https://t.co/EjJwAhC74F https://t.co/CuEUfLA3qa</description>
+      <content:encoded>Product-market fit is the key to startup success.
+
+On June 13, join @AI_Fund’s virtual panel to discuss all the things you should consider about defining and measuring product-market fit.
+
+Register here: https://t.co/EjJwAhC74F https://t.co/CuEUfLA3qa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1666142916278927360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx9UJxpWwAU0TFo.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 18:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new @SciImmunology study involving human skin samples presents a spatial atlas of immune cells during psoriasis and health. https://t.co/DsRLobi2q8 https://t.co/j4wlT9X4K9</title>
+      <link>https://twitter.com/ScienceMagazine/status/1666142948067622913</link>
+      <description>A new @SciImmunology study involving human skin samples presents a spatial atlas of immune cells during psoriasis and health. https://t.co/DsRLobi2q8 https://t.co/j4wlT9X4K9</description>
+      <content:encoded>A new @SciImmunology study involving human skin samples presents a spatial atlas of immune cells during psoriasis and health. https://t.co/DsRLobi2q8 https://t.co/j4wlT9X4K9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1666142948067622913"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx9ULpNWAAE0x8U.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 18:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new app called Tim the BeaVR lets you place a virtual copy of MIT's mascot, Tim the Beaver, anywhere in the world. https://t.co/PMLKIQqVVR https://t.co/wA2iRyXtOa</title>
+      <link>https://twitter.com/MIT/status/1666144229423235073</link>
+      <description>A new app called Tim the BeaVR lets you place a virtual copy of MIT's mascot, Tim the Beaver, anywhere in the world. https://t.co/PMLKIQqVVR https://t.co/wA2iRyXtOa</description>
+      <content:encoded>A new app called Tim the BeaVR lets you place a virtual copy of MIT's mascot, Tim the Beaver, anywhere in the world. https://t.co/PMLKIQqVVR https://t.co/wA2iRyXtOa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1666144229423235073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx9VWOPWAAAJgv0.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 18:05:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>A ceremony repeated every year on this day in France: sand of Omaha Beach brings forward from the brightness of the stone the names of the fallen, 79 years ago #Today
+
+#DDay
+[📹 Jackie Speier: https://t.co/lg6cxu4gzk]
+https://t.co/OTlbeq8PgM</title>
+      <link>https://twitter.com/Rainmaker1973/status/1666145143211061249</link>
+      <description>A ceremony repeated every year on this day in France: sand of Omaha Beach brings forward from the brightness of the stone the names of the fallen, 79 years ago #Today
+
+#DDay
+[📹 Jackie Speier: https://t.co/lg6cxu4gzk]
+https://t.co/OTlbeq8PgM</description>
+      <content:encoded>A ceremony repeated every year on this day in France: sand of Omaha Beach brings forward from the brightness of the stone the names of the fallen, 79 years ago #Today
+
+#DDay
+[📹 Jackie Speier: https://t.co/lg6cxu4gzk]
+https://t.co/OTlbeq8PgM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1666145143211061249"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1136743690595065857/pu/img/Z7C4pJrmRPY9W8hA.jpg" length="675" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 18:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Connectome of the Male Drosophila Ventral Nerve Cord  https://t.co/DjlbvheBAt #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1666146886372261892</link>
+      <description>A Connectome of the Male Drosophila Ventral Nerve Cord  https://t.co/DjlbvheBAt #biorxiv_neursci</description>
+      <content:encoded>A Connectome of the Male Drosophila Ventral Nerve Cord  https://t.co/DjlbvheBAt #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1666146886372261892"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 18:15:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
