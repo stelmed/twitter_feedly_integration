@@ -6,105 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jun 2023 14:14:27 +0000</lastBuildDate>
-    <item>
-      <title>RT @bcm_neurosci: Mega congrats to Dr. Eric Wang @AToliasLab @bcm_neurosci on passing his #PhD thesis defense with flying colors last Frida…</title>
-      <link>https://twitter.com/AToliasLab/status/1665748572627771394</link>
-      <description>RT @bcm_neurosci: Mega congrats to Dr. Eric Wang @AToliasLab @bcm_neurosci on passing his #PhD thesis defense with flying colors last Frida…</description>
-      <content:encoded>RT @bcm_neurosci: Mega congrats to Dr. Eric Wang @AToliasLab @bcm_neurosci on passing his #PhD thesis defense with flying colors last Frida…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1665748572627771394"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 15:53:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @garybasin: "Show don't tell" https://t.co/Q4cW5gcoGD</title>
-      <link>https://twitter.com/AndrewHires/status/1665749041052028928</link>
-      <description>RT @garybasin: "Show don't tell" https://t.co/Q4cW5gcoGD</description>
-      <content:encoded>RT @garybasin: "Show don't tell" https://t.co/Q4cW5gcoGD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1665749041052028928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fx3tUpaWYAErjda.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 15:54:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @castren_eero: Please check our latest paper https://t.co/z1MuEc1jol. LSD and psilocin are high-affinity ligands of TrkB, sensitizing Tr…</title>
-      <link>https://twitter.com/MargolisLab/status/1665749116222144512</link>
-      <description>RT @castren_eero: Please check our latest paper https://t.co/z1MuEc1jol. LSD and psilocin are high-affinity ligands of TrkB, sensitizing Tr…</description>
-      <content:encoded>RT @castren_eero: Please check our latest paper https://t.co/z1MuEc1jol. LSD and psilocin are high-affinity ligands of TrkB, sensitizing Tr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MargolisLab/status/1665749116222144512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 15:55:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Large-scale #ephys data volumes are growing at unprecedented rates across the field w/ #Neuropixels and other advancements. Read the latest preprint from Allen Institute for Neural Dynamics on compression strategies for large-scale electrophysiology data: https://t.co/0cFePggFnU</title>
-      <link>https://twitter.com/AllenInstitute/status/1665750354519048192</link>
-      <description>Large-scale #ephys data volumes are growing at unprecedented rates across the field w/ #Neuropixels and other advancements. Read the latest preprint from Allen Institute for Neural Dynamics on compression strategies for large-scale electrophysiology data: https://t.co/0cFePggFnU</description>
-      <content:encoded>Large-scale #ephys data volumes are growing at unprecedented rates across the field w/ #Neuropixels and other advancements. Read the latest preprint from Allen Institute for Neural Dynamics on compression strategies for large-scale electrophysiology data: https://t.co/0cFePggFnU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1665750354519048192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 16:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chocolate opals are found and formed within layers of developed volcanic ash and grouped in clusters of nodules. They are mined solely from Yita Ridge, Ethiopia being one of the most striking distinctive opal varieties
-
-[follow @rocksforthe for more clips]
-https://t.co/LwiYOlSpdv</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665750535394279424</link>
-      <description>Chocolate opals are found and formed within layers of developed volcanic ash and grouped in clusters of nodules. They are mined solely from Yita Ridge, Ethiopia being one of the most striking distinctive opal varieties
-
-[follow @rocksforthe for more clips]
-https://t.co/LwiYOlSpdv</description>
-      <content:encoded>Chocolate opals are found and formed within layers of developed volcanic ash and grouped in clusters of nodules. They are mined solely from Yita Ridge, Ethiopia being one of the most striking distinctive opal varieties
-
-[follow @rocksforthe for more clips]
-https://t.co/LwiYOlSpdv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665750535394279424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664793790123753472/pu/img/yfA_HEhbqeIhxMtG.jpg" length="675" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 16:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations to the preprint authors! @buccino_alessio, @OlivierWinter, David Bryant, @dyfbrain, @svoboda314, and Josh Siegle. #NeuroTwitter</title>
-      <link>https://twitter.com/AllenInstitute/status/1665750579229126657</link>
-      <description>Congratulations to the preprint authors! @buccino_alessio, @OlivierWinter, David Bryant, @dyfbrain, @svoboda314, and Josh Siegle. #NeuroTwitter</description>
-      <content:encoded>Congratulations to the preprint authors! @buccino_alessio, @OlivierWinter, David Bryant, @dyfbrain, @svoboda314, and Josh Siegle. #NeuroTwitter&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1665750579229126657"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 16:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/AS5e7fJcQ9</title>
-      <link>https://twitter.com/MichaelGalanin/status/1665750760271888387</link>
-      <description>RT @SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/AS5e7fJcQ9</description>
-      <content:encoded>RT @SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/AS5e7fJcQ9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1665750760271888387"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1665749577910321153/img/jvDHELUhVDeJHaQj.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 16:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ClarkRo00735040: New paper with an extensive sample size that should be relevant to both psychiatry researchers and clinicians. A brief…</title>
-      <link>https://twitter.com/PessoaBrain/status/1665750969278136327</link>
-      <description>RT @ClarkRo00735040: New paper with an extensive sample size that should be relevant to both psychiatry researchers and clinicians. A brief…</description>
-      <content:encoded>RT @ClarkRo00735040: New paper with an extensive sample size that should be relevant to both psychiatry researchers and clinicians. A brief…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1665750969278136327"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 05 Jun 2023 16:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Neuropolicy Competition is still open for submissions, but there are only FOUR WEEKS left! You could win up to $300 and have a feature on our website! You do not want to miss your chance on this incredible opportunity. Submit your paper today!
-
-https://t.co/x31qg1e4FZ https://t.co/26rG9Y7iLv</title>
-      <link>https://twitter.com/KnowingNeurons/status/1665751075511566336</link>
-      <description>Our Neuropolicy Competition is still open for submissions, but there are only FOUR WEEKS left! You could win up to $300 and have a feature on our website! You do not want to miss your chance on this incredible opportunity. Submit your paper today!
-
-https://t.co/x31qg1e4FZ https://t.co/26rG9Y7iLv</description>
-      <content:encoded>Our Neuropolicy Competition is still open for submissions, but there are only FOUR WEEKS left! You could win up to $300 and have a feature on our website! You do not want to miss your chance on this incredible opportunity. Submit your paper today!
-
-https://t.co/x31qg1e4FZ https://t.co/26rG9Y7iLv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KnowingNeurons/status/1665751075511566336"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fx3vxsmWcAAF-M1.jpg" length="1080" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 16:02:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>HírFM - Karc FM interview with Margo Petz on the developing brain on Mental Health Awareness Week (15-21 May, 2023). Youtube: https://t.co/bWObFhi7KL (in Hungarian) https://t.co/d1IEMsI42W</title>
-      <link>https://twitter.com/ZoltanMolnar64/status/1665751461190402048</link>
-      <description>HírFM - Karc FM interview with Margo Petz on the developing brain on Mental Health Awareness Week (15-21 May, 2023). Youtube: https://t.co/bWObFhi7KL (in Hungarian) https://t.co/d1IEMsI42W</description>
-      <content:encoded>HírFM - Karc FM interview with Margo Petz on the developing brain on Mental Health Awareness Week (15-21 May, 2023). Youtube: https://t.co/bWObFhi7KL (in Hungarian) https://t.co/d1IEMsI42W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ZoltanMolnar64/status/1665751461190402048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fx3u-vpXgAEanJU.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 16:04:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2023: “Never forget just how much purposeful connection can impact and sustain you,” Nobles told this year's graduating class. https://t.co/8Uc8iNe83x https://t.co/ro92NvsGtS</title>
-      <link>https://twitter.com/MIT/status/1665751650038841345</link>
-      <description>Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2023: “Never forget just how much purposeful connection can impact and sustain you,” Nobles told this year's graduating class. https://t.co/8Uc8iNe83x https://t.co/ro92NvsGtS</description>
-      <content:encoded>Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2023: “Never forget just how much purposeful connection can impact and sustain you,” Nobles told this year's graduating class. https://t.co/8Uc8iNe83x https://t.co/ro92NvsGtS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1665751650038841345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fx3wTFkWIAEbreT.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 16:05:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jun 2023 15:16:29 +0000</lastBuildDate>
     <item>
       <title>New pooled library!
 This lentiviral plasmid CRISPR knockout library contains ~10,000 sgRNAs targeting 1980 human druggable genes.
@@ -2108,6 +2010,147 @@ https://t.co/EpxaCJjbQm</description>
 https://t.co/EpxaCJjbQm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1666085751812141059"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664247949025742848/pu/img/H-O3p-cEISWOPi_M.jpg" length="675" type="photo"/>
       <pubDate>Tue, 06 Jun 2023 14:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>A @Nature paper reports new genetic variants that are linked to the development of critical illness in patients with COVID-19. https://t.co/R3RjI6Dsex https://t.co/xN5b664c9N</title>
+      <link>https://twitter.com/NaturePortfolio/status/1666088827478507520</link>
+      <description>A @Nature paper reports new genetic variants that are linked to the development of critical illness in patients with COVID-19. https://t.co/R3RjI6Dsex https://t.co/xN5b664c9N</description>
+      <content:encoded>A @Nature paper reports new genetic variants that are linked to the development of critical illness in patients with COVID-19. https://t.co/R3RjI6Dsex https://t.co/xN5b664c9N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1666088827478507520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx8i8THaQAAHD2L.jpg" length="1066" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @chayan_tweet: I am trying to apply for SFN membership, for which my application needs sponsorship from two active members.
+
+If there is…</title>
+      <link>https://twitter.com/SfNtweets/status/1666091387157385220</link>
+      <description>RT @chayan_tweet: I am trying to apply for SFN membership, for which my application needs sponsorship from two active members.
+
+If there is…</description>
+      <content:encoded>RT @chayan_tweet: I am trying to apply for SFN membership, for which my application needs sponsorship from two active members.
+
+If there is…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1666091387157385220"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 14:35:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jdpereira: Hey, so hmm.. this is embarrassing, but I don’t have an SFN membership and would really like to go…
+
+Can anyone sponsor me (…</title>
+      <link>https://twitter.com/SfNtweets/status/1666091458687012869</link>
+      <description>RT @jdpereira: Hey, so hmm.. this is embarrassing, but I don’t have an SFN membership and would really like to go…
+
+Can anyone sponsor me (…</description>
+      <content:encoded>RT @jdpereira: Hey, so hmm.. this is embarrassing, but I don’t have an SFN membership and would really like to go…
+
+Can anyone sponsor me (…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1666091458687012869"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 14:35:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do you want an introduction to generative AI? On June 7, join our Pie &amp;amp; AI event to discuss the various types of generative AI models, their creative applications, ethical considerations, and more!
+
+RSVP: https://t.co/ohYt8Nli4b</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1666092036439830531</link>
+      <description>Do you want an introduction to generative AI? On June 7, join our Pie &amp;amp; AI event to discuss the various types of generative AI models, their creative applications, ethical considerations, and more!
+
+RSVP: https://t.co/ohYt8Nli4b</description>
+      <content:encoded>Do you want an introduction to generative AI? On June 7, join our Pie &amp;amp; AI event to discuss the various types of generative AI models, their creative applications, ethical considerations, and more!
+
+RSVP: https://t.co/ohYt8Nli4b&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1666092036439830531"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 14:37:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Posters, Nanos, in-person or virtual, #SfN23 gives you the option of presenting your research in a format that works best for you and your research!
+
+How will you be sharing your research in at #SfN23?
+
+#neurotwitter</title>
+      <link>https://twitter.com/SfNtweets/status/1666092185601867777</link>
+      <description>Posters, Nanos, in-person or virtual, #SfN23 gives you the option of presenting your research in a format that works best for you and your research!
+
+How will you be sharing your research in at #SfN23?
+
+#neurotwitter</description>
+      <content:encoded>Posters, Nanos, in-person or virtual, #SfN23 gives you the option of presenting your research in a format that works best for you and your research!
+
+How will you be sharing your research in at #SfN23?
+
+#neurotwitter&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1666092185601867777"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 14:38:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DdelAlamo: "ProteinChat: Towards Achieving ChatGPT-Like Functionalities on Protein 3D Structures"
+
+https://t.co/PsT6HoecKc https://t.co…</title>
+      <link>https://twitter.com/gottapatchemall/status/1666092211233251330</link>
+      <description>RT @DdelAlamo: "ProteinChat: Towards Achieving ChatGPT-Like Functionalities on Protein 3D Structures"
+
+https://t.co/PsT6HoecKc https://t.co…</description>
+      <content:encoded>RT @DdelAlamo: "ProteinChat: Towards Achieving ChatGPT-Like Functionalities on Protein 3D Structures"
+
+https://t.co/PsT6HoecKc https://t.co…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1666092211233251330"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 14:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: Multimodal fusion technologies and applications in the context of neuroscience #Neuroscience https://t.co/uJGdv9PUfB</title>
+      <link>https://twitter.com/FrontNeurosci/status/1666092588598980609</link>
+      <description>New Research: Editorial: Multimodal fusion technologies and applications in the context of neuroscience #Neuroscience https://t.co/uJGdv9PUfB</description>
+      <content:encoded>New Research: Editorial: Multimodal fusion technologies and applications in the context of neuroscience #Neuroscience https://t.co/uJGdv9PUfB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1666092588598980609"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 14:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>And mostly we need to discuss the issue of power: who "owns" #AI and how can those be made accountable?  Who makes the AI tools, what do these afford and who can/should/will use those tools, for what?...
+#ResponsibleAI https://t.co/xvzURUySYz</title>
+      <link>https://twitter.com/vdignum/status/1666092671319031809</link>
+      <description>And mostly we need to discuss the issue of power: who "owns" #AI and how can those be made accountable?  Who makes the AI tools, what do these afford and who can/should/will use those tools, for what?...
+#ResponsibleAI https://t.co/xvzURUySYz</description>
+      <content:encoded>And mostly we need to discuss the issue of power: who "owns" #AI and how can those be made accountable?  Who makes the AI tools, what do these afford and who can/should/will use those tools, for what?...
+#ResponsibleAI https://t.co/xvzURUySYz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1666092671319031809"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 14:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @coledeforest: Want to create hydrogels – both INSIDE and OUT of living cells – with controlled viscoelasticity?
+
+Check out our latest p…</title>
+      <link>https://twitter.com/gottapatchemall/status/1666097393685909506</link>
+      <description>RT @coledeforest: Want to create hydrogels – both INSIDE and OUT of living cells – with controlled viscoelasticity?
+
+Check out our latest p…</description>
+      <content:encoded>RT @coledeforest: Want to create hydrogels – both INSIDE and OUT of living cells – with controlled viscoelasticity?
+
+Check out our latest p…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1666097393685909506"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 14:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers in @ScienceAdvances have mapped the geological features underlying Thwaites Glacier to help improve predictions of ice flow contributing to the retreat of the West Antarctic Ice Sheet and related sea level rise. https://t.co/qitzwB5rqd https://t.co/wOxtLObdan</title>
+      <link>https://twitter.com/ScienceMagazine/status/1666097793285636098</link>
+      <description>Researchers in @ScienceAdvances have mapped the geological features underlying Thwaites Glacier to help improve predictions of ice flow contributing to the retreat of the West Antarctic Ice Sheet and related sea level rise. https://t.co/qitzwB5rqd https://t.co/wOxtLObdan</description>
+      <content:encoded>Researchers in @ScienceAdvances have mapped the geological features underlying Thwaites Glacier to help improve predictions of ice flow contributing to the retreat of the West Antarctic Ice Sheet and related sea level rise. https://t.co/qitzwB5rqd https://t.co/wOxtLObdan&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1666097793285636098"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx8rHMzaUAENirt.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 15:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @OwenRandlett: New preprint describing 𝙥𝙞_𝙩𝙖𝙞𝙡𝙩𝙧𝙖𝙘𝙠: A compact, inexpensive, and open-source behaviour-tracking system for head-restrain…</title>
+      <link>https://twitter.com/OpenBehavior/status/1666098915903672320</link>
+      <description>RT @OwenRandlett: New preprint describing 𝙥𝙞_𝙩𝙖𝙞𝙡𝙩𝙧𝙖𝙘𝙠: A compact, inexpensive, and open-source behaviour-tracking system for head-restrain…</description>
+      <content:encoded>RT @OwenRandlett: New preprint describing 𝙥𝙞_𝙩𝙖𝙞𝙡𝙩𝙧𝙖𝙘𝙠: A compact, inexpensive, and open-source behaviour-tracking system for head-restrain…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenBehavior/status/1666098915903672320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 15:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Last generation medical devices can help find the structure of subcutaneous vein blood vessels providing digital images by non-invasive near-infrared rays on the skin 
+
+[read more: https://t.co/F8Vim8JpFe]
+https://t.co/jIh7zcK5FN</title>
+      <link>https://twitter.com/Rainmaker1973/status/1666100823326355456</link>
+      <description>Last generation medical devices can help find the structure of subcutaneous vein blood vessels providing digital images by non-invasive near-infrared rays on the skin 
+
+[read more: https://t.co/F8Vim8JpFe]
+https://t.co/jIh7zcK5FN</description>
+      <content:encoded>Last generation medical devices can help find the structure of subcutaneous vein blood vessels providing digital images by non-invasive near-infrared rays on the skin 
+
+[read more: https://t.co/F8Vim8JpFe]
+https://t.co/jIh7zcK5FN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1666100823326355456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1569020980286078978/pu/img/6yCrmwkMmEhNjVDC.jpg" length="224" type="photo"/>
+      <pubDate>Tue, 06 Jun 2023 15:12:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
