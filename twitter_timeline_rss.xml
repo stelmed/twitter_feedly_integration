@@ -6,38 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jun 2023 03:21:29 +0000</lastBuildDate>
-    <item>
-      <title>The AI will make You an Anime in Real Time
-
-[source, read more: https://t.co/wBmkh5ol4u]
-https://t.co/08hz3qQ7Sh</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665648897459474432</link>
-      <description>The AI will make You an Anime in Real Time
-
-[source, read more: https://t.co/wBmkh5ol4u]
-https://t.co/08hz3qQ7Sh</description>
-      <content:encoded>The AI will make You an Anime in Real Time
-
-[source, read more: https://t.co/wBmkh5ol4u]
-https://t.co/08hz3qQ7Sh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665648897459474432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1665010665331777536/pu/img/fJbAfdU_Lj3DhkrY.jpg" length="514" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 09:16:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>There's a waterfall in Romania whose aspect and colors make it look like it came out from a fairly tales book 
-
-[read more, with more photos by Teea Cristea: https://t.co/xo29BuAObQ] https://t.co/rGQhofvLGL</title>
-      <link>https://twitter.com/Rainmaker1973/status/1665653274874114050</link>
-      <description>There's a waterfall in Romania whose aspect and colors make it look like it came out from a fairly tales book 
-
-[read more, with more photos by Teea Cristea: https://t.co/xo29BuAObQ] https://t.co/rGQhofvLGL</description>
-      <content:encoded>There's a waterfall in Romania whose aspect and colors make it look like it came out from a fairly tales book 
-
-[read more, with more photos by Teea Cristea: https://t.co/xo29BuAObQ] https://t.co/rGQhofvLGL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1665653274874114050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fx2WunDWcAA4Fgn.jpg" length="585" type="photo"/>
-      <pubDate>Mon, 05 Jun 2023 09:34:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jun 2023 04:18:56 +0000</lastBuildDate>
     <item>
       <title>🥾🌼☀️New Spring Hike☀️ 🌼🥾
 
@@ -2094,6 +2063,20 @@ Dynamic physiological changes in brain extracellular calcium ([Ca2+]o) occur… 
       <description>Perivascular spaces in Alzheimer's disease are associated with inflammatory, stress-related, and hypertension biomarkers  https://t.co/XXCCd0d2j0 #biorxiv_neursci</description>
       <content:encoded>Perivascular spaces in Alzheimer's disease are associated with inflammatory, stress-related, and hypertension biomarkers  https://t.co/XXCCd0d2j0 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1665920359311220736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 06 Jun 2023 03:15:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @victormustar: 🤯 The most amazing QR codes you have ever seen - and yes, they work! (Stable Diffusion + ControlNet) https://t.co/BbIEypQ…</title>
+      <link>https://twitter.com/gottapatchemall/status/1665921923371667456</link>
+      <description>RT @victormustar: 🤯 The most amazing QR codes you have ever seen - and yes, they work! (Stable Diffusion + ControlNet) https://t.co/BbIEypQ…</description>
+      <content:encoded>RT @victormustar: 🤯 The most amazing QR codes you have ever seen - and yes, they work! (Stable Diffusion + ControlNet) https://t.co/BbIEypQ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1665921923371667456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 03:21:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Always learning from Carla... Always more work to do! (inside and outside the lab) https://t.co/YZao76PIs0</title>
+      <link>https://twitter.com/albarran_neuro/status/1665935059365371905</link>
+      <description>Always learning from Carla... Always more work to do! (inside and outside the lab) https://t.co/YZao76PIs0</description>
+      <content:encoded>Always learning from Carla... Always more work to do! (inside and outside the lab) https://t.co/YZao76PIs0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/albarran_neuro/status/1665935059365371905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 06 Jun 2023 04:14:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
