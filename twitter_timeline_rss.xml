@@ -6,7 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 04:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2023 05:15:12 +0000</lastBuildDate>
     <item>
       <title>Doctoral student at KI? NEWS! When it's time to e-nail your thesis, you will no longer need to hand in your printed copies to KIB (just to spare you some time, we still love to see you!). Read the interview with librarian Lars on the new process: https://t.co/sIQhLKbMjr https://t.co/tP6zuN4C10</title>
       <link>https://twitter.com/kibiblioteket/status/1666429561322479617</link>
@@ -1608,13 +1608,6 @@ https://t.co/qLWfl8zuzo https://t.co/vTTazUsYQT&lt;blockquote class="twitter-twe
       <pubDate>Wed, 07 Jun 2023 20:15:42 +0000</pubDate>
     </item>
     <item>
-      <title>RT @ScienceAdvances: To understand how the pancreatic tumor microenvironment contributes to disease progression, researchers have developed…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1666539770170802178</link>
-      <description>RT @ScienceAdvances: To understand how the pancreatic tumor microenvironment contributes to disease progression, researchers have developed…</description>
-      <content:encoded>RT @ScienceAdvances: To understand how the pancreatic tumor microenvironment contributes to disease progression, researchers have developed…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1666539770170802178"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 07 Jun 2023 20:16:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Recurrent pattern completion drives the neocortical representation of sensory inference | bioRxiv https://t.co/xVfkW3Ss7a</title>
       <link>https://twitter.com/guy_bouvier/status/1666540991497768961</link>
       <description>Recurrent pattern completion drives the neocortical representation of sensory inference | bioRxiv https://t.co/xVfkW3Ss7a</description>
@@ -2024,6 +2017,13 @@ Cerebellar transcranial alternating current stimulation (ctACS) has shown promis
       <description>RT @ContractorAnis: This is the last week to register for iGluR2023 meeting. We have a great program of speakers on all topics covering glu…</description>
       <content:encoded>RT @ContractorAnis: This is the last week to register for iGluR2023 meeting. We have a great program of speakers on all topics covering glu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1666650676091338752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 08 Jun 2023 03:37:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>"This work situation has given me the vibrant and varied workdays I was after. My schedule is constantly changing and the … projects I’m tasked to work on are always new, affording me opportunities to learn and grow." #ScienceWorkingLife @ScienceCareers https://t.co/0XLOE8Ikav</title>
+      <link>https://twitter.com/ScienceMagazine/status/1666663851918610432</link>
+      <description>"This work situation has given me the vibrant and varied workdays I was after. My schedule is constantly changing and the … projects I’m tasked to work on are always new, affording me opportunities to learn and grow." #ScienceWorkingLife @ScienceCareers https://t.co/0XLOE8Ikav</description>
+      <content:encoded>"This work situation has given me the vibrant and varied workdays I was after. My schedule is constantly changing and the … projects I’m tasked to work on are always new, affording me opportunities to learn and grow." #ScienceWorkingLife @ScienceCareers https://t.co/0XLOE8Ikav&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1666663851918610432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 08 Jun 2023 04:30:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
