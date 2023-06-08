@@ -6,85 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 10:17:06 +0000</lastBuildDate>
-    <item>
-      <title>🔎 Rather than refine existing algorithms, AlphaDev started from scratch in a computer’s assembly instructions.
-
-To train it, we built an ‘assembly game’ where it's rewarded for sorting data efficiently - and wins by finding a correct, faster program: https://t.co/2ukGaPey5w https://t.co/xbdgabVKcE</title>
-      <link>https://twitter.com/DeepMind/status/1666462546629361664</link>
-      <description>🔎 Rather than refine existing algorithms, AlphaDev started from scratch in a computer’s assembly instructions.
-
-To train it, we built an ‘assembly game’ where it's rewarded for sorting data efficiently - and wins by finding a correct, faster program: https://t.co/2ukGaPey5w https://t.co/xbdgabVKcE</description>
-      <content:encoded>🔎 Rather than refine existing algorithms, AlphaDev started from scratch in a computer’s assembly instructions.
-
-To train it, we built an ‘assembly game’ where it's rewarded for sorting data efficiently - and wins by finding a correct, faster program: https://t.co/2ukGaPey5w https://t.co/xbdgabVKcE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1666462546629361664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyBukNWWwAUUnCt.png" length="1200" type="photo"/>
-      <pubDate>Wed, 07 Jun 2023 15:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>#️⃣ We also tested whether AlphaDev could generalise to improve 𝗵𝗮𝘀𝗵𝗶𝗻𝗴, another fundamental computing algorithm.
-
-When it was applied to the 9-16 bytes range of the hashing function, it discovered an algorithm that was 30% faster.
-
-Find out more: https://t.co/2ukGaPey5w https://t.co/H30eDJJq0i</title>
-      <link>https://twitter.com/DeepMind/status/1666462548894310410</link>
-      <description>#️⃣ We also tested whether AlphaDev could generalise to improve 𝗵𝗮𝘀𝗵𝗶𝗻𝗴, another fundamental computing algorithm.
-
-When it was applied to the 9-16 bytes range of the hashing function, it discovered an algorithm that was 30% faster.
-
-Find out more: https://t.co/2ukGaPey5w https://t.co/H30eDJJq0i</description>
-      <content:encoded>#️⃣ We also tested whether AlphaDev could generalise to improve 𝗵𝗮𝘀𝗵𝗶𝗻𝗴, another fundamental computing algorithm.
-
-When it was applied to the 9-16 bytes range of the hashing function, it discovered an algorithm that was 30% faster.
-
-Find out more: https://t.co/2ukGaPey5w https://t.co/H30eDJJq0i&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1666462548894310410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyBuyShXwAE59aG.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 07 Jun 2023 15:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🖥️ We've open sourced our new sorting algorithms in the main C++ library - an important stepping stone for AI to help optimise the world’s code.
-
-Millions of developers can use it on AI applications in industries from cloud computing to online shopping: https://t.co/2ukGaPey5w</title>
-      <link>https://twitter.com/DeepMind/status/1666462551893327873</link>
-      <description>🖥️ We've open sourced our new sorting algorithms in the main C++ library - an important stepping stone for AI to help optimise the world’s code.
-
-Millions of developers can use it on AI applications in industries from cloud computing to online shopping: https://t.co/2ukGaPey5w</description>
-      <content:encoded>🖥️ We've open sourced our new sorting algorithms in the main C++ library - an important stepping stone for AI to help optimise the world’s code.
-
-Millions of developers can use it on AI applications in industries from cloud computing to online shopping: https://t.co/2ukGaPey5w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1666462551893327873"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 07 Jun 2023 15:10:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Work by: @DJ_Mankowitz, @andreamichi, @AZhernov, Marco Gelmi, @macselvi, @eleurent, @CauseMean, @shariqbal, Jean-Baptiste Lespiau, Alex Ahern, Thomas Koppe, Kevin Millikin, Stephen Gaffney, Sophie Elster, Jackson Broshear, Chris Gamble, Kieran Milan, Robert Tung, Minjae Hwang…</title>
-      <link>https://twitter.com/DeepMind/status/1666462553612996611</link>
-      <description>Work by: @DJ_Mankowitz, @andreamichi, @AZhernov, Marco Gelmi, @macselvi, @eleurent, @CauseMean, @shariqbal, Jean-Baptiste Lespiau, Alex Ahern, Thomas Koppe, Kevin Millikin, Stephen Gaffney, Sophie Elster, Jackson Broshear, Chris Gamble, Kieran Milan, Robert Tung, Minjae Hwang…</description>
-      <content:encoded>Work by: @DJ_Mankowitz, @andreamichi, @AZhernov, Marco Gelmi, @macselvi, @eleurent, @CauseMean, @shariqbal, Jean-Baptiste Lespiau, Alex Ahern, Thomas Koppe, Kevin Millikin, Stephen Gaffney, Sophie Elster, Jackson Broshear, Chris Gamble, Kieran Milan, Robert Tung, Minjae Hwang…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1666462553612996611"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 07 Jun 2023 15:10:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>...Taylan Cemgil, Mohammadamin Barekatain, Yujia Li, Amol Mandhane, Thomas Hubert, Julian Schrittwieser, @DemisHassabis, @Pushmeet, Martin Riedmiller, @OriolVinyalsML and David Silver.</title>
-      <link>https://twitter.com/DeepMind/status/1666462555106074630</link>
-      <description>...Taylan Cemgil, Mohammadamin Barekatain, Yujia Li, Amol Mandhane, Thomas Hubert, Julian Schrittwieser, @DemisHassabis, @Pushmeet, Martin Riedmiller, @OriolVinyalsML and David Silver.</description>
-      <content:encoded>...Taylan Cemgil, Mohammadamin Barekatain, Yujia Li, Amol Mandhane, Thomas Hubert, Julian Schrittwieser, @DemisHassabis, @Pushmeet, Martin Riedmiller, @OriolVinyalsML and David Silver.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1666462555106074630"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 07 Jun 2023 15:10:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>"fMRI combined with flexible optogenetics opens a new path to investigate dynamic changes in functional brain states in the same animal through high-throughput brain-wide effective connectivity mapping."
-https://t.co/HEhEppuNsi</title>
-      <link>https://twitter.com/PessoaBrain/status/1666462749277257730</link>
-      <description>"fMRI combined with flexible optogenetics opens a new path to investigate dynamic changes in functional brain states in the same animal through high-throughput brain-wide effective connectivity mapping."
-https://t.co/HEhEppuNsi</description>
-      <content:encoded>"fMRI combined with flexible optogenetics opens a new path to investigate dynamic changes in functional brain states in the same animal through high-throughput brain-wide effective connectivity mapping."
-https://t.co/HEhEppuNsi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1666462749277257730"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 07 Jun 2023 15:10:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Brain-wide effective connectivity obtained by fMRI with optogenetic stimulation of atlas-based cortical regions is generally  congruent with anatomically defined axonal tracing data but is affected by the types of anesthetics that act selectively on specific  connections."</title>
-      <link>https://twitter.com/PessoaBrain/status/1666462751215026182</link>
-      <description>"Brain-wide effective connectivity obtained by fMRI with optogenetic stimulation of atlas-based cortical regions is generally  congruent with anatomically defined axonal tracing data but is affected by the types of anesthetics that act selectively on specific  connections."</description>
-      <content:encoded>"Brain-wide effective connectivity obtained by fMRI with optogenetic stimulation of atlas-based cortical regions is generally  congruent with anatomically defined axonal tracing data but is affected by the types of anesthetics that act selectively on specific  connections."&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1666462751215026182"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 07 Jun 2023 15:10:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Jun 2023 11:13:53 +0000</lastBuildDate>
     <item>
       <title>Interesting but in general the link between signal flow and anatomical pathways is not really the way to go. Sure, structure is the backbone, but I can drive to Los Angeles from DC is way too many ways...</title>
       <link>https://twitter.com/PessoaBrain/status/1666462752808771584</link>
@@ -2031,6 +1953,80 @@ https://t.co/ryp6sxxu5a</description>
       <content:encoded>Read more about the robotic camera 👇 📸 🌊 🤖 
 https://t.co/ryp6sxxu5a&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1666746901536833538"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 08 Jun 2023 10:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @bingbrunton: Our synapses are wondrous structures with many parts, and every single part is a molecular target of common (recreational)…</title>
+      <link>https://twitter.com/KordingLab/status/1666751640177725440</link>
+      <description>RT @bingbrunton: Our synapses are wondrous structures with many parts, and every single part is a molecular target of common (recreational)…</description>
+      <content:encoded>RT @bingbrunton: Our synapses are wondrous structures with many parts, and every single part is a molecular target of common (recreational)…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1666751640177725440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 08 Jun 2023 10:18:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>You might not know that cellophane, the clear plastic used to wrap food, is 100% biodegradable and produced from wood pulp 
+
+[read more: https://t.co/akNMvmTsdC] https://t.co/c8tWAX1djc</title>
+      <link>https://twitter.com/Rainmaker1973/status/1666751925096964109</link>
+      <description>You might not know that cellophane, the clear plastic used to wrap food, is 100% biodegradable and produced from wood pulp 
+
+[read more: https://t.co/akNMvmTsdC] https://t.co/c8tWAX1djc</description>
+      <content:encoded>You might not know that cellophane, the clear plastic used to wrap food, is 100% biodegradable and produced from wood pulp 
+
+[read more: https://t.co/akNMvmTsdC] https://t.co/c8tWAX1djc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1666751925096964109"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyCs6-5X0AAAckq.jpg" length="680" type="photo"/>
+      <pubDate>Thu, 08 Jun 2023 10:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Earth's magnetic poles move. The magnetic North Pole moves in loops of up to 80 km per day. But its actual location, an average of all these loops, is also moving at ~40 km a year. In the last 150 years, the pole has wandered a total of about 1102 km https://t.co/Sm4MGdUdQL https://t.co/ZupDw8vYTz</title>
+      <link>https://twitter.com/Rainmaker1973/status/1666756958282477569</link>
+      <description>The Earth's magnetic poles move. The magnetic North Pole moves in loops of up to 80 km per day. But its actual location, an average of all these loops, is also moving at ~40 km a year. In the last 150 years, the pole has wandered a total of about 1102 km https://t.co/Sm4MGdUdQL https://t.co/ZupDw8vYTz</description>
+      <content:encoded>The Earth's magnetic poles move. The magnetic North Pole moves in loops of up to 80 km per day. But its actual location, an average of all these loops, is also moving at ~40 km a year. In the last 150 years, the pole has wandered a total of about 1102 km https://t.co/Sm4MGdUdQL https://t.co/ZupDw8vYTz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1666756958282477569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyCtCNrX0Asu1eI.jpg" length="600" type="photo"/>
+      <pubDate>Thu, 08 Jun 2023 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @giladfeldman: 2-hour hybrid workshop I gave at LMU Munich now online:
+
+"Registered Reports and Peer Community in Registered Report are…</title>
+      <link>https://twitter.com/chrisdc77/status/1666759465725485058</link>
+      <description>RT @giladfeldman: 2-hour hybrid workshop I gave at LMU Munich now online:
+
+"Registered Reports and Peer Community in Registered Report are…</description>
+      <content:encoded>RT @giladfeldman: 2-hour hybrid workshop I gave at LMU Munich now online:
+
+"Registered Reports and Peer Community in Registered Report are…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1666759465725485058"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 08 Jun 2023 10:49:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>When scientists started Biosphere 2 project in 1991 could not understand why trees fell over before they matured. They later figured out they suffered from weakness caused by lack of stress wood, normally created in response to winds in natural conditions https://t.co/f2QQeCyuu0 https://t.co/YXiBr18VaM</title>
+      <link>https://twitter.com/Rainmaker1973/status/1666762006148382720</link>
+      <description>When scientists started Biosphere 2 project in 1991 could not understand why trees fell over before they matured. They later figured out they suffered from weakness caused by lack of stress wood, normally created in response to winds in natural conditions https://t.co/f2QQeCyuu0 https://t.co/YXiBr18VaM</description>
+      <content:encoded>When scientists started Biosphere 2 project in 1991 could not understand why trees fell over before they matured. They later figured out they suffered from weakness caused by lack of stress wood, normally created in response to winds in natural conditions https://t.co/f2QQeCyuu0 https://t.co/YXiBr18VaM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1666762006148382720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyCtIe7XoAA2MIP.jpg" length="680" type="photo"/>
+      <pubDate>Thu, 08 Jun 2023 11:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>At H&amp;amp;M Foundation Global Change Awards presentation.
+Exciting uses of #AI for #sustainabilty #inclusion !
+#AI4good #ResponsibleAI 
+More info https://t.co/szzihf1FLT https://t.co/GphNlVV2IC</title>
+      <link>https://twitter.com/vdignum/status/1666763782939459584</link>
+      <description>At H&amp;amp;M Foundation Global Change Awards presentation.
+Exciting uses of #AI for #sustainabilty #inclusion !
+#AI4good #ResponsibleAI 
+More info https://t.co/szzihf1FLT https://t.co/GphNlVV2IC</description>
+      <content:encoded>At H&amp;amp;M Foundation Global Change Awards presentation.
+Exciting uses of #AI for #sustainabilty #inclusion !
+#AI4good #ResponsibleAI 
+More info https://t.co/szzihf1FLT https://t.co/GphNlVV2IC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1666763782939459584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyGI0sAWIAMJaBA.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 08 Jun 2023 11:07:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @moccalin: During motherhood, females spend all their time caring for the young. However, nearly 100% virgin female mice in the wild kil…</title>
+      <link>https://twitter.com/brainsOnMyMind/status/1666764920380063744</link>
+      <description>RT @moccalin: During motherhood, females spend all their time caring for the young. However, nearly 100% virgin female mice in the wild kil…</description>
+      <content:encoded>RT @moccalin: During motherhood, females spend all their time caring for the young. However, nearly 100% virgin female mice in the wild kil…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1666764920380063744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 08 Jun 2023 11:11:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
