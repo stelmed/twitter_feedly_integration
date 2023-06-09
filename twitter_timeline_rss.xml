@@ -6,37 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jun 2023 04:19:25 +0000</lastBuildDate>
-    <item>
-      <title>🚨Applications due tomorrow (June 9)🚨
-
-🔗https://t.co/dWtuVRWy1N https://t.co/XOAa2pxWoQ</title>
-      <link>https://twitter.com/HHMIJanelia/status/1666789684180123650</link>
-      <description>🚨Applications due tomorrow (June 9)🚨
-
-🔗https://t.co/dWtuVRWy1N https://t.co/XOAa2pxWoQ</description>
-      <content:encoded>🚨Applications due tomorrow (June 9)🚨
-
-🔗https://t.co/dWtuVRWy1N https://t.co/XOAa2pxWoQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1666789684180123650"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 08 Jun 2023 12:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artist Vhils is a prolific graffiti writer. His groundbreaking bas-relief carving technique is possibly one of the most compelling approaches to art created in the streets in the last decade
-
-[site: https://t.co/wHI4DWppeb]
-https://t.co/7NPdfk5J8d</title>
-      <link>https://twitter.com/Rainmaker1973/status/1666792069426212864</link>
-      <description>Artist Vhils is a prolific graffiti writer. His groundbreaking bas-relief carving technique is possibly one of the most compelling approaches to art created in the streets in the last decade
-
-[site: https://t.co/wHI4DWppeb]
-https://t.co/7NPdfk5J8d</description>
-      <content:encoded>Artist Vhils is a prolific graffiti writer. His groundbreaking bas-relief carving technique is possibly one of the most compelling approaches to art created in the streets in the last decade
-
-[site: https://t.co/wHI4DWppeb]
-https://t.co/7NPdfk5J8d&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1666792069426212864"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1648772230891950080/pu/img/RnRWRcVntj-Sw7Bf.jpg" length="675" type="photo"/>
-      <pubDate>Thu, 08 Jun 2023 12:59:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Jun 2023 05:15:03 +0000</lastBuildDate>
     <item>
       <title>This looks like a great conference! For sure could not comprehend the material. Looks interesting though
 
@@ -2103,6 +2073,27 @@ A new #SciencePolicyForum discusses the Biden administration's plans to moderniz
 
 #luciamelloni unveils new GWT v…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1667014530474590208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 09 Jun 2023 03:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @OpenSauceLive: OK, legitimately, we have no idea what @BenKrasnow is talking about most of the time, but we think some of you will, so…</title>
+      <link>https://twitter.com/BenKrasnow/status/1667023637902405638</link>
+      <description>RT @OpenSauceLive: OK, legitimately, we have no idea what @BenKrasnow is talking about most of the time, but we think some of you will, so…</description>
+      <content:encoded>RT @OpenSauceLive: OK, legitimately, we have no idea what @BenKrasnow is talking about most of the time, but we think some of you will, so…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BenKrasnow/status/1667023637902405638"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 09 Jun 2023 04:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mariellaf1: I had fun too! Endlessly fascinating subject of AI and how we negotiate our way ahead. Come back soon to  @TimesRadio</title>
+      <link>https://twitter.com/behrenstimb/status/1667024214467944448</link>
+      <description>RT @mariellaf1: I had fun too! Endlessly fascinating subject of AI and how we negotiate our way ahead. Come back soon to  @TimesRadio</description>
+      <content:encoded>RT @mariellaf1: I had fun too! Endlessly fascinating subject of AI and how we negotiate our way ahead. Come back soon to  @TimesRadio&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1667024214467944448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 09 Jun 2023 04:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @asimcheema746: Hello everyone! I am trying to resister as a member of SfN, however, it required two active SfN postdoc or higher positi…</title>
+      <link>https://twitter.com/SfNtweets/status/1667036847170568192</link>
+      <description>RT @asimcheema746: Hello everyone! I am trying to resister as a member of SfN, however, it required two active SfN postdoc or higher positi…</description>
+      <content:encoded>RT @asimcheema746: Hello everyone! I am trying to resister as a member of SfN, however, it required two active SfN postdoc or higher positi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1667036847170568192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 09 Jun 2023 05:12:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
