@@ -6,64 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jun 2023 19:12:15 +0000</lastBuildDate>
-    <item>
-      <title>pnYC-NpHM-DmNot10_R
-Depositor: Elisa Izaurralde
-Purpose: Bacterial Expression of DmNot10
-
-https://t.co/9hQ8iHakfX https://t.co/pYsfj32TQg</title>
-      <link>https://twitter.com/Addgene/status/1667261543250120715</link>
-      <description>pnYC-NpHM-DmNot10_R
-Depositor: Elisa Izaurralde
-Purpose: Bacterial Expression of DmNot10
-
-https://t.co/9hQ8iHakfX https://t.co/pYsfj32TQg</description>
-      <content:encoded>pnYC-NpHM-DmNot10_R
-Depositor: Elisa Izaurralde
-Purpose: Bacterial Expression of DmNot10
-
-https://t.co/9hQ8iHakfX https://t.co/pYsfj32TQg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1667261543250120715"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FyNNh66X0AoXPrn.jpg" length="480" type="photo"/>
-      <pubDate>Fri, 09 Jun 2023 20:05:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>An overactive inflammatory response could be at the root of many long #COVID cases, according to a new study from the Allen Institute for #Immunology and @fredhutch. 🧵 https://t.co/aJK26f8omF</title>
-      <link>https://twitter.com/AllenInstitute/status/1667262339585036289</link>
-      <description>An overactive inflammatory response could be at the root of many long #COVID cases, according to a new study from the Allen Institute for #Immunology and @fredhutch. 🧵 https://t.co/aJK26f8omF</description>
-      <content:encoded>An overactive inflammatory response could be at the root of many long #COVID cases, according to a new study from the Allen Institute for #Immunology and @fredhutch. 🧵 https://t.co/aJK26f8omF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1667262339585036289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 09 Jun 2023 20:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scientists have seen previous links between inflammation and long #COVID, but the new study – out today in @NatureComms – is the first to trace the persistence of these inflammatory markers over time in the same patients. (2/5) https://t.co/L1bwsZfW3E</title>
-      <link>https://twitter.com/AllenInstitute/status/1667262340914614272</link>
-      <description>Scientists have seen previous links between inflammation and long #COVID, but the new study – out today in @NatureComms – is the first to trace the persistence of these inflammatory markers over time in the same patients. (2/5) https://t.co/L1bwsZfW3E</description>
-      <content:encoded>Scientists have seen previous links between inflammation and long #COVID, but the new study – out today in @NatureComms – is the first to trace the persistence of these inflammatory markers over time in the same patients. (2/5) https://t.co/L1bwsZfW3E&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1667262340914614272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 09 Jun 2023 20:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Out of 55 patients with long #COVID, ~2/3 had persistently high levels of certain signals of inflammation. The Allen Institute team was able to differentiate two kinds of #LongCOVID, inflammatory long COVID (in red) and non-inflammatory (in blue). (3/5) https://t.co/zlzWINgOzV</title>
-      <link>https://twitter.com/AllenInstitute/status/1667262342579752960</link>
-      <description>Out of 55 patients with long #COVID, ~2/3 had persistently high levels of certain signals of inflammation. The Allen Institute team was able to differentiate two kinds of #LongCOVID, inflammatory long COVID (in red) and non-inflammatory (in blue). (3/5) https://t.co/zlzWINgOzV</description>
-      <content:encoded>Out of 55 patients with long #COVID, ~2/3 had persistently high levels of certain signals of inflammation. The Allen Institute team was able to differentiate two kinds of #LongCOVID, inflammatory long COVID (in red) and non-inflammatory (in blue). (3/5) https://t.co/zlzWINgOzV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1667262342579752960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyNK3KLaIAAdvZz.jpg" length="768" type="photo"/>
-      <pubDate>Fri, 09 Jun 2023 20:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The patient volunteers in this new analysis are part of a larger, ongoing study based at @fredhutch, the Seattle COVID Cohort Study, which is led by Julie McElrath, and Julie Czartoski. (4/5) https://t.co/XsxZKOYlzu</title>
-      <link>https://twitter.com/AllenInstitute/status/1667262344270065665</link>
-      <description>The patient volunteers in this new analysis are part of a larger, ongoing study based at @fredhutch, the Seattle COVID Cohort Study, which is led by Julie McElrath, and Julie Czartoski. (4/5) https://t.co/XsxZKOYlzu</description>
-      <content:encoded>The patient volunteers in this new analysis are part of a larger, ongoing study based at @fredhutch, the Seattle COVID Cohort Study, which is led by Julie McElrath, and Julie Czartoski. (4/5) https://t.co/XsxZKOYlzu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1667262344270065665"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 09 Jun 2023 20:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Allen Institute for Immunology works to understand the delicate balancing act of the human immune system—how it works when we’re healthy, and what goes wrong in disease. Learn more about our #TeamScience approach to decoding the immune system: https://t.co/9RkAyCqzwr (5/5) https://t.co/Su9xwhG2eM</title>
-      <link>https://twitter.com/AllenInstitute/status/1667262345712902146</link>
-      <description>The Allen Institute for Immunology works to understand the delicate balancing act of the human immune system—how it works when we’re healthy, and what goes wrong in disease. Learn more about our #TeamScience approach to decoding the immune system: https://t.co/9RkAyCqzwr (5/5) https://t.co/Su9xwhG2eM</description>
-      <content:encoded>The Allen Institute for Immunology works to understand the delicate balancing act of the human immune system—how it works when we’re healthy, and what goes wrong in disease. Learn more about our #TeamScience approach to decoding the immune system: https://t.co/9RkAyCqzwr (5/5) https://t.co/Su9xwhG2eM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1667262345712902146"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyNMQfLagAA6hTM.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 09 Jun 2023 20:08:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jun 2023 20:17:15 +0000</lastBuildDate>
     <item>
       <title>RT @_akhaliq: Meta just released MusicGen, a simple and controllable model for music generation
 
@@ -2067,6 +2010,104 @@ We aimed (i) to explore the diagnostic value of deep gray matter magnetic suscep
 
 We aimed (i) to explore the diagnostic value of deep gray matter magnetic susceptibility in Alzheimer’s disease (AD) in… #ageing #neuroscience https://t.co/NKKicWwlb8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1667608584883159042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 10 Jun 2023 19:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>You may not know that the derivatives of the position vector (x) with respect to time have interesting names:
+
+Velocity (v) = dx/dt
+Acceleration (a) = d²x/dt²
+Jerk (j) = d³x/dt³
+Snap (s) = d⁴x/dt⁴ 
+Crackle (c) = d⁵x/dt⁵
+Pop (p) = d⁶x/dt⁶
+
+[source: https://t.co/gk3NiCXqIY] https://t.co/N0ScVrksef</title>
+      <link>https://twitter.com/Rainmaker1973/status/1667611162429517824</link>
+      <description>You may not know that the derivatives of the position vector (x) with respect to time have interesting names:
+
+Velocity (v) = dx/dt
+Acceleration (a) = d²x/dt²
+Jerk (j) = d³x/dt³
+Snap (s) = d⁴x/dt⁴ 
+Crackle (c) = d⁵x/dt⁵
+Pop (p) = d⁶x/dt⁶
+
+[source: https://t.co/gk3NiCXqIY] https://t.co/N0ScVrksef</description>
+      <content:encoded>You may not know that the derivatives of the position vector (x) with respect to time have interesting names:
+
+Velocity (v) = dx/dt
+Acceleration (a) = d²x/dt²
+Jerk (j) = d³x/dt³
+Snap (s) = d⁴x/dt⁴ 
+Crackle (c) = d⁵x/dt⁵
+Pop (p) = d⁶x/dt⁶
+
+[source: https://t.co/gk3NiCXqIY] https://t.co/N0ScVrksef&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1667611162429517824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FySLf5LX0AEO_PO.png" length="680" type="photo"/>
+      <pubDate>Sat, 10 Jun 2023 19:14:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Help bring a colleague’s research to a global stage!
+
+Emeritus, regular, and postdoc members with an active current year membership can sponsor new members applicants looking to submit an abstract for #SfN23.
+
+Learn more about sponsorship ▶️ https://t.co/Pi4uSM87Bz
+
+#neurotwitter https://t.co/18MwN7cDb2</title>
+      <link>https://twitter.com/SfNtweets/status/1667614379649499136</link>
+      <description>Help bring a colleague’s research to a global stage!
+
+Emeritus, regular, and postdoc members with an active current year membership can sponsor new members applicants looking to submit an abstract for #SfN23.
+
+Learn more about sponsorship ▶️ https://t.co/Pi4uSM87Bz
+
+#neurotwitter https://t.co/18MwN7cDb2</description>
+      <content:encoded>Help bring a colleague’s research to a global stage!
+
+Emeritus, regular, and postdoc members with an active current year membership can sponsor new members applicants looking to submit an abstract for #SfN23.
+
+Learn more about sponsorship ▶️ https://t.co/Pi4uSM87Bz
+
+#neurotwitter https://t.co/18MwN7cDb2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1667614379649499136"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FySObIzWwAck-4S.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 10 Jun 2023 19:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ability to measure things plays a central role in how humans understand and interact with the surrounding world.
+
+A new Science study investigates the development and use of body-based measurements across more than 180 cultures. https://t.co/YRiKmmgRkD https://t.co/8U8su3K6jC</title>
+      <link>https://twitter.com/ScienceMagazine/status/1667615142190759937</link>
+      <description>The ability to measure things plays a central role in how humans understand and interact with the surrounding world.
+
+A new Science study investigates the development and use of body-based measurements across more than 180 cultures. https://t.co/YRiKmmgRkD https://t.co/8U8su3K6jC</description>
+      <content:encoded>The ability to measure things plays a central role in how humans understand and interact with the surrounding world.
+
+A new Science study investigates the development and use of body-based measurements across more than 180 cultures. https://t.co/YRiKmmgRkD https://t.co/8U8su3K6jC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1667615142190759937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FySPIZUXoAAWhaH.jpg" length="900" type="photo"/>
+      <pubDate>Sat, 10 Jun 2023 19:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sigma-pi units can implement gating or programmable weights. They can be viewed as an early precursor of attention in transformers. From Rumerhart &amp;amp; McClelland, Parallel Distributed Processing Vol. 1, 1987. https://t.co/YZhgyyqQZM</title>
+      <link>https://twitter.com/patrickmineault/status/1667616281074319363</link>
+      <description>Sigma-pi units can implement gating or programmable weights. They can be viewed as an early precursor of attention in transformers. From Rumerhart &amp;amp; McClelland, Parallel Distributed Processing Vol. 1, 1987. https://t.co/YZhgyyqQZM</description>
+      <content:encoded>Sigma-pi units can implement gating or programmable weights. They can be viewed as an early precursor of attention in transformers. From Rumerhart &amp;amp; McClelland, Parallel Distributed Processing Vol. 1, 1987. https://t.co/YZhgyyqQZM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1667616281074319363"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FySO2toXsAECkgz.png" length="1200" type="photo"/>
+      <pubDate>Sat, 10 Jun 2023 19:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tree islands bring benefits for oil-palm plantations. Learn more in a terrific N&amp;amp;V by Robert Nasi @ForestsMatter @CIFOR_ICRAF https://t.co/lF5QufxqnU</title>
+      <link>https://twitter.com/NatureNV/status/1667617451163504642</link>
+      <description>Tree islands bring benefits for oil-palm plantations. Learn more in a terrific N&amp;amp;V by Robert Nasi @ForestsMatter @CIFOR_ICRAF https://t.co/lF5QufxqnU</description>
+      <content:encoded>Tree islands bring benefits for oil-palm plantations. Learn more in a terrific N&amp;amp;V by Robert Nasi @ForestsMatter @CIFOR_ICRAF https://t.co/lF5QufxqnU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1667617451163504642"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 10 Jun 2023 19:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data available upon request. https://t.co/Cw6mTHMWIn</title>
+      <link>https://twitter.com/andpru/status/1667620057126514689</link>
+      <description>Data available upon request. https://t.co/Cw6mTHMWIn</description>
+      <content:encoded>Data available upon request. https://t.co/Cw6mTHMWIn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1667620057126514689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FySTmuCWYAAcWls.jpg" length="864" type="photo"/>
+      <pubDate>Sat, 10 Jun 2023 19:49:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
