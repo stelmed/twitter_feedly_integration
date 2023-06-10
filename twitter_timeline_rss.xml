@@ -6,27 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jun 2023 20:17:15 +0000</lastBuildDate>
-    <item>
-      <title>RT @_akhaliq: Meta just released MusicGen, a simple and controllable model for music generation
-
-MusicGen is a single stage auto-regressive…</title>
-      <link>https://twitter.com/ylecun/status/1667265923282087936</link>
-      <description>RT @_akhaliq: Meta just released MusicGen, a simple and controllable model for music generation
-
-MusicGen is a single stage auto-regressive…</description>
-      <content:encoded>RT @_akhaliq: Meta just released MusicGen, a simple and controllable model for music generation
-
-MusicGen is a single stage auto-regressive…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1667265923282087936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 09 Jun 2023 20:22:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @scilifelab: SciLifeLab is currently seeking a new Director who will lead the strategic development of SciLifeLab as a national infrastr…</title>
-      <link>https://twitter.com/meletislab/status/1667267352038105089</link>
-      <description>RT @scilifelab: SciLifeLab is currently seeking a new Director who will lead the strategic development of SciLifeLab as a national infrastr…</description>
-      <content:encoded>RT @scilifelab: SciLifeLab is currently seeking a new Director who will lead the strategic development of SciLifeLab as a national infrastr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/meletislab/status/1667267352038105089"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 09 Jun 2023 20:28:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jun 2023 21:13:13 +0000</lastBuildDate>
     <item>
       <title>@tyrell_turing @KordingLab You summarized it way better than I've ever been able to!!</title>
       <link>https://twitter.com/PessoaBrain/status/1667267683962834945</link>
@@ -2108,6 +2088,21 @@ A new Science study investigates the development and use of body-based measureme
       <content:encoded>Data available upon request. https://t.co/Cw6mTHMWIn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1667620057126514689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FySTmuCWYAAcWls.jpg" length="864" type="photo"/>
       <pubDate>Sat, 10 Jun 2023 19:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study in @NatureComms shows that terrestrial protected areas have higher carbon stocks than non-protected areas, roughly equivalent to one year of annual global fossil fuel emissions. https://t.co/q7cahSzaIg https://t.co/qdnS2PRtYM</title>
+      <link>https://twitter.com/NaturePortfolio/status/1667635266574532608</link>
+      <description>A study in @NatureComms shows that terrestrial protected areas have higher carbon stocks than non-protected areas, roughly equivalent to one year of annual global fossil fuel emissions. https://t.co/q7cahSzaIg https://t.co/qdnS2PRtYM</description>
+      <content:encoded>A study in @NatureComms shows that terrestrial protected areas have higher carbon stocks than non-protected areas, roughly equivalent to one year of annual global fossil fuel emissions. https://t.co/q7cahSzaIg https://t.co/qdnS2PRtYM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1667635266574532608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FySha54WcAAQPLG.jpg" length="1000" type="photo"/>
+      <pubDate>Sat, 10 Jun 2023 20:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @camenduru: MusicGen Colab 🥳 Thanks to @jadecopet ❤ @FelixKreuk ❤ @itai_gat ❤ Tal Remez ❤ David Kant ❤ @syhw ❤ @adiyossLC ❤ @honualx ❤…</title>
+      <link>https://twitter.com/ylecun/status/1667637596841803776</link>
+      <description>RT @camenduru: MusicGen Colab 🥳 Thanks to @jadecopet ❤ @FelixKreuk ❤ @itai_gat ❤ Tal Remez ❤ David Kant ❤ @syhw ❤ @adiyossLC ❤ @honualx ❤…</description>
+      <content:encoded>RT @camenduru: MusicGen Colab 🥳 Thanks to @jadecopet ❤ @FelixKreuk ❤ @itai_gat ❤ Tal Remez ❤ David Kant ❤ @syhw ❤ @adiyossLC ❤ @honualx ❤…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1667637596841803776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 10 Jun 2023 20:59:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
