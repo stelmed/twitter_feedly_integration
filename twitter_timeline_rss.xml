@@ -6,26 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jun 2023 22:14:46 +0000</lastBuildDate>
-    <item>
-      <title>𝗥𝗲𝗮𝗹𝗶𝘀𝗺 𝗳𝗼𝗿 𝗥𝗲𝗮𝗹𝗶𝘀𝘁𝗶𝗰 𝗣𝗲𝗼𝗽𝗹𝗲 by Hasok Chang. Based on the podcast looks very promising! 
-https://t.co/JzoDJblODs https://t.co/qQyzbfyq0A</title>
-      <link>https://twitter.com/PessoaBrain/status/1667586295722393601</link>
-      <description>𝗥𝗲𝗮𝗹𝗶𝘀𝗺 𝗳𝗼𝗿 𝗥𝗲𝗮𝗹𝗶𝘀𝘁𝗶𝗰 𝗣𝗲𝗼𝗽𝗹𝗲 by Hasok Chang. Based on the podcast looks very promising! 
-https://t.co/JzoDJblODs https://t.co/qQyzbfyq0A</description>
-      <content:encoded>𝗥𝗲𝗮𝗹𝗶𝘀𝗺 𝗳𝗼𝗿 𝗥𝗲𝗮𝗹𝗶𝘀𝘁𝗶𝗰 𝗣𝗲𝗼𝗽𝗹𝗲 by Hasok Chang. Based on the podcast looks very promising! 
-https://t.co/JzoDJblODs https://t.co/qQyzbfyq0A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1667586295722393601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyR0RWLX0AA4bMa.png" length="238" type="photo"/>
-      <pubDate>Sat, 10 Jun 2023 17:35:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>A paper in @npjDigitalMed presents a deep-learning model to analyze electrocardiograms that improves explainability of diagnosis by highlighting biologically relevant regions of the EKG. https://t.co/Vd9h0N9YyY https://t.co/X3wYhOigsJ</title>
-      <link>https://twitter.com/NaturePortfolio/status/1667586696131518466</link>
-      <description>A paper in @npjDigitalMed presents a deep-learning model to analyze electrocardiograms that improves explainability of diagnosis by highlighting biologically relevant regions of the EKG. https://t.co/Vd9h0N9YyY https://t.co/X3wYhOigsJ</description>
-      <content:encoded>A paper in @npjDigitalMed presents a deep-learning model to analyze electrocardiograms that improves explainability of diagnosis by highlighting biologically relevant regions of the EKG. https://t.co/Vd9h0N9YyY https://t.co/X3wYhOigsJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1667586696131518466"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyR1PuzWIAccV37.jpg" length="1000" type="photo"/>
-      <pubDate>Sat, 10 Jun 2023 17:37:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Jun 2023 23:15:54 +0000</lastBuildDate>
     <item>
       <title>Demonstrator Instructor remotely operating a CAT 982 wheel loader, while simultaneously operating a 352 excavator carving the CAT Symbol into the dirt while he waits for trucks to load
 
@@ -2117,6 +2098,26 @@ Very sad, but use the algorithm to beat the.. Algorithm.&lt;blockquote class="tw
       <description>RT @cllantz: Kicking off the BRAIN meeting with BRIAN, Neuroscience and Beyond! With opening remarks from Andrea Beckel-Mitchener and @NIND…</description>
       <content:encoded>RT @cllantz: Kicking off the BRAIN meeting with BRIAN, Neuroscience and Beyond! With opening remarks from Andrea Beckel-Mitchener and @NIND…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1668016743778775044"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 11 Jun 2023 22:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Access to, use of, and experiences with social alarms in home-living people with dementia: results from the LIVE@Home.Path trial: Background
+
+Social alarms are considered an appropriate technology to ensure the safety… #ageing #neuroscience https://t.co/02PA2ZCoOG</title>
+      <link>https://twitter.com/FrontNeurosci/status/1668025845674569729</link>
+      <description>New Research: Access to, use of, and experiences with social alarms in home-living people with dementia: results from the LIVE@Home.Path trial: Background
+
+Social alarms are considered an appropriate technology to ensure the safety… #ageing #neuroscience https://t.co/02PA2ZCoOG</description>
+      <content:encoded>New Research: Access to, use of, and experiences with social alarms in home-living people with dementia: results from the LIVE@Home.Path trial: Background
+
+Social alarms are considered an appropriate technology to ensure the safety… #ageing #neuroscience https://t.co/02PA2ZCoOG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1668025845674569729"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 11 Jun 2023 22:42:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>You may know about confounding. “Correlation is not causation” But do you know about collider bias? When correcting for potential confounders that are really (also) colliders makes your regression worse at predicting causation. https://t.co/ltrQIEgr0d</title>
+      <link>https://twitter.com/KordingLab/status/1668026803322077184</link>
+      <description>You may know about confounding. “Correlation is not causation” But do you know about collider bias? When correcting for potential confounders that are really (also) colliders makes your regression worse at predicting causation. https://t.co/ltrQIEgr0d</description>
+      <content:encoded>You may know about confounding. “Correlation is not causation” But do you know about collider bias? When correcting for potential confounders that are really (also) colliders makes your regression worse at predicting causation. https://t.co/ltrQIEgr0d&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1668026803322077184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 11 Jun 2023 22:45:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
