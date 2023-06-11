@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jun 2023 01:52:12 +0000</lastBuildDate>
-    <item>
-      <title>Deep reinforcement learning has been used to turn the task of improving computer code into a game that requires no special training. Find out more in this great N&amp;amp;V by Armando Solar-Lezama. https://t.co/AEXQTGh8MH</title>
-      <link>https://twitter.com/NatureNV/status/1667277830328143874</link>
-      <description>Deep reinforcement learning has been used to turn the task of improving computer code into a game that requires no special training. Find out more in this great N&amp;amp;V by Armando Solar-Lezama. https://t.co/AEXQTGh8MH</description>
-      <content:encoded>Deep reinforcement learning has been used to turn the task of improving computer code into a game that requires no special training. Find out more in this great N&amp;amp;V by Armando Solar-Lezama. https://t.co/AEXQTGh8MH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1667277830328143874"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 09 Jun 2023 21:09:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Jun 2023 03:02:31 +0000</lastBuildDate>
     <item>
       <title>otpb functions in a Lef1-dependent transcriptional network required for expression of the stress response inhibitor crhbp in the zebrafish hypothalamus https://t.co/nwLERezfPB</title>
       <link>https://twitter.com/bxv_neurosci/status/1667277900364783617</link>
@@ -2081,6 +2074,13 @@ If you’re experienced in a climate-related field, join us virtually in low com
       <description>New Research: Active Gains in brain Using Exercise During Aging (AGUEDA): protocol for a randomized controlled trial: Alzheimer’s disease is currently the leading cause of dementia and one of the most expensive, lethal and severe diseases… #Neuroscience https://t.co/lIhzUeLRom</description>
       <content:encoded>New Research: Active Gains in brain Using Exercise During Aging (AGUEDA): protocol for a randomized controlled trial: Alzheimer’s disease is currently the leading cause of dementia and one of the most expensive, lethal and severe diseases… #Neuroscience https://t.co/lIhzUeLRom&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1667702200905379841"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 11 Jun 2023 01:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Age- and time-of-day dependence of glymphatic function in the human brain measured via two diffusion MRI methods: Advanced age, accompanied by impaired glymphatic function, is a key risk factor for many… #ageing #neuroscience https://t.co/uGfM2LfpcD</title>
+      <link>https://twitter.com/FrontNeurosci/status/1667715281525800960</link>
+      <description>New Research: Age- and time-of-day dependence of glymphatic function in the human brain measured via two diffusion MRI methods: Advanced age, accompanied by impaired glymphatic function, is a key risk factor for many… #ageing #neuroscience https://t.co/uGfM2LfpcD</description>
+      <content:encoded>New Research: Age- and time-of-day dependence of glymphatic function in the human brain measured via two diffusion MRI methods: Advanced age, accompanied by impaired glymphatic function, is a key risk factor for many… #ageing #neuroscience https://t.co/uGfM2LfpcD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1667715281525800960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 11 Jun 2023 02:08:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
