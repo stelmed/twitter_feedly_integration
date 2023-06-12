@@ -6,52 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jun 2023 01:44:16 +0000</lastBuildDate>
-    <item>
-      <title>Mainstreaming of OSS LLM: 
-French hobbyist magazine Hackable gives step-by-step instructions to run LLaMA on a Raspberry Pi.
-
-Even a beefed-up RasPi 4 with 8GB takes 10 seconds per token... https://t.co/NrgUKSpkKY</title>
-      <link>https://twitter.com/ylecun/status/1667602365652914177</link>
-      <description>Mainstreaming of OSS LLM: 
-French hobbyist magazine Hackable gives step-by-step instructions to run LLaMA on a Raspberry Pi.
-
-Even a beefed-up RasPi 4 with 8GB takes 10 seconds per token... https://t.co/NrgUKSpkKY</description>
-      <content:encoded>Mainstreaming of OSS LLM: 
-French hobbyist magazine Hackable gives step-by-step instructions to run LLaMA on a Raspberry Pi.
-
-Even a beefed-up RasPi 4 with 8GB takes 10 seconds per token... https://t.co/NrgUKSpkKY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1667602365652914177"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FySDg5pX0AIlNol.jpg" length="904" type="photo"/>
-      <pubDate>Sat, 10 Jun 2023 18:39:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Satellite data show an ocean warming pattern that is amplified over the subtropics. Climate simulations suggest that this pattern is an early signature of warming ocean, Hu Yang shares in the Earth and Environment Community. https://t.co/dZZjkj6MbH</title>
-      <link>https://twitter.com/NaturePortfolio/status/1667602781312634882</link>
-      <description>Satellite data show an ocean warming pattern that is amplified over the subtropics. Climate simulations suggest that this pattern is an early signature of warming ocean, Hu Yang shares in the Earth and Environment Community. https://t.co/dZZjkj6MbH</description>
-      <content:encoded>Satellite data show an ocean warming pattern that is amplified over the subtropics. Climate simulations suggest that this pattern is an early signature of warming ocean, Hu Yang shares in the Earth and Environment Community. https://t.co/dZZjkj6MbH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1667602781312634882"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 10 Jun 2023 18:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>@anne_churchland Navigation done (closer to) their way!-- that paper was striking; how cool to record a mouse 'aha' moment in the maze?  Reminds me also of Tinbergen's finding that digger wasps can remember which larva they fed vs. not for ca. 18hrs- MUCH longer memory than in a 2 F.C. task.</title>
-      <link>https://twitter.com/JonRWhitlock/status/1667603658438062081</link>
-      <description>@anne_churchland Navigation done (closer to) their way!-- that paper was striking; how cool to record a mouse 'aha' moment in the maze?  Reminds me also of Tinbergen's finding that digger wasps can remember which larva they fed vs. not for ca. 18hrs- MUCH longer memory than in a 2 F.C. task.</description>
-      <content:encoded>@anne_churchland Navigation done (closer to) their way!-- that paper was striking; how cool to record a mouse 'aha' moment in the maze?  Reminds me also of Tinbergen's finding that digger wasps can remember which larva they fed vs. not for ca. 18hrs- MUCH longer memory than in a 2 F.C. task.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/JonRWhitlock/status/1667603658438062081"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 10 Jun 2023 18:44:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Necessary counterpoint. https://t.co/YWZ27eCj70</title>
-      <link>https://twitter.com/ylecun/status/1667603972180398082</link>
-      <description>Necessary counterpoint. https://t.co/YWZ27eCj70</description>
-      <content:encoded>Necessary counterpoint. https://t.co/YWZ27eCj70&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1667603972180398082"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 10 Jun 2023 18:45:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is what I thought would happen and see happening as reviewing editor. It will loosen up within @eLife but perhaps more likely other journals will come fill the gap, which would be fantastic as the model itself is IMO great for authors and science. https://t.co/w7JIHA0hyI</title>
-      <link>https://twitter.com/andpru/status/1667604123154259968</link>
-      <description>This is what I thought would happen and see happening as reviewing editor. It will loosen up within @eLife but perhaps more likely other journals will come fill the gap, which would be fantastic as the model itself is IMO great for authors and science. https://t.co/w7JIHA0hyI</description>
-      <content:encoded>This is what I thought would happen and see happening as reviewing editor. It will loosen up within @eLife but perhaps more likely other journals will come fill the gap, which would be fantastic as the model itself is IMO great for authors and science. https://t.co/w7JIHA0hyI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1667604123154259968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 10 Jun 2023 18:46:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jun 2023 02:55:05 +0000</lastBuildDate>
     <item>
       <title>Some animal groups have displayed more than 20 ways of using tools while others demonstrate just a few, scientists say. But even horses show this capability
 
@@ -2095,6 +2050,47 @@ Aging-related cognitive decline is associated with brain structural changes and 
 
 Aging-related cognitive decline is associated with brain structural changes and synaptic loss. However, the… #ageing #neuroscience https://t.co/u0QcRE2mNC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1668064462111404033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 12 Jun 2023 01:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>@Rainmaker1973 And those who weren’t expecting a ternary joke</title>
+      <link>https://twitter.com/elonmusk/status/1668074232587116544</link>
+      <description>@Rainmaker1973 And those who weren’t expecting a ternary joke</description>
+      <content:encoded>@Rainmaker1973 And those who weren’t expecting a ternary joke&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1668074232587116544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 12 Jun 2023 01:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Identifying reproducible resting state networks and functional connectivity alterations following chronic restraint stress in anaesthetized rats: Background
+
+Resting-state functional MRI (rs-fMRI) in rodent models have the… #Neuroscience https://t.co/t5Bv1EBipp</title>
+      <link>https://twitter.com/FrontNeurosci/status/1668077546829914112</link>
+      <description>New Research: Identifying reproducible resting state networks and functional connectivity alterations following chronic restraint stress in anaesthetized rats: Background
+
+Resting-state functional MRI (rs-fMRI) in rodent models have the… #Neuroscience https://t.co/t5Bv1EBipp</description>
+      <content:encoded>New Research: Identifying reproducible resting state networks and functional connectivity alterations following chronic restraint stress in anaesthetized rats: Background
+
+Resting-state functional MRI (rs-fMRI) in rodent models have the… #Neuroscience https://t.co/t5Bv1EBipp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1668077546829914112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 12 Jun 2023 02:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mingweihehehe: @camenduru @jadecopet @FelixKreuk @itai_gat @syhw @adiyossLC @honualx tested, not perfect every melody, best one so far!…</title>
+      <link>https://twitter.com/ylecun/status/1668078068303290371</link>
+      <description>RT @mingweihehehe: @camenduru @jadecopet @FelixKreuk @itai_gat @syhw @adiyossLC @honualx tested, not perfect every melody, best one so far!…</description>
+      <content:encoded>RT @mingweihehehe: @camenduru @jadecopet @FelixKreuk @itai_gat @syhw @adiyossLC @honualx tested, not perfect every melody, best one so far!…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1668078068303290371"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 12 Jun 2023 02:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gauge equivariant convolutional neural networks for diffusion mri https://t.co/sv8PAbtQMZ</title>
+      <link>https://twitter.com/bxv_neurosci/status/1668080316588896257</link>
+      <description>Gauge equivariant convolutional neural networks for diffusion mri https://t.co/sv8PAbtQMZ</description>
+      <content:encoded>Gauge equivariant convolutional neural networks for diffusion mri https://t.co/sv8PAbtQMZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1668080316588896257"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 12 Jun 2023 02:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nuclear aging in polyglutamine-induced neurodegeneration https://t.co/1NsK0NVbkd</title>
+      <link>https://twitter.com/bxv_neurosci/status/1668080323060715520</link>
+      <description>Nuclear aging in polyglutamine-induced neurodegeneration https://t.co/1NsK0NVbkd</description>
+      <content:encoded>Nuclear aging in polyglutamine-induced neurodegeneration https://t.co/1NsK0NVbkd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1668080323060715520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 12 Jun 2023 02:18:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
