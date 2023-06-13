@@ -6,106 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 10:17:08 +0000</lastBuildDate>
-    <item>
-      <title>A (comic strip) time paradox 
-
-[from 'Imbattable' by Pascal Jousselin: https://t.co/9m0WHtWgXo] https://t.co/sq0ABNog6Q</title>
-      <link>https://twitter.com/Rainmaker1973/status/1668269423919071232</link>
-      <description>A (comic strip) time paradox 
-
-[from 'Imbattable' by Pascal Jousselin: https://t.co/9m0WHtWgXo] https://t.co/sq0ABNog6Q</description>
-      <content:encoded>A (comic strip) time paradox 
-
-[from 'Imbattable' by Pascal Jousselin: https://t.co/9m0WHtWgXo] https://t.co/sq0ABNog6Q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668269423919071232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FybbBcgWcAEQtAw.jpg" length="589" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 14:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚨Applications due this week (June 16)🚨
-
-🔗https://t.co/TsPXGERBND https://t.co/PFXuOuokwZ</title>
-      <link>https://twitter.com/HHMIJanelia/status/1668271854740467713</link>
-      <description>🚨Applications due this week (June 16)🚨
-
-🔗https://t.co/TsPXGERBND https://t.co/PFXuOuokwZ</description>
-      <content:encoded>🚨Applications due this week (June 16)🚨
-
-🔗https://t.co/TsPXGERBND https://t.co/PFXuOuokwZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1668271854740467713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 14:59:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new reinforcement learning method finds faster ways to solve matrix multiplications.
-
-Read our research summary in #TheBatch: https://t.co/e35xPU9LOo</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1668271943198339075</link>
-      <description>A new reinforcement learning method finds faster ways to solve matrix multiplications.
-
-Read our research summary in #TheBatch: https://t.co/e35xPU9LOo</description>
-      <content:encoded>A new reinforcement learning method finds faster ways to solve matrix multiplications.
-
-Read our research summary in #TheBatch: https://t.co/e35xPU9LOo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1668271943198339075"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new @SciSignal study in mice reveals a molecular cascade in cells called #astrocytes that induces water influx and brain swelling after #stroke, which can be treated by blocking proteins in the cascade. https://t.co/az8TKx8YhU https://t.co/DuLs2CZA8y</title>
-      <link>https://twitter.com/ScienceMagazine/status/1668272006955925504</link>
-      <description>A new @SciSignal study in mice reveals a molecular cascade in cells called #astrocytes that induces water influx and brain swelling after #stroke, which can be treated by blocking proteins in the cascade. https://t.co/az8TKx8YhU https://t.co/DuLs2CZA8y</description>
-      <content:encoded>A new @SciSignal study in mice reveals a molecular cascade in cells called #astrocytes that induces water influx and brain swelling after #stroke, which can be treated by blocking proteins in the cascade. https://t.co/az8TKx8YhU https://t.co/DuLs2CZA8y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1668272006955925504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FybkjLDWIAMJMcp.jpg" length="910" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 15:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unexpected experimental results often give Associate Professor Cem Tasan new insights into how metals break and deform — and how to design damage-resistant alloys. https://t.co/gQatUFpWdZ https://t.co/WjoshoppZv</title>
-      <link>https://twitter.com/MIT/status/1668272479750479872</link>
-      <description>Unexpected experimental results often give Associate Professor Cem Tasan new insights into how metals break and deform — and how to design damage-resistant alloys. https://t.co/gQatUFpWdZ https://t.co/WjoshoppZv</description>
-      <content:encoded>Unexpected experimental results often give Associate Professor Cem Tasan new insights into how metals break and deform — and how to design damage-resistant alloys. https://t.co/gQatUFpWdZ https://t.co/WjoshoppZv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1668272479750479872"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fybk-tfX0AAxn48.jpg" length="900" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 15:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>DARPA’s ABC program seeks to produce safe, battlefield-ready #anesthetics that are easy to administer, rapidly acting, and effective without the need for highly trained #medical expertise or a traditional hospital setting. https://t.co/8I9dECMGZe https://t.co/6NqeFsdHo5</title>
-      <link>https://twitter.com/DARPA/status/1668273278606098439</link>
-      <description>DARPA’s ABC program seeks to produce safe, battlefield-ready #anesthetics that are easy to administer, rapidly acting, and effective without the need for highly trained #medical expertise or a traditional hospital setting. https://t.co/8I9dECMGZe https://t.co/6NqeFsdHo5</description>
-      <content:encoded>DARPA’s ABC program seeks to produce safe, battlefield-ready #anesthetics that are easy to administer, rapidly acting, and effective without the need for highly trained #medical expertise or a traditional hospital setting. https://t.co/8I9dECMGZe https://t.co/6NqeFsdHo5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1668273278606098439"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyblstxX0AkD6zb.png" length="1200" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 15:05:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want to help identify barriers to neuroscience data sharing &amp;amp; reuse?
-
-✅Fill in this brief survey!
-✅Share with your network!
-✅Help develop strategies for community support!
-
-Find the survey here: https://t.co/os1qK5DFH9
-More info: https://t.co/OurBEYtmXB
-
-#OpenScience #OpenData https://t.co/r4bj9xajNO</title>
-      <link>https://twitter.com/INCForg/status/1668276721777508352</link>
-      <description>Want to help identify barriers to neuroscience data sharing &amp;amp; reuse?
-
-✅Fill in this brief survey!
-✅Share with your network!
-✅Help develop strategies for community support!
-
-Find the survey here: https://t.co/os1qK5DFH9
-More info: https://t.co/OurBEYtmXB
-
-#OpenScience #OpenData https://t.co/r4bj9xajNO</description>
-      <content:encoded>Want to help identify barriers to neuroscience data sharing &amp;amp; reuse?
-
-✅Fill in this brief survey!
-✅Share with your network!
-✅Help develop strategies for community support!
-
-Find the survey here: https://t.co/os1qK5DFH9
-More info: https://t.co/OurBEYtmXB
-
-#OpenScience #OpenData https://t.co/r4bj9xajNO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1668276721777508352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxEh_31XwAArRsO.jpg" length="500" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 15:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jun 2023 11:12:59 +0000</lastBuildDate>
     <item>
       <title>KI-researcher @Sciezgin et al. have created a new method of studying the smallest bioparticles in the body. The study, published in @NatureBiotech, has considerable scientific potential, such as in the development of more effective #vaccines.  
 https://t.co/n98HOxQrCt https://t.co/KGJasiMBjr</title>
@@ -2196,6 +2097,79 @@ A session discussing the European landscape of quantum related investments and w
       <description>Multivariate classification of multichannel long-term electrophysiology data identifies different sleep stages in fruit flies  https://t.co/kUP7iISLE3 #biorxiv_neursci</description>
       <content:encoded>Multivariate classification of multichannel long-term electrophysiology data identifies different sleep stages in fruit flies  https://t.co/kUP7iISLE3 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1668562721833381888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 13 Jun 2023 10:15:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Average oxygen levels in the ocean have fallen by 2% over the past 50 years, and could fall 20% by the end of this century, making some parts of the ocean less habitable to sea life.
+
+Learn more: https://t.co/mUjqly5Dtj https://t.co/8kYhSVHFAH</title>
+      <link>https://twitter.com/ScienceMagazine/status/1668566406772805635</link>
+      <description>Average oxygen levels in the ocean have fallen by 2% over the past 50 years, and could fall 20% by the end of this century, making some parts of the ocean less habitable to sea life.
+
+Learn more: https://t.co/mUjqly5Dtj https://t.co/8kYhSVHFAH</description>
+      <content:encoded>Average oxygen levels in the ocean have fallen by 2% over the past 50 years, and could fall 20% by the end of this century, making some parts of the ocean less habitable to sea life.
+
+Learn more: https://t.co/mUjqly5Dtj https://t.co/8kYhSVHFAH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1668566406772805635"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyfwTedWIAELQM_.jpg" length="964" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 10:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>There is a huge fight out there. https://t.co/Igf3kOXVpM https://t.co/yHbSamykYS</title>
+      <link>https://twitter.com/manlius84/status/1668570354736824322</link>
+      <description>There is a huge fight out there. https://t.co/Igf3kOXVpM https://t.co/yHbSamykYS</description>
+      <content:encoded>There is a huge fight out there. https://t.co/Igf3kOXVpM https://t.co/yHbSamykYS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1668570354736824322"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fyfzm4rXoAIRWxl.jpg" length="1139" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 10:45:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @shrma_h: Empirical truth https://t.co/0EH5deScHU</title>
+      <link>https://twitter.com/PostdocUmu/status/1668570666507878400</link>
+      <description>RT @shrma_h: Empirical truth https://t.co/0EH5deScHU</description>
+      <content:encoded>RT @shrma_h: Empirical truth https://t.co/0EH5deScHU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1668570666507878400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyZtc7sWAAAjKQI.jpg" length="900" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 10:47:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>This video shows an iceberg calving and flipping in the Ilulissat Icefjord, Greenland
+
+[📹 Peter Søndergaard: https://t.co/L7c5wKVrbO]
+https://t.co/dwTkFKiyPN</title>
+      <link>https://twitter.com/Rainmaker1973/status/1668570672048615487</link>
+      <description>This video shows an iceberg calving and flipping in the Ilulissat Icefjord, Greenland
+
+[📹 Peter Søndergaard: https://t.co/L7c5wKVrbO]
+https://t.co/dwTkFKiyPN</description>
+      <content:encoded>This video shows an iceberg calving and flipping in the Ilulissat Icefjord, Greenland
+
+[📹 Peter Søndergaard: https://t.co/L7c5wKVrbO]
+https://t.co/dwTkFKiyPN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668570672048615487"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1458926750537338886/pu/img/qfygnc4tlUMuibsc.jpg" length="854" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 10:47:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perform Deep Learning Inference in Simulink! 
+
+#NeuralNetworks #ComputerVision #ModelBasedDesign #MachineLearning 
+
+https://t.co/2lNgjV0wNk</title>
+      <link>https://twitter.com/MATLAB/status/1668574182941024257</link>
+      <description>Perform Deep Learning Inference in Simulink! 
+
+#NeuralNetworks #ComputerVision #ModelBasedDesign #MachineLearning 
+
+https://t.co/2lNgjV0wNk</description>
+      <content:encoded>Perform Deep Learning Inference in Simulink! 
+
+#NeuralNetworks #ComputerVision #ModelBasedDesign #MachineLearning 
+
+https://t.co/2lNgjV0wNk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1668574182941024257"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 11:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @bomba_ewa: We couldn't have asked for a better @LeadingEdgeSymp Keynote than @BerondaM ! We learned a lot, laughed a lot, cried just a…</title>
+      <link>https://twitter.com/HHMIJanelia/status/1668575047181643776</link>
+      <description>RT @bomba_ewa: We couldn't have asked for a better @LeadingEdgeSymp Keynote than @BerondaM ! We learned a lot, laughed a lot, cried just a…</description>
+      <content:encoded>RT @bomba_ewa: We couldn't have asked for a better @LeadingEdgeSymp Keynote than @BerondaM ! We learned a lot, laughed a lot, cried just a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1668575047181643776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 11:04:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
