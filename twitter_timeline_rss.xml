@@ -6,72 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 08:20:14 +0000</lastBuildDate>
-    <item>
-      <title>Interested in learning about and contribute to open science ?
-Consider joining this workshop 
-@Neuro_Bordeaux https://t.co/FMyJrXYSbs</title>
-      <link>https://twitter.com/anna_beyeler/status/1668254267272986628</link>
-      <description>Interested in learning about and contribute to open science ?
-Consider joining this workshop 
-@Neuro_Bordeaux https://t.co/FMyJrXYSbs</description>
-      <content:encoded>Interested in learning about and contribute to open science ?
-Consider joining this workshop 
-@Neuro_Bordeaux https://t.co/FMyJrXYSbs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/anna_beyeler/status/1668254267272986628"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 13:49:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations to our colleague at KIB, @peter_sjogarde who recently defended his thesis "Mapping the structure of science through clustering in citation networks : granularity, labeling and visualization" Read it here: https://t.co/JI9P9QyH7X</title>
-      <link>https://twitter.com/kibiblioteket/status/1668254613110128642</link>
-      <description>Congratulations to our colleague at KIB, @peter_sjogarde who recently defended his thesis "Mapping the structure of science through clustering in citation networks : granularity, labeling and visualization" Read it here: https://t.co/JI9P9QyH7X</description>
-      <content:encoded>Congratulations to our colleague at KIB, @peter_sjogarde who recently defended his thesis "Mapping the structure of science through clustering in citation networks : granularity, labeling and visualization" Read it here: https://t.co/JI9P9QyH7X&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kibiblioteket/status/1668254613110128642"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 13:51:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>This aerial footage by Tovi Sonnenberg shows a shiver of sharks swimming through a massive school of fish near Bridgehampton, New York 
-
-[full video, HD: https://t.co/ZdEE16V0yY]
-https://t.co/A1YsBBedUr</title>
-      <link>https://twitter.com/Rainmaker1973/status/1668255120297959427</link>
-      <description>This aerial footage by Tovi Sonnenberg shows a shiver of sharks swimming through a massive school of fish near Bridgehampton, New York 
-
-[full video, HD: https://t.co/ZdEE16V0yY]
-https://t.co/A1YsBBedUr</description>
-      <content:encoded>This aerial footage by Tovi Sonnenberg shows a shiver of sharks swimming through a massive school of fish near Bridgehampton, New York 
-
-[full video, HD: https://t.co/ZdEE16V0yY]
-https://t.co/A1YsBBedUr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668255120297959427"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1462275086283649027/pu/img/17deOExpMNpj2L9E.jpg" length="406" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 13:53:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DrJo_Ng: @drelliechilcott @Dr_RKarda</title>
-      <link>https://twitter.com/Addgene/status/1668255493112954881</link>
-      <description>RT @DrJo_Ng: @drelliechilcott @Dr_RKarda</description>
-      <content:encoded>RT @DrJo_Ng: @drelliechilcott @Dr_RKarda&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1668255493112954881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 13:54:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Couldn't agree more - it was so much fun to learn about! https://t.co/9A1GLBpmfm</title>
-      <link>https://twitter.com/Addgene/status/1668255586473869314</link>
-      <description>Couldn't agree more - it was so much fun to learn about! https://t.co/9A1GLBpmfm</description>
-      <content:encoded>Couldn't agree more - it was so much fun to learn about! https://t.co/9A1GLBpmfm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1668255586473869314"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 13:55:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @aaandmoore: In a recent overnight imaging session, I made a startling discovery... COS7 throw midnight dance parties. Who knew? These p…</title>
-      <link>https://twitter.com/Addgene/status/1668256166885879815</link>
-      <description>RT @aaandmoore: In a recent overnight imaging session, I made a startling discovery... COS7 throw midnight dance parties. Who knew? These p…</description>
-      <content:encoded>RT @aaandmoore: In a recent overnight imaging session, I made a startling discovery... COS7 throw midnight dance parties. Who knew? These p…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1668256166885879815"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 13:57:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @adam_k_glaser: How do you image the large and the small at the same time? We developed new 🔬 technology to image centimeter-scale speci…</title>
-      <link>https://twitter.com/sejdevries/status/1668257787153883137</link>
-      <description>RT @adam_k_glaser: How do you image the large and the small at the same time? We developed new 🔬 technology to image centimeter-scale speci…</description>
-      <content:encoded>RT @adam_k_glaser: How do you image the large and the small at the same time? We developed new 🔬 technology to image centimeter-scale speci…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sejdevries/status/1668257787153883137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 14:03:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jun 2023 09:15:45 +0000</lastBuildDate>
     <item>
       <title>"I'm not trying to over-rule you, but do it again and this time come back with the right answer"
 
@@ -147,19 +82,6 @@ https://t.co/khoe7MC2Zw https://t.co/04oV3DmKOc&lt;blockquote class="twitter-twe
       <description>RT @snezanalawrence: Zygmunt Janiszewski, often called the 'father of Polish mathematics' was #botd in Warsaw. He was quite a young father,…</description>
       <content:encoded>RT @snezanalawrence: Zygmunt Janiszewski, often called the 'father of Polish mathematics' was #botd in Warsaw. He was quite a young father,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1668260027671404549"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 12 Jun 2023 14:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @SciImmunology: The June issue of Science #Immunology is out!
-
-This month's cover features an analysis of tumor TRM cell characteristics…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1668260560092135429</link>
-      <description>RT @SciImmunology: The June issue of Science #Immunology is out!
-
-This month's cover features an analysis of tumor TRM cell characteristics…</description>
-      <content:encoded>RT @SciImmunology: The June issue of Science #Immunology is out!
-
-This month's cover features an analysis of tumor TRM cell characteristics…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1668260560092135429"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 14:14:46 +0000</pubDate>
     </item>
     <item>
       <title>RT @BCDreyer: It's not too late to remind dear old Dad that he could still stand to learn a thing or two (and also help keep Sallie in kibb…</title>
@@ -2161,6 +2083,100 @@ Spread the word!
       <description>Non-differentiable activity in the brain  https://t.co/P0ZjqOSFss #biorxiv_neursci</description>
       <content:encoded>Non-differentiable activity in the brain  https://t.co/P0ZjqOSFss #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1668532507648708608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 13 Jun 2023 08:15:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Studies in a thesis indicate that an AI-supported method is effective in the diagnosis of squamous cell carcinoma of the head and neck. In addition, machine learning was used to develop a model from clinically available data for prediction of recurrence. https://t.co/hJigZkAA6A</title>
+      <link>https://twitter.com/umeauniversity/status/1668534867775070212</link>
+      <description>Studies in a thesis indicate that an AI-supported method is effective in the diagnosis of squamous cell carcinoma of the head and neck. In addition, machine learning was used to develop a model from clinically available data for prediction of recurrence. https://t.co/hJigZkAA6A</description>
+      <content:encoded>Studies in a thesis indicate that an AI-supported method is effective in the diagnosis of squamous cell carcinoma of the head and neck. In addition, machine learning was used to develop a model from clinically available data for prediction of recurrence. https://t.co/hJigZkAA6A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/umeauniversity/status/1668534867775070212"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 08:24:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>This video shows what wild Asian elephants do after dark: they play with ducks in a pond, using tires as toys, occasionally mating 
+
+[video: https://t.co/eT5IwZz6rO]
+https://t.co/xkMWrZBVay</title>
+      <link>https://twitter.com/Rainmaker1973/status/1668536092168003585</link>
+      <description>This video shows what wild Asian elephants do after dark: they play with ducks in a pond, using tires as toys, occasionally mating 
+
+[video: https://t.co/eT5IwZz6rO]
+https://t.co/xkMWrZBVay</description>
+      <content:encoded>This video shows what wild Asian elephants do after dark: they play with ducks in a pond, using tires as toys, occasionally mating 
+
+[video: https://t.co/eT5IwZz6rO]
+https://t.co/xkMWrZBVay&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668536092168003585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1546832211705565192/pu/img/ammKEguqfRSrM6OL.jpg" length="640" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 08:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blue Penguins are the smallest type of penguin. Adults grow just to an average of 33 cm (13 in) in height and 43 cm (17 in) in length. Due to their small size and bright color they are often called Fairy Penguins 
+
+[read more: https://t.co/7C629lVfAC] https://t.co/x3oGdylEj0</title>
+      <link>https://twitter.com/Rainmaker1973/status/1668540351345315840</link>
+      <description>Blue Penguins are the smallest type of penguin. Adults grow just to an average of 33 cm (13 in) in height and 43 cm (17 in) in length. Due to their small size and bright color they are often called Fairy Penguins 
+
+[read more: https://t.co/7C629lVfAC] https://t.co/x3oGdylEj0</description>
+      <content:encoded>Blue Penguins are the smallest type of penguin. Adults grow just to an average of 33 cm (13 in) in height and 43 cm (17 in) in length. Due to their small size and bright color they are often called Fairy Penguins 
+
+[read more: https://t.co/7C629lVfAC] https://t.co/x3oGdylEj0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668540351345315840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyfYjRMXgAcFJoR.jpg" length="680" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 08:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BloombergTV: AI could usher in a slew of medical breakthroughs over the next decade, potentially including a cure for cancer
+
+Google De…</title>
+      <link>https://twitter.com/DeepMind/status/1668541704910131200</link>
+      <description>RT @BloombergTV: AI could usher in a slew of medical breakthroughs over the next decade, potentially including a cure for cancer
+
+Google De…</description>
+      <content:encoded>RT @BloombergTV: AI could usher in a slew of medical breakthroughs over the next decade, potentially including a cure for cancer
+
+Google De…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1668541704910131200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 08:51:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>I still rely on the alphabet song I was taught age 5 sometimes  https://t.co/dmmJBr16ic https://t.co/cHfOAvrcOD</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1668543564941254659</link>
+      <description>I still rely on the alphabet song I was taught age 5 sometimes  https://t.co/dmmJBr16ic https://t.co/cHfOAvrcOD</description>
+      <content:encoded>I still rely on the alphabet song I was taught age 5 sometimes  https://t.co/dmmJBr16ic https://t.co/cHfOAvrcOD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1668543564941254659"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyfaafdXoAAtrsQ.png" length="640" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 08:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers @CUBoulder discovered an unexpected link between the progression of #ALS and PEG10, a protein traditionally known for its role in placental development. Read more here https://t.co/V8ze91RItl
+#neuroscience https://t.co/YPYvNciyl5</title>
+      <link>https://twitter.com/Scientifica_Int/status/1668543929787072512</link>
+      <description>Researchers @CUBoulder discovered an unexpected link between the progression of #ALS and PEG10, a protein traditionally known for its role in placental development. Read more here https://t.co/V8ze91RItl
+#neuroscience https://t.co/YPYvNciyl5</description>
+      <content:encoded>Researchers @CUBoulder discovered an unexpected link between the progression of #ALS and PEG10, a protein traditionally known for its role in placental development. Read more here https://t.co/V8ze91RItl
+#neuroscience https://t.co/YPYvNciyl5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1668543929787072512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fyfb2JbXwAM0ASk.jpg" length="750" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 09:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>KI and @StanfordMed researchers have engineered a TP53 loss in gastric organoids to model #tumor initiation in a study in @Nature by @KaspKarl et al. Sequencing data over 2 years revealed predictability in the progression towards a malignant state. #Cancer https://t.co/CzrDt2M3si</title>
+      <link>https://twitter.com/karolinskainst/status/1668544499570683904</link>
+      <description>KI and @StanfordMed researchers have engineered a TP53 loss in gastric organoids to model #tumor initiation in a study in @Nature by @KaspKarl et al. Sequencing data over 2 years revealed predictability in the progression towards a malignant state. #Cancer https://t.co/CzrDt2M3si</description>
+      <content:encoded>KI and @StanfordMed researchers have engineered a TP53 loss in gastric organoids to model #tumor initiation in a study in @Nature by @KaspKarl et al. Sequencing data over 2 years revealed predictability in the progression towards a malignant state. #Cancer https://t.co/CzrDt2M3si&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/karolinskainst/status/1668544499570683904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 09:03:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>This picture by photographer Nick Volpe shows a blue-banded bee. The species is a 'buzz pollinator' and it's very important for the production of food, contributing to at least 30% of crops in Australia 
+
+[read more: https://t.co/CKKZaHQHGl]
+[photo: https://t.co/ef7Fhpaw6w] https://t.co/YkQ8tuMf24</title>
+      <link>https://twitter.com/Rainmaker1973/status/1668544948185055232</link>
+      <description>This picture by photographer Nick Volpe shows a blue-banded bee. The species is a 'buzz pollinator' and it's very important for the production of food, contributing to at least 30% of crops in Australia 
+
+[read more: https://t.co/CKKZaHQHGl]
+[photo: https://t.co/ef7Fhpaw6w] https://t.co/YkQ8tuMf24</description>
+      <content:encoded>This picture by photographer Nick Volpe shows a blue-banded bee. The species is a 'buzz pollinator' and it's very important for the production of food, contributing to at least 30% of crops in Australia 
+
+[read more: https://t.co/CKKZaHQHGl]
+[photo: https://t.co/ef7Fhpaw6w] https://t.co/YkQ8tuMf24&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668544948185055232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyfcvAUWYAEvjxN.png" length="579" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 09:04:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
