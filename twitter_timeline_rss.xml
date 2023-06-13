@@ -6,243 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 16:21:12 +0000</lastBuildDate>
-    <item>
-      <title>Despite the importance of nonhuman primates, reference genomes have been sequenced in &amp;lt;10% of species. 
-
-A new Science study presents high-quality reference genomes for 27 primate species, adding to available resources. https://t.co/3Edua5gtwv #PrimateGenomes https://t.co/M9LJgtT7Sj</title>
-      <link>https://twitter.com/ScienceMagazine/status/1668339923357712384</link>
-      <description>Despite the importance of nonhuman primates, reference genomes have been sequenced in &amp;lt;10% of species. 
-
-A new Science study presents high-quality reference genomes for 27 primate species, adding to available resources. https://t.co/3Edua5gtwv #PrimateGenomes https://t.co/M9LJgtT7Sj</description>
-      <content:encoded>Despite the importance of nonhuman primates, reference genomes have been sequenced in &amp;lt;10% of species. 
-
-A new Science study presents high-quality reference genomes for 27 primate species, adding to available resources. https://t.co/3Edua5gtwv #PrimateGenomes https://t.co/M9LJgtT7Sj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1668339923357712384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyciUBoWIAAuE2O.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 19:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Chinese algae eater's mouth is inferior with a special "sucker" modification which allows the fish to eat algae. If deprived of proper forage, they may feed off of the body slime on other fish
-
-[📹 unamifoxmain: https://t.co/mHo9mcaKZX]
-https://t.co/x5K8mzfgop</title>
-      <link>https://twitter.com/Rainmaker1973/status/1668342211795386368</link>
-      <description>The Chinese algae eater's mouth is inferior with a special "sucker" modification which allows the fish to eat algae. If deprived of proper forage, they may feed off of the body slime on other fish
-
-[📹 unamifoxmain: https://t.co/mHo9mcaKZX]
-https://t.co/x5K8mzfgop</description>
-      <content:encoded>The Chinese algae eater's mouth is inferior with a special "sucker" modification which allows the fish to eat algae. If deprived of proper forage, they may feed off of the body slime on other fish
-
-[📹 unamifoxmain: https://t.co/mHo9mcaKZX]
-https://t.co/x5K8mzfgop&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668342211795386368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1667720303009583104/pu/img/UtiIziCdZZC6fsBq.jpg" length="576" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 19:39:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Editorial this month discusses our Resource format:
-https://t.co/SuXwkUzByX
-
-Like methods, tools, technologies and techniques, Resources are also an important part of a researcher's toolbox.</title>
-      <link>https://twitter.com/naturemethods/status/1668343404831592450</link>
-      <description>Our Editorial this month discusses our Resource format:
-https://t.co/SuXwkUzByX
-
-Like methods, tools, technologies and techniques, Resources are also an important part of a researcher's toolbox.</description>
-      <content:encoded>Our Editorial this month discusses our Resource format:
-https://t.co/SuXwkUzByX
-
-Like methods, tools, technologies and techniques, Resources are also an important part of a researcher's toolbox.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1668343404831592450"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 19:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Resource paper might describe a set of physical tools, for example, this collection of genetic tools for studying marine protists: https://t.co/AY5G9foCwf</title>
-      <link>https://twitter.com/naturemethods/status/1668343406345719810</link>
-      <description>A Resource paper might describe a set of physical tools, for example, this collection of genetic tools for studying marine protists: https://t.co/AY5G9foCwf</description>
-      <content:encoded>A Resource paper might describe a set of physical tools, for example, this collection of genetic tools for studying marine protists: https://t.co/AY5G9foCwf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1668343406345719810"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 19:43:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>We also publish computational platforms as Resource papers, for example, the SpatialOmics DataBase (SODB):
-https://t.co/W0g4hkon2t</title>
-      <link>https://twitter.com/naturemethods/status/1668343408321261568</link>
-      <description>We also publish computational platforms as Resource papers, for example, the SpatialOmics DataBase (SODB):
-https://t.co/W0g4hkon2t</description>
-      <content:encoded>We also publish computational platforms as Resource papers, for example, the SpatialOmics DataBase (SODB):
-https://t.co/W0g4hkon2t&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1668343408321261568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 19:43:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>We also publish large datasets or atlases as Resource papers, for example the BigNeuron collection of ~30,000 single-neuron images from different species generated using light microscopy techniques:
-https://t.co/WX6BuIefe5</title>
-      <link>https://twitter.com/naturemethods/status/1668343409722163200</link>
-      <description>We also publish large datasets or atlases as Resource papers, for example the BigNeuron collection of ~30,000 single-neuron images from different species generated using light microscopy techniques:
-https://t.co/WX6BuIefe5</description>
-      <content:encoded>We also publish large datasets or atlases as Resource papers, for example the BigNeuron collection of ~30,000 single-neuron images from different species generated using light microscopy techniques:
-https://t.co/WX6BuIefe5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1668343409722163200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 19:43:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>We hope you enjoy reading the Editorial, and checking out all of our June issue! 
-https://t.co/cDN8qllroq</title>
-      <link>https://twitter.com/naturemethods/status/1668343411257278464</link>
-      <description>We hope you enjoy reading the Editorial, and checking out all of our June issue! 
-https://t.co/cDN8qllroq</description>
-      <content:encoded>We hope you enjoy reading the Editorial, and checking out all of our June issue! 
-https://t.co/cDN8qllroq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1668343411257278464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 19:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultraviolet light shapes the evolution of precancerous cells. This terrific N&amp;amp;V by @PapaemmanuilLab discusses how immune cells in the skin can give rise to a type of leukaemia called BPDCN https://t.co/lXsGcoSq1P</title>
-      <link>https://twitter.com/NatureNV/status/1668345800370315273</link>
-      <description>Ultraviolet light shapes the evolution of precancerous cells. This terrific N&amp;amp;V by @PapaemmanuilLab discusses how immune cells in the skin can give rise to a type of leukaemia called BPDCN https://t.co/lXsGcoSq1P</description>
-      <content:encoded>Ultraviolet light shapes the evolution of precancerous cells. This terrific N&amp;amp;V by @PapaemmanuilLab discusses how immune cells in the skin can give rise to a type of leukaemia called BPDCN https://t.co/lXsGcoSq1P&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1668345800370315273"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 19:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>C453-E23: attB4-TRE3Gp&amp;gt;-attB5
-Depositor: Dominic Esposito @domespo
-Purpose: Gateway attB4/attB5 entry clone for inducible mammalian expression using the TRE3G promoter
-
-https://t.co/3g8UWu2JYC https://t.co/IcNi3jFome</title>
-      <link>https://twitter.com/Addgene/status/1668348457671614502</link>
-      <description>C453-E23: attB4-TRE3Gp&amp;gt;-attB5
-Depositor: Dominic Esposito @domespo
-Purpose: Gateway attB4/attB5 entry clone for inducible mammalian expression using the TRE3G promoter
-
-https://t.co/3g8UWu2JYC https://t.co/IcNi3jFome</description>
-      <content:encoded>C453-E23: attB4-TRE3Gp&amp;gt;-attB5
-Depositor: Dominic Esposito @domespo
-Purpose: Gateway attB4/attB5 entry clone for inducible mammalian expression using the TRE3G promoter
-
-https://t.co/3g8UWu2JYC https://t.co/IcNi3jFome&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1668348457671614502"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FycqEmXWYAUgfal.jpg" length="480" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 20:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>@brunopichler @natorlova @tenss_ed Jepp. Really recharges the batteries…</title>
-      <link>https://twitter.com/trose_neuro/status/1668350394253074445</link>
-      <description>@brunopichler @natorlova @tenss_ed Jepp. Really recharges the batteries…</description>
-      <content:encoded>@brunopichler @natorlova @tenss_ed Jepp. Really recharges the batteries…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trose_neuro/status/1668350394253074445"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 20:11:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @razobravo: It was a privilege to talk to Earl K. Miller @MillerLabMIT  about the important paradigm shift taking place in neuroscience…</title>
-      <link>https://twitter.com/PessoaBrain/status/1668354564183973924</link>
-      <description>RT @razobravo: It was a privilege to talk to Earl K. Miller @MillerLabMIT  about the important paradigm shift taking place in neuroscience…</description>
-      <content:encoded>RT @razobravo: It was a privilege to talk to Earl K. Miller @MillerLabMIT  about the important paradigm shift taking place in neuroscience…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1668354564183973924"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 20:28:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @gatesfoundation: Malaria is a complex &amp;amp; unforgiving disease, but one that we can end if we work together.
-
-@Fredros_Inc &amp;amp; @JenHatmaker…</title>
-      <link>https://twitter.com/BillGates/status/1668356028977803265</link>
-      <description>RT @gatesfoundation: Malaria is a complex &amp;amp; unforgiving disease, but one that we can end if we work together.
-
-@Fredros_Inc &amp;amp; @JenHatmaker…</description>
-      <content:encoded>RT @gatesfoundation: Malaria is a complex &amp;amp; unforgiving disease, but one that we can end if we work together.
-
-@Fredros_Inc &amp;amp; @JenHatmaker…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1668356028977803265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 20:34:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>This microscope is beautiful, and the images it creates are mind blowing. https://t.co/n34hgQmeFJ</title>
-      <link>https://twitter.com/sejdevries/status/1668356453529182210</link>
-      <description>This microscope is beautiful, and the images it creates are mind blowing. https://t.co/n34hgQmeFJ</description>
-      <content:encoded>This microscope is beautiful, and the images it creates are mind blowing. https://t.co/n34hgQmeFJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sejdevries/status/1668356453529182210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 20:35:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DanielaOlivi: Dear, I would like to apply for membership in SfN and submit an abstract of my research. But for this, the SfN member ID…</title>
-      <link>https://twitter.com/SfNtweets/status/1668357038554923011</link>
-      <description>RT @DanielaOlivi: Dear, I would like to apply for membership in SfN and submit an abstract of my research. But for this, the SfN member ID…</description>
-      <content:encoded>RT @DanielaOlivi: Dear, I would like to apply for membership in SfN and submit an abstract of my research. But for this, the SfN member ID…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1668357038554923011"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 20:38:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JorisPerra: Dear SfN community, I am applying for SfN membership for which I require name and member ID of two active members. Could an…</title>
-      <link>https://twitter.com/SfNtweets/status/1668357046566113283</link>
-      <description>RT @JorisPerra: Dear SfN community, I am applying for SfN membership for which I require name and member ID of two active members. Could an…</description>
-      <content:encoded>RT @JorisPerra: Dear SfN community, I am applying for SfN membership for which I require name and member ID of two active members. Could an…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1668357046566113283"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 20:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HolmesLab_BHI: Interested in #MRI and #psychiatry? Our lab is hiring a full-time a research assistant (https://t.co/cxjuYN1s4T) in adva…</title>
-      <link>https://twitter.com/PessoaBrain/status/1668357849875972096</link>
-      <description>RT @HolmesLab_BHI: Interested in #MRI and #psychiatry? Our lab is hiring a full-time a research assistant (https://t.co/cxjuYN1s4T) in adva…</description>
-      <content:encoded>RT @HolmesLab_BHI: Interested in #MRI and #psychiatry? Our lab is hiring a full-time a research assistant (https://t.co/cxjuYN1s4T) in adva…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1668357849875972096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 20:41:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>I saw such impressive neuroscience research on my recent visit to #KAIST #KAIX and IBS in Daejeon and KU in Seoul, South Korea.
-
-Many thanks to Seung-Hee Lee @sabet1789 and ChiHye Chung for hosting! @kaistpr https://t.co/PKuCuypJpp</title>
-      <link>https://twitter.com/TheBrunoCortex/status/1668359129763594241</link>
-      <description>I saw such impressive neuroscience research on my recent visit to #KAIST #KAIX and IBS in Daejeon and KU in Seoul, South Korea.
-
-Many thanks to Seung-Hee Lee @sabet1789 and ChiHye Chung for hosting! @kaistpr https://t.co/PKuCuypJpp</description>
-      <content:encoded>I saw such impressive neuroscience research on my recent visit to #KAIST #KAIX and IBS in Daejeon and KU in Seoul, South Korea.
-
-Many thanks to Seung-Hee Lee @sabet1789 and ChiHye Chung for hosting! @kaistpr https://t.co/PKuCuypJpp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1668359129763594241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FycYiZ0X0AA0ZNk.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 20:46:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The diversity of botanical collections is higher in countries that have formerly held colonizing power and lower in countries that were formerly colonized, but the opposite pattern is seen in natural environments, according to a paper in @NatureHumBehav. https://t.co/WSyDvhYdgy https://t.co/kjBe6IoHd6</title>
-      <link>https://twitter.com/NaturePortfolio/status/1668361083021606913</link>
-      <description>The diversity of botanical collections is higher in countries that have formerly held colonizing power and lower in countries that were formerly colonized, but the opposite pattern is seen in natural environments, according to a paper in @NatureHumBehav. https://t.co/WSyDvhYdgy https://t.co/kjBe6IoHd6</description>
-      <content:encoded>The diversity of botanical collections is higher in countries that have formerly held colonizing power and lower in countries that were formerly colonized, but the opposite pattern is seen in natural environments, according to a paper in @NatureHumBehav. https://t.co/WSyDvhYdgy https://t.co/kjBe6IoHd6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1668361083021606913"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fyc0o9hX0AESqU9.jpg" length="1000" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 20:54:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The prolific polymath Thomas Young made substantial contributions as a physicist, physician, physiologist, philologist, Egyptologist, and writer, argues biographer Andrew Robinson.
-
-📕 Read more from @SciMagBooks: https://t.co/AoEhUqaVNv https://t.co/l5yxqWpIgD</title>
-      <link>https://twitter.com/ScienceMagazine/status/1668362574642003968</link>
-      <description>The prolific polymath Thomas Young made substantial contributions as a physicist, physician, physiologist, philologist, Egyptologist, and writer, argues biographer Andrew Robinson.
-
-📕 Read more from @SciMagBooks: https://t.co/AoEhUqaVNv https://t.co/l5yxqWpIgD</description>
-      <content:encoded>The prolific polymath Thomas Young made substantial contributions as a physicist, physician, physiologist, philologist, Egyptologist, and writer, argues biographer Andrew Robinson.
-
-📕 Read more from @SciMagBooks: https://t.co/AoEhUqaVNv https://t.co/l5yxqWpIgD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1668362574642003968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fyc26zKX0AEF3EG.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 21:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @cziscience: Congrats on this milestone!
-
-It was great to partner on integrating Acquire, a new high-speed, multi-camera image acquisiti…</title>
-      <link>https://twitter.com/AllenInstitute/status/1668367571475726341</link>
-      <description>RT @cziscience: Congrats on this milestone!
-
-It was great to partner on integrating Acquire, a new high-speed, multi-camera image acquisiti…</description>
-      <content:encoded>RT @cziscience: Congrats on this milestone!
-
-It was great to partner on integrating Acquire, a new high-speed, multi-camera image acquisiti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1668367571475726341"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 21:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Latest in 🧠 research ⚡
-Is it possible to control Pong, the classic 1972 videogame, with an artificially constructed biological network (neurons in a dish)? A group of scientists tried to answer this question by training a cultured neural network. ⏬⏬
-https://t.co/9BzG2fGgfh https://t.co/ufsMS0kvnN</title>
-      <link>https://twitter.com/BackyardBrains/status/1668367822047662085</link>
-      <description>⚡ Latest in 🧠 research ⚡
-Is it possible to control Pong, the classic 1972 videogame, with an artificially constructed biological network (neurons in a dish)? A group of scientists tried to answer this question by training a cultured neural network. ⏬⏬
-https://t.co/9BzG2fGgfh https://t.co/ufsMS0kvnN</description>
-      <content:encoded>⚡ Latest in 🧠 research ⚡
-Is it possible to control Pong, the classic 1972 videogame, with an artificially constructed biological network (neurons in a dish)? A group of scientists tried to answer this question by training a cultured neural network. ⏬⏬
-https://t.co/9BzG2fGgfh https://t.co/ufsMS0kvnN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BackyardBrains/status/1668367822047662085"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyW2aN2X0AE0-ob.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 21:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @RLPlikesscience: Over the moon to receive the BWF CASI, thank you to all of the mentors and lab members along the way who helped me get…</title>
-      <link>https://twitter.com/MIT_Picower/status/1668369294881595392</link>
-      <description>RT @RLPlikesscience: Over the moon to receive the BWF CASI, thank you to all of the mentors and lab members along the way who helped me get…</description>
-      <content:encoded>RT @RLPlikesscience: Over the moon to receive the BWF CASI, thank you to all of the mentors and lab members along the way who helped me get…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1668369294881595392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 21:26:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jun 2023 17:14:17 +0000</lastBuildDate>
     <item>
       <title>guess who did her first swim??? https://t.co/ug7oxD5YAH</title>
       <link>https://twitter.com/gottapatchemall/status/1668370925610205185</link>
@@ -2363,6 +2127,252 @@ https://t.co/DeyXICJVtO https://t.co/JzGOGvce5B</description>
 https://t.co/DeyXICJVtO https://t.co/JzGOGvce5B&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1668654466323628032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FyhAZNKXsAkkGJQ.jpg" length="764" type="photo"/>
       <pubDate>Tue, 13 Jun 2023 16:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>@AphasiaAccess @NatAphasiaAssoc @EyeTechDS @mlh_tc4a @Irishheart_ie @UCLLangCog @aphasia_acc @Aphasia_Inst 
+#aphasiaawarenessmonth</title>
+      <link>https://twitter.com/KnowingNeurons/status/1668654805185888256</link>
+      <description>@AphasiaAccess @NatAphasiaAssoc @EyeTechDS @mlh_tc4a @Irishheart_ie @UCLLangCog @aphasia_acc @Aphasia_Inst 
+#aphasiaawarenessmonth</description>
+      <content:encoded>@AphasiaAccess @NatAphasiaAssoc @EyeTechDS @mlh_tc4a @Irishheart_ie @UCLLangCog @aphasia_acc @Aphasia_Inst 
+#aphasiaawarenessmonth&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KnowingNeurons/status/1668654805185888256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: Gut microbiota as a therapeutic target in neuropsychiatric disorders: current status and future directions #Neuroscience https://t.co/WMeB8sV9cI</title>
+      <link>https://twitter.com/FrontNeurosci/status/1668654857769873408</link>
+      <description>New Research: Editorial: Gut microbiota as a therapeutic target in neuropsychiatric disorders: current status and future directions #Neuroscience https://t.co/WMeB8sV9cI</description>
+      <content:encoded>New Research: Editorial: Gut microbiota as a therapeutic target in neuropsychiatric disorders: current status and future directions #Neuroscience https://t.co/WMeB8sV9cI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1668654857769873408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @FENSorg: ⏰ Closing tomorrow: regular registration for the #BrainConference on “Structuring Knowledge for Flexible Behaviour”! Don’t mis…</title>
+      <link>https://twitter.com/behrenstimb/status/1668656629108158477</link>
+      <description>RT @FENSorg: ⏰ Closing tomorrow: regular registration for the #BrainConference on “Structuring Knowledge for Flexible Behaviour”! Don’t mis…</description>
+      <content:encoded>RT @FENSorg: ⏰ Closing tomorrow: regular registration for the #BrainConference on “Structuring Knowledge for Flexible Behaviour”! Don’t mis…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1668656629108158477"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:28:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/KcTHhOWval https://t.co/Ddd5ZVmfKo</title>
+      <link>https://twitter.com/ScienceMagazine/status/1668657012035530755</link>
+      <description>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/KcTHhOWval https://t.co/Ddd5ZVmfKo</description>
+      <content:encoded>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/KcTHhOWval https://t.co/Ddd5ZVmfKo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1668657012035530755"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyhCtWbXsAIO46x.jpg" length="750" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 16:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Studying our biology at the level of each individual cell helps researchers discover new paths to treatments.
+
+#CZCellxGene is the largest repository of this type of data, covering diseases like cancers, diabetes, Crohn’s + more https://t.co/20cscWC0tQ</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1668657124409323531</link>
+      <description>Studying our biology at the level of each individual cell helps researchers discover new paths to treatments.
+
+#CZCellxGene is the largest repository of this type of data, covering diseases like cancers, diabetes, Crohn’s + more https://t.co/20cscWC0tQ</description>
+      <content:encoded>Studying our biology at the level of each individual cell helps researchers discover new paths to treatments.
+
+#CZCellxGene is the largest repository of this type of data, covering diseases like cancers, diabetes, Crohn’s + more https://t.co/20cscWC0tQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1668657124409323531"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyhCz97XoAEOO0S.png" length="1200" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 16:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The authors of a Comment article in @NatMachIntell show that large language models, such as ChatGPT, can guide the robot design process, and propose new human–AI co-design strategies and their societal implications. 🔒 https://t.co/UZqoNKATA2 https://t.co/kRr93r4zVh</title>
+      <link>https://twitter.com/NaturePortfolio/status/1668657754276233217</link>
+      <description>The authors of a Comment article in @NatMachIntell show that large language models, such as ChatGPT, can guide the robot design process, and propose new human–AI co-design strategies and their societal implications. 🔒 https://t.co/UZqoNKATA2 https://t.co/kRr93r4zVh</description>
+      <content:encoded>The authors of a Comment article in @NatMachIntell show that large language models, such as ChatGPT, can guide the robot design process, and propose new human–AI co-design strategies and their societal implications. 🔒 https://t.co/UZqoNKATA2 https://t.co/kRr93r4zVh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1668657754276233217"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyhDXhwXoAAuZmV.jpg" length="1066" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 16:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wrong calculation.
+
+Only one of the people you see in the video was actually brought away with the structure: the restaurant owner, who plummeted onto a nearby rooftop in China's Hubei on June 11
+
+[more views, full story: https://t.co/ZKwoIbUjWB]
+https://t.co/dX75CTNJhh</title>
+      <link>https://twitter.com/Rainmaker1973/status/1668659082406817793</link>
+      <description>Wrong calculation.
+
+Only one of the people you see in the video was actually brought away with the structure: the restaurant owner, who plummeted onto a nearby rooftop in China's Hubei on June 11
+
+[more views, full story: https://t.co/ZKwoIbUjWB]
+https://t.co/dX75CTNJhh</description>
+      <content:encoded>Wrong calculation.
+
+Only one of the people you see in the video was actually brought away with the structure: the restaurant owner, who plummeted onto a nearby rooftop in China's Hubei on June 11
+
+[more views, full story: https://t.co/ZKwoIbUjWB]
+https://t.co/dX75CTNJhh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668659082406817793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1668298432346243072/pu/img/6P5rfdDg0T0AL1Am.jpg" length="460" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 16:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>I-JEPA: Efficient method for Self-Supervised Learning of image features.
+No need for data augmentation, just masking.
+Joint embedding predictive architecture, not generative.
+And it's open source, of course.
+
+Blog: https://t.co/knAH1EzJCJ
+Paper: https://t.co/fBG8xxEvb1
+Code &amp;amp;… https://t.co/H7QJOe4Fcu</title>
+      <link>https://twitter.com/ylecun/status/1668659230700867584</link>
+      <description>I-JEPA: Efficient method for Self-Supervised Learning of image features.
+No need for data augmentation, just masking.
+Joint embedding predictive architecture, not generative.
+And it's open source, of course.
+
+Blog: https://t.co/knAH1EzJCJ
+Paper: https://t.co/fBG8xxEvb1
+Code &amp;amp;… https://t.co/H7QJOe4Fcu</description>
+      <content:encoded>I-JEPA: Efficient method for Self-Supervised Learning of image features.
+No need for data augmentation, just masking.
+Joint embedding predictive architecture, not generative.
+And it's open source, of course.
+
+Blog: https://t.co/knAH1EzJCJ
+Paper: https://t.co/fBG8xxEvb1
+Code &amp;amp;… https://t.co/H7QJOe4Fcu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1668659230700867584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @chrost_hugo: An ET neuron from a lower layer of the human cortex.  
+
+Source: @AllenInstitute
+
+#neuroscience https://t.co/BoJaOWW0yI</title>
+      <link>https://twitter.com/AllenInstitute/status/1668659495306682369</link>
+      <description>RT @chrost_hugo: An ET neuron from a lower layer of the human cortex.  
+
+Source: @AllenInstitute
+
+#neuroscience https://t.co/BoJaOWW0yI</description>
+      <content:encoded>RT @chrost_hugo: An ET neuron from a lower layer of the human cortex.  
+
+Source: @AllenInstitute
+
+#neuroscience https://t.co/BoJaOWW0yI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1668659495306682369"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FxpVQQqWAAAhpYd.jpg" length="600" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 16:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Marinaas_z: Very excited and honored to share that I will be joining the Department of Neuroscience, Development and Regenerative Biolo…</title>
+      <link>https://twitter.com/FrontNeurosci/status/1668659515527507973</link>
+      <description>RT @Marinaas_z: Very excited and honored to share that I will be joining the Department of Neuroscience, Development and Regenerative Biolo…</description>
+      <content:encoded>RT @Marinaas_z: Very excited and honored to share that I will be joining the Department of Neuroscience, Development and Regenerative Biolo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1668659515527507973"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>“If we act quickly and responsibly, I believe AI can make life better for billions of people around the world.” 🌐
+
+Our CEO @DemisHassabis explains how deploying artificial intelligence safely offers immense opportunities for the UK and beyond. https://t.co/MPvqxBGD7e</title>
+      <link>https://twitter.com/DeepMind/status/1668660523733340160</link>
+      <description>“If we act quickly and responsibly, I believe AI can make life better for billions of people around the world.” 🌐
+
+Our CEO @DemisHassabis explains how deploying artificial intelligence safely offers immense opportunities for the UK and beyond. https://t.co/MPvqxBGD7e</description>
+      <content:encoded>“If we act quickly and responsibly, I believe AI can make life better for billions of people around the world.” 🌐
+
+Our CEO @DemisHassabis explains how deploying artificial intelligence safely offers immense opportunities for the UK and beyond. https://t.co/MPvqxBGD7e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1668660523733340160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:44:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MetaAI: Our work on the Massively Multilingual Speech (MMS) project has scaled speech-to-text &amp;amp; text-to-speech to support 1,100+ langua…</title>
+      <link>https://twitter.com/ylecun/status/1668660916764938240</link>
+      <description>RT @MetaAI: Our work on the Massively Multilingual Speech (MMS) project has scaled speech-to-text &amp;amp; text-to-speech to support 1,100+ langua…</description>
+      <content:encoded>RT @MetaAI: Our work on the Massively Multilingual Speech (MMS) project has scaled speech-to-text &amp;amp; text-to-speech to support 1,100+ langua…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1668660916764938240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:45:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>MusicGen rocks.
+Literally. https://t.co/mkJ7F02M8O</title>
+      <link>https://twitter.com/ylecun/status/1668661634871730176</link>
+      <description>MusicGen rocks.
+Literally. https://t.co/mkJ7F02M8O</description>
+      <content:encoded>MusicGen rocks.
+Literally. https://t.co/mkJ7F02M8O&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1668661634871730176"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reanalysis of the recent Nature brain-modes paper, raising some questions. https://t.co/4tlQsNyseR</title>
+      <link>https://twitter.com/behrenstimb/status/1668662014560940038</link>
+      <description>Reanalysis of the recent Nature brain-modes paper, raising some questions. https://t.co/4tlQsNyseR</description>
+      <content:encoded>Reanalysis of the recent Nature brain-modes paper, raising some questions. https://t.co/4tlQsNyseR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1668662014560940038"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Old joke. https://t.co/mnun34gjtG</title>
+      <link>https://twitter.com/ylecun/status/1668662031971651584</link>
+      <description>Old joke. https://t.co/mnun34gjtG</description>
+      <content:encoded>Old joke. https://t.co/mnun34gjtG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1668662031971651584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @konstmish: We just released a new optimizer Prodigy. Based on D-Adaptation, Prodigy has stronger theoretical guarantees and we derive h…</title>
+      <link>https://twitter.com/ylecun/status/1668662356614979584</link>
+      <description>RT @konstmish: We just released a new optimizer Prodigy. Based on D-Adaptation, Prodigy has stronger theoretical guarantees and we derive h…</description>
+      <content:encoded>RT @konstmish: We just released a new optimizer Prodigy. Based on D-Adaptation, Prodigy has stronger theoretical guarantees and we derive h…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1668662356614979584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PhysInHistory: Happy 192nd Birthday to James C. Maxwell, one of the most brilliant minds in the history of science. 
+
+James Clerk Maxwe…</title>
+      <link>https://twitter.com/ProfFeynman/status/1668663041192493056</link>
+      <description>RT @PhysInHistory: Happy 192nd Birthday to James C. Maxwell, one of the most brilliant minds in the history of science. 
+
+James Clerk Maxwe…</description>
+      <content:encoded>RT @PhysInHistory: Happy 192nd Birthday to James C. Maxwell, one of the most brilliant minds in the history of science. 
+
+James Clerk Maxwe…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1668663041192493056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>There’s no doubt that Natural Language Processing is changing the field of AI, and Professor @chrmanning has been at the forefront of much of that development.
+
+Watch this interview with @AndrewYNg to gain insights into the current state and exciting future of this field. https://t.co/GXyEBMADxw</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1668663754790150146</link>
+      <description>There’s no doubt that Natural Language Processing is changing the field of AI, and Professor @chrmanning has been at the forefront of much of that development.
+
+Watch this interview with @AndrewYNg to gain insights into the current state and exciting future of this field. https://t.co/GXyEBMADxw</description>
+      <content:encoded>There’s no doubt that Natural Language Processing is changing the field of AI, and Professor @chrmanning has been at the forefront of much of that development.
+
+Watch this interview with @AndrewYNg to gain insights into the current state and exciting future of this field. https://t.co/GXyEBMADxw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1668663754790150146"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:56:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don't just teach your students to read. Teach them how to question what they read. Teach them how to doubt and how to think.</title>
+      <link>https://twitter.com/ProfFeynman/status/1668663765200695296</link>
+      <description>Don't just teach your students to read. Teach them how to question what they read. Teach them how to doubt and how to think.</description>
+      <content:encoded>Don't just teach your students to read. Teach them how to question what they read. Teach them how to doubt and how to think.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1668663765200695296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 16:56:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using AI, scientists find a drug that could combat drug-resistant infections: The machine-learning algorithm identified a compound that kills Acinetobacter baumannii, a bacterium that lurks in many hospital settings. https://t.co/N5QkpTq27B https://t.co/YeGDa6909X</title>
+      <link>https://twitter.com/MIT/status/1668665848721027074</link>
+      <description>Using AI, scientists find a drug that could combat drug-resistant infections: The machine-learning algorithm identified a compound that kills Acinetobacter baumannii, a bacterium that lurks in many hospital settings. https://t.co/N5QkpTq27B https://t.co/YeGDa6909X</description>
+      <content:encoded>Using AI, scientists find a drug that could combat drug-resistant infections: The machine-learning algorithm identified a compound that kills Acinetobacter baumannii, a bacterium that lurks in many hospital settings. https://t.co/N5QkpTq27B https://t.co/YeGDa6909X&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1668665848721027074"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyhKvxoXsCEbA8d.jpg" length="1000" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 17:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚀And that's a wrap on the 2023 @FranceQuantum event gathering hundreds of people across Europe with one passion in common : #Quantum !
+#FranceQuantum https://t.co/q1UsHtQ1gN</title>
+      <link>https://twitter.com/QuantumFlagship/status/1668668044657274895</link>
+      <description>🚀And that's a wrap on the 2023 @FranceQuantum event gathering hundreds of people across Europe with one passion in common : #Quantum !
+#FranceQuantum https://t.co/q1UsHtQ1gN</description>
+      <content:encoded>🚀And that's a wrap on the 2023 @FranceQuantum event gathering hundreds of people across Europe with one passion in common : #Quantum !
+#FranceQuantum https://t.co/q1UsHtQ1gN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/QuantumFlagship/status/1668668044657274895"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyhL1-AXsBQWXq-.jpg" length="1024" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 17:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>👏 A big applause to Pascale Senellart @Quandela_SAS &amp;amp; @CNRS for the Honor Award virtually handed by the French Higher Education and Research Minister @sretailleau 
+Congratulations to🎉 @pasqalio for the well deserved "Best Quantum Startup" of the year 2023 award ! https://t.co/2zRPScHrMo</title>
+      <link>https://twitter.com/QuantumFlagship/status/1668668047224188935</link>
+      <description>👏 A big applause to Pascale Senellart @Quandela_SAS &amp;amp; @CNRS for the Honor Award virtually handed by the French Higher Education and Research Minister @sretailleau 
+Congratulations to🎉 @pasqalio for the well deserved "Best Quantum Startup" of the year 2023 award ! https://t.co/2zRPScHrMo</description>
+      <content:encoded>👏 A big applause to Pascale Senellart @Quandela_SAS &amp;amp; @CNRS for the Honor Award virtually handed by the French Higher Education and Research Minister @sretailleau 
+Congratulations to🎉 @pasqalio for the well deserved "Best Quantum Startup" of the year 2023 award ! https://t.co/2zRPScHrMo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/QuantumFlagship/status/1668668047224188935"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyhMeK-XsBYnTvg.jpg" length="1024" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 17:13:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
