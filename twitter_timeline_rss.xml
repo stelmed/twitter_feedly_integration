@@ -6,82 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 22:15:26 +0000</lastBuildDate>
-    <item>
-      <title>RT @shrma_h: Empirical truth https://t.co/0EH5deScHU</title>
-      <link>https://twitter.com/PostdocUmu/status/1668570666507878400</link>
-      <description>RT @shrma_h: Empirical truth https://t.co/0EH5deScHU</description>
-      <content:encoded>RT @shrma_h: Empirical truth https://t.co/0EH5deScHU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1668570666507878400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyZtc7sWAAAjKQI.jpg" length="900" type="photo"/>
-      <pubDate>Tue, 13 Jun 2023 10:47:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>This video shows an iceberg calving and flipping in the Ilulissat Icefjord, Greenland
-
-[📹 Peter Søndergaard: https://t.co/L7c5wKVrbO]
-https://t.co/dwTkFKiyPN</title>
-      <link>https://twitter.com/Rainmaker1973/status/1668570672048615487</link>
-      <description>This video shows an iceberg calving and flipping in the Ilulissat Icefjord, Greenland
-
-[📹 Peter Søndergaard: https://t.co/L7c5wKVrbO]
-https://t.co/dwTkFKiyPN</description>
-      <content:encoded>This video shows an iceberg calving and flipping in the Ilulissat Icefjord, Greenland
-
-[📹 Peter Søndergaard: https://t.co/L7c5wKVrbO]
-https://t.co/dwTkFKiyPN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668570672048615487"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1458926750537338886/pu/img/qfygnc4tlUMuibsc.jpg" length="854" type="photo"/>
-      <pubDate>Tue, 13 Jun 2023 10:47:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perform Deep Learning Inference in Simulink! 
-
-#NeuralNetworks #ComputerVision #ModelBasedDesign #MachineLearning 
-
-https://t.co/2lNgjV0wNk</title>
-      <link>https://twitter.com/MATLAB/status/1668574182941024257</link>
-      <description>Perform Deep Learning Inference in Simulink! 
-
-#NeuralNetworks #ComputerVision #ModelBasedDesign #MachineLearning 
-
-https://t.co/2lNgjV0wNk</description>
-      <content:encoded>Perform Deep Learning Inference in Simulink! 
-
-#NeuralNetworks #ComputerVision #ModelBasedDesign #MachineLearning 
-
-https://t.co/2lNgjV0wNk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1668574182941024257"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 13 Jun 2023 11:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @bomba_ewa: We couldn't have asked for a better @LeadingEdgeSymp Keynote than @BerondaM ! We learned a lot, laughed a lot, cried just a…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1668575047181643776</link>
-      <description>RT @bomba_ewa: We couldn't have asked for a better @LeadingEdgeSymp Keynote than @BerondaM ! We learned a lot, laughed a lot, cried just a…</description>
-      <content:encoded>RT @bomba_ewa: We couldn't have asked for a better @LeadingEdgeSymp Keynote than @BerondaM ! We learned a lot, laughed a lot, cried just a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1668575047181643776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 13 Jun 2023 11:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>congrats @LinlinZFan, @carmelhowe and everyone. this @BWFUND award is an amazing boost to starting your future lab ! https://t.co/CcGSdq6gtI</title>
-      <link>https://twitter.com/UNC_Optics/status/1668577321765281799</link>
-      <description>congrats @LinlinZFan, @carmelhowe and everyone. this @BWFUND award is an amazing boost to starting your future lab ! https://t.co/CcGSdq6gtI</description>
-      <content:encoded>congrats @LinlinZFan, @carmelhowe and everyone. this @BWFUND award is an amazing boost to starting your future lab ! https://t.co/CcGSdq6gtI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/UNC_Optics/status/1668577321765281799"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 13 Jun 2023 11:13:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations to Marcus Buggert for receiving the Anders Jahre Award for young researchers! 👏
-@marcus_buggert https://t.co/NHQwijdJV7</title>
-      <link>https://twitter.com/karolinskainst/status/1668577674502045696</link>
-      <description>Congratulations to Marcus Buggert for receiving the Anders Jahre Award for young researchers! 👏
-@marcus_buggert https://t.co/NHQwijdJV7</description>
-      <content:encoded>Congratulations to Marcus Buggert for receiving the Anders Jahre Award for young researchers! 👏
-@marcus_buggert https://t.co/NHQwijdJV7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/karolinskainst/status/1668577674502045696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 13 Jun 2023 11:14:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>KIBRA repairs synaptic plasticity and promotes resilience to tauopathy-related memory loss  https://t.co/43MFTA9SlZ #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1668577887929114624</link>
-      <description>KIBRA repairs synaptic plasticity and promotes resilience to tauopathy-related memory loss  https://t.co/43MFTA9SlZ #biorxiv_neursci</description>
-      <content:encoded>KIBRA repairs synaptic plasticity and promotes resilience to tauopathy-related memory loss  https://t.co/43MFTA9SlZ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1668577887929114624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 13 Jun 2023 11:15:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jun 2023 23:13:57 +0000</lastBuildDate>
     <item>
       <title>Stephenson 2-18 is among the largest known stars. It has an estimated radius of around 2,150 solar radii (1.5×10⁹ kilometres; 10 AU), which would correspond to a volume nearly 10 billion times that of the Sun 
 
@@ -2266,6 +2191,70 @@ Find out more at htt…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>Congratulations to Rebecca Pinals in the lab of @DrLiHueiTsai, on earning a @BWFUND Career Award at the Scientific Interface! Pinals is creating a nanosensor-integrated human “brain-on-a-chip” model of Alzheimer’s disease. https://t.co/zn5tvWii44 @ScienceMIT @mitbrainandcog</description>
       <content:encoded>Congratulations to Rebecca Pinals in the lab of @DrLiHueiTsai, on earning a @BWFUND Career Award at the Scientific Interface! Pinals is creating a nanosensor-integrated human “brain-on-a-chip” model of Alzheimer’s disease. https://t.co/zn5tvWii44 @ScienceMIT @mitbrainandcog&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1668743362550038528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 13 Jun 2023 22:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>@kaymtye @denisejcai @fergilmills @UUNeurobiology @AustinAColey @UCLA 🔥🔥🔥</title>
+      <link>https://twitter.com/ewadorotaz/status/1668747262778851329</link>
+      <description>@kaymtye @denisejcai @fergilmills @UUNeurobiology @AustinAColey @UCLA 🔥🔥🔥</description>
+      <content:encoded>@kaymtye @denisejcai @fergilmills @UUNeurobiology @AustinAColey @UCLA 🔥🔥🔥&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1668747262778851329"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 22:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @activatefellows: 46 fellows.
+39 companies.
+4 communities.
+1 mission: to reinvent the world by bringing their research to market.
+
+Intro…</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1668749008318382081</link>
+      <description>RT @activatefellows: 46 fellows.
+39 companies.
+4 communities.
+1 mission: to reinvent the world by bringing their research to market.
+
+Intro…</description>
+      <content:encoded>RT @activatefellows: 46 fellows.
+39 companies.
+4 communities.
+1 mission: to reinvent the world by bringing their research to market.
+
+Intro…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1668749008318382081"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 22:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>I wish SFN talks to ORCID and could take a list of ORCID id as an input...</title>
+      <link>https://twitter.com/LecoqJerome/status/1668750261542862849</link>
+      <description>I wish SFN talks to ORCID and could take a list of ORCID id as an input...</description>
+      <content:encoded>I wish SFN talks to ORCID and could take a list of ORCID id as an input...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1668750261542862849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 22:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: On temporal scale-free non-periodic stimulation and its mechanisms as an infinite improbability drive of the brain’s functional connectogram #Neuroinformatics https://t.co/AZkgra7n7X</title>
+      <link>https://twitter.com/FrontNeurosci/status/1668750600199364610</link>
+      <description>New Research: On temporal scale-free non-periodic stimulation and its mechanisms as an infinite improbability drive of the brain’s functional connectogram #Neuroinformatics https://t.co/AZkgra7n7X</description>
+      <content:encoded>New Research: On temporal scale-free non-periodic stimulation and its mechanisms as an infinite improbability drive of the brain’s functional connectogram #Neuroinformatics https://t.co/AZkgra7n7X&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1668750600199364610"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 22:42:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is a major achievement in providing equitable access to life-saving vaccines for children around the world. Let’s continue working to ensure all children are protected from preventable diseases. #VaccinesWork https://t.co/3zlgmAnBmt</title>
+      <link>https://twitter.com/BillGates/status/1668751908381802497</link>
+      <description>This is a major achievement in providing equitable access to life-saving vaccines for children around the world. Let’s continue working to ensure all children are protected from preventable diseases. #VaccinesWork https://t.co/3zlgmAnBmt</description>
+      <content:encoded>This is a major achievement in providing equitable access to life-saving vaccines for children around the world. Let’s continue working to ensure all children are protected from preventable diseases. #VaccinesWork https://t.co/3zlgmAnBmt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1668751908381802497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 22:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @HiramTendilla: Abstract submitted! ✅ Excited about the possibility of returning to the @SfNtweets annual meeting in person #Neuroscienc…</title>
+      <link>https://twitter.com/SfNtweets/status/1668754571735498752</link>
+      <description>RT @HiramTendilla: Abstract submitted! ✅ Excited about the possibility of returning to the @SfNtweets annual meeting in person #Neuroscienc…</description>
+      <content:encoded>RT @HiramTendilla: Abstract submitted! ✅ Excited about the possibility of returning to the @SfNtweets annual meeting in person #Neuroscienc…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1668754571735498752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 22:57:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @VaughanMerrick: Cooooooooooooolllllll!!!!!!! https://t.co/JjfWB40Q3L</title>
+      <link>https://twitter.com/AllenInstitute/status/1668755127140745217</link>
+      <description>RT @VaughanMerrick: Cooooooooooooolllllll!!!!!!! https://t.co/JjfWB40Q3L</description>
+      <content:encoded>RT @VaughanMerrick: Cooooooooooooolllllll!!!!!!! https://t.co/JjfWB40Q3L&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1668755127140745217"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
