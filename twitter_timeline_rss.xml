@@ -6,79 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 02:41:43 +0000</lastBuildDate>
-    <item>
-      <title>RT @caswellcaswell: Coming to a computer screen near you on Wednesday - don't miss out! @NeilBurgess10</title>
-      <link>https://twitter.com/AndrejBicanski/status/1668235217671208960</link>
-      <description>RT @caswellcaswell: Coming to a computer screen near you on Wednesday - don't miss out! @NeilBurgess10</description>
-      <content:encoded>RT @caswellcaswell: Coming to a computer screen near you on Wednesday - don't miss out! @NeilBurgess10&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrejBicanski/status/1668235217671208960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 12:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Of pride and public health: we revisit this @LSHTM work in @STI_BMJ, comparing awareness, quality, &amp;amp; availability of STI screening services for #gay &amp;amp; #bisexual men in different European cities using an internet survey - picked by @nicolamlow. #PrideMonth
-
-https://t.co/ueBQXLT1tT https://t.co/3dcI9Q88h4</title>
-      <link>https://twitter.com/Facultyopinions/status/1668236715000037377</link>
-      <description>Of pride and public health: we revisit this @LSHTM work in @STI_BMJ, comparing awareness, quality, &amp;amp; availability of STI screening services for #gay &amp;amp; #bisexual men in different European cities using an internet survey - picked by @nicolamlow. #PrideMonth
-
-https://t.co/ueBQXLT1tT https://t.co/3dcI9Q88h4</description>
-      <content:encoded>Of pride and public health: we revisit this @LSHTM work in @STI_BMJ, comparing awareness, quality, &amp;amp; availability of STI screening services for #gay &amp;amp; #bisexual men in different European cities using an internet survey - picked by @nicolamlow. #PrideMonth
-
-https://t.co/ueBQXLT1tT https://t.co/3dcI9Q88h4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1668236715000037377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FybEczPWAAA-cNv.png" length="764" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 12:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>We are proud to be one of the partner institutions! @ml4science @uni_tue  @dfg https://t.co/rUK7UbQDTm</title>
-      <link>https://twitter.com/CellTypist/status/1668237681598373888</link>
-      <description>We are proud to be one of the partner institutions! @ml4science @uni_tue  @dfg https://t.co/rUK7UbQDTm</description>
-      <content:encoded>We are proud to be one of the partner institutions! @ml4science @uni_tue  @dfg https://t.co/rUK7UbQDTm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1668237681598373888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 12:43:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Commonly know as Venus fly trap, these carnivorous plants eat way more than just flies. This is a venomous black widow spider caught in the surprisingly strong trap
-
-[📹 carnivorousplantsjourney: https://t.co/8eAGoSIiZw]
-https://t.co/1KsC9E2Qq4</title>
-      <link>https://twitter.com/Rainmaker1973/status/1668239779358466053</link>
-      <description>Commonly know as Venus fly trap, these carnivorous plants eat way more than just flies. This is a venomous black widow spider caught in the surprisingly strong trap
-
-[📹 carnivorousplantsjourney: https://t.co/8eAGoSIiZw]
-https://t.co/1KsC9E2Qq4</description>
-      <content:encoded>Commonly know as Venus fly trap, these carnivorous plants eat way more than just flies. This is a venomous black widow spider caught in the surprisingly strong trap
-
-[📹 carnivorousplantsjourney: https://t.co/8eAGoSIiZw]
-https://t.co/1KsC9E2Qq4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1668239779358466053"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1667969198251814912/pu/img/2KCPxCDeYKbb3UQx.jpg" length="608" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 12:52:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CramerLab: This will be my first day in office as president of @maxplanckpress - much looking forward to this event in my (present) hom…</title>
-      <link>https://twitter.com/maxplanckpress/status/1668240593397374977</link>
-      <description>RT @CramerLab: This will be my first day in office as president of @maxplanckpress - much looking forward to this event in my (present) hom…</description>
-      <content:encoded>RT @CramerLab: This will be my first day in office as president of @maxplanckpress - much looking forward to this event in my (present) hom…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1668240593397374977"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 12 Jun 2023 12:55:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>#130: OMNI: Open-endedness via Models of human Notions of Interestingness by @jennyzhangzt @joelbot3000 @kenneth0stanley @jeffclune 
-
-Leveraging Large Language Models to define a model of what's interesting. May be worth implementing for everyday life :)
-
-https://t.co/HprwHezicm https://t.co/phrCoImuZV</title>
-      <link>https://twitter.com/bdanubius/status/1668241635988127744</link>
-      <description>#130: OMNI: Open-endedness via Models of human Notions of Interestingness by @jennyzhangzt @joelbot3000 @kenneth0stanley @jeffclune 
-
-Leveraging Large Language Models to define a model of what's interesting. May be worth implementing for everyday life :)
-
-https://t.co/HprwHezicm https://t.co/phrCoImuZV</description>
-      <content:encoded>#130: OMNI: Open-endedness via Models of human Notions of Interestingness by @jennyzhangzt @joelbot3000 @kenneth0stanley @jeffclune 
-
-Leveraging Large Language Models to define a model of what's interesting. May be worth implementing for everyday life :)
-
-https://t.co/HprwHezicm https://t.co/phrCoImuZV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1668241635988127744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FybGFJlWIAAaLO1.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 12 Jun 2023 12:59:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jun 2023 03:16:51 +0000</lastBuildDate>
     <item>
       <title>See also tweeprint:
 https://t.co/GyapKmjzsS</title>
@@ -2089,6 +2017,42 @@ They demonstrated real-time tracking of position and attitude of a flying bee, n
       <description>@Rainmaker1973 Wow</description>
       <content:encoded>@Rainmaker1973 Wow&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1668443829765111809"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 13 Jun 2023 02:23:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>refs trying to steal this one</title>
+      <link>https://twitter.com/andpru/status/1668450650181476352</link>
+      <description>refs trying to steal this one</description>
+      <content:encoded>refs trying to steal this one&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1668450650181476352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 02:50:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New work in @SciImmunology involving patient samples shows that Group A Streptococcus-responsive T cells are also self-reactive and drive inflammation when exposed to a lipid produced in skin. https://t.co/CGvmjxG1fW https://t.co/5MjqNCo2RA</title>
+      <link>https://twitter.com/ScienceMagazine/status/1668453160518668288</link>
+      <description>New work in @SciImmunology involving patient samples shows that Group A Streptococcus-responsive T cells are also self-reactive and drive inflammation when exposed to a lipid produced in skin. https://t.co/CGvmjxG1fW https://t.co/5MjqNCo2RA</description>
+      <content:encoded>New work in @SciImmunology involving patient samples shows that Group A Streptococcus-responsive T cells are also self-reactive and drive inflammation when exposed to a lipid produced in skin. https://t.co/CGvmjxG1fW https://t.co/5MjqNCo2RA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1668453160518668288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyeJTroXoAIRhG4.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 13 Jun 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Love it for the Nuggets! Way to go Jokic, Murray. What a team.</title>
+      <link>https://twitter.com/andpru/status/1668453752209022977</link>
+      <description>Love it for the Nuggets! Way to go Jokic, Murray. What a team.</description>
+      <content:encoded>Love it for the Nuggets! Way to go Jokic, Murray. What a team.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1668453752209022977"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 03:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JohnsHopkins: "If you want to learn more about how an orchestra plays, you have to watch individual players over time," explained @Hopk…</title>
+      <link>https://twitter.com/rhuganir/status/1668456229910241280</link>
+      <description>RT @JohnsHopkins: "If you want to learn more about how an orchestra plays, you have to watch individual players over time," explained @Hopk…</description>
+      <content:encoded>RT @JohnsHopkins: "If you want to learn more about how an orchestra plays, you have to watch individual players over time," explained @Hopk…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1668456229910241280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 03:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JasonSynaptic: Check out the video to see the beauty of the brain😍..amazing!</title>
+      <link>https://twitter.com/rhuganir/status/1668457241735749633</link>
+      <description>RT @JasonSynaptic: Check out the video to see the beauty of the brain😍..amazing!</description>
+      <content:encoded>RT @JasonSynaptic: Check out the video to see the beauty of the brain😍..amazing!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1668457241735749633"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 13 Jun 2023 03:16:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
