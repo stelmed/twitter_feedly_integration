@@ -6,54 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 05:15:00 +0000</lastBuildDate>
-    <item>
-      <title>RT @adam_k_glaser: We modified the optical system to achieve an aberration free working distance of 35 mm (!) into liquid 💧 mounting media.…</title>
-      <link>https://twitter.com/ruimcosta/status/1668989380432744460</link>
-      <description>RT @adam_k_glaser: We modified the optical system to achieve an aberration free working distance of 35 mm (!) into liquid 💧 mounting media.…</description>
-      <content:encoded>RT @adam_k_glaser: We modified the optical system to achieve an aberration free working distance of 35 mm (!) into liquid 💧 mounting media.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1668989380432744460"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 14 Jun 2023 14:30:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @adam_k_glaser: ExA-SPIM can image an incredible 200 x 52 x 35 mm3 volume, with 1 µm near-isotropic resolution over a 10.6 x 8.0 mm fiel…</title>
-      <link>https://twitter.com/ruimcosta/status/1668989394013900801</link>
-      <description>RT @adam_k_glaser: ExA-SPIM can image an incredible 200 x 52 x 35 mm3 volume, with 1 µm near-isotropic resolution over a 10.6 x 8.0 mm fiel…</description>
-      <content:encoded>RT @adam_k_glaser: ExA-SPIM can image an incredible 200 x 52 x 35 mm3 volume, with 1 µm near-isotropic resolution over a 10.6 x 8.0 mm fiel…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1668989394013900801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 14 Jun 2023 14:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @adam_k_glaser: With no sectioning and few tiles, these volumes are easily stitched and merged for downstream analysis, including tracin…</title>
-      <link>https://twitter.com/ruimcosta/status/1668989429938114569</link>
-      <description>RT @adam_k_glaser: With no sectioning and few tiles, these volumes are easily stitched and merged for downstream analysis, including tracin…</description>
-      <content:encoded>RT @adam_k_glaser: With no sectioning and few tiles, these volumes are easily stitched and merged for downstream analysis, including tracin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1668989429938114569"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 14 Jun 2023 14:31:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @peteratmsr: Something I didn't expect to find in our early investigations: Doctors using ChatGPT to reflect a bit on what to say to the…</title>
-      <link>https://twitter.com/ruimcosta/status/1668989506123440131</link>
-      <description>RT @peteratmsr: Something I didn't expect to find in our early investigations: Doctors using ChatGPT to reflect a bit on what to say to the…</description>
-      <content:encoded>RT @peteratmsr: Something I didn't expect to find in our early investigations: Doctors using ChatGPT to reflect a bit on what to say to the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1668989506123440131"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 14 Jun 2023 14:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to call LLMs, provide prompts, and parse the output.
-
-How to use LangChain’s Memory feature to store LLM conversations and manage limited context space.
-
-⬇️</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1668989578416381953</link>
-      <description>How to call LLMs, provide prompts, and parse the output.
-
-How to use LangChain’s Memory feature to store LLM conversations and manage limited context space.
-
-⬇️</description>
-      <content:encoded>How to call LLMs, provide prompts, and parse the output.
-
-How to use LangChain’s Memory feature to store LLM conversations and manage limited context space.
-
-⬇️&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1668989578416381953"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 14 Jun 2023 14:31:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jun 2023 06:21:01 +0000</lastBuildDate>
     <item>
       <title>RT @Noni_sdh: New from the Zivlab- Time and experience differentially affect distinct aspects of hippocampal representational drift - Scien…</title>
       <link>https://twitter.com/trose_neuro/status/1668989596372287489</link>
@@ -980,13 +933,6 @@ https://t.co/cIZDaklNBf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Wed, 14 Jun 2023 18:04:11 +0000</pubDate>
     </item>
     <item>
-      <title>RT @ScienceTM: Researchers tie endometriosis in women to an invasive genus of bacteria, fecal microbiome transplants may soothe colitis dur…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1669043102495957003</link>
-      <description>RT @ScienceTM: Researchers tie endometriosis in women to an invasive genus of bacteria, fecal microbiome transplants may soothe colitis dur…</description>
-      <content:encoded>RT @ScienceTM: Researchers tie endometriosis in women to an invasive genus of bacteria, fecal microbiome transplants may soothe colitis dur…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669043102495957003"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 14 Jun 2023 18:04:19 +0000</pubDate>
-    </item>
-    <item>
       <title>Those who have worked at NIH know how amazing Staff Scientists can be and how they provide vital contributions for the intramural research success. We need that at universities too! https://t.co/D964jaRKf4</title>
       <link>https://twitter.com/PessoaBrain/status/1669043213988945935</link>
       <description>Those who have worked at NIH know how amazing Staff Scientists can be and how they provide vital contributions for the intramural research success. We need that at universities too! https://t.co/D964jaRKf4</description>
@@ -1023,13 +969,6 @@ https://t.co/cIZDaklNBf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <content:encoded>30 years ago, the PDF was introduced to the world – and it's become the most widely used document format on the web. Our #SafeDocs program has developed tools and methodologies to help reduce vulnerabilities in file formats like PDF and beyond. More: https://t.co/QIMInGQo6d https://t.co/sNrlSnSpgg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1669046926178746368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FymlVbCWYAYsGHF.jpg" length="800" type="photo"/>
       <pubDate>Wed, 14 Jun 2023 18:19:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @BSrinageshwar: See you in D.C #sfn2023 #abstract #conference #brain #neuroscience @CmichOrgs @CMU_Medicine @FNIlabCMU https://t.co/pzkl…</title>
-      <link>https://twitter.com/SfNtweets/status/1669048000734191636</link>
-      <description>RT @BSrinageshwar: See you in D.C #sfn2023 #abstract #conference #brain #neuroscience @CmichOrgs @CMU_Medicine @FNIlabCMU https://t.co/pzkl…</description>
-      <content:encoded>RT @BSrinageshwar: See you in D.C #sfn2023 #abstract #conference #brain #neuroscience @CmichOrgs @CMU_Medicine @FNIlabCMU https://t.co/pzkl…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1669048000734191636"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 14 Jun 2023 18:23:47 +0000</pubDate>
     </item>
     <item>
       <title>RT @sarahookr: If you are interested -- express interest in the Africa channel on discord: https://t.co/RSojBmIiVb</title>
@@ -1906,6 +1845,89 @@ Migraine is a common chronic neurological disease characterized by pulsating hea
       <content:encoded>A new @SciSignal study in mice reveals a molecular cascade in cells called #astrocytes that induces water influx and brain swelling after #stroke, which can be treated by blocking proteins in the cascade. https://t.co/82tWOwFke7 https://t.co/Fyx7Ok5cTW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669177934953816065"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FyocfHhXoAUtPZ-.jpg" length="910" type="photo"/>
       <pubDate>Thu, 15 Jun 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>"The lessons I was learning as a basketball coach helped me find my footing as a scientific leader."
+
+In this week's #ScienceWorkingLife, a #PhD student writes about finding research leadership skills on the basketball court. @ScienceCareers https://t.co/PnB3tVSn7J</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669200565572698113</link>
+      <description>"The lessons I was learning as a basketball coach helped me find my footing as a scientific leader."
+
+In this week's #ScienceWorkingLife, a #PhD student writes about finding research leadership skills on the basketball court. @ScienceCareers https://t.co/PnB3tVSn7J</description>
+      <content:encoded>"The lessons I was learning as a basketball coach helped me find my footing as a scientific leader."
+
+In this week's #ScienceWorkingLife, a #PhD student writes about finding research leadership skills on the basketball court. @ScienceCareers https://t.co/PnB3tVSn7J&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669200565572698113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 15 Jun 2023 04:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @bengeliscious: Is this the view from a train🚂 entering the cilium? Thanks for the recommendation, Brooke @TIRscienceblog.</title>
+      <link>https://twitter.com/Facultyopinions/status/1669212929734967297</link>
+      <description>RT @bengeliscious: Is this the view from a train🚂 entering the cilium? Thanks for the recommendation, Brooke @TIRscienceblog.</description>
+      <content:encoded>RT @bengeliscious: Is this the view from a train🚂 entering the cilium? Thanks for the recommendation, Brooke @TIRscienceblog.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1669212929734967297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 15 Jun 2023 05:19:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new @ScienceTM study in pregnant marmosets shows that previous infection with #dengue virus exacerbates #Zika infection in placenta and fetal brain tissue. https://t.co/Qv1yMw7fUS https://t.co/N0BBE6gGui</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669223290752180225</link>
+      <description>A new @ScienceTM study in pregnant marmosets shows that previous infection with #dengue virus exacerbates #Zika infection in placenta and fetal brain tissue. https://t.co/Qv1yMw7fUS https://t.co/N0BBE6gGui</description>
+      <content:encoded>A new @ScienceTM study in pregnant marmosets shows that previous infection with #dengue virus exacerbates #Zika infection in placenta and fetal brain tissue. https://t.co/Qv1yMw7fUS https://t.co/N0BBE6gGui&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669223290752180225"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FypFvMtXwAMnQ4b.jpg" length="910" type="photo"/>
+      <pubDate>Thu, 15 Jun 2023 06:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jadecopet: Very excited to share our latest research work, MusicGen, released last Friday! MusicGen is a language model for textually a…</title>
+      <link>https://twitter.com/ylecun/status/1669224899511214081</link>
+      <description>RT @jadecopet: Very excited to share our latest research work, MusicGen, released last Friday! MusicGen is a language model for textually a…</description>
+      <content:encoded>RT @jadecopet: Very excited to share our latest research work, MusicGen, released last Friday! MusicGen is a language model for textually a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1669224899511214081"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 15 Jun 2023 06:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>32 years ago #Today, the Pinatubo generated the second-largest volcanic eruption of the 20th century, and by far the largest eruption to affect a densely populated area 
+
+[read more: https://t.co/Ucbggmkbb1]
+[photo, Albert Garcia: https://t.co/Pj5HZymyzI] https://t.co/pUHOQ3JHMX</title>
+      <link>https://twitter.com/Rainmaker1973/status/1669225425732599808</link>
+      <description>32 years ago #Today, the Pinatubo generated the second-largest volcanic eruption of the 20th century, and by far the largest eruption to affect a densely populated area 
+
+[read more: https://t.co/Ucbggmkbb1]
+[photo, Albert Garcia: https://t.co/Pj5HZymyzI] https://t.co/pUHOQ3JHMX</description>
+      <content:encoded>32 years ago #Today, the Pinatubo generated the second-largest volcanic eruption of the 20th century, and by far the largest eruption to affect a densely populated area 
+
+[read more: https://t.co/Ucbggmkbb1]
+[photo, Albert Garcia: https://t.co/Pj5HZymyzI] https://t.co/pUHOQ3JHMX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669225425732599808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FypHkEXXoAAa4fQ.jpg" length="680" type="photo"/>
+      <pubDate>Thu, 15 Jun 2023 06:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>New pooled library!
+This lentiviral plasmid CRISPR knockout library contains ~10,000 sgRNAs targeting 1980 human druggable genes.
+https://t.co/2PIsJXDsNm https://t.co/dTHI7Co9Vp</title>
+      <link>https://twitter.com/Addgene/status/1669225726434836486</link>
+      <description>New pooled library!
+This lentiviral plasmid CRISPR knockout library contains ~10,000 sgRNAs targeting 1980 human druggable genes.
+https://t.co/2PIsJXDsNm https://t.co/dTHI7Co9Vp</description>
+      <content:encoded>New pooled library!
+This lentiviral plasmid CRISPR knockout library contains ~10,000 sgRNAs targeting 1980 human druggable genes.
+https://t.co/2PIsJXDsNm https://t.co/dTHI7Co9Vp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1669225726434836486"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FypH89PXsAAwmPl.jpg" length="1101" type="photo"/>
+      <pubDate>Thu, 15 Jun 2023 06:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When it comes to eating, it's literally a (very) fast food for bald eagles. See this one grabbing a fish and elegantly swallowing it in mid air
+
+[📹 Mark Smith: https://t.co/OZkpSMUB75]
+https://t.co/NHUT6KQNoo</title>
+      <link>https://twitter.com/Rainmaker1973/status/1669227566912221184</link>
+      <description>When it comes to eating, it's literally a (very) fast food for bald eagles. See this one grabbing a fish and elegantly swallowing it in mid air
+
+[📹 Mark Smith: https://t.co/OZkpSMUB75]
+https://t.co/NHUT6KQNoo</description>
+      <content:encoded>When it comes to eating, it's literally a (very) fast food for bald eagles. See this one grabbing a fish and elegantly swallowing it in mid air
+
+[📹 Mark Smith: https://t.co/OZkpSMUB75]
+https://t.co/NHUT6KQNoo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669227566912221184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1668994766653079554/pu/img/KdBcGSQuJ1nqAhxC.jpg" length="675" type="photo"/>
+      <pubDate>Thu, 15 Jun 2023 06:17:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
