@@ -6,222 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 18:19:33 +0000</lastBuildDate>
-    <item>
-      <title>@KordingLab @natanielruizg 😯</title>
-      <link>https://twitter.com/PessoaBrain/status/1669495457763008512</link>
-      <description>@KordingLab @natanielruizg 😯</description>
-      <content:encoded>@KordingLab @natanielruizg 😯&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1669495457763008512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 00:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @medical_xpress: Researchers describe a new way to visualize force-sensing neurons @neurocellpress https://t.co/FmGlfUYzbQ</title>
-      <link>https://twitter.com/NeuroCellPress/status/1669496568850927619</link>
-      <description>RT @medical_xpress: Researchers describe a new way to visualize force-sensing neurons @neurocellpress https://t.co/FmGlfUYzbQ</description>
-      <content:encoded>RT @medical_xpress: Researchers describe a new way to visualize force-sensing neurons @neurocellpress https://t.co/FmGlfUYzbQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1669496568850927619"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 00:06:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @karimjerbineuro: Super excited to be talking Thursday next week @ the annual Sloan Salon – Storytelling &amp;amp; Tech: Crafting Human-Centered…</title>
-      <link>https://twitter.com/tyrell_turing/status/1669496685511299072</link>
-      <description>RT @karimjerbineuro: Super excited to be talking Thursday next week @ the annual Sloan Salon – Storytelling &amp;amp; Tech: Crafting Human-Centered…</description>
-      <content:encoded>RT @karimjerbineuro: Super excited to be talking Thursday next week @ the annual Sloan Salon – Storytelling &amp;amp; Tech: Crafting Human-Centered…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669496685511299072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 00:06:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Really enjoyed the great seminar (and discussion) by @ElzHead today on Down’s syndrome and Alzheimer’s disease with a focus on cerebrovascular pathology! @UCI_CFAR_DS @cdrnixonlab</title>
-      <link>https://twitter.com/Chris_Lisgaras/status/1669498571920490497</link>
-      <description>Really enjoyed the great seminar (and discussion) by @ElzHead today on Down’s syndrome and Alzheimer’s disease with a focus on cerebrovascular pathology! @UCI_CFAR_DS @cdrnixonlab</description>
-      <content:encoded>Really enjoyed the great seminar (and discussion) by @ElzHead today on Down’s syndrome and Alzheimer’s disease with a focus on cerebrovascular pathology! @UCI_CFAR_DS @cdrnixonlab&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Chris_Lisgaras/status/1669498571920490497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 00:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Delissa76: These pictures of the Spatial transcriptomics team will be 🔥 @AllenInstitute https://t.co/pbIVx1Rw41</title>
-      <link>https://twitter.com/AllenInstitute/status/1669510102427086849</link>
-      <description>RT @Delissa76: These pictures of the Spatial transcriptomics team will be 🔥 @AllenInstitute https://t.co/pbIVx1Rw41</description>
-      <content:encoded>RT @Delissa76: These pictures of the Spatial transcriptomics team will be 🔥 @AllenInstitute https://t.co/pbIVx1Rw41&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1669510102427086849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fysoqw4aQAAuERC.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 01:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sucrose overconsumption impairs feeding circuit dynamics and promotes palatable food intake  https://t.co/4u692mssFd #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1669514008339050497</link>
-      <description>Sucrose overconsumption impairs feeding circuit dynamics and promotes palatable food intake  https://t.co/4u692mssFd #biorxiv_neursci</description>
-      <content:encoded>Sucrose overconsumption impairs feeding circuit dynamics and promotes palatable food intake  https://t.co/4u692mssFd #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1669514008339050497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 01:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Tongue acupuncture for the treatment of post-stroke dysphagia: a meta-analysis of randomized controlled trials: Objectives
-
-Post-stroke dysphagia is the most common neurological impairment after stroke. The swallowing process… #Neuroscience https://t.co/n2QOAY1UYp</title>
-      <link>https://twitter.com/FrontNeurosci/status/1669514009840852993</link>
-      <description>New Research: Tongue acupuncture for the treatment of post-stroke dysphagia: a meta-analysis of randomized controlled trials: Objectives
-
-Post-stroke dysphagia is the most common neurological impairment after stroke. The swallowing process… #Neuroscience https://t.co/n2QOAY1UYp</description>
-      <content:encoded>New Research: Tongue acupuncture for the treatment of post-stroke dysphagia: a meta-analysis of randomized controlled trials: Objectives
-
-Post-stroke dysphagia is the most common neurological impairment after stroke. The swallowing process… #Neuroscience https://t.co/n2QOAY1UYp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1669514009840852993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 01:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get the world of science delivered to your inbox every weekday. #ScienceAdviser is launching soon, featuring:
-
-Top picks of news and research
-Exclusive reporting and analysis
-Editor’s curation of recommended reading
-Revolving daily segments
-
-Subscribe: https://t.co/N8Tmv18b9w https://t.co/CGauesx4qb</title>
-      <link>https://twitter.com/ScienceMagazine/status/1669517673565155330</link>
-      <description>Get the world of science delivered to your inbox every weekday. #ScienceAdviser is launching soon, featuring:
-
-Top picks of news and research
-Exclusive reporting and analysis
-Editor’s curation of recommended reading
-Revolving daily segments
-
-Subscribe: https://t.co/N8Tmv18b9w https://t.co/CGauesx4qb</description>
-      <content:encoded>Get the world of science delivered to your inbox every weekday. #ScienceAdviser is launching soon, featuring:
-
-Top picks of news and research
-Exclusive reporting and analysis
-Editor’s curation of recommended reading
-Revolving daily segments
-
-Subscribe: https://t.co/N8Tmv18b9w https://t.co/CGauesx4qb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669517673565155330"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FytRebqWwAA9uTQ.png" length="641" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 01:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Studying brains What could neurometaphysics be?: This paper explores the concept of neurometaphysics, its topics and its approach. It warns against an endemic Cartesianism that somehow seems to survive explicit refutations by… #Neuroscience https://t.co/WIICcDvVJd</title>
-      <link>https://twitter.com/FrontNeurosci/status/1669527222649225218</link>
-      <description>New Research: Studying brains What could neurometaphysics be?: This paper explores the concept of neurometaphysics, its topics and its approach. It warns against an endemic Cartesianism that somehow seems to survive explicit refutations by… #Neuroscience https://t.co/WIICcDvVJd</description>
-      <content:encoded>New Research: Studying brains What could neurometaphysics be?: This paper explores the concept of neurometaphysics, its topics and its approach. It warns against an endemic Cartesianism that somehow seems to survive explicit refutations by… #Neuroscience https://t.co/WIICcDvVJd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1669527222649225218"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 02:08:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio -- a fantasy world where its apparently imaginable to rent a two bedroom apartment on minimum wage. https://t.co/knHPNPsQRc</title>
-      <link>https://twitter.com/andpru/status/1669527649146773504</link>
-      <description>Ohio -- a fantasy world where its apparently imaginable to rent a two bedroom apartment on minimum wage. https://t.co/knHPNPsQRc</description>
-      <content:encoded>Ohio -- a fantasy world where its apparently imaginable to rent a two bedroom apartment on minimum wage. https://t.co/knHPNPsQRc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1669527649146773504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 02:09:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @abakcus: The Japanese edition of The Calculus of Friendship is so beautiful. @stevenstrogatz @megutayama 
-[https://t.co/K9AMfxvuq8] htt…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1669528943605559297</link>
-      <description>RT @abakcus: The Japanese edition of The Calculus of Friendship is so beautiful. @stevenstrogatz @megutayama 
-[https://t.co/K9AMfxvuq8] htt…</description>
-      <content:encoded>RT @abakcus: The Japanese edition of The Calculus of Friendship is so beautiful. @stevenstrogatz @megutayama 
-[https://t.co/K9AMfxvuq8] htt…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1669528943605559297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 02:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @QuantaMagazine: What makes a rogue wave go rogue? What causes a single wave to grow to the size of a six-story building? Find out on th…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1669529506627846144</link>
-      <description>RT @QuantaMagazine: What makes a rogue wave go rogue? What causes a single wave to grow to the size of a six-story building? Find out on th…</description>
-      <content:encoded>RT @QuantaMagazine: What makes a rogue wave go rogue? What causes a single wave to grow to the size of a six-story building? Find out on th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1669529506627846144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 02:17:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @techreview: DeepMind’s run of discoveries in fundamental computer science continues. https://t.co/Xj1nWYk9eC</title>
-      <link>https://twitter.com/demishassabis/status/1669530100142952449</link>
-      <description>RT @techreview: DeepMind’s run of discoveries in fundamental computer science continues. https://t.co/Xj1nWYk9eC</description>
-      <content:encoded>RT @techreview: DeepMind’s run of discoveries in fundamental computer science continues. https://t.co/Xj1nWYk9eC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/demishassabis/status/1669530100142952449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 02:19:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>The brightest gamma-ray burst ever recorded likely came from a shallow structured jet propelled by a rapidly spinning massive black hole, according to a new study in @ScienceAdvances. https://t.co/nbl8rDKGrq https://t.co/B1X5kiAykt</title>
-      <link>https://twitter.com/ScienceMagazine/status/1669540343782555649</link>
-      <description>The brightest gamma-ray burst ever recorded likely came from a shallow structured jet propelled by a rapidly spinning massive black hole, according to a new study in @ScienceAdvances. https://t.co/nbl8rDKGrq https://t.co/B1X5kiAykt</description>
-      <content:encoded>The brightest gamma-ray burst ever recorded likely came from a shallow structured jet propelled by a rapidly spinning massive black hole, according to a new study in @ScienceAdvances. https://t.co/nbl8rDKGrq https://t.co/B1X5kiAykt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669540343782555649"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FytmGCAXgAAKKVx.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 03:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @phillip_isola: We’re releasing a new image similarity metric and dataset!
-
---&amp;gt; DreamSim: a metric which outperforms LPIPS, CLIP, and DI…</title>
-      <link>https://twitter.com/patrickmineault/status/1669541214926905345</link>
-      <description>RT @phillip_isola: We’re releasing a new image similarity metric and dataset!
-
---&amp;gt; DreamSim: a metric which outperforms LPIPS, CLIP, and DI…</description>
-      <content:encoded>RT @phillip_isola: We’re releasing a new image similarity metric and dataset!
-
---&amp;gt; DreamSim: a metric which outperforms LPIPS, CLIP, and DI…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1669541214926905345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 03:03:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>This conspiracy theory that birds are actually government spy drones is … totally false https://t.co/zXs0cf0mS1</title>
-      <link>https://twitter.com/elonmusk/status/1669543817400266752</link>
-      <description>This conspiracy theory that birds are actually government spy drones is … totally false https://t.co/zXs0cf0mS1</description>
-      <content:encoded>This conspiracy theory that birds are actually government spy drones is … totally false https://t.co/zXs0cf0mS1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1669543817400266752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FytpP1tXoAEPW-x.jpg" length="900" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 03:13:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Let’s try and make science more self-correcting https://t.co/WHiIpuL0FH</title>
-      <link>https://twitter.com/KordingLab/status/1669544210209595394</link>
-      <description>Let’s try and make science more self-correcting https://t.co/WHiIpuL0FH</description>
-      <content:encoded>Let’s try and make science more self-correcting https://t.co/WHiIpuL0FH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1669544210209595394"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 03:15:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amphitheatrum Flavium https://t.co/vFPDgt0Gf8</title>
-      <link>https://twitter.com/elonmusk/status/1669554920628920320</link>
-      <description>Amphitheatrum Flavium https://t.co/vFPDgt0Gf8</description>
-      <content:encoded>Amphitheatrum Flavium https://t.co/vFPDgt0Gf8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1669554920628920320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FytzWTNXoAIdXhE.jpg" length="680" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 03:58:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/RSvDpOGQFH https://t.co/uocaNvTRlw</title>
-      <link>https://twitter.com/ScienceMagazine/status/1669562973382123521</link>
-      <description>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/RSvDpOGQFH https://t.co/uocaNvTRlw</description>
-      <content:encoded>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/RSvDpOGQFH https://t.co/uocaNvTRlw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669562973382123521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fyt6rOtX0AEY2fk.jpg" length="750" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 04:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>📢Call to present at INCF Neuroinformatics Assembly 2023!📢
-
-Want to speak in our investigator-led talks on FAIR neuroscience? We're calling for abstracts! 🧠
-
-📅 Abstract deadline: Jun 23
-
-Submit your abstract today: https://t.co/XD7BUmgo1H
-
-#FAIR #neuroscience #OpenScience https://t.co/Llrcv9kq9o</title>
-      <link>https://twitter.com/INCForg/status/1669575781696290816</link>
-      <description>📢Call to present at INCF Neuroinformatics Assembly 2023!📢
-
-Want to speak in our investigator-led talks on FAIR neuroscience? We're calling for abstracts! 🧠
-
-📅 Abstract deadline: Jun 23
-
-Submit your abstract today: https://t.co/XD7BUmgo1H
-
-#FAIR #neuroscience #OpenScience https://t.co/Llrcv9kq9o</description>
-      <content:encoded>📢Call to present at INCF Neuroinformatics Assembly 2023!📢
-
-Want to speak in our investigator-led talks on FAIR neuroscience? We're calling for abstracts! 🧠
-
-📅 Abstract deadline: Jun 23
-
-Submit your abstract today: https://t.co/XD7BUmgo1H
-
-#FAIR #neuroscience #OpenScience https://t.co/Llrcv9kq9o&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1669575781696290816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyqNbMTWcAUdqO7.png" length="625" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 05:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @StarTalkRadio: Nikolai Copernicus was one of science’s greatest minds 🧠 https://t.co/TPLKWseiOz</title>
-      <link>https://twitter.com/MichaelGalanin/status/1669585236097679360</link>
-      <description>RT @StarTalkRadio: Nikolai Copernicus was one of science’s greatest minds 🧠 https://t.co/TPLKWseiOz</description>
-      <content:encoded>RT @StarTalkRadio: Nikolai Copernicus was one of science’s greatest minds 🧠 https://t.co/TPLKWseiOz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1669585236097679360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1669490309980471298/pu/img/BFBl9ZEdqE9yxLHq.jpg" length="675" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 05:58:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jun 2023 19:12:31 +0000</lastBuildDate>
     <item>
       <title>A Friedman number is an integer that can be expressed using all its own digits and the operators (+, −, ×, ÷) 
 
@@ -2377,6 +2162,180 @@ Learn more in #TheBatch: https://t.co/MzBqmkK7Zh&lt;blockquote class="twitter-tw
       <content:encoded>Maps of brain activity from 10 mind-altering drugs offer a “roadmap” to identify potential future treatments for these disorders, a new @ScienceAdvances study suggests. https://t.co/7HQmD1eGwh https://t.co/Wvk4IGPKoA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669766859913134087"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fyw0G-WWwAE6bqP.jpg" length="1200" type="photo"/>
       <pubDate>Fri, 16 Jun 2023 18:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>@patrickmineault Asynchronous processing is super important for real-world interactions e.g. of animals with a behavioral setup (digitial/analog inputs/outputs). Many people use Labview, which does this more or less automatically. I used Python for some projects, including asyncio.</title>
+      <link>https://twitter.com/ptrrupprecht/status/1669773019038842897</link>
+      <description>@patrickmineault Asynchronous processing is super important for real-world interactions e.g. of animals with a behavioral setup (digitial/analog inputs/outputs). Many people use Labview, which does this more or less automatically. I used Python for some projects, including asyncio.</description>
+      <content:encoded>@patrickmineault Asynchronous processing is super important for real-world interactions e.g. of animals with a behavioral setup (digitial/analog inputs/outputs). Many people use Labview, which does this more or less automatically. I used Python for some projects, including asyncio.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ptrrupprecht/status/1669773019038842897"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:24:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CSHL: Happy 121st Birthday to Barbara McClintock...a beloved member of the CSHL family, one of the most influential geneticists of the…</title>
+      <link>https://twitter.com/furthlab/status/1669773100668387347</link>
+      <description>RT @CSHL: Happy 121st Birthday to Barbara McClintock...a beloved member of the CSHL family, one of the most influential geneticists of the…</description>
+      <content:encoded>RT @CSHL: Happy 121st Birthday to Barbara McClintock...a beloved member of the CSHL family, one of the most influential geneticists of the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1669773100668387347"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@patrickmineault There are also some Python project using asynchronous processing for the same set of tasks, e.g. Bonsai (https://t.co/goezUdEKGA) @bonsai_rx</title>
+      <link>https://twitter.com/ptrrupprecht/status/1669773508702863382</link>
+      <description>@patrickmineault There are also some Python project using asynchronous processing for the same set of tasks, e.g. Bonsai (https://t.co/goezUdEKGA) @bonsai_rx</description>
+      <content:encoded>@patrickmineault There are also some Python project using asynchronous processing for the same set of tasks, e.g. Bonsai (https://t.co/goezUdEKGA) @bonsai_rx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ptrrupprecht/status/1669773508702863382"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conophytum pageae is a succulent plant originating from Cape province of South Africa.  The name "conophytum" is derived from the Latin conus (cone) and Greek phytum (plant) 
+
+[read more: https://t.co/Y77r8AnJ3D] 
+[source: https://t.co/Y1EmFP6elq] https://t.co/fIeycEfFBD</title>
+      <link>https://twitter.com/Rainmaker1973/status/1669774341192527872</link>
+      <description>Conophytum pageae is a succulent plant originating from Cape province of South Africa.  The name "conophytum" is derived from the Latin conus (cone) and Greek phytum (plant) 
+
+[read more: https://t.co/Y77r8AnJ3D] 
+[source: https://t.co/Y1EmFP6elq] https://t.co/fIeycEfFBD</description>
+      <content:encoded>Conophytum pageae is a succulent plant originating from Cape province of South Africa.  The name "conophytum" is derived from the Latin conus (cone) and Greek phytum (plant) 
+
+[read more: https://t.co/Y77r8AnJ3D] 
+[source: https://t.co/Y1EmFP6elq] https://t.co/fIeycEfFBD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669774341192527872"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FywyXL9XsAAhzgi.jpg" length="680" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 18:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @KatjaReinhard: Join us as a postdoc at SISSA to study flexibility in innate behaviours and underlying neural circuits! We're looking fo…</title>
+      <link>https://twitter.com/BoninLab/status/1669775528599977987</link>
+      <description>RT @KatjaReinhard: Join us as a postdoc at SISSA to study flexibility in innate behaviours and underlying neural circuits! We're looking fo…</description>
+      <content:encoded>RT @KatjaReinhard: Join us as a postdoc at SISSA to study flexibility in innate behaviours and underlying neural circuits! We're looking fo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BoninLab/status/1669775528599977987"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:34:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study in @Nature uses a clinical language model trained on unstructured clinical notes from the electronic health record to enhance prediction of clinical and operational events. https://t.co/AVh5PRulyu https://t.co/q4cjxdshku</title>
+      <link>https://twitter.com/NaturePortfolio/status/1669777129570009111</link>
+      <description>A study in @Nature uses a clinical language model trained on unstructured clinical notes from the electronic health record to enhance prediction of clinical and operational events. https://t.co/AVh5PRulyu https://t.co/q4cjxdshku</description>
+      <content:encoded>A study in @Nature uses a clinical language model trained on unstructured clinical notes from the electronic health record to enhance prediction of clinical and operational events. https://t.co/AVh5PRulyu https://t.co/q4cjxdshku&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1669777129570009111"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fyw9bvxXgAslDyn.jpg" length="1066" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ArabsInNeuro: 🚨🚨 AAAANNDD it's here 🔥🔥
+Applications are now open for the second and improved version of the Introduction to Computation…</title>
+      <link>https://twitter.com/neuromatch/status/1669780023933378560</link>
+      <description>RT @ArabsInNeuro: 🚨🚨 AAAANNDD it's here 🔥🔥
+Applications are now open for the second and improved version of the Introduction to Computation…</description>
+      <content:encoded>RT @ArabsInNeuro: 🚨🚨 AAAANNDD it's here 🔥🔥
+Applications are now open for the second and improved version of the Introduction to Computation…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1669780023933378560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tyrell_turing @hardmaru Mmmm how good is SGD to initialize in your opinion? I feel like evolution provides the initialization framework that is necessary to find the solution islands. Once your are hooked onto a potential solution, it could be slower, yes.</title>
+      <link>https://twitter.com/LecoqJerome/status/1669780591397720065</link>
+      <description>@tyrell_turing @hardmaru Mmmm how good is SGD to initialize in your opinion? I feel like evolution provides the initialization framework that is necessary to find the solution islands. Once your are hooked onto a potential solution, it could be slower, yes.</description>
+      <content:encoded>@tyrell_turing @hardmaru Mmmm how good is SGD to initialize in your opinion? I feel like evolution provides the initialization framework that is necessary to find the solution islands. Once your are hooked onto a potential solution, it could be slower, yes.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1669780591397720065"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:54:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>@LecoqJerome @hardmaru I think it would still be better. Initialization in large, flat minima would be good, and SGD would get you there faster. I don't see any reason why evolution would produce better initializations...</title>
+      <link>https://twitter.com/tyrell_turing/status/1669781029358280720</link>
+      <description>@LecoqJerome @hardmaru I think it would still be better. Initialization in large, flat minima would be good, and SGD would get you there faster. I don't see any reason why evolution would produce better initializations...</description>
+      <content:encoded>@LecoqJerome @hardmaru I think it would still be better. Initialization in large, flat minima would be good, and SGD would get you there faster. I don't see any reason why evolution would produce better initializations...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669781029358280720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:56:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tyrell_turing @hardmaru Because it parallelize the search by design?</title>
+      <link>https://twitter.com/LecoqJerome/status/1669781270489104384</link>
+      <description>@tyrell_turing @hardmaru Because it parallelize the search by design?</description>
+      <content:encoded>@tyrell_turing @hardmaru Because it parallelize the search by design?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1669781270489104384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:57:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>@LecoqJerome @hardmaru You can easily do the same with SGD!</title>
+      <link>https://twitter.com/tyrell_turing/status/1669781464337068034</link>
+      <description>@LecoqJerome @hardmaru You can easily do the same with SGD!</description>
+      <content:encoded>@LecoqJerome @hardmaru You can easily do the same with SGD!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669781464337068034"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:58:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>This study graphically illustrates what happens to your muscles (with and without) the regular and beneficial exercise that the sport of triathlon provides, using an MRI cross section of three different aged men with different life styles.
+
+[full paper: https://t.co/HOt53Q0uMJ] https://t.co/ZDaX1LWTyt</title>
+      <link>https://twitter.com/Rainmaker1973/status/1669781893158699008</link>
+      <description>This study graphically illustrates what happens to your muscles (with and without) the regular and beneficial exercise that the sport of triathlon provides, using an MRI cross section of three different aged men with different life styles.
+
+[full paper: https://t.co/HOt53Q0uMJ] https://t.co/ZDaX1LWTyt</description>
+      <content:encoded>This study graphically illustrates what happens to your muscles (with and without) the regular and beneficial exercise that the sport of triathlon provides, using an MRI cross section of three different aged men with different life styles.
+
+[full paper: https://t.co/HOt53Q0uMJ] https://t.co/ZDaX1LWTyt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669781893158699008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FywyhMGWwAAF79g.jpg" length="418" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 19:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>✨ When schools support student well-being, it helps students be more engaged and accelerates learning ✨ 
+
+Check out this special @educationweek report to learn more about what works to support student motivation and engagement ➡️ https://t.co/SUgztYKdwJ https://t.co/M8RDXB1A5B</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1669781934522638360</link>
+      <description>✨ When schools support student well-being, it helps students be more engaged and accelerates learning ✨ 
+
+Check out this special @educationweek report to learn more about what works to support student motivation and engagement ➡️ https://t.co/SUgztYKdwJ https://t.co/M8RDXB1A5B</description>
+      <content:encoded>✨ When schools support student well-being, it helps students be more engaged and accelerates learning ✨ 
+
+Check out this special @educationweek report to learn more about what works to support student motivation and engagement ➡️ https://t.co/SUgztYKdwJ https://t.co/M8RDXB1A5B&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1669781934522638360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyxB0h7X0AAygju.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 19:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Spontaneous Necker-Cube Reversals may not be that Spontaneous #Neuroscience https://t.co/6LpgxORvtu</title>
+      <link>https://twitter.com/FrontNeurosci/status/1669783031551516673</link>
+      <description>New Research: Spontaneous Necker-Cube Reversals may not be that Spontaneous #Neuroscience https://t.co/6LpgxORvtu</description>
+      <content:encoded>New Research: Spontaneous Necker-Cube Reversals may not be that Spontaneous #Neuroscience https://t.co/6LpgxORvtu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1669783031551516673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 19:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tyrell_turing @hardmaru Yes, lots of these could be implemented. I still find it remarkable that so many things emerged from these simple evolutionary rules. The biological machinery and interdependence is so amazing. It might not be the fastest but it is robust and powerful.</title>
+      <link>https://twitter.com/LecoqJerome/status/1669783069241536512</link>
+      <description>@tyrell_turing @hardmaru Yes, lots of these could be implemented. I still find it remarkable that so many things emerged from these simple evolutionary rules. The biological machinery and interdependence is so amazing. It might not be the fastest but it is robust and powerful.</description>
+      <content:encoded>@tyrell_turing @hardmaru Yes, lots of these could be implemented. I still find it remarkable that so many things emerged from these simple evolutionary rules. The biological machinery and interdependence is so amazing. It might not be the fastest but it is robust and powerful.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1669783069241536512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 19:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Total joke to allow permanent virtual attendance in parliament. https://t.co/ZSHrHvmKI8</title>
+      <link>https://twitter.com/andpru/status/1669783834512990218</link>
+      <description>Total joke to allow permanent virtual attendance in parliament. https://t.co/ZSHrHvmKI8</description>
+      <content:encoded>Total joke to allow permanent virtual attendance in parliament. https://t.co/ZSHrHvmKI8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1669783834512990218"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 19:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @debo_Astrocyte: Excited to share my postdoc work published today @ScienceMagazine https://t.co/dbNLir4lHW on how the sense of smell is…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669784058186833920</link>
+      <description>RT @debo_Astrocyte: Excited to share my postdoc work published today @ScienceMagazine https://t.co/dbNLir4lHW on how the sense of smell is…</description>
+      <content:encoded>RT @debo_Astrocyte: Excited to share my postdoc work published today @ScienceMagazine https://t.co/dbNLir4lHW on how the sense of smell is…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669784058186833920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 19:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>can we haz republic -- we all grown up now https://t.co/uah6GOFdI2</title>
+      <link>https://twitter.com/andpru/status/1669784140282048512</link>
+      <description>can we haz republic -- we all grown up now https://t.co/uah6GOFdI2</description>
+      <content:encoded>can we haz republic -- we all grown up now https://t.co/uah6GOFdI2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1669784140282048512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 19:08:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>We need insight into who has oversight
+
+@mark_histed https://t.co/E7OhttWrwy</title>
+      <link>https://twitter.com/TonyZador/status/1669784737173364737</link>
+      <description>We need insight into who has oversight
+
+@mark_histed https://t.co/E7OhttWrwy</description>
+      <content:encoded>We need insight into who has oversight
+
+@mark_histed https://t.co/E7OhttWrwy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1669784737173364737"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 19:11:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Excited to share our latest work led by Dr. Marta Maslej, with Dr. Stefan Kloiber, @MarzyehGhassemi, @BrainHealth4All  @CAMH_KCNI. Findings reveal psychiatrists favor human advice over #AI in clinical support, even when AI is spot on. #MentalHealth https://t.co/TqxlnaAN7C</title>
+      <link>https://twitter.com/wake_sleep/status/1669785006800097281</link>
+      <description>Excited to share our latest work led by Dr. Marta Maslej, with Dr. Stefan Kloiber, @MarzyehGhassemi, @BrainHealth4All  @CAMH_KCNI. Findings reveal psychiatrists favor human advice over #AI in clinical support, even when AI is spot on. #MentalHealth https://t.co/TqxlnaAN7C</description>
+      <content:encoded>Excited to share our latest work led by Dr. Marta Maslej, with Dr. Stefan Kloiber, @MarzyehGhassemi, @BrainHealth4All  @CAMH_KCNI. Findings reveal psychiatrists favor human advice over #AI in clinical support, even when AI is spot on. #MentalHealth https://t.co/TqxlnaAN7C&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1669785006800097281"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 19:12:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
