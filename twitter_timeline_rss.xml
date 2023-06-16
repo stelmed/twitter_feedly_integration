@@ -6,109 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 05:15:07 +0000</lastBuildDate>
-    <item>
-      <title>1️⃣ AlphaDev, a specialised version of AlphaZero, discovered faster sorting and hashing algorithms – two processes used to sort, store and retrieve data.
-
-We’ve open sourced these in the LLVM standard C++ and Abseil libraries to help developers globally: https://t.co/NOq3uY3rJm https://t.co/u9X6ijidu8</title>
-      <link>https://twitter.com/DeepMind/status/1669314436048232450</link>
-      <description>1️⃣ AlphaDev, a specialised version of AlphaZero, discovered faster sorting and hashing algorithms – two processes used to sort, store and retrieve data.
-
-We’ve open sourced these in the LLVM standard C++ and Abseil libraries to help developers globally: https://t.co/NOq3uY3rJm https://t.co/u9X6ijidu8</description>
-      <content:encoded>1️⃣ AlphaDev, a specialised version of AlphaZero, discovered faster sorting and hashing algorithms – two processes used to sort, store and retrieve data.
-
-We’ve open sourced these in the LLVM standard C++ and Abseil libraries to help developers globally: https://t.co/NOq3uY3rJm https://t.co/u9X6ijidu8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1669314436048232450"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FyqYAFxWwAEJMxv.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 12:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>2️⃣ At @Google, a system called Borg helps data centres manage billions of tasks, from delivering search results to processing datasets.
-
-Our AlphaZero model found new ways to better plan these workloads and optimise how hardware is used - meaning more internet for less energy. https://t.co/9xzPRq1PLb</title>
-      <link>https://twitter.com/DeepMind/status/1669314438455861249</link>
-      <description>2️⃣ At @Google, a system called Borg helps data centres manage billions of tasks, from delivering search results to processing datasets.
-
-Our AlphaZero model found new ways to better plan these workloads and optimise how hardware is used - meaning more internet for less energy. https://t.co/9xzPRq1PLb</description>
-      <content:encoded>2️⃣ At @Google, a system called Borg helps data centres manage billions of tasks, from delivering search results to processing datasets.
-
-Our AlphaZero model found new ways to better plan these workloads and optimise how hardware is used - meaning more internet for less energy. https://t.co/9xzPRq1PLb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1669314438455861249"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FyqYK7vWAAAVXZg.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 12:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>3️⃣ We worked with @YouTube to allow our AI system MuZero to help compress videos online.
-
-It was able to reduce the bitrate by 4%, without compromising on visual quality - so you can stream more content even on a slower connection. https://t.co/NOq3uY3rJm https://t.co/lCrgTjDxAS</title>
-      <link>https://twitter.com/DeepMind/status/1669314440536154112</link>
-      <description>3️⃣ We worked with @YouTube to allow our AI system MuZero to help compress videos online.
-
-It was able to reduce the bitrate by 4%, without compromising on visual quality - so you can stream more content even on a slower connection. https://t.co/NOq3uY3rJm https://t.co/lCrgTjDxAS</description>
-      <content:encoded>3️⃣ We worked with @YouTube to allow our AI system MuZero to help compress videos online.
-
-It was able to reduce the bitrate by 4%, without compromising on visual quality - so you can stream more content even on a slower connection. https://t.co/NOq3uY3rJm https://t.co/lCrgTjDxAS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1669314440536154112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FyqYR8hWIAE6O_C.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 12:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌎 From playing games to solving engineering problems, our AI tools are now saving billions of people time and energy.
-
-We hope future general-purpose AI systems could not only help transform technology, but be applied to science, medicine and much more: https://t.co/NOq3uY3rJm https://t.co/COziKvg29K</title>
-      <link>https://twitter.com/DeepMind/status/1669314443610603521</link>
-      <description>🌎 From playing games to solving engineering problems, our AI tools are now saving billions of people time and energy.
-
-We hope future general-purpose AI systems could not only help transform technology, but be applied to science, medicine and much more: https://t.co/NOq3uY3rJm https://t.co/COziKvg29K</description>
-      <content:encoded>🌎 From playing games to solving engineering problems, our AI tools are now saving billions of people time and energy.
-
-We hope future general-purpose AI systems could not only help transform technology, but be applied to science, medicine and much more: https://t.co/NOq3uY3rJm https://t.co/COziKvg29K&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1669314443610603521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyqYbVNXoAEaYPJ.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 12:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>When you're designing a multiplex experiment with sixty or more parameters, you'll probably want to use validated reagents whenever possible - so check out our latest blog post on the IBEX Knowledge-Base, a data resource for exactly that purpose! 
-
-https://t.co/B3RoLSZDJo</title>
-      <link>https://twitter.com/Addgene/status/1669316324986634240</link>
-      <description>When you're designing a multiplex experiment with sixty or more parameters, you'll probably want to use validated reagents whenever possible - so check out our latest blog post on the IBEX Knowledge-Base, a data resource for exactly that purpose! 
-
-https://t.co/B3RoLSZDJo</description>
-      <content:encoded>When you're designing a multiplex experiment with sixty or more parameters, you'll probably want to use validated reagents whenever possible - so check out our latest blog post on the IBEX Knowledge-Base, a data resource for exactly that purpose! 
-
-https://t.co/B3RoLSZDJo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1669316324986634240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 12:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>At 125 decibels, the male white bellbird (Procnias albus) has been named the “World’s Loudest Bird,” or more accurately the loudest bird ever recorded
-
-(sound on)
-
-[full paper: https://t.co/C6mES8i435]
-[📹 by Raimundo Carvalho: https://t.co/nJmTb19jLi]
-https://t.co/0DfL9xQgBq</title>
-      <link>https://twitter.com/Rainmaker1973/status/1669317438574415873</link>
-      <description>At 125 decibels, the male white bellbird (Procnias albus) has been named the “World’s Loudest Bird,” or more accurately the loudest bird ever recorded
-
-(sound on)
-
-[full paper: https://t.co/C6mES8i435]
-[📹 by Raimundo Carvalho: https://t.co/nJmTb19jLi]
-https://t.co/0DfL9xQgBq</description>
-      <content:encoded>At 125 decibels, the male white bellbird (Procnias albus) has been named the “World’s Loudest Bird,” or more accurately the loudest bird ever recorded
-
-(sound on)
-
-[full paper: https://t.co/C6mES8i435]
-[📹 by Raimundo Carvalho: https://t.co/nJmTb19jLi]
-https://t.co/0DfL9xQgBq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669317438574415873"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1280715036323971073/pu/img/6-mLeEy-ylnHQXrG.jpg" length="1080" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 12:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Isn't is obvious? They knew the committee would find against him, whoever was chair, but having her in post gives them the opportunity argue that the process was biased. Better to lose and be able to claim bias than to lose and have nothing. https://t.co/3H35MX90CY</title>
-      <link>https://twitter.com/chrisdc77/status/1669319082758270976</link>
-      <description>Isn't is obvious? They knew the committee would find against him, whoever was chair, but having her in post gives them the opportunity argue that the process was biased. Better to lose and be able to claim bias than to lose and have nothing. https://t.co/3H35MX90CY</description>
-      <content:encoded>Isn't is obvious? They knew the committee would find against him, whoever was chair, but having her in post gives them the opportunity argue that the process was biased. Better to lose and be able to claim bias than to lose and have nothing. https://t.co/3H35MX90CY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1669319082758270976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 12:20:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jun 2023 06:20:43 +0000</lastBuildDate>
     <item>
       <title>RT @Vetenskapsradet: Vilka politiska beslut och förvaltningspolitiska förändringar har påverkat förutsättningarna för forskning och forskar…</title>
       <link>https://twitter.com/PostdocUmu/status/1669319241768501248</link>
@@ -1755,6 +1653,16 @@ More info: https://t.co/t7Js85nyPM
       <pubDate>Thu, 15 Jun 2023 20:11:54 +0000</pubDate>
     </item>
     <item>
+      <title>RT @GroupAldridge: The lightest metal-metal bond!
+Joe’s paper on the synthesis &amp;amp; reactivity of diberyllocene, CpBeBeCp, an unambiguous Be(I…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669437923018657816</link>
+      <description>RT @GroupAldridge: The lightest metal-metal bond!
+Joe’s paper on the synthesis &amp;amp; reactivity of diberyllocene, CpBeBeCp, an unambiguous Be(I…</description>
+      <content:encoded>RT @GroupAldridge: The lightest metal-metal bond!
+Joe’s paper on the synthesis &amp;amp; reactivity of diberyllocene, CpBeBeCp, an unambiguous Be(I…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669437923018657816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 15 Jun 2023 20:13:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Universal Dynamic Fitting of Magnetic Resonance Spectroscopy  https://t.co/8fDovmaVrs #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1669438528688717824</link>
       <description>Universal Dynamic Fitting of Magnetic Resonance Spectroscopy  https://t.co/8fDovmaVrs #biorxiv_neursci</description>
@@ -2239,6 +2147,84 @@ Subscribe: https://t.co/N8Tmv18b9w https://t.co/CGauesx4qb&lt;blockquote class="
       <content:encoded>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/RSvDpOGQFH https://t.co/uocaNvTRlw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669562973382123521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fyt6rOtX0AEY2fk.jpg" length="750" type="photo"/>
       <pubDate>Fri, 16 Jun 2023 04:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>📢Call to present at INCF Neuroinformatics Assembly 2023!📢
+
+Want to speak in our investigator-led talks on FAIR neuroscience? We're calling for abstracts! 🧠
+
+📅 Abstract deadline: Jun 23
+
+Submit your abstract today: https://t.co/XD7BUmgo1H
+
+#FAIR #neuroscience #OpenScience https://t.co/Llrcv9kq9o</title>
+      <link>https://twitter.com/INCForg/status/1669575781696290816</link>
+      <description>📢Call to present at INCF Neuroinformatics Assembly 2023!📢
+
+Want to speak in our investigator-led talks on FAIR neuroscience? We're calling for abstracts! 🧠
+
+📅 Abstract deadline: Jun 23
+
+Submit your abstract today: https://t.co/XD7BUmgo1H
+
+#FAIR #neuroscience #OpenScience https://t.co/Llrcv9kq9o</description>
+      <content:encoded>📢Call to present at INCF Neuroinformatics Assembly 2023!📢
+
+Want to speak in our investigator-led talks on FAIR neuroscience? We're calling for abstracts! 🧠
+
+📅 Abstract deadline: Jun 23
+
+Submit your abstract today: https://t.co/XD7BUmgo1H
+
+#FAIR #neuroscience #OpenScience https://t.co/Llrcv9kq9o&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1669575781696290816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyqNbMTWcAUdqO7.png" length="625" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 05:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @StarTalkRadio: Nikolai Copernicus was one of science’s greatest minds 🧠 https://t.co/TPLKWseiOz</title>
+      <link>https://twitter.com/MichaelGalanin/status/1669585236097679360</link>
+      <description>RT @StarTalkRadio: Nikolai Copernicus was one of science’s greatest minds 🧠 https://t.co/TPLKWseiOz</description>
+      <content:encoded>RT @StarTalkRadio: Nikolai Copernicus was one of science’s greatest minds 🧠 https://t.co/TPLKWseiOz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1669585236097679360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1669490309980471298/pu/img/BFBl9ZEdqE9yxLHq.jpg" length="675" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 05:58:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Friedman number is an integer that can be expressed using all its own digits and the operators (+, −, ×, ÷) 
+
+[read more: https://t.co/hYrJMSyWp9] https://t.co/2ATbhadggo</title>
+      <link>https://twitter.com/Rainmaker1973/status/1669585602323390464</link>
+      <description>A Friedman number is an integer that can be expressed using all its own digits and the operators (+, −, ×, ÷) 
+
+[read more: https://t.co/hYrJMSyWp9] https://t.co/2ATbhadggo</description>
+      <content:encoded>A Friedman number is an integer that can be expressed using all its own digits and the operators (+, −, ×, ÷) 
+
+[read more: https://t.co/hYrJMSyWp9] https://t.co/2ATbhadggo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669585602323390464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyqPknnX0AE_rJE.jpg" length="500" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 06:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>An ingestible capsule is capable of modulating the hunger-regulating hormone, ghrelin, by electrical stimulation of the gastric mucosa in pigs. @SciRobotics https://t.co/R1SFYUJfK3 https://t.co/QhonCHYOKF</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669585638385938432</link>
+      <description>An ingestible capsule is capable of modulating the hunger-regulating hormone, ghrelin, by electrical stimulation of the gastric mucosa in pigs. @SciRobotics https://t.co/R1SFYUJfK3 https://t.co/QhonCHYOKF</description>
+      <content:encoded>An ingestible capsule is capable of modulating the hunger-regulating hormone, ghrelin, by electrical stimulation of the gastric mucosa in pigs. @SciRobotics https://t.co/R1SFYUJfK3 https://t.co/QhonCHYOKF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669585638385938432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyuPShCWYAAU8O5.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 06:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Im Jahr unseres 75. Jubiläums treffen wir uns vom 20. bis 22. Juni in #Göttingen, dem Ort unserer Gründung, zu einer in jeder Hinsicht besonderen Jahresversammlung. Am 23. Juni feiern wir gemeinsam mit Euch! 🎉🥧😊 https://t.co/TFHBQDYmWL #MaxPlanck75 #MaxPlanckTag https://t.co/toqWyF4vG2</title>
+      <link>https://twitter.com/maxplanckpress/status/1669588128841998337</link>
+      <description>Im Jahr unseres 75. Jubiläums treffen wir uns vom 20. bis 22. Juni in #Göttingen, dem Ort unserer Gründung, zu einer in jeder Hinsicht besonderen Jahresversammlung. Am 23. Juni feiern wir gemeinsam mit Euch! 🎉🥧😊 https://t.co/TFHBQDYmWL #MaxPlanck75 #MaxPlanckTag https://t.co/toqWyF4vG2</description>
+      <content:encoded>Im Jahr unseres 75. Jubiläums treffen wir uns vom 20. bis 22. Juni in #Göttingen, dem Ort unserer Gründung, zu einer in jeder Hinsicht besonderen Jahresversammlung. Am 23. Juni feiern wir gemeinsam mit Euch! 🎉🥧😊 https://t.co/TFHBQDYmWL #MaxPlanck75 #MaxPlanckTag https://t.co/toqWyF4vG2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1669588128841998337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyuRX-EWwAEra3b.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 06:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Charles Babbage was the mathematician who  originated the concept of programmable computer. You might not know that half of his brain is preserved at the Hunterian Museum in London, the other half is on display in the Science Museum in London [read more: https://t.co/EHxElfQla5] https://t.co/WGmpOT4Jz3</title>
+      <link>https://twitter.com/Rainmaker1973/status/1669590629582532608</link>
+      <description>Charles Babbage was the mathematician who  originated the concept of programmable computer. You might not know that half of his brain is preserved at the Hunterian Museum in London, the other half is on display in the Science Museum in London [read more: https://t.co/EHxElfQla5] https://t.co/WGmpOT4Jz3</description>
+      <content:encoded>Charles Babbage was the mathematician who  originated the concept of programmable computer. You might not know that half of his brain is preserved at the Hunterian Museum in London, the other half is on display in the Science Museum in London [read more: https://t.co/EHxElfQla5] https://t.co/WGmpOT4Jz3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669590629582532608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyqPyMaWYAA9h8G.jpg" length="376" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 06:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
