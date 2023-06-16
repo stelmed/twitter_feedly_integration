@@ -6,139 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 17:13:47 +0000</lastBuildDate>
-    <item>
-      <title>RT @Mila_Quebec: In honour of Juneteenth, the Black at Mila collective invites you to their launch event tomorrow.
-
-If you haven’t already…</title>
-      <link>https://twitter.com/tyrell_turing/status/1669477921155694592</link>
-      <description>RT @Mila_Quebec: In honour of Juneteenth, the Black at Mila collective invites you to their launch event tomorrow.
-
-If you haven’t already…</description>
-      <content:encoded>RT @Mila_Quebec: In honour of Juneteenth, the Black at Mila collective invites you to their launch event tomorrow.
-
-If you haven’t already…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669477921155694592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 22:52:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>While some U.S. educators are wary of AI, some schools are bringing generative chatbots from @KhanAcademy into the classroom.
-
-Learn more in #TheBatch: https://t.co/V490H6oxD5</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1669479896530182144</link>
-      <description>While some U.S. educators are wary of AI, some schools are bringing generative chatbots from @KhanAcademy into the classroom.
-
-Learn more in #TheBatch: https://t.co/V490H6oxD5</description>
-      <content:encoded>While some U.S. educators are wary of AI, some schools are bringing generative chatbots from @KhanAcademy into the classroom.
-
-Learn more in #TheBatch: https://t.co/V490H6oxD5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1669479896530182144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 22:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>We're having a great time at #ISSCR2023! 
-
-If you are at @ISSCR 2023, don't miss our posters tomorrow! More at https://t.co/t7Js85nyPM https://t.co/APNrh4S77A</title>
-      <link>https://twitter.com/AllenInstitute/status/1669479965148995586</link>
-      <description>We're having a great time at #ISSCR2023! 
-
-If you are at @ISSCR 2023, don't miss our posters tomorrow! More at https://t.co/t7Js85nyPM https://t.co/APNrh4S77A</description>
-      <content:encoded>We're having a great time at #ISSCR2023! 
-
-If you are at @ISSCR 2023, don't miss our posters tomorrow! More at https://t.co/t7Js85nyPM https://t.co/APNrh4S77A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1669479965148995586"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FysvIDpXgAEidSx.jpg" length="900" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 23:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis of 24 types of human cancer provides new insights into patterns of gene-expression variability. This tumour heterogeneity might provide clues about cancer that has clinical relevance. https://t.co/XiyakBTRer</title>
-      <link>https://twitter.com/NatureNV/status/1669480118719328260</link>
-      <description>Analysis of 24 types of human cancer provides new insights into patterns of gene-expression variability. This tumour heterogeneity might provide clues about cancer that has clinical relevance. https://t.co/XiyakBTRer</description>
-      <content:encoded>Analysis of 24 types of human cancer provides new insights into patterns of gene-expression variability. This tumour heterogeneity might provide clues about cancer that has clinical relevance. https://t.co/XiyakBTRer&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1669480118719328260"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 23:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Might #AI drive humanity extinct? This will be a great debate with and Yoshua Bengio and me against  @ylecun and @MelMitchell1 Thu June 22: https://t.co/eCzjBMMugO https://t.co/Ahy442y3jk https://t.co/77kFmQsBQE</title>
-      <link>https://twitter.com/tegmark/status/1669480139510382592</link>
-      <description>Might #AI drive humanity extinct? This will be a great debate with and Yoshua Bengio and me against  @ylecun and @MelMitchell1 Thu June 22: https://t.co/eCzjBMMugO https://t.co/Ahy442y3jk https://t.co/77kFmQsBQE</description>
-      <content:encoded>Might #AI drive humanity extinct? This will be a great debate with and Yoshua Bengio and me against  @ylecun and @MelMitchell1 Thu June 22: https://t.co/eCzjBMMugO https://t.co/Ahy442y3jk https://t.co/77kFmQsBQE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1669480139510382592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1669478744992481286/pu/img/MIIL2aa5oO4J9VCS.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 23:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Selecting, testing, and optimizing your AAV variables is key to a successful AAV experiment. Not sure where to start? Check out our Viral Vectors 101: AAV Variables That Matter post! 
-
-https://t.co/XolOaQHfqQ</title>
-      <link>https://twitter.com/Addgene/status/1669482412995215360</link>
-      <description>Selecting, testing, and optimizing your AAV variables is key to a successful AAV experiment. Not sure where to start? Check out our Viral Vectors 101: AAV Variables That Matter post! 
-
-https://t.co/XolOaQHfqQ</description>
-      <content:encoded>Selecting, testing, and optimizing your AAV variables is key to a successful AAV experiment. Not sure where to start? Check out our Viral Vectors 101: AAV Variables That Matter post! 
-
-https://t.co/XolOaQHfqQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1669482412995215360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 23:09:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Between Bernstein's membrane theory in 1902, and Hodgkin/Huxley and Cole/Curtis in 1939 there appears to be a lack of important findings about the action potential. What am I missing? @david_colquhoun  #neuroscience</title>
-      <link>https://twitter.com/NeuroBill/status/1669488689859428352</link>
-      <description>Between Bernstein's membrane theory in 1902, and Hodgkin/Huxley and Cole/Curtis in 1939 there appears to be a lack of important findings about the action potential. What am I missing? @david_colquhoun  #neuroscience</description>
-      <content:encoded>Between Bernstein's membrane theory in 1902, and Hodgkin/Huxley and Cole/Curtis in 1939 there appears to be a lack of important findings about the action potential. What am I missing? @david_colquhoun  #neuroscience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1669488689859428352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 23:34:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>#ISSCR203 - TOMORROW, check out Gideon Dunster's poster on open tools and resources for quantitative image analysis of cellular organization. 
-
-📆 TOMORROW, June 16 at 10:15am Eastern
-📍 Poster 930, Hall A
-
-More info: https://t.co/t7Js85nyPM
-
-@ISSCR #ISSCR #OpenScience https://t.co/BTMhztwcy6</title>
-      <link>https://twitter.com/AllenInstitute/status/1669490491740631048</link>
-      <description>#ISSCR203 - TOMORROW, check out Gideon Dunster's poster on open tools and resources for quantitative image analysis of cellular organization. 
-
-📆 TOMORROW, June 16 at 10:15am Eastern
-📍 Poster 930, Hall A
-
-More info: https://t.co/t7Js85nyPM
-
-@ISSCR #ISSCR #OpenScience https://t.co/BTMhztwcy6</description>
-      <content:encoded>#ISSCR203 - TOMORROW, check out Gideon Dunster's poster on open tools and resources for quantitative image analysis of cellular organization. 
-
-📆 TOMORROW, June 16 at 10:15am Eastern
-📍 Poster 930, Hall A
-
-More info: https://t.co/t7Js85nyPM
-
-@ISSCR #ISSCR #OpenScience https://t.co/BTMhztwcy6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1669490491740631048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fys4vOWWwAAjlIl.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 23:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The generative art NFT market is very much alive. https://t.co/YNQGTWt5w9</title>
-      <link>https://twitter.com/AndrewHires/status/1669492343450517507</link>
-      <description>The generative art NFT market is very much alive. https://t.co/YNQGTWt5w9</description>
-      <content:encoded>The generative art NFT market is very much alive. https://t.co/YNQGTWt5w9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1669492343450517507"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 23:49:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @liebscher_lab: Happy to share our latest publication. We identified hyperexcitable cerebellar molecular layer interneurons as a key dri…</title>
-      <link>https://twitter.com/NeuroCellPress/status/1669494139853963271</link>
-      <description>RT @liebscher_lab: Happy to share our latest publication. We identified hyperexcitable cerebellar molecular layer interneurons as a key dri…</description>
-      <content:encoded>RT @liebscher_lab: Happy to share our latest publication. We identified hyperexcitable cerebellar molecular layer interneurons as a key dri…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1669494139853963271"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 23:56:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @USBrainAlliance: Researchers, led by the @AllenInstitute and funded in part by the BRAIN Initiative, have built the world’s first ExA-S…</title>
-      <link>https://twitter.com/AllenInstitute/status/1669495001892651008</link>
-      <description>RT @USBrainAlliance: Researchers, led by the @AllenInstitute and funded in part by the BRAIN Initiative, have built the world’s first ExA-S…</description>
-      <content:encoded>RT @USBrainAlliance: Researchers, led by the @AllenInstitute and funded in part by the BRAIN Initiative, have built the world’s first ExA-S…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1669495001892651008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: The hemodynamic initial-dip consists of both volumetric and oxymetric changes reflecting localized spiking activity: The initial-dip is a transient decrease frequently observed in functional neuroimaging signals, immediately… #Neuroscience https://t.co/TSqbhWF6DG</title>
-      <link>https://twitter.com/FrontNeurosci/status/1669495143458832385</link>
-      <description>New Research: The hemodynamic initial-dip consists of both volumetric and oxymetric changes reflecting localized spiking activity: The initial-dip is a transient decrease frequently observed in functional neuroimaging signals, immediately… #Neuroscience https://t.co/TSqbhWF6DG</description>
-      <content:encoded>New Research: The hemodynamic initial-dip consists of both volumetric and oxymetric changes reflecting localized spiking activity: The initial-dip is a transient decrease frequently observed in functional neuroimaging signals, immediately… #Neuroscience https://t.co/TSqbhWF6DG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1669495143458832385"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 00:00:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jun 2023 18:19:33 +0000</lastBuildDate>
     <item>
       <title>@KordingLab @natanielruizg 😯</title>
       <link>https://twitter.com/PessoaBrain/status/1669495457763008512</link>
@@ -2381,6 +2249,134 @@ https://t.co/BIkGL00y1Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>Who should be President in 2032?</description>
       <content:encoded>Who should be President in 2032?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1669753411623956501"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 16 Jun 2023 17:06:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research Highlight by @madhuramukho: Dandelion developed by the teams of @teichlab, @clatworthylab and @kelvintuong is a computational framework for paired analysis of scRNAseq and scVDJseq data.
+
+Paper: https://t.co/Pj4iuw5cx7
+
+Highlight: https://t.co/LfHYyI4JAM</title>
+      <link>https://twitter.com/naturemethods/status/1669756220633419778</link>
+      <description>Research Highlight by @madhuramukho: Dandelion developed by the teams of @teichlab, @clatworthylab and @kelvintuong is a computational framework for paired analysis of scRNAseq and scVDJseq data.
+
+Paper: https://t.co/Pj4iuw5cx7
+
+Highlight: https://t.co/LfHYyI4JAM</description>
+      <content:encoded>Research Highlight by @madhuramukho: Dandelion developed by the teams of @teichlab, @clatworthylab and @kelvintuong is a computational framework for paired analysis of scRNAseq and scVDJseq data.
+
+Paper: https://t.co/Pj4iuw5cx7
+
+Highlight: https://t.co/LfHYyI4JAM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1669756220633419778"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 17:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mikhailshapiro: Can we image and decode brain activity with ultrasound noninvasively in adult humans? Yes, by installing a permanent cu…</title>
+      <link>https://twitter.com/ewadorotaz/status/1669757992177217550</link>
+      <description>RT @mikhailshapiro: Can we image and decode brain activity with ultrasound noninvasively in adult humans? Yes, by installing a permanent cu…</description>
+      <content:encoded>RT @mikhailshapiro: Can we image and decode brain activity with ultrasound noninvasively in adult humans? Yes, by installing a permanent cu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1669757992177217550"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 17:25:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Science is all about asking questions + finding answers 🤔
+
+@ssimoncelli’s new microscope will help answer big questions about the proteins in our cells, including how they move &amp;amp; organize https://t.co/ae6JWEt3R4</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1669759290901495830</link>
+      <description>Science is all about asking questions + finding answers 🤔
+
+@ssimoncelli’s new microscope will help answer big questions about the proteins in our cells, including how they move &amp;amp; organize https://t.co/ae6JWEt3R4</description>
+      <content:encoded>Science is all about asking questions + finding answers 🤔
+
+@ssimoncelli’s new microscope will help answer big questions about the proteins in our cells, including how they move &amp;amp; organize https://t.co/ae6JWEt3R4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1669759290901495830"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FywtOhNXgBMtwra.jpg" length="768" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 17:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @natrevbioeng outlines how co-culture approaches commonly used in biomedical tissue engineering can be applied to produce cultured meat. 🔒 https://t.co/raAm2xoGX8 https://t.co/Hw9lSBeRBi</title>
+      <link>https://twitter.com/NaturePortfolio/status/1669761023547506708</link>
+      <description>A Review in @natrevbioeng outlines how co-culture approaches commonly used in biomedical tissue engineering can be applied to produce cultured meat. 🔒 https://t.co/raAm2xoGX8 https://t.co/Hw9lSBeRBi</description>
+      <content:encoded>A Review in @natrevbioeng outlines how co-culture approaches commonly used in biomedical tissue engineering can be applied to produce cultured meat. 🔒 https://t.co/raAm2xoGX8 https://t.co/Hw9lSBeRBi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1669761023547506708"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FywuyPsWIAAyKsD.jpg" length="1066" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 17:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Last week, the neuroscience community at #Yale celebrated summer! Thank you to the Arnsten lab for hosting and bringing so much fun to this networking hour! https://t.co/uErFs3VFCf</title>
+      <link>https://twitter.com/KavliAtYale/status/1669761438557036545</link>
+      <description>Last week, the neuroscience community at #Yale celebrated summer! Thank you to the Arnsten lab for hosting and bringing so much fun to this networking hour! https://t.co/uErFs3VFCf</description>
+      <content:encoded>Last week, the neuroscience community at #Yale celebrated summer! Thank you to the Arnsten lab for hosting and bringing so much fun to this networking hour! https://t.co/uErFs3VFCf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KavliAtYale/status/1669761438557036545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fywup5-XgAA8ops.jpg" length="927" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 17:38:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @alxecker: ML and comp neuro folks, join the second edition of our popular challenge on predictive modeling of mouse V1, this year with…</title>
+      <link>https://twitter.com/CellTypist/status/1669763808779272193</link>
+      <description>RT @alxecker: ML and comp neuro folks, join the second edition of our popular challenge on predictive modeling of mouse V1, this year with…</description>
+      <content:encoded>RT @alxecker: ML and comp neuro folks, join the second edition of our popular challenge on predictive modeling of mouse V1, this year with…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1669763808779272193"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 17:48:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>This animation by Michael Biebl shows how counter intuitive approaching a black hole may look like due to the strong gravitational lensing 
+
+[source, read more: https://t.co/9po3AuK6e2]
+https://t.co/FaCOecylri</title>
+      <link>https://twitter.com/Rainmaker1973/status/1669763999028707337</link>
+      <description>This animation by Michael Biebl shows how counter intuitive approaching a black hole may look like due to the strong gravitational lensing 
+
+[source, read more: https://t.co/9po3AuK6e2]
+https://t.co/FaCOecylri</description>
+      <content:encoded>This animation by Michael Biebl shows how counter intuitive approaching a black hole may look like due to the strong gravitational lensing 
+
+[source, read more: https://t.co/9po3AuK6e2]
+https://t.co/FaCOecylri&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669763999028707337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1124981655037403136/pu/img/BjVKtGC4HcsW9hiN.jpg" length="480" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 17:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DannyBeales: With less than 5 weeks until polling day, I need your support to turn Uxbridge and South Ruislip red. 🌹
+
+Come and join me…</title>
+      <link>https://twitter.com/chrisdc77/status/1669764323755933698</link>
+      <description>RT @DannyBeales: With less than 5 weeks until polling day, I need your support to turn Uxbridge and South Ruislip red. 🌹
+
+Come and join me…</description>
+      <content:encoded>RT @DannyBeales: With less than 5 weeks until polling day, I need your support to turn Uxbridge and South Ruislip red. 🌹
+
+Come and join me…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1669764323755933698"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 17:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DraisyMorris: Why Experts Can’t Understand Or Predict AI Behaviors, My latest via @forbes https://t.co/QCtVeK3i04</title>
+      <link>https://twitter.com/tyrell_turing/status/1669765069691912203</link>
+      <description>RT @DraisyMorris: Why Experts Can’t Understand Or Predict AI Behaviors, My latest via @forbes https://t.co/QCtVeK3i04</description>
+      <content:encoded>RT @DraisyMorris: Why Experts Can’t Understand Or Predict AI Behaviors, My latest via @forbes https://t.co/QCtVeK3i04&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669765069691912203"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 17:53:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @C_M_Hobson: It has been a wonderful 2 weeks with @NalanLiv and @JA_Beek visiting us at the @AICjanelia! Tons of fun imaging cells in 3D…</title>
+      <link>https://twitter.com/HHMIJanelia/status/1669766793173299202</link>
+      <description>RT @C_M_Hobson: It has been a wonderful 2 weeks with @NalanLiv and @JA_Beek visiting us at the @AICjanelia! Tons of fun imaging cells in 3D…</description>
+      <content:encoded>RT @C_M_Hobson: It has been a wonderful 2 weeks with @NalanLiv and @JA_Beek visiting us at the @AICjanelia! Tons of fun imaging cells in 3D…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1669766793173299202"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>.@Nvidia, @Blizzard_Ent, and @Ubisoft are all building tools to incorporate generative characters, background art, and more into video games.
+
+Learn more in #TheBatch: https://t.co/MzBqmkK7Zh</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1669766794461020181</link>
+      <description>.@Nvidia, @Blizzard_Ent, and @Ubisoft are all building tools to incorporate generative characters, background art, and more into video games.
+
+Learn more in #TheBatch: https://t.co/MzBqmkK7Zh</description>
+      <content:encoded>.@Nvidia, @Blizzard_Ent, and @Ubisoft are all building tools to incorporate generative characters, background art, and more into video games.
+
+Learn more in #TheBatch: https://t.co/MzBqmkK7Zh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1669766794461020181"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 18:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maps of brain activity from 10 mind-altering drugs offer a “roadmap” to identify potential future treatments for these disorders, a new @ScienceAdvances study suggests. https://t.co/7HQmD1eGwh https://t.co/Wvk4IGPKoA</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669766859913134087</link>
+      <description>Maps of brain activity from 10 mind-altering drugs offer a “roadmap” to identify potential future treatments for these disorders, a new @ScienceAdvances study suggests. https://t.co/7HQmD1eGwh https://t.co/Wvk4IGPKoA</description>
+      <content:encoded>Maps of brain activity from 10 mind-altering drugs offer a “roadmap” to identify potential future treatments for these disorders, a new @ScienceAdvances study suggests. https://t.co/7HQmD1eGwh https://t.co/Wvk4IGPKoA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669766859913134087"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fyw0G-WWwAE6bqP.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 18:00:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
