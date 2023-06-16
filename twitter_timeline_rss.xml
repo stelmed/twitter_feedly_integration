@@ -6,7 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 04:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2023 05:15:07 +0000</lastBuildDate>
     <item>
       <title>1️⃣ AlphaDev, a specialised version of AlphaZero, discovered faster sorting and hashing algorithms – two processes used to sort, store and retrieve data.
 
@@ -1755,16 +1755,6 @@ More info: https://t.co/t7Js85nyPM
       <pubDate>Thu, 15 Jun 2023 20:11:54 +0000</pubDate>
     </item>
     <item>
-      <title>RT @GroupAldridge: The lightest metal-metal bond!
-Joe’s paper on the synthesis &amp;amp; reactivity of diberyllocene, CpBeBeCp, an unambiguous Be(I…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1669437923018657816</link>
-      <description>RT @GroupAldridge: The lightest metal-metal bond!
-Joe’s paper on the synthesis &amp;amp; reactivity of diberyllocene, CpBeBeCp, an unambiguous Be(I…</description>
-      <content:encoded>RT @GroupAldridge: The lightest metal-metal bond!
-Joe’s paper on the synthesis &amp;amp; reactivity of diberyllocene, CpBeBeCp, an unambiguous Be(I…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669437923018657816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 20:13:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Universal Dynamic Fitting of Magnetic Resonance Spectroscopy  https://t.co/8fDovmaVrs #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1669438528688717824</link>
       <description>Universal Dynamic Fitting of Magnetic Resonance Spectroscopy  https://t.co/8fDovmaVrs #biorxiv_neursci</description>
@@ -2241,6 +2231,14 @@ Subscribe: https://t.co/N8Tmv18b9w https://t.co/CGauesx4qb&lt;blockquote class="
       <content:encoded>Amphitheatrum Flavium https://t.co/vFPDgt0Gf8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1669554920628920320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FytzWTNXoAIdXhE.jpg" length="680" type="photo"/>
       <pubDate>Fri, 16 Jun 2023 03:58:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/RSvDpOGQFH https://t.co/uocaNvTRlw</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669562973382123521</link>
+      <description>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/RSvDpOGQFH https://t.co/uocaNvTRlw</description>
+      <content:encoded>A lack of credibility in climate policy leaves the world at high risk for missing global #climate targets, argues a new #SciencePolicyForum. https://t.co/RSvDpOGQFH https://t.co/uocaNvTRlw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669562973382123521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fyt6rOtX0AEY2fk.jpg" length="750" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 04:30:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
