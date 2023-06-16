@@ -6,260 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 14:14:20 +0000</lastBuildDate>
-    <item>
-      <title>That was a fun discussion. Very meta https://t.co/S67WHOmrPv</title>
-      <link>https://twitter.com/KordingLab/status/1669402045273739264</link>
-      <description>That was a fun discussion. Very meta https://t.co/S67WHOmrPv</description>
-      <content:encoded>That was a fun discussion. Very meta https://t.co/S67WHOmrPv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1669402045273739264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 17:50:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Immerse yourself in the cutting-edge world of diffusion-based generative AI with our new course, and:
- 
-🎯Train diffusion models
-🎯Build neural networks for noise prediction
-🎯Personalize image generation through contextual understanding
-
-Join for free: https://t.co/JOHV5QLnIj</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1669404403885850626</link>
-      <description>Immerse yourself in the cutting-edge world of diffusion-based generative AI with our new course, and:
- 
-🎯Train diffusion models
-🎯Build neural networks for noise prediction
-🎯Personalize image generation through contextual understanding
-
-Join for free: https://t.co/JOHV5QLnIj</description>
-      <content:encoded>Immerse yourself in the cutting-edge world of diffusion-based generative AI with our new course, and:
- 
-🎯Train diffusion models
-🎯Build neural networks for noise prediction
-🎯Personalize image generation through contextual understanding
-
-Join for free: https://t.co/JOHV5QLnIj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1669404403885850626"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q: How do vaccines change your immune system?
-
-A: They teach your body to recognize illnesses, so you are prepared to fight.
-🔴 Trained T-Cells that recognize specific illnesses
-⚫ Battle-ready T-cells that can fight many illnesses
-
-📸 @chevaliersf, @KrisLaukens + Benson Ogunjimi https://t.co/DIpSy2ONvr</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1669404448349736960</link>
-      <description>Q: How do vaccines change your immune system?
-
-A: They teach your body to recognize illnesses, so you are prepared to fight.
-🔴 Trained T-Cells that recognize specific illnesses
-⚫ Battle-ready T-cells that can fight many illnesses
-
-📸 @chevaliersf, @KrisLaukens + Benson Ogunjimi https://t.co/DIpSy2ONvr</description>
-      <content:encoded>Q: How do vaccines change your immune system?
-
-A: They teach your body to recognize illnesses, so you are prepared to fight.
-🔴 Trained T-Cells that recognize specific illnesses
-⚫ Battle-ready T-cells that can fight many illnesses
-
-📸 @chevaliersf, @KrisLaukens + Benson Ogunjimi https://t.co/DIpSy2ONvr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1669404448349736960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fyrqf21WYAAxAXk.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 18:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>With the help of citizen scientists, astronomers discovered what may be the last three planets that the Kepler Space Telescope saw before it was retired. https://t.co/BWMmfnKj3z https://t.co/ABXyQ9iGEt</title>
-      <link>https://twitter.com/MIT/status/1669405398401466388</link>
-      <description>With the help of citizen scientists, astronomers discovered what may be the last three planets that the Kepler Space Telescope saw before it was retired. https://t.co/BWMmfnKj3z https://t.co/ABXyQ9iGEt</description>
-      <content:encoded>With the help of citizen scientists, astronomers discovered what may be the last three planets that the Kepler Space Telescope saw before it was retired. https://t.co/BWMmfnKj3z https://t.co/ABXyQ9iGEt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1669405398401466388"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyrrXNIWcAABRAP.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 18:03:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>The widespread deployment of outdoor electric lighting means that the night is no longer dark for most people. 
-
-A new special issue of Science examines the effects of #LightPollution on the natural world, human health, and the night sky. https://t.co/nVNIAdtOYT https://t.co/0WrbGoxo6f</title>
-      <link>https://twitter.com/ScienceMagazine/status/1669405706099863554</link>
-      <description>The widespread deployment of outdoor electric lighting means that the night is no longer dark for most people. 
-
-A new special issue of Science examines the effects of #LightPollution on the natural world, human health, and the night sky. https://t.co/nVNIAdtOYT https://t.co/0WrbGoxo6f</description>
-      <content:encoded>The widespread deployment of outdoor electric lighting means that the night is no longer dark for most people. 
-
-A new special issue of Science examines the effects of #LightPollution on the natural world, human health, and the night sky. https://t.co/nVNIAdtOYT https://t.co/0WrbGoxo6f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669405706099863554"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyrrpDjWwAEtM3t.jpg" length="943" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 18:05:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krause corpuscles of the genitalia are vibrotactile sensors required for normal sexual behavior  https://t.co/jzjOEQjmhC #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1669408288553721856</link>
-      <description>Krause corpuscles of the genitalia are vibrotactile sensors required for normal sexual behavior  https://t.co/jzjOEQjmhC #biorxiv_neursci</description>
-      <content:encoded>Krause corpuscles of the genitalia are vibrotactile sensors required for normal sexual behavior  https://t.co/jzjOEQjmhC #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1669408288553721856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 18:15:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ginty lab on Krause corpuscles! https://t.co/CT6utZn1xv https://t.co/nAiVBysJGh</title>
-      <link>https://twitter.com/andpru/status/1669408914364874779</link>
-      <description>Ginty lab on Krause corpuscles! https://t.co/CT6utZn1xv https://t.co/nAiVBysJGh</description>
-      <content:encoded>Ginty lab on Krause corpuscles! https://t.co/CT6utZn1xv https://t.co/nAiVBysJGh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1669408914364874779"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyrugtJWwBsQj3a.png" length="1200" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 18:17:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Speakers wanted to participate in INCF Neuroinformatics Assembly 2023's investigator-led talks!
-
-🧠A FAIR roadmap for knowledge &amp;amp; ontologies
-🧠"Is this FAIR?": Transparency in EDI &amp;amp; career development &amp;amp; management
-
-More info: https://t.co/x8uwUtRye8
-Apply: https://t.co/XD7BUmgo1H https://t.co/oH7odCExL7</title>
-      <link>https://twitter.com/INCForg/status/1669408932224458757</link>
-      <description>Speakers wanted to participate in INCF Neuroinformatics Assembly 2023's investigator-led talks!
-
-🧠A FAIR roadmap for knowledge &amp;amp; ontologies
-🧠"Is this FAIR?": Transparency in EDI &amp;amp; career development &amp;amp; management
-
-More info: https://t.co/x8uwUtRye8
-Apply: https://t.co/XD7BUmgo1H https://t.co/oH7odCExL7</description>
-      <content:encoded>Speakers wanted to participate in INCF Neuroinformatics Assembly 2023's investigator-led talks!
-
-🧠A FAIR roadmap for knowledge &amp;amp; ontologies
-🧠"Is this FAIR?": Transparency in EDI &amp;amp; career development &amp;amp; management
-
-More info: https://t.co/x8uwUtRye8
-Apply: https://t.co/XD7BUmgo1H https://t.co/oH7odCExL7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1669408932224458757"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyqNEbMXgAAc9r1.png" length="889" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 18:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ipiproteins: Working toward #openscience, “we’d like to share as much info as possible about our antibodies,” Rob Meijers @IPIProteins…</title>
-      <link>https://twitter.com/Addgene/status/1669410949579587773</link>
-      <description>RT @ipiproteins: Working toward #openscience, “we’d like to share as much info as possible about our antibodies,” Rob Meijers @IPIProteins…</description>
-      <content:encoded>RT @ipiproteins: Working toward #openscience, “we’d like to share as much info as possible about our antibodies,” Rob Meijers @IPIProteins…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1669410949579587773"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 18:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ipiproteins: @Addgene The commercial &amp;amp; technical side of antibodies is super complicated. So also key is #biorepositories with technica…</title>
-      <link>https://twitter.com/Addgene/status/1669411084866863104</link>
-      <description>RT @ipiproteins: @Addgene The commercial &amp;amp; technical side of antibodies is super complicated. So also key is #biorepositories with technica…</description>
-      <content:encoded>RT @ipiproteins: @Addgene The commercial &amp;amp; technical side of antibodies is super complicated. So also key is #biorepositories with technica…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1669411084866863104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 18:26:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Huge LEGO Roller Coaster with 20,000 Pieces by Matt Chiles
-
-[read more: https://t.co/3UvQe7ihRW]
-[video: https://t.co/LaL7en3SkP]
-https://t.co/WCRKIaej2H</title>
-      <link>https://twitter.com/Rainmaker1973/status/1669411667413811200</link>
-      <description>Huge LEGO Roller Coaster with 20,000 Pieces by Matt Chiles
-
-[read more: https://t.co/3UvQe7ihRW]
-[video: https://t.co/LaL7en3SkP]
-https://t.co/WCRKIaej2H</description>
-      <content:encoded>Huge LEGO Roller Coaster with 20,000 Pieces by Matt Chiles
-
-[read more: https://t.co/3UvQe7ihRW]
-[video: https://t.co/LaL7en3SkP]
-https://t.co/WCRKIaej2H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669411667413811200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1668466807441637376/pu/img/AyaqF-H-S_di3ILb.jpg" length="675" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 18:28:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @lioneltca: Happy mouse under @LavivTal 's new microscope! Happy clients and happy mice for 2P imaging make us happy @INSS_UK! Thanks a…</title>
-      <link>https://twitter.com/INSS_UK/status/1669413050221248523</link>
-      <description>RT @lioneltca: Happy mouse under @LavivTal 's new microscope! Happy clients and happy mice for 2P imaging make us happy @INSS_UK! Thanks a…</description>
-      <content:encoded>RT @lioneltca: Happy mouse under @LavivTal 's new microscope! Happy clients and happy mice for 2P imaging make us happy @INSS_UK! Thanks a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INSS_UK/status/1669413050221248523"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 18:34:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>New York Times reporter Natasha Singer spotlights the Day of AI, an MIT RAISE program aimed at teaching K-12 students about AI. https://t.co/izU09yMG7c</title>
-      <link>https://twitter.com/MIT/status/1669414278359597073</link>
-      <description>New York Times reporter Natasha Singer spotlights the Day of AI, an MIT RAISE program aimed at teaching K-12 students about AI. https://t.co/izU09yMG7c</description>
-      <content:encoded>New York Times reporter Natasha Singer spotlights the Day of AI, an MIT RAISE program aimed at teaching K-12 students about AI. https://t.co/izU09yMG7c&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1669414278359597073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 18:39:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The potential of seaweed farming to help capture sufficient carbon may not be feasible given the large ocean areas needed to remove between 2.5 and 13 gigatonnes of atmospheric carbon per year to meet climate goals, according to a study in @CommsEarth. https://t.co/mjX6KdmbD9 https://t.co/2kqd0nbFXu</title>
-      <link>https://twitter.com/NaturePortfolio/status/1669414742002155538</link>
-      <description>The potential of seaweed farming to help capture sufficient carbon may not be feasible given the large ocean areas needed to remove between 2.5 and 13 gigatonnes of atmospheric carbon per year to meet climate goals, according to a study in @CommsEarth. https://t.co/mjX6KdmbD9 https://t.co/2kqd0nbFXu</description>
-      <content:encoded>The potential of seaweed farming to help capture sufficient carbon may not be feasible given the large ocean areas needed to remove between 2.5 and 13 gigatonnes of atmospheric carbon per year to meet climate goals, according to a study in @CommsEarth. https://t.co/mjX6KdmbD9 https://t.co/2kqd0nbFXu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1669414742002155538"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fyrz2A7WwAAR2Lc.jpg" length="1066" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recent studies by the @CDCgov estimate that around 1 in 5 adults who contracted #COVID are now living with #longCOVID. Patients share their grueling diagnostic journeys and what efforts like @fredhutch's Seattle COVID Cohort Study means to them. https://t.co/9Sr95FU3HE</title>
-      <link>https://twitter.com/AllenInstitute/status/1669414750898274322</link>
-      <description>Recent studies by the @CDCgov estimate that around 1 in 5 adults who contracted #COVID are now living with #longCOVID. Patients share their grueling diagnostic journeys and what efforts like @fredhutch's Seattle COVID Cohort Study means to them. https://t.co/9Sr95FU3HE</description>
-      <content:encoded>Recent studies by the @CDCgov estimate that around 1 in 5 adults who contracted #COVID are now living with #longCOVID. Patients share their grueling diagnostic journeys and what efforts like @fredhutch's Seattle COVID Cohort Study means to them. https://t.co/9Sr95FU3HE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1669414750898274322"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 18:41:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>As someone rotating off the SfN Program Committee, David's experience is tough to read. https://t.co/Ww5XGI9rz5</title>
-      <link>https://twitter.com/andpru/status/1669415059871678474</link>
-      <description>As someone rotating off the SfN Program Committee, David's experience is tough to read. https://t.co/Ww5XGI9rz5</description>
-      <content:encoded>As someone rotating off the SfN Program Committee, David's experience is tough to read. https://t.co/Ww5XGI9rz5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1669415059871678474"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 18:42:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>"The end of the rainbow"
-
-A rainbow is not an object and cannot be physically approached. 
-
-Even if observer 1 sees observer 2 who seems "at the end of" a rainbow, observer 2 will see a different rainbow-farther off
-
-[read more: https://t.co/4MON18HdRj]
-https://t.co/Aw6RHO9kiY</title>
-      <link>https://twitter.com/Rainmaker1973/status/1669415181124812802</link>
-      <description>"The end of the rainbow"
-
-A rainbow is not an object and cannot be physically approached. 
-
-Even if observer 1 sees observer 2 who seems "at the end of" a rainbow, observer 2 will see a different rainbow-farther off
-
-[read more: https://t.co/4MON18HdRj]
-https://t.co/Aw6RHO9kiY</description>
-      <content:encoded>"The end of the rainbow"
-
-A rainbow is not an object and cannot be physically approached. 
-
-Even if observer 1 sees observer 2 who seems "at the end of" a rainbow, observer 2 will see a different rainbow-farther off
-
-[read more: https://t.co/4MON18HdRj]
-https://t.co/Aw6RHO9kiY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669415181124812802"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1643598958734737410/pu/img/tXlFNHDPB8yXDmn5.jpg" length="546" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 18:42:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NikoMcCarty: ATP synthase spins 130 times/s.
-
-That's 4x faster than a piston airplane's propeller.
-
-How do we know this? A beautiful ex…</title>
-      <link>https://twitter.com/Addgene/status/1669416929151336448</link>
-      <description>RT @NikoMcCarty: ATP synthase spins 130 times/s.
-
-That's 4x faster than a piston airplane's propeller.
-
-How do we know this? A beautiful ex…</description>
-      <content:encoded>RT @NikoMcCarty: ATP synthase spins 130 times/s.
-
-That's 4x faster than a piston airplane's propeller.
-
-How do we know this? A beautiful ex…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1669416929151336448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 15 Jun 2023 18:49:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Integrated Mitotic Stem Cell provides an #openscience data driven model and visualization tool that captures a highly detailed and holistic view of #mitosis. https://t.co/QTQxdnuwz0
-
-#ISSCR2023 @ISSCR https://t.co/f5PWO1giiT</title>
-      <link>https://twitter.com/AllenInstitute/status/1669417236828946432</link>
-      <description>The Integrated Mitotic Stem Cell provides an #openscience data driven model and visualization tool that captures a highly detailed and holistic view of #mitosis. https://t.co/QTQxdnuwz0
-
-#ISSCR2023 @ISSCR https://t.co/f5PWO1giiT</description>
-      <content:encoded>The Integrated Mitotic Stem Cell provides an #openscience data driven model and visualization tool that captures a highly detailed and holistic view of #mitosis. https://t.co/QTQxdnuwz0
-
-#ISSCR2023 @ISSCR https://t.co/f5PWO1giiT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1669417236828946432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/D8TylPJUYAEeBBq.jpg" length="540" type="photo"/>
-      <pubDate>Thu, 15 Jun 2023 18:51:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jun 2023 15:16:12 +0000</lastBuildDate>
     <item>
       <title>RT @LCneuroscience: Is there anything that norepinephrine isn't good for? https://t.co/AHv80wMLZe</title>
       <link>https://twitter.com/Addgene/status/1669418154378838038</link>
@@ -487,6 +234,16 @@ More info: https://t.co/t7Js85nyPM
       <description>RT @JakeYeston: In @ScienceMagazine this week @JosefBoronski and co-workers in @GroupAldridge unveil a crystalline compound with a Be-Be bo…</description>
       <content:encoded>RT @JakeYeston: In @ScienceMagazine this week @JosefBoronski and co-workers in @GroupAldridge unveil a crystalline compound with a Be-Be bo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669437595670007815"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 15 Jun 2023 20:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @GroupAldridge: The lightest metal-metal bond!
+Joe’s paper on the synthesis &amp;amp; reactivity of diberyllocene, CpBeBeCp, an unambiguous Be(I…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669437923018657816</link>
+      <description>RT @GroupAldridge: The lightest metal-metal bond!
+Joe’s paper on the synthesis &amp;amp; reactivity of diberyllocene, CpBeBeCp, an unambiguous Be(I…</description>
+      <content:encoded>RT @GroupAldridge: The lightest metal-metal bond!
+Joe’s paper on the synthesis &amp;amp; reactivity of diberyllocene, CpBeBeCp, an unambiguous Be(I…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669437923018657816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 15 Jun 2023 20:13:12 +0000</pubDate>
     </item>
     <item>
       <title>Universal Dynamic Fitting of Magnetic Resonance Spectroscopy  https://t.co/8fDovmaVrs #biorxiv_neursci</title>
@@ -2421,6 +2178,226 @@ PURPOSE: Anti-TrpV3 (Rat) recombinant mouse monoclonal antibody
 https://t.co/AUlJp577Xl https://t.co/TNPl7xsLgA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1669708668256780288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/tweet_video_thumb/Fyv_LX_WYAEPz17.jpg" length="480" type="photo"/>
       <pubDate>Fri, 16 Jun 2023 14:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @HorizonMagEU: EU-funded research into the moon cycle’s influence on marine life has led to interesting findings regarding humans’ #Biol…</title>
+      <link>https://twitter.com/ERC_Research/status/1669710713047195649</link>
+      <description>RT @HorizonMagEU: EU-funded research into the moon cycle’s influence on marine life has led to interesting findings regarding humans’ #Biol…</description>
+      <content:encoded>RT @HorizonMagEU: EU-funded research into the moon cycle’s influence on marine life has led to interesting findings regarding humans’ #Biol…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1669710713047195649"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 14:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazilian frogs which have evolved to be very tiny, have inner ear canals too small to help them balance well: this is why they are clumsy jumpers
+
+[full paper: https://t.co/ECitkxgLu4]
+https://t.co/GibKrCnUPb</title>
+      <link>https://twitter.com/Rainmaker1973/status/1669711878564478976</link>
+      <description>Brazilian frogs which have evolved to be very tiny, have inner ear canals too small to help them balance well: this is why they are clumsy jumpers
+
+[full paper: https://t.co/ECitkxgLu4]
+https://t.co/GibKrCnUPb</description>
+      <content:encoded>Brazilian frogs which have evolved to be very tiny, have inner ear canals too small to help them balance well: this is why they are clumsy jumpers
+
+[full paper: https://t.co/ECitkxgLu4]
+https://t.co/GibKrCnUPb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669711878564478976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1610893875714965504/pu/img/mKcNPQ4X_MrI8MBb.jpg" length="506" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 14:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>A @NatureComms paper presents a single dose contraceptive injection for female domestic cats. The gene therapy injection could provide a strategy for population control that is less invasive than the current standard of surgical sterilization. https://t.co/EBD89bjmhq https://t.co/M3U9vZ6RGE</title>
+      <link>https://twitter.com/NaturePortfolio/status/1669712705362468865</link>
+      <description>A @NatureComms paper presents a single dose contraceptive injection for female domestic cats. The gene therapy injection could provide a strategy for population control that is less invasive than the current standard of surgical sterilization. https://t.co/EBD89bjmhq https://t.co/M3U9vZ6RGE</description>
+      <content:encoded>A @NatureComms paper presents a single dose contraceptive injection for female domestic cats. The gene therapy injection could provide a strategy for population control that is less invasive than the current standard of surgical sterilization. https://t.co/EBD89bjmhq https://t.co/M3U9vZ6RGE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1669712705362468865"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FywC1wWWIAIbEAA.jpg" length="1066" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speakers wanted to participate in INCF Neuroinformatics Assembly 2023's investigator-led talks!
+
+🧠A FAIR roadmap for knowledge &amp;amp; ontologies
+🧠"Is this FAIR?": Transparency in EDI &amp;amp; career development &amp;amp; management
+
+More info: https://t.co/x8uwUtRye8
+Apply: https://t.co/XD7BUmgo1H https://t.co/OwiVD3DXZk</title>
+      <link>https://twitter.com/INCForg/status/1669714697128656897</link>
+      <description>Speakers wanted to participate in INCF Neuroinformatics Assembly 2023's investigator-led talks!
+
+🧠A FAIR roadmap for knowledge &amp;amp; ontologies
+🧠"Is this FAIR?": Transparency in EDI &amp;amp; career development &amp;amp; management
+
+More info: https://t.co/x8uwUtRye8
+Apply: https://t.co/XD7BUmgo1H https://t.co/OwiVD3DXZk</description>
+      <content:encoded>Speakers wanted to participate in INCF Neuroinformatics Assembly 2023's investigator-led talks!
+
+🧠A FAIR roadmap for knowledge &amp;amp; ontologies
+🧠"Is this FAIR?": Transparency in EDI &amp;amp; career development &amp;amp; management
+
+More info: https://t.co/x8uwUtRye8
+Apply: https://t.co/XD7BUmgo1H https://t.co/OwiVD3DXZk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1669714697128656897"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyqNnLxXsAAsgF7.png" length="889" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 14:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>System 002/C is now deployed at its full size of 1758 meters (5767 feet) or…
+
+🚢 6.5x Titanic ships
+🚌147x London double-decker busses
+🤸 739x Cartwheels
+‍🦙 577x Llama spit distances
+🥖 2705x French baguettes
+🌉 0.64x Golden Gate Bridge
+🍌 9252x Average-sized bananas https://t.co/DM0J1kBNgI</title>
+      <link>https://twitter.com/TheOceanCleanup/status/1669714975428956160</link>
+      <description>System 002/C is now deployed at its full size of 1758 meters (5767 feet) or…
+
+🚢 6.5x Titanic ships
+🚌147x London double-decker busses
+🤸 739x Cartwheels
+‍🦙 577x Llama spit distances
+🥖 2705x French baguettes
+🌉 0.64x Golden Gate Bridge
+🍌 9252x Average-sized bananas https://t.co/DM0J1kBNgI</description>
+      <content:encoded>System 002/C is now deployed at its full size of 1758 meters (5767 feet) or…
+
+🚢 6.5x Titanic ships
+🚌147x London double-decker busses
+🤸 739x Cartwheels
+‍🦙 577x Llama spit distances
+🥖 2705x French baguettes
+🌉 0.64x Golden Gate Bridge
+🍌 9252x Average-sized bananas https://t.co/DM0J1kBNgI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheOceanCleanup/status/1669714975428956160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FywE06vWIAAVTVt.jpg" length="800" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 14:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MollyHammell: 💛🌽Happy Transposon Day!! 💛🍷
+
+What a glorious day to celebrate two momentous occasions! The enduring legacy of Barbara McC…</title>
+      <link>https://twitter.com/furthlab/status/1669715824557408256</link>
+      <description>RT @MollyHammell: 💛🌽Happy Transposon Day!! 💛🍷
+
+What a glorious day to celebrate two momentous occasions! The enduring legacy of Barbara McC…</description>
+      <content:encoded>RT @MollyHammell: 💛🌽Happy Transposon Day!! 💛🍷
+
+What a glorious day to celebrate two momentous occasions! The enduring legacy of Barbara McC…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1669715824557408256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 14:37:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Eyes on the road: brain computer interfaces and cognitive distraction in traffic #neuroergonomics https://t.co/8oufl3kZpg</title>
+      <link>https://twitter.com/FrontNeurosci/status/1669716348241596417</link>
+      <description>New Research: Eyes on the road: brain computer interfaces and cognitive distraction in traffic #neuroergonomics https://t.co/8oufl3kZpg</description>
+      <content:encoded>New Research: Eyes on the road: brain computer interfaces and cognitive distraction in traffic #neuroergonomics https://t.co/8oufl3kZpg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1669716348241596417"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 14:39:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>why does the executive director of SFN need to make $751K/yr?? https://t.co/9Qr4TojkT1</title>
+      <link>https://twitter.com/TonyZador/status/1669717487724707843</link>
+      <description>why does the executive director of SFN need to make $751K/yr?? https://t.co/9Qr4TojkT1</description>
+      <content:encoded>why does the executive director of SFN need to make $751K/yr?? https://t.co/9Qr4TojkT1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1669717487724707843"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 14:44:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The subsurface ocean of Enceladus, an icy moon of Saturn, contains phosphates – indicating that the ocean is alkaline https://t.co/CdqZxccBiq</title>
+      <link>https://twitter.com/NatureNV/status/1669719237475147776</link>
+      <description>The subsurface ocean of Enceladus, an icy moon of Saturn, contains phosphates – indicating that the ocean is alkaline https://t.co/CdqZxccBiq</description>
+      <content:encoded>The subsurface ocean of Enceladus, an icy moon of Saturn, contains phosphates – indicating that the ocean is alkaline https://t.co/CdqZxccBiq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1669719237475147776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 14:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @IshmailSaboor: In this season of good news and as we celebrate the 5yr anniversary of my lab, I am happy to share that I have been prom…</title>
+      <link>https://twitter.com/ruimcosta/status/1669719529889632256</link>
+      <description>RT @IshmailSaboor: In this season of good news and as we celebrate the 5yr anniversary of my lab, I am happy to share that I have been prom…</description>
+      <content:encoded>RT @IshmailSaboor: In this season of good news and as we celebrate the 5yr anniversary of my lab, I am happy to share that I have been prom…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1669719529889632256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 14:52:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuropixels course at UCL! https://t.co/5K8jocDgUj</title>
+      <link>https://twitter.com/TonyZador/status/1669719616921169922</link>
+      <description>Neuropixels course at UCL! https://t.co/5K8jocDgUj</description>
+      <content:encoded>Neuropixels course at UCL! https://t.co/5K8jocDgUj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1669719616921169922"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 14:52:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odd as it may seem, this occurred in 2020 in Ogre, Latvia and it's another example of how smart are corvids. This crow was literally explaining to a hedgehog that it had to cross the road 
+
+[read more: https://t.co/JiTdVxIXW6]
+[📹: https://t.co/yEPfQikHnC]
+https://t.co/Ipk369HpX8</title>
+      <link>https://twitter.com/Rainmaker1973/status/1669719802917576704</link>
+      <description>Odd as it may seem, this occurred in 2020 in Ogre, Latvia and it's another example of how smart are corvids. This crow was literally explaining to a hedgehog that it had to cross the road 
+
+[read more: https://t.co/JiTdVxIXW6]
+[📹: https://t.co/yEPfQikHnC]
+https://t.co/Ipk369HpX8</description>
+      <content:encoded>Odd as it may seem, this occurred in 2020 in Ogre, Latvia and it's another example of how smart are corvids. This crow was literally explaining to a hedgehog that it had to cross the road 
+
+[read more: https://t.co/JiTdVxIXW6]
+[📹: https://t.co/yEPfQikHnC]
+https://t.co/Ipk369HpX8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669719802917576704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1415773592906870786/pu/img/upXKMZt51Ia-Bm4-.jpg" length="460" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 14:53:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @sparc_science: @INCForg is inviting you 🫵 to contribute to the conversation of enhancing FAIR science practices. See below to participa…</title>
+      <link>https://twitter.com/INCForg/status/1669720525633998849</link>
+      <description>RT @sparc_science: @INCForg is inviting you 🫵 to contribute to the conversation of enhancing FAIR science practices. See below to participa…</description>
+      <content:encoded>RT @sparc_science: @INCForg is inviting you 🫵 to contribute to the conversation of enhancing FAIR science practices. See below to participa…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1669720525633998849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 14:56:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @McKnightFdn: 📢Announcing the 2023 McKnight Scholar Awards🧠
+
+These 10 scholars are committed to solving the most fundamental problems in…</title>
+      <link>https://twitter.com/ruimcosta/status/1669721328629473280</link>
+      <description>RT @McKnightFdn: 📢Announcing the 2023 McKnight Scholar Awards🧠
+
+These 10 scholars are committed to solving the most fundamental problems in…</description>
+      <content:encoded>RT @McKnightFdn: 📢Announcing the 2023 McKnight Scholar Awards🧠
+
+These 10 scholars are committed to solving the most fundamental problems in…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1669721328629473280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 14:59:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Did you know: In Japan, machine learning engineers are legally allowed to train their models with any data they find.
+
+Learn more in #TheBatch: https://t.co/hCvRYncx0n</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1669721494367207426</link>
+      <description>Did you know: In Japan, machine learning engineers are legally allowed to train their models with any data they find.
+
+Learn more in #TheBatch: https://t.co/hCvRYncx0n</description>
+      <content:encoded>Did you know: In Japan, machine learning engineers are legally allowed to train their models with any data they find.
+
+Learn more in #TheBatch: https://t.co/hCvRYncx0n&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1669721494367207426"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Monitoring the hot Jupiter HAT-P-32~b, located 950 light years away, researchers have detected helium escaping through leading and trailing tidal tails.
+
+These tails are among the largest known structures associated with an exoplanet. https://t.co/we3UFLuxFB @ScienceAdvances https://t.co/Bgio4pk6aI</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669721682712436736</link>
+      <description>Monitoring the hot Jupiter HAT-P-32~b, located 950 light years away, researchers have detected helium escaping through leading and trailing tidal tails.
+
+These tails are among the largest known structures associated with an exoplanet. https://t.co/we3UFLuxFB @ScienceAdvances https://t.co/Bgio4pk6aI</description>
+      <content:encoded>Monitoring the hot Jupiter HAT-P-32~b, located 950 light years away, researchers have detected helium escaping through leading and trailing tidal tails.
+
+These tails are among the largest known structures associated with an exoplanet. https://t.co/we3UFLuxFB @ScienceAdvances https://t.co/Bgio4pk6aI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669721682712436736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FywLBWGXwAAMRBi.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 15:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engineers have developed a conductive, Jello-O-like material that may one day replace metals in the electrodes of implanted medical devices. “This material operates like metal electrodes but is made from gels similar to our bodies,” says Hyunwoo Yuk. https://t.co/0dwXKEH7No https://t.co/qOE7ppajr2</title>
+      <link>https://twitter.com/MIT/status/1669722831742017538</link>
+      <description>Engineers have developed a conductive, Jello-O-like material that may one day replace metals in the electrodes of implanted medical devices. “This material operates like metal electrodes but is made from gels similar to our bodies,” says Hyunwoo Yuk. https://t.co/0dwXKEH7No https://t.co/qOE7ppajr2</description>
+      <content:encoded>Engineers have developed a conductive, Jello-O-like material that may one day replace metals in the electrodes of implanted medical devices. “This material operates like metal electrodes but is made from gels similar to our bodies,” says Hyunwoo Yuk. https://t.co/0dwXKEH7No https://t.co/qOE7ppajr2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1669722831742017538"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FywMDzyWIAADzMG.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 16 Jun 2023 15:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @EnnyvBeest: Delighted to announce the free online 2023 UCL #Neuropixels course. Day 1 (17 Oct) covers the basics. Day 2 (18 Oct) does a…</title>
+      <link>https://twitter.com/michael_okun/status/1669724961815027713</link>
+      <description>RT @EnnyvBeest: Delighted to announce the free online 2023 UCL #Neuropixels course. Day 1 (17 Oct) covers the basics. Day 2 (18 Oct) does a…</description>
+      <content:encoded>RT @EnnyvBeest: Delighted to announce the free online 2023 UCL #Neuropixels course. Day 1 (17 Oct) covers the basics. Day 2 (18 Oct) does a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/michael_okun/status/1669724961815027713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 15:13:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
