@@ -6,36 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 03:17:09 +0000</lastBuildDate>
-    <item>
-      <title>Do intelligent people think faster than others when solving problems?
-
-🧠Think harder not faster - how network structure shapes decision making.
-
-📖Read about the results of this new study by the Human #Brain Project researchers⬇️
-https://t.co/B5phZo57X3
-
-@HumanBrainProj #HBP https://t.co/UZjuC7pOvF</title>
-      <link>https://twitter.com/FutureTechEU/status/1669640920860356609</link>
-      <description>Do intelligent people think faster than others when solving problems?
-
-🧠Think harder not faster - how network structure shapes decision making.
-
-📖Read about the results of this new study by the Human #Brain Project researchers⬇️
-https://t.co/B5phZo57X3
-
-@HumanBrainProj #HBP https://t.co/UZjuC7pOvF</description>
-      <content:encoded>Do intelligent people think faster than others when solving problems?
-
-🧠Think harder not faster - how network structure shapes decision making.
-
-📖Read about the results of this new study by the Human #Brain Project researchers⬇️
-https://t.co/B5phZo57X3
-
-@HumanBrainProj #HBP https://t.co/UZjuC7pOvF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FutureTechEU/status/1669640920860356609"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyvA0GWXgAA5eAO.png" length="479" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 09:39:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jun 2023 04:18:45 +0000</lastBuildDate>
     <item>
       <title>Tailorbirds get their name from the way their nest is constructed. The edges of a large leaf are pierced &amp;amp; sewn together with plant fibre or spider's web to make a cradle in which the actual grass nest is built
 
@@ -1951,13 +1922,6 @@ Participants explored the capabilities of controlling St…&lt;blockquote class=
       <pubDate>Fri, 16 Jun 2023 22:53:16 +0000</pubDate>
     </item>
     <item>
-      <title>RT @Ananyo: Turing was a code cracking war hero, AI pioneer and a mathematical genius. But he’s often remembered for something he didn’t do…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1669841366757658625</link>
-      <description>RT @Ananyo: Turing was a code cracking war hero, AI pioneer and a mathematical genius. But he’s often remembered for something he didn’t do…</description>
-      <content:encoded>RT @Ananyo: Turing was a code cracking war hero, AI pioneer and a mathematical genius. But he’s often remembered for something he didn’t do…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1669841366757658625"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 22:56:20 +0000</pubDate>
-    </item>
-    <item>
       <title>We love sharing our #OpenScience! 
 
 Thanks to everyone at #ISSCR2023 who stopped by our posters, booth, and talk! Stay up to date about our cell science work by following us on all of our socials and signing up for our newsletter: https://t.co/t7cxDoykrl
@@ -2114,6 +2078,13 @@ I guess the members of SFN have been feeling generous... https://t.co/6UrN74Xtio
 📄: https://t.co/vELB2RlYh8 https://t.co/603kQghFGr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669902711007920128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FyyvqnDWcAEbUw7.jpg" length="910" type="photo"/>
       <pubDate>Sat, 17 Jun 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>@TonyZador Wait does this mean they decided to hike salaries 13% after the shitshow that was SfN 2021?</title>
+      <link>https://twitter.com/furthlab/status/1669909343855149057</link>
+      <description>@TonyZador Wait does this mean they decided to hike salaries 13% after the shitshow that was SfN 2021?</description>
+      <content:encoded>@TonyZador Wait does this mean they decided to hike salaries 13% after the shitshow that was SfN 2021?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1669909343855149057"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 03:26:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
