@@ -6,77 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 18:18:36 +0000</lastBuildDate>
-    <item>
-      <title>How MIT’s fab labs scaled around the world: Now a global community of builders of all skill levels and backgrounds, the fab lab network grew from a single maker facility at MIT. https://t.co/2aEcUFQqic https://t.co/yTxVYP1TNc</title>
-      <link>https://twitter.com/MIT/status/1669753010405142528</link>
-      <description>How MIT’s fab labs scaled around the world: Now a global community of builders of all skill levels and backgrounds, the fab lab network grew from a single maker facility at MIT. https://t.co/2aEcUFQqic https://t.co/yTxVYP1TNc</description>
-      <content:encoded>How MIT’s fab labs scaled around the world: Now a global community of builders of all skill levels and backgrounds, the fab lab network grew from a single maker facility at MIT. https://t.co/2aEcUFQqic https://t.co/yTxVYP1TNc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1669753010405142528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fywng7YXsCgVtnE.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 17:05:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @michaelhoffman: It's happening! 🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦 https://t.co/XjJ07gc6n…</title>
-      <link>https://twitter.com/tyrell_turing/status/1669753045918285824</link>
-      <description>RT @michaelhoffman: It's happening! 🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦 https://t.co/XjJ07gc6n…</description>
-      <content:encoded>RT @michaelhoffman: It's happening! 🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦 https://t.co/XjJ07gc6n…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669753045918285824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 17:05:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who should be President in 2032?</title>
-      <link>https://twitter.com/elonmusk/status/1669753411623956501</link>
-      <description>Who should be President in 2032?</description>
-      <content:encoded>Who should be President in 2032?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1669753411623956501"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 17:06:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Research Highlight by @madhuramukho: Dandelion developed by the teams of @teichlab, @clatworthylab and @kelvintuong is a computational framework for paired analysis of scRNAseq and scVDJseq data.
-
-Paper: https://t.co/Pj4iuw5cx7
-
-Highlight: https://t.co/LfHYyI4JAM</title>
-      <link>https://twitter.com/naturemethods/status/1669756220633419778</link>
-      <description>Research Highlight by @madhuramukho: Dandelion developed by the teams of @teichlab, @clatworthylab and @kelvintuong is a computational framework for paired analysis of scRNAseq and scVDJseq data.
-
-Paper: https://t.co/Pj4iuw5cx7
-
-Highlight: https://t.co/LfHYyI4JAM</description>
-      <content:encoded>Research Highlight by @madhuramukho: Dandelion developed by the teams of @teichlab, @clatworthylab and @kelvintuong is a computational framework for paired analysis of scRNAseq and scVDJseq data.
-
-Paper: https://t.co/Pj4iuw5cx7
-
-Highlight: https://t.co/LfHYyI4JAM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1669756220633419778"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 17:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mikhailshapiro: Can we image and decode brain activity with ultrasound noninvasively in adult humans? Yes, by installing a permanent cu…</title>
-      <link>https://twitter.com/ewadorotaz/status/1669757992177217550</link>
-      <description>RT @mikhailshapiro: Can we image and decode brain activity with ultrasound noninvasively in adult humans? Yes, by installing a permanent cu…</description>
-      <content:encoded>RT @mikhailshapiro: Can we image and decode brain activity with ultrasound noninvasively in adult humans? Yes, by installing a permanent cu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1669757992177217550"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 17:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Science is all about asking questions + finding answers 🤔
-
-@ssimoncelli’s new microscope will help answer big questions about the proteins in our cells, including how they move &amp;amp; organize https://t.co/ae6JWEt3R4</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1669759290901495830</link>
-      <description>Science is all about asking questions + finding answers 🤔
-
-@ssimoncelli’s new microscope will help answer big questions about the proteins in our cells, including how they move &amp;amp; organize https://t.co/ae6JWEt3R4</description>
-      <content:encoded>Science is all about asking questions + finding answers 🤔
-
-@ssimoncelli’s new microscope will help answer big questions about the proteins in our cells, including how they move &amp;amp; organize https://t.co/ae6JWEt3R4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1669759290901495830"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FywtOhNXgBMtwra.jpg" length="768" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 17:30:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Review in @natrevbioeng outlines how co-culture approaches commonly used in biomedical tissue engineering can be applied to produce cultured meat. 🔒 https://t.co/raAm2xoGX8 https://t.co/Hw9lSBeRBi</title>
-      <link>https://twitter.com/NaturePortfolio/status/1669761023547506708</link>
-      <description>A Review in @natrevbioeng outlines how co-culture approaches commonly used in biomedical tissue engineering can be applied to produce cultured meat. 🔒 https://t.co/raAm2xoGX8 https://t.co/Hw9lSBeRBi</description>
-      <content:encoded>A Review in @natrevbioeng outlines how co-culture approaches commonly used in biomedical tissue engineering can be applied to produce cultured meat. 🔒 https://t.co/raAm2xoGX8 https://t.co/Hw9lSBeRBi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1669761023547506708"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FywuyPsWIAAyKsD.jpg" length="1066" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 17:37:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jun 2023 19:11:57 +0000</lastBuildDate>
     <item>
       <title>Last week, the neuroscience community at #Yale celebrated summer! Thank you to the Arnsten lab for hosting and bringing so much fun to this networking hour! https://t.co/uErFs3VFCf</title>
       <link>https://twitter.com/KavliAtYale/status/1669761438557036545</link>
@@ -2066,6 +1996,69 @@ Revolving daily segments
 Subscribe: https://t.co/N8Tmv18b9w https://t.co/MikTYwivlq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1670129202148917257"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fy19qFMXgAAF1yS.png" length="641" type="photo"/>
       <pubDate>Sat, 17 Jun 2023 18:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @beenwrekt: This image has popped up in my feed a few times this week. Did you know that cargo cult science is a cargo cult? 1/x https:/…</title>
+      <link>https://twitter.com/KordingLab/status/1670134915797770240</link>
+      <description>RT @beenwrekt: This image has popped up in my feed a few times this week. Did you know that cargo cult science is a cargo cult? 1/x https:/…</description>
+      <content:encoded>RT @beenwrekt: This image has popped up in my feed a few times this week. Did you know that cargo cult science is a cargo cult? 1/x https:/…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1670134915797770240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 18:22:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ElevyLab: ⚛️Protein structures are key to elucidating molecular details of cellular processes. #AlphaFold2 &amp;amp; others unveiled millions o…</title>
+      <link>https://twitter.com/FitzpatrickLab/status/1670137458736918534</link>
+      <description>RT @ElevyLab: ⚛️Protein structures are key to elucidating molecular details of cellular processes. #AlphaFold2 &amp;amp; others unveiled millions o…</description>
+      <content:encoded>RT @ElevyLab: ⚛️Protein structures are key to elucidating molecular details of cellular processes. #AlphaFold2 &amp;amp; others unveiled millions o…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1670137458736918534"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 18:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artificial intelligence and training models have helped researchers discover 67 million bioactive compounds inside natural products for use in food, agriculture and medicine, Dillon Tay reports in the Chemistry Community. https://t.co/rZsQPC4Nob</title>
+      <link>https://twitter.com/NaturePortfolio/status/1670139496266858496</link>
+      <description>Artificial intelligence and training models have helped researchers discover 67 million bioactive compounds inside natural products for use in food, agriculture and medicine, Dillon Tay reports in the Chemistry Community. https://t.co/rZsQPC4Nob</description>
+      <content:encoded>Artificial intelligence and training models have helped researchers discover 67 million bioactive compounds inside natural products for use in food, agriculture and medicine, Dillon Tay reports in the Chemistry Community. https://t.co/rZsQPC4Nob&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670139496266858496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 18:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A pangram is a sentence which uses every letter of the alphabet at least once. 
+The best-known English pangram is "The quick brown fox jumps over the lazy dog" which has been used since at least the 19th century. https://t.co/qQZX5LPsj9</title>
+      <link>https://twitter.com/fermatslibrary/status/1670139652102139904</link>
+      <description>A pangram is a sentence which uses every letter of the alphabet at least once. 
+The best-known English pangram is "The quick brown fox jumps over the lazy dog" which has been used since at least the 19th century. https://t.co/qQZX5LPsj9</description>
+      <content:encoded>A pangram is a sentence which uses every letter of the alphabet at least once. 
+The best-known English pangram is "The quick brown fox jumps over the lazy dog" which has been used since at least the 19th century. https://t.co/qQZX5LPsj9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1670139652102139904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy2HKXuWAAEdofj.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 18:41:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Placing wood posts for a new Cabernet Franc plantation in France
+
+[📹 Peter Sissek: https://t.co/VYTQjdnOoG]
+https://t.co/0b6uWXd7c1</title>
+      <link>https://twitter.com/Rainmaker1973/status/1670140776167141379</link>
+      <description>Placing wood posts for a new Cabernet Franc plantation in France
+
+[📹 Peter Sissek: https://t.co/VYTQjdnOoG]
+https://t.co/0b6uWXd7c1</description>
+      <content:encoded>Placing wood posts for a new Cabernet Franc plantation in France
+
+[📹 Peter Sissek: https://t.co/VYTQjdnOoG]
+https://t.co/0b6uWXd7c1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670140776167141379"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1670136661122985986/pu/img/W8CPZfVQf3E12be2.jpg" length="460" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 18:46:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JustusKebschull: We are recruiting a super-postdoc! Are you done with your postdoc but want to keep doing bench science in an academic…</title>
+      <link>https://twitter.com/furthlab/status/1670142330144190467</link>
+      <description>RT @JustusKebschull: We are recruiting a super-postdoc! Are you done with your postdoc but want to keep doing bench science in an academic…</description>
+      <content:encoded>RT @JustusKebschull: We are recruiting a super-postdoc! Are you done with your postdoc but want to keep doing bench science in an academic…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1670142330144190467"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 18:52:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool #neuroscience https://t.co/9icJgwLq3Z</title>
+      <link>https://twitter.com/FrontNeurosci/status/1670145550367481856</link>
+      <description>New Research: AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool #neuroscience https://t.co/9icJgwLq3Z</description>
+      <content:encoded>New Research: AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool #neuroscience https://t.co/9icJgwLq3Z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670145550367481856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 19:05:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
