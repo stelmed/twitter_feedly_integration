@@ -6,31 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 22:14:32 +0000</lastBuildDate>
-    <item>
-      <title>@patrickmineault There are also some Python project using asynchronous processing for the same set of tasks, e.g. Bonsai (https://t.co/goezUdEKGA) @bonsai_rx</title>
-      <link>https://twitter.com/ptrrupprecht/status/1669773508702863382</link>
-      <description>@patrickmineault There are also some Python project using asynchronous processing for the same set of tasks, e.g. Bonsai (https://t.co/goezUdEKGA) @bonsai_rx</description>
-      <content:encoded>@patrickmineault There are also some Python project using asynchronous processing for the same set of tasks, e.g. Bonsai (https://t.co/goezUdEKGA) @bonsai_rx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ptrrupprecht/status/1669773508702863382"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:26:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conophytum pageae is a succulent plant originating from Cape province of South Africa.  The name "conophytum" is derived from the Latin conus (cone) and Greek phytum (plant) 
-
-[read more: https://t.co/Y77r8AnJ3D] 
-[source: https://t.co/Y1EmFP6elq] https://t.co/fIeycEfFBD</title>
-      <link>https://twitter.com/Rainmaker1973/status/1669774341192527872</link>
-      <description>Conophytum pageae is a succulent plant originating from Cape province of South Africa.  The name "conophytum" is derived from the Latin conus (cone) and Greek phytum (plant) 
-
-[read more: https://t.co/Y77r8AnJ3D] 
-[source: https://t.co/Y1EmFP6elq] https://t.co/fIeycEfFBD</description>
-      <content:encoded>Conophytum pageae is a succulent plant originating from Cape province of South Africa.  The name "conophytum" is derived from the Latin conus (cone) and Greek phytum (plant) 
-
-[read more: https://t.co/Y77r8AnJ3D] 
-[source: https://t.co/Y1EmFP6elq] https://t.co/fIeycEfFBD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669774341192527872"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FywyXL9XsAAhzgi.jpg" length="680" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 18:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jun 2023 23:15:41 +0000</lastBuildDate>
     <item>
       <title>RT @KatjaReinhard: Join us as a postdoc at SISSA to study flexibility in innate behaviours and underlying neural circuits! We're looking fo…</title>
       <link>https://twitter.com/BoninLab/status/1669775528599977987</link>
@@ -2068,6 +2044,20 @@ https://t.co/jS0XNCUWG7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>TIL: Sfn is smaller than I thought. And it’s governance is so bad it pays way more than it’s peers for a ceo that has no science background. Shame how administration captures formerly good institutions. https://t.co/KssKApKSS2</description>
       <content:encoded>TIL: Sfn is smaller than I thought. And it’s governance is so bad it pays way more than it’s peers for a ceo that has no science background. Shame how administration captures formerly good institutions. https://t.co/KssKApKSS2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1670190083948052480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 17 Jun 2023 22:02:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: "Novel Perspectives and Improvements in fMRI Functional Connectivity Analysis Methods Used to Investigate Brain Networks and Cognitive Mechanisms" #Neuroscience https://t.co/H56bzkMv2C</title>
+      <link>https://twitter.com/FrontNeurosci/status/1670200032296067072</link>
+      <description>New Research: Editorial: "Novel Perspectives and Improvements in fMRI Functional Connectivity Analysis Methods Used to Investigate Brain Networks and Cognitive Mechanisms" #Neuroscience https://t.co/H56bzkMv2C</description>
+      <content:encoded>New Research: Editorial: "Novel Perspectives and Improvements in fMRI Functional Connectivity Analysis Methods Used to Investigate Brain Networks and Cognitive Mechanisms" #Neuroscience https://t.co/H56bzkMv2C&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670200032296067072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 22:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accounts that try to game our verification system with non-sequitur self-promotion or advertise in a misleading way will be suspended</title>
+      <link>https://twitter.com/elonmusk/status/1670206831841427458</link>
+      <description>Accounts that try to game our verification system with non-sequitur self-promotion or advertise in a misleading way will be suspended</description>
+      <content:encoded>Accounts that try to game our verification system with non-sequitur self-promotion or advertise in a misleading way will be suspended&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670206831841427458"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 23:08:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
