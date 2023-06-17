@@ -6,36 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 05:14:52 +0000</lastBuildDate>
-    <item>
-      <title>#ISSCR203 - Check out Gideon Dunster's poster on open tools and resources for  quantitative image analysis of cellular organization.
-
-📆 TODAY at 10:15am Eastern
-📍 Poster 930, Hall A
-
-More info: https://t.co/t7Js85nyPM
-
-@ISSCR #ISSCR https://t.co/14hcMfTutG</title>
-      <link>https://twitter.com/AllenInstitute/status/1669643500437086211</link>
-      <description>#ISSCR203 - Check out Gideon Dunster's poster on open tools and resources for  quantitative image analysis of cellular organization.
-
-📆 TODAY at 10:15am Eastern
-📍 Poster 930, Hall A
-
-More info: https://t.co/t7Js85nyPM
-
-@ISSCR #ISSCR https://t.co/14hcMfTutG</description>
-      <content:encoded>#ISSCR203 - Check out Gideon Dunster's poster on open tools and resources for  quantitative image analysis of cellular organization.
-
-📆 TODAY at 10:15am Eastern
-📍 Poster 930, Hall A
-
-More info: https://t.co/t7Js85nyPM
-
-@ISSCR #ISSCR https://t.co/14hcMfTutG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1669643500437086211"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyvD5f1XsAEw0wQ.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 09:50:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jun 2023 06:19:38 +0000</lastBuildDate>
     <item>
       <title>In case you missed it, there's a Tetris World Championship. Launched in 2010, it takes place over two days and it determines the world's greatest Tetris player. This is a footage from the 2018 final
 
@@ -2049,6 +2020,13 @@ I guess the members of SFN have been feeling generous... https://t.co/6UrN74Xtio
       <content:encoded>This is based on light naptha (no water to cause rust), ammonium hydroxide (raise pH, complexer), oleic acid (brightens metal surfaces). Works amazingly well on metal parts!  Very expensive -- tried to make my own, but oleic acid + NH4OH = gel (soap).  https://t.co/cGQw7bY9YR https://t.co/Y0AhGV6otm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BenKrasnow/status/1669935468895666176"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FyzLJRiagAE5QkZ.jpg" length="1000" type="photo"/>
       <pubDate>Sat, 17 Jun 2023 05:10:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reports of the death of brain-behavior associations have been greatly exaggerated  https://t.co/UlIZZa9Bnv #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1669951899263434753</link>
+      <description>Reports of the death of brain-behavior associations have been greatly exaggerated  https://t.co/UlIZZa9Bnv #biorxiv_neursci</description>
+      <content:encoded>Reports of the death of brain-behavior associations have been greatly exaggerated  https://t.co/UlIZZa9Bnv #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1669951899263434753"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 06:15:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
