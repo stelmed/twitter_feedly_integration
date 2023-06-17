@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 21:13:01 +0000</lastBuildDate>
-    <item>
-      <title>@patrickmineault Asynchronous processing is super important for real-world interactions e.g. of animals with a behavioral setup (digitial/analog inputs/outputs). Many people use Labview, which does this more or less automatically. I used Python for some projects, including asyncio.</title>
-      <link>https://twitter.com/ptrrupprecht/status/1669773019038842897</link>
-      <description>@patrickmineault Asynchronous processing is super important for real-world interactions e.g. of animals with a behavioral setup (digitial/analog inputs/outputs). Many people use Labview, which does this more or less automatically. I used Python for some projects, including asyncio.</description>
-      <content:encoded>@patrickmineault Asynchronous processing is super important for real-world interactions e.g. of animals with a behavioral setup (digitial/analog inputs/outputs). Many people use Labview, which does this more or less automatically. I used Python for some projects, including asyncio.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ptrrupprecht/status/1669773019038842897"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:24:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CSHL: Happy 121st Birthday to Barbara McClintock...a beloved member of the CSHL family, one of the most influential geneticists of the…</title>
-      <link>https://twitter.com/furthlab/status/1669773100668387347</link>
-      <description>RT @CSHL: Happy 121st Birthday to Barbara McClintock...a beloved member of the CSHL family, one of the most influential geneticists of the…</description>
-      <content:encoded>RT @CSHL: Happy 121st Birthday to Barbara McClintock...a beloved member of the CSHL family, one of the most influential geneticists of the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1669773100668387347"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:25:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jun 2023 22:14:32 +0000</lastBuildDate>
     <item>
       <title>@patrickmineault There are also some Python project using asynchronous processing for the same set of tasks, e.g. Bonsai (https://t.co/goezUdEKGA) @bonsai_rx</title>
       <link>https://twitter.com/ptrrupprecht/status/1669773508702863382</link>
@@ -2060,6 +2046,28 @@ https://t.co/jS0XNCUWG7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>@Rainmaker1973 😬</description>
       <content:encoded>@Rainmaker1973 😬&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670176932552384513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 17 Jun 2023 21:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @winniemli: 4 DAYS 🗓️ until the #Complicit paperback is out in the US &amp;amp; I start my US #booktour !!!! 📚 All these events are FREE to atte…</title>
+      <link>https://twitter.com/KordingLab/status/1670180080205824001</link>
+      <description>RT @winniemli: 4 DAYS 🗓️ until the #Complicit paperback is out in the US &amp;amp; I start my US #booktour !!!! 📚 All these events are FREE to atte…</description>
+      <content:encoded>RT @winniemli: 4 DAYS 🗓️ until the #Complicit paperback is out in the US &amp;amp; I start my US #booktour !!!! 📚 All these events are FREE to atte…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1670180080205824001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 21:22:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Or a social media media company https://t.co/gmQL51JcTz</title>
+      <link>https://twitter.com/elonmusk/status/1670186385490477056</link>
+      <description>Or a social media media company https://t.co/gmQL51JcTz</description>
+      <content:encoded>Or a social media media company https://t.co/gmQL51JcTz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670186385490477056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy2xqmVX0AEuH01.jpg" length="1179" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 21:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>TIL: Sfn is smaller than I thought. And it’s governance is so bad it pays way more than it’s peers for a ceo that has no science background. Shame how administration captures formerly good institutions. https://t.co/KssKApKSS2</title>
+      <link>https://twitter.com/KordingLab/status/1670190083948052480</link>
+      <description>TIL: Sfn is smaller than I thought. And it’s governance is so bad it pays way more than it’s peers for a ceo that has no science background. Shame how administration captures formerly good institutions. https://t.co/KssKApKSS2</description>
+      <content:encoded>TIL: Sfn is smaller than I thought. And it’s governance is so bad it pays way more than it’s peers for a ceo that has no science background. Shame how administration captures formerly good institutions. https://t.co/KssKApKSS2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1670190083948052480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 22:02:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
