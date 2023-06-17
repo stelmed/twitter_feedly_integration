@@ -6,18 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 02:36:31 +0000</lastBuildDate>
-    <item>
-      <title>RT @Parody_PM: Brendan Clarke-Smith being torn a new one by Victoria Derbyshire is a thing of beauty. 
-https://t.co/6rsjP1breB</title>
-      <link>https://twitter.com/chrisdc77/status/1669639609762848770</link>
-      <description>RT @Parody_PM: Brendan Clarke-Smith being torn a new one by Victoria Derbyshire is a thing of beauty. 
-https://t.co/6rsjP1breB</description>
-      <content:encoded>RT @Parody_PM: Brendan Clarke-Smith being torn a new one by Victoria Derbyshire is a thing of beauty. 
-https://t.co/6rsjP1breB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1669639609762848770"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1669478030270496774/pu/img/mvqRtB5_Jfnc2nqf.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 09:34:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jun 2023 03:17:09 +0000</lastBuildDate>
     <item>
       <title>Do intelligent people think faster than others when solving problems?
 
@@ -1962,6 +1951,13 @@ Participants explored the capabilities of controlling St…&lt;blockquote class=
       <pubDate>Fri, 16 Jun 2023 22:53:16 +0000</pubDate>
     </item>
     <item>
+      <title>RT @Ananyo: Turing was a code cracking war hero, AI pioneer and a mathematical genius. But he’s often remembered for something he didn’t do…</title>
+      <link>https://twitter.com/stevenstrogatz/status/1669841366757658625</link>
+      <description>RT @Ananyo: Turing was a code cracking war hero, AI pioneer and a mathematical genius. But he’s often remembered for something he didn’t do…</description>
+      <content:encoded>RT @Ananyo: Turing was a code cracking war hero, AI pioneer and a mathematical genius. But he’s often remembered for something he didn’t do…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1669841366757658625"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 16 Jun 2023 22:56:20 +0000</pubDate>
+    </item>
+    <item>
       <title>We love sharing our #OpenScience! 
 
 Thanks to everyone at #ISSCR2023 who stopped by our posters, booth, and talk! Stay up to date about our cell science work by following us on all of our socials and signing up for our newsletter: https://t.co/t7cxDoykrl
@@ -2104,6 +2100,20 @@ I guess the members of SFN have been feeling generous... https://t.co/6UrN74Xtio
       <description>New Research: The Time Squares Sequences: a new task for assess visuospatial working memory #neuroscience https://t.co/BTPwYJYYUC</description>
       <content:encoded>New Research: The Time Squares Sequences: a new task for assess visuospatial working memory #neuroscience https://t.co/BTPwYJYYUC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1669889483096072195"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 17 Jun 2023 02:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new @SciImmunology study investigates how intestinal α4β7+ CD8 T cells enhance immune responses against metastatic tumors typically resistant to anti-PD-L1 immunotherapy.
+
+📄: https://t.co/vELB2RlYh8 https://t.co/603kQghFGr</title>
+      <link>https://twitter.com/ScienceMagazine/status/1669902711007920128</link>
+      <description>A new @SciImmunology study investigates how intestinal α4β7+ CD8 T cells enhance immune responses against metastatic tumors typically resistant to anti-PD-L1 immunotherapy.
+
+📄: https://t.co/vELB2RlYh8 https://t.co/603kQghFGr</description>
+      <content:encoded>A new @SciImmunology study investigates how intestinal α4β7+ CD8 T cells enhance immune responses against metastatic tumors typically resistant to anti-PD-L1 immunotherapy.
+
+📄: https://t.co/vELB2RlYh8 https://t.co/603kQghFGr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669902711007920128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FyyvqnDWcAEbUw7.jpg" length="910" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 03:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
