@@ -6,55 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 20:15:47 +0000</lastBuildDate>
-    <item>
-      <title>RT @DannyBeales: With less than 5 weeks until polling day, I need your support to turn Uxbridge and South Ruislip red. 🌹
-
-Come and join me…</title>
-      <link>https://twitter.com/chrisdc77/status/1669764323755933698</link>
-      <description>RT @DannyBeales: With less than 5 weeks until polling day, I need your support to turn Uxbridge and South Ruislip red. 🌹
-
-Come and join me…</description>
-      <content:encoded>RT @DannyBeales: With less than 5 weeks until polling day, I need your support to turn Uxbridge and South Ruislip red. 🌹
-
-Come and join me…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1669764323755933698"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 17:50:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DraisyMorris: Why Experts Can’t Understand Or Predict AI Behaviors, My latest via @forbes https://t.co/QCtVeK3i04</title>
-      <link>https://twitter.com/tyrell_turing/status/1669765069691912203</link>
-      <description>RT @DraisyMorris: Why Experts Can’t Understand Or Predict AI Behaviors, My latest via @forbes https://t.co/QCtVeK3i04</description>
-      <content:encoded>RT @DraisyMorris: Why Experts Can’t Understand Or Predict AI Behaviors, My latest via @forbes https://t.co/QCtVeK3i04&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669765069691912203"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 17:53:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @C_M_Hobson: It has been a wonderful 2 weeks with @NalanLiv and @JA_Beek visiting us at the @AICjanelia! Tons of fun imaging cells in 3D…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1669766793173299202</link>
-      <description>RT @C_M_Hobson: It has been a wonderful 2 weeks with @NalanLiv and @JA_Beek visiting us at the @AICjanelia! Tons of fun imaging cells in 3D…</description>
-      <content:encoded>RT @C_M_Hobson: It has been a wonderful 2 weeks with @NalanLiv and @JA_Beek visiting us at the @AICjanelia! Tons of fun imaging cells in 3D…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1669766793173299202"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>.@Nvidia, @Blizzard_Ent, and @Ubisoft are all building tools to incorporate generative characters, background art, and more into video games.
-
-Learn more in #TheBatch: https://t.co/MzBqmkK7Zh</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1669766794461020181</link>
-      <description>.@Nvidia, @Blizzard_Ent, and @Ubisoft are all building tools to incorporate generative characters, background art, and more into video games.
-
-Learn more in #TheBatch: https://t.co/MzBqmkK7Zh</description>
-      <content:encoded>.@Nvidia, @Blizzard_Ent, and @Ubisoft are all building tools to incorporate generative characters, background art, and more into video games.
-
-Learn more in #TheBatch: https://t.co/MzBqmkK7Zh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1669766794461020181"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maps of brain activity from 10 mind-altering drugs offer a “roadmap” to identify potential future treatments for these disorders, a new @ScienceAdvances study suggests. https://t.co/7HQmD1eGwh https://t.co/Wvk4IGPKoA</title>
-      <link>https://twitter.com/ScienceMagazine/status/1669766859913134087</link>
-      <description>Maps of brain activity from 10 mind-altering drugs offer a “roadmap” to identify potential future treatments for these disorders, a new @ScienceAdvances study suggests. https://t.co/7HQmD1eGwh https://t.co/Wvk4IGPKoA</description>
-      <content:encoded>Maps of brain activity from 10 mind-altering drugs offer a “roadmap” to identify potential future treatments for these disorders, a new @ScienceAdvances study suggests. https://t.co/7HQmD1eGwh https://t.co/Wvk4IGPKoA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1669766859913134087"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fyw0G-WWwAE6bqP.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 18:00:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jun 2023 21:13:01 +0000</lastBuildDate>
     <item>
       <title>@patrickmineault Asynchronous processing is super important for real-world interactions e.g. of animals with a behavioral setup (digitial/analog inputs/outputs). Many people use Labview, which does this more or less automatically. I used Python for some projects, including asyncio.</title>
       <link>https://twitter.com/ptrrupprecht/status/1669773019038842897</link>
@@ -2072,6 +2024,42 @@ https://t.co/jS0XNCUWG7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <content:encoded>RT @MichaeTa: Congratulations to @jonas_verhellen on his successful PhD defense yesterday! https://t.co/2XuHnZrtQo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GauteEinevoll/status/1670158436170883075"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fy1VcERXgAEBFTv.jpg" length="568" type="photo"/>
       <pubDate>Sat, 17 Jun 2023 19:56:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding the neural processes governing the human gut-brain connection has been challenging. A study in @NatureComms examines the perceptual response and neural correlates of gastrointestinal sensation using a minimally invasive mechanosensory probe. https://t.co/4g513rWgo3 https://t.co/PexdIOKUWv</title>
+      <link>https://twitter.com/NaturePortfolio/status/1670171981361082369</link>
+      <description>Understanding the neural processes governing the human gut-brain connection has been challenging. A study in @NatureComms examines the perceptual response and neural correlates of gastrointestinal sensation using a minimally invasive mechanosensory probe. https://t.co/4g513rWgo3 https://t.co/PexdIOKUWv</description>
+      <content:encoded>Understanding the neural processes governing the human gut-brain connection has been challenging. A study in @NatureComms examines the perceptual response and neural correlates of gastrointestinal sensation using a minimally invasive mechanosensory probe. https://t.co/4g513rWgo3 https://t.co/PexdIOKUWv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670171981361082369"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy2kjJSWIAE6zEs.jpg" length="1000" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 20:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jbakcoleman: I went down a rabbit hole on this and it's kind of a shining example of most of what I tweet about.  🧵 https://t.co/pAlrxY…</title>
+      <link>https://twitter.com/KriegeskorteLab/status/1670173056268943364</link>
+      <description>RT @jbakcoleman: I went down a rabbit hole on this and it's kind of a shining example of most of what I tweet about.  🧵 https://t.co/pAlrxY…</description>
+      <content:encoded>RT @jbakcoleman: I went down a rabbit hole on this and it's kind of a shining example of most of what I tweet about.  🧵 https://t.co/pAlrxY…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KriegeskorteLab/status/1670173056268943364"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 20:54:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @cshperspectives: @DrNeilStone Getting a knighthood in Britain now must be like getting a Nature paper and finding out everything else i…</title>
+      <link>https://twitter.com/neuralengine/status/1670175021061242880</link>
+      <description>RT @cshperspectives: @DrNeilStone Getting a knighthood in Britain now must be like getting a Nature paper and finding out everything else i…</description>
+      <content:encoded>RT @cshperspectives: @DrNeilStone Getting a knighthood in Britain now must be like getting a Nature paper and finding out everything else i…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1670175021061242880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 21:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @joshdubnau: Increasingly, nonprofits like @SfNtweets succumb to the idea that to get a quality executive, you must pay extortion salari…</title>
+      <link>https://twitter.com/TonyZador/status/1670175607278149635</link>
+      <description>RT @joshdubnau: Increasingly, nonprofits like @SfNtweets succumb to the idea that to get a quality executive, you must pay extortion salari…</description>
+      <content:encoded>RT @joshdubnau: Increasingly, nonprofits like @SfNtweets succumb to the idea that to get a quality executive, you must pay extortion salari…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1670175607278149635"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 21:04:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>@Rainmaker1973 😬</title>
+      <link>https://twitter.com/elonmusk/status/1670176932552384513</link>
+      <description>@Rainmaker1973 😬</description>
+      <content:encoded>@Rainmaker1973 😬&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670176932552384513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 21:09:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
