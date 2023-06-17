@@ -6,58 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 17:12:54 +0000</lastBuildDate>
-    <item>
-      <title>Armed with technologies to track a creature’s every move, neuroscientists are gaining insights into animal—and human—behaviour. Read the @Nature feature article. https://t.co/wyEV4Xud8K</title>
-      <link>https://twitter.com/NaturePortfolio/status/1669744897102954496</link>
-      <description>Armed with technologies to track a creature’s every move, neuroscientists are gaining insights into animal—and human—behaviour. Read the @Nature feature article. https://t.co/wyEV4Xud8K</description>
-      <content:encoded>Armed with technologies to track a creature’s every move, neuroscientists are gaining insights into animal—and human—behaviour. Read the @Nature feature article. https://t.co/wyEV4Xud8K&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1669744897102954496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 16:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do you ever use async/await in the context of scientific Python workflows? I really like asyncio and have used it for calling LLMs and scraping web data, but am wondering whether it's a bit too in the weeds for a "leveling-up in Python" lesson</title>
-      <link>https://twitter.com/patrickmineault/status/1669746674946699264</link>
-      <description>Do you ever use async/await in the context of scientific Python workflows? I really like asyncio and have used it for calling LLMs and scraping web data, but am wondering whether it's a bit too in the weeds for a "leveling-up in Python" lesson</description>
-      <content:encoded>Do you ever use async/await in the context of scientific Python workflows? I really like asyncio and have used it for calling LLMs and scraping web data, but am wondering whether it's a bit too in the weeds for a "leveling-up in Python" lesson&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1669746674946699264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 16:40:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sciarids are fungus gnats, small harmless creatures that develop as larvae in damp, decaying organic matter
-
-They migrate in unison, gliding on a thin layer of mucous they secrete to deter predators and conserve moisture
-
-[source: https://t.co/25qXvizD56]
-https://t.co/BIkGL00y1Y</title>
-      <link>https://twitter.com/Rainmaker1973/status/1669747441782980608</link>
-      <description>Sciarids are fungus gnats, small harmless creatures that develop as larvae in damp, decaying organic matter
-
-They migrate in unison, gliding on a thin layer of mucous they secrete to deter predators and conserve moisture
-
-[source: https://t.co/25qXvizD56]
-https://t.co/BIkGL00y1Y</description>
-      <content:encoded>Sciarids are fungus gnats, small harmless creatures that develop as larvae in damp, decaying organic matter
-
-They migrate in unison, gliding on a thin layer of mucous they secrete to deter predators and conserve moisture
-
-[source: https://t.co/25qXvizD56]
-https://t.co/BIkGL00y1Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669747441782980608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1667294304946237440/pu/img/VRykRwYhmcwjJ-VW.jpg" length="675" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 16:43:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧠💼Hey neuro professionals! Thinking about your career this weekend? We have six jobs open for your consideration. Take a look!  https://t.co/e2JpZyYTmm #neuroscience #Careers @BlackInNeuro @sacnas @MITBiology @mitbrainandcog</title>
-      <link>https://twitter.com/MIT_Picower/status/1669751915872235533</link>
-      <description>🧠💼Hey neuro professionals! Thinking about your career this weekend? We have six jobs open for your consideration. Take a look!  https://t.co/e2JpZyYTmm #neuroscience #Careers @BlackInNeuro @sacnas @MITBiology @mitbrainandcog</description>
-      <content:encoded>🧠💼Hey neuro professionals! Thinking about your career this weekend? We have six jobs open for your consideration. Take a look!  https://t.co/e2JpZyYTmm #neuroscience #Careers @BlackInNeuro @sacnas @MITBiology @mitbrainandcog&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1669751915872235533"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 17:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Mila_Quebec: This week, Mila hosted its second Robotics Summer School, where participants took part in a final challenge where the goal…</title>
-      <link>https://twitter.com/tyrell_turing/status/1669751952690016256</link>
-      <description>RT @Mila_Quebec: This week, Mila hosted its second Robotics Summer School, where participants took part in a final challenge where the goal…</description>
-      <content:encoded>RT @Mila_Quebec: This week, Mila hosted its second Robotics Summer School, where participants took part in a final challenge where the goal…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669751952690016256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 17:01:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jun 2023 18:18:36 +0000</lastBuildDate>
     <item>
       <title>How MIT’s fab labs scaled around the world: Now a global community of builders of all skill levels and backgrounds, the fab lab network grew from a single maker facility at MIT. https://t.co/2aEcUFQqic https://t.co/yTxVYP1TNc</title>
       <link>https://twitter.com/MIT/status/1669753010405142528</link>
@@ -2057,6 +2006,66 @@ This is called P4 Transparent Film Screen
 https://t.co/2MSWH3KgtB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670117040776962048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1669906403547578368/img/k6jObDBEY5NWUjdh.jpg" length="886" type="photo"/>
       <pubDate>Sat, 17 Jun 2023 17:11:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @OmarSAlolama: Getting the insights of those pushing the frontier of technology is a necessity for effective regulation that does not hi…</title>
+      <link>https://twitter.com/ylecun/status/1670120105332858882</link>
+      <description>RT @OmarSAlolama: Getting the insights of those pushing the frontier of technology is a necessity for effective regulation that does not hi…</description>
+      <content:encoded>RT @OmarSAlolama: Getting the insights of those pushing the frontier of technology is a necessity for effective regulation that does not hi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1670120105332858882"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 17:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observational studies provide crucial information early during epidemics and pandemics, but they often suffer from methodological shortcomings. A Comment article in @NatureMedicine argues that these problems need to be resolved. https://t.co/lqX9VtXoRi</title>
+      <link>https://twitter.com/NaturePortfolio/status/1670123390131138560</link>
+      <description>Observational studies provide crucial information early during epidemics and pandemics, but they often suffer from methodological shortcomings. A Comment article in @NatureMedicine argues that these problems need to be resolved. https://t.co/lqX9VtXoRi</description>
+      <content:encoded>Observational studies provide crucial information early during epidemics and pandemics, but they often suffer from methodological shortcomings. A Comment article in @NatureMedicine argues that these problems need to be resolved. https://t.co/lqX9VtXoRi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670123390131138560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 17 Jun 2023 17:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We've seen all sorts of weird &amp;amp; wonderful uses of AI over the last few months, but you may have not seen these artistic AI generated QR codes. They work and you can try, but you can even create them
+
+[source, read more: https://t.co/BQu1ZXX0b9]
+[generate: https://t.co/kqf6HzxbLh] https://t.co/cAaT46TfkK https://t.co/McQKR2oTGo</title>
+      <link>https://twitter.com/Rainmaker1973/status/1670123919460773889</link>
+      <description>We've seen all sorts of weird &amp;amp; wonderful uses of AI over the last few months, but you may have not seen these artistic AI generated QR codes. They work and you can try, but you can even create them
+
+[source, read more: https://t.co/BQu1ZXX0b9]
+[generate: https://t.co/kqf6HzxbLh] https://t.co/cAaT46TfkK https://t.co/McQKR2oTGo</description>
+      <content:encoded>We've seen all sorts of weird &amp;amp; wonderful uses of AI over the last few months, but you may have not seen these artistic AI generated QR codes. They work and you can try, but you can even create them
+
+[source, read more: https://t.co/BQu1ZXX0b9]
+[generate: https://t.co/kqf6HzxbLh] https://t.co/cAaT46TfkK https://t.co/McQKR2oTGo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670123919460773889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy141IkXwAIM8pC.jpg" length="680" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 17:39:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get the world of science delivered to your inbox every weekday. #ScienceAdviser is launching soon, featuring:
+
+Top picks of news and research
+Exclusive reporting and analysis
+Editor’s curation of recommended reading
+Revolving daily segments
+
+Subscribe: https://t.co/N8Tmv18b9w https://t.co/MikTYwivlq</title>
+      <link>https://twitter.com/ScienceMagazine/status/1670129202148917257</link>
+      <description>Get the world of science delivered to your inbox every weekday. #ScienceAdviser is launching soon, featuring:
+
+Top picks of news and research
+Exclusive reporting and analysis
+Editor’s curation of recommended reading
+Revolving daily segments
+
+Subscribe: https://t.co/N8Tmv18b9w https://t.co/MikTYwivlq</description>
+      <content:encoded>Get the world of science delivered to your inbox every weekday. #ScienceAdviser is launching soon, featuring:
+
+Top picks of news and research
+Exclusive reporting and analysis
+Editor’s curation of recommended reading
+Revolving daily segments
+
+Subscribe: https://t.co/N8Tmv18b9w https://t.co/MikTYwivlq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1670129202148917257"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy19qFMXgAAF1yS.png" length="641" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 18:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
