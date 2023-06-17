@@ -6,39 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 19:11:57 +0000</lastBuildDate>
-    <item>
-      <title>Last week, the neuroscience community at #Yale celebrated summer! Thank you to the Arnsten lab for hosting and bringing so much fun to this networking hour! https://t.co/uErFs3VFCf</title>
-      <link>https://twitter.com/KavliAtYale/status/1669761438557036545</link>
-      <description>Last week, the neuroscience community at #Yale celebrated summer! Thank you to the Arnsten lab for hosting and bringing so much fun to this networking hour! https://t.co/uErFs3VFCf</description>
-      <content:encoded>Last week, the neuroscience community at #Yale celebrated summer! Thank you to the Arnsten lab for hosting and bringing so much fun to this networking hour! https://t.co/uErFs3VFCf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KavliAtYale/status/1669761438557036545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fywup5-XgAA8ops.jpg" length="927" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 17:38:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @alxecker: ML and comp neuro folks, join the second edition of our popular challenge on predictive modeling of mouse V1, this year with…</title>
-      <link>https://twitter.com/CellTypist/status/1669763808779272193</link>
-      <description>RT @alxecker: ML and comp neuro folks, join the second edition of our popular challenge on predictive modeling of mouse V1, this year with…</description>
-      <content:encoded>RT @alxecker: ML and comp neuro folks, join the second edition of our popular challenge on predictive modeling of mouse V1, this year with…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1669763808779272193"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 17:48:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>This animation by Michael Biebl shows how counter intuitive approaching a black hole may look like due to the strong gravitational lensing 
-
-[source, read more: https://t.co/9po3AuK6e2]
-https://t.co/FaCOecylri</title>
-      <link>https://twitter.com/Rainmaker1973/status/1669763999028707337</link>
-      <description>This animation by Michael Biebl shows how counter intuitive approaching a black hole may look like due to the strong gravitational lensing 
-
-[source, read more: https://t.co/9po3AuK6e2]
-https://t.co/FaCOecylri</description>
-      <content:encoded>This animation by Michael Biebl shows how counter intuitive approaching a black hole may look like due to the strong gravitational lensing 
-
-[source, read more: https://t.co/9po3AuK6e2]
-https://t.co/FaCOecylri&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669763999028707337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1124981655037403136/pu/img/BjVKtGC4HcsW9hiN.jpg" length="480" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 17:48:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jun 2023 20:15:47 +0000</lastBuildDate>
     <item>
       <title>RT @DannyBeales: With less than 5 weeks until polling day, I need your support to turn Uxbridge and South Ruislip red. 🌹
 
@@ -2059,6 +2027,51 @@ https://t.co/0b6uWXd7c1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>New Research: AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool #neuroscience https://t.co/9icJgwLq3Z</description>
       <content:encoded>New Research: AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool #neuroscience https://t.co/9icJgwLq3Z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670145550367481856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 17 Jun 2023 19:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Science study presents a method for #3Dprinting nanoscale optical-grade glass at 650°C—roughly 500°C lower than the sinter temperatures needed by other methods.
+
+The approach may help redefine the paradigm for free-form manufacturing of silica glass. https://t.co/5QzgEMjZYK https://t.co/AeJZp56ygG</title>
+      <link>https://twitter.com/ScienceMagazine/status/1670151864417959936</link>
+      <description>A new Science study presents a method for #3Dprinting nanoscale optical-grade glass at 650°C—roughly 500°C lower than the sinter temperatures needed by other methods.
+
+The approach may help redefine the paradigm for free-form manufacturing of silica glass. https://t.co/5QzgEMjZYK https://t.co/AeJZp56ygG</description>
+      <content:encoded>A new Science study presents a method for #3Dprinting nanoscale optical-grade glass at 650°C—roughly 500°C lower than the sinter temperatures needed by other methods.
+
+The approach may help redefine the paradigm for free-form manufacturing of silica glass. https://t.co/5QzgEMjZYK https://t.co/AeJZp56ygG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1670151864417959936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy2SQ3oWwAEu0BO.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 19:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>The distance from the brain to the toe can be more than 1.8 meters (6 feet) in an adult, yet messages can travel between the two in 1/100 of a second.
+
+This is what out nervous system looks like from the inside
+
+[📹 SciePro: https://t.co/qIWQbV4yk6]
+https://t.co/jS0XNCUWG7</title>
+      <link>https://twitter.com/Rainmaker1973/status/1670152929246838786</link>
+      <description>The distance from the brain to the toe can be more than 1.8 meters (6 feet) in an adult, yet messages can travel between the two in 1/100 of a second.
+
+This is what out nervous system looks like from the inside
+
+[📹 SciePro: https://t.co/qIWQbV4yk6]
+https://t.co/jS0XNCUWG7</description>
+      <content:encoded>The distance from the brain to the toe can be more than 1.8 meters (6 feet) in an adult, yet messages can travel between the two in 1/100 of a second.
+
+This is what out nervous system looks like from the inside
+
+[📹 SciePro: https://t.co/qIWQbV4yk6]
+https://t.co/jS0XNCUWG7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670152929246838786"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1669676543382024192/pu/img/i30EUct2ABea7sBy.jpg" length="720" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 19:34:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MichaeTa: Congratulations to @jonas_verhellen on his successful PhD defense yesterday! https://t.co/2XuHnZrtQo</title>
+      <link>https://twitter.com/GauteEinevoll/status/1670158436170883075</link>
+      <description>RT @MichaeTa: Congratulations to @jonas_verhellen on his successful PhD defense yesterday! https://t.co/2XuHnZrtQo</description>
+      <content:encoded>RT @MichaeTa: Congratulations to @jonas_verhellen on his successful PhD defense yesterday! https://t.co/2XuHnZrtQo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GauteEinevoll/status/1670158436170883075"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy1VcERXgAEBFTv.jpg" length="568" type="photo"/>
+      <pubDate>Sat, 17 Jun 2023 19:56:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
