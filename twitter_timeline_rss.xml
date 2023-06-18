@@ -6,28 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jun 2023 01:51:26 +0000</lastBuildDate>
-    <item>
-      <title>✨ When schools support student well-being, it helps students be more engaged and accelerates learning ✨ 
-
-Check out this special @educationweek report to learn more about what works to support student motivation and engagement ➡️ https://t.co/SUgztYKdwJ https://t.co/M8RDXB1A5B</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1669781934522638360</link>
-      <description>✨ When schools support student well-being, it helps students be more engaged and accelerates learning ✨ 
-
-Check out this special @educationweek report to learn more about what works to support student motivation and engagement ➡️ https://t.co/SUgztYKdwJ https://t.co/M8RDXB1A5B</description>
-      <content:encoded>✨ When schools support student well-being, it helps students be more engaged and accelerates learning ✨ 
-
-Check out this special @educationweek report to learn more about what works to support student motivation and engagement ➡️ https://t.co/SUgztYKdwJ https://t.co/M8RDXB1A5B&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1669781934522638360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FyxB0h7X0AAygju.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 19:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Spontaneous Necker-Cube Reversals may not be that Spontaneous #Neuroscience https://t.co/6LpgxORvtu</title>
-      <link>https://twitter.com/FrontNeurosci/status/1669783031551516673</link>
-      <description>New Research: Spontaneous Necker-Cube Reversals may not be that Spontaneous #Neuroscience https://t.co/6LpgxORvtu</description>
-      <content:encoded>New Research: Spontaneous Necker-Cube Reversals may not be that Spontaneous #Neuroscience https://t.co/6LpgxORvtu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1669783031551516673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 19:04:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jun 2023 02:53:57 +0000</lastBuildDate>
     <item>
       <title>@tyrell_turing @hardmaru Yes, lots of these could be implemented. I still find it remarkable that so many things emerged from these simple evolutionary rules. The biological machinery and interdependence is so amazing. It might not be the fastest but it is robust and powerful.</title>
       <link>https://twitter.com/LecoqJerome/status/1669783069241536512</link>
@@ -2049,6 +2028,20 @@ https://t.co/jS0XNCUWG7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @tkalil2050: $2 million in prizes for best ideas for market-shaping to solve problems in climate change and pandemic preparedness - with…</description>
       <content:encoded>RT @tkalil2050: $2 million in prizes for best ideas for market-shaping to solve problems in climate change and pandemic preparedness - with…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1670247750326206466"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 18 Jun 2023 01:51:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @S_OhEigeartaigh: Good post by Dr Buolamwini. I agree strongly re: the opportunities for strategic cooperation between groups who don't…</title>
+      <link>https://twitter.com/tegmark/status/1670249435337572356</link>
+      <description>RT @S_OhEigeartaigh: Good post by Dr Buolamwini. I agree strongly re: the opportunities for strategic cooperation between groups who don't…</description>
+      <content:encoded>RT @S_OhEigeartaigh: Good post by Dr Buolamwini. I agree strongly re: the opportunities for strategic cooperation between groups who don't…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1670249435337572356"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 01:57:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: Molecular Links Between Metabolism and Neural Dysfunction #Neuroscience https://t.co/3ITa3Yb2Wp</title>
+      <link>https://twitter.com/FrontNeurosci/status/1670251994576211968</link>
+      <description>New Research: Editorial: Molecular Links Between Metabolism and Neural Dysfunction #Neuroscience https://t.co/3ITa3Yb2Wp</description>
+      <content:encoded>New Research: Editorial: Molecular Links Between Metabolism and Neural Dysfunction #Neuroscience https://t.co/3ITa3Yb2Wp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670251994576211968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 02:08:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
