@@ -6,82 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jun 2023 18:19:02 +0000</lastBuildDate>
-    <item>
-      <title>«Everybody moves differently and through movement, people can create something beautiful»
-
-Most people would say Otto Nyholm is a just stuntman, but a better definition of what he does is "movement artist"
-
-[more clips: https://t.co/dxs1PgomlW]
-https://t.co/4y9SReZBTs https://t.co/uoF9wTFQQY</title>
-      <link>https://twitter.com/Rainmaker1973/status/1670034667754455040</link>
-      <description>«Everybody moves differently and through movement, people can create something beautiful»
-
-Most people would say Otto Nyholm is a just stuntman, but a better definition of what he does is "movement artist"
-
-[more clips: https://t.co/dxs1PgomlW]
-https://t.co/4y9SReZBTs https://t.co/uoF9wTFQQY</description>
-      <content:encoded>«Everybody moves differently and through movement, people can create something beautiful»
-
-Most people would say Otto Nyholm is a just stuntman, but a better definition of what he does is "movement artist"
-
-[more clips: https://t.co/dxs1PgomlW]
-https://t.co/4y9SReZBTs https://t.co/uoF9wTFQQY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670034667754455040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1668611625128009729/pu/img/n6S9BaG2nbNLv_Pj.jpg" length="576" type="photo"/>
-      <pubDate>Sat, 17 Jun 2023 11:44:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sometimes it is said dinosaurs might have not looked like we represent them because we mostly have bones.
-
-Yet, this 110 million-year-old superbly preserved nodosaur accidentally found by miners in Canada, naturally reveals his appearance
-
-[read more: https://t.co/5CU0CACMlF] https://t.co/xxSYpaDvOU</title>
-      <link>https://twitter.com/Rainmaker1973/status/1670035646151360512</link>
-      <description>Sometimes it is said dinosaurs might have not looked like we represent them because we mostly have bones.
-
-Yet, this 110 million-year-old superbly preserved nodosaur accidentally found by miners in Canada, naturally reveals his appearance
-
-[read more: https://t.co/5CU0CACMlF] https://t.co/xxSYpaDvOU</description>
-      <content:encoded>Sometimes it is said dinosaurs might have not looked like we represent them because we mostly have bones.
-
-Yet, this 110 million-year-old superbly preserved nodosaur accidentally found by miners in Canada, naturally reveals his appearance
-
-[read more: https://t.co/5CU0CACMlF] https://t.co/xxSYpaDvOU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670035646151360512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fy0n5KPXgAIJ2V8.jpg" length="770" type="photo"/>
-      <pubDate>Sat, 17 Jun 2023 11:48:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Allen Institute for Cell Science is hiring! Check out our open positions and join us in taking a novel, holistic approach to understanding the human cell. 
-
-Visit: https://t.co/Zzyk8x3XFP
-
-#ISSCR2023 #ISSCR @ISSCR</title>
-      <link>https://twitter.com/AllenInstitute/status/1670035815001464833</link>
-      <description>The Allen Institute for Cell Science is hiring! Check out our open positions and join us in taking a novel, holistic approach to understanding the human cell. 
-
-Visit: https://t.co/Zzyk8x3XFP
-
-#ISSCR2023 #ISSCR @ISSCR</description>
-      <content:encoded>The Allen Institute for Cell Science is hiring! Check out our open positions and join us in taking a novel, holistic approach to understanding the human cell. 
-
-Visit: https://t.co/Zzyk8x3XFP
-
-#ISSCR2023 #ISSCR @ISSCR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1670035815001464833"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 17 Jun 2023 11:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Great to see so many country and company leaders around the world interacting with people on this platform!
-
-This is a great way to get useful feedback, learn about new ideas and connect with a smart, savvy audience. https://t.co/q3ZVghQFGU</title>
-      <link>https://twitter.com/elonmusk/status/1670036143956692993</link>
-      <description>Great to see so many country and company leaders around the world interacting with people on this platform!
-
-This is a great way to get useful feedback, learn about new ideas and connect with a smart, savvy audience. https://t.co/q3ZVghQFGU</description>
-      <content:encoded>Great to see so many country and company leaders around the world interacting with people on this platform!
-
-This is a great way to get useful feedback, learn about new ideas and connect with a smart, savvy audience. https://t.co/q3ZVghQFGU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670036143956692993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 17 Jun 2023 11:50:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jun 2023 19:12:06 +0000</lastBuildDate>
     <item>
       <title>We're excited to share our participation in the highly anticipated @sophionbio annual Ion Channel Modulation Symposium - ICMS 2023, happening next week! Our team will be present, showcasing the capabilities of our PatchScope Pro System. Learn more:
 https://t.co/OUG9ptwaeN https://t.co/ZhOmCtSmKl</title>
@@ -2276,24 +2201,51 @@ More info: https://t.co/9d3ZJ8QMlv https://t.co/awUPCkLhy4&lt;blockquote class="
       <pubDate>Sun, 18 Jun 2023 18:07:29 +0000</pubDate>
     </item>
     <item>
-      <title>Adhesives based on gecko skin have truly weird properties: they can hold huge weights but they only grab when you need to
+      <title>RT @JeromeColombain: L'IA était omniprésente au salon @VivaTech : un danger selon @elonmusk, une chance selon @ylecun 
+À écouter ici : http…</title>
+      <link>https://twitter.com/ylecun/status/1670500815079976970</link>
+      <description>RT @JeromeColombain: L'IA était omniprésente au salon @VivaTech : un danger selon @elonmusk, une chance selon @ylecun 
+À écouter ici : http…</description>
+      <content:encoded>RT @JeromeColombain: L'IA était omniprésente au salon @VivaTech : un danger selon @elonmusk, une chance selon @ylecun 
+À écouter ici : http…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1670500815079976970"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 18:36:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT could assist clinicians in the decision making process when treating complex breast cancer cases, a new Health Community post reports. The AI analyses patients' medical records and diagnostic results to offer potential treatment plans. https://t.co/sCYjFguoxf</title>
+      <link>https://twitter.com/NaturePortfolio/status/1670501884090626050</link>
+      <description>ChatGPT could assist clinicians in the decision making process when treating complex breast cancer cases, a new Health Community post reports. The AI analyses patients' medical records and diagnostic results to offer potential treatment plans. https://t.co/sCYjFguoxf</description>
+      <content:encoded>ChatGPT could assist clinicians in the decision making process when treating complex breast cancer cases, a new Health Community post reports. The AI analyses patients' medical records and diagnostic results to offer potential treatment plans. https://t.co/sCYjFguoxf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670501884090626050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 18:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharks swim through schools of fish to assess the availability and quality of prey. They might not be hungry at that moment, but they're gathering information for future hunts.
 
-[full video, Veritasium: https://t.co/71QqjLXYuq]
-[read more: https://t.co/85ubAINBBq]
-https://t.co/dIrr2u49ur</title>
-      <link>https://twitter.com/Rainmaker1973/status/1670495978179248135</link>
-      <description>Adhesives based on gecko skin have truly weird properties: they can hold huge weights but they only grab when you need to
+And fish moves are like magnetic repulsion
 
-[full video, Veritasium: https://t.co/71QqjLXYuq]
-[read more: https://t.co/85ubAINBBq]
-https://t.co/dIrr2u49ur</description>
-      <content:encoded>Adhesives based on gecko skin have truly weird properties: they can hold huge weights but they only grab when you need to
+[📹 https://t.co/n23UkZtszB]
+https://t.co/HghdcjWFtz</title>
+      <link>https://twitter.com/Rainmaker1973/status/1670501981566238721</link>
+      <description>Sharks swim through schools of fish to assess the availability and quality of prey. They might not be hungry at that moment, but they're gathering information for future hunts.
 
-[full video, Veritasium: https://t.co/71QqjLXYuq]
-[read more: https://t.co/85ubAINBBq]
-https://t.co/dIrr2u49ur&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670495978179248135"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1670401763755581446/pu/img/hMw3MmqFQnzDozTx.jpg" length="406" type="photo"/>
-      <pubDate>Sun, 18 Jun 2023 18:17:32 +0000</pubDate>
+And fish moves are like magnetic repulsion
+
+[📹 https://t.co/n23UkZtszB]
+https://t.co/HghdcjWFtz</description>
+      <content:encoded>Sharks swim through schools of fish to assess the availability and quality of prey. They might not be hungry at that moment, but they're gathering information for future hunts.
+
+And fish moves are like magnetic repulsion
+
+[📹 https://t.co/n23UkZtszB]
+https://t.co/HghdcjWFtz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670501981566238721"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1670204427553185792/pu/img/ajsJc0pWbch97vbW.jpg" length="675" type="photo"/>
+      <pubDate>Sun, 18 Jun 2023 18:41:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Eliciting brain waves of people with cognitive impairment during meditation exercises using portable electroencephalography in a smart-home environment: a pilot study: Objectives: Meditation imparts relaxation and… #ageing #neuroscience https://t.co/vD2Zw70Fss</title>
+      <link>https://twitter.com/FrontNeurosci/status/1670507809019138050</link>
+      <description>New Research: Eliciting brain waves of people with cognitive impairment during meditation exercises using portable electroencephalography in a smart-home environment: a pilot study: Objectives: Meditation imparts relaxation and… #ageing #neuroscience https://t.co/vD2Zw70Fss</description>
+      <content:encoded>New Research: Eliciting brain waves of people with cognitive impairment during meditation exercises using portable electroencephalography in a smart-home environment: a pilot study: Objectives: Meditation imparts relaxation and… #ageing #neuroscience https://t.co/vD2Zw70Fss&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670507809019138050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 19:04:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
