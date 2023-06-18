@@ -6,74 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 23:15:41 +0000</lastBuildDate>
-    <item>
-      <title>RT @KatjaReinhard: Join us as a postdoc at SISSA to study flexibility in innate behaviours and underlying neural circuits! We're looking fo…</title>
-      <link>https://twitter.com/BoninLab/status/1669775528599977987</link>
-      <description>RT @KatjaReinhard: Join us as a postdoc at SISSA to study flexibility in innate behaviours and underlying neural circuits! We're looking fo…</description>
-      <content:encoded>RT @KatjaReinhard: Join us as a postdoc at SISSA to study flexibility in innate behaviours and underlying neural circuits! We're looking fo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BoninLab/status/1669775528599977987"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:34:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>A study in @Nature uses a clinical language model trained on unstructured clinical notes from the electronic health record to enhance prediction of clinical and operational events. https://t.co/AVh5PRulyu https://t.co/q4cjxdshku</title>
-      <link>https://twitter.com/NaturePortfolio/status/1669777129570009111</link>
-      <description>A study in @Nature uses a clinical language model trained on unstructured clinical notes from the electronic health record to enhance prediction of clinical and operational events. https://t.co/AVh5PRulyu https://t.co/q4cjxdshku</description>
-      <content:encoded>A study in @Nature uses a clinical language model trained on unstructured clinical notes from the electronic health record to enhance prediction of clinical and operational events. https://t.co/AVh5PRulyu https://t.co/q4cjxdshku&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1669777129570009111"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fyw9bvxXgAslDyn.jpg" length="1066" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ArabsInNeuro: 🚨🚨 AAAANNDD it's here 🔥🔥
-Applications are now open for the second and improved version of the Introduction to Computation…</title>
-      <link>https://twitter.com/neuromatch/status/1669780023933378560</link>
-      <description>RT @ArabsInNeuro: 🚨🚨 AAAANNDD it's here 🔥🔥
-Applications are now open for the second and improved version of the Introduction to Computation…</description>
-      <content:encoded>RT @ArabsInNeuro: 🚨🚨 AAAANNDD it's here 🔥🔥
-Applications are now open for the second and improved version of the Introduction to Computation…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1669780023933378560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:52:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>@tyrell_turing @hardmaru Mmmm how good is SGD to initialize in your opinion? I feel like evolution provides the initialization framework that is necessary to find the solution islands. Once your are hooked onto a potential solution, it could be slower, yes.</title>
-      <link>https://twitter.com/LecoqJerome/status/1669780591397720065</link>
-      <description>@tyrell_turing @hardmaru Mmmm how good is SGD to initialize in your opinion? I feel like evolution provides the initialization framework that is necessary to find the solution islands. Once your are hooked onto a potential solution, it could be slower, yes.</description>
-      <content:encoded>@tyrell_turing @hardmaru Mmmm how good is SGD to initialize in your opinion? I feel like evolution provides the initialization framework that is necessary to find the solution islands. Once your are hooked onto a potential solution, it could be slower, yes.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1669780591397720065"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:54:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>@LecoqJerome @hardmaru I think it would still be better. Initialization in large, flat minima would be good, and SGD would get you there faster. I don't see any reason why evolution would produce better initializations...</title>
-      <link>https://twitter.com/tyrell_turing/status/1669781029358280720</link>
-      <description>@LecoqJerome @hardmaru I think it would still be better. Initialization in large, flat minima would be good, and SGD would get you there faster. I don't see any reason why evolution would produce better initializations...</description>
-      <content:encoded>@LecoqJerome @hardmaru I think it would still be better. Initialization in large, flat minima would be good, and SGD would get you there faster. I don't see any reason why evolution would produce better initializations...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669781029358280720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:56:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>@tyrell_turing @hardmaru Because it parallelize the search by design?</title>
-      <link>https://twitter.com/LecoqJerome/status/1669781270489104384</link>
-      <description>@tyrell_turing @hardmaru Because it parallelize the search by design?</description>
-      <content:encoded>@tyrell_turing @hardmaru Because it parallelize the search by design?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1669781270489104384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:57:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>@LecoqJerome @hardmaru You can easily do the same with SGD!</title>
-      <link>https://twitter.com/tyrell_turing/status/1669781464337068034</link>
-      <description>@LecoqJerome @hardmaru You can easily do the same with SGD!</description>
-      <content:encoded>@LecoqJerome @hardmaru You can easily do the same with SGD!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1669781464337068034"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 18:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>This study graphically illustrates what happens to your muscles (with and without) the regular and beneficial exercise that the sport of triathlon provides, using an MRI cross section of three different aged men with different life styles.
-
-[full paper: https://t.co/HOt53Q0uMJ] https://t.co/ZDaX1LWTyt</title>
-      <link>https://twitter.com/Rainmaker1973/status/1669781893158699008</link>
-      <description>This study graphically illustrates what happens to your muscles (with and without) the regular and beneficial exercise that the sport of triathlon provides, using an MRI cross section of three different aged men with different life styles.
-
-[full paper: https://t.co/HOt53Q0uMJ] https://t.co/ZDaX1LWTyt</description>
-      <content:encoded>This study graphically illustrates what happens to your muscles (with and without) the regular and beneficial exercise that the sport of triathlon provides, using an MRI cross section of three different aged men with different life styles.
-
-[full paper: https://t.co/HOt53Q0uMJ] https://t.co/ZDaX1LWTyt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1669781893158699008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FywyhMGWwAAF79g.jpg" length="418" type="photo"/>
-      <pubDate>Fri, 16 Jun 2023 19:00:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jun 2023 01:51:26 +0000</lastBuildDate>
     <item>
       <title>✨ When schools support student well-being, it helps students be more engaged and accelerates learning ✨ 
 
@@ -2058,6 +1991,64 @@ https://t.co/jS0XNCUWG7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>Accounts that try to game our verification system with non-sequitur self-promotion or advertise in a misleading way will be suspended</description>
       <content:encoded>Accounts that try to game our verification system with non-sequitur self-promotion or advertise in a misleading way will be suspended&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670206831841427458"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 17 Jun 2023 23:08:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: Personalized care in neurological diseases #Neuroscience https://t.co/40DcLxFPh4</title>
+      <link>https://twitter.com/FrontNeurosci/status/1670219909228544000</link>
+      <description>New Research: Editorial: Personalized care in neurological diseases #Neuroscience https://t.co/40DcLxFPh4</description>
+      <content:encoded>New Research: Editorial: Personalized care in neurological diseases #Neuroscience https://t.co/40DcLxFPh4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670219909228544000"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 00:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>That’s my wife! https://t.co/CNFA6D21Pb</title>
+      <link>https://twitter.com/rhuganir/status/1670223947244158978</link>
+      <description>That’s my wife! https://t.co/CNFA6D21Pb</description>
+      <content:encoded>That’s my wife! https://t.co/CNFA6D21Pb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1670223947244158978"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 00:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>@KordingLab Sadly, administration is not even the only ones doing the capturing</title>
+      <link>https://twitter.com/Pascallisch/status/1670228234103922688</link>
+      <description>@KordingLab Sadly, administration is not even the only ones doing the capturing</description>
+      <content:encoded>@KordingLab Sadly, administration is not even the only ones doing the capturing&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Pascallisch/status/1670228234103922688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 00:33:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>still hate him https://t.co/Qxpibc7BQS https://t.co/Odm5kGyaBx</title>
+      <link>https://twitter.com/gottapatchemall/status/1670230721691291648</link>
+      <description>still hate him https://t.co/Qxpibc7BQS https://t.co/Odm5kGyaBx</description>
+      <content:encoded>still hate him https://t.co/Qxpibc7BQS https://t.co/Odm5kGyaBx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1670230721691291648"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy3Z_ZqaIAMgqrp.jpg" length="1080" type="photo"/>
+      <pubDate>Sun, 18 Jun 2023 00:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oh hi lol https://t.co/pLxkLDu0Qs</title>
+      <link>https://twitter.com/elonmusk/status/1670234980776132608</link>
+      <description>Oh hi lol https://t.co/pLxkLDu0Qs</description>
+      <content:encoded>Oh hi lol https://t.co/pLxkLDu0Qs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670234980776132608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy3d3Q4XsAAPSAN.jpg" length="750" type="photo"/>
+      <pubDate>Sun, 18 Jun 2023 01:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: APOE ε4 accelerates the longitudinal cerebral atrophy in OASIS-3 elders without dementia at enrollment: Early studies have reported that APOE is strongly associated with brain atrophy and cognitive decline among… #ageing #neuroscience https://t.co/7lmT0n6Z2d</title>
+      <link>https://twitter.com/FrontNeurosci/status/1670238789636333568</link>
+      <description>New Research: APOE ε4 accelerates the longitudinal cerebral atrophy in OASIS-3 elders without dementia at enrollment: Early studies have reported that APOE is strongly associated with brain atrophy and cognitive decline among… #ageing #neuroscience https://t.co/7lmT0n6Z2d</description>
+      <content:encoded>New Research: APOE ε4 accelerates the longitudinal cerebral atrophy in OASIS-3 elders without dementia at enrollment: Early studies have reported that APOE is strongly associated with brain atrophy and cognitive decline among… #ageing #neuroscience https://t.co/7lmT0n6Z2d&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670238789636333568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 01:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>we solved this in 2011 but i forget the answer https://t.co/80IQ3QSN2D</title>
+      <link>https://twitter.com/andpru/status/1670242207075381249</link>
+      <description>we solved this in 2011 but i forget the answer https://t.co/80IQ3QSN2D</description>
+      <content:encoded>we solved this in 2011 but i forget the answer https://t.co/80IQ3QSN2D&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1670242207075381249"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 01:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @tkalil2050: $2 million in prizes for best ideas for market-shaping to solve problems in climate change and pandemic preparedness - with…</title>
+      <link>https://twitter.com/AdamEzraCohen/status/1670247750326206466</link>
+      <description>RT @tkalil2050: $2 million in prizes for best ideas for market-shaping to solve problems in climate change and pandemic preparedness - with…</description>
+      <content:encoded>RT @tkalil2050: $2 million in prizes for best ideas for market-shaping to solve problems in climate change and pandemic preparedness - with…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1670247750326206466"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 01:51:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
