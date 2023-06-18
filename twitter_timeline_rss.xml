@@ -6,31 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jun 2023 22:14:16 +0000</lastBuildDate>
-    <item>
-      <title>@Rainmaker1973 One of the best accounts on this platform!</title>
-      <link>https://twitter.com/elonmusk/status/1670045291096199169</link>
-      <description>@Rainmaker1973 One of the best accounts on this platform!</description>
-      <content:encoded>@Rainmaker1973 One of the best accounts on this platform!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670045291096199169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 17 Jun 2023 12:26:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>While 3D ultrasound tests can only visualize the three dimensions of an ultrasound picture, a 4D ultrasound test can show a dynamic picture. This is a fetus in the womb scanned with a 4D ultrasound
-
-[source: https://t.co/p4ZMBBI9de]
-https://t.co/lI5azLiPSO</title>
-      <link>https://twitter.com/Rainmaker1973/status/1670046072914300928</link>
-      <description>While 3D ultrasound tests can only visualize the three dimensions of an ultrasound picture, a 4D ultrasound test can show a dynamic picture. This is a fetus in the womb scanned with a 4D ultrasound
-
-[source: https://t.co/p4ZMBBI9de]
-https://t.co/lI5azLiPSO</description>
-      <content:encoded>While 3D ultrasound tests can only visualize the three dimensions of an ultrasound picture, a 4D ultrasound test can show a dynamic picture. This is a fetus in the womb scanned with a 4D ultrasound
-
-[source: https://t.co/p4ZMBBI9de]
-https://t.co/lI5azLiPSO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670046072914300928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1090835319581220864/img/eV4hInt82YBiN3Jw.jpg" length="480" type="photo"/>
-      <pubDate>Sat, 17 Jun 2023 12:29:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jun 2023 23:15:56 +0000</lastBuildDate>
     <item>
       <title>@elonmusk Wow, many thanks! 🙏</title>
       <link>https://twitter.com/Rainmaker1973/status/1670048387146694660</link>
@@ -2209,6 +2185,27 @@ https://t.co/HghdcjWFtz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @katpyxa: Interesting discovery that fura Ca+ fluorescent dyes are actually myosin inhibitors comparable to blebbistatin</description>
       <content:encoded>RT @katpyxa: Interesting discovery that fura Ca+ fluorescent dyes are actually myosin inhibitors comparable to blebbistatin&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ptrrupprecht/status/1670539698974912512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 18 Jun 2023 21:11:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BrainsRus: Nice to see this. We need more negative results in the literature. A collection of cannabinoid-related negative findings fro…</title>
+      <link>https://twitter.com/HjerlingLeffler/status/1670558595690242050</link>
+      <description>RT @BrainsRus: Nice to see this. We need more negative results in the literature. A collection of cannabinoid-related negative findings fro…</description>
+      <content:encoded>RT @BrainsRus: Nice to see this. We need more negative results in the literature. A collection of cannabinoid-related negative findings fro…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HjerlingLeffler/status/1670558595690242050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 22:26:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Therapies for Parkinson’s disease and the gut microbiome: evidence for bidirectional connection: The gut brain axis (GBA), a bidirectional communication pathway has often been linked to health and disease, and gut… #ageing #neuroscience https://t.co/XNqH7T8Vgs</title>
+      <link>https://twitter.com/FrontNeurosci/status/1670562540336844801</link>
+      <description>New Research: Therapies for Parkinson’s disease and the gut microbiome: evidence for bidirectional connection: The gut brain axis (GBA), a bidirectional communication pathway has often been linked to health and disease, and gut… #ageing #neuroscience https://t.co/XNqH7T8Vgs</description>
+      <content:encoded>New Research: Therapies for Parkinson’s disease and the gut microbiome: evidence for bidirectional connection: The gut brain axis (GBA), a bidirectional communication pathway has often been linked to health and disease, and gut… #ageing #neuroscience https://t.co/XNqH7T8Vgs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670562540336844801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 22:42:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanoparticles containing diverse elements made using liquid metal https://t.co/1eMTzmEM8p</title>
+      <link>https://twitter.com/NatureNV/status/1670567363874373632</link>
+      <description>Nanoparticles containing diverse elements made using liquid metal https://t.co/1eMTzmEM8p</description>
+      <content:encoded>Nanoparticles containing diverse elements made using liquid metal https://t.co/1eMTzmEM8p&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1670567363874373632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 23:01:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
