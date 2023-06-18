@@ -6,7 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jun 2023 02:53:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2023 03:20:12 +0000</lastBuildDate>
     <item>
       <title>@tyrell_turing @hardmaru Yes, lots of these could be implemented. I still find it remarkable that so many things emerged from these simple evolutionary rules. The biological machinery and interdependence is so amazing. It might not be the fastest but it is robust and powerful.</title>
       <link>https://twitter.com/LecoqJerome/status/1669783069241536512</link>
