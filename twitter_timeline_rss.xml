@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jun 2023 05:15:18 +0000</lastBuildDate>
-    <item>
-      <title>@tyrell_turing @hardmaru Yes, lots of these could be implemented. I still find it remarkable that so many things emerged from these simple evolutionary rules. The biological machinery and interdependence is so amazing. It might not be the fastest but it is robust and powerful.</title>
-      <link>https://twitter.com/LecoqJerome/status/1669783069241536512</link>
-      <description>@tyrell_turing @hardmaru Yes, lots of these could be implemented. I still find it remarkable that so many things emerged from these simple evolutionary rules. The biological machinery and interdependence is so amazing. It might not be the fastest but it is robust and powerful.</description>
-      <content:encoded>@tyrell_turing @hardmaru Yes, lots of these could be implemented. I still find it remarkable that so many things emerged from these simple evolutionary rules. The biological machinery and interdependence is so amazing. It might not be the fastest but it is robust and powerful.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1669783069241536512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 16 Jun 2023 19:04:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jun 2023 06:19:58 +0000</lastBuildDate>
     <item>
       <title>Total joke to allow permanent virtual attendance in parliament. https://t.co/ZSHrHvmKI8</title>
       <link>https://twitter.com/andpru/status/1669783834512990218</link>
@@ -2042,6 +2035,19 @@ https://t.co/jS0XNCUWG7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>New Research: Editorial: Molecular Links Between Metabolism and Neural Dysfunction #Neuroscience https://t.co/3ITa3Yb2Wp</description>
       <content:encoded>New Research: Editorial: Molecular Links Between Metabolism and Neural Dysfunction #Neuroscience https://t.co/3ITa3Yb2Wp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670251994576211968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 18 Jun 2023 02:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @GreekAnalyst: Playing a video game just by thinking?
+
+It’s fantastic to see a startup co-founded by a large team of Greek scientists to…</title>
+      <link>https://twitter.com/NeurobotBlog/status/1670303552231690240</link>
+      <description>RT @GreekAnalyst: Playing a video game just by thinking?
+
+It’s fantastic to see a startup co-founded by a large team of Greek scientists to…</description>
+      <content:encoded>RT @GreekAnalyst: Playing a video game just by thinking?
+
+It’s fantastic to see a startup co-founded by a large team of Greek scientists to…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeurobotBlog/status/1670303552231690240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 05:32:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
