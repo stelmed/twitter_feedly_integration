@@ -6,51 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jun 2023 20:16:00 +0000</lastBuildDate>
-    <item>
-      <title>You all are great, but imma head back to UUCP yo.</title>
-      <link>https://twitter.com/Labrigger/status/1670041079343882242</link>
-      <description>You all are great, but imma head back to UUCP yo.</description>
-      <content:encoded>You all are great, but imma head back to UUCP yo.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Labrigger/status/1670041079343882242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 17 Jun 2023 12:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚨Crowded scenes are notoriously difficult for #ComputerVision models.
-In our new work lead by @zhoumu53 &amp;amp; @LStoffl we developed a novel approach called BUCTD that is state-of-the-art on crowded 🐒🐠&amp;amp;🕺human pose estimation benchmarks!🔥
-https://t.co/pPI8DlxR8Q
-#CVPR2023 workshop https://t.co/fnbwDj81a6</title>
-      <link>https://twitter.com/TrackingActions/status/1670041617900634112</link>
-      <description>🚨Crowded scenes are notoriously difficult for #ComputerVision models.
-In our new work lead by @zhoumu53 &amp;amp; @LStoffl we developed a novel approach called BUCTD that is state-of-the-art on crowded 🐒🐠&amp;amp;🕺human pose estimation benchmarks!🔥
-https://t.co/pPI8DlxR8Q
-#CVPR2023 workshop https://t.co/fnbwDj81a6</description>
-      <content:encoded>🚨Crowded scenes are notoriously difficult for #ComputerVision models.
-In our new work lead by @zhoumu53 &amp;amp; @LStoffl we developed a novel approach called BUCTD that is state-of-the-art on crowded 🐒🐠&amp;amp;🕺human pose estimation benchmarks!🔥
-https://t.co/pPI8DlxR8Q
-#CVPR2023 workshop https://t.co/fnbwDj81a6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1670041617900634112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1670041461788745735/pu/img/FsnOxFV7M1xNGLir.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 17 Jun 2023 12:12:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recreating the color grade from movies
-
-[100 movies: https://t.co/5IwezTDjRu]
-[read more: https://t.co/QRb3oukDD6]
-https://t.co/uFeVbmWzOZ</title>
-      <link>https://twitter.com/Rainmaker1973/status/1670042480077688838</link>
-      <description>Recreating the color grade from movies
-
-[100 movies: https://t.co/5IwezTDjRu]
-[read more: https://t.co/QRb3oukDD6]
-https://t.co/uFeVbmWzOZ</description>
-      <content:encoded>Recreating the color grade from movies
-
-[100 movies: https://t.co/5IwezTDjRu]
-[read more: https://t.co/QRb3oukDD6]
-https://t.co/uFeVbmWzOZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670042480077688838"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1568051834828328962/pu/img/4CBkQGxV0VxegwW9.jpg" length="480" type="photo"/>
-      <pubDate>Sat, 17 Jun 2023 12:15:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jun 2023 21:13:17 +0000</lastBuildDate>
     <item>
       <title>@Rainmaker1973 One of the best accounts on this platform!</title>
       <link>https://twitter.com/elonmusk/status/1670045291096199169</link>
@@ -2231,6 +2187,28 @@ https://t.co/HghdcjWFtz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @PeterHotez: 1/2 As both vaccine scientist + parent of a daughter with autism, I wrote Vaccines Did Not Cause Rachel’s Autism, which gav…</description>
       <content:encoded>RT @PeterHotez: 1/2 As both vaccine scientist + parent of a daughter with autism, I wrote Vaccines Did Not Cause Rachel’s Autism, which gav…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1670525131834245122"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 18 Jun 2023 20:13:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Comment article in @NatureMedicine argues that enhanced informed consent procedures are needed for patients treated with psychedelics due to effects that include an altered state of consciousness and vulnerability to suggestion. 🔒 https://t.co/D84IlwFFlo</title>
+      <link>https://twitter.com/NaturePortfolio/status/1670534348087369729</link>
+      <description>A Comment article in @NatureMedicine argues that enhanced informed consent procedures are needed for patients treated with psychedelics due to effects that include an altered state of consciousness and vulnerability to suggestion. 🔒 https://t.co/D84IlwFFlo</description>
+      <content:encoded>A Comment article in @NatureMedicine argues that enhanced informed consent procedures are needed for patients treated with psychedelics due to effects that include an altered state of consciousness and vulnerability to suggestion. 🔒 https://t.co/D84IlwFFlo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670534348087369729"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 20:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Winning. https://t.co/1vLdFh9Jlo</title>
+      <link>https://twitter.com/andpru/status/1670535397519048704</link>
+      <description>Winning. https://t.co/1vLdFh9Jlo</description>
+      <content:encoded>Winning. https://t.co/1vLdFh9Jlo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1670535397519048704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy7vFUZXwAMPE9J.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 18 Jun 2023 20:54:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @katpyxa: Interesting discovery that fura Ca+ fluorescent dyes are actually myosin inhibitors comparable to blebbistatin</title>
+      <link>https://twitter.com/ptrrupprecht/status/1670539698974912512</link>
+      <description>RT @katpyxa: Interesting discovery that fura Ca+ fluorescent dyes are actually myosin inhibitors comparable to blebbistatin</description>
+      <content:encoded>RT @katpyxa: Interesting discovery that fura Ca+ fluorescent dyes are actually myosin inhibitors comparable to blebbistatin&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ptrrupprecht/status/1670539698974912512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 18 Jun 2023 21:11:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
