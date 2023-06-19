@@ -6,28 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jun 2023 04:19:34 +0000</lastBuildDate>
-    <item>
-      <title>Behold the 1+ kilo of pure awesomeness!
-(via @jennanadams) https://t.co/EOIAN9uJp5</title>
-      <link>https://twitter.com/PessoaBrain/status/1670067401977655296</link>
-      <description>Behold the 1+ kilo of pure awesomeness!
-(via @jennanadams) https://t.co/EOIAN9uJp5</description>
-      <content:encoded>Behold the 1+ kilo of pure awesomeness!
-(via @jennanadams) https://t.co/EOIAN9uJp5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1670067401977655296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fy1E9oWWYAEG-px.jpg" length="900" type="photo"/>
-      <pubDate>Sat, 17 Jun 2023 13:54:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>originally from:
-https://t.co/9nYL3eOjcF</title>
-      <link>https://twitter.com/PessoaBrain/status/1670067404875988994</link>
-      <description>originally from:
-https://t.co/9nYL3eOjcF</description>
-      <content:encoded>originally from:
-https://t.co/9nYL3eOjcF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1670067404875988994"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 17 Jun 2023 13:54:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jun 2023 05:15:28 +0000</lastBuildDate>
     <item>
       <title>The magnitude of difference between 1 million and 1 billion is not that intuitive and can be illustrated with this example of the time scale:
 
@@ -2190,6 +2169,26 @@ Visual evoked potentials (VEPs) are a non-invasive technique routinely used in c
 
 Visual evoked potentials (VEPs) are a non-invasive technique routinely used in clinical and… #neuroscience https://t.co/V4DFGRljXO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670614385793073152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 19 Jun 2023 02:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>In an effort to ensure equity and reduce bias, the U.S. NIH has proposed a plan to change how grant proposals are peer reviewed.
+
+But a new #LetterToScience argues that the changes do not address previous evidence about bias in the peer review process. https://t.co/p2NCdbCsdb</title>
+      <link>https://twitter.com/ScienceMagazine/status/1670650116800233474</link>
+      <description>In an effort to ensure equity and reduce bias, the U.S. NIH has proposed a plan to change how grant proposals are peer reviewed.
+
+But a new #LetterToScience argues that the changes do not address previous evidence about bias in the peer review process. https://t.co/p2NCdbCsdb</description>
+      <content:encoded>In an effort to ensure equity and reduce bias, the U.S. NIH has proposed a plan to change how grant proposals are peer reviewed.
+
+But a new #LetterToScience argues that the changes do not address previous evidence about bias in the peer review process. https://t.co/p2NCdbCsdb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1670650116800233474"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 04:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>@ylecun 💯</title>
+      <link>https://twitter.com/elonmusk/status/1670659092422045697</link>
+      <description>@ylecun 💯</description>
+      <content:encoded>@ylecun 💯&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670659092422045697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 05:05:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
