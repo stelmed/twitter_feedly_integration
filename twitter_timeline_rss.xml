@@ -6,60 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jun 2023 20:16:24 +0000</lastBuildDate>
-    <item>
-      <title>please look at my dog now https://t.co/NLD6lNqc8e</title>
-      <link>https://twitter.com/gottapatchemall/status/1670474036235862019</link>
-      <description>please look at my dog now https://t.co/NLD6lNqc8e</description>
-      <content:encoded>please look at my dog now https://t.co/NLD6lNqc8e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1670474036235862019"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fy63D7-aUAEIIEQ.jpg" length="540" type="photo"/>
-      <pubDate>Sun, 18 Jun 2023 16:50:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @o_maksymets: Co-organizing the Embodied AI Workshop at CVPR! With 6 speakers, 10 challenges, 20+ participating organizations, we will b…</title>
-      <link>https://twitter.com/ylecun/status/1670474160630267907</link>
-      <description>RT @o_maksymets: Co-organizing the Embodied AI Workshop at CVPR! With 6 speakers, 10 challenges, 20+ participating organizations, we will b…</description>
-      <content:encoded>RT @o_maksymets: Co-organizing the Embodied AI Workshop at CVPR! With 6 speakers, 10 challenges, 20+ participating organizations, we will b…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1670474160630267907"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 16:50:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧪 Learn how scientists use genetics and microscopy technologies to illuminate cells and discover how cells build organisms at #ScienceOnTap with Janelia Group Leader @Isa_Espinosa_M. 
-
-🗓️ 6:30 p.m. June 22 @OldOxBrewery. Hosted by @LoudounLibrary. https://t.co/Mr4S1IujC1</title>
-      <link>https://twitter.com/HHMIJanelia/status/1670476473642233857</link>
-      <description>🧪 Learn how scientists use genetics and microscopy technologies to illuminate cells and discover how cells build organisms at #ScienceOnTap with Janelia Group Leader @Isa_Espinosa_M. 
-
-🗓️ 6:30 p.m. June 22 @OldOxBrewery. Hosted by @LoudounLibrary. https://t.co/Mr4S1IujC1</description>
-      <content:encoded>🧪 Learn how scientists use genetics and microscopy technologies to illuminate cells and discover how cells build organisms at #ScienceOnTap with Janelia Group Leader @Isa_Espinosa_M. 
-
-🗓️ 6:30 p.m. June 22 @OldOxBrewery. Hosted by @LoudounLibrary. https://t.co/Mr4S1IujC1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1670476473642233857"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fy65gAwXgAEW6fY.jpg" length="1080" type="photo"/>
-      <pubDate>Sun, 18 Jun 2023 17:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The greater blue-eared starling is genuinely stunning, with metallic iridescent teal blue on its body and its blazing bright, yellow-orange eyes with large, dark pupils
-
-[read more: https://t.co/sE3pMEiZGc]
-https://t.co/5UmjcnNgSK https://t.co/KgRuhgvX0C</title>
-      <link>https://twitter.com/Rainmaker1973/status/1670477575452237826</link>
-      <description>The greater blue-eared starling is genuinely stunning, with metallic iridescent teal blue on its body and its blazing bright, yellow-orange eyes with large, dark pupils
-
-[read more: https://t.co/sE3pMEiZGc]
-https://t.co/5UmjcnNgSK https://t.co/KgRuhgvX0C</description>
-      <content:encoded>The greater blue-eared starling is genuinely stunning, with metallic iridescent teal blue on its body and its blazing bright, yellow-orange eyes with large, dark pupils
-
-[read more: https://t.co/sE3pMEiZGc]
-https://t.co/5UmjcnNgSK https://t.co/KgRuhgvX0C&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670477575452237826"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1669968165097418759/pu/img/zcQISwAku4mi-4KZ.jpg" length="675" type="photo"/>
-      <pubDate>Sun, 18 Jun 2023 17:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A MICROGLIAL ACTIVITY STATE BIOMARKER PANEL DIFFERENTIATES FTD-GRANULIN AND AD FROM CONTROL CASES  https://t.co/0LR3hjbneu #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1670480346507272192</link>
-      <description>A MICROGLIAL ACTIVITY STATE BIOMARKER PANEL DIFFERENTIATES FTD-GRANULIN AND AD FROM CONTROL CASES  https://t.co/0LR3hjbneu #biorxiv_neursci</description>
-      <content:encoded>A MICROGLIAL ACTIVITY STATE BIOMARKER PANEL DIFFERENTIATES FTD-GRANULIN AND AD FROM CONTROL CASES  https://t.co/0LR3hjbneu #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1670480346507272192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 17:15:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jun 2023 21:14:26 +0000</lastBuildDate>
     <item>
       <title>RT @kwanalexc: Gul Dolen’s team has an exciting study showing how #psilocybin #LSD #MDMA #ketamine #ibogaine share an ability to enhance so…</title>
       <link>https://twitter.com/rhuganir/status/1670483264950386688</link>
@@ -1194,6 +1141,14 @@ https://t.co/PY2X82fLEf https://t.co/qfYoodfpL2&lt;blockquote class="twitter-twe
       <pubDate>Mon, 19 Jun 2023 13:00:01 +0000</pubDate>
     </item>
     <item>
+      <title>Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texas learned they had been freed. To learn more about the historical legacy of this day, visit the information page hosted by @NMAAHC: https://t.co/o4BONVYZH6 https://t.co/6eWtTKBHUi</title>
+      <link>https://twitter.com/HHMINEWS/status/1670778467443507207</link>
+      <description>Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texas learned they had been freed. To learn more about the historical legacy of this day, visit the information page hosted by @NMAAHC: https://t.co/o4BONVYZH6 https://t.co/6eWtTKBHUi</description>
+      <content:encoded>Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texas learned they had been freed. To learn more about the historical legacy of this day, visit the information page hosted by @NMAAHC: https://t.co/o4BONVYZH6 https://t.co/6eWtTKBHUi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1670778467443507207"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy_MKNXWIAI1Xv8.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 19 Jun 2023 13:00:02 +0000</pubDate>
+    </item>
+    <item>
       <title>#135: Closed ecosystems extract energy through self-organized nutrient cycles by @eltanin4 @flamholz Petroff @murugan_chicago 
 
 A masterclass for figures in a theory paper.
@@ -1995,13 +1950,6 @@ Designed particles almost 0.1 microns across w/ up to 960 (!…&lt;blockquote cl
       <pubDate>Mon, 19 Jun 2023 17:33:17 +0000</pubDate>
     </item>
     <item>
-      <title>RT @HHMINEWS: Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texa…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1670848021578280962</link>
-      <description>RT @HHMINEWS: Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texa…</description>
-      <content:encoded>RT @HHMINEWS: Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texa…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1670848021578280962"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 17:36:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Social isolation and loneliness are associated with an increased risk of death from all causes, reports a systematic review and meta-analysis published in @NatureHumBehav. https://t.co/7maEAMm5nU https://t.co/CZFKncO1rZ</title>
       <link>https://twitter.com/NaturePortfolio/status/1670848187265843216</link>
       <description>Social isolation and loneliness are associated with an increased risk of death from all causes, reports a systematic review and meta-analysis published in @NatureHumBehav. https://t.co/7maEAMm5nU https://t.co/CZFKncO1rZ</description>
@@ -2114,6 +2062,13 @@ Simply specify what you want to build with a prompt, and the AI agent builds the
       <pubDate>Mon, 19 Jun 2023 18:47:49 +0000</pubDate>
     </item>
     <item>
+      <title>RT @_brianpotter: The amount of electricity generation capacity sitting in the interconnection queue and waiting to get built is greater th…</title>
+      <link>https://twitter.com/tyrell_turing/status/1670867014468894742</link>
+      <description>RT @_brianpotter: The amount of electricity generation capacity sitting in the interconnection queue and waiting to get built is greater th…</description>
+      <content:encoded>RT @_brianpotter: The amount of electricity generation capacity sitting in the interconnection queue and waiting to get built is greater th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1670867014468894742"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 18:51:54 +0000</pubDate>
+    </item>
+    <item>
       <title>New kit alert!  🎉 
 The ScEnSor kit can be used to both develop new S. cerevisiae strains and/or to characterize the intracellular enviroment of a given strain.
 https://t.co/LRNwIhKUCO https://t.co/i2n77Dgs8D</title>
@@ -2201,6 +2156,49 @@ Twenty-two healthy participants (11 men and 11 women)… #Neuroscience https://t
       <description>RT @CharlesKimpolo: @AIMS_Next also values the partnership with @ml4science @uni_tue as both institutions continue to join forces in traini…</description>
       <content:encoded>RT @CharlesKimpolo: @AIMS_Next also values the partnership with @ml4science @uni_tue as both institutions continue to join forces in traini…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1670885596305190913"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 19 Jun 2023 20:05:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @kendmil: The new NSF AI Institute for Artificial and Natural Intelligence (ARNI) seeks Postdoctoral Research Fellows, starting Summer o…</title>
+      <link>https://twitter.com/tyrell_turing/status/1670894288987717632</link>
+      <description>RT @kendmil: The new NSF AI Institute for Artificial and Natural Intelligence (ARNI) seeks Postdoctoral Research Fellows, starting Summer o…</description>
+      <content:encoded>RT @kendmil: The new NSF AI Institute for Artificial and Natural Intelligence (ARNI) seeks Postdoctoral Research Fellows, starting Summer o…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1670894288987717632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 20:40:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DrewLinsley: At last year's NeurIPS, we reported the surprising finding that as DNNs grown more accurate on ImageNet, their internal ob…</title>
+      <link>https://twitter.com/tyrell_turing/status/1670895425132298241</link>
+      <description>RT @DrewLinsley: At last year's NeurIPS, we reported the surprising finding that as DNNs grown more accurate on ImageNet, their internal ob…</description>
+      <content:encoded>RT @DrewLinsley: At last year's NeurIPS, we reported the surprising finding that as DNNs grown more accurate on ImageNet, their internal ob…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1670895425132298241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 20:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unrest at the Campi Flegrei caldera in Italy is consistent with the start of rupturing below the surface and a possible return to volcanic activity, according to an analysis published in @CommsEarth. https://t.co/7JDzURFcu2 https://t.co/UIb7Ch9lFk</title>
+      <link>https://twitter.com/NaturePortfolio/status/1670896757788622848</link>
+      <description>Unrest at the Campi Flegrei caldera in Italy is consistent with the start of rupturing below the surface and a possible return to volcanic activity, according to an analysis published in @CommsEarth. https://t.co/7JDzURFcu2 https://t.co/UIb7Ch9lFk</description>
+      <content:encoded>Unrest at the Campi Flegrei caldera in Italy is consistent with the start of rupturing below the surface and a possible return to volcanic activity, according to an analysis published in @CommsEarth. https://t.co/7JDzURFcu2 https://t.co/UIb7Ch9lFk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670896757788622848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzA3urKXsAExn1p.jpg" length="1000" type="photo"/>
+      <pubDate>Mon, 19 Jun 2023 20:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>New @wusmsl paper led by @_mshahbazi tackling the neural basis of sequential actions. https://t.co/4XT8lhLgQV</title>
+      <link>https://twitter.com/andpru/status/1670898198922113025</link>
+      <description>New @wusmsl paper led by @_mshahbazi tackling the neural basis of sequential actions. https://t.co/4XT8lhLgQV</description>
+      <content:encoded>New @wusmsl paper led by @_mshahbazi tackling the neural basis of sequential actions. https://t.co/4XT8lhLgQV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1670898198922113025"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 20:55:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Young bees need to watch.
+
+A recent Science study showed that the distinctive waggle dance honey bees use to send nestmates to the location of a food source is in part learned by young bees as they observe more experienced bees. https://t.co/itM2gpH3ro #NationalPollinatorsMonth https://t.co/nv9oZX5CGR</title>
+      <link>https://twitter.com/ScienceMagazine/status/1670899284047286273</link>
+      <description>Young bees need to watch.
+
+A recent Science study showed that the distinctive waggle dance honey bees use to send nestmates to the location of a food source is in part learned by young bees as they observe more experienced bees. https://t.co/itM2gpH3ro #NationalPollinatorsMonth https://t.co/nv9oZX5CGR</description>
+      <content:encoded>Young bees need to watch.
+
+A recent Science study showed that the distinctive waggle dance honey bees use to send nestmates to the location of a food source is in part learned by young bees as they observe more experienced bees. https://t.co/itM2gpH3ro #NationalPollinatorsMonth https://t.co/nv9oZX5CGR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1670899284047286273"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzA6CvsWYAQja3b.jpg" length="800" type="photo"/>
+      <pubDate>Mon, 19 Jun 2023 21:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
