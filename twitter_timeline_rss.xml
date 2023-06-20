@@ -6,104 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jun 2023 23:16:52 +0000</lastBuildDate>
-    <item>
-      <title>A Comment article in @NatRevMater discusses lessons learned from implementing an interdisciplinary course and offers suggestions for introducing an interdisciplinary experience in the materials science and engineering undergraduate curriculum. 🔒 https://t.co/nVj7Zzyixh</title>
-      <link>https://twitter.com/NaturePortfolio/status/1670485777938096129</link>
-      <description>A Comment article in @NatRevMater discusses lessons learned from implementing an interdisciplinary course and offers suggestions for introducing an interdisciplinary experience in the materials science and engineering undergraduate curriculum. 🔒 https://t.co/nVj7Zzyixh</description>
-      <content:encoded>A Comment article in @NatRevMater discusses lessons learned from implementing an interdisciplinary course and offers suggestions for introducing an interdisciplinary experience in the materials science and engineering undergraduate curriculum. 🔒 https://t.co/nVj7Zzyixh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670485777938096129"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 17:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>It's not a sci-fi skyline
-
-The design of the 'Nanjing Zendai Himalayas Center' is futuristic but it was thought to reflect the surrounding mountains and the city's meandering rivers
-
-[read more: https://t.co/639FITiWTu]
-[📹 one way]
-https://t.co/14N5JDhRTk</title>
-      <link>https://twitter.com/Rainmaker1973/status/1670488369636298759</link>
-      <description>It's not a sci-fi skyline
-
-The design of the 'Nanjing Zendai Himalayas Center' is futuristic but it was thought to reflect the surrounding mountains and the city's meandering rivers
-
-[read more: https://t.co/639FITiWTu]
-[📹 one way]
-https://t.co/14N5JDhRTk</description>
-      <content:encoded>It's not a sci-fi skyline
-
-The design of the 'Nanjing Zendai Himalayas Center' is futuristic but it was thought to reflect the surrounding mountains and the city's meandering rivers
-
-[read more: https://t.co/639FITiWTu]
-[📹 one way]
-https://t.co/14N5JDhRTk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670488369636298759"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1668857866328100864/pu/img/nvEZWP1Yu9-6C23H.jpg" length="675" type="photo"/>
-      <pubDate>Sun, 18 Jun 2023 17:47:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/8XckapiMmX</title>
-      <link>https://twitter.com/elonmusk/status/1670488416423641101</link>
-      <description>https://t.co/8XckapiMmX</description>
-      <content:encoded>https://t.co/8XckapiMmX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1670488416423641101"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fy7EXIUWYAADNPG.jpg" length="540" type="photo"/>
-      <pubDate>Sun, 18 Jun 2023 17:47:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>My friend Jean Ponce was at Vivatech to present a new startup called Enhance Lab, spun off from his Inria group Willow.
-
-Enhance Lab has an *amazing* image enhancement tech that does simultaneous demosaicing, denoising, super-resolution and HDR from raw  photo bursts.
-
-[Full… https://t.co/w7TxOOWDou</title>
-      <link>https://twitter.com/ylecun/status/1670491910337712135</link>
-      <description>My friend Jean Ponce was at Vivatech to present a new startup called Enhance Lab, spun off from his Inria group Willow.
-
-Enhance Lab has an *amazing* image enhancement tech that does simultaneous demosaicing, denoising, super-resolution and HDR from raw  photo bursts.
-
-[Full… https://t.co/w7TxOOWDou</description>
-      <content:encoded>My friend Jean Ponce was at Vivatech to present a new startup called Enhance Lab, spun off from his Inria group Willow.
-
-Enhance Lab has an *amazing* image enhancement tech that does simultaneous demosaicing, denoising, super-resolution and HDR from raw  photo bursts.
-
-[Full… https://t.co/w7TxOOWDou&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1670491910337712135"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 18:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MetaAI: 👋 Hey #CVPR2023! We’re here in Vancouver and excited to share new work, showcase demos and participate in interesting conversat…</title>
-      <link>https://twitter.com/ylecun/status/1670492466842148864</link>
-      <description>RT @MetaAI: 👋 Hey #CVPR2023! We’re here in Vancouver and excited to share new work, showcase demos and participate in interesting conversat…</description>
-      <content:encoded>RT @MetaAI: 👋 Hey #CVPR2023! We’re here in Vancouver and excited to share new work, showcase demos and participate in interesting conversat…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1670492466842148864"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 18:03:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>I can't make it to #CVPR2023 this year, but @MetaAI / FAIR has a huge presence, as usual.
-
-More info: https://t.co/9d3ZJ8QMlv https://t.co/awUPCkLhy4</title>
-      <link>https://twitter.com/ylecun/status/1670493451815723014</link>
-      <description>I can't make it to #CVPR2023 this year, but @MetaAI / FAIR has a huge presence, as usual.
-
-More info: https://t.co/9d3ZJ8QMlv https://t.co/awUPCkLhy4</description>
-      <content:encoded>I can't make it to #CVPR2023 this year, but @MetaAI / FAIR has a huge presence, as usual.
-
-More info: https://t.co/9d3ZJ8QMlv https://t.co/awUPCkLhy4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1670493451815723014"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 18:07:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JeromeColombain: L'IA était omniprésente au salon @VivaTech : un danger selon @elonmusk, une chance selon @ylecun 
-À écouter ici : http…</title>
-      <link>https://twitter.com/ylecun/status/1670500815079976970</link>
-      <description>RT @JeromeColombain: L'IA était omniprésente au salon @VivaTech : un danger selon @elonmusk, une chance selon @ylecun 
-À écouter ici : http…</description>
-      <content:encoded>RT @JeromeColombain: L'IA était omniprésente au salon @VivaTech : un danger selon @elonmusk, une chance selon @ylecun 
-À écouter ici : http…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1670500815079976970"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 18:36:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT could assist clinicians in the decision making process when treating complex breast cancer cases, a new Health Community post reports. The AI analyses patients' medical records and diagnostic results to offer potential treatment plans. https://t.co/sCYjFguoxf</title>
-      <link>https://twitter.com/NaturePortfolio/status/1670501884090626050</link>
-      <description>ChatGPT could assist clinicians in the decision making process when treating complex breast cancer cases, a new Health Community post reports. The AI analyses patients' medical records and diagnostic results to offer potential treatment plans. https://t.co/sCYjFguoxf</description>
-      <content:encoded>ChatGPT could assist clinicians in the decision making process when treating complex breast cancer cases, a new Health Community post reports. The AI analyses patients' medical records and diagnostic results to offer potential treatment plans. https://t.co/sCYjFguoxf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670501884090626050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 18:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 01:26:29 +0000</lastBuildDate>
     <item>
       <title>Sharks swim through schools of fish to assess the availability and quality of prey. They might not be hungry at that moment, but they're gathering information for future hunts.
 
@@ -1102,6 +1005,14 @@ https://t.co/PY2X82fLEf https://t.co/qfYoodfpL2&lt;blockquote class="twitter-twe
       <pubDate>Mon, 19 Jun 2023 13:00:01 +0000</pubDate>
     </item>
     <item>
+      <title>Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texas learned they had been freed. To learn more about the historical legacy of this day, visit the information page hosted by @NMAAHC: https://t.co/o4BONVYZH6 https://t.co/6eWtTKBHUi</title>
+      <link>https://twitter.com/HHMINEWS/status/1670778467443507207</link>
+      <description>Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texas learned they had been freed. To learn more about the historical legacy of this day, visit the information page hosted by @NMAAHC: https://t.co/o4BONVYZH6 https://t.co/6eWtTKBHUi</description>
+      <content:encoded>Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texas learned they had been freed. To learn more about the historical legacy of this day, visit the information page hosted by @NMAAHC: https://t.co/o4BONVYZH6 https://t.co/6eWtTKBHUi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1670778467443507207"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fy_MKNXWIAI1Xv8.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 19 Jun 2023 13:00:02 +0000</pubDate>
+    </item>
+    <item>
       <title>#135: Closed ecosystems extract energy through self-organized nutrient cycles by @eltanin4 @flamholz Petroff @murugan_chicago 
 
 A masterclass for figures in a theory paper.
@@ -1903,13 +1814,6 @@ Designed particles almost 0.1 microns across w/ up to 960 (!…&lt;blockquote cl
       <pubDate>Mon, 19 Jun 2023 17:33:17 +0000</pubDate>
     </item>
     <item>
-      <title>RT @HHMINEWS: Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texa…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1670848021578280962</link>
-      <description>RT @HHMINEWS: Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texa…</description>
-      <content:encoded>RT @HHMINEWS: Today is #Juneteenth, a commemoration of the end of slavery in the US &amp;amp; a celebration of the day when enslaved people in Texa…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1670848021578280962"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 17:36:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Social isolation and loneliness are associated with an increased risk of death from all causes, reports a systematic review and meta-analysis published in @NatureHumBehav. https://t.co/7maEAMm5nU https://t.co/CZFKncO1rZ</title>
       <link>https://twitter.com/NaturePortfolio/status/1670848187265843216</link>
       <description>Social isolation and loneliness are associated with an increased risk of death from all causes, reports a systematic review and meta-analysis published in @NatureHumBehav. https://t.co/7maEAMm5nU https://t.co/CZFKncO1rZ</description>
@@ -2020,6 +1924,13 @@ Simply specify what you want to build with a prompt, and the AI agent builds the
 
 Simply specify what you want to build with a prompt, and the AI agent builds the entire codebase.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1670865988693422080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 19 Jun 2023 18:47:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @_brianpotter: The amount of electricity generation capacity sitting in the interconnection queue and waiting to get built is greater th…</title>
+      <link>https://twitter.com/tyrell_turing/status/1670867014468894742</link>
+      <description>RT @_brianpotter: The amount of electricity generation capacity sitting in the interconnection queue and waiting to get built is greater th…</description>
+      <content:encoded>RT @_brianpotter: The amount of electricity generation capacity sitting in the interconnection queue and waiting to get built is greater th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1670867014468894742"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 18:51:54 +0000</pubDate>
     </item>
     <item>
       <title>New kit alert!  🎉 
@@ -2232,6 +2143,74 @@ Thanks to my co-authors @PodgorskiLab @GreweBenjamin ! In depth discussion of a 
 a perspective piece on voltage imaging, AI and engineering integration https://t.co/Jp705XuFog
 Thanks to my co-authors @PodgorskiLab @GreweBenjamin ! In depth discussion of a paper from @ChenLabNeuro @vpieribone and @LeiTian14&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1670933042549104640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 19 Jun 2023 23:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada on pace to double population in 26 years, and surpass Italy, France, the U.K. and Germany in population by 2050. https://t.co/D6jSrQYOMz</title>
+      <link>https://twitter.com/andpru/status/1670933770344579083</link>
+      <description>Canada on pace to double population in 26 years, and surpass Italy, France, the U.K. and Germany in population by 2050. https://t.co/D6jSrQYOMz</description>
+      <content:encoded>Canada on pace to double population in 26 years, and surpass Italy, France, the U.K. and Germany in population by 2050. https://t.co/D6jSrQYOMz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1670933770344579083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 23:17:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siakam for Simons/Sharpe. https://t.co/rgfb5bCEDW</title>
+      <link>https://twitter.com/andpru/status/1670938590774173702</link>
+      <description>Siakam for Simons/Sharpe. https://t.co/rgfb5bCEDW</description>
+      <content:encoded>Siakam for Simons/Sharpe. https://t.co/rgfb5bCEDW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1670938590774173702"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 23:36:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bring Shaedon home.</title>
+      <link>https://twitter.com/andpru/status/1670939917982093312</link>
+      <description>Bring Shaedon home.</description>
+      <content:encoded>Bring Shaedon home.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1670939917982093312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 23:41:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>I'm sure I remember a video or a github page that teaches differential equations, but instead of the same boring equations, they talk about d🦊/dt and d🐇/dt . Anyone know what I'm talking about?</title>
+      <link>https://twitter.com/NeuroBill/status/1670942129257091072</link>
+      <description>I'm sure I remember a video or a github page that teaches differential equations, but instead of the same boring equations, they talk about d🦊/dt and d🐇/dt . Anyone know what I'm talking about?</description>
+      <content:encoded>I'm sure I remember a video or a github page that teaches differential equations, but instead of the same boring equations, they talk about d🦊/dt and d🐇/dt . Anyone know what I'm talking about?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1670942129257091072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 19 Jun 2023 23:50:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: The effect of seed location on functional connectivity: evidence from an image-based meta-analysis: Introduction
+
+Default mode network (DMN) is the most involved network in the study of brain development and brain diseases.… #Neuroscience https://t.co/DwbetX3Eep</title>
+      <link>https://twitter.com/FrontNeurosci/status/1670944812131024896</link>
+      <description>New Research: The effect of seed location on functional connectivity: evidence from an image-based meta-analysis: Introduction
+
+Default mode network (DMN) is the most involved network in the study of brain development and brain diseases.… #Neuroscience https://t.co/DwbetX3Eep</description>
+      <content:encoded>New Research: The effect of seed location on functional connectivity: evidence from an image-based meta-analysis: Introduction
+
+Default mode network (DMN) is the most involved network in the study of brain development and brain diseases.… #Neuroscience https://t.co/DwbetX3Eep&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670944812131024896"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 00:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JanGrundemann: JOB ALERT. 🧠💻 We have an open PhD student position in our lab @DZNE_en in Bonn. If you are interested in large-scale neu…</title>
+      <link>https://twitter.com/ranczlab/status/1670948233168711683</link>
+      <description>RT @JanGrundemann: JOB ALERT. 🧠💻 We have an open PhD student position in our lab @DZNE_en in Bonn. If you are interested in large-scale neu…</description>
+      <content:encoded>RT @JanGrundemann: JOB ALERT. 🧠💻 We have an open PhD student position in our lab @DZNE_en in Bonn. If you are interested in large-scale neu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1670948233168711683"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 00:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @OWoolnough: @dgonzales1990 Had some time waiting for some code to run and made this into a graph. 
+
+One outlier excluded (ACS). Linear…</title>
+      <link>https://twitter.com/ranczlab/status/1670950220622966785</link>
+      <description>RT @OWoolnough: @dgonzales1990 Had some time waiting for some code to run and made this into a graph. 
+
+One outlier excluded (ACS). Linear…</description>
+      <content:encoded>RT @OWoolnough: @dgonzales1990 Had some time waiting for some code to run and made this into a graph. 
+
+One outlier excluded (ACS). Linear…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1670950220622966785"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 00:22:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: The contralateral organization of the human nervous system as a quantum unfolded, holographic-like, artifactual representation of the underlying dynamics of a fundamentally two-dimensional universe: A working hypothesis is put… #Neuroscience https://t.co/dIJaJhvSMB</title>
+      <link>https://twitter.com/FrontNeurosci/status/1670963564251869188</link>
+      <description>New Research: The contralateral organization of the human nervous system as a quantum unfolded, holographic-like, artifactual representation of the underlying dynamics of a fundamentally two-dimensional universe: A working hypothesis is put… #Neuroscience https://t.co/dIJaJhvSMB</description>
+      <content:encoded>New Research: The contralateral organization of the human nervous system as a quantum unfolded, holographic-like, artifactual representation of the underlying dynamics of a fundamentally two-dimensional universe: A working hypothesis is put… #Neuroscience https://t.co/dIJaJhvSMB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670963564251869188"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 01:15:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
