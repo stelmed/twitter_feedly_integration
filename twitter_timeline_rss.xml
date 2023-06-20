@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 05:15:46 +0000</lastBuildDate>
-    <item>
-      <title>RT @MetaphoricMath: If you happen to be a parent suddenly faced with homeschooling and your math memories are foggy at best, look to @steve…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1670571995099013121</link>
-      <description>RT @MetaphoricMath: If you happen to be a parent suddenly faced with homeschooling and your math memories are foggy at best, look to @steve…</description>
-      <content:encoded>RT @MetaphoricMath: If you happen to be a parent suddenly faced with homeschooling and your math memories are foggy at best, look to @steve…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1670571995099013121"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 23:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ass_deans: Congrats on your new job. Before you leave, we need you to lead the search committee for your replacement.</title>
-      <link>https://twitter.com/PessoaBrain/status/1670578853603946497</link>
-      <description>RT @ass_deans: Congrats on your new job. Before you leave, we need you to lead the search committee for your replacement.</description>
-      <content:encoded>RT @ass_deans: Congrats on your new job. Before you leave, we need you to lead the search committee for your replacement.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1670578853603946497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 23:46:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 06:21:40 +0000</lastBuildDate>
     <item>
       <title>🔮 Looking ahead? Read our latest blog to find out how your work with TensorFlow is about to get more efficient, flexible, and intuitive → https://t.co/DpdR323y0r
 
@@ -2213,6 +2199,30 @@ Learn more in Science: https://t.co/bYbCGWiy8t https://t.co/zEFWzU98mJ&lt;blockq
       <description>Thank you @mohamedbazoum for your leadership on health, education, women’s empowerment, and development. Our foundation has been working with talented Nigeriens for years to help ensure children's health and prevent the spread of polio. I look forward to strengthening our… https://t.co/BsHsCnmigx</description>
       <content:encoded>Thank you @mohamedbazoum for your leadership on health, education, women’s empowerment, and development. Our foundation has been working with talented Nigeriens for years to help ensure children's health and prevent the spread of polio. I look forward to strengthening our… https://t.co/BsHsCnmigx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1671018623752888325"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 20 Jun 2023 04:54:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Octopuses are thoroughly antisocial. Yet for some reason they have evolved to mate in the most intimate way possible and this chart shows you how 
+
+[read more: https://t.co/TGwPGl956J] 
+[image: https://t.co/2Nod7vjk4t] https://t.co/6W0aEcpi49</title>
+      <link>https://twitter.com/Rainmaker1973/status/1671033531873501185</link>
+      <description>Octopuses are thoroughly antisocial. Yet for some reason they have evolved to mate in the most intimate way possible and this chart shows you how 
+
+[read more: https://t.co/TGwPGl956J] 
+[image: https://t.co/2Nod7vjk4t] https://t.co/6W0aEcpi49</description>
+      <content:encoded>Octopuses are thoroughly antisocial. Yet for some reason they have evolved to mate in the most intimate way possible and this chart shows you how 
+
+[read more: https://t.co/TGwPGl956J] 
+[image: https://t.co/2Nod7vjk4t] https://t.co/6W0aEcpi49&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671033531873501185"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzC0Ec0XoAIJf3U.png" length="624" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 05:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>De statliga investeringarna i medicinsk forskning och utveckling har fortsatt att minska de senaste åren. Regeringen måste vända den här negativa trenden, skriver Forska!Sveriges styrelse i @altingetse.  https://t.co/67oO8Bglq0</title>
+      <link>https://twitter.com/forskasverige/status/1671039287863681024</link>
+      <description>De statliga investeringarna i medicinsk forskning och utveckling har fortsatt att minska de senaste åren. Regeringen måste vända den här negativa trenden, skriver Forska!Sveriges styrelse i @altingetse.  https://t.co/67oO8Bglq0</description>
+      <content:encoded>De statliga investeringarna i medicinsk forskning och utveckling har fortsatt att minska de senaste åren. Regeringen måste vända den här negativa trenden, skriver Forska!Sveriges styrelse i @altingetse.  https://t.co/67oO8Bglq0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/forskasverige/status/1671039287863681024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 06:16:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
