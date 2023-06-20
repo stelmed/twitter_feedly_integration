@@ -6,123 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 20:16:26 +0000</lastBuildDate>
-    <item>
-      <title>RT @DrewLinsley: At last year's NeurIPS, we reported the surprising finding that as DNNs grown more accurate on ImageNet, their internal ob…</title>
-      <link>https://twitter.com/tyrell_turing/status/1670895425132298241</link>
-      <description>RT @DrewLinsley: At last year's NeurIPS, we reported the surprising finding that as DNNs grown more accurate on ImageNet, their internal ob…</description>
-      <content:encoded>RT @DrewLinsley: At last year's NeurIPS, we reported the surprising finding that as DNNs grown more accurate on ImageNet, their internal ob…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1670895425132298241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 20:44:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unrest at the Campi Flegrei caldera in Italy is consistent with the start of rupturing below the surface and a possible return to volcanic activity, according to an analysis published in @CommsEarth. https://t.co/7JDzURFcu2 https://t.co/UIb7Ch9lFk</title>
-      <link>https://twitter.com/NaturePortfolio/status/1670896757788622848</link>
-      <description>Unrest at the Campi Flegrei caldera in Italy is consistent with the start of rupturing below the surface and a possible return to volcanic activity, according to an analysis published in @CommsEarth. https://t.co/7JDzURFcu2 https://t.co/UIb7Ch9lFk</description>
-      <content:encoded>Unrest at the Campi Flegrei caldera in Italy is consistent with the start of rupturing below the surface and a possible return to volcanic activity, according to an analysis published in @CommsEarth. https://t.co/7JDzURFcu2 https://t.co/UIb7Ch9lFk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670896757788622848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzA3urKXsAExn1p.jpg" length="1000" type="photo"/>
-      <pubDate>Mon, 19 Jun 2023 20:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>New @wusmsl paper led by @_mshahbazi tackling the neural basis of sequential actions. https://t.co/4XT8lhLgQV</title>
-      <link>https://twitter.com/andpru/status/1670898198922113025</link>
-      <description>New @wusmsl paper led by @_mshahbazi tackling the neural basis of sequential actions. https://t.co/4XT8lhLgQV</description>
-      <content:encoded>New @wusmsl paper led by @_mshahbazi tackling the neural basis of sequential actions. https://t.co/4XT8lhLgQV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1670898198922113025"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 20:55:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Young bees need to watch.
-
-A recent Science study showed that the distinctive waggle dance honey bees use to send nestmates to the location of a food source is in part learned by young bees as they observe more experienced bees. https://t.co/itM2gpH3ro #NationalPollinatorsMonth https://t.co/nv9oZX5CGR</title>
-      <link>https://twitter.com/ScienceMagazine/status/1670899284047286273</link>
-      <description>Young bees need to watch.
-
-A recent Science study showed that the distinctive waggle dance honey bees use to send nestmates to the location of a food source is in part learned by young bees as they observe more experienced bees. https://t.co/itM2gpH3ro #NationalPollinatorsMonth https://t.co/nv9oZX5CGR</description>
-      <content:encoded>Young bees need to watch.
-
-A recent Science study showed that the distinctive waggle dance honey bees use to send nestmates to the location of a food source is in part learned by young bees as they observe more experienced bees. https://t.co/itM2gpH3ro #NationalPollinatorsMonth https://t.co/nv9oZX5CGR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1670899284047286273"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzA6CvsWYAQja3b.jpg" length="800" type="photo"/>
-      <pubDate>Mon, 19 Jun 2023 21:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>A good day for democracy, and a shameful day not only for Boris Johnson but also cowardly @RishiSunak and the rest of his gutless 'abstaining' tories who suddenly had to clean the oven rather than stand up and be counted. We'll remember at the ballot box, you can count on THAT. https://t.co/kToFVxojil</title>
-      <link>https://twitter.com/chrisdc77/status/1670908560635490305</link>
-      <description>A good day for democracy, and a shameful day not only for Boris Johnson but also cowardly @RishiSunak and the rest of his gutless 'abstaining' tories who suddenly had to clean the oven rather than stand up and be counted. We'll remember at the ballot box, you can count on THAT. https://t.co/kToFVxojil</description>
-      <content:encoded>A good day for democracy, and a shameful day not only for Boris Johnson but also cowardly @RishiSunak and the rest of his gutless 'abstaining' tories who suddenly had to clean the oven rather than stand up and be counted. We'll remember at the ballot box, you can count on THAT. https://t.co/kToFVxojil&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1670908560635490305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 21:36:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improve your efficiency with Building Systems with ChatGPT, our short course created in collaboration with @OpenAI.
-
-Build a complex system using chains of prompts, evaluate the safety, relevance, and accuracy of LLM-powered systems, and more.
-
-Join now: https://t.co/uydYpMGy3d</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1670914349664284675</link>
-      <description>Improve your efficiency with Building Systems with ChatGPT, our short course created in collaboration with @OpenAI.
-
-Build a complex system using chains of prompts, evaluate the safety, relevance, and accuracy of LLM-powered systems, and more.
-
-Join now: https://t.co/uydYpMGy3d</description>
-      <content:encoded>Improve your efficiency with Building Systems with ChatGPT, our short course created in collaboration with @OpenAI.
-
-Build a complex system using chains of prompts, evaluate the safety, relevance, and accuracy of LLM-powered systems, and more.
-
-Join now: https://t.co/uydYpMGy3d&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1670914349664284675"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 21:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EU_Brain: 🧠 Nobel Prize winner @EdvardMoser joins EBC's #Pledge4Science, reiterating just how instrumental animal models have been and…</title>
-      <link>https://twitter.com/meletislab/status/1670919045103730692</link>
-      <description>RT @EU_Brain: 🧠 Nobel Prize winner @EdvardMoser joins EBC's #Pledge4Science, reiterating just how instrumental animal models have been and…</description>
-      <content:encoded>RT @EU_Brain: 🧠 Nobel Prize winner @EdvardMoser joins EBC's #Pledge4Science, reiterating just how instrumental animal models have been and…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/meletislab/status/1670919045103730692"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 22:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Editorial: Expert opinion in environmental and genetic factors impacting functional brain lateralization in development and evolution #neuroscience https://t.co/eUDkyfH4NH</title>
-      <link>https://twitter.com/FrontNeurosci/status/1670924935504723969</link>
-      <description>New Research: Editorial: Expert opinion in environmental and genetic factors impacting functional brain lateralization in development and evolution #neuroscience https://t.co/eUDkyfH4NH</description>
-      <content:encoded>New Research: Editorial: Expert opinion in environmental and genetic factors impacting functional brain lateralization in development and evolution #neuroscience https://t.co/eUDkyfH4NH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670924935504723969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 22:42:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛑✋ Hold on, you've scrolling for too long! 
-
-Breathe in, breathe out, and relax to this hypnotic video of healthy human iPS cells dividing and human heart cells beating.
-
-#SciArt #Mitosis #CellScience https://t.co/aT0o8aOHuB</title>
-      <link>https://twitter.com/AllenInstitute/status/1670928948086325248</link>
-      <description>🛑✋ Hold on, you've scrolling for too long! 
-
-Breathe in, breathe out, and relax to this hypnotic video of healthy human iPS cells dividing and human heart cells beating.
-
-#SciArt #Mitosis #CellScience https://t.co/aT0o8aOHuB</description>
-      <content:encoded>🛑✋ Hold on, you've scrolling for too long! 
-
-Breathe in, breathe out, and relax to this hypnotic video of healthy human iPS cells dividing and human heart cells beating.
-
-#SciArt #Mitosis #CellScience https://t.co/aT0o8aOHuB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1670928948086325248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1242539235065749504/img/Q2QCoIUZfnugWmmm.jpg" length="720" type="photo"/>
-      <pubDate>Mon, 19 Jun 2023 22:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A gene variant conferring disease resistance in rice has been altered to prevent its yield-reducing effects https://t.co/kf2XCCEmFE</title>
-      <link>https://twitter.com/NatureNV/status/1670929750091608064</link>
-      <description>A gene variant conferring disease resistance in rice has been altered to prevent its yield-reducing effects https://t.co/kf2XCCEmFE</description>
-      <content:encoded>A gene variant conferring disease resistance in rice has been altered to prevent its yield-reducing effects https://t.co/kf2XCCEmFE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1670929750091608064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 23:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>"AI to the rescue of voltage imaging",
-a perspective piece on voltage imaging, AI and engineering integration https://t.co/Jp705XuFog
-Thanks to my co-authors @PodgorskiLab @GreweBenjamin ! In depth discussion of a paper from @ChenLabNeuro @vpieribone and @LeiTian14</title>
-      <link>https://twitter.com/LecoqJerome/status/1670933042549104640</link>
-      <description>"AI to the rescue of voltage imaging",
-a perspective piece on voltage imaging, AI and engineering integration https://t.co/Jp705XuFog
-Thanks to my co-authors @PodgorskiLab @GreweBenjamin ! In depth discussion of a paper from @ChenLabNeuro @vpieribone and @LeiTian14</description>
-      <content:encoded>"AI to the rescue of voltage imaging",
-a perspective piece on voltage imaging, AI and engineering integration https://t.co/Jp705XuFog
-Thanks to my co-authors @PodgorskiLab @GreweBenjamin ! In depth discussion of a paper from @ChenLabNeuro @vpieribone and @LeiTian14&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1670933042549104640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 23:14:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 21:13:39 +0000</lastBuildDate>
     <item>
       <title>Canada on pace to double population in 26 years, and surpass Italy, France, the U.K. and Germany in population by 2050. https://t.co/D6jSrQYOMz</title>
       <link>https://twitter.com/andpru/status/1670933770344579083</link>
@@ -2276,6 +2160,116 @@ Purpose: Gateway middle entry clone encoding V5-tagged mScarlet-I-fused to human
 https://t.co/39urJpLW3M https://t.co/QsukJgWj84&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1671247303569547265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FzF2jwLXgAAoqbC.jpg" length="480" type="photo"/>
       <pubDate>Tue, 20 Jun 2023 20:03:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Martha Bagnall and Gareth Miles kicking off the meeting “motor control: spinal circuits and beyond” in St Andrews. Great crowd and exciting meeting. https://t.co/dLUybxGq7A</title>
+      <link>https://twitter.com/RuneWBerg/status/1671252106249134080</link>
+      <description>Martha Bagnall and Gareth Miles kicking off the meeting “motor control: spinal circuits and beyond” in St Andrews. Great crowd and exciting meeting. https://t.co/dLUybxGq7A</description>
+      <content:encoded>Martha Bagnall and Gareth Miles kicking off the meeting “motor control: spinal circuits and beyond” in St Andrews. Great crowd and exciting meeting. https://t.co/dLUybxGq7A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/RuneWBerg/status/1671252106249134080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzF67gzXoAI5lk0.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 20:22:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ianhussey: "Fraud is bad BUT" bingo card
+
+Thanks for the input everyone! https://t.co/TefhxDQMhG</title>
+      <link>https://twitter.com/chrisdc77/status/1671254277078274048</link>
+      <description>RT @ianhussey: "Fraud is bad BUT" bingo card
+
+Thanks for the input everyone! https://t.co/TefhxDQMhG</description>
+      <content:encoded>RT @ianhussey: "Fraud is bad BUT" bingo card
+
+Thanks for the input everyone! https://t.co/TefhxDQMhG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1671254277078274048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 20:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study in @NatureComms explores the distribution, evolution and functions of the K1 capsule at a population level and its important role in the pathogenesis of E. coli. https://t.co/BVjs06FQdn https://t.co/cA5b9wBll0</title>
+      <link>https://twitter.com/NaturePortfolio/status/1671259145125654529</link>
+      <description>A study in @NatureComms explores the distribution, evolution and functions of the K1 capsule at a population level and its important role in the pathogenesis of E. coli. https://t.co/BVjs06FQdn https://t.co/cA5b9wBll0</description>
+      <content:encoded>A study in @NatureComms explores the distribution, evolution and functions of the K1 capsule at a population level and its important role in the pathogenesis of E. coli. https://t.co/BVjs06FQdn https://t.co/cA5b9wBll0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1671259145125654529"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzGBUZyWYAoWz1C.jpg" length="1000" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 20:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @dr_alphalyrae: Democratizing knowledge representation with BioCypher | Nature Biotechnology https://t.co/Wx2igFDB94</title>
+      <link>https://twitter.com/Addgene/status/1671260088236142596</link>
+      <description>RT @dr_alphalyrae: Democratizing knowledge representation with BioCypher | Nature Biotechnology https://t.co/Wx2igFDB94</description>
+      <content:encoded>RT @dr_alphalyrae: Democratizing knowledge representation with BioCypher | Nature Biotechnology https://t.co/Wx2igFDB94&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1671260088236142596"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 20:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SDuraBernal: How do brain circuits control movement? Through a 7-year collaboration we created the most detailed model of primary motor…</title>
+      <link>https://twitter.com/Addgene/status/1671260539484528640</link>
+      <description>RT @SDuraBernal: How do brain circuits control movement? Through a 7-year collaboration we created the most detailed model of primary motor…</description>
+      <content:encoded>RT @SDuraBernal: How do brain circuits control movement? Through a 7-year collaboration we created the most detailed model of primary motor…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1671260539484528640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 20:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>"In this process I have been reminded that, in any coming out, the community catches you." #PrideMonth 
+@ScienceCareers https://t.co/F9Ahg5anp3</title>
+      <link>https://twitter.com/ScienceMagazine/status/1671261653030035457</link>
+      <description>"In this process I have been reminded that, in any coming out, the community catches you." #PrideMonth 
+@ScienceCareers https://t.co/F9Ahg5anp3</description>
+      <content:encoded>"In this process I have been reminded that, in any coming out, the community catches you." #PrideMonth 
+@ScienceCareers https://t.co/F9Ahg5anp3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1671261653030035457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 21:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/85x7vfZvLQ</title>
+      <link>https://twitter.com/AndrewHires/status/1671262485624811521</link>
+      <description>https://t.co/85x7vfZvLQ</description>
+      <content:encoded>https://t.co/85x7vfZvLQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1671262485624811521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FzGESIOaEAAIn0L.jpg" length="200" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 21:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @russpoldrack: Very excited that this is hitting the streets today!</title>
+      <link>https://twitter.com/PessoaBrain/status/1671263463753261056</link>
+      <description>RT @russpoldrack: Very excited that this is hitting the streets today!</description>
+      <content:encoded>RT @russpoldrack: Very excited that this is hitting the streets today!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1671263463753261056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 21:07:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MetaAI: #CVPR2023 — Here are 6️⃣ Interesting new papers you should know about from Meta AI — and how you can access them if you’re not…</title>
+      <link>https://twitter.com/ylecun/status/1671263588802252801</link>
+      <description>RT @MetaAI: #CVPR2023 — Here are 6️⃣ Interesting new papers you should know about from Meta AI — and how you can access them if you’re not…</description>
+      <content:encoded>RT @MetaAI: #CVPR2023 — Here are 6️⃣ Interesting new papers you should know about from Meta AI — and how you can access them if you’re not…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1671263588802252801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 21:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @cris_niell: Now out @CurrentBiology. Our work using calcium imaging to study visual processing in the octopus brain!
+https://t.co/QQEiE…</title>
+      <link>https://twitter.com/koen_vervaeke/status/1671264581736599553</link>
+      <description>RT @cris_niell: Now out @CurrentBiology. Our work using calcium imaging to study visual processing in the octopus brain!
+https://t.co/QQEiE…</description>
+      <content:encoded>RT @cris_niell: Now out @CurrentBiology. Our work using calcium imaging to study visual processing in the octopus brain!
+https://t.co/QQEiE…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/koen_vervaeke/status/1671264581736599553"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 21:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BiolTheory: ➡️New article out!⬅️
+
+"Biological Autonomy"
+
+by Maxim Raginsky @mraginsky 
+
+Part of our "Critical Concepts" collection pres…</title>
+      <link>https://twitter.com/PessoaBrain/status/1671264877418266624</link>
+      <description>RT @BiolTheory: ➡️New article out!⬅️
+
+"Biological Autonomy"
+
+by Maxim Raginsky @mraginsky 
+
+Part of our "Critical Concepts" collection pres…</description>
+      <content:encoded>RT @BiolTheory: ➡️New article out!⬅️
+
+"Biological Autonomy"
+
+by Maxim Raginsky @mraginsky 
+
+Part of our "Critical Concepts" collection pres…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1671264877418266624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 21:12:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
