@@ -6,53 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 06:21:40 +0000</lastBuildDate>
-    <item>
-      <title>🔮 Looking ahead? Read our latest blog to find out how your work with TensorFlow is about to get more efficient, flexible, and intuitive → https://t.co/DpdR323y0r
-
-Here’s a quick tour of the improvements and additions ⤵️</title>
-      <link>https://twitter.com/TensorFlow/status/1670580325968216066</link>
-      <description>🔮 Looking ahead? Read our latest blog to find out how your work with TensorFlow is about to get more efficient, flexible, and intuitive → https://t.co/DpdR323y0r
-
-Here’s a quick tour of the improvements and additions ⤵️</description>
-      <content:encoded>🔮 Looking ahead? Read our latest blog to find out how your work with TensorFlow is about to get more efficient, flexible, and intuitive → https://t.co/DpdR323y0r
-
-Here’s a quick tour of the improvements and additions ⤵️&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1670580325968216066"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 23:52:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Access powerful, modularized libraries for computer vision and natural language processing with KerasCV and KerasNLP. ✨
-
-You can classify images, auto-generate text from prompts, or anything in-between with a few lines of code. 🧩 Plus, they’re fully integrated with TensorFlow.</title>
-      <link>https://twitter.com/TensorFlow/status/1670580328489000964</link>
-      <description>Access powerful, modularized libraries for computer vision and natural language processing with KerasCV and KerasNLP. ✨
-
-You can classify images, auto-generate text from prompts, or anything in-between with a few lines of code. 🧩 Plus, they’re fully integrated with TensorFlow.</description>
-      <content:encoded>Access powerful, modularized libraries for computer vision and natural language processing with KerasCV and KerasNLP. ✨
-
-You can classify images, auto-generate text from prompts, or anything in-between with a few lines of code. 🧩 Plus, they’re fully integrated with TensorFlow.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1670580328489000964"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 23:52:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦾 ML devs can now combine data and model parallelism with DTensor, an accelerator-agnostic toolkit made to scale models more efficiently.</title>
-      <link>https://twitter.com/TensorFlow/status/1670580331223609345</link>
-      <description>🦾 ML devs can now combine data and model parallelism with DTensor, an accelerator-agnostic toolkit made to scale models more efficiently.</description>
-      <content:encoded>🦾 ML devs can now combine data and model parallelism with DTensor, an accelerator-agnostic toolkit made to scale models more efficiently.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1670580331223609345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 23:52:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet JAX2TF, a useful pathway from JAX to the TensorFlow ecosystem, giving you immediate and consistent access to production capabilities 🛼
-
-Infer, fuse, and fine-tune with JAX2TF, which is already baked into various TF tools.</title>
-      <link>https://twitter.com/TensorFlow/status/1670580333484429312</link>
-      <description>Meet JAX2TF, a useful pathway from JAX to the TensorFlow ecosystem, giving you immediate and consistent access to production capabilities 🛼
-
-Infer, fuse, and fine-tune with JAX2TF, which is already baked into various TF tools.</description>
-      <content:encoded>Meet JAX2TF, a useful pathway from JAX to the TensorFlow ecosystem, giving you immediate and consistent access to production capabilities 🛼
-
-Infer, fuse, and fine-tune with JAX2TF, which is already baked into various TF tools.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1670580333484429312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 18 Jun 2023 23:52:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 07:14:52 +0000</lastBuildDate>
     <item>
       <title>🔥 Quantize models regardless of where you’re deploying and without rewriting any existing modeling code.
 
@@ -2223,6 +2177,67 @@ Learn more in Science: https://t.co/bYbCGWiy8t https://t.co/zEFWzU98mJ&lt;blockq
       <description>De statliga investeringarna i medicinsk forskning och utveckling har fortsatt att minska de senaste åren. Regeringen måste vända den här negativa trenden, skriver Forska!Sveriges styrelse i @altingetse.  https://t.co/67oO8Bglq0</description>
       <content:encoded>De statliga investeringarna i medicinsk forskning och utveckling har fortsatt att minska de senaste åren. Regeringen måste vända den här negativa trenden, skriver Forska!Sveriges styrelse i @altingetse.  https://t.co/67oO8Bglq0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/forskasverige/status/1671039287863681024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 20 Jun 2023 06:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scanorama is a series of books for kids using movable sliders to transform illustrated creatures into virtual X-ray scans
+
+[read more: https://t.co/9zzD63tu80]
+https://t.co/vVxmGdF7vr</title>
+      <link>https://twitter.com/Rainmaker1973/status/1671041511272890368</link>
+      <description>Scanorama is a series of books for kids using movable sliders to transform illustrated creatures into virtual X-ray scans
+
+[read more: https://t.co/9zzD63tu80]
+https://t.co/vVxmGdF7vr</description>
+      <content:encoded>Scanorama is a series of books for kids using movable sliders to transform illustrated creatures into virtual X-ray scans
+
+[read more: https://t.co/9zzD63tu80]
+https://t.co/vVxmGdF7vr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671041511272890368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1445293288525901824/pu/img/9ed6ngGA_4ZpATLc.jpg" length="480" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 06:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>A cofferdam is an enclosure built within, or in pairs across, a body of water and constructed to allow the enclosed area to be pumped out 
+
+[read more: https://t.co/je6Nrf6bTa] 
+[the cofferdam in the image: https://t.co/7r3nNjBKMJ] https://t.co/6Iz2anQJ2j</title>
+      <link>https://twitter.com/Rainmaker1973/status/1671046686930612224</link>
+      <description>A cofferdam is an enclosure built within, or in pairs across, a body of water and constructed to allow the enclosed area to be pumped out 
+
+[read more: https://t.co/je6Nrf6bTa] 
+[the cofferdam in the image: https://t.co/7r3nNjBKMJ] https://t.co/6Iz2anQJ2j</description>
+      <content:encoded>A cofferdam is an enclosure built within, or in pairs across, a body of water and constructed to allow the enclosed area to be pumped out 
+
+[read more: https://t.co/je6Nrf6bTa] 
+[the cofferdam in the image: https://t.co/7r3nNjBKMJ] https://t.co/6Iz2anQJ2j&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671046686930612224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzDAD1MXsAAFQt9.jpg" length="680" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 06:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>En route to st Andrews. All these people going to the motor meeting?! https://t.co/gAed5fC54B</title>
+      <link>https://twitter.com/RuneWBerg/status/1671046891487006720</link>
+      <description>En route to st Andrews. All these people going to the motor meeting?! https://t.co/gAed5fC54B</description>
+      <content:encoded>En route to st Andrews. All these people going to the motor meeting?! https://t.co/gAed5fC54B&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/RuneWBerg/status/1671046891487006720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzDASK5WYAEz9Vp.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 06:46:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Today on #WorldRefugeeDay we look at research to fill a gap in current discussions about #boat #refugees: the #history of their journeys, experiences and reception since the 1940s.
+
+Irial Glynn investigates @ucddublin 🎧 👇
+
+@EUAsylumAgency @Refugees https://t.co/qDKBpaUTGo</title>
+      <link>https://twitter.com/ERC_Research/status/1671050276613259265</link>
+      <description>Today on #WorldRefugeeDay we look at research to fill a gap in current discussions about #boat #refugees: the #history of their journeys, experiences and reception since the 1940s.
+
+Irial Glynn investigates @ucddublin 🎧 👇
+
+@EUAsylumAgency @Refugees https://t.co/qDKBpaUTGo</description>
+      <content:encoded>Today on #WorldRefugeeDay we look at research to fill a gap in current discussions about #boat #refugees: the #history of their journeys, experiences and reception since the 1940s.
+
+Irial Glynn investigates @ucddublin 🎧 👇
+
+@EUAsylumAgency @Refugees https://t.co/qDKBpaUTGo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1671050276613259265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 07:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
