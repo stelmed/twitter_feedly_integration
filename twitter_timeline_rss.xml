@@ -6,123 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 18:18:59 +0000</lastBuildDate>
-    <item>
-      <title>Great episode of 20VC with Nabla CEO and former FAIRy Alexandre Lebrun :
-
-- Why No Models Today Will Be Used in a Year,
-- Why Open Will Always Beat Closed in AI,
-- Why Proprietary Data is Less Important Than Ever
-- Why EU AI Regulation is a Disaster
-
-I can't disagree! https://t.co/uwQYNapgKK</title>
-      <link>https://twitter.com/ylecun/status/1670858847525666836</link>
-      <description>Great episode of 20VC with Nabla CEO and former FAIRy Alexandre Lebrun :
-
-- Why No Models Today Will Be Used in a Year,
-- Why Open Will Always Beat Closed in AI,
-- Why Proprietary Data is Less Important Than Ever
-- Why EU AI Regulation is a Disaster
-
-I can't disagree! https://t.co/uwQYNapgKK</description>
-      <content:encoded>Great episode of 20VC with Nabla CEO and former FAIRy Alexandre Lebrun :
-
-- Why No Models Today Will Be Used in a Year,
-- Why Open Will Always Beat Closed in AI,
-- Why Proprietary Data is Less Important Than Ever
-- Why EU AI Regulation is a Disaster
-
-I can't disagree! https://t.co/uwQYNapgKK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1670858847525666836"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 18:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>In 1976, Carl Sagan appeared on The Tonight Show to talk about a crazy new idea: solar sailing. 47 years later, The Planetary Society is realizing this dream with a spacecraft called LightSail 2
-
-[learn more: https://t.co/5y2DINCiMg]
-[video: https://t.co/H67gMkMGxM] https://t.co/8hVZ5hgbim</title>
-      <link>https://twitter.com/Rainmaker1973/status/1670860822002962432</link>
-      <description>In 1976, Carl Sagan appeared on The Tonight Show to talk about a crazy new idea: solar sailing. 47 years later, The Planetary Society is realizing this dream with a spacecraft called LightSail 2
-
-[learn more: https://t.co/5y2DINCiMg]
-[video: https://t.co/H67gMkMGxM] https://t.co/8hVZ5hgbim</description>
-      <content:encoded>In 1976, Carl Sagan appeared on The Tonight Show to talk about a crazy new idea: solar sailing. 47 years later, The Planetary Society is realizing this dream with a spacecraft called LightSail 2
-
-[learn more: https://t.co/5y2DINCiMg]
-[video: https://t.co/H67gMkMGxM] https://t.co/8hVZ5hgbim&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1670860822002962432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1670860759562059787/pu/img/4xeJSzYpnAm4KONZ.jpg" length="640" type="photo"/>
-      <pubDate>Mon, 19 Jun 2023 18:27:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>A study in @NatureClimate suggests that the mixing of genes from nearby populations has likely helped an endangered population of the southwestern willow flycatcher songbird to adapt to a rapidly changing climate in San Diego. https://t.co/AKEegxuDii https://t.co/zKuzbqKmNp</title>
-      <link>https://twitter.com/NaturePortfolio/status/1670864293418369038</link>
-      <description>A study in @NatureClimate suggests that the mixing of genes from nearby populations has likely helped an endangered population of the southwestern willow flycatcher songbird to adapt to a rapidly changing climate in San Diego. https://t.co/AKEegxuDii https://t.co/zKuzbqKmNp</description>
-      <content:encoded>A study in @NatureClimate suggests that the mixing of genes from nearby populations has likely helped an endangered population of the southwestern willow flycatcher songbird to adapt to a rapidly changing climate in San Diego. https://t.co/AKEegxuDii https://t.co/zKuzbqKmNp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1670864293418369038"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzAaM_1WAA0SKgv.jpg" length="1066" type="photo"/>
-      <pubDate>Mon, 19 Jun 2023 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in #ModelDB: Estimating the effects of slicing on the electrophysiological properties of spinal motoneurons under normal and disease conditions (Mousa and Elbasiouny 2021) 
-https://t.co/8iibBpbXIL</title>
-      <link>https://twitter.com/ModelDB/status/1670864425228566547</link>
-      <description>New in #ModelDB: Estimating the effects of slicing on the electrophysiological properties of spinal motoneurons under normal and disease conditions (Mousa and Elbasiouny 2021) 
-https://t.co/8iibBpbXIL</description>
-      <content:encoded>New in #ModelDB: Estimating the effects of slicing on the electrophysiological properties of spinal motoneurons under normal and disease conditions (Mousa and Elbasiouny 2021) 
-https://t.co/8iibBpbXIL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ModelDB/status/1670864425228566547"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 18:41:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @rowancheung: GPT-Engineer is insane.
-
-Simply specify what you want to build with a prompt, and the AI agent builds the entire codebase.…</title>
-      <link>https://twitter.com/sofroniewn/status/1670865988693422080</link>
-      <description>RT @rowancheung: GPT-Engineer is insane.
-
-Simply specify what you want to build with a prompt, and the AI agent builds the entire codebase.…</description>
-      <content:encoded>RT @rowancheung: GPT-Engineer is insane.
-
-Simply specify what you want to build with a prompt, and the AI agent builds the entire codebase.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1670865988693422080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 18:47:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @_brianpotter: The amount of electricity generation capacity sitting in the interconnection queue and waiting to get built is greater th…</title>
-      <link>https://twitter.com/tyrell_turing/status/1670867014468894742</link>
-      <description>RT @_brianpotter: The amount of electricity generation capacity sitting in the interconnection queue and waiting to get built is greater th…</description>
-      <content:encoded>RT @_brianpotter: The amount of electricity generation capacity sitting in the interconnection queue and waiting to get built is greater th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1670867014468894742"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 18:51:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>New kit alert!  🎉 
-The ScEnSor kit can be used to both develop new S. cerevisiae strains and/or to characterize the intracellular enviroment of a given strain.
-https://t.co/LRNwIhKUCO https://t.co/i2n77Dgs8D</title>
-      <link>https://twitter.com/Addgene/status/1670869308593799193</link>
-      <description>New kit alert!  🎉 
-The ScEnSor kit can be used to both develop new S. cerevisiae strains and/or to characterize the intracellular enviroment of a given strain.
-https://t.co/LRNwIhKUCO https://t.co/i2n77Dgs8D</description>
-      <content:encoded>New kit alert!  🎉 
-The ScEnSor kit can be used to both develop new S. cerevisiae strains and/or to characterize the intracellular enviroment of a given strain.
-https://t.co/LRNwIhKUCO https://t.co/i2n77Dgs8D&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1670869308593799193"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzAeyDzWABktatp.png" length="499" type="photo"/>
-      <pubDate>Mon, 19 Jun 2023 19:01:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Grip force makes wrist joint position sense worse: Background
-
-The purpose of this study was to investigate how grip force affects wrist joint position sense.Methods
-
-Twenty-two healthy participants (11 men and 11 women)… #Neuroscience https://t.co/lZlnLORs9v</title>
-      <link>https://twitter.com/FrontNeurosci/status/1670870323984740352</link>
-      <description>New Research: Grip force makes wrist joint position sense worse: Background
-
-The purpose of this study was to investigate how grip force affects wrist joint position sense.Methods
-
-Twenty-two healthy participants (11 men and 11 women)… #Neuroscience https://t.co/lZlnLORs9v</description>
-      <content:encoded>New Research: Grip force makes wrist joint position sense worse: Background
-
-The purpose of this study was to investigate how grip force affects wrist joint position sense.Methods
-
-Twenty-two healthy participants (11 men and 11 women)… #Neuroscience https://t.co/lZlnLORs9v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1670870323984740352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 19 Jun 2023 19:05:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 19:12:39 +0000</lastBuildDate>
     <item>
       <title>Transcriptomic profiling reveals a pro-nociceptive role for Angiotensin II in inflammatory bowel disease  https://t.co/AUU4qjjR1h #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1670872989947121665</link>
@@ -2260,6 +2144,85 @@ https://t.co/9PHdXCrF0B https://t.co/GkNfUncNmr&lt;blockquote class="twitter-twe
       <description>@mitbrainandcog @ScienceMIT @MITEngineering @RLEatMIT @mit_dmse</description>
       <content:encoded>@mitbrainandcog @ScienceMIT @MITEngineering @RLEatMIT @mit_dmse&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/mcgovernmit/status/1671218246572449792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 20 Jun 2023 18:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ianOldenburg: Extremely thankful to the Whitehall Foundation for supporting our research using holographic optogenetics to link neural…</title>
+      <link>https://twitter.com/UNC_Optics/status/1671221539604402176</link>
+      <description>RT @ianOldenburg: Extremely thankful to the Whitehall Foundation for supporting our research using holographic optogenetics to link neural…</description>
+      <content:encoded>RT @ianOldenburg: Extremely thankful to the Whitehall Foundation for supporting our research using holographic optogenetics to link neural…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/UNC_Optics/status/1671221539604402176"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 18:20:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The extent to which sea level will rise under climate change is uncertain. A Review in @NatureClimate discusses presentations of this uncertainty in IPCC and regional assessments, as well as their influence on users' interpretations. 🔒 https://t.co/h86whRCgjw https://t.co/92WuzHoM2T</title>
+      <link>https://twitter.com/NaturePortfolio/status/1671226681149751306</link>
+      <description>The extent to which sea level will rise under climate change is uncertain. A Review in @NatureClimate discusses presentations of this uncertainty in IPCC and regional assessments, as well as their influence on users' interpretations. 🔒 https://t.co/h86whRCgjw https://t.co/92WuzHoM2T</description>
+      <content:encoded>The extent to which sea level will rise under climate change is uncertain. A Review in @NatureClimate discusses presentations of this uncertainty in IPCC and regional assessments, as well as their influence on users' interpretations. 🔒 https://t.co/h86whRCgjw https://t.co/92WuzHoM2T&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1671226681149751306"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzFjywjWABAKdcN.jpg" length="1000" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The primary food for seagulls is fish. Yet, they also prey on terrestrial arthropods and invertebrates, reptiles, amphibians, and small rodents.
+
+Including squirrels
+
+[read more: https://t.co/GB4UGbEawb]
+[📹 https://t.co/yEmjapvjwz]
+https://t.co/ixQtTPeozP</title>
+      <link>https://twitter.com/Rainmaker1973/status/1671227299385966623</link>
+      <description>The primary food for seagulls is fish. Yet, they also prey on terrestrial arthropods and invertebrates, reptiles, amphibians, and small rodents.
+
+Including squirrels
+
+[read more: https://t.co/GB4UGbEawb]
+[📹 https://t.co/yEmjapvjwz]
+https://t.co/ixQtTPeozP</description>
+      <content:encoded>The primary food for seagulls is fish. Yet, they also prey on terrestrial arthropods and invertebrates, reptiles, amphibians, and small rodents.
+
+Including squirrels
+
+[read more: https://t.co/GB4UGbEawb]
+[📹 https://t.co/yEmjapvjwz]
+https://t.co/ixQtTPeozP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671227299385966623"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1671179611470790657/img/vIf6Lp3N-WaC9Lh-.jpg" length="404" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 18:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hindbrain modules differentially transform activity of single collicular neurons to coordinate movements
+https://t.co/IgmFWRRuX7 https://t.co/tXh6iOXKLO</title>
+      <link>https://twitter.com/gottapatchemall/status/1671227882050588672</link>
+      <description>Hindbrain modules differentially transform activity of single collicular neurons to coordinate movements
+https://t.co/IgmFWRRuX7 https://t.co/tXh6iOXKLO</description>
+      <content:encoded>Hindbrain modules differentially transform activity of single collicular neurons to coordinate movements
+https://t.co/IgmFWRRuX7 https://t.co/tXh6iOXKLO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1671227882050588672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzFidXJagAAc_S5.png" length="715" type="photo"/>
+      <pubDate>Tue, 20 Jun 2023 18:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>If you're interested resolving two points within ~250 nm of each other, but only have access to a traditional light microscope, then you may want to check out expansion microscopy! 
+
+https://t.co/SdgVixONf5</title>
+      <link>https://twitter.com/Addgene/status/1671232195350913024</link>
+      <description>If you're interested resolving two points within ~250 nm of each other, but only have access to a traditional light microscope, then you may want to check out expansion microscopy! 
+
+https://t.co/SdgVixONf5</description>
+      <content:encoded>If you're interested resolving two points within ~250 nm of each other, but only have access to a traditional light microscope, then you may want to check out expansion microscopy! 
+
+https://t.co/SdgVixONf5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1671232195350913024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 19:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: SAPAP3, SPRED2, and obsessive-compulsive disorder: the search for fundamental phenotypes #Molecular #Neuroscience https://t.co/Bo9TfKwiY6</title>
+      <link>https://twitter.com/FrontNeurosci/status/1671232583672410113</link>
+      <description>New Research: SAPAP3, SPRED2, and obsessive-compulsive disorder: the search for fundamental phenotypes #Molecular #Neuroscience https://t.co/Bo9TfKwiY6</description>
+      <content:encoded>New Research: SAPAP3, SPRED2, and obsessive-compulsive disorder: the search for fundamental phenotypes #Molecular #Neuroscience https://t.co/Bo9TfKwiY6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1671232583672410113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 19:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @barrygoldman1: interesting historical puzzle: could we have guessed brain made of neurons, was a network, before we knew about cells, j…</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1671232653167665152</link>
+      <description>RT @barrygoldman1: interesting historical puzzle: could we have guessed brain made of neurons, was a network, before we knew about cells, j…</description>
+      <content:encoded>RT @barrygoldman1: interesting historical puzzle: could we have guessed brain made of neurons, was a network, before we knew about cells, j…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1671232653167665152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 20 Jun 2023 19:04:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
