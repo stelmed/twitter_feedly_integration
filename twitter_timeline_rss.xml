@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jun 2023 04:19:18 +0000</lastBuildDate>
-    <item>
-      <title>Termites are being researched as a possible renewable energy source as they can produce up to 2 liters of hydrogen from ingesting a single sheet of paper, making them one of the planet's most efficient bioreactors 
-
-[read more: https://t.co/VgXw8wslPM] https://t.co/QcxJTbTZAP</title>
-      <link>https://twitter.com/Rainmaker1973/status/1671081206853582849</link>
-      <description>Termites are being researched as a possible renewable energy source as they can produce up to 2 liters of hydrogen from ingesting a single sheet of paper, making them one of the planet's most efficient bioreactors 
-
-[read more: https://t.co/VgXw8wslPM] https://t.co/QcxJTbTZAP</description>
-      <content:encoded>Termites are being researched as a possible renewable energy source as they can produce up to 2 liters of hydrogen from ingesting a single sheet of paper, making them one of the planet's most efficient bioreactors 
-
-[read more: https://t.co/VgXw8wslPM] https://t.co/QcxJTbTZAP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671081206853582849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzDffPFXoAAmI2Z.jpg" length="680" type="photo"/>
-      <pubDate>Tue, 20 Jun 2023 09:03:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Jun 2023 05:15:53 +0000</lastBuildDate>
     <item>
       <title>#PeerReview from @eLife of 👉🏿 Deciphering Neuronal Deficit and Protein Profile Changes in Human Brain Organoids from Patients with Creatine Transporter Deficiency  https://t.co/MY2gfqyMV5 #biorxiv_neursci #reviewedpreprint</title>
       <link>https://twitter.com/biorxiv_neursci/status/1671081862935064576</link>
@@ -2234,6 +2220,20 @@ Agenda-setting discussio…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="h
       <description>PDF neuropeptide signals independently of Bruchpilot-labelled active zones in daily remodelled terminals of Drosophila clock neurons  https://t.co/F9iI2nBUlX #biorxiv_neursci</description>
       <content:encoded>PDF neuropeptide signals independently of Bruchpilot-labelled active zones in daily remodelled terminals of Drosophila clock neurons  https://t.co/F9iI2nBUlX #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1671371283664084992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 21 Jun 2023 04:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Science, researchers present the Aging Fly Cell Atlas, a single-nucleus transcriptome map of the fruit fly as it ages.
+
+Learn more: https://t.co/YZmYlmbOJ7 https://t.co/A27vItXcXf</title>
+      <link>https://twitter.com/ScienceMagazine/status/1671374916799660032</link>
+      <description>In Science, researchers present the Aging Fly Cell Atlas, a single-nucleus transcriptome map of the fruit fly as it ages.
+
+Learn more: https://t.co/YZmYlmbOJ7 https://t.co/A27vItXcXf</description>
+      <content:encoded>In Science, researchers present the Aging Fly Cell Atlas, a single-nucleus transcriptome map of the fruit fly as it ages.
+
+Learn more: https://t.co/YZmYlmbOJ7 https://t.co/A27vItXcXf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1671374916799660032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzHqoIXWYAM8lkv.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 21 Jun 2023 04:30:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
