@@ -6,138 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jun 2023 18:20:02 +0000</lastBuildDate>
-    <item>
-      <title>RT @MetaAI: A closer look at the architecture of Meta's first-generation AI inference accelerator. MTIA v1 is a custom-designed ASIC built…</title>
-      <link>https://twitter.com/ylecun/status/1671712531612614659</link>
-      <description>RT @MetaAI: A closer look at the architecture of Meta's first-generation AI inference accelerator. MTIA v1 is a custom-designed ASIC built…</description>
-      <content:encoded>RT @MetaAI: A closer look at the architecture of Meta's first-generation AI inference accelerator. MTIA v1 is a custom-designed ASIC built…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1671712531612614659"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 02:51:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>I'm giving a tutorial to ~2nd year PhD students about Voltage Gated Ion Channels. I've gone through what Hodgkin and Huxley showed, now I want to highlight what we've learnt since then. What should I tell them?</title>
-      <link>https://twitter.com/NeuroBill/status/1671714573064503296</link>
-      <description>I'm giving a tutorial to ~2nd year PhD students about Voltage Gated Ion Channels. I've gone through what Hodgkin and Huxley showed, now I want to highlight what we've learnt since then. What should I tell them?</description>
-      <content:encoded>I'm giving a tutorial to ~2nd year PhD students about Voltage Gated Ion Channels. I've gone through what Hodgkin and Huxley showed, now I want to highlight what we've learnt since then. What should I tell them?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1671714573064503296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 02:59:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why do some #asthma patients have a poor response to inhaled #corticosteroids? 
-
-A new @ScienceTM study in mice and humans now connects #neutrophil activity with corticosteroid resistance. https://t.co/vg6U8hw9h9 https://t.co/I3ML7kKiky</title>
-      <link>https://twitter.com/ScienceMagazine/status/1671714650591838210</link>
-      <description>Why do some #asthma patients have a poor response to inhaled #corticosteroids? 
-
-A new @ScienceTM study in mice and humans now connects #neutrophil activity with corticosteroid resistance. https://t.co/vg6U8hw9h9 https://t.co/I3ML7kKiky</description>
-      <content:encoded>Why do some #asthma patients have a poor response to inhaled #corticosteroids? 
-
-A new @ScienceTM study in mice and humans now connects #neutrophil activity with corticosteroid resistance. https://t.co/vg6U8hw9h9 https://t.co/I3ML7kKiky&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1671714650591838210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzMfnaCWAAEnLsW.jpg" length="910" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 03:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @alexgkendall: We’ve only had access to GAIA-1 for a few weeks and are discovering new capabilities every day. The results are phenomena…</title>
-      <link>https://twitter.com/ylecun/status/1671715097977274372</link>
-      <description>RT @alexgkendall: We’ve only had access to GAIA-1 for a few weeks and are discovering new capabilities every day. The results are phenomena…</description>
-      <content:encoded>RT @alexgkendall: We’ve only had access to GAIA-1 for a few weeks and are discovering new capabilities every day. The results are phenomena…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1671715097977274372"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 03:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>New model offers a way to speed up drug discovery: By applying a language model to protein-drug interactions, researchers can quickly screen large libraries of potential drug compounds. https://t.co/FdPLMvVaMG https://t.co/c98F2xWHCq</title>
-      <link>https://twitter.com/MIT/status/1671715932966666243</link>
-      <description>New model offers a way to speed up drug discovery: By applying a language model to protein-drug interactions, researchers can quickly screen large libraries of potential drug compounds. https://t.co/FdPLMvVaMG https://t.co/c98F2xWHCq</description>
-      <content:encoded>New model offers a way to speed up drug discovery: By applying a language model to protein-drug interactions, researchers can quickly screen large libraries of potential drug compounds. https://t.co/FdPLMvVaMG https://t.co/c98F2xWHCq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1671715932966666243"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzMgx-WXsAAc30C.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 03:05:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>On my hit list so far I've got:
--All of them have a single ancestor. And the Homology subsequent to that.
-- Aqueous pore and dehydration at the selectivity filter.
-But what else is super critical, rather than just interesting?</title>
-      <link>https://twitter.com/NeuroBill/status/1671716313021169664</link>
-      <description>On my hit list so far I've got:
--All of them have a single ancestor. And the Homology subsequent to that.
-- Aqueous pore and dehydration at the selectivity filter.
-But what else is super critical, rather than just interesting?</description>
-      <content:encoded>On my hit list so far I've got:
--All of them have a single ancestor. And the Homology subsequent to that.
-- Aqueous pore and dehydration at the selectivity filter.
-But what else is super critical, rather than just interesting?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1671716313021169664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 03:06:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cystatin C loaded in brain-derived extracellular vesicles rescues synapses after ischemic insult in vitro and in vivo  https://t.co/qmuqWgEzUW #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1671718530264252416</link>
-      <description>Cystatin C loaded in brain-derived extracellular vesicles rescues synapses after ischemic insult in vitro and in vivo  https://t.co/qmuqWgEzUW #biorxiv_neursci</description>
-      <content:encoded>Cystatin C loaded in brain-derived extracellular vesicles rescues synapses after ischemic insult in vitro and in vivo  https://t.co/qmuqWgEzUW #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1671718530264252416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 03:15:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ChuyiSu: Had an amazing time at the @AllenInstitute today, diving into the fascinating world of Neuropixels! #AllenInstitute #Neuropixe…</title>
-      <link>https://twitter.com/LecoqJerome/status/1671719072806109184</link>
-      <description>RT @ChuyiSu: Had an amazing time at the @AllenInstitute today, diving into the fascinating world of Neuropixels! #AllenInstitute #Neuropixe…</description>
-      <content:encoded>RT @ChuyiSu: Had an amazing time at the @AllenInstitute today, diving into the fascinating world of Neuropixels! #AllenInstitute #Neuropixe…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1671719072806109184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 03:17:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>KATP channel mutation disrupts hippocampal network activity and nocturnal γ shifts  https://t.co/ADw8JUVFLq #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1671733624524136451</link>
-      <description>KATP channel mutation disrupts hippocampal network activity and nocturnal γ shifts  https://t.co/ADw8JUVFLq #biorxiv_neursci</description>
-      <content:encoded>KATP channel mutation disrupts hippocampal network activity and nocturnal γ shifts  https://t.co/ADw8JUVFLq #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1671733624524136451"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 04:15:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @StarTalkRadio: The moon is moving away from us… 🌖 https://t.co/oHXuWlxZB0</title>
-      <link>https://twitter.com/MichaelGalanin/status/1671736097725104128</link>
-      <description>RT @StarTalkRadio: The moon is moving away from us… 🌖 https://t.co/oHXuWlxZB0</description>
-      <content:encoded>RT @StarTalkRadio: The moon is moving away from us… 🌖 https://t.co/oHXuWlxZB0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1671736097725104128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1671693391136997376/pu/img/fg5Q4ful7Clq9xYL.jpg" length="675" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 04:25:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Academia—and life in general—can be challenging. We’re better off when we can rely on others and support ourselves." #ScienceWorkingLife @ScienceCareers https://t.co/2ZJpJPCrQq</title>
-      <link>https://twitter.com/ScienceMagazine/status/1671737284255678464</link>
-      <description>"Academia—and life in general—can be challenging. We’re better off when we can rely on others and support ourselves." #ScienceWorkingLife @ScienceCareers https://t.co/2ZJpJPCrQq</description>
-      <content:encoded>"Academia—and life in general—can be challenging. We’re better off when we can rely on others and support ourselves." #ScienceWorkingLife @ScienceCareers https://t.co/2ZJpJPCrQq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1671737284255678464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 04:30:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Born #Today in 1864, Hermann Minkowski created and developed the geometry of numbers and used geometrical methods to solve problems in number theory, mathematical physics, and the theory of relativity 
-
-[read more: https://t.co/aepTMKeGg8] https://t.co/JUjcbj9jJy</title>
-      <link>https://twitter.com/Rainmaker1973/status/1671756737831903235</link>
-      <description>Born #Today in 1864, Hermann Minkowski created and developed the geometry of numbers and used geometrical methods to solve problems in number theory, mathematical physics, and the theory of relativity 
-
-[read more: https://t.co/aepTMKeGg8] https://t.co/JUjcbj9jJy</description>
-      <content:encoded>Born #Today in 1864, Hermann Minkowski created and developed the geometry of numbers and used geometrical methods to solve problems in number theory, mathematical physics, and the theory of relativity 
-
-[read more: https://t.co/aepTMKeGg8] https://t.co/JUjcbj9jJy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671756737831903235"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzNFyq7X0AcuCyV.jpg" length="680" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 05:47:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>New research in mice maps how mitochondria within macrophages facilitate activation of the NLRP3 inflammasome complex essential for inflammatory signaling. https://t.co/L7cJbtrVjS @SciImmunology https://t.co/T0XVE96P7O</title>
-      <link>https://twitter.com/ScienceMagazine/status/1671759960747696128</link>
-      <description>New research in mice maps how mitochondria within macrophages facilitate activation of the NLRP3 inflammasome complex essential for inflammatory signaling. https://t.co/L7cJbtrVjS @SciImmunology https://t.co/T0XVE96P7O</description>
-      <content:encoded>New research in mice maps how mitochondria within macrophages facilitate activation of the NLRP3 inflammasome complex essential for inflammatory signaling. https://t.co/L7cJbtrVjS @SciImmunology https://t.co/T0XVE96P7O&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1671759960747696128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzNI01BWwAMrpKT.jpg" length="910" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 06:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>New plasmid alert! pUCmini-iCAP-AAV.X1.1, deposited by the Gradinaru lab, encodes a non-standard AAV capsid that transduces brain endothelia cells specifically and efficiently. 
-
-https://t.co/wBOHXSvskN https://t.co/5ih2UUMHfZ</title>
-      <link>https://twitter.com/Addgene/status/1671761684950548483</link>
-      <description>New plasmid alert! pUCmini-iCAP-AAV.X1.1, deposited by the Gradinaru lab, encodes a non-standard AAV capsid that transduces brain endothelia cells specifically and efficiently. 
-
-https://t.co/wBOHXSvskN https://t.co/5ih2UUMHfZ</description>
-      <content:encoded>New plasmid alert! pUCmini-iCAP-AAV.X1.1, deposited by the Gradinaru lab, encodes a non-standard AAV capsid that transduces brain endothelia cells specifically and efficiently. 
-
-https://t.co/wBOHXSvskN https://t.co/5ih2UUMHfZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1671761684950548483"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzNKZNMWwAIKFNh.jpg" length="752" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 06:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jun 2023 19:15:01 +0000</lastBuildDate>
     <item>
       <title>RT @ForumWissenGoe: „Pioniere des Wissens“: Die Wanderausstellung zu den Nobelpreisträger*innen der Max-Planck-Gesellschaft   tourt 2023 du…</title>
       <link>https://twitter.com/maxplanckpress/status/1671763018936459264</link>
@@ -1031,6 +900,26 @@ https://t.co/zvWh0DbBBp https://t.co/VxjIYxmAdz</description>
 https://t.co/zvWh0DbBBp https://t.co/VxjIYxmAdz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kibiblioteket/status/1671867325924950016"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FzOpEs1WIAAgX9L.jpg" length="921" type="photo"/>
       <pubDate>Thu, 22 Jun 2023 13:06:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>/^1?$|^(11+?)\1+$/
+
+This Regular Expression written in Perl checks whether a number is Prime. 
+
+🤔 https://t.co/MX5AD8mzmi</title>
+      <link>https://twitter.com/fermatslibrary/status/1671867903069626370</link>
+      <description>/^1?$|^(11+?)\1+$/
+
+This Regular Expression written in Perl checks whether a number is Prime. 
+
+🤔 https://t.co/MX5AD8mzmi</description>
+      <content:encoded>/^1?$|^(11+?)\1+$/
+
+This Regular Expression written in Perl checks whether a number is Prime. 
+
+🤔 https://t.co/MX5AD8mzmi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1671867903069626370"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzOq_mrWwAIHPqO.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 13:09:04 +0000</pubDate>
     </item>
     <item>
       <title>Congratulations! The Max Planck Society honours Daniel Zajfman with the Harnack Medal in recognition of his remarkable contributions to the advancement of science and German-Israeli cooperation.  https://t.co/59vl0jrtO0 #MaxPlanck75 #Israel https://t.co/G4vMOG1dXl</title>
@@ -2225,6 +2114,141 @@ https://t.co/VhzOiJi5QW</description>
 
 https://t.co/VhzOiJi5QW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1671944892426190852"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 22 Jun 2023 18:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Excited to announce the theme of the #2024EpilepsyGRS @GordonConf : “Transformations in Epilepsy” The Seminar will address fundamental &amp;amp; unanswered questions in epilepsy and will also provide strong mentorship to all attendees. Join @Ng2Laura and I in spreading the word! Also, 👇 https://t.co/Iyt2jvPFnl</title>
+      <link>https://twitter.com/Chris_Lisgaras/status/1671950162032295966</link>
+      <description>Excited to announce the theme of the #2024EpilepsyGRS @GordonConf : “Transformations in Epilepsy” The Seminar will address fundamental &amp;amp; unanswered questions in epilepsy and will also provide strong mentorship to all attendees. Join @Ng2Laura and I in spreading the word! Also, 👇 https://t.co/Iyt2jvPFnl</description>
+      <content:encoded>Excited to announce the theme of the #2024EpilepsyGRS @GordonConf : “Transformations in Epilepsy” The Seminar will address fundamental &amp;amp; unanswered questions in epilepsy and will also provide strong mentorship to all attendees. Join @Ng2Laura and I in spreading the word! Also, 👇 https://t.co/Iyt2jvPFnl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Chris_Lisgaras/status/1671950162032295966"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzP1zuYXgAIMNOw.jpg" length="683" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 18:35:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>BIG THANK YOU to our early bird supporters for their generous contribution: 
+
+-Modulight.bio https://t.co/5EsTlfGMYe</title>
+      <link>https://twitter.com/Chris_Lisgaras/status/1671950171712749591</link>
+      <description>BIG THANK YOU to our early bird supporters for their generous contribution: 
+
+-Modulight.bio https://t.co/5EsTlfGMYe</description>
+      <content:encoded>BIG THANK YOU to our early bird supporters for their generous contribution: 
+
+-Modulight.bio https://t.co/5EsTlfGMYe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Chris_Lisgaras/status/1671950171712749591"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzP10XeX0AINgts.jpg" length="1194" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 18:35:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>-Pinnacle Technology Inc. https://t.co/OdMl1xGqvo</title>
+      <link>https://twitter.com/Chris_Lisgaras/status/1671950178499133443</link>
+      <description>-Pinnacle Technology Inc. https://t.co/OdMl1xGqvo</description>
+      <content:encoded>-Pinnacle Technology Inc. https://t.co/OdMl1xGqvo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Chris_Lisgaras/status/1671950178499133443"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzP10zWXgBAjVVL.jpg" length="1170" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 18:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>👉 More funding is needed to support all stellar young investigators to attend the meeting! If you would like to support #2024EpilepsyGRS please do reach out! Program will be announced very soon 😁</title>
+      <link>https://twitter.com/Chris_Lisgaras/status/1671950182223859712</link>
+      <description>👉 More funding is needed to support all stellar young investigators to attend the meeting! If you would like to support #2024EpilepsyGRS please do reach out! Program will be announced very soon 😁</description>
+      <content:encoded>👉 More funding is needed to support all stellar young investigators to attend the meeting! If you would like to support #2024EpilepsyGRS please do reach out! Program will be announced very soon 😁&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Chris_Lisgaras/status/1671950182223859712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 18:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @LadyDoctorSays: Nothing abt the Titan is worthy of note.
+
+It was hastily &amp;amp; shoddily assembled w/untested materials &amp;amp; eschewed all accep…</title>
+      <link>https://twitter.com/chrisdc77/status/1671950729618096154</link>
+      <description>RT @LadyDoctorSays: Nothing abt the Titan is worthy of note.
+
+It was hastily &amp;amp; shoddily assembled w/untested materials &amp;amp; eschewed all accep…</description>
+      <content:encoded>RT @LadyDoctorSays: Nothing abt the Titan is worthy of note.
+
+It was hastily &amp;amp; shoddily assembled w/untested materials &amp;amp; eschewed all accep…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1671950729618096154"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 18:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @natrevbioeng summarizes gut microbiome engineering strategies against selected diseases and critically discusses their translational potential. 🔒 https://t.co/M0jZLnPRjn https://t.co/wNlvP1m6og</title>
+      <link>https://twitter.com/NaturePortfolio/status/1671951456625197058</link>
+      <description>A Review in @natrevbioeng summarizes gut microbiome engineering strategies against selected diseases and critically discusses their translational potential. 🔒 https://t.co/M0jZLnPRjn https://t.co/wNlvP1m6og</description>
+      <content:encoded>A Review in @natrevbioeng summarizes gut microbiome engineering strategies against selected diseases and critically discusses their translational potential. 🔒 https://t.co/M0jZLnPRjn https://t.co/wNlvP1m6og&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1671951456625197058"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzP2-PSXgA4vwcL.jpg" length="1066" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>We're looking forward to host the 2023 Kavli Research in Progress seminar, highlighting the work of the 2022 Kavli awardees @elvisha9, Jeff Gruen, @maryann_platt, @priyajamadagni, &amp;amp; @TalYatziv, who will present the progress made on their Kavli-funded projects on Monday, June 26! https://t.co/17G87RsOhm</title>
+      <link>https://twitter.com/KavliAtYale/status/1671952573497049094</link>
+      <description>We're looking forward to host the 2023 Kavli Research in Progress seminar, highlighting the work of the 2022 Kavli awardees @elvisha9, Jeff Gruen, @maryann_platt, @priyajamadagni, &amp;amp; @TalYatziv, who will present the progress made on their Kavli-funded projects on Monday, June 26! https://t.co/17G87RsOhm</description>
+      <content:encoded>We're looking forward to host the 2023 Kavli Research in Progress seminar, highlighting the work of the 2022 Kavli awardees @elvisha9, Jeff Gruen, @maryann_platt, @priyajamadagni, &amp;amp; @TalYatziv, who will present the progress made on their Kavli-funded projects on Monday, June 26! https://t.co/17G87RsOhm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KavliAtYale/status/1671952573497049094"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzP31q6WwAAT3gp.jpg" length="843" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 18:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Brain_Facts_org: @SfNtweets annual Brain Awareness Video Contest is back! Learn more about #BAVC23 entry and prizes: https://t.co/FArlO…</title>
+      <link>https://twitter.com/SfNtweets/status/1671953396864090140</link>
+      <description>RT @Brain_Facts_org: @SfNtweets annual Brain Awareness Video Contest is back! Learn more about #BAVC23 entry and prizes: https://t.co/FArlO…</description>
+      <content:encoded>RT @Brain_Facts_org: @SfNtweets annual Brain Awareness Video Contest is back! Learn more about #BAVC23 entry and prizes: https://t.co/FArlO…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1671953396864090140"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 18:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Apocalypse Scorecard, with quotes from tonight's debaters:
+@MelMitchell1, @tegmark, Yoshua Bengio, and me, among several others.
+
+https://t.co/1oiDsc7Zbh</title>
+      <link>https://twitter.com/ylecun/status/1671953437502709760</link>
+      <description>The AI Apocalypse Scorecard, with quotes from tonight's debaters:
+@MelMitchell1, @tegmark, Yoshua Bengio, and me, among several others.
+
+https://t.co/1oiDsc7Zbh</description>
+      <content:encoded>The AI Apocalypse Scorecard, with quotes from tonight's debaters:
+@MelMitchell1, @tegmark, Yoshua Bengio, and me, among several others.
+
+https://t.co/1oiDsc7Zbh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1671953437502709760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 18:48:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>I'm filling out some medical forms online, and this question got me thinking: 
+
+"How many hours did you miss from work because of problems associated with your PROBLEM?"</title>
+      <link>https://twitter.com/stevenstrogatz/status/1671954744267382784</link>
+      <description>I'm filling out some medical forms online, and this question got me thinking: 
+
+"How many hours did you miss from work because of problems associated with your PROBLEM?"</description>
+      <content:encoded>I'm filling out some medical forms online, and this question got me thinking: 
+
+"How many hours did you miss from work because of problems associated with your PROBLEM?"&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1671954744267382784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 18:54:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Viral work doesn't have to be scary. Check out our virus safety blog to learn about best practices for viral handling https://t.co/AiWwXSby3d</title>
+      <link>https://twitter.com/Addgene/status/1671956216736612375</link>
+      <description>Viral work doesn't have to be scary. Check out our virus safety blog to learn about best practices for viral handling https://t.co/AiWwXSby3d</description>
+      <content:encoded>Viral work doesn't have to be scary. Check out our virus safety blog to learn about best practices for viral handling https://t.co/AiWwXSby3d&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1671956216736612375"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Gait performance and prefrontal cortex activation during single and dual task walking in older adults with different cognitive levels: Background
+
+Growing evidence shows the cognitive function influences the motor… #ageing #neuroscience https://t.co/I7plOOGMXK</title>
+      <link>https://twitter.com/FrontNeurosci/status/1671957484196728832</link>
+      <description>New Research: Gait performance and prefrontal cortex activation during single and dual task walking in older adults with different cognitive levels: Background
+
+Growing evidence shows the cognitive function influences the motor… #ageing #neuroscience https://t.co/I7plOOGMXK</description>
+      <content:encoded>New Research: Gait performance and prefrontal cortex activation during single and dual task walking in older adults with different cognitive levels: Background
+
+Growing evidence shows the cognitive function influences the motor… #ageing #neuroscience https://t.co/I7plOOGMXK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1671957484196728832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 19:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>If you're doing highly multiplexed imaging using the IBEX technique, you'll want to check out the IBEX Knowledge-Base, a collection of community-generated data on imaging reagents! Learn more in our blog: 
+
+https://t.co/PmzjmTBxKs</title>
+      <link>https://twitter.com/Addgene/status/1671957979778654210</link>
+      <description>If you're doing highly multiplexed imaging using the IBEX technique, you'll want to check out the IBEX Knowledge-Base, a collection of community-generated data on imaging reagents! Learn more in our blog: 
+
+https://t.co/PmzjmTBxKs</description>
+      <content:encoded>If you're doing highly multiplexed imaging using the IBEX technique, you'll want to check out the IBEX Knowledge-Base, a collection of community-generated data on imaging reagents! Learn more in our blog: 
+
+https://t.co/PmzjmTBxKs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1671957979778654210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 19:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
