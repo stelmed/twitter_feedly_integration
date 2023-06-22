@@ -6,81 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jun 2023 02:41:52 +0000</lastBuildDate>
-    <item>
-      <title>Georgia Broadwick was the first woman to parachute from an airplane, exactly 110 years ago #Today. She was 18 
-
-[read more: https://t.co/x0RilhrRuN] https://t.co/YzKK3WAwLw</title>
-      <link>https://twitter.com/Rainmaker1973/status/1671416658697617409</link>
-      <description>Georgia Broadwick was the first woman to parachute from an airplane, exactly 110 years ago #Today. She was 18 
-
-[read more: https://t.co/x0RilhrRuN] https://t.co/YzKK3WAwLw</description>
-      <content:encoded>Georgia Broadwick was the first woman to parachute from an airplane, exactly 110 years ago #Today. She was 18 
-
-[read more: https://t.co/x0RilhrRuN] https://t.co/YzKK3WAwLw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671416658697617409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzIQbp4WAAEdzZT.jpg" length="680" type="photo"/>
-      <pubDate>Wed, 21 Jun 2023 07:15:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Today in 1948, the first stored-program computer, the Small-Scale Experimental Machine, SSEM (also known as the Manchester Baby), ran its first program. Previous electronic computers had to be rewired to execute each new problem 
-
-[read more: https://t.co/vGWKaJjalw] https://t.co/VlkmJ8wbRT</title>
-      <link>https://twitter.com/Rainmaker1973/status/1671418884690255872</link>
-      <description>#Today in 1948, the first stored-program computer, the Small-Scale Experimental Machine, SSEM (also known as the Manchester Baby), ran its first program. Previous electronic computers had to be rewired to execute each new problem 
-
-[read more: https://t.co/vGWKaJjalw] https://t.co/VlkmJ8wbRT</description>
-      <content:encoded>#Today in 1948, the first stored-program computer, the Small-Scale Experimental Machine, SSEM (also known as the Manchester Baby), ran its first program. Previous electronic computers had to be rewired to execute each new problem 
-
-[read more: https://t.co/vGWKaJjalw] https://t.co/VlkmJ8wbRT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671418884690255872"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzISbCNXgAEkpvN.jpg" length="680" type="photo"/>
-      <pubDate>Wed, 21 Jun 2023 07:24:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is the external fuel tank falling toward Earth after being jettisoned from Shuttle #Endeavour #STS57, exactly 30 years ago #today 
-
-[source: https://t.co/L3jT7G5ZnV] https://t.co/tYBDSYzmhB</title>
-      <link>https://twitter.com/Rainmaker1973/status/1671420132751552512</link>
-      <description>This is the external fuel tank falling toward Earth after being jettisoned from Shuttle #Endeavour #STS57, exactly 30 years ago #today 
-
-[source: https://t.co/L3jT7G5ZnV] https://t.co/tYBDSYzmhB</description>
-      <content:encoded>This is the external fuel tank falling toward Earth after being jettisoned from Shuttle #Endeavour #STS57, exactly 30 years ago #today 
-
-[source: https://t.co/L3jT7G5ZnV] https://t.co/tYBDSYzmhB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671420132751552512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzITpmkXsAEQBTL.jpg" length="790" type="photo"/>
-      <pubDate>Wed, 21 Jun 2023 07:29:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new #SciencePerspective looks at several ways large language models could be used in social science work. https://t.co/jnYrqm3X4d #AI https://t.co/rjE8TDiVo9</title>
-      <link>https://twitter.com/ScienceMagazine/status/1671420219649130497</link>
-      <description>A new #SciencePerspective looks at several ways large language models could be used in social science work. https://t.co/jnYrqm3X4d #AI https://t.co/rjE8TDiVo9</description>
-      <content:encoded>A new #SciencePerspective looks at several ways large language models could be used in social science work. https://t.co/jnYrqm3X4d #AI https://t.co/rjE8TDiVo9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1671420219649130497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzIT1NiWYAAs7O4.jpg" length="750" type="photo"/>
-      <pubDate>Wed, 21 Jun 2023 07:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stuck on you: Mitsunori Fukuda recommends this paper by Ouyang Q et al. @njuniversity published in @Dev_Cell that shows Rab8A serves as a #mitochondrial receptor for lipid droplets by forming a tethering complex with the LD-associated PLIN5.
-
-https://t.co/rsfq1w27J7 https://t.co/ZeA5udxf29</title>
-      <link>https://twitter.com/Facultyopinions/status/1671422709559877632</link>
-      <description>Stuck on you: Mitsunori Fukuda recommends this paper by Ouyang Q et al. @njuniversity published in @Dev_Cell that shows Rab8A serves as a #mitochondrial receptor for lipid droplets by forming a tethering complex with the LD-associated PLIN5.
-
-https://t.co/rsfq1w27J7 https://t.co/ZeA5udxf29</description>
-      <content:encoded>Stuck on you: Mitsunori Fukuda recommends this paper by Ouyang Q et al. @njuniversity published in @Dev_Cell that shows Rab8A serves as a #mitochondrial receptor for lipid droplets by forming a tethering complex with the LD-associated PLIN5.
-
-https://t.co/rsfq1w27J7 https://t.co/ZeA5udxf29&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1671422709559877632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzIWGH1XwAARVS9.jpg" length="764" type="photo"/>
-      <pubDate>Wed, 21 Jun 2023 07:40:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Så viktigt och spännande!
-Patienter med sällsynta sjukdomar fick diagnos efter internationellt hackathon https://t.co/eOAq4q20bs</title>
-      <link>https://twitter.com/forskasverige/status/1671423435539349504</link>
-      <description>Så viktigt och spännande!
-Patienter med sällsynta sjukdomar fick diagnos efter internationellt hackathon https://t.co/eOAq4q20bs</description>
-      <content:encoded>Så viktigt och spännande!
-Patienter med sällsynta sjukdomar fick diagnos efter internationellt hackathon https://t.co/eOAq4q20bs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/forskasverige/status/1671423435539349504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 07:42:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jun 2023 03:16:42 +0000</lastBuildDate>
     <item>
       <title>Kom och lyssna på forskande sjuksköterskors erfarenheter och diskutera vad som behöver göras för att stärka denna viktiga profession. Välkommen till panelsamtal i Almedalen! #forskning #vårdpol #Almedalen Läs mer: https://t.co/b2MEleX57T https://t.co/B2M5Xs3IAd</title>
       <link>https://twitter.com/forskasverige/status/1671423661239152640</link>
@@ -2201,6 +2127,82 @@ Free link: https://t.co/qv9IaEA…&lt;blockquote class="twitter-tweet"&gt;&lt;a 
       <description>New Research: Behavioral pattern separation and cognitive flexibility are enhanced in a mouse model of increased lateral entorhinal cortex-dentate gyrus circuit activity: Behavioral pattern separation and cognitive flexibility are essential… #neuroscience https://t.co/kXbTSdwr1u</description>
       <content:encoded>New Research: Behavioral pattern separation and cognitive flexibility are enhanced in a mouse model of increased lateral entorhinal cortex-dentate gyrus circuit activity: Behavioral pattern separation and cognitive flexibility are essential… #neuroscience https://t.co/kXbTSdwr1u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1671701424265375746"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 22 Jun 2023 02:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exactly.
+Automated manufacturing makes handcrafted goods more valuable. https://t.co/atw61pWkUA</title>
+      <link>https://twitter.com/ylecun/status/1671711946360475648</link>
+      <description>Exactly.
+Automated manufacturing makes handcrafted goods more valuable. https://t.co/atw61pWkUA</description>
+      <content:encoded>Exactly.
+Automated manufacturing makes handcrafted goods more valuable. https://t.co/atw61pWkUA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1671711946360475648"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 02:49:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MetaAI: A closer look at the architecture of Meta's first-generation AI inference accelerator. MTIA v1 is a custom-designed ASIC built…</title>
+      <link>https://twitter.com/ylecun/status/1671712531612614659</link>
+      <description>RT @MetaAI: A closer look at the architecture of Meta's first-generation AI inference accelerator. MTIA v1 is a custom-designed ASIC built…</description>
+      <content:encoded>RT @MetaAI: A closer look at the architecture of Meta's first-generation AI inference accelerator. MTIA v1 is a custom-designed ASIC built…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1671712531612614659"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 02:51:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>I'm giving a tutorial to ~2nd year PhD students about Voltage Gated Ion Channels. I've gone through what Hodgkin and Huxley showed, now I want to highlight what we've learnt since then. What should I tell them?</title>
+      <link>https://twitter.com/NeuroBill/status/1671714573064503296</link>
+      <description>I'm giving a tutorial to ~2nd year PhD students about Voltage Gated Ion Channels. I've gone through what Hodgkin and Huxley showed, now I want to highlight what we've learnt since then. What should I tell them?</description>
+      <content:encoded>I'm giving a tutorial to ~2nd year PhD students about Voltage Gated Ion Channels. I've gone through what Hodgkin and Huxley showed, now I want to highlight what we've learnt since then. What should I tell them?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1671714573064503296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 02:59:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why do some #asthma patients have a poor response to inhaled #corticosteroids? 
+
+A new @ScienceTM study in mice and humans now connects #neutrophil activity with corticosteroid resistance. https://t.co/vg6U8hw9h9 https://t.co/I3ML7kKiky</title>
+      <link>https://twitter.com/ScienceMagazine/status/1671714650591838210</link>
+      <description>Why do some #asthma patients have a poor response to inhaled #corticosteroids? 
+
+A new @ScienceTM study in mice and humans now connects #neutrophil activity with corticosteroid resistance. https://t.co/vg6U8hw9h9 https://t.co/I3ML7kKiky</description>
+      <content:encoded>Why do some #asthma patients have a poor response to inhaled #corticosteroids? 
+
+A new @ScienceTM study in mice and humans now connects #neutrophil activity with corticosteroid resistance. https://t.co/vg6U8hw9h9 https://t.co/I3ML7kKiky&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1671714650591838210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzMfnaCWAAEnLsW.jpg" length="910" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @alexgkendall: We’ve only had access to GAIA-1 for a few weeks and are discovering new capabilities every day. The results are phenomena…</title>
+      <link>https://twitter.com/ylecun/status/1671715097977274372</link>
+      <description>RT @alexgkendall: We’ve only had access to GAIA-1 for a few weeks and are discovering new capabilities every day. The results are phenomena…</description>
+      <content:encoded>RT @alexgkendall: We’ve only had access to GAIA-1 for a few weeks and are discovering new capabilities every day. The results are phenomena…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1671715097977274372"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 03:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New model offers a way to speed up drug discovery: By applying a language model to protein-drug interactions, researchers can quickly screen large libraries of potential drug compounds. https://t.co/FdPLMvVaMG https://t.co/c98F2xWHCq</title>
+      <link>https://twitter.com/MIT/status/1671715932966666243</link>
+      <description>New model offers a way to speed up drug discovery: By applying a language model to protein-drug interactions, researchers can quickly screen large libraries of potential drug compounds. https://t.co/FdPLMvVaMG https://t.co/c98F2xWHCq</description>
+      <content:encoded>New model offers a way to speed up drug discovery: By applying a language model to protein-drug interactions, researchers can quickly screen large libraries of potential drug compounds. https://t.co/FdPLMvVaMG https://t.co/c98F2xWHCq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1671715932966666243"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzMgx-WXsAAc30C.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 03:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>On my hit list so far I've got:
+-All of them have a single ancestor. And the Homology subsequent to that.
+- Aqueous pore and dehydration at the selectivity filter.
+But what else is super critical, rather than just interesting?</title>
+      <link>https://twitter.com/NeuroBill/status/1671716313021169664</link>
+      <description>On my hit list so far I've got:
+-All of them have a single ancestor. And the Homology subsequent to that.
+- Aqueous pore and dehydration at the selectivity filter.
+But what else is super critical, rather than just interesting?</description>
+      <content:encoded>On my hit list so far I've got:
+-All of them have a single ancestor. And the Homology subsequent to that.
+- Aqueous pore and dehydration at the selectivity filter.
+But what else is super critical, rather than just interesting?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1671716313021169664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 03:06:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cystatin C loaded in brain-derived extracellular vesicles rescues synapses after ischemic insult in vitro and in vivo  https://t.co/qmuqWgEzUW #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1671718530264252416</link>
+      <description>Cystatin C loaded in brain-derived extracellular vesicles rescues synapses after ischemic insult in vitro and in vivo  https://t.co/qmuqWgEzUW #biorxiv_neursci</description>
+      <content:encoded>Cystatin C loaded in brain-derived extracellular vesicles rescues synapses after ischemic insult in vitro and in vivo  https://t.co/qmuqWgEzUW #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1671718530264252416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 03:15:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
