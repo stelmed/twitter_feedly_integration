@@ -6,172 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jun 2023 11:13:24 +0000</lastBuildDate>
-    <item>
-      <title>@Neuro_Skeptic One has to wonder what the training involves.</title>
-      <link>https://twitter.com/neuralengine/status/1671506055660961796</link>
-      <description>@Neuro_Skeptic One has to wonder what the training involves.</description>
-      <content:encoded>@Neuro_Skeptic One has to wonder what the training involves.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1671506055660961796"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:11:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>#137: Proliferating active matter by @ohallats @TheSquishyLab @knutdrescher Dunkel, Elgeti, @BartlomiejWacl1 
-
-How active matter can contextualize self-assembly, from bacteria to embryos. 
-
-https://t.co/NKebPXTYLR https://t.co/u5TwgYIm6A</title>
-      <link>https://twitter.com/bdanubius/status/1671506252420055041</link>
-      <description>#137: Proliferating active matter by @ohallats @TheSquishyLab @knutdrescher Dunkel, Elgeti, @BartlomiejWacl1 
-
-How active matter can contextualize self-assembly, from bacteria to embryos. 
-
-https://t.co/NKebPXTYLR https://t.co/u5TwgYIm6A</description>
-      <content:encoded>#137: Proliferating active matter by @ohallats @TheSquishyLab @knutdrescher Dunkel, Elgeti, @BartlomiejWacl1 
-
-How active matter can contextualize self-assembly, from bacteria to embryos. 
-
-https://t.co/NKebPXTYLR https://t.co/u5TwgYIm6A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1671506252420055041"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzAU7FpWIAE3sPo.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 21 Jun 2023 13:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want to go beyond ChatGPT’s web interface? Join our one-hour course, ChatGPT Prompt Engineering for Developers. @AndrewYNg and @OpenAI's @isafulf will teach you how to create great prompts. You’ll use OpenAI’s API to create your own chatbot!
-
-Join now: https://t.co/nPO8lqojEE</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1671507005343772672</link>
-      <description>Want to go beyond ChatGPT’s web interface? Join our one-hour course, ChatGPT Prompt Engineering for Developers. @AndrewYNg and @OpenAI's @isafulf will teach you how to create great prompts. You’ll use OpenAI’s API to create your own chatbot!
-
-Join now: https://t.co/nPO8lqojEE</description>
-      <content:encoded>Want to go beyond ChatGPT’s web interface? Join our one-hour course, ChatGPT Prompt Engineering for Developers. @AndrewYNg and @OpenAI's @isafulf will teach you how to create great prompts. You’ll use OpenAI’s API to create your own chatbot!
-
-Join now: https://t.co/nPO8lqojEE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1671507005343772672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:14:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>An autoradiographic map of the density of 14 neurotransmitter receptor types in 109 areas of macaque cortex reveals gradients of expression
-
-@seanfw @BristolCNU @BristolNeurosci @NYU_CNS @fz_juelich @HHU_de
-
-https://t.co/8C6EXcMhAl</title>
-      <link>https://twitter.com/NatureNeuro/status/1671507008145743874</link>
-      <description>An autoradiographic map of the density of 14 neurotransmitter receptor types in 109 areas of macaque cortex reveals gradients of expression
-
-@seanfw @BristolCNU @BristolNeurosci @NYU_CNS @fz_juelich @HHU_de
-
-https://t.co/8C6EXcMhAl</description>
-      <content:encoded>An autoradiographic map of the density of 14 neurotransmitter receptor types in 109 areas of macaque cortex reveals gradients of expression
-
-@seanfw @BristolCNU @BristolNeurosci @NYU_CNS @fz_juelich @HHU_de
-
-https://t.co/8C6EXcMhAl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1671507008145743874"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dendrites rule for the day! https://t.co/pS7AVtGjfO</title>
-      <link>https://twitter.com/CGrienberger/status/1671508480190996482</link>
-      <description>Dendrites rule for the day! https://t.co/pS7AVtGjfO</description>
-      <content:encoded>Dendrites rule for the day! https://t.co/pS7AVtGjfO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CGrienberger/status/1671508480190996482"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazing colleagues and a great place to do science! https://t.co/iafqv17HpA</title>
-      <link>https://twitter.com/FlavioDonato82/status/1671508890943467520</link>
-      <description>Amazing colleagues and a great place to do science! https://t.co/iafqv17HpA</description>
-      <content:encoded>Amazing colleagues and a great place to do science! https://t.co/iafqv17HpA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FlavioDonato82/status/1671508890943467520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:22:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>We are thrilled to be on @TIME's list of the 100 Most Influential Companies of 2023!
-
-Our AI breakthroughs like #AlphaFold will continue to help address some of the world’s biggest challenges and improve the lives of billions of people. https://t.co/D4NuKNJ9r4 #TIME100Companies</title>
-      <link>https://twitter.com/DeepMind/status/1671510453497864193</link>
-      <description>We are thrilled to be on @TIME's list of the 100 Most Influential Companies of 2023!
-
-Our AI breakthroughs like #AlphaFold will continue to help address some of the world’s biggest challenges and improve the lives of billions of people. https://t.co/D4NuKNJ9r4 #TIME100Companies</description>
-      <content:encoded>We are thrilled to be on @TIME's list of the 100 Most Influential Companies of 2023!
-
-Our AI breakthroughs like #AlphaFold will continue to help address some of the world’s biggest challenges and improve the lives of billions of people. https://t.co/D4NuKNJ9r4 #TIME100Companies&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1671510453497864193"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rats enjoy music at the same beat as humans, according to a @ScienceAdvances study, hinting at inherent neural processing across species. 
-
-Learn more on #WorldMusicDay: https://t.co/BJCCaRPkUt https://t.co/VV0M05bXhT</title>
-      <link>https://twitter.com/ScienceMagazine/status/1671510829722746881</link>
-      <description>Rats enjoy music at the same beat as humans, according to a @ScienceAdvances study, hinting at inherent neural processing across species. 
-
-Learn more on #WorldMusicDay: https://t.co/BJCCaRPkUt https://t.co/VV0M05bXhT</description>
-      <content:encoded>Rats enjoy music at the same beat as humans, according to a @ScienceAdvances study, hinting at inherent neural processing across species. 
-
-Learn more on #WorldMusicDay: https://t.co/BJCCaRPkUt https://t.co/VV0M05bXhT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1671510829722746881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1671510817563344897/pu/img/aHBdWJuulMKUzcBn.jpg" length="506" type="photo"/>
-      <pubDate>Wed, 21 Jun 2023 13:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>How much carbon is it to train your DL model? https://t.co/NfYzR8qSxK</title>
-      <link>https://twitter.com/KordingLab/status/1671511121000374272</link>
-      <description>How much carbon is it to train your DL model? https://t.co/NfYzR8qSxK</description>
-      <content:encoded>How much carbon is it to train your DL model? https://t.co/NfYzR8qSxK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1671511121000374272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to decode visual stimuli from fMRI data: https://t.co/hYU5IJtc11</title>
-      <link>https://twitter.com/KordingLab/status/1671511466925600769</link>
-      <description>How to decode visual stimuli from fMRI data: https://t.co/hYU5IJtc11</description>
-      <content:encoded>How to decode visual stimuli from fMRI data: https://t.co/hYU5IJtc11&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1671511466925600769"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:32:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is cocaine seeking a motor cortex phenomenon? https://t.co/jOg8yZSTk9</title>
-      <link>https://twitter.com/KordingLab/status/1671511879506591744</link>
-      <description>Is cocaine seeking a motor cortex phenomenon? https://t.co/jOg8yZSTk9</description>
-      <content:encoded>Is cocaine seeking a motor cortex phenomenon? https://t.co/jOg8yZSTk9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1671511879506591744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:34:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @_mameli_: Great opportunity to consolidate a neuroscience research program. Vibrant community, collegial, multidisciplinary in an amazi…</title>
-      <link>https://twitter.com/meletislab/status/1671512070053871617</link>
-      <description>RT @_mameli_: Great opportunity to consolidate a neuroscience research program. Vibrant community, collegial, multidisciplinary in an amazi…</description>
-      <content:encoded>RT @_mameli_: Great opportunity to consolidate a neuroscience research program. Vibrant community, collegial, multidisciplinary in an amazi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/meletislab/status/1671512070053871617"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 21 Jun 2023 13:35:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>This famous BBC Earth video, captures a silverback gorilla standing like a statue in the middle of the road in order to block any oncoming traffic that would impede the safe crossing of his big family 
-
-[full video: https://t.co/6PKIIqKmaj]
-https://t.co/7O0hzoAgKE</title>
-      <link>https://twitter.com/Rainmaker1973/status/1671516722346487808</link>
-      <description>This famous BBC Earth video, captures a silverback gorilla standing like a statue in the middle of the road in order to block any oncoming traffic that would impede the safe crossing of his big family 
-
-[full video: https://t.co/6PKIIqKmaj]
-https://t.co/7O0hzoAgKE</description>
-      <content:encoded>This famous BBC Earth video, captures a silverback gorilla standing like a statue in the middle of the road in order to block any oncoming traffic that would impede the safe crossing of his big family 
-
-[full video: https://t.co/6PKIIqKmaj]
-https://t.co/7O0hzoAgKE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671516722346487808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1550089477628067843/pu/img/Y8gm_Lvavb3IqZsb.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 21 Jun 2023 13:53:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-BK beta4 K+ channel [L18A/3R]
-DEPOSITING LAB: James Trimmer
-PURPOSE: Anti-BK beta4 K+ channel (Mouse) recombinant mouse monoclonal antibody
-
-https://t.co/pxCIUJq7T2 https://t.co/EzOznbdTJ6</title>
-      <link>https://twitter.com/Addgene/status/1671520610294308871</link>
-      <description>Anti-BK beta4 K+ channel [L18A/3R]
-DEPOSITING LAB: James Trimmer
-PURPOSE: Anti-BK beta4 K+ channel (Mouse) recombinant mouse monoclonal antibody
-
-https://t.co/pxCIUJq7T2 https://t.co/EzOznbdTJ6</description>
-      <content:encoded>Anti-BK beta4 K+ channel [L18A/3R]
-DEPOSITING LAB: James Trimmer
-PURPOSE: Anti-BK beta4 K+ channel (Mouse) recombinant mouse monoclonal antibody
-
-https://t.co/pxCIUJq7T2 https://t.co/EzOznbdTJ6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1671520610294308871"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FzJvILfWwAAv_19.jpg" length="480" type="photo"/>
-      <pubDate>Wed, 21 Jun 2023 14:09:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jun 2023 12:33:42 +0000</lastBuildDate>
     <item>
       <title>A simple and quick way to create an anamorphic illusion of a 3D cube with just a marker and a piece of paper
 
@@ -2152,6 +1987,327 @@ https://t.co/eEv1BZDjgq</description>
 https://t.co/eEv1BZDjgq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671837857512562693"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1347987209257971714/pu/img/i7q6Ay-8DOQBTvmW.jpg" length="608" type="photo"/>
       <pubDate>Thu, 22 Jun 2023 11:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>This kinetic sculpture inspired by Reuben Margolin's art, works with a bunch of nuts and some fish line and visualizes waves and their relationship with trigonometric functions 
+
+[📹 CMH Maker: https://t.co/WSNBTeyN09]
+https://t.co/ci42kmWTYA</title>
+      <link>https://twitter.com/Rainmaker1973/status/1671842863313723392</link>
+      <description>This kinetic sculpture inspired by Reuben Margolin's art, works with a bunch of nuts and some fish line and visualizes waves and their relationship with trigonometric functions 
+
+[📹 CMH Maker: https://t.co/WSNBTeyN09]
+https://t.co/ci42kmWTYA</description>
+      <content:encoded>This kinetic sculpture inspired by Reuben Margolin's art, works with a bunch of nuts and some fish line and visualizes waves and their relationship with trigonometric functions 
+
+[📹 CMH Maker: https://t.co/WSNBTeyN09]
+https://t.co/ci42kmWTYA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671842863313723392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1550768397000007680/pu/img/XDdObshjqsiEx4Si.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 11:29:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Come work with us: Associate Professor on Socially Aware AI:
+https://t.co/K1EdGvGkHO
+
+You will be part of the department of Computing Science and work closely with TAIGA: https://t.co/5UFQqunZvH
+#AI #SocialAI #AI4Good #ResponsibleAI 
+
+Tenure track, permanent after 5 years</title>
+      <link>https://twitter.com/vdignum/status/1671843968672231430</link>
+      <description>Come work with us: Associate Professor on Socially Aware AI:
+https://t.co/K1EdGvGkHO
+
+You will be part of the department of Computing Science and work closely with TAIGA: https://t.co/5UFQqunZvH
+#AI #SocialAI #AI4Good #ResponsibleAI 
+
+Tenure track, permanent after 5 years</description>
+      <content:encoded>Come work with us: Associate Professor on Socially Aware AI:
+https://t.co/K1EdGvGkHO
+
+You will be part of the department of Computing Science and work closely with TAIGA: https://t.co/5UFQqunZvH
+#AI #SocialAI #AI4Good #ResponsibleAI 
+
+Tenure track, permanent after 5 years&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1671843968672231430"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 11:33:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @IBROorg: Check out all open #IBRO #funding opportunities! We may have what you are looking for! 🙂 
+
+Browse our #career development &amp;amp; #t…</title>
+      <link>https://twitter.com/INCForg/status/1671844593963286530</link>
+      <description>RT @IBROorg: Check out all open #IBRO #funding opportunities! We may have what you are looking for! 🙂 
+
+Browse our #career development &amp;amp; #t…</description>
+      <content:encoded>RT @IBROorg: Check out all open #IBRO #funding opportunities! We may have what you are looking for! 🙂 
+
+Browse our #career development &amp;amp; #t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1671844593963286530"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 11:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERC’s curiosity-driven research can lead to valuable insights into complex global challenges. A resilient food system is one of them🌱
+
+In the 🧵below read how ERC projects help ensure food security around the world
+
+Discover the report👉 https://t.co/Bua68qIU21
+
+@EUScienceInnov https://t.co/f2vGP7ppoR</title>
+      <link>https://twitter.com/ERC_Research/status/1671850750975127552</link>
+      <description>ERC’s curiosity-driven research can lead to valuable insights into complex global challenges. A resilient food system is one of them🌱
+
+In the 🧵below read how ERC projects help ensure food security around the world
+
+Discover the report👉 https://t.co/Bua68qIU21
+
+@EUScienceInnov https://t.co/f2vGP7ppoR</description>
+      <content:encoded>ERC’s curiosity-driven research can lead to valuable insights into complex global challenges. A resilient food system is one of them🌱
+
+In the 🧵below read how ERC projects help ensure food security around the world
+
+Discover the report👉 https://t.co/Bua68qIU21
+
+@EUScienceInnov https://t.co/f2vGP7ppoR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1671850750975127552"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1671835147245608974/pu/img/ZqKnOyBEAnLqdzbz.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU’s Food 2030 policy advocates for greater resource optimisation to make food production more sustainable.
+
+🌾Lionel Dupuy is looking into how to boost crop yields while reducing fertiliser use and its environmental impacts
+
+👉 https://t.co/q3MJ02PiNU https://t.co/Vj2b0huuxJ</title>
+      <link>https://twitter.com/ERC_Research/status/1671850755664347139</link>
+      <description>EU’s Food 2030 policy advocates for greater resource optimisation to make food production more sustainable.
+
+🌾Lionel Dupuy is looking into how to boost crop yields while reducing fertiliser use and its environmental impacts
+
+👉 https://t.co/q3MJ02PiNU https://t.co/Vj2b0huuxJ</description>
+      <content:encoded>EU’s Food 2030 policy advocates for greater resource optimisation to make food production more sustainable.
+
+🌾Lionel Dupuy is looking into how to boost crop yields while reducing fertiliser use and its environmental impacts
+
+👉 https://t.co/q3MJ02PiNU https://t.co/Vj2b0huuxJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1671850755664347139"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzONwG3XoAEKG5v.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>On another side of Europe, Mathilde Touvier has found a link between food additives and various chronic diseases. 
+
+Ensuring that we eat a nutritious and balanced diet 🥗is key for long term health goals in the EU and beyond.
+
+👉https://t.co/0T25CgrroV https://t.co/VYsmiKTRfn</title>
+      <link>https://twitter.com/ERC_Research/status/1671850760496197632</link>
+      <description>On another side of Europe, Mathilde Touvier has found a link between food additives and various chronic diseases. 
+
+Ensuring that we eat a nutritious and balanced diet 🥗is key for long term health goals in the EU and beyond.
+
+👉https://t.co/0T25CgrroV https://t.co/VYsmiKTRfn</description>
+      <content:encoded>On another side of Europe, Mathilde Touvier has found a link between food additives and various chronic diseases. 
+
+Ensuring that we eat a nutritious and balanced diet 🥗is key for long term health goals in the EU and beyond.
+
+👉https://t.co/0T25CgrroV https://t.co/VYsmiKTRfn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1671850760496197632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzOOHwOWIAI-Mg8.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>@ChristinacHicks' research scope stretches beyond Europe and into Africa. 🌍
+
+Micronutrient deficiency is a serious issue in developing nations worldwide. According to her, local fisheries could be the key to meeting nutritional needs.
+
+👉 https://t.co/t6Lj9WrFwu https://t.co/2iAnF7VxI6</title>
+      <link>https://twitter.com/ERC_Research/status/1671850763931340800</link>
+      <description>@ChristinacHicks' research scope stretches beyond Europe and into Africa. 🌍
+
+Micronutrient deficiency is a serious issue in developing nations worldwide. According to her, local fisheries could be the key to meeting nutritional needs.
+
+👉 https://t.co/t6Lj9WrFwu https://t.co/2iAnF7VxI6</description>
+      <content:encoded>@ChristinacHicks' research scope stretches beyond Europe and into Africa. 🌍
+
+Micronutrient deficiency is a serious issue in developing nations worldwide. According to her, local fisheries could be the key to meeting nutritional needs.
+
+👉 https://t.co/t6Lj9WrFwu https://t.co/2iAnF7VxI6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1671850763931340800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzOO7gDXgAEijx-.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERC funds projects based only on scientific excellence, without any predefined priorities. Nevertheless, many of the funded projects address acute societal challenges.
+
+Find out more about the ERC’s impact on the future of food production and consumption👇
+https://t.co/Bua68qIU21 https://t.co/iYKEKBOsQz</title>
+      <link>https://twitter.com/ERC_Research/status/1671850767836143618</link>
+      <description>ERC funds projects based only on scientific excellence, without any predefined priorities. Nevertheless, many of the funded projects address acute societal challenges.
+
+Find out more about the ERC’s impact on the future of food production and consumption👇
+https://t.co/Bua68qIU21 https://t.co/iYKEKBOsQz</description>
+      <content:encoded>ERC funds projects based only on scientific excellence, without any predefined priorities. Nevertheless, many of the funded projects address acute societal challenges.
+
+Find out more about the ERC’s impact on the future of food production and consumption👇
+https://t.co/Bua68qIU21 https://t.co/iYKEKBOsQz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1671850767836143618"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzOQKyRXsAM5ENs.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>An interesting visual abstract from the alignment of 14 wind turbines on a western Nevada wind farm 
+
+[source, Royce Bair, 2012: https://t.co/HjB4ORj9YW] https://t.co/mLYUW6iwRR</title>
+      <link>https://twitter.com/Rainmaker1973/status/1671852027138252801</link>
+      <description>An interesting visual abstract from the alignment of 14 wind turbines on a western Nevada wind farm 
+
+[source, Royce Bair, 2012: https://t.co/HjB4ORj9YW] https://t.co/mLYUW6iwRR</description>
+      <content:encoded>An interesting visual abstract from the alignment of 14 wind turbines on a western Nevada wind farm 
+
+[source, Royce Bair, 2012: https://t.co/HjB4ORj9YW] https://t.co/mLYUW6iwRR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671852027138252801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzOciiwXwAEJyAj.jpg" length="453" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:05:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ever look at the amino acids available for use in your research and think, "please, sir, I'd like some more?" 
+
+The GCE4All Research Center is here to help (by making non-canonical amino acid protocols accessible to all!) 
+ 
+https://t.co/J1LcNz7jI1</title>
+      <link>https://twitter.com/Addgene/status/1671852282193821697</link>
+      <description>Ever look at the amino acids available for use in your research and think, "please, sir, I'd like some more?" 
+
+The GCE4All Research Center is here to help (by making non-canonical amino acid protocols accessible to all!) 
+ 
+https://t.co/J1LcNz7jI1</description>
+      <content:encoded>Ever look at the amino acids available for use in your research and think, "please, sir, I'd like some more?" 
+
+The GCE4All Research Center is here to help (by making non-canonical amino acid protocols accessible to all!) 
+ 
+https://t.co/J1LcNz7jI1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1671852282193821697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is the prevalence of long COVID? And why different estimates often disagree w/ each other? 
+
+We perform a large-scale ecological analysis and develop a method to reconcile distinct estimates and gain insights on the prevalence trend.
+
+1/
+
+https://t.co/gN1xm6eLiH</title>
+      <link>https://twitter.com/manlius84/status/1671854490226401281</link>
+      <description>What is the prevalence of long COVID? And why different estimates often disagree w/ each other? 
+
+We perform a large-scale ecological analysis and develop a method to reconcile distinct estimates and gain insights on the prevalence trend.
+
+1/
+
+https://t.co/gN1xm6eLiH</description>
+      <content:encoded>What is the prevalence of long COVID? And why different estimates often disagree w/ each other? 
+
+We perform a large-scale ecological analysis and develop a method to reconcile distinct estimates and gain insights on the prevalence trend.
+
+1/
+
+https://t.co/gN1xm6eLiH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1671854490226401281"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 12:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Overall, we find:
+
+- consistent trend estimates across UK and US for distinct age groups, with higher prevalence in the US
+
+- vaccines have a positive, but limited, benefit in reducing the prevalence of long COVID
+
+- 7x increase between 2020 and 2022
+
+2/ https://t.co/flkIOHIB8H</title>
+      <link>https://twitter.com/manlius84/status/1671854492072001536</link>
+      <description>Overall, we find:
+
+- consistent trend estimates across UK and US for distinct age groups, with higher prevalence in the US
+
+- vaccines have a positive, but limited, benefit in reducing the prevalence of long COVID
+
+- 7x increase between 2020 and 2022
+
+2/ https://t.co/flkIOHIB8H</description>
+      <content:encoded>Overall, we find:
+
+- consistent trend estimates across UK and US for distinct age groups, with higher prevalence in the US
+
+- vaccines have a positive, but limited, benefit in reducing the prevalence of long COVID
+
+- 7x increase between 2020 and 2022
+
+2/ https://t.co/flkIOHIB8H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1671854492072001536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzOdhwQXgAE5vsJ.jpg" length="1147" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our study is ecological, but provides a grounded way to compare the prevalence across distinct countries &amp;amp; distinct age groups.
+There are limitations.
+Results are consistent across the 🌎
+
+Of potential interest for @LongCovidKids @LongCovidSOS @ahandvanish @VirusesImmunity 
+
+3/3 https://t.co/7hUNBuzCps</title>
+      <link>https://twitter.com/manlius84/status/1671854495574138880</link>
+      <description>Our study is ecological, but provides a grounded way to compare the prevalence across distinct countries &amp;amp; distinct age groups.
+There are limitations.
+Results are consistent across the 🌎
+
+Of potential interest for @LongCovidKids @LongCovidSOS @ahandvanish @VirusesImmunity 
+
+3/3 https://t.co/7hUNBuzCps</description>
+      <content:encoded>Our study is ecological, but provides a grounded way to compare the prevalence across distinct countries &amp;amp; distinct age groups.
+There are limitations.
+Results are consistent across the 🌎
+
+Of potential interest for @LongCovidKids @LongCovidSOS @ahandvanish @VirusesImmunity 
+
+3/3 https://t.co/7hUNBuzCps&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1671854495574138880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzOewZNXwAEIjEK.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>A million Times is a project by the artists' collective Humans since 1982, which explores how the passing of time can be shaped and transformed into a tangible, kinetic concept 
+
+[read more: https://t.co/80ptulAFeL]
+https://t.co/tRJcWcLDp9 https://t.co/f3sPJ7gQXL</title>
+      <link>https://twitter.com/Rainmaker1973/status/1671855719535050759</link>
+      <description>A million Times is a project by the artists' collective Humans since 1982, which explores how the passing of time can be shaped and transformed into a tangible, kinetic concept 
+
+[read more: https://t.co/80ptulAFeL]
+https://t.co/tRJcWcLDp9 https://t.co/f3sPJ7gQXL</description>
+      <content:encoded>A million Times is a project by the artists' collective Humans since 1982, which explores how the passing of time can be shaped and transformed into a tangible, kinetic concept 
+
+[read more: https://t.co/80ptulAFeL]
+https://t.co/tRJcWcLDp9 https://t.co/f3sPJ7gQXL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671855719535050759"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1671737422340841472/pu/img/l6Aru4ZbfJKMGXEh.jpg" length="675" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:20:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tuesday June 27, catch Blue Brain Visualization Expert @cyrille_favreau speaking at @PASC_Conference in Davos.
+
+- Visual Scientific Exploration at Blue Brain, and Beyond -
+
+Find out more – https://t.co/0glIujAvKp
+#ScientificVisualization #PASC23 #BigData https://t.co/vha7EwfOmD</title>
+      <link>https://twitter.com/BlueBrainPjt/status/1671857102833217539</link>
+      <description>Tuesday June 27, catch Blue Brain Visualization Expert @cyrille_favreau speaking at @PASC_Conference in Davos.
+
+- Visual Scientific Exploration at Blue Brain, and Beyond -
+
+Find out more – https://t.co/0glIujAvKp
+#ScientificVisualization #PASC23 #BigData https://t.co/vha7EwfOmD</description>
+      <content:encoded>Tuesday June 27, catch Blue Brain Visualization Expert @cyrille_favreau speaking at @PASC_Conference in Davos.
+
+- Visual Scientific Exploration at Blue Brain, and Beyond -
+
+Find out more – https://t.co/0glIujAvKp
+#ScientificVisualization #PASC23 #BigData https://t.co/vha7EwfOmD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BlueBrainPjt/status/1671857102833217539"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzOAZT6X0AAELne.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 22 Jun 2023 12:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congratulations to HHMI Investigator @CarolynBertozzi, who has been awarded the 2024 Priestley Medal, the @AmerChemSociety's highest honor! https://t.co/fIw2ykCL3Q</title>
+      <link>https://twitter.com/HHMINEWS/status/1671858074745749504</link>
+      <description>Congratulations to HHMI Investigator @CarolynBertozzi, who has been awarded the 2024 Priestley Medal, the @AmerChemSociety's highest honor! https://t.co/fIw2ykCL3Q</description>
+      <content:encoded>Congratulations to HHMI Investigator @CarolynBertozzi, who has been awarded the 2024 Priestley Medal, the @AmerChemSociety's highest honor! https://t.co/fIw2ykCL3Q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1671858074745749504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 22 Jun 2023 12:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
