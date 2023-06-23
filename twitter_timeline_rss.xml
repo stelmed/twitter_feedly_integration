@@ -6,94 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 18:21:46 +0000</lastBuildDate>
-    <item>
-      <title>RT @LCPSOfficial: HHMI Janelia Research Campus (@HHMIJanelia) elevates STEM and research in LCPS. From Regional Science Fair judging to adv…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1672013279177179136</link>
-      <description>RT @LCPSOfficial: HHMI Janelia Research Campus (@HHMIJanelia) elevates STEM and research in LCPS. From Regional Science Fair judging to adv…</description>
-      <content:encoded>RT @LCPSOfficial: HHMI Janelia Research Campus (@HHMIJanelia) elevates STEM and research in LCPS. From Regional Science Fair judging to adv…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1672013279177179136"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 22:46:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unplug it! https://t.co/jv7vA8N1L9</title>
-      <link>https://twitter.com/rhuganir/status/1672017985202954241</link>
-      <description>Unplug it! https://t.co/jv7vA8N1L9</description>
-      <content:encoded>Unplug it! https://t.co/jv7vA8N1L9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1672017985202954241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 23:05:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>New kit alert! 
-This Golden Gate standards kit is a positive control for high complexity Golden Gate assembly. 
-https://t.co/xyzGQTgECu https://t.co/1EyrNzpAdg</title>
-      <link>https://twitter.com/Addgene/status/1672018378255486976</link>
-      <description>New kit alert! 
-This Golden Gate standards kit is a positive control for high complexity Golden Gate assembly. 
-https://t.co/xyzGQTgECu https://t.co/1EyrNzpAdg</description>
-      <content:encoded>New kit alert! 
-This Golden Gate standards kit is a positive control for high complexity Golden Gate assembly. 
-https://t.co/xyzGQTgECu https://t.co/1EyrNzpAdg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1672018378255486976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzQz2roXwAACqp0.jpg" length="1000" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 23:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deletion of a protein called TIM-1 from B cells reduces tumour burden in a mouse model of skin cancer https://t.co/pl131ImMMA</title>
-      <link>https://twitter.com/NatureNV/status/1672024166764105728</link>
-      <description>Deletion of a protein called TIM-1 from B cells reduces tumour burden in a mouse model of skin cancer https://t.co/pl131ImMMA</description>
-      <content:encoded>Deletion of a protein called TIM-1 from B cells reduces tumour burden in a mouse model of skin cancer https://t.co/pl131ImMMA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1672024166764105728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 23:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Spurs should take Scoot.</title>
-      <link>https://twitter.com/andpru/status/1672026542535213063</link>
-      <description>The Spurs should take Scoot.</description>
-      <content:encoded>The Spurs should take Scoot.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1672026542535213063"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 23:39:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>HAPPENING NOW:  My opening statement at the @munkdebate on the existential risk of AI.  
-
-You can watch the it live (exclusively for Munk donors) here: https://t.co/G1oJk9Bi2Z https://t.co/Yfj7LtEF7P</title>
-      <link>https://twitter.com/ylecun/status/1672027541501091840</link>
-      <description>HAPPENING NOW:  My opening statement at the @munkdebate on the existential risk of AI.  
-
-You can watch the it live (exclusively for Munk donors) here: https://t.co/G1oJk9Bi2Z https://t.co/Yfj7LtEF7P</description>
-      <content:encoded>HAPPENING NOW:  My opening statement at the @munkdebate on the existential risk of AI.  
-
-You can watch the it live (exclusively for Munk donors) here: https://t.co/G1oJk9Bi2Z https://t.co/Yfj7LtEF7P&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672027541501091840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672026390672097280/pu/img/4xwEXQ-XUm6gabe0.jpg" length="1080" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 23:43:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>My opponent Yoshua Bengio's opening statement at the @munkdebate on AI
-
-Livestream here:
-https://t.co/G1oJk9Bi2Z https://t.co/d9aDez38uz</title>
-      <link>https://twitter.com/ylecun/status/1672030535491678210</link>
-      <description>My opponent Yoshua Bengio's opening statement at the @munkdebate on AI
-
-Livestream here:
-https://t.co/G1oJk9Bi2Z https://t.co/d9aDez38uz</description>
-      <content:encoded>My opponent Yoshua Bengio's opening statement at the @munkdebate on AI
-
-Livestream here:
-https://t.co/G1oJk9Bi2Z https://t.co/d9aDez38uz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672030535491678210"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672029841820995585/pu/img/pvk7yAQso5CL7cLv.jpg" length="1080" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 23:55:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siakam and OG for Simons/Sharpe/#3/FuturePicks/Filler. https://t.co/ABrd4FML0u</title>
-      <link>https://twitter.com/andpru/status/1672030995451723777</link>
-      <description>Siakam and OG for Simons/Sharpe/#3/FuturePicks/Filler. https://t.co/ABrd4FML0u</description>
-      <content:encoded>Siakam and OG for Simons/Sharpe/#3/FuturePicks/Filler. https://t.co/ABrd4FML0u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1672030995451723777"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 23:57:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: The potential of convolutional neural networks for identifying neural states based on electrophysiological signals: experiments on synthetic and real patient data: Processing incoming neural oscillatory signals in real-time… #Neuroscience https://t.co/I3N7xV9vVS</title>
-      <link>https://twitter.com/FrontNeurosci/status/1672031854659252226</link>
-      <description>New Research: The potential of convolutional neural networks for identifying neural states based on electrophysiological signals: experiments on synthetic and real patient data: Processing incoming neural oscillatory signals in real-time… #Neuroscience https://t.co/I3N7xV9vVS</description>
-      <content:encoded>New Research: The potential of convolutional neural networks for identifying neural states based on electrophysiological signals: experiments on synthetic and real patient data: Processing incoming neural oscillatory signals in real-time… #Neuroscience https://t.co/I3N7xV9vVS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1672031854659252226"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 00:00:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jun 2023 19:14:50 +0000</lastBuildDate>
     <item>
       <title>But I'm also getting more on board with running these guys back ...</title>
       <link>https://twitter.com/andpru/status/1672032380628922368</link>
@@ -1918,23 +1831,6 @@ https://t.co/8EtH8MvnWX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Fri, 23 Jun 2023 17:37:05 +0000</pubDate>
     </item>
     <item>
-      <title>Spinning a gyroscope &amp;amp; putting it in its own box is an always surprising trick, but also useful to visualize the conservation of angular momentum. The box rotates in the opposite direction vs the disk's one
-
-[📹 IncredibleScience: https://t.co/oIT0p2GZQa]
-https://t.co/3zMbgPfDxJ</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672297843485179904</link>
-      <description>Spinning a gyroscope &amp;amp; putting it in its own box is an always surprising trick, but also useful to visualize the conservation of angular momentum. The box rotates in the opposite direction vs the disk's one
-
-[📹 IncredibleScience: https://t.co/oIT0p2GZQa]
-https://t.co/3zMbgPfDxJ</description>
-      <content:encoded>Spinning a gyroscope &amp;amp; putting it in its own box is an always surprising trick, but also useful to visualize the conservation of angular momentum. The box rotates in the opposite direction vs the disk's one
-
-[📹 IncredibleScience: https://t.co/oIT0p2GZQa]
-https://t.co/3zMbgPfDxJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672297843485179904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1191427453777924096/pu/img/GamlJiE-50WDjWi1.jpg" length="640" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 17:37:30 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @patrycja_kozik: Our work on perforin-2, a pore-forming protein expressed by #DendriticCells to deliver antigens into the cytosol during…</title>
       <link>https://twitter.com/ScienceMagazine/status/1672299397806280704</link>
       <description>RT @patrycja_kozik: Our work on perforin-2, a pore-forming protein expressed by #DendriticCells to deliver antigens into the cytosol during…</description>
@@ -1980,23 +1876,6 @@ Muskoxen and caribou slow tundra diversity decline associated with diminishing A
       <pubDate>Fri, 23 Jun 2023 17:46:31 +0000</pubDate>
     </item>
     <item>
-      <title>Handcrafted interlocked rings from single piece of wood
-
-[source: https://t.co/BPIpo4vE7U]
-https://t.co/INmrIXK1b8</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672302497761730568</link>
-      <description>Handcrafted interlocked rings from single piece of wood
-
-[source: https://t.co/BPIpo4vE7U]
-https://t.co/INmrIXK1b8</description>
-      <content:encoded>Handcrafted interlocked rings from single piece of wood
-
-[source: https://t.co/BPIpo4vE7U]
-https://t.co/INmrIXK1b8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672302497761730568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1672132611416678400/img/F21dUel1G1cZ0WrR.jpg" length="404" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 17:56:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Lunge feeding—a common foraging technique of humpbacks and other rorqual whales characterized by rapid underwater lunges to capture dense patches of prey—is energy efficient even when prey is sparse, according to a new analysis in @ScienceAdvances. https://t.co/8WwNfSvFjO https://t.co/9gj5xWj76o</title>
       <link>https://twitter.com/ScienceMagazine/status/1672303568248774663</link>
       <description>Lunge feeding—a common foraging technique of humpbacks and other rorqual whales characterized by rapid underwater lunges to capture dense patches of prey—is energy efficient even when prey is sparse, according to a new analysis in @ScienceAdvances. https://t.co/8WwNfSvFjO https://t.co/9gj5xWj76o</description>
@@ -2019,6 +1898,87 @@ https://t.co/OBChzRjBRX</description>
 Hickl is a veteran tech leader with experience leading teams using natural language processing, ML, AI, and computer vision to tackle some of the world’s most important problems.
 https://t.co/OBChzRjBRX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1672308430797676548"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 23 Jun 2023 18:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>One of the potential explanations why evolution makes impressive and very functional changes in species, is that memories can be passed down to later generations: this allows offspring to inherit the experience of their ancestors, especially the bad ones https://t.co/P7G2yehHIm https://t.co/G7WBjhONsU</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672311099331321859</link>
+      <description>One of the potential explanations why evolution makes impressive and very functional changes in species, is that memories can be passed down to later generations: this allows offspring to inherit the experience of their ancestors, especially the bad ones https://t.co/P7G2yehHIm https://t.co/G7WBjhONsU</description>
+      <content:encoded>One of the potential explanations why evolution makes impressive and very functional changes in species, is that memories can be passed down to later generations: this allows offspring to inherit the experience of their ancestors, especially the bad ones https://t.co/P7G2yehHIm https://t.co/G7WBjhONsU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672311099331321859"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzU-AGQWIA0GvVs.jpg" length="526" type="photo"/>
+      <pubDate>Fri, 23 Jun 2023 18:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Comment article in @NatureRevMicro highlights the lack of information regarding microbiome datasets from Africa and propose mechanisms for increasing microbiome research in Africa. 🔒 
+https://t.co/aKiKOmvYtN</title>
+      <link>https://twitter.com/NaturePortfolio/status/1672313823728902162</link>
+      <description>A Comment article in @NatureRevMicro highlights the lack of information regarding microbiome datasets from Africa and propose mechanisms for increasing microbiome research in Africa. 🔒 
+https://t.co/aKiKOmvYtN</description>
+      <content:encoded>A Comment article in @NatureRevMicro highlights the lack of information regarding microbiome datasets from Africa and propose mechanisms for increasing microbiome research in Africa. 🔒 
+https://t.co/aKiKOmvYtN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1672313823728902162"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 18:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Meikeesther1: Cerebellar dysfunction nearly always causes motor abnormalities - yet the precise presentation of these motor abnormaliti…</title>
+      <link>https://twitter.com/ewadorotaz/status/1672314342421700612</link>
+      <description>RT @Meikeesther1: Cerebellar dysfunction nearly always causes motor abnormalities - yet the precise presentation of these motor abnormaliti…</description>
+      <content:encoded>RT @Meikeesther1: Cerebellar dysfunction nearly always causes motor abnormalities - yet the precise presentation of these motor abnormaliti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1672314342421700612"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 18:43:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>In January 1697, Johann Bernoulli challenged Isaac Newton with a six month deadline to solve the problem of the brachistochrone: Newton got the message on the 29th at 4 pm and solved it going to bed that same night: https://t.co/m493kumXEq [the problem: https://t.co/9yTaFDH7VV] https://t.co/v8QDuLJr4J</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672316088384626699</link>
+      <description>In January 1697, Johann Bernoulli challenged Isaac Newton with a six month deadline to solve the problem of the brachistochrone: Newton got the message on the 29th at 4 pm and solved it going to bed that same night: https://t.co/m493kumXEq [the problem: https://t.co/9yTaFDH7VV] https://t.co/v8QDuLJr4J</description>
+      <content:encoded>In January 1697, Johann Bernoulli challenged Isaac Newton with a six month deadline to solve the problem of the brachistochrone: Newton got the message on the 29th at 4 pm and solved it going to bed that same night: https://t.co/m493kumXEq [the problem: https://t.co/9yTaFDH7VV] https://t.co/v8QDuLJr4J&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672316088384626699"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzUo677WAAAVGax.jpg" length="680" type="photo"/>
+      <pubDate>Fri, 23 Jun 2023 18:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This postural control is pretty remarkable! (full speed) https://t.co/Ys8vx2sScr</title>
+      <link>https://twitter.com/PessoaBrain/status/1672316686635266054</link>
+      <description>This postural control is pretty remarkable! (full speed) https://t.co/Ys8vx2sScr</description>
+      <content:encoded>This postural control is pretty remarkable! (full speed) https://t.co/Ys8vx2sScr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1672316686635266054"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 18:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Said my final "I love you" to my father.
+
+11/1/45-6/13/23
+
+#RIP</title>
+      <link>https://twitter.com/ewadorotaz/status/1672318021405384704</link>
+      <description>Said my final "I love you" to my father.
+
+11/1/45-6/13/23
+
+#RIP</description>
+      <content:encoded>Said my final "I love you" to my father.
+
+11/1/45-6/13/23
+
+#RIP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1672318021405384704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 18:57:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: A comprehensive review on motion trajectory reconstruction for EEG-based brain-computer interface: The advance in neuroscience and computer technology over the past decades have made brain-computer interface (BCI) a most… #Neuroscience https://t.co/dkQXqX2OVp</title>
+      <link>https://twitter.com/FrontNeurosci/status/1672319749412499461</link>
+      <description>New Research: A comprehensive review on motion trajectory reconstruction for EEG-based brain-computer interface: The advance in neuroscience and computer technology over the past decades have made brain-computer interface (BCI) a most… #Neuroscience https://t.co/dkQXqX2OVp</description>
+      <content:encoded>New Research: A comprehensive review on motion trajectory reconstruction for EEG-based brain-computer interface: The advance in neuroscience and computer technology over the past decades have made brain-computer interface (BCI) a most… #Neuroscience https://t.co/dkQXqX2OVp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1672319749412499461"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 19:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thank you for sharing your story, Lei! And glad you found a lab that suits you. https://t.co/gNconC6ABe</title>
+      <link>https://twitter.com/KavliAtYale/status/1672319904886980608</link>
+      <description>Thank you for sharing your story, Lei! And glad you found a lab that suits you. https://t.co/gNconC6ABe</description>
+      <content:encoded>Thank you for sharing your story, Lei! And glad you found a lab that suits you. https://t.co/gNconC6ABe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KavliAtYale/status/1672319904886980608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 19:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>The story of Alice Evan, the microbiologis who, in 1918, warned that raw milk should be pasteurized to protect people from several diseases. She was met with skepticism, but during the 1920s, scientists around the world made the same findings [read more: https://t.co/jG5BkRJ1qw] https://t.co/u767uSDcaY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672321121364987904</link>
+      <description>The story of Alice Evan, the microbiologis who, in 1918, warned that raw milk should be pasteurized to protect people from several diseases. She was met with skepticism, but during the 1920s, scientists around the world made the same findings [read more: https://t.co/jG5BkRJ1qw] https://t.co/u767uSDcaY</description>
+      <content:encoded>The story of Alice Evan, the microbiologis who, in 1918, warned that raw milk should be pasteurized to protect people from several diseases. She was met with skepticism, but during the 1920s, scientists around the world made the same findings [read more: https://t.co/jG5BkRJ1qw] https://t.co/u767uSDcaY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672321121364987904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzUpGllXwAAOsf8.jpg" length="680" type="photo"/>
+      <pubDate>Fri, 23 Jun 2023 19:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
