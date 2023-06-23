@@ -6,97 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 21:15:50 +0000</lastBuildDate>
-    <item>
-      <title>Congratulations to the entire team at Google @DeepMind! https://t.co/aJnjiLLDQe</title>
-      <link>https://twitter.com/demishassabis/status/1672082123157643264</link>
-      <description>Congratulations to the entire team at Google @DeepMind! https://t.co/aJnjiLLDQe</description>
-      <content:encoded>Congratulations to the entire team at Google @DeepMind! https://t.co/aJnjiLLDQe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/demishassabis/status/1672082123157643264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 03:20:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @TechnionLive: Technion awards the André Cohen Deloro Prize for 2023 to Prof. @SchillerJackie
-of the Rappaport Faculty of Medicine, in r…</title>
-      <link>https://twitter.com/SchillerJackie/status/1672088935600619521</link>
-      <description>RT @TechnionLive: Technion awards the André Cohen Deloro Prize for 2023 to Prof. @SchillerJackie
-of the Rappaport Faculty of Medicine, in r…</description>
-      <content:encoded>RT @TechnionLive: Technion awards the André Cohen Deloro Prize for 2023 to Prof. @SchillerJackie
-of the Rappaport Faculty of Medicine, in r…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SchillerJackie/status/1672088935600619521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 03:47:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @eLife of 👉🏿 Importance of Glutamine in Synaptic Vesicles Revealed by Functional Studies of SLC6A17 and Its Mutations Pathogenic for Intellectual Disability  https://t.co/mEqsKuo0cM #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1672093545807638529</link>
-      <description>#PeerReview from @eLife of 👉🏿 Importance of Glutamine in Synaptic Vesicles Revealed by Functional Studies of SLC6A17 and Its Mutations Pathogenic for Intellectual Disability  https://t.co/mEqsKuo0cM #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @eLife of 👉🏿 Importance of Glutamine in Synaptic Vesicles Revealed by Functional Studies of SLC6A17 and Its Mutations Pathogenic for Intellectual Disability  https://t.co/mEqsKuo0cM #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1672093545807638529"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 04:05:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Me too! https://t.co/XcP8VbaZK1</title>
-      <link>https://twitter.com/BenKrasnow/status/1672103485414969344</link>
-      <description>Me too! https://t.co/XcP8VbaZK1</description>
-      <content:encoded>Me too! https://t.co/XcP8VbaZK1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BenKrasnow/status/1672103485414969344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 04:45:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @neurosutras: Please apply for the open postdoc position here!
-https://t.co/2KHkNJHmQV</title>
-      <link>https://twitter.com/ranczlab/status/1672106473290182658</link>
-      <description>RT @neurosutras: Please apply for the open postdoc position here!
-https://t.co/2KHkNJHmQV</description>
-      <content:encoded>RT @neurosutras: Please apply for the open postdoc position here!
-https://t.co/2KHkNJHmQV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1672106473290182658"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 04:57:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @neurosutras: My group is starting a new project with @CGrienberger to use in vivo calcium imaging and computational modeling to underst…</title>
-      <link>https://twitter.com/ranczlab/status/1672106519335239680</link>
-      <description>RT @neurosutras: My group is starting a new project with @CGrienberger to use in vivo calcium imaging and computational modeling to underst…</description>
-      <content:encoded>RT @neurosutras: My group is starting a new project with @CGrienberger to use in vivo calcium imaging and computational modeling to underst…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1672106519335239680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 04:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Being smarter doesn't necessarily make people more moral https://t.co/H7YF5nZN04</title>
-      <link>https://twitter.com/tegmark/status/1672108571822104576</link>
-      <description>Being smarter doesn't necessarily make people more moral https://t.co/H7YF5nZN04</description>
-      <content:encoded>Being smarter doesn't necessarily make people more moral https://t.co/H7YF5nZN04&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1672108571822104576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 05:05:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building AI with a self-preservation goal can spell trouble https://t.co/72Y12Jt3MZ</title>
-      <link>https://twitter.com/tegmark/status/1672108931391389696</link>
-      <description>Building AI with a self-preservation goal can spell trouble https://t.co/72Y12Jt3MZ</description>
-      <content:encoded>Building AI with a self-preservation goal can spell trouble https://t.co/72Y12Jt3MZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1672108931391389696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 05:06:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neuronal alterations in AKT isotype expression in schizophrenia  https://t.co/eTDcJJtggc #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1672111132763406338</link>
-      <description>Neuronal alterations in AKT isotype expression in schizophrenia  https://t.co/eTDcJJtggc #biorxiv_neursci</description>
-      <content:encoded>Neuronal alterations in AKT isotype expression in schizophrenia  https://t.co/eTDcJJtggc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1672111132763406338"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 05:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big shout out to @paul_masset for leveling up to Montreal's #neuroscience and #NeuroAI scene!  Great chance to join an exciting lab truly at the intersection of neuro &amp;amp; AI #ProudMentor https://t.co/xG2flGq9Om</title>
-      <link>https://twitter.com/KepecsLab/status/1672111774642888704</link>
-      <description>Big shout out to @paul_masset for leveling up to Montreal's #neuroscience and #NeuroAI scene!  Great chance to join an exciting lab truly at the intersection of neuro &amp;amp; AI #ProudMentor https://t.co/xG2flGq9Om</description>
-      <content:encoded>Big shout out to @paul_masset for leveling up to Montreal's #neuroscience and #NeuroAI scene!  Great chance to join an exciting lab truly at the intersection of neuro &amp;amp; AI #ProudMentor https://t.co/xG2flGq9Om&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KepecsLab/status/1672111774642888704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 05:18:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @IMPRS_GS: Congratulations to our founder and former spokesperson @CramerLab! We appreciate his support for young researchers and lookin…</title>
-      <link>https://twitter.com/maxplanckpress/status/1672119587616305153</link>
-      <description>RT @IMPRS_GS: Congratulations to our founder and former spokesperson @CramerLab! We appreciate his support for young researchers and lookin…</description>
-      <content:encoded>RT @IMPRS_GS: Congratulations to our founder and former spokesperson @CramerLab! We appreciate his support for young researchers and lookin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1672119587616305153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 05:49:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EnnoAufderheide: Important moment for German Research: outgoing and incoming president of the Max-Planck-Society ⁦@maxplanckpress⁩ . Th…</title>
-      <link>https://twitter.com/maxplanckpress/status/1672120392356380672</link>
-      <description>RT @EnnoAufderheide: Important moment for German Research: outgoing and incoming president of the Max-Planck-Society ⁦@maxplanckpress⁩ . Th…</description>
-      <content:encoded>RT @EnnoAufderheide: Important moment for German Research: outgoing and incoming president of the Max-Planck-Society ⁦@maxplanckpress⁩ . Th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1672120392356380672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 05:52:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jun 2023 22:17:29 +0000</lastBuildDate>
     <item>
       <title>Virus safety practices are a little different than general biohazard, read all about them in our virus safety blog! https://t.co/uZJ5MyTfaw</title>
       <link>https://twitter.com/Addgene/status/1672122313683116032</link>
@@ -1680,6 +1590,13 @@ Muskoxen and caribou slow tundra diversity decline associated with diminishing A
       <pubDate>Fri, 23 Jun 2023 17:45:49 +0000</pubDate>
     </item>
     <item>
+      <title>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1672300035193683968</link>
+      <description>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</description>
+      <content:encoded>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672300035193683968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 17:46:12 +0000</pubDate>
+    </item>
+    <item>
       <title>RT @DeuerlingLab: Check out our new study in @sciencemagazine. We show that NAC controls N-terminal methionine excision by MetAP1 in eukary…</title>
       <link>https://twitter.com/ScienceMagazine/status/1672300112524001305</link>
       <description>RT @DeuerlingLab: Check out our new study in @sciencemagazine. We show that NAC controls N-terminal methionine excision by MetAP1 in eukary…</description>
@@ -1981,6 +1898,57 @@ https://t.co/wL9rCuUkik</description>
 
 https://t.co/wL9rCuUkik&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672351800110862337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 23 Jun 2023 21:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>I spent the last week in West Africa. Here are some of my favorite moments. https://t.co/pKUqRwBwZI</title>
+      <link>https://twitter.com/BillGates/status/1672356853517529088</link>
+      <description>I spent the last week in West Africa. Here are some of my favorite moments. https://t.co/pKUqRwBwZI</description>
+      <content:encoded>I spent the last week in West Africa. Here are some of my favorite moments. https://t.co/pKUqRwBwZI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1672356853517529088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 21:31:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>#MIT neuroscientists find that a protein common to flies and people is essential for supporting the structure of axons that neurons project to make circuit connections. https://t.co/eVm3ww8fb2 @MITBiology @mitbrainandcog @ScienceMIT #neuroscience #brain</title>
+      <link>https://twitter.com/MIT_Picower/status/1672356963173163009</link>
+      <description>#MIT neuroscientists find that a protein common to flies and people is essential for supporting the structure of axons that neurons project to make circuit connections. https://t.co/eVm3ww8fb2 @MITBiology @mitbrainandcog @ScienceMIT #neuroscience #brain</description>
+      <content:encoded>#MIT neuroscientists find that a protein common to flies and people is essential for supporting the structure of axons that neurons project to make circuit connections. https://t.co/eVm3ww8fb2 @MITBiology @mitbrainandcog @ScienceMIT #neuroscience #brain&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1672356963173163009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 21:32:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>#DYK? It’s more cost effective to intervene to prevent homelessness than it is to help after a person has lost their home https://t.co/OkTda6lDsC</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1672358975273156614</link>
+      <description>#DYK? It’s more cost effective to intervene to prevent homelessness than it is to help after a person has lost their home https://t.co/OkTda6lDsC</description>
+      <content:encoded>#DYK? It’s more cost effective to intervene to prevent homelessness than it is to help after a person has lost their home https://t.co/OkTda6lDsC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1672358975273156614"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzVpn7hXwAQX3JW.jpg" length="960" type="photo"/>
+      <pubDate>Fri, 23 Jun 2023 21:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>This week's dip into Nature's archive features the architect Christopher Wren using his astronomy skills to assess an observatory proposal, and considers questions about cyclones https://t.co/SgRMPens0P</title>
+      <link>https://twitter.com/NatureNV/status/1672366015567523844</link>
+      <description>This week's dip into Nature's archive features the architect Christopher Wren using his astronomy skills to assess an observatory proposal, and considers questions about cyclones https://t.co/SgRMPens0P</description>
+      <content:encoded>This week's dip into Nature's archive features the architect Christopher Wren using his astronomy skills to assess an observatory proposal, and considers questions about cyclones https://t.co/SgRMPens0P&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1672366015567523844"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 22:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Woo hoo. I got to hold a copy of our book in my hands today! Great feeling https://t.co/XXjvnryUc5</title>
+      <link>https://twitter.com/KordingLab/status/1672367097421111301</link>
+      <description>Woo hoo. I got to hold a copy of our book in my hands today! Great feeling https://t.co/XXjvnryUc5</description>
+      <content:encoded>Woo hoo. I got to hold a copy of our book in my hands today! Great feeling https://t.co/XXjvnryUc5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1672367097421111301"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzVxAr_WAAEHwNZ.jpg" length="900" type="photo"/>
+      <pubDate>Fri, 23 Jun 2023 22:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>And obviously not mine but also @weijima01 and Daniel Goldreich</title>
+      <link>https://twitter.com/KordingLab/status/1672367641216835585</link>
+      <description>And obviously not mine but also @weijima01 and Daniel Goldreich</description>
+      <content:encoded>And obviously not mine but also @weijima01 and Daniel Goldreich&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1672367641216835585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 22:14:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>@weijima01 Oh and for free at https://t.co/bwoeWNsipp</title>
+      <link>https://twitter.com/KordingLab/status/1672367800977899520</link>
+      <description>@weijima01 Oh and for free at https://t.co/bwoeWNsipp</description>
+      <content:encoded>@weijima01 Oh and for free at https://t.co/bwoeWNsipp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1672367800977899520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 22:15:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
