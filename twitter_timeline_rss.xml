@@ -6,78 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 03:01:00 +0000</lastBuildDate>
-    <item>
-      <title>On another side of Europe, Mathilde Touvier has found a link between food additives and various chronic diseases. 
-
-Ensuring that we eat a nutritious and balanced diet 🥗is key for long term health goals in the EU and beyond.
-
-👉https://t.co/0T25CgrroV https://t.co/VYsmiKTRfn</title>
-      <link>https://twitter.com/ERC_Research/status/1671850760496197632</link>
-      <description>On another side of Europe, Mathilde Touvier has found a link between food additives and various chronic diseases. 
-
-Ensuring that we eat a nutritious and balanced diet 🥗is key for long term health goals in the EU and beyond.
-
-👉https://t.co/0T25CgrroV https://t.co/VYsmiKTRfn</description>
-      <content:encoded>On another side of Europe, Mathilde Touvier has found a link between food additives and various chronic diseases. 
-
-Ensuring that we eat a nutritious and balanced diet 🥗is key for long term health goals in the EU and beyond.
-
-👉https://t.co/0T25CgrroV https://t.co/VYsmiKTRfn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1671850760496197632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzOOHwOWIAI-Mg8.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 12:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>@ChristinacHicks' research scope stretches beyond Europe and into Africa. 🌍
-
-Micronutrient deficiency is a serious issue in developing nations worldwide. According to her, local fisheries could be the key to meeting nutritional needs.
-
-👉 https://t.co/t6Lj9WrFwu https://t.co/2iAnF7VxI6</title>
-      <link>https://twitter.com/ERC_Research/status/1671850763931340800</link>
-      <description>@ChristinacHicks' research scope stretches beyond Europe and into Africa. 🌍
-
-Micronutrient deficiency is a serious issue in developing nations worldwide. According to her, local fisheries could be the key to meeting nutritional needs.
-
-👉 https://t.co/t6Lj9WrFwu https://t.co/2iAnF7VxI6</description>
-      <content:encoded>@ChristinacHicks' research scope stretches beyond Europe and into Africa. 🌍
-
-Micronutrient deficiency is a serious issue in developing nations worldwide. According to her, local fisheries could be the key to meeting nutritional needs.
-
-👉 https://t.co/t6Lj9WrFwu https://t.co/2iAnF7VxI6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1671850763931340800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzOO7gDXgAEijx-.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 12:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ERC funds projects based only on scientific excellence, without any predefined priorities. Nevertheless, many of the funded projects address acute societal challenges.
-
-Find out more about the ERC’s impact on the future of food production and consumption👇
-https://t.co/Bua68qIU21 https://t.co/iYKEKBOsQz</title>
-      <link>https://twitter.com/ERC_Research/status/1671850767836143618</link>
-      <description>ERC funds projects based only on scientific excellence, without any predefined priorities. Nevertheless, many of the funded projects address acute societal challenges.
-
-Find out more about the ERC’s impact on the future of food production and consumption👇
-https://t.co/Bua68qIU21 https://t.co/iYKEKBOsQz</description>
-      <content:encoded>ERC funds projects based only on scientific excellence, without any predefined priorities. Nevertheless, many of the funded projects address acute societal challenges.
-
-Find out more about the ERC’s impact on the future of food production and consumption👇
-https://t.co/Bua68qIU21 https://t.co/iYKEKBOsQz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1671850767836143618"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzOQKyRXsAM5ENs.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 12:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>An interesting visual abstract from the alignment of 14 wind turbines on a western Nevada wind farm 
-
-[source, Royce Bair, 2012: https://t.co/HjB4ORj9YW] https://t.co/mLYUW6iwRR</title>
-      <link>https://twitter.com/Rainmaker1973/status/1671852027138252801</link>
-      <description>An interesting visual abstract from the alignment of 14 wind turbines on a western Nevada wind farm 
-
-[source, Royce Bair, 2012: https://t.co/HjB4ORj9YW] https://t.co/mLYUW6iwRR</description>
-      <content:encoded>An interesting visual abstract from the alignment of 14 wind turbines on a western Nevada wind farm 
-
-[source, Royce Bair, 2012: https://t.co/HjB4ORj9YW] https://t.co/mLYUW6iwRR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671852027138252801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzOciiwXwAEJyAj.jpg" length="453" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 12:05:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jun 2023 04:22:16 +0000</lastBuildDate>
     <item>
       <title>Ever look at the amino acids available for use in your research and think, "please, sir, I'd like some more?" 
 
@@ -1691,23 +1620,6 @@ https://t.co/3qD4PNZCaU https://t.co/0JAdglomwx&lt;blockquote class="twitter-twe
       <pubDate>Thu, 22 Jun 2023 20:32:25 +0000</pubDate>
     </item>
     <item>
-      <title>The surprising shape shifting of a comb jelly captured 1100 meters underwater in the Indian Ocean
-
-[source, read more: https://t.co/tqRHQc1rOX]
-https://t.co/UqMALUwQkn https://t.co/yKAQv1q9jv</title>
-      <link>https://twitter.com/Rainmaker1973/status/1671980168854765568</link>
-      <description>The surprising shape shifting of a comb jelly captured 1100 meters underwater in the Indian Ocean
-
-[source, read more: https://t.co/tqRHQc1rOX]
-https://t.co/UqMALUwQkn https://t.co/yKAQv1q9jv</description>
-      <content:encoded>The surprising shape shifting of a comb jelly captured 1100 meters underwater in the Indian Ocean
-
-[source, read more: https://t.co/tqRHQc1rOX]
-https://t.co/UqMALUwQkn https://t.co/yKAQv1q9jv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671980168854765568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1671962971977687047/pu/img/AhzgEWR90mh2Sq1x.jpg" length="606" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 20:35:10 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @jogleeson_ucsd: Today the lab was greeted by innocuous appearing white adapters plugged in lab bays and offices.  We inquired and learn…</title>
       <link>https://twitter.com/TheBrunoCortex/status/1671981985038737412</link>
       <description>RT @jogleeson_ucsd: Today the lab was greeted by innocuous appearing white adapters plugged in lab bays and offices.  We inquired and learn…</description>
@@ -2095,6 +2007,37 @@ The sensor enables a 97% accuracy in early detection of adverse events, such as 
 The sensor enables a 97% accuracy in early detection of adverse events, such as infection, and could improve wound care management. https://t.co/OByc8hkERt https://t.co/r41fV3Lb2R&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672077043171840001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FzRpNREWwAEf7kL.jpg" length="1200" type="photo"/>
       <pubDate>Fri, 23 Jun 2023 03:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Small-field visual projection neurons detect translational optic flow and support walking control  https://t.co/ntTJA9hZl3 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1672080912014536705</link>
+      <description>Small-field visual projection neurons detect translational optic flow and support walking control  https://t.co/ntTJA9hZl3 #biorxiv_neursci</description>
+      <content:encoded>Small-field visual projection neurons detect translational optic flow and support walking control  https://t.co/ntTJA9hZl3 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1672080912014536705"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 03:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congratulations to the entire team at Google @DeepMind! https://t.co/aJnjiLLDQe</title>
+      <link>https://twitter.com/demishassabis/status/1672082123157643264</link>
+      <description>Congratulations to the entire team at Google @DeepMind! https://t.co/aJnjiLLDQe</description>
+      <content:encoded>Congratulations to the entire team at Google @DeepMind! https://t.co/aJnjiLLDQe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/demishassabis/status/1672082123157643264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 03:20:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @TechnionLive: Technion awards the André Cohen Deloro Prize for 2023 to Prof. @SchillerJackie
+of the Rappaport Faculty of Medicine, in r…</title>
+      <link>https://twitter.com/SchillerJackie/status/1672088935600619521</link>
+      <description>RT @TechnionLive: Technion awards the André Cohen Deloro Prize for 2023 to Prof. @SchillerJackie
+of the Rappaport Faculty of Medicine, in r…</description>
+      <content:encoded>RT @TechnionLive: Technion awards the André Cohen Deloro Prize for 2023 to Prof. @SchillerJackie
+of the Rappaport Faculty of Medicine, in r…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SchillerJackie/status/1672088935600619521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 03:47:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 Importance of Glutamine in Synaptic Vesicles Revealed by Functional Studies of SLC6A17 and Its Mutations Pathogenic for Intellectual Disability  https://t.co/mEqsKuo0cM #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1672093545807638529</link>
+      <description>#PeerReview from @eLife of 👉🏿 Importance of Glutamine in Synaptic Vesicles Revealed by Functional Studies of SLC6A17 and Its Mutations Pathogenic for Intellectual Disability  https://t.co/mEqsKuo0cM #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 Importance of Glutamine in Synaptic Vesicles Revealed by Functional Studies of SLC6A17 and Its Mutations Pathogenic for Intellectual Disability  https://t.co/mEqsKuo0cM #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1672093545807638529"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 04:05:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
