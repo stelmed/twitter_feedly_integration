@@ -6,64 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 09:18:28 +0000</lastBuildDate>
-    <item>
-      <title>New Research: Editorial: Gut biodiversity and its influence in brain health #Neuroscience https://t.co/4GsXHTYzTC</title>
-      <link>https://twitter.com/FrontNeurosci/status/1671890670611755008</link>
-      <description>New Research: Editorial: Gut biodiversity and its influence in brain health #Neuroscience https://t.co/4GsXHTYzTC</description>
-      <content:encoded>New Research: Editorial: Gut biodiversity and its influence in brain health #Neuroscience https://t.co/4GsXHTYzTC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1671890670611755008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 14:39:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultraviolet light shapes the evolution of precancerous cells. This terrific N&amp;amp;V by @PapaemmanuilLab discusses how immune cells in the skin can give rise to a type of leukaemia called BPDCN https://t.co/hC8XmEwoQC</title>
-      <link>https://twitter.com/NatureNV/status/1671890696629010433</link>
-      <description>Ultraviolet light shapes the evolution of precancerous cells. This terrific N&amp;amp;V by @PapaemmanuilLab discusses how immune cells in the skin can give rise to a type of leukaemia called BPDCN https://t.co/hC8XmEwoQC</description>
-      <content:encoded>Ultraviolet light shapes the evolution of precancerous cells. This terrific N&amp;amp;V by @PapaemmanuilLab discusses how immune cells in the skin can give rise to a type of leukaemia called BPDCN https://t.co/hC8XmEwoQC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1671890696629010433"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 22 Jun 2023 14:39:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our #CellLineOfTheWeek is beta-catenin (adherins junctions)! 🧫
-
-Our hiPSC lines &amp;amp; plasmids – fluorescently-tagged to illuminate structures – are openly available to drive discovery: https://t.co/QCetZaTpQt
-
-📦 Distributed by @Coriell_Science &amp;amp; @Addgene.
-
-#OpenScience https://t.co/b7fH1LEziA</title>
-      <link>https://twitter.com/AllenInstitute/status/1671892799460098054</link>
-      <description>Our #CellLineOfTheWeek is beta-catenin (adherins junctions)! 🧫
-
-Our hiPSC lines &amp;amp; plasmids – fluorescently-tagged to illuminate structures – are openly available to drive discovery: https://t.co/QCetZaTpQt
-
-📦 Distributed by @Coriell_Science &amp;amp; @Addgene.
-
-#OpenScience https://t.co/b7fH1LEziA</description>
-      <content:encoded>Our #CellLineOfTheWeek is beta-catenin (adherins junctions)! 🧫
-
-Our hiPSC lines &amp;amp; plasmids – fluorescently-tagged to illuminate structures – are openly available to drive discovery: https://t.co/QCetZaTpQt
-
-📦 Distributed by @Coriell_Science &amp;amp; @Addgene.
-
-#OpenScience https://t.co/b7fH1LEziA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1671892799460098054"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FxkJYPgaUAEWlru.jpg" length="720" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 14:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AREP Group Vietnam developed this bamboo tower to provide an affordable and sustainable alternative to air conditioners. The prototype does not consume coolant gas it drops the outdoor temperature by about 6°C
-
-[video: https://t.co/jj0WjdKNU8]
-"https://t.co/A9wXD4Iccu</title>
-      <link>https://twitter.com/Rainmaker1973/status/1671893601981431808</link>
-      <description>AREP Group Vietnam developed this bamboo tower to provide an affordable and sustainable alternative to air conditioners. The prototype does not consume coolant gas it drops the outdoor temperature by about 6°C
-
-[video: https://t.co/jj0WjdKNU8]
-"https://t.co/A9wXD4Iccu</description>
-      <content:encoded>AREP Group Vietnam developed this bamboo tower to provide an affordable and sustainable alternative to air conditioners. The prototype does not consume coolant gas it drops the outdoor temperature by about 6°C
-
-[video: https://t.co/jj0WjdKNU8]
-"https://t.co/A9wXD4Iccu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1671893601981431808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1671882438795202567/pu/img/JVshxSw95kmb4THi.jpg" length="480" type="photo"/>
-      <pubDate>Thu, 22 Jun 2023 14:51:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jun 2023 10:20:25 +0000</lastBuildDate>
     <item>
       <title>A quadrupedal #robot was capable of climbing on metallic ceilings and walls by using feet made of electro-permanent magnets and magnetorheological elastomers.
 
@@ -1927,6 +1870,64 @@ https://t.co/cWI0Jm4G01 https://t.co/Z4PENddnfm</description>
 https://t.co/cWI0Jm4G01 https://t.co/Z4PENddnfm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatRevNeurosci/status/1672168113876484098"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FzIo4JKX0AI7QV_.jpg" length="960" type="photo"/>
       <pubDate>Fri, 23 Jun 2023 09:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The giant pacific octopus is the largest octopus species and can reach a weight of 71 kg. This one was caught by fishers and released off the coast of California
+
+[source: https://t.co/gKARqaVWum]
+https://t.co/yBLV8yW7C6</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672172377378045952</link>
+      <description>The giant pacific octopus is the largest octopus species and can reach a weight of 71 kg. This one was caught by fishers and released off the coast of California
+
+[source: https://t.co/gKARqaVWum]
+https://t.co/yBLV8yW7C6</description>
+      <content:encoded>The giant pacific octopus is the largest octopus species and can reach a weight of 71 kg. This one was caught by fishers and released off the coast of California
+
+[source: https://t.co/gKARqaVWum]
+https://t.co/yBLV8yW7C6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672172377378045952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672129708346195968/pu/img/fvTAzxDPVYvFp9KS.jpg" length="576" type="photo"/>
+      <pubDate>Fri, 23 Jun 2023 09:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @j_sugar: we are initiating human single neuron recordings in Norway! We have received approval to initiate a clinical trial evaluating…</title>
+      <link>https://twitter.com/MattNeuro/status/1672178676174135297</link>
+      <description>RT @j_sugar: we are initiating human single neuron recordings in Norway! We have received approval to initiate a clinical trial evaluating…</description>
+      <content:encoded>RT @j_sugar: we are initiating human single neuron recordings in Norway! We have received approval to initiate a clinical trial evaluating…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1672178676174135297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 09:43:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Not only does varnish protect artworks from the accumulation of dirt and dust, it also enhances the final look of it with a radiant glossy, matt or satin finish
+
+[📹 Hannah Collins: https://t.co/dvwQ1ZdGVV]
+https://t.co/ylppIc4M5S</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672182068585848835</link>
+      <description>Not only does varnish protect artworks from the accumulation of dirt and dust, it also enhances the final look of it with a radiant glossy, matt or satin finish
+
+[📹 Hannah Collins: https://t.co/dvwQ1ZdGVV]
+https://t.co/ylppIc4M5S</description>
+      <content:encoded>Not only does varnish protect artworks from the accumulation of dirt and dust, it also enhances the final look of it with a radiant glossy, matt or satin finish
+
+[📹 Hannah Collins: https://t.co/dvwQ1ZdGVV]
+https://t.co/ylppIc4M5S&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672182068585848835"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672099935657893888/pu/img/3XzcCMNl49-NSu5C.jpg" length="404" type="photo"/>
+      <pubDate>Fri, 23 Jun 2023 09:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>A demonstration of how the horizontal component of velocity remains constant 
+
+[explanation: https://t.co/RREe9s1laB]
+https://t.co/XXl4VPsFIq</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672186174817828865</link>
+      <description>A demonstration of how the horizontal component of velocity remains constant 
+
+[explanation: https://t.co/RREe9s1laB]
+https://t.co/XXl4VPsFIq</description>
+      <content:encoded>A demonstration of how the horizontal component of velocity remains constant 
+
+[explanation: https://t.co/RREe9s1laB]
+https://t.co/XXl4VPsFIq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672186174817828865"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1569586113559539712/pu/img/g_XqGMfKf4p6Io-0.jpg" length="810" type="photo"/>
+      <pubDate>Fri, 23 Jun 2023 10:13:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
