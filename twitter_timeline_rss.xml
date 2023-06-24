@@ -6,24 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 04:21:58 +0000</lastBuildDate>
-    <item>
-      <title>Japanese maple leafhopper nymphs walk rapidly sideways or perform wave dance-like moves like these ones when disturbed 
-
-[read more: https://t.co/EN9SyVAzMs]
-https://t.co/WwB7ZNgABI</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672168056775114754</link>
-      <description>Japanese maple leafhopper nymphs walk rapidly sideways or perform wave dance-like moves like these ones when disturbed 
-
-[read more: https://t.co/EN9SyVAzMs]
-https://t.co/WwB7ZNgABI</description>
-      <content:encoded>Japanese maple leafhopper nymphs walk rapidly sideways or perform wave dance-like moves like these ones when disturbed 
-
-[read more: https://t.co/EN9SyVAzMs]
-https://t.co/WwB7ZNgABI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672168056775114754"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672167787777650689/pu/img/yDOY47XP1dg0vlPg.jpg" length="606" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 09:01:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 05:17:03 +0000</lastBuildDate>
     <item>
       <title>Alternative splicing in neurodegenerative disease and the promise of RNA therapies — a Review by David Nikom &amp;amp; Sika Zheng
 
@@ -1242,13 +1225,6 @@ Muskoxen and caribou slow tundra diversity decline associated with diminishing A
       <pubDate>Fri, 23 Jun 2023 17:45:49 +0000</pubDate>
     </item>
     <item>
-      <title>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1672300035193683968</link>
-      <description>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</description>
-      <content:encoded>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672300035193683968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:46:12 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @DeuerlingLab: Check out our new study in @sciencemagazine. We show that NAC controls N-terminal methionine excision by MetAP1 in eukary…</title>
       <link>https://twitter.com/ScienceMagazine/status/1672300112524001305</link>
       <description>RT @DeuerlingLab: Check out our new study in @sciencemagazine. We show that NAC controls N-terminal methionine excision by MetAP1 in eukary…</description>
@@ -1976,6 +1952,20 @@ It works better than PPO, and needs almost no hyperpara…</description>
 
 It works better than PPO, and needs almost no hyperpara…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1672451409659174912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 24 Jun 2023 03:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>How cholesterol can make biological surfaces non-stick https://t.co/AAVLmWFGGP</title>
+      <link>https://twitter.com/NatureNV/status/1672465735564533760</link>
+      <description>How cholesterol can make biological surfaces non-stick https://t.co/AAVLmWFGGP</description>
+      <content:encoded>How cholesterol can make biological surfaces non-stick https://t.co/AAVLmWFGGP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1672465735564533760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 04:44:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Annalisa4fun: 🥁 Astrocytes make their new entry in the Ion Channels course with @DullaChris ! @cshlcourses @giraldezT @JanGrundemann @N…</title>
+      <link>https://twitter.com/ranczlab/status/1672470716866764800</link>
+      <description>RT @Annalisa4fun: 🥁 Astrocytes make their new entry in the Ion Channels course with @DullaChris ! @cshlcourses @giraldezT @JanGrundemann @N…</description>
+      <content:encoded>RT @Annalisa4fun: 🥁 Astrocytes make their new entry in the Ion Channels course with @DullaChris ! @cshlcourses @giraldezT @JanGrundemann @N…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1672470716866764800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 05:04:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
