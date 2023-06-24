@@ -6,62 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 12:34:28 +0000</lastBuildDate>
-    <item>
-      <title>RT @BrainsExplained: Periodic reminder that my lab @EmoryUniversity is looking for people! We're seeking postdocs (hi @neurophd_emory grads…</title>
-      <link>https://twitter.com/CGrienberger/status/1672236995832053762</link>
-      <description>RT @BrainsExplained: Periodic reminder that my lab @EmoryUniversity is looking for people! We're seeking postdocs (hi @neurophd_emory grads…</description>
-      <content:encoded>RT @BrainsExplained: Periodic reminder that my lab @EmoryUniversity is looking for people! We're seeking postdocs (hi @neurophd_emory grads…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CGrienberger/status/1672236995832053762"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 13:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>So happy and proud of @CelineNicolas2 for landing a tenure track position with such a prestigious grant !!
-Congratulations Céline 👏🥳 !! Can't wait to see your dream project come to life ! 🔬🐁✨ https://t.co/OArM0K8Npp</title>
-      <link>https://twitter.com/anna_beyeler/status/1672240161348878340</link>
-      <description>So happy and proud of @CelineNicolas2 for landing a tenure track position with such a prestigious grant !!
-Congratulations Céline 👏🥳 !! Can't wait to see your dream project come to life ! 🔬🐁✨ https://t.co/OArM0K8Npp</description>
-      <content:encoded>So happy and proud of @CelineNicolas2 for landing a tenure track position with such a prestigious grant !!
-Congratulations Céline 👏🥳 !! Can't wait to see your dream project come to life ! 🔬🐁✨ https://t.co/OArM0K8Npp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/anna_beyeler/status/1672240161348878340"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 13:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saint-Malo, Brittany, has the highest tides in Europe, with water that can rise 13 m over. These houses (here seen during storm Ciara), are built as a sea wall and 4 layer glass on the front windows 
-
-[full video, HD, Easy Ride: https://t.co/tHTXvcBD1y]
-https://t.co/iXJIUSpL17</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672240364273500160</link>
-      <description>Saint-Malo, Brittany, has the highest tides in Europe, with water that can rise 13 m over. These houses (here seen during storm Ciara), are built as a sea wall and 4 layer glass on the front windows 
-
-[full video, HD, Easy Ride: https://t.co/tHTXvcBD1y]
-https://t.co/iXJIUSpL17</description>
-      <content:encoded>Saint-Malo, Brittany, has the highest tides in Europe, with water that can rise 13 m over. These houses (here seen during storm Ciara), are built as a sea wall and 4 layer glass on the front windows 
-
-[full video, HD, Easy Ride: https://t.co/tHTXvcBD1y]
-https://t.co/iXJIUSpL17&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672240364273500160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1545812142695251968/pu/img/7M6huHiyqedK9zCx.jpg" length="720" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 13:49:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tech tools + #SingleCell data help to unlock the mysteries of the human body, cell by cell.
-
-As the largest open &amp;amp; interoperable collection of single-cell data, #CZCellxGene accelerates this research to bring us closer to curing, managing and preventing all disease https://t.co/NGoS3GwNwT</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1672243217880817665</link>
-      <description>Tech tools + #SingleCell data help to unlock the mysteries of the human body, cell by cell.
-
-As the largest open &amp;amp; interoperable collection of single-cell data, #CZCellxGene accelerates this research to bring us closer to curing, managing and preventing all disease https://t.co/NGoS3GwNwT</description>
-      <content:encoded>Tech tools + #SingleCell data help to unlock the mysteries of the human body, cell by cell.
-
-As the largest open &amp;amp; interoperable collection of single-cell data, #CZCellxGene accelerates this research to bring us closer to curing, managing and preventing all disease https://t.co/NGoS3GwNwT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1672243217880817665"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzUAWBsX0AA302E.png" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 14:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is the new printing press. https://t.co/fDx1U0sMjA</title>
-      <link>https://twitter.com/KordingLab/status/1672245225673334784</link>
-      <description>AI is the new printing press. https://t.co/fDx1U0sMjA</description>
-      <content:encoded>AI is the new printing press. https://t.co/fDx1U0sMjA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1672245225673334784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 14:08:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 13:22:25 +0000</lastBuildDate>
     <item>
       <title>Anti-FGF13/FHF2 [N91/27.1R]
 DEPOSITING LAB: James Trimmer
@@ -723,13 +668,6 @@ Muskoxen and caribou slow tundra diversity decline associated with diminishing A
       <content:encoded>RT @ElinaKaarlej: New in @sciencemagazine 📣
 Muskoxen and caribou slow tundra diversity decline associated with diminishing Arctic sea ice e…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672299935587266560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 23 Jun 2023 17:45:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1672300035193683968</link>
-      <description>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</description>
-      <content:encoded>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672300035193683968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:46:12 +0000</pubDate>
     </item>
     <item>
       <title>RT @DeuerlingLab: Check out our new study in @sciencemagazine. We show that NAC controls N-terminal methionine excision by MetAP1 in eukary…</title>
@@ -2007,6 +1945,86 @@ https://t.co/jedYG8QkaV https://t.co/MYrdrkZ35w&lt;blockquote class="twitter-twe
       <content:encoded>Don’t even trust nobody https://t.co/VHa1zVGI71&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1672582593638957056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FzY0_SvaIAAb9Xr.jpg" length="991" type="photo"/>
       <pubDate>Sat, 24 Jun 2023 12:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best coverage of the situation I’ve seen so far is from Mario https://t.co/ffTKaPoQ6t</title>
+      <link>https://twitter.com/elonmusk/status/1672584092217671683</link>
+      <description>Best coverage of the situation I’ve seen so far is from Mario https://t.co/ffTKaPoQ6t</description>
+      <content:encoded>Best coverage of the situation I’ve seen so far is from Mario https://t.co/ffTKaPoQ6t&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1672584092217671683"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 12:34:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bubbling under: @ChisholmLab_MIT @MIT_CEE et al. in @Environmicrobi take a closer look at the long-unexplained function of #vesicles in #marine #ecosystems. Recommended by Jeffrey Morris.
+
+https://t.co/Oyov61jVQC https://t.co/pdMSCal6xQ</title>
+      <link>https://twitter.com/Facultyopinions/status/1672585367499726850</link>
+      <description>Bubbling under: @ChisholmLab_MIT @MIT_CEE et al. in @Environmicrobi take a closer look at the long-unexplained function of #vesicles in #marine #ecosystems. Recommended by Jeffrey Morris.
+
+https://t.co/Oyov61jVQC https://t.co/pdMSCal6xQ</description>
+      <content:encoded>Bubbling under: @ChisholmLab_MIT @MIT_CEE et al. in @Environmicrobi take a closer look at the long-unexplained function of #vesicles in #marine #ecosystems. Recommended by Jeffrey Morris.
+
+https://t.co/Oyov61jVQC https://t.co/pdMSCal6xQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1672585367499726850"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzY3huqXgAAO5ZY.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 12:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>A cochlear implant is an electronic device helping provide a sense of sound to a person who is deaf or severely hard-of-hearing.
+
+The clip shows an 8 month old deaf baby's reaction to the activation of one
+
+This is how it works: https://t.co/B6yjQ24lLe
+https://t.co/mVMzM4K2Xt</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672586917295140864</link>
+      <description>A cochlear implant is an electronic device helping provide a sense of sound to a person who is deaf or severely hard-of-hearing.
+
+The clip shows an 8 month old deaf baby's reaction to the activation of one
+
+This is how it works: https://t.co/B6yjQ24lLe
+https://t.co/mVMzM4K2Xt</description>
+      <content:encoded>A cochlear implant is an electronic device helping provide a sense of sound to a person who is deaf or severely hard-of-hearing.
+
+The clip shows an 8 month old deaf baby's reaction to the activation of one
+
+This is how it works: https://t.co/B6yjQ24lLe
+https://t.co/mVMzM4K2Xt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672586917295140864"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/778159895317245957/pu/img/u0_Ct57_mYwXk-IN.jpg" length="320" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 12:46:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>With an astonishing 1,421 different species (and counting), bats make up 20% of all known mammals. They live on nearly every corner of the globe and their diversity is amazing. This is a collage of images by Bryan Bongey using photos by Merlin Tuttle: https://t.co/YtNOcnsb4h https://t.co/ZFgBkXBdpr</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672590397829443584</link>
+      <description>With an astonishing 1,421 different species (and counting), bats make up 20% of all known mammals. They live on nearly every corner of the globe and their diversity is amazing. This is a collage of images by Bryan Bongey using photos by Merlin Tuttle: https://t.co/YtNOcnsb4h https://t.co/ZFgBkXBdpr</description>
+      <content:encoded>With an astonishing 1,421 different species (and counting), bats make up 20% of all known mammals. They live on nearly every corner of the globe and their diversity is amazing. This is a collage of images by Bryan Bongey using photos by Merlin Tuttle: https://t.co/YtNOcnsb4h https://t.co/ZFgBkXBdpr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672590397829443584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzYPrvXXwAEMCcN.jpg" length="960" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Communicating science through art: engaging conversation at the @Ecsite conference last week, with ERC grantee @kostas_nikolop of @unibirmingham. 
+
+Read more about his #sciart #scicomm activities 👉 https://t.co/ilz6SJcgv0 https://t.co/9vojhS836f</title>
+      <link>https://twitter.com/ERC_Research/status/1672590448031039489</link>
+      <description>Communicating science through art: engaging conversation at the @Ecsite conference last week, with ERC grantee @kostas_nikolop of @unibirmingham. 
+
+Read more about his #sciart #scicomm activities 👉 https://t.co/ilz6SJcgv0 https://t.co/9vojhS836f</description>
+      <content:encoded>Communicating science through art: engaging conversation at the @Ecsite conference last week, with ERC grantee @kostas_nikolop of @unibirmingham. 
+
+Read more about his #sciart #scicomm activities 👉 https://t.co/ilz6SJcgv0 https://t.co/9vojhS836f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1672590448031039489"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzY8IC0XwAEl71T.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 13:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Sri Lanka there's this massive column of rock nearly 200 m high that hosts a 1600-year-old fortress on its top 
+
+[read more: https://t.co/cqb2cynPBw] https://t.co/WARYNTJUhU</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672595429048078336</link>
+      <description>In Sri Lanka there's this massive column of rock nearly 200 m high that hosts a 1600-year-old fortress on its top 
+
+[read more: https://t.co/cqb2cynPBw] https://t.co/WARYNTJUhU</description>
+      <content:encoded>In Sri Lanka there's this massive column of rock nearly 200 m high that hosts a 1600-year-old fortress on its top 
+
+[read more: https://t.co/cqb2cynPBw] https://t.co/WARYNTJUhU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672595429048078336"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzYQAHUXoAELkxY.jpg" length="680" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 13:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
