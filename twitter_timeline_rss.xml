@@ -6,72 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 07:16:32 +0000</lastBuildDate>
-    <item>
-      <title>RT @MaiRahmoon: I have a feeling we're going to be best friends for the next 2 years! Excited to explore its power🧪🔬 #LLSM #AIC_fellowship…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1672196543690964993</link>
-      <description>RT @MaiRahmoon: I have a feeling we're going to be best friends for the next 2 years! Excited to explore its power🧪🔬 #LLSM #AIC_fellowship…</description>
-      <content:encoded>RT @MaiRahmoon: I have a feeling we're going to be best friends for the next 2 years! Excited to explore its power🧪🔬 #LLSM #AIC_fellowship…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1672196543690964993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 10:54:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>In the early 1500s, Leonardo da Vinci’s studies of perpetual motion found a fresh impetus thanks to his experiments on the water element. He saw hydrostatic pressure as an antagonist to gravitational force 
-
-[studies: https://t.co/G05HZXm6Ar]
-https://t.co/kXPumikTwH</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672197588664352768</link>
-      <description>In the early 1500s, Leonardo da Vinci’s studies of perpetual motion found a fresh impetus thanks to his experiments on the water element. He saw hydrostatic pressure as an antagonist to gravitational force 
-
-[studies: https://t.co/G05HZXm6Ar]
-https://t.co/kXPumikTwH</description>
-      <content:encoded>In the early 1500s, Leonardo da Vinci’s studies of perpetual motion found a fresh impetus thanks to his experiments on the water element. He saw hydrostatic pressure as an antagonist to gravitational force 
-
-[studies: https://t.co/G05HZXm6Ar]
-https://t.co/kXPumikTwH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672197588664352768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1123911582185074697/pu/img/hqYByuiHYN8DmJhd.jpg" length="720" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 10:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leverage #Python's capabilities in #MATLAB https://t.co/P2zAp1RyQV</title>
-      <link>https://twitter.com/MATLAB/status/1672197924749467655</link>
-      <description>Leverage #Python's capabilities in #MATLAB https://t.co/P2zAp1RyQV</description>
-      <content:encoded>Leverage #Python's capabilities in #MATLAB https://t.co/P2zAp1RyQV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1672197924749467655"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzTXEwwWIAE9tBO.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 11:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paddlefish swim with their mouth open to filter feed plankton. 
-
-They have electroreceptors that can detect weak electrical fields which signal the presence of zooplankton 
-
-[read more: https://t.co/b9HLFOeutG]
-[📹 Solomon David]
-https://t.co/cL8adjArqX</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672204745006624769</link>
-      <description>Paddlefish swim with their mouth open to filter feed plankton. 
-
-They have electroreceptors that can detect weak electrical fields which signal the presence of zooplankton 
-
-[read more: https://t.co/b9HLFOeutG]
-[📹 Solomon David]
-https://t.co/cL8adjArqX</description>
-      <content:encoded>Paddlefish swim with their mouth open to filter feed plankton. 
-
-They have electroreceptors that can detect weak electrical fields which signal the presence of zooplankton 
-
-[read more: https://t.co/b9HLFOeutG]
-[📹 Solomon David]
-https://t.co/cL8adjArqX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672204745006624769"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1168166914075627520/pu/img/X5fDdYpVXbApgAFG.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 11:27:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ttpdoan: Milestone for translational neuroscience in 🇳🇴 where we're about to #pioneer #human #singleneuronrecordings in the #Nordics. E…</title>
-      <link>https://twitter.com/koen_vervaeke/status/1672205505077424128</link>
-      <description>RT @ttpdoan: Milestone for translational neuroscience in 🇳🇴 where we're about to #pioneer #human #singleneuronrecordings in the #Nordics. E…</description>
-      <content:encoded>RT @ttpdoan: Milestone for translational neuroscience in 🇳🇴 where we're about to #pioneer #human #singleneuronrecordings in the #Nordics. E…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/koen_vervaeke/status/1672205505077424128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 11:30:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 08:21:44 +0000</lastBuildDate>
     <item>
       <title>How Panama canal works
 
@@ -1964,6 +1899,94 @@ https://t.co/dygJgLIgez</description>
 https://t.co/dygJgLIgez&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672502879544827904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1551129688088711168/pu/img/erJdXJ1BrymEfGSe.jpg" length="640" type="photo"/>
       <pubDate>Sat, 24 Jun 2023 07:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>We saw the #mathdance on skecthes and animations, but TikTok's pinkpencilmath performed it live and it's awesome
+
+[📹: https://t.co/ZCAhUHmFhQ]
+https://t.co/u6DSW3iYZK</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672506630045409280</link>
+      <description>We saw the #mathdance on skecthes and animations, but TikTok's pinkpencilmath performed it live and it's awesome
+
+[📹: https://t.co/ZCAhUHmFhQ]
+https://t.co/u6DSW3iYZK</description>
+      <content:encoded>We saw the #mathdance on skecthes and animations, but TikTok's pinkpencilmath performed it live and it's awesome
+
+[📹: https://t.co/ZCAhUHmFhQ]
+https://t.co/u6DSW3iYZK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672506630045409280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672506179396722688/pu/img/-hGMwitpKDECXWHn.jpg" length="540" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 07:27:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>How killer whales attack seals using fluid dynamics  
+
+[full video: https://t.co/oyqb3ZsuAr] 
+[wave-hunting: https://t.co/UeMErfyNys]
+https://t.co/cuDkHnmFpO</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672509026104401920</link>
+      <description>How killer whales attack seals using fluid dynamics  
+
+[full video: https://t.co/oyqb3ZsuAr] 
+[wave-hunting: https://t.co/UeMErfyNys]
+https://t.co/cuDkHnmFpO</description>
+      <content:encoded>How killer whales attack seals using fluid dynamics  
+
+[full video: https://t.co/oyqb3ZsuAr] 
+[wave-hunting: https://t.co/UeMErfyNys]
+https://t.co/cuDkHnmFpO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672509026104401920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1620755586349694976/pu/img/hwof5lX_wQG2GQXS.jpg" length="640" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 07:36:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Animal analytics: how #giraffes are able to use #statistical inferences to aid them in their decision making. Study by @CaicoyaA @UniBarcelona et al. in @SciReports, recommended by Jennifer Vonk. #cognition
+
+https://t.co/5p022eeUfc https://t.co/WEGttERk5Z</title>
+      <link>https://twitter.com/Facultyopinions/status/1672509872166903808</link>
+      <description>Animal analytics: how #giraffes are able to use #statistical inferences to aid them in their decision making. Study by @CaicoyaA @UniBarcelona et al. in @SciReports, recommended by Jennifer Vonk. #cognition
+
+https://t.co/5p022eeUfc https://t.co/WEGttERk5Z</description>
+      <content:encoded>Animal analytics: how #giraffes are able to use #statistical inferences to aid them in their decision making. Study by @CaicoyaA @UniBarcelona et al. in @SciReports, recommended by Jennifer Vonk. #cognition
+
+https://t.co/5p022eeUfc https://t.co/WEGttERk5Z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1672509872166903808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzXy3UsX0AM3Xb1.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 07:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paddlefish swim with their mouth open to filter feed plankton. 
+
+They have electroreceptors that can detect weak electrical fields which signal the presence of zooplankton 
+
+[read more: https://t.co/b9HLFOeutG]
+[📹 Solomon David]
+https://t.co/cL8adjArqX</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672513883821551616</link>
+      <description>Paddlefish swim with their mouth open to filter feed plankton. 
+
+They have electroreceptors that can detect weak electrical fields which signal the presence of zooplankton 
+
+[read more: https://t.co/b9HLFOeutG]
+[📹 Solomon David]
+https://t.co/cL8adjArqX</description>
+      <content:encoded>Paddlefish swim with their mouth open to filter feed plankton. 
+
+They have electroreceptors that can detect weak electrical fields which signal the presence of zooplankton 
+
+[read more: https://t.co/b9HLFOeutG]
+[📹 Solomon David]
+https://t.co/cL8adjArqX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672513883821551616"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1168166914075627520/pu/img/X5fDdYpVXbApgAFG.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 07:55:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers from @UQ_News have used an algorithm from a video game to gain insights into the behaviour of molecules within live brain cells. Read more here https://t.co/zb8FSuOEbu
+#neuroscience https://t.co/z3OIbHHsmc</title>
+      <link>https://twitter.com/Scientifica_Int/status/1672515003444805632</link>
+      <description>Researchers from @UQ_News have used an algorithm from a video game to gain insights into the behaviour of molecules within live brain cells. Read more here https://t.co/zb8FSuOEbu
+#neuroscience https://t.co/z3OIbHHsmc</description>
+      <content:encoded>Researchers from @UQ_News have used an algorithm from a video game to gain insights into the behaviour of molecules within live brain cells. Read more here https://t.co/zb8FSuOEbu
+#neuroscience https://t.co/z3OIbHHsmc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1672515003444805632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzX3iDXXgAIkxZi.jpg" length="620" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 08:00:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
