@@ -6,205 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 11:14:28 +0000</lastBuildDate>
-    <item>
-      <title>#139: Determining Relative Dynamic Stability of Cell States Using Boolean Network Model by Jae Il Joo, Joseph X. Zhou, Sui Huang and Kwang-Hyun Cho @isbsci @kaistpr
-
-How "marker gene" KOs can still produce cell-type transitions. 
-
-https://t.co/GgrJL8GLE3 https://t.co/tH3mY1KqhI</title>
-      <link>https://twitter.com/bdanubius/status/1672225742900592640</link>
-      <description>#139: Determining Relative Dynamic Stability of Cell States Using Boolean Network Model by Jae Il Joo, Joseph X. Zhou, Sui Huang and Kwang-Hyun Cho @isbsci @kaistpr
-
-How "marker gene" KOs can still produce cell-type transitions. 
-
-https://t.co/GgrJL8GLE3 https://t.co/tH3mY1KqhI</description>
-      <content:encoded>#139: Determining Relative Dynamic Stability of Cell States Using Boolean Network Model by Jae Il Joo, Joseph X. Zhou, Sui Huang and Kwang-Hyun Cho @isbsci @kaistpr
-
-How "marker gene" KOs can still produce cell-type transitions. 
-
-https://t.co/GgrJL8GLE3 https://t.co/tH3mY1KqhI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1672225742900592640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fy6B691XsAEy-7w.jpg" length="652" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 12:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The registration for the Bernstein Conference 2023 in Berlin is open! 
-
-👉https://t.co/DPNjjLrhZ0
-
-#BernsteinNetwork #BernsteinConference @bccn_berlin https://t.co/HbGt8q4u2Y</title>
-      <link>https://twitter.com/BernsteinNeuro/status/1672226883226705920</link>
-      <description>The registration for the Bernstein Conference 2023 in Berlin is open! 
-
-👉https://t.co/DPNjjLrhZ0
-
-#BernsteinNetwork #BernsteinConference @bccn_berlin https://t.co/HbGt8q4u2Y</description>
-      <content:encoded>The registration for the Bernstein Conference 2023 in Berlin is open! 
-
-👉https://t.co/DPNjjLrhZ0
-
-#BernsteinNetwork #BernsteinConference @bccn_berlin https://t.co/HbGt8q4u2Y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1672226883226705920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzTwkDZWcAUl_2U.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 12:55:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mpi_nat: Stopover in #Goettingen: Starting today, you can visit the touring exhibition “Pioneers of Science. The #NobelLaureates 🏅 of t…</title>
-      <link>https://twitter.com/maxplanckpress/status/1672227741175873536</link>
-      <description>RT @mpi_nat: Stopover in #Goettingen: Starting today, you can visit the touring exhibition “Pioneers of Science. The #NobelLaureates 🏅 of t…</description>
-      <content:encoded>RT @mpi_nat: Stopover in #Goettingen: Starting today, you can visit the touring exhibition “Pioneers of Science. The #NobelLaureates 🏅 of t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1672227741175873536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 12:58:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ants rely on scents for survival, but we know little about how an ant's olfactory system encodes scent data. To solve this mystery, @DanielKronauer's lab developed the 1st transgenic ants, bred with sensory neurons that flash green in response to odorants: https://t.co/6fjTby4Q7r</title>
-      <link>https://twitter.com/HHMINEWS/status/1672228008327823360</link>
-      <description>Ants rely on scents for survival, but we know little about how an ant's olfactory system encodes scent data. To solve this mystery, @DanielKronauer's lab developed the 1st transgenic ants, bred with sensory neurons that flash green in response to odorants: https://t.co/6fjTby4Q7r</description>
-      <content:encoded>Ants rely on scents for survival, but we know little about how an ant's olfactory system encodes scent data. To solve this mystery, @DanielKronauer's lab developed the 1st transgenic ants, bred with sensory neurons that flash green in response to odorants: https://t.co/6fjTby4Q7r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1672228008327823360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s time we create a new gold standard in #cybersecurity. Our Intelligent Generation of Tools for Security or INGOTS program aims to speed up the process of measuring software vulnerability using near-full automation. More: https://t.co/wcVodio6kw https://t.co/jTBDcbgyBf</title>
-      <link>https://twitter.com/DARPA/status/1672230522389504002</link>
-      <description>It’s time we create a new gold standard in #cybersecurity. Our Intelligent Generation of Tools for Security or INGOTS program aims to speed up the process of measuring software vulnerability using near-full automation. More: https://t.co/wcVodio6kw https://t.co/jTBDcbgyBf</description>
-      <content:encoded>It’s time we create a new gold standard in #cybersecurity. Our Intelligent Generation of Tools for Security or INGOTS program aims to speed up the process of measuring software vulnerability using near-full automation. More: https://t.co/wcVodio6kw https://t.co/jTBDcbgyBf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1672230522389504002"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzT0zGEXgAULlge.jpg" length="619" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 13:09:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CleanAirMoms: Applications are now open for @EPA’s new National Environmental Youth Advisory Council, a group of 16 passionate young le…</title>
-      <link>https://twitter.com/neurograce/status/1672230744431923205</link>
-      <description>RT @CleanAirMoms: Applications are now open for @EPA’s new National Environmental Youth Advisory Council, a group of 16 passionate young le…</description>
-      <content:encoded>RT @CleanAirMoms: Applications are now open for @EPA’s new National Environmental Youth Advisory Council, a group of 16 passionate young le…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1672230744431923205"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 13:10:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @soria_edgar: GFAP-GCaMP in The MHb #fiberphotometry so beautiful ! https://t.co/udT5mt5usi</title>
-      <link>https://twitter.com/aquineuro/status/1672231601562894337</link>
-      <description>RT @soria_edgar: GFAP-GCaMP in The MHb #fiberphotometry so beautiful ! https://t.co/udT5mt5usi</description>
-      <content:encoded>RT @soria_edgar: GFAP-GCaMP in The MHb #fiberphotometry so beautiful ! https://t.co/udT5mt5usi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/aquineuro/status/1672231601562894337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzKqtmGXoBkuBVq.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 13:14:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 7 Bridges of Königsberg
-
-This problem is a perfect illustration of the power of breakthroughs that can arise from playful curiosity.
-
-In 1736 the mathematician Leonhard wondered whether one could devise a walk through the city that would cross each bridge only once. 
-
-The… https://t.co/f9SCd9lCcq https://t.co/hSAsH6TNuL</title>
-      <link>https://twitter.com/fermatslibrary/status/1672231624254291969</link>
-      <description>The 7 Bridges of Königsberg
-
-This problem is a perfect illustration of the power of breakthroughs that can arise from playful curiosity.
-
-In 1736 the mathematician Leonhard wondered whether one could devise a walk through the city that would cross each bridge only once. 
-
-The… https://t.co/f9SCd9lCcq https://t.co/hSAsH6TNuL</description>
-      <content:encoded>The 7 Bridges of Königsberg
-
-This problem is a perfect illustration of the power of breakthroughs that can arise from playful curiosity.
-
-In 1736 the mathematician Leonhard wondered whether one could devise a walk through the city that would cross each bridge only once. 
-
-The… https://t.co/f9SCd9lCcq https://t.co/hSAsH6TNuL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1672231624254291969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzT1szoacAA0-P5.jpg" length="1024" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 13:14:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Review on the cell and circuit complexity of the external globus pallidus from @csaviochan and colleagues
-
-https://t.co/Pe4oiOrBv9</title>
-      <link>https://twitter.com/NatureNeuro/status/1672231782991929346</link>
-      <description>A Review on the cell and circuit complexity of the external globus pallidus from @csaviochan and colleagues
-
-https://t.co/Pe4oiOrBv9</description>
-      <content:encoded>A Review on the cell and circuit complexity of the external globus pallidus from @csaviochan and colleagues
-
-https://t.co/Pe4oiOrBv9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1672231782991929346"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI for Good, our specialization launching next week, was designed with Microsoft’s AI for Good Lab and lead instructor @WWRob, ML engineer and author of Human-in-the-Loop Machine Learning.
-
-Learn from real game-changers and become one!
-
-Pre-enroll now 👉 https://t.co/y1cxBKE53L https://t.co/GT63wGWPXF</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1672231790126276608</link>
-      <description>AI for Good, our specialization launching next week, was designed with Microsoft’s AI for Good Lab and lead instructor @WWRob, ML engineer and author of Human-in-the-Loop Machine Learning.
-
-Learn from real game-changers and become one!
-
-Pre-enroll now 👉 https://t.co/y1cxBKE53L https://t.co/GT63wGWPXF</description>
-      <content:encoded>AI for Good, our specialization launching next week, was designed with Microsoft’s AI for Good Lab and lead instructor @WWRob, ML engineer and author of Human-in-the-Loop Machine Learning.
-
-Learn from real game-changers and become one!
-
-Pre-enroll now 👉 https://t.co/y1cxBKE53L https://t.co/GT63wGWPXF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1672231790126276608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzT18kmWYAEw50r.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 13:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>In this segment, @tegmark argues that more intelligence is not always beneficial, saying that the world would have been worse off if Hitler had been smarter.
-
-Max is a professor at MIT. His job, like mine, is to increase the intelligence of students and other humans.
-
-He doesn't… https://t.co/aZ3fTrMooD</title>
-      <link>https://twitter.com/ylecun/status/1672234030387822593</link>
-      <description>In this segment, @tegmark argues that more intelligence is not always beneficial, saying that the world would have been worse off if Hitler had been smarter.
-
-Max is a professor at MIT. His job, like mine, is to increase the intelligence of students and other humans.
-
-He doesn't… https://t.co/aZ3fTrMooD</description>
-      <content:encoded>In this segment, @tegmark argues that more intelligence is not always beneficial, saying that the world would have been worse off if Hitler had been smarter.
-
-Max is a professor at MIT. His job, like mine, is to increase the intelligence of students and other humans.
-
-He doesn't… https://t.co/aZ3fTrMooD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672234030387822593"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 13:23:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Happy national day, #Luxembourg! 
-
-Did you know that with 21 grants so far, applicants based in 🇱🇺 have one of the highest success rates in Europe?
-
-Discover more figures about ERC grantees 👇
-https://t.co/O1qpnZIgj9
-
-@UE_Luxembourg #EUfunded https://t.co/gdUjrntWjG</title>
-      <link>https://twitter.com/ERC_Research/status/1672235580737081345</link>
-      <description>Happy national day, #Luxembourg! 
-
-Did you know that with 21 grants so far, applicants based in 🇱🇺 have one of the highest success rates in Europe?
-
-Discover more figures about ERC grantees 👇
-https://t.co/O1qpnZIgj9
-
-@UE_Luxembourg #EUfunded https://t.co/gdUjrntWjG</description>
-      <content:encoded>Happy national day, #Luxembourg! 
-
-Did you know that with 21 grants so far, applicants based in 🇱🇺 have one of the highest success rates in Europe?
-
-Discover more figures about ERC grantees 👇
-https://t.co/O1qpnZIgj9
-
-@UE_Luxembourg #EUfunded https://t.co/gdUjrntWjG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1672235580737081345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzT5Y4IaAAI6meU.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 13:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>On this week's #SciencePodcast🎙️, @boron110 talks with researcher Athanasia Tzika in a slithery segment on how snakes make scales.
-
-🎧 Listen here: https://t.co/VnKZgmJT73 @LANEVOL https://t.co/ZDG3ZBP8SJ</title>
-      <link>https://twitter.com/ScienceMagazine/status/1672235634029654016</link>
-      <description>On this week's #SciencePodcast🎙️, @boron110 talks with researcher Athanasia Tzika in a slithery segment on how snakes make scales.
-
-🎧 Listen here: https://t.co/VnKZgmJT73 @LANEVOL https://t.co/ZDG3ZBP8SJ</description>
-      <content:encoded>On this week's #SciencePodcast🎙️, @boron110 talks with researcher Athanasia Tzika in a slithery segment on how snakes make scales.
-
-🎧 Listen here: https://t.co/VnKZgmJT73 @LANEVOL https://t.co/ZDG3ZBP8SJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672235634029654016"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672235598067773441/pu/img/XfvaEeeGbL6FFwFf.jpg" length="1080" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 13:30:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 12:34:28 +0000</lastBuildDate>
     <item>
       <title>RT @BrainsExplained: Periodic reminder that my lab @EmoryUniversity is looking for people! We're seeking postdocs (hi @neurophd_emory grads…</title>
       <link>https://twitter.com/CGrienberger/status/1672236995832053762</link>
@@ -921,6 +723,13 @@ Muskoxen and caribou slow tundra diversity decline associated with diminishing A
       <content:encoded>RT @ElinaKaarlej: New in @sciencemagazine 📣
 Muskoxen and caribou slow tundra diversity decline associated with diminishing Arctic sea ice e…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672299935587266560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 23 Jun 2023 17:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1672300035193683968</link>
+      <description>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</description>
+      <content:encoded>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672300035193683968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 17:46:12 +0000</pubDate>
     </item>
     <item>
       <title>RT @DeuerlingLab: Check out our new study in @sciencemagazine. We show that NAC controls N-terminal methionine excision by MetAP1 in eukary…</title>
@@ -2041,6 +1850,163 @@ The account doesn't change its routine https://t.co/oBifn2delR https://t.co/ansc
       <description>RT @mpi_nat: The #ScienceMarket on the #MaxPlanckDay was a great success! We would like to thank all helpers and the organizers @maxplanckp…</description>
       <content:encoded>RT @mpi_nat: The #ScienceMarket on the #MaxPlanckDay was a great success! We would like to thank all helpers and the organizers @maxplanckp…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1672561299903897601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 24 Jun 2023 11:04:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>This time lapse video shows a busy week in the life of a bird building its nest in just one minute
+
+[📹 babybirdbites: https://t.co/q4n2cIIJ3U]
+https://t.co/jlEuah71rt</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672564451063615490</link>
+      <description>This time lapse video shows a busy week in the life of a bird building its nest in just one minute
+
+[📹 babybirdbites: https://t.co/q4n2cIIJ3U]
+https://t.co/jlEuah71rt</description>
+      <content:encoded>This time lapse video shows a busy week in the life of a bird building its nest in just one minute
+
+[📹 babybirdbites: https://t.co/q4n2cIIJ3U]
+https://t.co/jlEuah71rt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672564451063615490"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1667947333663838208/img/I2KIV7tp07uUmYiv.jpg" length="576" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 11:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mosquitoes use CO₂ and skin odor to track their prey, but this video shows that heat is another fundamental factor in this process 
+
+[read more: https://t.co/xq2INTc1xE]
+[source, u/Spinanator: https://t.co/5dztAIXmfm]
+https://t.co/jfDt603U4u</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672568165497200644</link>
+      <description>Mosquitoes use CO₂ and skin odor to track their prey, but this video shows that heat is another fundamental factor in this process 
+
+[read more: https://t.co/xq2INTc1xE]
+[source, u/Spinanator: https://t.co/5dztAIXmfm]
+https://t.co/jfDt603U4u</description>
+      <content:encoded>Mosquitoes use CO₂ and skin odor to track their prey, but this video shows that heat is another fundamental factor in this process 
+
+[read more: https://t.co/xq2INTc1xE]
+[source, u/Spinanator: https://t.co/5dztAIXmfm]
+https://t.co/jfDt603U4u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672568165497200644"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1661710304210833410/pu/img/VqoPWWUowT0oRoH4.jpg" length="606" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 11:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @IBROorg: OPEN OPPORTUNITY! If you are organizing a #neuroscience #conference in 2024, check out this #IBRO opportunity:  https://t.co/v…</title>
+      <link>https://twitter.com/INCForg/status/1672570415015768065</link>
+      <description>RT @IBROorg: OPEN OPPORTUNITY! If you are organizing a #neuroscience #conference in 2024, check out this #IBRO opportunity:  https://t.co/v…</description>
+      <content:encoded>RT @IBROorg: OPEN OPPORTUNITY! If you are organizing a #neuroscience #conference in 2024, check out this #IBRO opportunity:  https://t.co/v…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1672570415015768065"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 11:40:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MBFBioscience: Looking for something to watch this weekend?
+
+Browse our YouTube channel for engaging webinars, helpful product demos, a…</title>
+      <link>https://twitter.com/INCForg/status/1672570688735965184</link>
+      <description>RT @MBFBioscience: Looking for something to watch this weekend?
+
+Browse our YouTube channel for engaging webinars, helpful product demos, a…</description>
+      <content:encoded>RT @MBFBioscience: Looking for something to watch this weekend?
+
+Browse our YouTube channel for engaging webinars, helpful product demos, a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1672570688735965184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 11:41:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>#OpenScience #neuroinformatics https://t.co/zn656cRRso</title>
+      <link>https://twitter.com/INCForg/status/1672570908710514689</link>
+      <description>#OpenScience #neuroinformatics https://t.co/zn656cRRso</description>
+      <content:encoded>#OpenScience #neuroinformatics https://t.co/zn656cRRso&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1672570908710514689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 11:42:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>This video by Matt Poole shows his conservation work helping to get baby burrowing owls into “housing”
+
+They nest underground but in cases where environmental factors prevent this, artificial burrows can help
+
+[source, read more: https://t.co/TtZisQd9k0]
+https://t.co/Z0nQipSnYb</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672571511218077696</link>
+      <description>This video by Matt Poole shows his conservation work helping to get baby burrowing owls into “housing”
+
+They nest underground but in cases where environmental factors prevent this, artificial burrows can help
+
+[source, read more: https://t.co/TtZisQd9k0]
+https://t.co/Z0nQipSnYb</description>
+      <content:encoded>This video by Matt Poole shows his conservation work helping to get baby burrowing owls into “housing”
+
+They nest underground but in cases where environmental factors prevent this, artificial burrows can help
+
+[source, read more: https://t.co/TtZisQd9k0]
+https://t.co/Z0nQipSnYb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672571511218077696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1632877513952329729/pu/img/b4d9dQvLSWuADCgp.jpg" length="720" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 11:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anyone else just got a T2 account today? I am seeing quite a few people pop up in my feed there that seemingly just joined. 
+
+... must admit, I kind'a forgot I applied for an account.</title>
+      <link>https://twitter.com/MattNeuro/status/1672574007185403906</link>
+      <description>Anyone else just got a T2 account today? I am seeing quite a few people pop up in my feed there that seemingly just joined. 
+
+... must admit, I kind'a forgot I applied for an account.</description>
+      <content:encoded>Anyone else just got a T2 account today? I am seeing quite a few people pop up in my feed there that seemingly just joined. 
+
+... must admit, I kind'a forgot I applied for an account.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1672574007185403906"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 11:54:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>The thing that bugs me most about the social media platform chaos, is there are so many new platforms and I have no idea which one will become dominant. And I guess because many others are also waiting to see, nothing really moves.
+
+Anyway, I'm there with the same handle.</title>
+      <link>https://twitter.com/MattNeuro/status/1672574577694654469</link>
+      <description>The thing that bugs me most about the social media platform chaos, is there are so many new platforms and I have no idea which one will become dominant. And I guess because many others are also waiting to see, nothing really moves.
+
+Anyway, I'm there with the same handle.</description>
+      <content:encoded>The thing that bugs me most about the social media platform chaos, is there are so many new platforms and I have no idea which one will become dominant. And I guess because many others are also waiting to see, nothing really moves.
+
+Anyway, I'm there with the same handle.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1672574577694654469"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 11:57:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Looking for new #podcasts this summer? Voices from DARPA offers an informative window into the minds of the agency's program managers. Our latest episode highlights how the Semantic Forensics program can help analyze manipulated or synthesized media. More: https://t.co/oKtboBQnyf https://t.co/Dgsr9AgAAv</title>
+      <link>https://twitter.com/DARPA/status/1672575705543069697</link>
+      <description>Looking for new #podcasts this summer? Voices from DARPA offers an informative window into the minds of the agency's program managers. Our latest episode highlights how the Semantic Forensics program can help analyze manipulated or synthesized media. More: https://t.co/oKtboBQnyf https://t.co/Dgsr9AgAAv</description>
+      <content:encoded>Looking for new #podcasts this summer? Voices from DARPA offers an informative window into the minds of the agency's program managers. Our latest episode highlights how the Semantic Forensics program can help analyze manipulated or synthesized media. More: https://t.co/oKtboBQnyf https://t.co/Dgsr9AgAAv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1672575705543069697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzYuvcVXgAArq2A.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 12:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>These easy to transport &amp;amp; assembly floodwalls can save a property from being damaged by flash floods, with a much faster response vs deployment of sand bags which is time and labour-consuming &amp;amp; not totally effective
+
+[read more: https://t.co/HfkwN59uJC]
+https://t.co/Yv2G95nKNa</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672576076780797952</link>
+      <description>These easy to transport &amp;amp; assembly floodwalls can save a property from being damaged by flash floods, with a much faster response vs deployment of sand bags which is time and labour-consuming &amp;amp; not totally effective
+
+[read more: https://t.co/HfkwN59uJC]
+https://t.co/Yv2G95nKNa</description>
+      <content:encoded>These easy to transport &amp;amp; assembly floodwalls can save a property from being damaged by flash floods, with a much faster response vs deployment of sand bags which is time and labour-consuming &amp;amp; not totally effective
+
+[read more: https://t.co/HfkwN59uJC]
+https://t.co/Yv2G95nKNa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672576076780797952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1659863740622184449/pu/img/_KJd84vT8e8VZI07.jpg" length="608" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 12:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interested in sensory #neuroscience and already have experience of working in a research laboratory? The University of Sheffield has an exciting opportunity for a Research Assistant to join the Hearing Research group. Find out more here:
+https://t.co/jedYG8QkaV https://t.co/MYrdrkZ35w</title>
+      <link>https://twitter.com/Scientifica_Int/status/1672580332976058372</link>
+      <description>Interested in sensory #neuroscience and already have experience of working in a research laboratory? The University of Sheffield has an exciting opportunity for a Research Assistant to join the Hearing Research group. Find out more here:
+https://t.co/jedYG8QkaV https://t.co/MYrdrkZ35w</description>
+      <content:encoded>Interested in sensory #neuroscience and already have experience of working in a research laboratory? The University of Sheffield has an exciting opportunity for a Research Assistant to join the Hearing Research group. Find out more here:
+https://t.co/jedYG8QkaV https://t.co/MYrdrkZ35w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1672580332976058372"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzYy8t6XoAATXTT.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 12:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t even trust nobody https://t.co/VHa1zVGI71</title>
+      <link>https://twitter.com/elonmusk/status/1672582593638957056</link>
+      <description>Don’t even trust nobody https://t.co/VHa1zVGI71</description>
+      <content:encoded>Don’t even trust nobody https://t.co/VHa1zVGI71&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1672582593638957056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzY0_SvaIAAb9Xr.jpg" length="991" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 12:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
