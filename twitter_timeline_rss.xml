@@ -6,15 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 19:14:02 +0000</lastBuildDate>
-    <item>
-      <title>A clinical study published in @NatureComms shows that greater delivery of gut-microbiome fermentable dietary substrates to the colon leads to a net negative energy balance that is accompanied by robust microbial and host responses. https://t.co/b5pj0FP9nd https://t.co/Mjpb601DIi</title>
-      <link>https://twitter.com/NaturePortfolio/status/1672297738858315776</link>
-      <description>A clinical study published in @NatureComms shows that greater delivery of gut-microbiome fermentable dietary substrates to the colon leads to a net negative energy balance that is accompanied by robust microbial and host responses. https://t.co/b5pj0FP9nd https://t.co/Mjpb601DIi</description>
-      <content:encoded>A clinical study published in @NatureComms shows that greater delivery of gut-microbiome fermentable dietary substrates to the colon leads to a net negative energy balance that is accompanied by robust microbial and host responses. https://t.co/b5pj0FP9nd https://t.co/Mjpb601DIi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1672297738858315776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzUx6gKWwAs4xkW.jpg" length="1000" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 17:37:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 20:18:39 +0000</lastBuildDate>
     <item>
       <title>RT @patrycja_kozik: Our work on perforin-2, a pore-forming protein expressed by #DendriticCells to deliver antigens into the cytosol during…</title>
       <link>https://twitter.com/ScienceMagazine/status/1672299397806280704</link>
@@ -2000,6 +1992,21 @@ The brain-computer interface (BCI) allows individuals to control external… #Ne
 
 The brain-computer interface (BCI) allows individuals to control external… #Neuroscience https://t.co/spIFFmxR1h&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1672682139517853697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 24 Jun 2023 19:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists have delineated how a biochemical modification enables macrophages to neutralize and clear out the bacterium responsible for #tuberculosis–a discovery that could facilitate therapeutic research for this widespread health burden. @SciSignal https://t.co/rZcftyWPVI https://t.co/nMu0vzSdKj</title>
+      <link>https://twitter.com/ScienceMagazine/status/1672688569901543425</link>
+      <description>Scientists have delineated how a biochemical modification enables macrophages to neutralize and clear out the bacterium responsible for #tuberculosis–a discovery that could facilitate therapeutic research for this widespread health burden. @SciSignal https://t.co/rZcftyWPVI https://t.co/nMu0vzSdKj</description>
+      <content:encoded>Scientists have delineated how a biochemical modification enables macrophages to neutralize and clear out the bacterium responsible for #tuberculosis–a discovery that could facilitate therapeutic research for this widespread health burden. @SciSignal https://t.co/rZcftyWPVI https://t.co/nMu0vzSdKj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672688569901543425"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzaVY7VWYAAndXc.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 19:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MaxNigro_Neuro: @kavliYROCK @KISNeuro great opportunity for postdocs to present their work in an excellent institution</title>
+      <link>https://twitter.com/JonRWhitlock/status/1672691361198358529</link>
+      <description>RT @MaxNigro_Neuro: @kavliYROCK @KISNeuro great opportunity for postdocs to present their work in an excellent institution</description>
+      <content:encoded>RT @MaxNigro_Neuro: @kavliYROCK @KISNeuro great opportunity for postdocs to present their work in an excellent institution&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/JonRWhitlock/status/1672691361198358529"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 19:41:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
