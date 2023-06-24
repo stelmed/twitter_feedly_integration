@@ -6,29 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 17:15:26 +0000</lastBuildDate>
-    <item>
-      <title>RT @se_zezulka: Philosophy meets Machine Learning again @ml4science and @uni_tue in September #philml23 The programme is online and registr…</title>
-      <link>https://twitter.com/CellTypist/status/1672290414077026305</link>
-      <description>RT @se_zezulka: Philosophy meets Machine Learning again @ml4science and @uni_tue in September #philml23 The programme is online and registr…</description>
-      <content:encoded>RT @se_zezulka: Philosophy meets Machine Learning again @ml4science and @uni_tue in September #philml23 The programme is online and registr…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1672290414077026305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:07:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bye-bye Toronto https://t.co/Azp4n4Rj6V</title>
-      <link>https://twitter.com/ylecun/status/1672292897746501636</link>
-      <description>Bye-bye Toronto https://t.co/Azp4n4Rj6V</description>
-      <content:encoded>Bye-bye Toronto https://t.co/Azp4n4Rj6V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672292897746501636"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzUthaJWwAk73OS.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 17:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NatureBiotech: Multifunctional microelectronic fibers enable wireless modulation of gut and brain neural circuits https://t.co/SiLQKwhx…</title>
-      <link>https://twitter.com/anna_beyeler/status/1672294469855477761</link>
-      <description>RT @NatureBiotech: Multifunctional microelectronic fibers enable wireless modulation of gut and brain neural circuits https://t.co/SiLQKwhx…</description>
-      <content:encoded>RT @NatureBiotech: Multifunctional microelectronic fibers enable wireless modulation of gut and brain neural circuits https://t.co/SiLQKwhx…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/anna_beyeler/status/1672294469855477761"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:24:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 18:22:07 +0000</lastBuildDate>
     <item>
       <title>Thank you everyone who attended our Neuropixels and Openscope workshop! 
 
@@ -121,13 +99,6 @@ Muskoxen and caribou slow tundra diversity decline associated with diminishing A
       <content:encoded>RT @ElinaKaarlej: New in @sciencemagazine 📣
 Muskoxen and caribou slow tundra diversity decline associated with diminishing Arctic sea ice e…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672299935587266560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 23 Jun 2023 17:45:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1672300035193683968</link>
-      <description>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</description>
-      <content:encoded>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672300035193683968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:46:12 +0000</pubDate>
     </item>
     <item>
       <title>RT @DeuerlingLab: Check out our new study in @sciencemagazine. We show that NAC controls N-terminal methionine excision by MetAP1 in eukary…</title>
@@ -1967,6 +1938,48 @@ https://t.co/mixWtmrAkP https://t.co/0sHBxq9LqH&lt;blockquote class="twitter-twe
       <description>RT @Annalisa4fun: All good things come to an end 🤪 Thanks for being since an amazing group of people! @cshlcourses @N_Wanaverbecq @JanGrund…</description>
       <content:encoded>RT @Annalisa4fun: All good things come to an end 🤪 Thanks for being since an amazing group of people! @cshlcourses @N_Wanaverbecq @JanGrund…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CGrienberger/status/1672653675049656320"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 24 Jun 2023 17:11:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>A @NatureMaterials paper reports a bi-continuous conducting polymer hydrogel that is 3D printed into soft biolelectronic devices with high electrical conductivity, stretchability and toughness for in vivo electrophysiological monitoring and stimulation. 🔒 https://t.co/TV7jqK13HT https://t.co/hGYsu11tbQ</title>
+      <link>https://twitter.com/NaturePortfolio/status/1672660127101460480</link>
+      <description>A @NatureMaterials paper reports a bi-continuous conducting polymer hydrogel that is 3D printed into soft biolelectronic devices with high electrical conductivity, stretchability and toughness for in vivo electrophysiological monitoring and stimulation. 🔒 https://t.co/TV7jqK13HT https://t.co/hGYsu11tbQ</description>
+      <content:encoded>A @NatureMaterials paper reports a bi-continuous conducting polymer hydrogel that is 3D printed into soft biolelectronic devices with high electrical conductivity, stretchability and toughness for in vivo electrophysiological monitoring and stimulation. 🔒 https://t.co/TV7jqK13HT https://t.co/hGYsu11tbQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1672660127101460480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzZ7gSIXsAA5TfZ.jpg" length="1066" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 17:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>For more than 20 years, Christian Moullec has flown with birds. With his microlight aircraft he guides migrating flocks of vulnerable species and orphaned birds 
+
+[video, read more, NatGeo: https://t.co/IJr4pyusWk]
+https://t.co/64ngMSe1vk</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672665188623941637</link>
+      <description>For more than 20 years, Christian Moullec has flown with birds. With his microlight aircraft he guides migrating flocks of vulnerable species and orphaned birds 
+
+[video, read more, NatGeo: https://t.co/IJr4pyusWk]
+https://t.co/64ngMSe1vk</description>
+      <content:encoded>For more than 20 years, Christian Moullec has flown with birds. With his microlight aircraft he guides migrating flocks of vulnerable species and orphaned birds 
+
+[video, read more, NatGeo: https://t.co/IJr4pyusWk]
+https://t.co/64ngMSe1vk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672665188623941637"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/DSyQC4tUMAAGD58.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 17:57:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>That time a chess robot grabbed and broke a finger of its seven-year-old opponent 
+
+[full story: https://t.co/WZw3ypBcfg]
+https://t.co/e0sZ7Jj84v</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672668914323529729</link>
+      <description>That time a chess robot grabbed and broke a finger of its seven-year-old opponent 
+
+[full story: https://t.co/WZw3ypBcfg]
+https://t.co/e0sZ7Jj84v</description>
+      <content:encoded>That time a chess robot grabbed and broke a finger of its seven-year-old opponent 
+
+[full story: https://t.co/WZw3ypBcfg]
+https://t.co/e0sZ7Jj84v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672668914323529729"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1551353009996693505/pu/img/3kwh9SFM1oQXoKVH.jpg" length="848" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 18:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
