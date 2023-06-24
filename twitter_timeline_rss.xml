@@ -6,61 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 18:22:07 +0000</lastBuildDate>
-    <item>
-      <title>Thank you everyone who attended our Neuropixels and Openscope workshop! 
-
-Keep an eye out for announcements about the next round of OpenScope applications. 👀 https://t.co/sTkx21fk6v</title>
-      <link>https://twitter.com/AllenInstitute/status/1672294697589456899</link>
-      <description>Thank you everyone who attended our Neuropixels and Openscope workshop! 
-
-Keep an eye out for announcements about the next round of OpenScope applications. 👀 https://t.co/sTkx21fk6v</description>
-      <content:encoded>Thank you everyone who attended our Neuropixels and Openscope workshop! 
-
-Keep an eye out for announcements about the next round of OpenScope applications. 👀 https://t.co/sTkx21fk6v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1672294697589456899"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>At our OpenScope technical workshop yesterday, we discussed how many major publications in neuroscience have not shared their raw datasets. As a result, our field is built upon loose foundations.</title>
-      <link>https://twitter.com/LecoqJerome/status/1672295839308615681</link>
-      <description>At our OpenScope technical workshop yesterday, we discussed how many major publications in neuroscience have not shared their raw datasets. As a result, our field is built upon loose foundations.</description>
-      <content:encoded>At our OpenScope technical workshop yesterday, we discussed how many major publications in neuroscience have not shared their raw datasets. As a result, our field is built upon loose foundations.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1672295839308615681"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:29:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>There is an opportunity for our field to recollect these datasets, confirm those results and rebuild on much stronger foundations.</title>
-      <link>https://twitter.com/LecoqJerome/status/1672295840210362370</link>
-      <description>There is an opportunity for our field to recollect these datasets, confirm those results and rebuild on much stronger foundations.</description>
-      <content:encoded>There is an opportunity for our field to recollect these datasets, confirm those results and rebuild on much stronger foundations.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1672295840210362370"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:29:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>I think we should collectively consider this path. Perhaps this could be major use of Brain Observatories in the next decades.</title>
-      <link>https://twitter.com/LecoqJerome/status/1672295841200246784</link>
-      <description>I think we should collectively consider this path. Perhaps this could be major use of Brain Observatories in the next decades.</description>
-      <content:encoded>I think we should collectively consider this path. Perhaps this could be major use of Brain Observatories in the next decades.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1672295841200246784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:29:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Papers should not absorb the data but Data should absorb the paper" is my guiding principle now. We rely too much on words to build our field.</title>
-      <link>https://twitter.com/LecoqJerome/status/1672295842479493124</link>
-      <description>"Papers should not absorb the data but Data should absorb the paper" is my guiding principle now. We rely too much on words to build our field.</description>
-      <content:encoded>"Papers should not absorb the data but Data should absorb the paper" is my guiding principle now. We rely too much on words to build our field.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1672295842479493124"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:29:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>I discuss my book 𝗧𝗵𝗲 𝗘𝗻𝘁𝗮𝗻𝗴𝗹𝗲𝗱 𝗕𝗿𝗮𝗶𝗻 by @mitpress here with Ginger Campbell.
-If you're starting to learn about the brain this is an introductory discussion.
-https://t.co/8EtH8MvnWX</title>
-      <link>https://twitter.com/PessoaBrain/status/1672297054411063301</link>
-      <description>I discuss my book 𝗧𝗵𝗲 𝗘𝗻𝘁𝗮𝗻𝗴𝗹𝗲𝗱 𝗕𝗿𝗮𝗶𝗻 by @mitpress here with Ginger Campbell.
-If you're starting to learn about the brain this is an introductory discussion.
-https://t.co/8EtH8MvnWX</description>
-      <content:encoded>I discuss my book 𝗧𝗵𝗲 𝗘𝗻𝘁𝗮𝗻𝗴𝗹𝗲𝗱 𝗕𝗿𝗮𝗶𝗻 by @mitpress here with Ginger Campbell.
-If you're starting to learn about the brain this is an introductory discussion.
-https://t.co/8EtH8MvnWX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1672297054411063301"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 17:34:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 19:14:02 +0000</lastBuildDate>
     <item>
       <title>A clinical study published in @NatureComms shows that greater delivery of gut-microbiome fermentable dietary substrates to the colon leads to a net negative energy balance that is accompanied by robust microbial and host responses. https://t.co/b5pj0FP9nd https://t.co/Mjpb601DIi</title>
       <link>https://twitter.com/NaturePortfolio/status/1672297738858315776</link>
@@ -1980,6 +1926,80 @@ https://t.co/e0sZ7Jj84v</description>
 https://t.co/e0sZ7Jj84v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672668914323529729"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1551353009996693505/pu/img/3kwh9SFM1oQXoKVH.jpg" length="848" type="photo"/>
       <pubDate>Sat, 24 Jun 2023 18:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This giant elephant toothpaste experiment has been conducted by Nick Uhas &amp;amp; David Dobrik and it's possibly one of the biggest reproduction of the rapid decomposition of hydrogen peroxide 
+
+[📹 https://t.co/QJdgV7Ca2T] 
+[read more: https://t.co/dmWndAUIBb]
+https://t.co/1E9pkxtJU9</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672674700726607873</link>
+      <description>This giant elephant toothpaste experiment has been conducted by Nick Uhas &amp;amp; David Dobrik and it's possibly one of the biggest reproduction of the rapid decomposition of hydrogen peroxide 
+
+[📹 https://t.co/QJdgV7Ca2T] 
+[read more: https://t.co/dmWndAUIBb]
+https://t.co/1E9pkxtJU9</description>
+      <content:encoded>This giant elephant toothpaste experiment has been conducted by Nick Uhas &amp;amp; David Dobrik and it's possibly one of the biggest reproduction of the rapid decomposition of hydrogen peroxide 
+
+[📹 https://t.co/QJdgV7Ca2T] 
+[read more: https://t.co/dmWndAUIBb]
+https://t.co/1E9pkxtJU9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672674700726607873"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1207798633686429698/pu/img/RV-Ep-ub-2s-A_wk.jpg" length="675" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 18:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @NatRevEarthEnv summarizes how irrigation currently impacts key components of the Earth system. 
+https://t.co/iIceUlU1Dx https://t.co/dSqOcG7obi</title>
+      <link>https://twitter.com/NaturePortfolio/status/1672676232570306562</link>
+      <description>A Review in @NatRevEarthEnv summarizes how irrigation currently impacts key components of the Earth system. 
+https://t.co/iIceUlU1Dx https://t.co/dSqOcG7obi</description>
+      <content:encoded>A Review in @NatRevEarthEnv summarizes how irrigation currently impacts key components of the Earth system. 
+https://t.co/iIceUlU1Dx https://t.co/dSqOcG7obi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1672676232570306562"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzaKJwHWwAMfMyb.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ducks do not just love water, ducks need water. They need it to keep their eyes, bills, feet and feathers in good condition.
+
+Yet, this specific one seems too attached to this pond
+
+[video: https://t.co/CP4bu5LNwu]
+https://t.co/NC5Un7dHvP https://t.co/k6JDi0HM1w</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672679090719948805</link>
+      <description>Ducks do not just love water, ducks need water. They need it to keep their eyes, bills, feet and feathers in good condition.
+
+Yet, this specific one seems too attached to this pond
+
+[video: https://t.co/CP4bu5LNwu]
+https://t.co/NC5Un7dHvP https://t.co/k6JDi0HM1w</description>
+      <content:encoded>Ducks do not just love water, ducks need water. They need it to keep their eyes, bills, feet and feathers in good condition.
+
+Yet, this specific one seems too attached to this pond
+
+[video: https://t.co/CP4bu5LNwu]
+https://t.co/NC5Un7dHvP https://t.co/k6JDi0HM1w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672679090719948805"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1390754731602202627/pu/img/F85RxWFsWEDBlGvF.jpg" length="510" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 18:52:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @gabymychel: We are delighted to have met the next generation of African Computational Neuroscientists and Machine learners @TReNDinAfri…</title>
+      <link>https://twitter.com/HHMIJanelia/status/1672680458591535109</link>
+      <description>RT @gabymychel: We are delighted to have met the next generation of African Computational Neuroscientists and Machine learners @TReNDinAfri…</description>
+      <content:encoded>RT @gabymychel: We are delighted to have met the next generation of African Computational Neuroscientists and Machine learners @TReNDinAfri…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1672680458591535109"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 18:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: The effects of layer-wise relevance propagation-based feature selection for EEG classification: a comparative study on multiple datasets: Introduction
+
+The brain-computer interface (BCI) allows individuals to control external… #Neuroscience https://t.co/spIFFmxR1h</title>
+      <link>https://twitter.com/FrontNeurosci/status/1672682139517853697</link>
+      <description>New Research: The effects of layer-wise relevance propagation-based feature selection for EEG classification: a comparative study on multiple datasets: Introduction
+
+The brain-computer interface (BCI) allows individuals to control external… #Neuroscience https://t.co/spIFFmxR1h</description>
+      <content:encoded>New Research: The effects of layer-wise relevance propagation-based feature selection for EEG classification: a comparative study on multiple datasets: Introduction
+
+The brain-computer interface (BCI) allows individuals to control external… #Neuroscience https://t.co/spIFFmxR1h&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1672682139517853697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 19:04:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
