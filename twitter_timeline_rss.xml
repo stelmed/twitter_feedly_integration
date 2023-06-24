@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 02:59:14 +0000</lastBuildDate>
-    <item>
-      <title>@SilberbergGilad Tack Gilli!!</title>
-      <link>https://twitter.com/meletislab/status/1672166888716025858</link>
-      <description>@SilberbergGilad Tack Gilli!!</description>
-      <content:encoded>@SilberbergGilad Tack Gilli!!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/meletislab/status/1672166888716025858"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 08:57:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 03:31:27 +0000</lastBuildDate>
     <item>
       <title>"In this process I have been reminded that, in any coming out, the community catches you." #PrideMonth 
 @ScienceCareers https://t.co/dPrf5BPV22</title>
@@ -1973,6 +1966,14 @@ A Visual Thread 👇 https://t.co/Wuro1qbCCa</description>
 A Visual Thread 👇 https://t.co/Wuro1qbCCa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1672428976671977473"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FzKHANnWAAEdnty.jpg" length="1200" type="photo"/>
       <pubDate>Sat, 24 Jun 2023 02:18:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New @SciSignal research in rodents deciphers how infections with #SARSCoV2 in the lungs generate systemic antiviral responses—and suggests that these responses may help limit the virus from spreading to other organs. #COVID19 https://t.co/mDmUk0QyZP https://t.co/1yEzL96Mlp</title>
+      <link>https://twitter.com/ScienceMagazine/status/1672439427480813568</link>
+      <description>New @SciSignal research in rodents deciphers how infections with #SARSCoV2 in the lungs generate systemic antiviral responses—and suggests that these responses may help limit the virus from spreading to other organs. #COVID19 https://t.co/mDmUk0QyZP https://t.co/1yEzL96Mlp</description>
+      <content:encoded>New @SciSignal research in rodents deciphers how infections with #SARSCoV2 in the lungs generate systemic antiviral responses—and suggests that these responses may help limit the virus from spreading to other organs. #COVID19 https://t.co/mDmUk0QyZP https://t.co/1yEzL96Mlp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672439427480813568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzWyy5QWIAEG9pK.jpg" length="910" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 03:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
