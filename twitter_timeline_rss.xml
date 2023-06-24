@@ -6,72 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 08:21:44 +0000</lastBuildDate>
-    <item>
-      <title>How Panama canal works
-
-[source 1: https://t.co/5NZEu1uwi7]
-[source 2: https://t.co/5wepqmBCzg]
-https://t.co/unVupXCOG1</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672210581015650304</link>
-      <description>How Panama canal works
-
-[source 1: https://t.co/5NZEu1uwi7]
-[source 2: https://t.co/5wepqmBCzg]
-https://t.co/unVupXCOG1</description>
-      <content:encoded>How Panama canal works
-
-[source 1: https://t.co/5NZEu1uwi7]
-[source 2: https://t.co/5wepqmBCzg]
-https://t.co/unVupXCOG1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672210581015650304"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1613400184301711360/pu/img/T4iY0K_hhtLGemiP.jpg" length="608" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 11:50:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @gabrielmstine: Excited to share that my paper with @d_jeurissen_ , @EricMTrautmann, and @shadlen is out in @NeuroCellPress today! We us…</title>
-      <link>https://twitter.com/NeuroCellPress/status/1672212626749677568</link>
-      <description>RT @gabrielmstine: Excited to share that my paper with @d_jeurissen_ , @EricMTrautmann, and @shadlen is out in @NeuroCellPress today! We us…</description>
-      <content:encoded>RT @gabrielmstine: Excited to share that my paper with @d_jeurissen_ , @EricMTrautmann, and @shadlen is out in @NeuroCellPress today! We us…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1672212626749677568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 11:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>@SilberbergGilad @meletislab Tack Gilli!</title>
-      <link>https://twitter.com/CarlenLab/status/1672212963145465859</link>
-      <description>@SilberbergGilad @meletislab Tack Gilli!</description>
-      <content:encoded>@SilberbergGilad @meletislab Tack Gilli!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CarlenLab/status/1672212963145465859"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 12:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>#ScienceSlam live! Six young scientists will present their research today in the Old Town Hall in #Göttingen. If you can't be there, you can watch the presentations live on YouTube. Join us tonight at 7 p.m  https://t.co/lWWVLw60IL #MaxPlanck75 #MaxPlanckTag https://t.co/8PLnBjsAbr</title>
-      <link>https://twitter.com/maxplanckpress/status/1672213514675519489</link>
-      <description>#ScienceSlam live! Six young scientists will present their research today in the Old Town Hall in #Göttingen. If you can't be there, you can watch the presentations live on YouTube. Join us tonight at 7 p.m  https://t.co/lWWVLw60IL #MaxPlanck75 #MaxPlanckTag https://t.co/8PLnBjsAbr</description>
-      <content:encoded>#ScienceSlam live! Six young scientists will present their research today in the Old Town Hall in #Göttingen. If you can't be there, you can watch the presentations live on YouTube. Join us tonight at 7 p.m  https://t.co/lWWVLw60IL #MaxPlanck75 #MaxPlanckTag https://t.co/8PLnBjsAbr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1672213514675519489"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzTkL1gWIAA01Xw.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 12:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @PatriceRoyTJ: Est-ce que l’intelligence artificielle va dépasser les capacités du cerveau humain?
-
-« Ça ne fait aucun doute. C’est une…</title>
-      <link>https://twitter.com/ylecun/status/1672213924286980098</link>
-      <description>RT @PatriceRoyTJ: Est-ce que l’intelligence artificielle va dépasser les capacités du cerveau humain?
-
-« Ça ne fait aucun doute. C’est une…</description>
-      <content:encoded>RT @PatriceRoyTJ: Est-ce que l’intelligence artificielle va dépasser les capacités du cerveau humain?
-
-« Ça ne fait aucun doute. C’est une…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672213924286980098"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 12:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Read this issue's free featured #NeuroView by Catherine Tallon-Baudry on why interoception should be fully integrated with perceptual and cognitive neuroscience:
-https://t.co/5AebxkrMnr</title>
-      <link>https://twitter.com/NeuroCellPress/status/1672214208916647937</link>
-      <description>Read this issue's free featured #NeuroView by Catherine Tallon-Baudry on why interoception should be fully integrated with perceptual and cognitive neuroscience:
-https://t.co/5AebxkrMnr</description>
-      <content:encoded>Read this issue's free featured #NeuroView by Catherine Tallon-Baudry on why interoception should be fully integrated with perceptual and cognitive neuroscience:
-https://t.co/5AebxkrMnr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1672214208916647937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 12:05:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 09:17:08 +0000</lastBuildDate>
     <item>
       <title>RT @rabernat: I'm really excited to be part of this effort. ML research for climate modeling has been held back by a lack of standardized t…</title>
       <link>https://twitter.com/neurograce/status/1672215607050227712</link>
@@ -1987,6 +1922,54 @@ https://t.co/cL8adjArqX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
 #neuroscience https://t.co/z3OIbHHsmc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1672515003444805632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FzX3iDXXgAIkxZi.jpg" length="620" type="photo"/>
       <pubDate>Sat, 24 Jun 2023 08:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>How polar orbiting satellites build up a picture of Earth from consecutive passes, known as 'swaths', as Earth rotates. 
+
+The example is based on Metop satellites, which fly with an inclination of 98.7° to the equator 
+
+[EUMETSAT: https://t.co/808aBudzfa] https://t.co/uzCMAS7cpY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672524325625184257</link>
+      <description>How polar orbiting satellites build up a picture of Earth from consecutive passes, known as 'swaths', as Earth rotates. 
+
+The example is based on Metop satellites, which fly with an inclination of 98.7° to the equator 
+
+[EUMETSAT: https://t.co/808aBudzfa] https://t.co/uzCMAS7cpY</description>
+      <content:encoded>How polar orbiting satellites build up a picture of Earth from consecutive passes, known as 'swaths', as Earth rotates. 
+
+The example is based on Metop satellites, which fly with an inclination of 98.7° to the equator 
+
+[EUMETSAT: https://t.co/808aBudzfa] https://t.co/uzCMAS7cpY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672524325625184257"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672524274848940032/pu/img/9yC1BN4YBfeY3S4a.jpg" length="492" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 08:37:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Some Stars In Our Galaxy Came From Andromeda
+https://t.co/TtgxDt6AUJ https://t.co/fHmlj0jmgf</title>
+      <link>https://twitter.com/arxivblog/status/1672533009436749825</link>
+      <description>How Some Stars In Our Galaxy Came From Andromeda
+https://t.co/TtgxDt6AUJ https://t.co/fHmlj0jmgf</description>
+      <content:encoded>How Some Stars In Our Galaxy Came From Andromeda
+https://t.co/TtgxDt6AUJ https://t.co/fHmlj0jmgf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/arxivblog/status/1672533009436749825"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzYH48-WYAI7EgA.png" length="809" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gravity demo
+
+[📹 Science Lobby: https://t.co/ebEbjullPd]
+https://t.co/K7UjcZdhK6</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672533264148357120</link>
+      <description>Gravity demo
+
+[📹 Science Lobby: https://t.co/ebEbjullPd]
+https://t.co/K7UjcZdhK6</description>
+      <content:encoded>Gravity demo
+
+[📹 Science Lobby: https://t.co/ebEbjullPd]
+https://t.co/K7UjcZdhK6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672533264148357120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672528875522256896/pu/img/HzWNkbI6MJw38MGg.jpg" length="540" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 09:12:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
