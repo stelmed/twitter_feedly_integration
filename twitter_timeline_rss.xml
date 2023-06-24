@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 05:17:03 +0000</lastBuildDate>
-    <item>
-      <title>Alternative splicing in neurodegenerative disease and the promise of RNA therapies — a Review by David Nikom &amp;amp; Sika Zheng
-
-https://t.co/cWI0Jm4G01 https://t.co/Z4PENddnfm</title>
-      <link>https://twitter.com/NatRevNeurosci/status/1672168113876484098</link>
-      <description>Alternative splicing in neurodegenerative disease and the promise of RNA therapies — a Review by David Nikom &amp;amp; Sika Zheng
-
-https://t.co/cWI0Jm4G01 https://t.co/Z4PENddnfm</description>
-      <content:encoded>Alternative splicing in neurodegenerative disease and the promise of RNA therapies — a Review by David Nikom &amp;amp; Sika Zheng
-
-https://t.co/cWI0Jm4G01 https://t.co/Z4PENddnfm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatRevNeurosci/status/1672168113876484098"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzIo4JKX0AI7QV_.jpg" length="960" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 09:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 06:23:05 +0000</lastBuildDate>
     <item>
       <title>The giant pacific octopus is the largest octopus species and can reach a weight of 71 kg. This one was caught by fishers and released off the coast of California
 
@@ -1966,6 +1952,20 @@ It works better than PPO, and needs almost no hyperpara…&lt;blockquote class="
       <description>RT @Annalisa4fun: 🥁 Astrocytes make their new entry in the Ion Channels course with @DullaChris ! @cshlcourses @giraldezT @JanGrundemann @N…</description>
       <content:encoded>RT @Annalisa4fun: 🥁 Astrocytes make their new entry in the Ion Channels course with @DullaChris ! @cshlcourses @giraldezT @JanGrundemann @N…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1672470716866764800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 24 Jun 2023 05:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Today in 1975, a Moon tremour, caused by a strike of Taurid meteors, was detected by the Apollo seismometer network 
+
+[read more: https://t.co/LkDXl9rxCz] https://t.co/8jp5nmfhAB</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672489974699110401</link>
+      <description>#Today in 1975, a Moon tremour, caused by a strike of Taurid meteors, was detected by the Apollo seismometer network 
+
+[read more: https://t.co/LkDXl9rxCz] https://t.co/8jp5nmfhAB</description>
+      <content:encoded>#Today in 1975, a Moon tremour, caused by a strike of Taurid meteors, was detected by the Apollo seismometer network 
+
+[read more: https://t.co/LkDXl9rxCz] https://t.co/8jp5nmfhAB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672489974699110401"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzXgsiCXoAAyNXS.jpg" length="675" type="photo"/>
+      <pubDate>Sat, 24 Jun 2023 06:20:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
