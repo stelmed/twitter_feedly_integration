@@ -6,25 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 03:31:27 +0000</lastBuildDate>
-    <item>
-      <title>"In this process I have been reminded that, in any coming out, the community catches you." #PrideMonth 
-@ScienceCareers https://t.co/dPrf5BPV22</title>
-      <link>https://twitter.com/ScienceMagazine/status/1672167616708849666</link>
-      <description>"In this process I have been reminded that, in any coming out, the community catches you." #PrideMonth 
-@ScienceCareers https://t.co/dPrf5BPV22</description>
-      <content:encoded>"In this process I have been reminded that, in any coming out, the community catches you." #PrideMonth 
-@ScienceCareers https://t.co/dPrf5BPV22&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672167616708849666"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 09:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers from @UofR harnessed the power of artificial intelligence (AI) to measure the fluid flow around the #brain’s blood vessels, a major breakthrough with far-reaching implications for treating diseases like #Alzheimer’s. Read more here https://t.co/vdPQM80FzI https://t.co/Cn9TmodVWB</title>
-      <link>https://twitter.com/Scientifica_Int/status/1672167798443737089</link>
-      <description>Researchers from @UofR harnessed the power of artificial intelligence (AI) to measure the fluid flow around the #brain’s blood vessels, a major breakthrough with far-reaching implications for treating diseases like #Alzheimer’s. Read more here https://t.co/vdPQM80FzI https://t.co/Cn9TmodVWB</description>
-      <content:encoded>Researchers from @UofR harnessed the power of artificial intelligence (AI) to measure the fluid flow around the #brain’s blood vessels, a major breakthrough with far-reaching implications for treating diseases like #Alzheimer’s. Read more here https://t.co/vdPQM80FzI https://t.co/Cn9TmodVWB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1672167798443737089"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzS7wDHXoAEeKY3.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 09:00:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 04:21:58 +0000</lastBuildDate>
     <item>
       <title>Japanese maple leafhopper nymphs walk rapidly sideways or perform wave dance-like moves like these ones when disturbed 
 
@@ -1260,6 +1242,13 @@ Muskoxen and caribou slow tundra diversity decline associated with diminishing A
       <pubDate>Fri, 23 Jun 2023 17:45:49 +0000</pubDate>
     </item>
     <item>
+      <title>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1672300035193683968</link>
+      <description>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…</description>
+      <content:encoded>RT @EricTopol: Without a zone of uncertainty plus other troubling features, generative #AI is poised to amplify bias and falsehoods, distor…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672300035193683968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 23 Jun 2023 17:46:12 +0000</pubDate>
+    </item>
+    <item>
       <title>RT @DeuerlingLab: Check out our new study in @sciencemagazine. We show that NAC controls N-terminal methionine excision by MetAP1 in eukary…</title>
       <link>https://twitter.com/ScienceMagazine/status/1672300112524001305</link>
       <description>RT @DeuerlingLab: Check out our new study in @sciencemagazine. We show that NAC controls N-terminal methionine excision by MetAP1 in eukary…</description>
@@ -1974,6 +1963,19 @@ A Visual Thread 👇 https://t.co/Wuro1qbCCa&lt;blockquote class="twitter-tweet"
       <content:encoded>New @SciSignal research in rodents deciphers how infections with #SARSCoV2 in the lungs generate systemic antiviral responses—and suggests that these responses may help limit the virus from spreading to other organs. #COVID19 https://t.co/mDmUk0QyZP https://t.co/1yEzL96Mlp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672439427480813568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FzWyy5QWIAEG9pK.jpg" length="910" type="photo"/>
       <pubDate>Sat, 24 Jun 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @chelseabfinn: DPO is a new method for fine-tuning LLMs with human preferences.
+
+It works better than PPO, and needs almost no hyperpara…</title>
+      <link>https://twitter.com/AToliasLab/status/1672451409659174912</link>
+      <description>RT @chelseabfinn: DPO is a new method for fine-tuning LLMs with human preferences.
+
+It works better than PPO, and needs almost no hyperpara…</description>
+      <content:encoded>RT @chelseabfinn: DPO is a new method for fine-tuning LLMs with human preferences.
+
+It works better than PPO, and needs almost no hyperpara…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1672451409659174912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 24 Jun 2023 03:47:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
