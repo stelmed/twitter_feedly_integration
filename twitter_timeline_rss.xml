@@ -6,86 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jun 2023 12:35:32 +0000</lastBuildDate>
-    <item>
-      <title>This beautiful art was created by Leah Blankenship, a student of @UOregon Prof. @esylwestrak, using data from our Allen Brain Reference Atlases. We love seeing how our #OpenScience inspires creativity and curiousity about the brain!
-
-More on our open data: https://t.co/SV8lNLeUX3 https://t.co/iV9ki8hrel</title>
-      <link>https://twitter.com/AllenInstitute/status/1672378544566022147</link>
-      <description>This beautiful art was created by Leah Blankenship, a student of @UOregon Prof. @esylwestrak, using data from our Allen Brain Reference Atlases. We love seeing how our #OpenScience inspires creativity and curiousity about the brain!
-
-More on our open data: https://t.co/SV8lNLeUX3 https://t.co/iV9ki8hrel</description>
-      <content:encoded>This beautiful art was created by Leah Blankenship, a student of @UOregon Prof. @esylwestrak, using data from our Allen Brain Reference Atlases. We love seeing how our #OpenScience inspires creativity and curiousity about the brain!
-
-More on our open data: https://t.co/SV8lNLeUX3 https://t.co/iV9ki8hrel&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1672378544566022147"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzV7Yz3WYAAy4fz.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 22:58:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>New pooled library!
-This lentiviral plasmid CRISPR knockout library contains ~10,000 sgRNAs targeting 1980 human druggable genes.
-https://t.co/LYGemvstjU https://t.co/hR7MpJNzAE</title>
-      <link>https://twitter.com/Addgene/status/1672381267243933700</link>
-      <description>New pooled library!
-This lentiviral plasmid CRISPR knockout library contains ~10,000 sgRNAs targeting 1980 human druggable genes.
-https://t.co/LYGemvstjU https://t.co/hR7MpJNzAE</description>
-      <content:encoded>New pooled library!
-This lentiviral plasmid CRISPR knockout library contains ~10,000 sgRNAs targeting 1980 human druggable genes.
-https://t.co/LYGemvstjU https://t.co/hR7MpJNzAE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1672381267243933700"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzV95m-X0AMR9vj.jpg" length="1101" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 23:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Experiential_AI: How long does @ylecun think it will take to pivot the #ML field from where it is to where he'd like it to be? In celeb…</title>
-      <link>https://twitter.com/ylecun/status/1672381625622048770</link>
-      <description>RT @Experiential_AI: How long does @ylecun think it will take to pivot the #ML field from where it is to where he'd like it to be? In celeb…</description>
-      <content:encoded>RT @Experiential_AI: How long does @ylecun think it will take to pivot the #ML field from where it is to where he'd like it to be? In celeb…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672381625622048770"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 23:10:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Full video of the Munk Debate that took place on 2023-06-22: 
-"Be it resolved, AI research and development poses an existential threat."
-On the YES side: Yoshua Bengio &amp;amp; @tegmark
-On the NO side: @MelMitchell1 &amp;amp; me.
-
-https://t.co/YK2KomGEK3</title>
-      <link>https://twitter.com/ylecun/status/1672382874773757952</link>
-      <description>Full video of the Munk Debate that took place on 2023-06-22: 
-"Be it resolved, AI research and development poses an existential threat."
-On the YES side: Yoshua Bengio &amp;amp; @tegmark
-On the NO side: @MelMitchell1 &amp;amp; me.
-
-https://t.co/YK2KomGEK3</description>
-      <content:encoded>Full video of the Munk Debate that took place on 2023-06-22: 
-"Be it resolved, AI research and development poses an existential threat."
-On the YES side: Yoshua Bengio &amp;amp; @tegmark
-On the NO side: @MelMitchell1 &amp;amp; me.
-
-https://t.co/YK2KomGEK3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672382874773757952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 23:15:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>"In 1998, a neuroscientist and a philosopher bet on whether we would find the neural basis of consciousness within 25 years. On June 23 at NYU’s Skirball Theater, that bet will be resolved." https://t.co/JcCpS0gEHI</title>
-      <link>https://twitter.com/neurograce/status/1672385424164265984</link>
-      <description>"In 1998, a neuroscientist and a philosopher bet on whether we would find the neural basis of consciousness within 25 years. On June 23 at NYU’s Skirball Theater, that bet will be resolved." https://t.co/JcCpS0gEHI</description>
-      <content:encoded>"In 1998, a neuroscientist and a philosopher bet on whether we would find the neural basis of consciousness within 25 years. On June 23 at NYU’s Skirball Theater, that bet will be resolved." https://t.co/JcCpS0gEHI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1672385424164265984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzWBqo4aEAANZua.jpg" length="900" type="photo"/>
-      <pubDate>Fri, 23 Jun 2023 23:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Place your bets!</title>
-      <link>https://twitter.com/neurograce/status/1672385587041693697</link>
-      <description>Place your bets!</description>
-      <content:encoded>Place your bets!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1672385587041693697"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 23:26:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should I do a good ol' fashioned live tweet of this one? (may bother the people sitting around me...)</title>
-      <link>https://twitter.com/neurograce/status/1672385911311712260</link>
-      <description>Should I do a good ol' fashioned live tweet of this one? (may bother the people sitting around me...)</description>
-      <content:encoded>Should I do a good ol' fashioned live tweet of this one? (may bother the people sitting around me...)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1672385911311712260"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 23:27:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jun 2023 13:24:00 +0000</lastBuildDate>
     <item>
       <title>The bet: 
 
@@ -2183,6 +2104,87 @@ Take a look at his "Beautiful Brain" videos, presented at the @Ecsite conference
 #Scicomm #SciArt https://t.co/Wb5bDNuRlw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1672945245452120066"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fzd-1AgacAglbzj.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 25 Jun 2023 12:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>This brilliant chart shows the biomass distribution on Earth, with humans making up just 1/10,000 of total planet's biomass 
+
+[source, u/soSpursy7: https://t.co/oUpBCvkyJU] https://t.co/vZWXUOidZl</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672947750432899079</link>
+      <description>This brilliant chart shows the biomass distribution on Earth, with humans making up just 1/10,000 of total planet's biomass 
+
+[source, u/soSpursy7: https://t.co/oUpBCvkyJU] https://t.co/vZWXUOidZl</description>
+      <content:encoded>This brilliant chart shows the biomass distribution on Earth, with humans making up just 1/10,000 of total planet's biomass 
+
+[source, u/soSpursy7: https://t.co/oUpBCvkyJU] https://t.co/vZWXUOidZl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672947750432899079"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzdI-_eWAAAPF3O.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 12:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The heat is on: @ChrSchmahl &amp;amp; Johanna Hepp recommendation of @asansreason et al. @BUSPH association of higher temperature levels putting strain on mental health conditions. #LookAroundLookWithin #climatechange @JAMAPsych
+
+https://t.co/ikpFbN8fem https://t.co/ATdQwyCvFm</title>
+      <link>https://twitter.com/Facultyopinions/status/1672947768246009856</link>
+      <description>The heat is on: @ChrSchmahl &amp;amp; Johanna Hepp recommendation of @asansreason et al. @BUSPH association of higher temperature levels putting strain on mental health conditions. #LookAroundLookWithin #climatechange @JAMAPsych
+
+https://t.co/ikpFbN8fem https://t.co/ATdQwyCvFm</description>
+      <content:encoded>The heat is on: @ChrSchmahl &amp;amp; Johanna Hepp recommendation of @asansreason et al. @BUSPH association of higher temperature levels putting strain on mental health conditions. #LookAroundLookWithin #climatechange @JAMAPsych
+
+https://t.co/ikpFbN8fem https://t.co/ATdQwyCvFm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1672947768246009856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzeBHueWcAImKKy.jpg" length="800" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 12:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The buff-tip moth (Phalera bucephala) has a stunning camouflage: it resemble a broken twig when at rest, with surprising details.
+
+See this comparison between one and a real twig
+
+[read more: https://t.co/oIeEhlEQ0W]
+https://t.co/HORdAkAg00 https://t.co/O8totNrEPf</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672950933985034241</link>
+      <description>The buff-tip moth (Phalera bucephala) has a stunning camouflage: it resemble a broken twig when at rest, with surprising details.
+
+See this comparison between one and a real twig
+
+[read more: https://t.co/oIeEhlEQ0W]
+https://t.co/HORdAkAg00 https://t.co/O8totNrEPf</description>
+      <content:encoded>The buff-tip moth (Phalera bucephala) has a stunning camouflage: it resemble a broken twig when at rest, with surprising details.
+
+See this comparison between one and a real twig
+
+[read more: https://t.co/oIeEhlEQ0W]
+https://t.co/HORdAkAg00 https://t.co/O8totNrEPf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672950933985034241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672848106398818305/pu/img/fEU-6rFBaibs92xk.jpg" length="720" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 12:52:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Even if the beautiful summer day 🌞invites you to go swimming, we recommend this panel discussion: „#Diversity and Merits in #Science “ (16:45 - 17:45) 🌈 with 
+M. Chalfie, E. Charpentier, Chr. Nüsslein-Volhard, R. Shraim, M. Shumo &amp;amp; H. E. Varmus #LINO23  https://t.co/LGad82BraI</title>
+      <link>https://twitter.com/maxplanckpress/status/1672956263590707201</link>
+      <description>Even if the beautiful summer day 🌞invites you to go swimming, we recommend this panel discussion: „#Diversity and Merits in #Science “ (16:45 - 17:45) 🌈 with 
+M. Chalfie, E. Charpentier, Chr. Nüsslein-Volhard, R. Shraim, M. Shumo &amp;amp; H. E. Varmus #LINO23  https://t.co/LGad82BraI</description>
+      <content:encoded>Even if the beautiful summer day 🌞invites you to go swimming, we recommend this panel discussion: „#Diversity and Merits in #Science “ (16:45 - 17:45) 🌈 with 
+M. Chalfie, E. Charpentier, Chr. Nüsslein-Volhard, R. Shraim, M. Shumo &amp;amp; H. E. Varmus #LINO23  https://t.co/LGad82BraI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1672956263590707201"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 25 Jun 2023 13:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural development takes place with neurons sending out axons to reach their correct targets: they typically do that with high accuracy levels. Why this happens is an area of ongoing research 
+
+[more: https://t.co/goJ9KaJvtq] 
+[📹https://t.co/GnvmpOMQTS]
+https://t.co/FzkuwGZ51H</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672956496743677953</link>
+      <description>Neural development takes place with neurons sending out axons to reach their correct targets: they typically do that with high accuracy levels. Why this happens is an area of ongoing research 
+
+[more: https://t.co/goJ9KaJvtq] 
+[📹https://t.co/GnvmpOMQTS]
+https://t.co/FzkuwGZ51H</description>
+      <content:encoded>Neural development takes place with neurons sending out axons to reach their correct targets: they typically do that with high accuracy levels. Why this happens is an area of ongoing research 
+
+[more: https://t.co/goJ9KaJvtq] 
+[📹https://t.co/GnvmpOMQTS]
+https://t.co/FzkuwGZ51H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672956496743677953"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1499900929059008520/pu/img/A1U5peT4KjxIbb4k.jpg" length="480" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 13:14:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
