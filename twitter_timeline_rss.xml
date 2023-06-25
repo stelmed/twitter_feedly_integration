@@ -6,23 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 23:17:44 +0000</lastBuildDate>
-    <item>
-      <title>We are thrilled to announce @AndyHickl as our new Chief Technology Officer!
-
-Hickl is a veteran tech leader with experience leading teams using natural language processing, ML, AI, and computer vision to tackle some of the world’s most important problems.
-https://t.co/OBChzRjBRX</title>
-      <link>https://twitter.com/AllenInstitute/status/1672308430797676548</link>
-      <description>We are thrilled to announce @AndyHickl as our new Chief Technology Officer!
-
-Hickl is a veteran tech leader with experience leading teams using natural language processing, ML, AI, and computer vision to tackle some of the world’s most important problems.
-https://t.co/OBChzRjBRX</description>
-      <content:encoded>We are thrilled to announce @AndyHickl as our new Chief Technology Officer!
-
-Hickl is a veteran tech leader with experience leading teams using natural language processing, ML, AI, and computer vision to tackle some of the world’s most important problems.
-https://t.co/OBChzRjBRX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1672308430797676548"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 18:19:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jun 2023 01:59:32 +0000</lastBuildDate>
     <item>
       <title>One of the potential explanations why evolution makes impressive and very functional changes in species, is that memories can be passed down to later generations: this allows offspring to inherit the experience of their ancestors, especially the bad ones https://t.co/P7G2yehHIm https://t.co/G7WBjhONsU</title>
       <link>https://twitter.com/Rainmaker1973/status/1672311099331321859</link>
@@ -2019,6 +2003,27 @@ https://t.co/FhLzbxXW8h&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>New Research: Biomarkers and the outcomes of ischemic stroke: Biomarkers are measurable substances that could be used as objective indicators for disease diagnosis, responses to treatments, and outcomes predictions. In this… #Molecular #Neuroscience https://t.co/R0m7MU8NBH</description>
       <content:encoded>New Research: Biomarkers and the outcomes of ischemic stroke: Biomarkers are measurable substances that could be used as objective indicators for disease diagnosis, responses to treatments, and outcomes predictions. In this… #Molecular #Neuroscience https://t.co/R0m7MU8NBH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1672736746151514112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 24 Jun 2023 22:41:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Classification of human chronotype based on fMRI network-based statistics: Chronotype—the relationship between the internal circadian physiology of an individual and the external 24-h light-dark cycle—is increasingly… #Neuroscience https://t.co/kJ9h7V3atj</title>
+      <link>https://twitter.com/FrontNeurosci/status/1672756637441069056</link>
+      <description>New Research: Classification of human chronotype based on fMRI network-based statistics: Chronotype—the relationship between the internal circadian physiology of an individual and the external 24-h light-dark cycle—is increasingly… #Neuroscience https://t.co/kJ9h7V3atj</description>
+      <content:encoded>New Research: Classification of human chronotype based on fMRI network-based statistics: Chronotype—the relationship between the internal circadian physiology of an individual and the external 24-h light-dark cycle—is increasingly… #Neuroscience https://t.co/kJ9h7V3atj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1672756637441069056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 25 Jun 2023 00:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thanks for clarifying. https://t.co/QAsz2kWFAc</title>
+      <link>https://twitter.com/ylecun/status/1672772675775651842</link>
+      <description>Thanks for clarifying. https://t.co/QAsz2kWFAc</description>
+      <content:encoded>Thanks for clarifying. https://t.co/QAsz2kWFAc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672772675775651842"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 25 Jun 2023 01:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Modeling brain macrophage biology and neurodegenerative diseases using human iPSC-derived neuroimmune organoids #neuroscience https://t.co/hrF2vfAwAT</title>
+      <link>https://twitter.com/FrontNeurosci/status/1672775505366626305</link>
+      <description>New Research: Modeling brain macrophage biology and neurodegenerative diseases using human iPSC-derived neuroimmune organoids #neuroscience https://t.co/hrF2vfAwAT</description>
+      <content:encoded>New Research: Modeling brain macrophage biology and neurodegenerative diseases using human iPSC-derived neuroimmune organoids #neuroscience https://t.co/hrF2vfAwAT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1672775505366626305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 25 Jun 2023 01:15:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
