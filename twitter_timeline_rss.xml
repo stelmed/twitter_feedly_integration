@@ -6,70 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jun 2023 16:23:15 +0000</lastBuildDate>
-    <item>
-      <title>RT @PhysInHistory: The greatest Unsolved problems in Modern Physics.
-
-A Visual Thread 👇 https://t.co/Wuro1qbCCa</title>
-      <link>https://twitter.com/ProfFeynman/status/1672428976671977473</link>
-      <description>RT @PhysInHistory: The greatest Unsolved problems in Modern Physics.
-
-A Visual Thread 👇 https://t.co/Wuro1qbCCa</description>
-      <content:encoded>RT @PhysInHistory: The greatest Unsolved problems in Modern Physics.
-
-A Visual Thread 👇 https://t.co/Wuro1qbCCa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1672428976671977473"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzKHANnWAAEdnty.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 24 Jun 2023 02:18:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New @SciSignal research in rodents deciphers how infections with #SARSCoV2 in the lungs generate systemic antiviral responses—and suggests that these responses may help limit the virus from spreading to other organs. #COVID19 https://t.co/mDmUk0QyZP https://t.co/1yEzL96Mlp</title>
-      <link>https://twitter.com/ScienceMagazine/status/1672439427480813568</link>
-      <description>New @SciSignal research in rodents deciphers how infections with #SARSCoV2 in the lungs generate systemic antiviral responses—and suggests that these responses may help limit the virus from spreading to other organs. #COVID19 https://t.co/mDmUk0QyZP https://t.co/1yEzL96Mlp</description>
-      <content:encoded>New @SciSignal research in rodents deciphers how infections with #SARSCoV2 in the lungs generate systemic antiviral responses—and suggests that these responses may help limit the virus from spreading to other organs. #COVID19 https://t.co/mDmUk0QyZP https://t.co/1yEzL96Mlp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672439427480813568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzWyy5QWIAEG9pK.jpg" length="910" type="photo"/>
-      <pubDate>Sat, 24 Jun 2023 03:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @chelseabfinn: DPO is a new method for fine-tuning LLMs with human preferences.
-
-It works better than PPO, and needs almost no hyperpara…</title>
-      <link>https://twitter.com/AToliasLab/status/1672451409659174912</link>
-      <description>RT @chelseabfinn: DPO is a new method for fine-tuning LLMs with human preferences.
-
-It works better than PPO, and needs almost no hyperpara…</description>
-      <content:encoded>RT @chelseabfinn: DPO is a new method for fine-tuning LLMs with human preferences.
-
-It works better than PPO, and needs almost no hyperpara…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1672451409659174912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 03:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>How cholesterol can make biological surfaces non-stick https://t.co/AAVLmWFGGP</title>
-      <link>https://twitter.com/NatureNV/status/1672465735564533760</link>
-      <description>How cholesterol can make biological surfaces non-stick https://t.co/AAVLmWFGGP</description>
-      <content:encoded>How cholesterol can make biological surfaces non-stick https://t.co/AAVLmWFGGP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1672465735564533760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 04:44:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Annalisa4fun: 🥁 Astrocytes make their new entry in the Ion Channels course with @DullaChris ! @cshlcourses @giraldezT @JanGrundemann @N…</title>
-      <link>https://twitter.com/ranczlab/status/1672470716866764800</link>
-      <description>RT @Annalisa4fun: 🥁 Astrocytes make their new entry in the Ion Channels course with @DullaChris ! @cshlcourses @giraldezT @JanGrundemann @N…</description>
-      <content:encoded>RT @Annalisa4fun: 🥁 Astrocytes make their new entry in the Ion Channels course with @DullaChris ! @cshlcourses @giraldezT @JanGrundemann @N…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ranczlab/status/1672470716866764800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 05:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Today in 1975, a Moon tremour, caused by a strike of Taurid meteors, was detected by the Apollo seismometer network 
-
-[read more: https://t.co/LkDXl9rxCz] https://t.co/8jp5nmfhAB</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672489974699110401</link>
-      <description>#Today in 1975, a Moon tremour, caused by a strike of Taurid meteors, was detected by the Apollo seismometer network 
-
-[read more: https://t.co/LkDXl9rxCz] https://t.co/8jp5nmfhAB</description>
-      <content:encoded>#Today in 1975, a Moon tremour, caused by a strike of Taurid meteors, was detected by the Apollo seismometer network 
-
-[read more: https://t.co/LkDXl9rxCz] https://t.co/8jp5nmfhAB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672489974699110401"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzXgsiCXoAAyNXS.jpg" length="675" type="photo"/>
-      <pubDate>Sat, 24 Jun 2023 06:20:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jun 2023 17:15:43 +0000</lastBuildDate>
     <item>
       <title>This guy’s analysis has always seemed the most comprehensive and balanced I’ve read. https://t.co/eh2wWuVQSF</title>
       <link>https://twitter.com/AndrewHires/status/1672493121408757762</link>
@@ -2027,23 +1964,6 @@ https://t.co/DbGtUHc92F&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Sun, 25 Jun 2023 14:12:16 +0000</pubDate>
     </item>
     <item>
-      <title>Poly-pipe irrigation is extensively used for drip and mini sprinkler system. Made of high-grade virgin polyethylene, these pipes are highly resistant to UV rays, chemicals and fertilizers, used in agriculture
-
-[read more: https://t.co/ZdMnpWAsaL]
-[📹 https://t.co/TnGviBnmgF] https://t.co/HMrImwK1vp</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672973647680532481</link>
-      <description>Poly-pipe irrigation is extensively used for drip and mini sprinkler system. Made of high-grade virgin polyethylene, these pipes are highly resistant to UV rays, chemicals and fertilizers, used in agriculture
-
-[read more: https://t.co/ZdMnpWAsaL]
-[📹 https://t.co/TnGviBnmgF] https://t.co/HMrImwK1vp</description>
-      <content:encoded>Poly-pipe irrigation is extensively used for drip and mini sprinkler system. Made of high-grade virgin polyethylene, these pipes are highly resistant to UV rays, chemicals and fertilizers, used in agriculture
-
-[read more: https://t.co/ZdMnpWAsaL]
-[📹 https://t.co/TnGviBnmgF] https://t.co/HMrImwK1vp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672973647680532481"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672972051932430336/pu/img/UTvIbD8jVB9_l7r1.jpg" length="432" type="photo"/>
-      <pubDate>Sun, 25 Jun 2023 14:22:54 +0000</pubDate>
-    </item>
-    <item>
       <title>The diversity of botanical collections is higher in countries that have formerly held colonizing power and lower in countries that were formerly colonized, but the opposite pattern is seen in natural environments, according to a paper in @NatureHumBehav. https://t.co/6P9k0SWlb1 https://t.co/1IUlSc9rsB</title>
       <link>https://twitter.com/NaturePortfolio/status/1672974196035469312</link>
       <description>The diversity of botanical collections is higher in countries that have formerly held colonizing power and lower in countries that were formerly colonized, but the opposite pattern is seen in natural environments, according to a paper in @NatureHumBehav. https://t.co/6P9k0SWlb1 https://t.co/1IUlSc9rsB</description>
@@ -2225,6 +2145,102 @@ https://t.co/OFwXritCq8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>New Research: DeePay: deep learning decodes EEG to predict consumer’s willingness to pay for neuromarketing: There is an increasing demand within consumer-neuroscience (or neuromarketing) for objective neural measures to quantify consumers’… #Neuroscience https://t.co/PXEle5vQeR</description>
       <content:encoded>New Research: DeePay: deep learning decodes EEG to predict consumer’s willingness to pay for neuromarketing: There is an increasing demand within consumer-neuroscience (or neuromarketing) for objective neural measures to quantify consumers’… #Neuroscience https://t.co/PXEle5vQeR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673003505609740289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 25 Jun 2023 16:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The sequence of effects is totally impressive
+
+#SundayFunday
+[video: https://t.co/kY3K6ov9ND]
+https://t.co/GfgyXROvJH</title>
+      <link>https://twitter.com/Rainmaker1973/status/1673004826605637635</link>
+      <description>The sequence of effects is totally impressive
+
+#SundayFunday
+[video: https://t.co/kY3K6ov9ND]
+https://t.co/GfgyXROvJH</description>
+      <content:encoded>The sequence of effects is totally impressive
+
+#SundayFunday
+[video: https://t.co/kY3K6ov9ND]
+https://t.co/GfgyXROvJH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673004826605637635"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1673004355794903043/pu/img/AWH_z-N3lcPTzqUI.jpg" length="675" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 16:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crops grown without sunlight could help feed astronauts bound for Mars, and someday supplement dinner plates on Earth.
+
+Learn more in this @NewsfromScience feature: https://t.co/RklI8lwDLC https://t.co/VRWDW12XIz</title>
+      <link>https://twitter.com/ScienceMagazine/status/1673005659111997442</link>
+      <description>Crops grown without sunlight could help feed astronauts bound for Mars, and someday supplement dinner plates on Earth.
+
+Learn more in this @NewsfromScience feature: https://t.co/RklI8lwDLC https://t.co/VRWDW12XIz</description>
+      <content:encoded>Crops grown without sunlight could help feed astronauts bound for Mars, and someday supplement dinner plates on Earth.
+
+Learn more in this @NewsfromScience feature: https://t.co/RklI8lwDLC https://t.co/VRWDW12XIz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1673005659111997442"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fze1x96WYAE2viI.jpg" length="923" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 16:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senescent melanocytes of skin nevi—a birthmark or mole—drive hyperactivation of hair growth through the signalling factor SPP1, according to a study in @Nature. https://t.co/5xMrigdR0M https://t.co/ZIrcBuUHy5</title>
+      <link>https://twitter.com/NaturePortfolio/status/1673006408181207040</link>
+      <description>Senescent melanocytes of skin nevi—a birthmark or mole—drive hyperactivation of hair growth through the signalling factor SPP1, according to a study in @Nature. https://t.co/5xMrigdR0M https://t.co/ZIrcBuUHy5</description>
+      <content:encoded>Senescent melanocytes of skin nevi—a birthmark or mole—drive hyperactivation of hair growth through the signalling factor SPP1, according to a study in @Nature. https://t.co/5xMrigdR0M https://t.co/ZIrcBuUHy5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1673006408181207040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fze2cgCXsAI16_S.jpg" length="1000" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 16:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abdominal thrusts, also known as the Heimlich maneuver, is a first aid procedure used to treat upper airway obstructions (or choking) by foreign objects. It was devised by medical researcher Henry Heimlich, who used it for the first time when he was 96
+https://t.co/19Z1HUzB4u</title>
+      <link>https://twitter.com/Rainmaker1973/status/1673009366830657537</link>
+      <description>Abdominal thrusts, also known as the Heimlich maneuver, is a first aid procedure used to treat upper airway obstructions (or choking) by foreign objects. It was devised by medical researcher Henry Heimlich, who used it for the first time when he was 96
+https://t.co/19Z1HUzB4u</description>
+      <content:encoded>Abdominal thrusts, also known as the Heimlich maneuver, is a first aid procedure used to treat upper airway obstructions (or choking) by foreign objects. It was devised by medical researcher Henry Heimlich, who used it for the first time when he was 96
+https://t.co/19Z1HUzB4u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673009366830657537"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1613522993774493697/pu/img/nmBjFd0rV8yoI2-n.jpg" length="480" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 16:44:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>No, it's not Venom.
+
+The marine flatworms (polycladids) are the largest of the free-living flatworms. They feed on tunicates, small, worms, and molluscs. And even crabs
+
+[📹Kurt Cabahug: https://t.co/AQooFc9gi6]
+https://t.co/Q79EI5Tweh</title>
+      <link>https://twitter.com/Rainmaker1973/status/1673013542310539288</link>
+      <description>No, it's not Venom.
+
+The marine flatworms (polycladids) are the largest of the free-living flatworms. They feed on tunicates, small, worms, and molluscs. And even crabs
+
+[📹Kurt Cabahug: https://t.co/AQooFc9gi6]
+https://t.co/Q79EI5Tweh</description>
+      <content:encoded>No, it's not Venom.
+
+The marine flatworms (polycladids) are the largest of the free-living flatworms. They feed on tunicates, small, worms, and molluscs. And even crabs
+
+[📹Kurt Cabahug: https://t.co/AQooFc9gi6]
+https://t.co/Q79EI5Tweh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673013542310539288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1542193237292638209/pu/img/kWscTNFjeCUJM_pW.jpg" length="572" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 17:01:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stotting (also called pronking) is a behavior of quadrupeds in which they spring into the air, lifting all four feet off the ground simultaneously (which resembles a jump for joy)
+
+[read more: https://t.co/9h0MjGwy0r]
+[source: https://t.co/udmW6qk6bO]
+https://t.co/CB0D0b0Ihi</title>
+      <link>https://twitter.com/Rainmaker1973/status/1673016967706431489</link>
+      <description>Stotting (also called pronking) is a behavior of quadrupeds in which they spring into the air, lifting all four feet off the ground simultaneously (which resembles a jump for joy)
+
+[read more: https://t.co/9h0MjGwy0r]
+[source: https://t.co/udmW6qk6bO]
+https://t.co/CB0D0b0Ihi</description>
+      <content:encoded>Stotting (also called pronking) is a behavior of quadrupeds in which they spring into the air, lifting all four feet off the ground simultaneously (which resembles a jump for joy)
+
+[read more: https://t.co/9h0MjGwy0r]
+[source: https://t.co/udmW6qk6bO]
+https://t.co/CB0D0b0Ihi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673016967706431489"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672198307198783489/pu/img/gH_a_9iN66_AVpQI.jpg" length="576" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 17:15:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
