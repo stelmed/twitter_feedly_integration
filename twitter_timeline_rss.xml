@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jun 2023 05:17:39 +0000</lastBuildDate>
-    <item>
-      <title>This postural control is pretty remarkable! (full speed) https://t.co/Ys8vx2sScr</title>
-      <link>https://twitter.com/PessoaBrain/status/1672316686635266054</link>
-      <description>This postural control is pretty remarkable! (full speed) https://t.co/Ys8vx2sScr</description>
-      <content:encoded>This postural control is pretty remarkable! (full speed) https://t.co/Ys8vx2sScr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1672316686635266054"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 23 Jun 2023 18:52:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jun 2023 06:23:04 +0000</lastBuildDate>
     <item>
       <title>Said my final "I love you" to my father.
 
@@ -2027,6 +2020,20 @@ To compare the effects of remimazolam and dexmedetomidine on… #ageing #neurosc
       <content:encoded>Here we go again https://t.co/7K9UW9LbJz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1672795483712913410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fzb2nUBWcAA1VpC.jpg" length="680" type="photo"/>
       <pubDate>Sun, 25 Jun 2023 02:34:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Born #Today in 1894, Hermann Oberth, was physicist, engineer and he's universally recognized as one of the founding fathers of rocketry and astronautics 
+
+[read more: https://t.co/aMFmnarguP] https://t.co/d0cMssiwPS</title>
+      <link>https://twitter.com/Rainmaker1973/status/1672852598200627200</link>
+      <description>Born #Today in 1894, Hermann Oberth, was physicist, engineer and he's universally recognized as one of the founding fathers of rocketry and astronautics 
+
+[read more: https://t.co/aMFmnarguP] https://t.co/d0cMssiwPS</description>
+      <content:encoded>Born #Today in 1894, Hermann Oberth, was physicist, engineer and he's universally recognized as one of the founding fathers of rocketry and astronautics 
+
+[read more: https://t.co/aMFmnarguP] https://t.co/d0cMssiwPS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672852598200627200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fzcqc43XoAAugdc.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 25 Jun 2023 06:21:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
