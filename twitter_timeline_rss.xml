@@ -6,20 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jun 2023 04:22:50 +0000</lastBuildDate>
-    <item>
-      <title>Anyone else just got a T2 account today? I am seeing quite a few people pop up in my feed there that seemingly just joined. 
-
-... must admit, I kind'a forgot I applied for an account.</title>
-      <link>https://twitter.com/MattNeuro/status/1672574007185403906</link>
-      <description>Anyone else just got a T2 account today? I am seeing quite a few people pop up in my feed there that seemingly just joined. 
-
-... must admit, I kind'a forgot I applied for an account.</description>
-      <content:encoded>Anyone else just got a T2 account today? I am seeing quite a few people pop up in my feed there that seemingly just joined. 
-
-... must admit, I kind'a forgot I applied for an account.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1672574007185403906"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 11:54:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jun 2023 05:18:27 +0000</lastBuildDate>
     <item>
       <title>The thing that bugs me most about the social media platform chaos, is there are so many new platforms and I have no idea which one will become dominant. And I guess because many others are also waiting to see, nothing really moves.
 
@@ -2170,6 +2157,14 @@ It learns to solve new tasks on different robotic…</description>
 
 It learns to solve new tasks on different robotic…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/demishassabis/status/1673180073225068544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 26 Jun 2023 04:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Understanding the impact of generative #AI … requires new interdisciplinary scientific inquiry into culture, economics, law, algorithms, and the interaction of technology and creativity,” argues a new #SciencePerspective. https://t.co/ot2LTPTGhj https://t.co/uFwYk7aTii</title>
+      <link>https://twitter.com/ScienceMagazine/status/1673186850503000064</link>
+      <description>“Understanding the impact of generative #AI … requires new interdisciplinary scientific inquiry into culture, economics, law, algorithms, and the interaction of technology and creativity,” argues a new #SciencePerspective. https://t.co/ot2LTPTGhj https://t.co/uFwYk7aTii</description>
+      <content:encoded>“Understanding the impact of generative #AI … requires new interdisciplinary scientific inquiry into culture, economics, law, algorithms, and the interaction of technology and creativity,” argues a new #SciencePerspective. https://t.co/ot2LTPTGhj https://t.co/uFwYk7aTii&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1673186850503000064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fzhaks8XwAIJDhE.jpg" length="750" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 04:30:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
