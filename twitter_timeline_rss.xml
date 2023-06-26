@@ -6,90 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jun 2023 11:15:26 +0000</lastBuildDate>
-    <item>
-      <title>RT @davidchalmers42: https://t.co/mTPAyIz5GQ</title>
-      <link>https://twitter.com/ylecun/status/1672637936754409475</link>
-      <description>RT @davidchalmers42: https://t.co/mTPAyIz5GQ</description>
-      <content:encoded>RT @davidchalmers42: https://t.co/mTPAyIz5GQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1672637936754409475"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 16:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @yoginho: @PessoaBrain @R3RT0 @AleAliSousa @CommsBio The definitive treatment of the structure-function problem in neuroscience can be f…</title>
-      <link>https://twitter.com/PessoaBrain/status/1672639123893506048</link>
-      <description>RT @yoginho: @PessoaBrain @R3RT0 @AleAliSousa @CommsBio The definitive treatment of the structure-function problem in neuroscience can be f…</description>
-      <content:encoded>RT @yoginho: @PessoaBrain @R3RT0 @AleAliSousa @CommsBio The definitive treatment of the structure-function problem in neuroscience can be f…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1672639123893506048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 16:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Giant octopus trying to get back to water for your Saturday... https://t.co/iYC6e7aaTy</title>
-      <link>https://twitter.com/PessoaBrain/status/1672640806006452226</link>
-      <description>Giant octopus trying to get back to water for your Saturday... https://t.co/iYC6e7aaTy</description>
-      <content:encoded>Giant octopus trying to get back to water for your Saturday... https://t.co/iYC6e7aaTy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1672640806006452226"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 16:20:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Multi-robot cooperative autonomous exploration via task allocation in terrestrial environments: Cooperative autonomous exploration is a challenging task for multi-robot systems, which can cover larger areas in a shorter time… #Neurorobotics https://t.co/QctrJdlgzd</title>
-      <link>https://twitter.com/FrontNeurosci/status/1672641244051431426</link>
-      <description>New Research: Multi-robot cooperative autonomous exploration via task allocation in terrestrial environments: Cooperative autonomous exploration is a challenging task for multi-robot systems, which can cover larger areas in a shorter time… #Neurorobotics https://t.co/QctrJdlgzd</description>
-      <content:encoded>New Research: Multi-robot cooperative autonomous exploration via task allocation in terrestrial environments: Cooperative autonomous exploration is a challenging task for multi-robot systems, which can cover larger areas in a shorter time… #Neurorobotics https://t.co/QctrJdlgzd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1672641244051431426"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 16:22:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interesting Spaces about Wagner revolt
-https://t.co/7B9WhNU4k5</title>
-      <link>https://twitter.com/elonmusk/status/1672642200893521920</link>
-      <description>Interesting Spaces about Wagner revolt
-https://t.co/7B9WhNU4k5</description>
-      <content:encoded>Interesting Spaces about Wagner revolt
-https://t.co/7B9WhNU4k5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1672642200893521920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 16:25:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Absurd statements … are a trap for scientists." 
-
-Scientists shouldn’t debate gaslighters, argues @hholdenthorp in a new Editor's Blog post. https://t.co/jnSIrIYRgE https://t.co/oj41fT8cKv</title>
-      <link>https://twitter.com/ScienceMagazine/status/1672643269753294851</link>
-      <description>"Absurd statements … are a trap for scientists." 
-
-Scientists shouldn’t debate gaslighters, argues @hholdenthorp in a new Editor's Blog post. https://t.co/jnSIrIYRgE https://t.co/oj41fT8cKv</description>
-      <content:encoded>"Absurd statements … are a trap for scientists." 
-
-Scientists shouldn’t debate gaslighters, argues @hholdenthorp in a new Editor's Blog post. https://t.co/jnSIrIYRgE https://t.co/oj41fT8cKv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1672643269753294851"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzZsMFQXwAEdoZ2.jpg" length="750" type="photo"/>
-      <pubDate>Sat, 24 Jun 2023 16:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>There are limitations on the ability to anticipate abrupt ecosystem changes due to climate and human activities. A study in @naturesustainab simulating ecosystems with a range of anthropogenic interactions show how much earlier abrupt change can happen. https://t.co/UopAOKPlAx https://t.co/QmhZB3QwyC</title>
-      <link>https://twitter.com/NaturePortfolio/status/1672644021162835969</link>
-      <description>There are limitations on the ability to anticipate abrupt ecosystem changes due to climate and human activities. A study in @naturesustainab simulating ecosystems with a range of anthropogenic interactions show how much earlier abrupt change can happen. https://t.co/UopAOKPlAx https://t.co/QmhZB3QwyC</description>
-      <content:encoded>There are limitations on the ability to anticipate abrupt ecosystem changes due to climate and human activities. A study in @naturesustainab simulating ecosystems with a range of anthropogenic interactions show how much earlier abrupt change can happen. https://t.co/UopAOKPlAx https://t.co/QmhZB3QwyC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1672644021162835969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzZs2yZXwAIc7aS.jpg" length="1066" type="photo"/>
-      <pubDate>Sat, 24 Jun 2023 16:33:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deep brain stimulation uses implanted electrodes &amp;amp; electrical stimulation to treat movement disorders associated with Parkinson’s disease. 
-
-This clip shows a retired Royal Marine's experience: https://t.co/zKM2OxvJDt
-
-[read more: https://t.co/p5o1Ep16P3]
-https://t.co/6pmLqdA3EV</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672646928557916162</link>
-      <description>Deep brain stimulation uses implanted electrodes &amp;amp; electrical stimulation to treat movement disorders associated with Parkinson’s disease. 
-
-This clip shows a retired Royal Marine's experience: https://t.co/zKM2OxvJDt
-
-[read more: https://t.co/p5o1Ep16P3]
-https://t.co/6pmLqdA3EV</description>
-      <content:encoded>Deep brain stimulation uses implanted electrodes &amp;amp; electrical stimulation to treat movement disorders associated with Parkinson’s disease. 
-
-This clip shows a retired Royal Marine's experience: https://t.co/zKM2OxvJDt
-
-[read more: https://t.co/p5o1Ep16P3]
-https://t.co/6pmLqdA3EV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672646928557916162"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1050785775833546752/pu/img/BqJNG9qLhu9gK7ak.jpg" length="640" type="photo"/>
-      <pubDate>Sat, 24 Jun 2023 16:44:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jun 2023 12:36:52 +0000</lastBuildDate>
     <item>
       <title>Yusuke Oono's 3D 360° pop up books combine art and geometry to produce elegant objects
 
@@ -2153,13 +2070,6 @@ https://t.co/E1xsPt5RPO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Mon, 26 Jun 2023 09:31:32 +0000</pubDate>
     </item>
     <item>
-      <title>RT @zeitonline: #Patrick Cramer wird neuer Präsident der #Max-Planck-Gesellschaft. Auf ihn warten viele Herausforderungen. Unter anderem di…</title>
-      <link>https://twitter.com/maxplanckpress/status/1673266309981765639</link>
-      <description>RT @zeitonline: #Patrick Cramer wird neuer Präsident der #Max-Planck-Gesellschaft. Auf ihn warten viele Herausforderungen. Unter anderem di…</description>
-      <content:encoded>RT @zeitonline: #Patrick Cramer wird neuer Präsident der #Max-Planck-Gesellschaft. Auf ihn warten viele Herausforderungen. Unter anderem di…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1673266309981765639"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 09:45:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Discover how student competitions can shape your career! #SDV #SoftwareDefinedVehicle
 
 Read Frank Chude Qian's interview, from SAE AutoDrive Challenge to SDV Software Simulation Developer at General Motors 👉 https://t.co/bSYYnC7KFf https://t.co/dKuYT0jaoE</title>
@@ -2234,6 +2144,143 @@ https://t.co/Qn3Q5Xq1Yo https://t.co/42OAhJvRUB https://t.co/BY4OHkw6Ev</descrip
 https://t.co/Qn3Q5Xq1Yo https://t.co/42OAhJvRUB https://t.co/BY4OHkw6Ev&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1673288519421231109"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fzi2_YGWwAIhJ50.jpg" length="1123" type="photo"/>
       <pubDate>Mon, 26 Jun 2023 11:14:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nervceller som kan kopplas till långvarig stress identifierade av forskare på @karolinskainst 
+#Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 #stress #neurovetenskap #svmed @CarlenLab @meletislab https://t.co/3EmOOSPfnJ</title>
+      <link>https://twitter.com/KAWstiftelsen/status/1673289265696964608</link>
+      <description>Nervceller som kan kopplas till långvarig stress identifierade av forskare på @karolinskainst 
+#Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 #stress #neurovetenskap #svmed @CarlenLab @meletislab https://t.co/3EmOOSPfnJ</description>
+      <content:encoded>Nervceller som kan kopplas till långvarig stress identifierade av forskare på @karolinskainst 
+#Forskning med stöd av Knut och Alice Wallenbergs Stiftelse #KAW100 #stress #neurovetenskap #svmed @CarlenLab @meletislab https://t.co/3EmOOSPfnJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KAWstiftelsen/status/1673289265696964608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 11:17:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pulse's Optimus Prime is an auto-converting, interactive, programmable, voice activated, mobile controlled robot 
+
+[read more: https://t.co/lcRO2FZTFB]
+https://t.co/znAWTE8hBN</title>
+      <link>https://twitter.com/Rainmaker1973/status/1673291008807690240</link>
+      <description>Pulse's Optimus Prime is an auto-converting, interactive, programmable, voice activated, mobile controlled robot 
+
+[read more: https://t.co/lcRO2FZTFB]
+https://t.co/znAWTE8hBN</description>
+      <content:encoded>Pulse's Optimus Prime is an auto-converting, interactive, programmable, voice activated, mobile controlled robot 
+
+[read more: https://t.co/lcRO2FZTFB]
+https://t.co/znAWTE8hBN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673291008807690240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1552154350801281025/pu/img/ufOssJYZeinORqVl.jpg" length="460" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 11:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Credible Sport was a United States military aircraft modification plan in late 1980 to prepare for a second rescue attempt of the hostages held in Iran using C-130 cargo planes modified with rocket engines to land them in a stadium 
+
+[video: https://t.co/iK40U2ctiA] https://t.co/CyhAUuE4av</title>
+      <link>https://twitter.com/Rainmaker1973/status/1673295183977361409</link>
+      <description>Operation Credible Sport was a United States military aircraft modification plan in late 1980 to prepare for a second rescue attempt of the hostages held in Iran using C-130 cargo planes modified with rocket engines to land them in a stadium 
+
+[video: https://t.co/iK40U2ctiA] https://t.co/CyhAUuE4av</description>
+      <content:encoded>Operation Credible Sport was a United States military aircraft modification plan in late 1980 to prepare for a second rescue attempt of the hostages held in Iran using C-130 cargo planes modified with rocket engines to land them in a stadium 
+
+[video: https://t.co/iK40U2ctiA] https://t.co/CyhAUuE4av&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673295183977361409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1673295102385463296/pu/img/r1BbKrO6U4psrYNK.jpg" length="960" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 11:40:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Per- and polyfluoroalkyl substances, PFAS, are not completely degraded in waste incineration and can be found in ashes, process water and flue gases. This is shown in a new study by researchers at the Department of Chemistry, Umeå University. https://t.co/Dteqx9ECUH</title>
+      <link>https://twitter.com/umeauniversity/status/1673300162049892356</link>
+      <description>Per- and polyfluoroalkyl substances, PFAS, are not completely degraded in waste incineration and can be found in ashes, process water and flue gases. This is shown in a new study by researchers at the Department of Chemistry, Umeå University. https://t.co/Dteqx9ECUH</description>
+      <content:encoded>Per- and polyfluoroalkyl substances, PFAS, are not completely degraded in waste incineration and can be found in ashes, process water and flue gases. This is shown in a new study by researchers at the Department of Chemistry, Umeå University. https://t.co/Dteqx9ECUH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/umeauniversity/status/1673300162049892356"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 12:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>How a stone fish uses its venom
+
+[📹 Perry Kathryn: https://t.co/L8vibARhOy]
+https://t.co/LOSB7RLXji</title>
+      <link>https://twitter.com/Rainmaker1973/status/1673300755741065217</link>
+      <description>How a stone fish uses its venom
+
+[📹 Perry Kathryn: https://t.co/L8vibARhOy]
+https://t.co/LOSB7RLXji</description>
+      <content:encoded>How a stone fish uses its venom
+
+[📹 Perry Kathryn: https://t.co/L8vibARhOy]
+https://t.co/LOSB7RLXji&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673300755741065217"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1672967202797150208/pu/img/4J4-953UE3IAQHOL.jpg" length="456" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 12:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Personalised or precision medicine is the healthcare of the future,” says KI President Annika Östman Wernerson as the government-led conference Life Science - The Era of Personalized Medicine kicks off at KI. #EU2023SE #lifesciences
+
+➡️https://t.co/9cNjksVrdE https://t.co/RjOyVkQizl</title>
+      <link>https://twitter.com/karolinskainst/status/1673303456038232065</link>
+      <description>“Personalised or precision medicine is the healthcare of the future,” says KI President Annika Östman Wernerson as the government-led conference Life Science - The Era of Personalized Medicine kicks off at KI. #EU2023SE #lifesciences
+
+➡️https://t.co/9cNjksVrdE https://t.co/RjOyVkQizl</description>
+      <content:encoded>“Personalised or precision medicine is the healthcare of the future,” says KI President Annika Östman Wernerson as the government-led conference Life Science - The Era of Personalized Medicine kicks off at KI. #EU2023SE #lifesciences
+
+➡️https://t.co/9cNjksVrdE https://t.co/RjOyVkQizl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/karolinskainst/status/1673303456038232065"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzjDD1ZXoAEBPTE.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 12:13:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 parent-child pairs have been awarded a Nobel Prize:
+
+1️⃣ Marie Curie (physics 1903, chemistry 1911); Pierre Curie (physics 1903) and Irène Curie (chemistry 1935)
+2️⃣ William Bragg (physics 1915) and Lawrence Bragg (physics 1915)
+3️⃣ Niels Bohr (physics 1922) and Aage N. Bohr… https://t.co/YhO7eSkEQM https://t.co/x9NCg0uQ1V</title>
+      <link>https://twitter.com/fermatslibrary/status/1673303562653163522</link>
+      <description>7 parent-child pairs have been awarded a Nobel Prize:
+
+1️⃣ Marie Curie (physics 1903, chemistry 1911); Pierre Curie (physics 1903) and Irène Curie (chemistry 1935)
+2️⃣ William Bragg (physics 1915) and Lawrence Bragg (physics 1915)
+3️⃣ Niels Bohr (physics 1922) and Aage N. Bohr… https://t.co/YhO7eSkEQM https://t.co/x9NCg0uQ1V</description>
+      <content:encoded>7 parent-child pairs have been awarded a Nobel Prize:
+
+1️⃣ Marie Curie (physics 1903, chemistry 1911); Pierre Curie (physics 1903) and Irène Curie (chemistry 1935)
+2️⃣ William Bragg (physics 1915) and Lawrence Bragg (physics 1915)
+3️⃣ Niels Bohr (physics 1922) and Aage N. Bohr… https://t.co/YhO7eSkEQM https://t.co/x9NCg0uQ1V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1673303562653163522"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzjEk4cXgAEmucX.jpg" length="820" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 12:13:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @UniofExeterESI: ⭐️New publication in @Trends_Ecol_Evo⭐️ Combined #LightPollution and night warming as a novel threat to #ecosystems.
+ht…</title>
+      <link>https://twitter.com/CurrentBiology/status/1673303605993160706</link>
+      <description>RT @UniofExeterESI: ⭐️New publication in @Trends_Ecol_Evo⭐️ Combined #LightPollution and night warming as a novel threat to #ecosystems.
+ht…</description>
+      <content:encoded>RT @UniofExeterESI: ⭐️New publication in @Trends_Ecol_Evo⭐️ Combined #LightPollution and night warming as a novel threat to #ecosystems.
+ht…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CurrentBiology/status/1673303605993160706"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 12:14:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>I have, unfortunately, discovered the self-locking cabinet. https://t.co/RvR7fbiYpw</title>
+      <link>https://twitter.com/MattNeuro/status/1673306192045539330</link>
+      <description>I have, unfortunately, discovered the self-locking cabinet. https://t.co/RvR7fbiYpw</description>
+      <content:encoded>I have, unfortunately, discovered the self-locking cabinet. https://t.co/RvR7fbiYpw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1673306192045539330"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1673306150882750464/pu/img/hjgukpO74GxSwUSA.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 12:24:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Great opportunity for a professorship in Tübingen!
+
+Check out our job pool for this and more open positions➡️ https://t.co/Guv3V7yRRx https://t.co/aHcsjaT0v3</title>
+      <link>https://twitter.com/BernsteinNeuro/status/1673306335033565184</link>
+      <description>Great opportunity for a professorship in Tübingen!
+
+Check out our job pool for this and more open positions➡️ https://t.co/Guv3V7yRRx https://t.co/aHcsjaT0v3</description>
+      <content:encoded>Great opportunity for a professorship in Tübingen!
+
+Check out our job pool for this and more open positions➡️ https://t.co/Guv3V7yRRx https://t.co/aHcsjaT0v3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1673306335033565184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 12:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thank you Henry Markram. Bs statements facilitate bs public opinion. We will need animal research for a long time. People should never feed the perception that this is ending soon.😡 https://t.co/z0x8YaqhQe</title>
+      <link>https://twitter.com/KordingLab/status/1673307005925093378</link>
+      <description>Thank you Henry Markram. Bs statements facilitate bs public opinion. We will need animal research for a long time. People should never feed the perception that this is ending soon.😡 https://t.co/z0x8YaqhQe</description>
+      <content:encoded>Thank you Henry Markram. Bs statements facilitate bs public opinion. We will need animal research for a long time. People should never feed the perception that this is ending soon.😡 https://t.co/z0x8YaqhQe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1673307005925093378"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 12:27:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
