@@ -6,30 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jun 2023 03:05:33 +0000</lastBuildDate>
-    <item>
-      <title>This video by Matt Poole shows his conservation work helping to get baby burrowing owls into “housing”
-
-They nest underground but in cases where environmental factors prevent this, artificial burrows can help
-
-[source, read more: https://t.co/TtZisQd9k0]
-https://t.co/Z0nQipSnYb</title>
-      <link>https://twitter.com/Rainmaker1973/status/1672571511218077696</link>
-      <description>This video by Matt Poole shows his conservation work helping to get baby burrowing owls into “housing”
-
-They nest underground but in cases where environmental factors prevent this, artificial burrows can help
-
-[source, read more: https://t.co/TtZisQd9k0]
-https://t.co/Z0nQipSnYb</description>
-      <content:encoded>This video by Matt Poole shows his conservation work helping to get baby burrowing owls into “housing”
-
-They nest underground but in cases where environmental factors prevent this, artificial burrows can help
-
-[source, read more: https://t.co/TtZisQd9k0]
-https://t.co/Z0nQipSnYb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1672571511218077696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1632877513952329729/pu/img/b4d9dQvLSWuADCgp.jpg" length="720" type="photo"/>
-      <pubDate>Sat, 24 Jun 2023 11:44:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jun 2023 04:22:50 +0000</lastBuildDate>
     <item>
       <title>Anyone else just got a T2 account today? I am seeing quite a few people pop up in my feed there that seemingly just joined. 
 
@@ -2180,6 +2157,19 @@ Poster Sat @IniaStress and Weds (#064) - "Leveraging Whole…&lt;blockquote clas
       <description>RT @pbeyssac: Si on parlait de l'impact énergétique du repassage comparé à la vidéo HD ? Ici un fer vapeur ; typiquement ce genre d'apparei…</description>
       <content:encoded>RT @pbeyssac: Si on parlait de l'impact énergétique du repassage comparé à la vidéo HD ? Ici un fer vapeur ; typiquement ce genre d'apparei…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673155552577310720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 26 Jun 2023 02:25:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DeepMind: Introducing RoboCat, a new AI model designed to operate multiple robots. 🤖
+
+It learns to solve new tasks on different robotic…</title>
+      <link>https://twitter.com/demishassabis/status/1673180073225068544</link>
+      <description>RT @DeepMind: Introducing RoboCat, a new AI model designed to operate multiple robots. 🤖
+
+It learns to solve new tasks on different robotic…</description>
+      <content:encoded>RT @DeepMind: Introducing RoboCat, a new AI model designed to operate multiple robots. 🤖
+
+It learns to solve new tasks on different robotic…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/demishassabis/status/1673180073225068544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 04:03:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
