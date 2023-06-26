@@ -6,27 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jun 2023 01:52:14 +0000</lastBuildDate>
-    <item>
-      <title>RT @MBFBioscience: Looking for something to watch this weekend?
-
-Browse our YouTube channel for engaging webinars, helpful product demos, a…</title>
-      <link>https://twitter.com/INCForg/status/1672570688735965184</link>
-      <description>RT @MBFBioscience: Looking for something to watch this weekend?
-
-Browse our YouTube channel for engaging webinars, helpful product demos, a…</description>
-      <content:encoded>RT @MBFBioscience: Looking for something to watch this weekend?
-
-Browse our YouTube channel for engaging webinars, helpful product demos, a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1672570688735965184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 11:41:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>#OpenScience #neuroinformatics https://t.co/zn656cRRso</title>
-      <link>https://twitter.com/INCForg/status/1672570908710514689</link>
-      <description>#OpenScience #neuroinformatics https://t.co/zn656cRRso</description>
-      <content:encoded>#OpenScience #neuroinformatics https://t.co/zn656cRRso&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1672570908710514689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 24 Jun 2023 11:42:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jun 2023 03:05:33 +0000</lastBuildDate>
     <item>
       <title>This video by Matt Poole shows his conservation work helping to get baby burrowing owls into “housing”
 
@@ -2186,6 +2166,20 @@ Poster Sat @IniaStress and Weds (#064) - "Leveraging Whole…&lt;blockquote clas
       <description>RT @CC_Lapish: Please check out our most recent work on alcohol consumption in head-fixed mice. This is the brain child of @NicholasTimme w…</description>
       <content:encoded>RT @CC_Lapish: Please check out our most recent work on alcohol consumption in head-fixed mice. This is the brain child of @NicholasTimme w…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1673139300337319937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 26 Jun 2023 01:21:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: A touch-free human-robot collaborative surgical navigation robotic system based on hand gesture recognition: Robot-assisted minimally invasive surgery (RAMIS) has gained significant traction in clinical practice in recent… #Neuroscience https://t.co/MSC91kGxGa</title>
+      <link>https://twitter.com/FrontNeurosci/status/1673150985060126720</link>
+      <description>New Research: A touch-free human-robot collaborative surgical navigation robotic system based on hand gesture recognition: Robot-assisted minimally invasive surgery (RAMIS) has gained significant traction in clinical practice in recent… #Neuroscience https://t.co/MSC91kGxGa</description>
+      <content:encoded>New Research: A touch-free human-robot collaborative surgical navigation robotic system based on hand gesture recognition: Robot-assisted minimally invasive surgery (RAMIS) has gained significant traction in clinical practice in recent… #Neuroscience https://t.co/MSC91kGxGa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673150985060126720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 02:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @pbeyssac: Si on parlait de l'impact énergétique du repassage comparé à la vidéo HD ? Ici un fer vapeur ; typiquement ce genre d'apparei…</title>
+      <link>https://twitter.com/ylecun/status/1673155552577310720</link>
+      <description>RT @pbeyssac: Si on parlait de l'impact énergétique du repassage comparé à la vidéo HD ? Ici un fer vapeur ; typiquement ce genre d'apparei…</description>
+      <content:encoded>RT @pbeyssac: Si on parlait de l'impact énergétique du repassage comparé à la vidéo HD ? Ici un fer vapeur ; typiquement ce genre d'apparei…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673155552577310720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 02:25:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
