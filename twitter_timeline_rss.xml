@@ -6,135 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jun 2023 22:17:07 +0000</lastBuildDate>
-    <item>
-      <title>This is how confusing perspective mess with your mind. 
-
-First you see a colony of very busy insects and then...
-https://t.co/U97fAKimnP</title>
-      <link>https://twitter.com/Rainmaker1973/status/1673052019374817281</link>
-      <description>This is how confusing perspective mess with your mind. 
-
-First you see a colony of very busy insects and then...
-https://t.co/U97fAKimnP</description>
-      <content:encoded>This is how confusing perspective mess with your mind. 
-
-First you see a colony of very busy insects and then...
-https://t.co/U97fAKimnP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673052019374817281"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1154267492380041216/pu/img/o8UvJsaejpErpLhv.jpg" length="608" type="photo"/>
-      <pubDate>Sun, 25 Jun 2023 19:34:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Komodo dragon is the largest extant species of lizard &amp;amp; can eat up to 80% of its body weight in one meal
-
-While it mostly eats carrion, the view of a deer that gets swallowed in one bite is truly impressive
-
-[📹 Freezone: https://t.co/jNrMqiSOoW]
-https://t.co/Q7L3kUtJHb</title>
-      <link>https://twitter.com/Rainmaker1973/status/1673056191621021696</link>
-      <description>The Komodo dragon is the largest extant species of lizard &amp;amp; can eat up to 80% of its body weight in one meal
-
-While it mostly eats carrion, the view of a deer that gets swallowed in one bite is truly impressive
-
-[📹 Freezone: https://t.co/jNrMqiSOoW]
-https://t.co/Q7L3kUtJHb</description>
-      <content:encoded>The Komodo dragon is the largest extant species of lizard &amp;amp; can eat up to 80% of its body weight in one meal
-
-While it mostly eats carrion, the view of a deer that gets swallowed in one bite is truly impressive
-
-[📹 Freezone: https://t.co/jNrMqiSOoW]
-https://t.co/Q7L3kUtJHb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673056191621021696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1555255462290808833/pu/img/j-BeW0rgtz8pKIs3.jpg" length="828" type="photo"/>
-      <pubDate>Sun, 25 Jun 2023 19:50:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hey all!  I teach a large class about life skills and recently found out that some of the TED talks we use are by professors associated with scientific fraud including @danariely , @francescagino and @BrianWansink.  Should I  drop their material? Or use it as a teaching moment?</title>
-      <link>https://twitter.com/DavidAMcCormick/status/1673064803475296256</link>
-      <description>Hey all!  I teach a large class about life skills and recently found out that some of the TED talks we use are by professors associated with scientific fraud including @danariely , @francescagino and @BrianWansink.  Should I  drop their material? Or use it as a teaching moment?</description>
-      <content:encoded>Hey all!  I teach a large class about life skills and recently found out that some of the TED talks we use are by professors associated with scientific fraud including @danariely , @francescagino and @BrianWansink.  Should I  drop their material? Or use it as a teaching moment?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DavidAMcCormick/status/1673064803475296256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 25 Jun 2023 20:25:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>A paper in Nature Astronomy presents evidence for dynamical interactions in the very dense regions in the core of galaxies causing two compact objects, such as neutron stars and black holes, to merge, leading to a gamma-ray burst. 🔒 https://t.co/zVCH7Z5XzU https://t.co/hLGhG1yer7</title>
-      <link>https://twitter.com/NaturePortfolio/status/1673071084294348801</link>
-      <description>A paper in Nature Astronomy presents evidence for dynamical interactions in the very dense regions in the core of galaxies causing two compact objects, such as neutron stars and black holes, to merge, leading to a gamma-ray burst. 🔒 https://t.co/zVCH7Z5XzU https://t.co/hLGhG1yer7</description>
-      <content:encoded>A paper in Nature Astronomy presents evidence for dynamical interactions in the very dense regions in the core of galaxies causing two compact objects, such as neutron stars and black holes, to merge, leading to a gamma-ray burst. 🔒 https://t.co/zVCH7Z5XzU https://t.co/hLGhG1yer7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1673071084294348801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzfxRJcWAAAwp3p.jpg" length="1000" type="photo"/>
-      <pubDate>Sun, 25 Jun 2023 20:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kicking a robotic hand into action by powering it with your EMG signals is one thing. But how about teaching a #TinyML model to classify your finger gestures? 
-Throwback to our 2021 fellow's project! 👇👇
-https://t.co/raC7o54AiJ
-Read more in his blogs 👇👇
-https://t.co/7gAcAHxtvM https://t.co/jlSr1JwqxQ</title>
-      <link>https://twitter.com/BackyardBrains/status/1673073076098023425</link>
-      <description>Kicking a robotic hand into action by powering it with your EMG signals is one thing. But how about teaching a #TinyML model to classify your finger gestures? 
-Throwback to our 2021 fellow's project! 👇👇
-https://t.co/raC7o54AiJ
-Read more in his blogs 👇👇
-https://t.co/7gAcAHxtvM https://t.co/jlSr1JwqxQ</description>
-      <content:encoded>Kicking a robotic hand into action by powering it with your EMG signals is one thing. But how about teaching a #TinyML model to classify your finger gestures? 
-Throwback to our 2021 fellow's project! 👇👇
-https://t.co/raC7o54AiJ
-Read more in his blogs 👇👇
-https://t.co/7gAcAHxtvM https://t.co/jlSr1JwqxQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BackyardBrains/status/1673073076098023425"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzenvNAWAAEND4f.jpg" length="600" type="photo"/>
-      <pubDate>Sun, 25 Jun 2023 20:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @amjjbonvin: We have expanded our #Deeprank software for analysing protein-protein interactions to include embeddings from the ESM2 lang…</title>
-      <link>https://twitter.com/sofroniewn/status/1673081815605854208</link>
-      <description>RT @amjjbonvin: We have expanded our #Deeprank software for analysing protein-protein interactions to include embeddings from the ESM2 lang…</description>
-      <content:encoded>RT @amjjbonvin: We have expanded our #Deeprank software for analysing protein-protein interactions to include embeddings from the ESM2 lang…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1673081815605854208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 25 Jun 2023 21:32:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>On this day in 2020, we launched Seattle Alzheimer’s Disease Brain Cell Atlas (SEA-AD) consortium with @UWMedicine and @KPWaResearch.
-
-Read the original announcement: https://t.co/a3qEC2LGSH
-
- #Allen20 #EndAlz https://t.co/9VTXNCs7YU</title>
-      <link>https://twitter.com/AllenInstitute/status/1673094467157467137</link>
-      <description>On this day in 2020, we launched Seattle Alzheimer’s Disease Brain Cell Atlas (SEA-AD) consortium with @UWMedicine and @KPWaResearch.
-
-Read the original announcement: https://t.co/a3qEC2LGSH
-
- #Allen20 #EndAlz https://t.co/9VTXNCs7YU</description>
-      <content:encoded>On this day in 2020, we launched Seattle Alzheimer’s Disease Brain Cell Atlas (SEA-AD) consortium with @UWMedicine and @KPWaResearch.
-
-Read the original announcement: https://t.co/a3qEC2LGSH
-
- #Allen20 #EndAlz https://t.co/9VTXNCs7YU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1673094467157467137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/EbT6pf1U4AAu6BI.jpg" length="1200" type="photo"/>
-      <pubDate>Sun, 25 Jun 2023 22:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Partially brain effects of injection of human umbilical cord mesenchymal stem cells at injury sites in a mouse model of thoracic spinal cord contusion: Purpose
-
-The pain caused by spinal cord injury (SCI) poses a… #Molecular #Neuroscience https://t.co/W9GFkHDYdm</title>
-      <link>https://twitter.com/FrontNeurosci/status/1673099275088035844</link>
-      <description>New Research: Partially brain effects of injection of human umbilical cord mesenchymal stem cells at injury sites in a mouse model of thoracic spinal cord contusion: Purpose
-
-The pain caused by spinal cord injury (SCI) poses a… #Molecular #Neuroscience https://t.co/W9GFkHDYdm</description>
-      <content:encoded>New Research: Partially brain effects of injection of human umbilical cord mesenchymal stem cells at injury sites in a mouse model of thoracic spinal cord contusion: Purpose
-
-The pain caused by spinal cord injury (SCI) poses a… #Molecular #Neuroscience https://t.co/W9GFkHDYdm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673099275088035844"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 25 Jun 2023 22:42:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 39 sqm / 420sqft appartement above the one I'm renting is currently on the market for $450k. It's half an hour outside the city center, and again, barely a studio.
-
-The housing market is completely bonkers. https://t.co/fRv11Wqzei</title>
-      <link>https://twitter.com/MattNeuro/status/1673100091798765574</link>
-      <description>The 39 sqm / 420sqft appartement above the one I'm renting is currently on the market for $450k. It's half an hour outside the city center, and again, barely a studio.
-
-The housing market is completely bonkers. https://t.co/fRv11Wqzei</description>
-      <content:encoded>The 39 sqm / 420sqft appartement above the one I'm renting is currently on the market for $450k. It's half an hour outside the city center, and again, barely a studio.
-
-The housing market is completely bonkers. https://t.co/fRv11Wqzei&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1673100091798765574"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 25 Jun 2023 22:45:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jun 2023 23:18:37 +0000</lastBuildDate>
     <item>
       <title>Uncovering a role for B cells in antitumour immunity https://t.co/WmYINMETnt</title>
       <link>https://twitter.com/NatureNV/status/1673103944799645698</link>
@@ -2100,6 +1972,19 @@ MRI-like machines play a crucial role fo…&lt;blockquote class="twitter-tweet"&
       <pubDate>Mon, 26 Jun 2023 20:38:44 +0000</pubDate>
     </item>
     <item>
+      <title>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
+
+But only after we talked about why he loves to visit here, and how you…</title>
+      <link>https://twitter.com/BillGates/status/1673430850707546112</link>
+      <description>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
+
+But only after we talked about why he loves to visit here, and how you…</description>
+      <content:encoded>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
+
+But only after we talked about why he loves to visit here, and how you…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1673430850707546112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 20:39:40 +0000</pubDate>
+    </item>
+    <item>
       <title>RT @elvisha9: Had an amazing time presenting some of my postdoc work today! 
 So grateful for my entire @HolmesLab_BHI postdoc experience th…</title>
       <link>https://twitter.com/KavliAtYale/status/1673431418725351430</link>
@@ -2180,6 +2065,77 @@ Learn more and submit your application by June 29 at 5 p.m. EDT: https://t.co/SG
       <description>RT @ScienceMIT: Mriganka Sur’s fundamental research into molecular mechanisms of synaptic plasticity in the brain enabled his lab to discov…</description>
       <content:encoded>RT @ScienceMIT: Mriganka Sur’s fundamental research into molecular mechanisms of synaptic plasticity in the brain enabled his lab to discov…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1673455249510522881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 26 Jun 2023 22:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Take a look inside healthy human cells with the Visual Guide to Human Cells. This #openscience resource is freely available to support educators and encourage curiosity about the building blocks of the human body! #AllenLearn
+
+🧫 https://t.co/0ksZvuSKDO https://t.co/kX1BZsothp</title>
+      <link>https://twitter.com/AllenInstitute/status/1673456855006445568</link>
+      <description>Take a look inside healthy human cells with the Visual Guide to Human Cells. This #openscience resource is freely available to support educators and encourage curiosity about the building blocks of the human body! #AllenLearn
+
+🧫 https://t.co/0ksZvuSKDO https://t.co/kX1BZsothp</description>
+      <content:encoded>Take a look inside healthy human cells with the Visual Guide to Human Cells. This #openscience resource is freely available to support educators and encourage curiosity about the building blocks of the human body! #AllenLearn
+
+🧫 https://t.co/0ksZvuSKDO https://t.co/kX1BZsothp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1673456855006445568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/DjeHq76UcAE7cus.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 22:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>It was a busy but inspiring week in Nigeria and Niger. https://t.co/HZyL3Ig0ef</title>
+      <link>https://twitter.com/BillGates/status/1673457806333317120</link>
+      <description>It was a busy but inspiring week in Nigeria and Niger. https://t.co/HZyL3Ig0ef</description>
+      <content:encoded>It was a busy but inspiring week in Nigeria and Niger. https://t.co/HZyL3Ig0ef&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1673457806333317120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzlPdMCaQAIIsRy.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 22:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Brain structure–function coupling associated with cognitive impairment in cerebral small vessel disease: Cerebral small vessel disease (CSVD) is a common chronic and progressive disease that can lead to mental and cognitive… #Neuroscience https://t.co/OkmH9x3bYR</title>
+      <link>https://twitter.com/FrontNeurosci/status/1673461651998388224</link>
+      <description>New Research: Brain structure–function coupling associated with cognitive impairment in cerebral small vessel disease: Cerebral small vessel disease (CSVD) is a common chronic and progressive disease that can lead to mental and cognitive… #Neuroscience https://t.co/OkmH9x3bYR</description>
+      <content:encoded>New Research: Brain structure–function coupling associated with cognitive impairment in cerebral small vessel disease: Cerebral small vessel disease (CSVD) is a common chronic and progressive disease that can lead to mental and cognitive… #Neuroscience https://t.co/OkmH9x3bYR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673461651998388224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 22:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @slcuplants: Fantastic work from @xanderjones82's lab's @BotanicalJim, @mathieugrangeg, @MarinoExposito, Martin Lenz, Rinukshi Wimalasek…</title>
+      <link>https://twitter.com/Addgene/status/1673462114248187910</link>
+      <description>RT @slcuplants: Fantastic work from @xanderjones82's lab's @BotanicalJim, @mathieugrangeg, @MarinoExposito, Martin Lenz, Rinukshi Wimalasek…</description>
+      <content:encoded>RT @slcuplants: Fantastic work from @xanderjones82's lab's @BotanicalJim, @mathieugrangeg, @MarinoExposito, Martin Lenz, Rinukshi Wimalasek…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1673462114248187910"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 22:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Serenadudette: And Part 2!  Open access for a limited time</title>
+      <link>https://twitter.com/Chris_Lisgaras/status/1673463347553923073</link>
+      <description>RT @Serenadudette: And Part 2!  Open access for a limited time</description>
+      <content:encoded>RT @Serenadudette: And Part 2!  Open access for a limited time&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Chris_Lisgaras/status/1673463347553923073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 22:48:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @casa_tuthill: Last year, we failed to replicate some key experimental results in an extraordinary @elife paper. Our results, the author…</title>
+      <link>https://twitter.com/AndrewHires/status/1673464064444608512</link>
+      <description>RT @casa_tuthill: Last year, we failed to replicate some key experimental results in an extraordinary @elife paper. Our results, the author…</description>
+      <content:encoded>RT @casa_tuthill: Last year, we failed to replicate some key experimental results in an extraordinary @elife paper. Our results, the author…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1673464064444608512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 22:51:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>How cholesterol can make biological surfaces non-stick https://t.co/VjCuqxRvBR</title>
+      <link>https://twitter.com/NatureNV/status/1673466276855808000</link>
+      <description>How cholesterol can make biological surfaces non-stick https://t.co/VjCuqxRvBR</description>
+      <content:encoded>How cholesterol can make biological surfaces non-stick https://t.co/VjCuqxRvBR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1673466276855808000"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 23:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>New kit alert!  🎉🎉 
+The GFP-itis Bacterial Base Editor Activity Kit contains all plasmids needed for GFP-itis, a low-resource experiment for high school and undergrad students. 
+https://t.co/3BHz2wD30Z https://t.co/6BgBq6K4G5</title>
+      <link>https://twitter.com/Addgene/status/1673468182084874243</link>
+      <description>New kit alert!  🎉🎉 
+The GFP-itis Bacterial Base Editor Activity Kit contains all plasmids needed for GFP-itis, a low-resource experiment for high school and undergrad students. 
+https://t.co/3BHz2wD30Z https://t.co/6BgBq6K4G5</description>
+      <content:encoded>New kit alert!  🎉🎉 
+The GFP-itis Bacterial Base Editor Activity Kit contains all plasmids needed for GFP-itis, a low-resource experiment for high school and undergrad students. 
+https://t.co/3BHz2wD30Z https://t.co/6BgBq6K4G5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1673468182084874243"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzlacYzWIAABD_d.png" length="899" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 23:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
