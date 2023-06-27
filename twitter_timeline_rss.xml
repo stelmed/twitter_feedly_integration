@@ -6,42 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 03:00:58 +0000</lastBuildDate>
-    <item>
-      <title>RT @pbeyssac: Si on parlait de l'impact énergétique du repassage comparé à la vidéo HD ? Ici un fer vapeur ; typiquement ce genre d'apparei…</title>
-      <link>https://twitter.com/ylecun/status/1673155552577310720</link>
-      <description>RT @pbeyssac: Si on parlait de l'impact énergétique du repassage comparé à la vidéo HD ? Ici un fer vapeur ; typiquement ce genre d'apparei…</description>
-      <content:encoded>RT @pbeyssac: Si on parlait de l'impact énergétique du repassage comparé à la vidéo HD ? Ici un fer vapeur ; typiquement ce genre d'apparei…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673155552577310720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 02:25:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DeepMind: Introducing RoboCat, a new AI model designed to operate multiple robots. 🤖
-
-It learns to solve new tasks on different robotic…</title>
-      <link>https://twitter.com/demishassabis/status/1673180073225068544</link>
-      <description>RT @DeepMind: Introducing RoboCat, a new AI model designed to operate multiple robots. 🤖
-
-It learns to solve new tasks on different robotic…</description>
-      <content:encoded>RT @DeepMind: Introducing RoboCat, a new AI model designed to operate multiple robots. 🤖
-
-It learns to solve new tasks on different robotic…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/demishassabis/status/1673180073225068544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 04:03:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Understanding the impact of generative #AI … requires new interdisciplinary scientific inquiry into culture, economics, law, algorithms, and the interaction of technology and creativity,” argues a new #SciencePerspective. https://t.co/ot2LTPTGhj https://t.co/uFwYk7aTii</title>
-      <link>https://twitter.com/ScienceMagazine/status/1673186850503000064</link>
-      <description>“Understanding the impact of generative #AI … requires new interdisciplinary scientific inquiry into culture, economics, law, algorithms, and the interaction of technology and creativity,” argues a new #SciencePerspective. https://t.co/ot2LTPTGhj https://t.co/uFwYk7aTii</description>
-      <content:encoded>“Understanding the impact of generative #AI … requires new interdisciplinary scientific inquiry into culture, economics, law, algorithms, and the interaction of technology and creativity,” argues a new #SciencePerspective. https://t.co/ot2LTPTGhj https://t.co/uFwYk7aTii&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1673186850503000064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fzhaks8XwAIJDhE.jpg" length="750" type="photo"/>
-      <pubDate>Mon, 26 Jun 2023 04:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>When a chatbot uses the word "I", its anthropomorphizing itself, right?</title>
-      <link>https://twitter.com/neuro_data/status/1673199560418525184</link>
-      <description>When a chatbot uses the word "I", its anthropomorphizing itself, right?</description>
-      <content:encoded>When a chatbot uses the word "I", its anthropomorphizing itself, right?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1673199560418525184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 05:20:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jun 2023 04:22:10 +0000</lastBuildDate>
     <item>
       <title>Born #Today in 1730, Charles Messier is most notable for publishing an astronomical catalog consisting of nebulae and star clusters that came to be known as the 110 "Messier objects" 
 
@@ -1863,19 +1828,6 @@ MRI-like machines play a crucial role fo…&lt;blockquote class="twitter-tweet"&
       <pubDate>Mon, 26 Jun 2023 20:38:44 +0000</pubDate>
     </item>
     <item>
-      <title>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
-
-But only after we talked about why he loves to visit here, and how you…</title>
-      <link>https://twitter.com/BillGates/status/1673430850707546112</link>
-      <description>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
-
-But only after we talked about why he loves to visit here, and how you…</description>
-      <content:encoded>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
-
-But only after we talked about why he loves to visit here, and how you…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1673430850707546112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 20:39:40 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @elvisha9: Had an amazing time presenting some of my postdoc work today! 
 So grateful for my entire @HolmesLab_BHI postdoc experience th…</title>
       <link>https://twitter.com/KavliAtYale/status/1673431418725351430</link>
@@ -2145,6 +2097,60 @@ Learn more in @SciRobotics: https://t.co/3vY55V0fvI https://t.co/y5YUlrTsBy</des
 Learn more in @SciRobotics: https://t.co/3vY55V0fvI https://t.co/y5YUlrTsBy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1673526591433981953"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FzmPkOhXgAADlyK.jpg" length="910" type="photo"/>
       <pubDate>Tue, 27 Jun 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @predict_addict: Deep learning neural networks are notoriously miscalibrated and for several years people thought they can fix them usin…</title>
+      <link>https://twitter.com/KriegeskorteLab/status/1673528881775558656</link>
+      <description>RT @predict_addict: Deep learning neural networks are notoriously miscalibrated and for several years people thought they can fix them usin…</description>
+      <content:encoded>RT @predict_addict: Deep learning neural networks are notoriously miscalibrated and for several years people thought they can fix them usin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KriegeskorteLab/status/1673528881775558656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 03:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @erikbryn: Most people massively underestimate the costs of particulate pollution.
+
+Thousands are dying as a result.</title>
+      <link>https://twitter.com/ylecun/status/1673531189573943298</link>
+      <description>RT @erikbryn: Most people massively underestimate the costs of particulate pollution.
+
+Thousands are dying as a result.</description>
+      <content:encoded>RT @erikbryn: Most people massively underestimate the costs of particulate pollution.
+
+Thousands are dying as a result.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673531189573943298"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 03:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @gabrielpeyre: The Levenberg-Marquardt is a standard method for non-linear least-squares, combining the best of gradient descent and New…</title>
+      <link>https://twitter.com/ylecun/status/1673531661349273603</link>
+      <description>RT @gabrielpeyre: The Levenberg-Marquardt is a standard method for non-linear least-squares, combining the best of gradient descent and New…</description>
+      <content:encoded>RT @gabrielpeyre: The Levenberg-Marquardt is a standard method for non-linear least-squares, combining the best of gradient descent and New…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673531661349273603"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 03:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @fenildoshi009: 🧠 Out now @ScienceAdvances
+
+Why do we see a systematic organization of object information in the ventral visual cortex?…</title>
+      <link>https://twitter.com/patrickmineault/status/1673537965086195712</link>
+      <description>RT @fenildoshi009: 🧠 Out now @ScienceAdvances
+
+Why do we see a systematic organization of object information in the ventral visual cortex?…</description>
+      <content:encoded>RT @fenildoshi009: 🧠 Out now @ScienceAdvances
+
+Why do we see a systematic organization of object information in the ventral visual cortex?…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1673537965086195712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 03:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>I've been collecting data for 250+ days now, and I've seen enough.
+
+I'm pleased to officially announce the primary findings of our study: QWERTY is a tiny baby https://t.co/o94tAQaTkT</title>
+      <link>https://twitter.com/gottapatchemall/status/1673546281678168064</link>
+      <description>I've been collecting data for 250+ days now, and I've seen enough.
+
+I'm pleased to officially announce the primary findings of our study: QWERTY is a tiny baby https://t.co/o94tAQaTkT</description>
+      <content:encoded>I've been collecting data for 250+ days now, and I've seen enough.
+
+I'm pleased to officially announce the primary findings of our study: QWERTY is a tiny baby https://t.co/o94tAQaTkT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1673546281678168064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzmftazWwAoDosz.png" length="716" type="photo"/>
+      <pubDate>Tue, 27 Jun 2023 04:18:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
