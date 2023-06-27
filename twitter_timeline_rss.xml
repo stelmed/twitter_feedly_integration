@@ -6,61 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 01:50:31 +0000</lastBuildDate>
-    <item>
-      <title>RT @shaohewanglab: Bowling night with junior 4DCP labs! Some got lots of strikes, others need more practice, but we all had lots of fun😆 ht…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1673119927086071813</link>
-      <description>RT @shaohewanglab: Bowling night with junior 4DCP labs! Some got lots of strikes, others need more practice, but we all had lots of fun😆 ht…</description>
-      <content:encoded>RT @shaohewanglab: Bowling night with junior 4DCP labs! Some got lots of strikes, others need more practice, but we all had lots of fun😆 ht…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1673119927086071813"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 00:04:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NicholasTimme: I’m excited to share our latest work on aversion-resistant alcohol drinking in head-fixed mice! https://t.co/hCjN9I0oQa…</title>
-      <link>https://twitter.com/brainsOnMyMind/status/1673122876256567298</link>
-      <description>RT @NicholasTimme: I’m excited to share our latest work on aversion-resistant alcohol drinking in head-fixed mice! https://t.co/hCjN9I0oQa…</description>
-      <content:encoded>RT @NicholasTimme: I’m excited to share our latest work on aversion-resistant alcohol drinking in head-fixed mice! https://t.co/hCjN9I0oQa…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1673122876256567298"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 00:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: c-Abl tyrosine kinase down-regulation as target for memory improvement in Alzheimer’s disease: Background
-
-Growing evidence suggests that the non-receptor tyrosine kinase, c-Abl, plays a significant role in the… #ageing #neuroscience https://t.co/gL25zJR18N</title>
-      <link>https://twitter.com/FrontNeurosci/status/1673137892770865152</link>
-      <description>New Research: c-Abl tyrosine kinase down-regulation as target for memory improvement in Alzheimer’s disease: Background
-
-Growing evidence suggests that the non-receptor tyrosine kinase, c-Abl, plays a significant role in the… #ageing #neuroscience https://t.co/gL25zJR18N</description>
-      <content:encoded>New Research: c-Abl tyrosine kinase down-regulation as target for memory improvement in Alzheimer’s disease: Background
-
-Growing evidence suggests that the non-receptor tyrosine kinase, c-Abl, plays a significant role in the… #ageing #neuroscience https://t.co/gL25zJR18N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673137892770865152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 01:15:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CherishArdinger: Excited to share data from my newest project at @RSAposts!
-
-Poster Sat @IniaStress and Weds (#064) - "Leveraging Whole…</title>
-      <link>https://twitter.com/brainsOnMyMind/status/1673139283828568064</link>
-      <description>RT @CherishArdinger: Excited to share data from my newest project at @RSAposts!
-
-Poster Sat @IniaStress and Weds (#064) - "Leveraging Whole…</description>
-      <content:encoded>RT @CherishArdinger: Excited to share data from my newest project at @RSAposts!
-
-Poster Sat @IniaStress and Weds (#064) - "Leveraging Whole…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1673139283828568064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 01:21:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @CC_Lapish: Please check out our most recent work on alcohol consumption in head-fixed mice. This is the brain child of @NicholasTimme w…</title>
-      <link>https://twitter.com/brainsOnMyMind/status/1673139300337319937</link>
-      <description>RT @CC_Lapish: Please check out our most recent work on alcohol consumption in head-fixed mice. This is the brain child of @NicholasTimme w…</description>
-      <content:encoded>RT @CC_Lapish: Please check out our most recent work on alcohol consumption in head-fixed mice. This is the brain child of @NicholasTimme w…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1673139300337319937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 01:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: A touch-free human-robot collaborative surgical navigation robotic system based on hand gesture recognition: Robot-assisted minimally invasive surgery (RAMIS) has gained significant traction in clinical practice in recent… #Neuroscience https://t.co/MSC91kGxGa</title>
-      <link>https://twitter.com/FrontNeurosci/status/1673150985060126720</link>
-      <description>New Research: A touch-free human-robot collaborative surgical navigation robotic system based on hand gesture recognition: Robot-assisted minimally invasive surgery (RAMIS) has gained significant traction in clinical practice in recent… #Neuroscience https://t.co/MSC91kGxGa</description>
-      <content:encoded>New Research: A touch-free human-robot collaborative surgical navigation robotic system based on hand gesture recognition: Robot-assisted minimally invasive surgery (RAMIS) has gained significant traction in clinical practice in recent… #Neuroscience https://t.co/MSC91kGxGa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673150985060126720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 02:07:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jun 2023 03:00:58 +0000</lastBuildDate>
     <item>
       <title>RT @pbeyssac: Si on parlait de l'impact énergétique du repassage comparé à la vidéo HD ? Ici un fer vapeur ; typiquement ce genre d'apparei…</title>
       <link>https://twitter.com/ylecun/status/1673155552577310720</link>
@@ -1917,6 +1863,19 @@ MRI-like machines play a crucial role fo…&lt;blockquote class="twitter-tweet"&
       <pubDate>Mon, 26 Jun 2023 20:38:44 +0000</pubDate>
     </item>
     <item>
+      <title>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
+
+But only after we talked about why he loves to visit here, and how you…</title>
+      <link>https://twitter.com/BillGates/status/1673430850707546112</link>
+      <description>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
+
+But only after we talked about why he loves to visit here, and how you…</description>
+      <content:encoded>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
+
+But only after we talked about why he loves to visit here, and how you…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1673430850707546112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 26 Jun 2023 20:39:40 +0000</pubDate>
+    </item>
+    <item>
       <title>RT @elvisha9: Had an amazing time presenting some of my postdoc work today! 
 So grateful for my entire @HolmesLab_BHI postdoc experience th…</title>
       <link>https://twitter.com/KavliAtYale/status/1673431418725351430</link>
@@ -2134,6 +2093,58 @@ https://t.co/EWfbMwtU64&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <content:encoded>https://t.co/BaddBFIJQQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1673507056152895493"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fzl9zHoWAAEjyDz.jpg" length="610" type="photo"/>
       <pubDate>Tue, 27 Jun 2023 01:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Research progress on the treatment and nursing of sensorineural hearing loss: This article provides a comprehensive review of the progress in the treatment and care of sensorineural hearing loss (SNHL), which is a common… #Neuroscience https://t.co/0raZbKoabE</title>
+      <link>https://twitter.com/FrontNeurosci/status/1673513493998501889</link>
+      <description>New Research: Research progress on the treatment and nursing of sensorineural hearing loss: This article provides a comprehensive review of the progress in the treatment and care of sensorineural hearing loss (SNHL), which is a common… #Neuroscience https://t.co/0raZbKoabE</description>
+      <content:encoded>New Research: Research progress on the treatment and nursing of sensorineural hearing loss: This article provides a comprehensive review of the progress in the treatment and care of sensorineural hearing loss (SNHL), which is a common… #Neuroscience https://t.co/0raZbKoabE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673513493998501889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 02:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can someone explain to me what 0.50 and 0.25 are for in this car registration? Are we reimbursing the reimbursing service ? https://t.co/Vgh9jM7shv</title>
+      <link>https://twitter.com/LecoqJerome/status/1673518346757894144</link>
+      <description>Can someone explain to me what 0.50 and 0.25 are for in this car registration? Are we reimbursing the reimbursing service ? https://t.co/Vgh9jM7shv</description>
+      <content:encoded>Can someone explain to me what 0.50 and 0.25 are for in this car registration? Are we reimbursing the reimbursing service ? https://t.co/Vgh9jM7shv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1673518346757894144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzmIECvWIAQnnJ2.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 27 Jun 2023 02:27:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @parameciumbrain: Putting this out there because I got some...unfun news today that makes things feel a little more urgent but, I'm on t…</title>
+      <link>https://twitter.com/sofroniewn/status/1673521962054983681</link>
+      <description>RT @parameciumbrain: Putting this out there because I got some...unfun news today that makes things feel a little more urgent but, I'm on t…</description>
+      <content:encoded>RT @parameciumbrain: Putting this out there because I got some...unfun news today that makes things feel a little more urgent but, I'm on t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1673521962054983681"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 02:41:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DhruvBatraDB: Every branch of science has its corresponding pseudoscience. 
+
+Astronomy has astrology. 
+Geophysics has flat-earth belief…</title>
+      <link>https://twitter.com/ylecun/status/1673524701644091393</link>
+      <description>RT @DhruvBatraDB: Every branch of science has its corresponding pseudoscience. 
+
+Astronomy has astrology. 
+Geophysics has flat-earth belief…</description>
+      <content:encoded>RT @DhruvBatraDB: Every branch of science has its corresponding pseudoscience. 
+
+Astronomy has astrology. 
+Geophysics has flat-earth belief…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673524701644091393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 02:52:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>A quadrupedal #robot was capable of climbing on metallic ceilings and walls by using feet made of electro-permanent magnets and magnetorheological elastomers.
+
+Learn more in @SciRobotics: https://t.co/3vY55V0fvI https://t.co/y5YUlrTsBy</title>
+      <link>https://twitter.com/ScienceMagazine/status/1673526591433981953</link>
+      <description>A quadrupedal #robot was capable of climbing on metallic ceilings and walls by using feet made of electro-permanent magnets and magnetorheological elastomers.
+
+Learn more in @SciRobotics: https://t.co/3vY55V0fvI https://t.co/y5YUlrTsBy</description>
+      <content:encoded>A quadrupedal #robot was capable of climbing on metallic ceilings and walls by using feet made of electro-permanent magnets and magnetorheological elastomers.
+
+Learn more in @SciRobotics: https://t.co/3vY55V0fvI https://t.co/y5YUlrTsBy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1673526591433981953"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzmPkOhXgAADlyK.jpg" length="910" type="photo"/>
+      <pubDate>Tue, 27 Jun 2023 03:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
