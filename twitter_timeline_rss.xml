@@ -6,62 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jun 2023 23:18:37 +0000</lastBuildDate>
-    <item>
-      <title>Uncovering a role for B cells in antitumour immunity https://t.co/WmYINMETnt</title>
-      <link>https://twitter.com/NatureNV/status/1673103944799645698</link>
-      <description>Uncovering a role for B cells in antitumour immunity https://t.co/WmYINMETnt</description>
-      <content:encoded>Uncovering a role for B cells in antitumour immunity https://t.co/WmYINMETnt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1673103944799645698"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 25 Jun 2023 23:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>✅ Let's make sign language transcription more accessible for everyone!
-
-Join the American Sign Language Fingerspelling Recognition Competition on Kaggle and help shape the future of this technology.
-
-Learn more and sign up today ➡️ https://t.co/y6BiI3wo5P https://t.co/jC59q1a9rd</title>
-      <link>https://twitter.com/TensorFlow/status/1673109146323894273</link>
-      <description>✅ Let's make sign language transcription more accessible for everyone!
-
-Join the American Sign Language Fingerspelling Recognition Competition on Kaggle and help shape the future of this technology.
-
-Learn more and sign up today ➡️ https://t.co/y6BiI3wo5P https://t.co/jC59q1a9rd</description>
-      <content:encoded>✅ Let's make sign language transcription more accessible for everyone!
-
-Join the American Sign Language Fingerspelling Recognition Competition on Kaggle and help shape the future of this technology.
-
-Learn more and sign up today ➡️ https://t.co/y6BiI3wo5P https://t.co/jC59q1a9rd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1673109146323894273"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1673109040442818561/pu/img/jksKl0lcOpPgFV79.jpg" length="1200" type="photo"/>
-      <pubDate>Sun, 25 Jun 2023 23:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Just swipe up to see the next video</title>
-      <link>https://twitter.com/elonmusk/status/1673110480276303872</link>
-      <description>Just swipe up to see the next video</description>
-      <content:encoded>Just swipe up to see the next video&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1673110480276303872"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 25 Jun 2023 23:26:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>By 2025, how many jobs in the United States will require some education beyond high school?</title>
-      <link>https://twitter.com/BillGates/status/1673117794634969089</link>
-      <description>By 2025, how many jobs in the United States will require some education beyond high school?</description>
-      <content:encoded>By 2025, how many jobs in the United States will require some education beyond high school?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1673117794634969089"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 25 Jun 2023 23:55:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>You can check your answer here... https://t.co/9l0Pmqwu8H</title>
-      <link>https://twitter.com/BillGates/status/1673117795868106753</link>
-      <description>You can check your answer here... https://t.co/9l0Pmqwu8H</description>
-      <content:encoded>You can check your answer here... https://t.co/9l0Pmqwu8H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1673117795868106753"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 25 Jun 2023 23:55:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Human-machine interface for two-dimensional steering control with the auricular muscles: Human-machine interfaces (HMIs) can be used to decode a user's motor intention to control an external device. People that suffer from… #Neurorobotics https://t.co/lbPDqoiTiL</title>
-      <link>https://twitter.com/FrontNeurosci/status/1673119019333976064</link>
-      <description>New Research: Human-machine interface for two-dimensional steering control with the auricular muscles: Human-machine interfaces (HMIs) can be used to decode a user's motor intention to control an external device. People that suffer from… #Neurorobotics https://t.co/lbPDqoiTiL</description>
-      <content:encoded>New Research: Human-machine interface for two-dimensional steering control with the auricular muscles: Human-machine interfaces (HMIs) can be used to decode a user's motor intention to control an external device. People that suffer from… #Neurorobotics https://t.co/lbPDqoiTiL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673119019333976064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 00:00:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jun 2023 01:50:31 +0000</lastBuildDate>
     <item>
       <title>RT @shaohewanglab: Bowling night with junior 4DCP labs! Some got lots of strikes, others need more practice, but we all had lots of fun😆 ht…</title>
       <link>https://twitter.com/HHMIJanelia/status/1673119927086071813</link>
@@ -1972,19 +1917,6 @@ MRI-like machines play a crucial role fo…&lt;blockquote class="twitter-tweet"&
       <pubDate>Mon, 26 Jun 2023 20:38:44 +0000</pubDate>
     </item>
     <item>
-      <title>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
-
-But only after we talked about why he loves to visit here, and how you…</title>
-      <link>https://twitter.com/BillGates/status/1673430850707546112</link>
-      <description>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
-
-But only after we talked about why he loves to visit here, and how you…</description>
-      <content:encoded>RT @Ebuka: I invited @BillGates back to Lagos for Detty December...
-
-But only after we talked about why he loves to visit here, and how you…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1673430850707546112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 26 Jun 2023 20:39:40 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @elvisha9: Had an amazing time presenting some of my postdoc work today! 
 So grateful for my entire @HolmesLab_BHI postdoc experience th…</title>
       <link>https://twitter.com/KavliAtYale/status/1673431418725351430</link>
@@ -2136,6 +2068,72 @@ The GFP-itis Bacterial Base Editor Activity Kit contains all plasmids needed for
 https://t.co/3BHz2wD30Z https://t.co/6BgBq6K4G5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1673468182084874243"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/FzlacYzWIAABD_d.png" length="899" type="photo"/>
       <pubDate>Mon, 26 Jun 2023 23:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @chrost_hugo: Fluorescent neurons in the hippocampus.  
+
+Credits: Dr. Wutian Wu  
+
+#neuroscience https://t.co/vjVEW9RwUD</title>
+      <link>https://twitter.com/MattNeuro/status/1673475828917719040</link>
+      <description>RT @chrost_hugo: Fluorescent neurons in the hippocampus.  
+
+Credits: Dr. Wutian Wu  
+
+#neuroscience https://t.co/vjVEW9RwUD</description>
+      <content:encoded>RT @chrost_hugo: Fluorescent neurons in the hippocampus.  
+
+Credits: Dr. Wutian Wu  
+
+#neuroscience https://t.co/vjVEW9RwUD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1673475828917719040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fx8ffVuaYAA0hqY.png" length="900" type="photo"/>
+      <pubDate>Mon, 26 Jun 2023 23:38:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: Natural products as sources of innovative approaches in the prevention and treatment of neuronal injuries induced by neurodegenerative diseases and environmental exposures to neurotoxic agents #neuroscience https://t.co/3gtvCy9BR5</title>
+      <link>https://twitter.com/FrontNeurosci/status/1673481525609005056</link>
+      <description>New Research: Editorial: Natural products as sources of innovative approaches in the prevention and treatment of neuronal injuries induced by neurodegenerative diseases and environmental exposures to neurotoxic agents #neuroscience https://t.co/3gtvCy9BR5</description>
+      <content:encoded>New Research: Editorial: Natural products as sources of innovative approaches in the prevention and treatment of neuronal injuries induced by neurodegenerative diseases and environmental exposures to neurotoxic agents #neuroscience https://t.co/3gtvCy9BR5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673481525609005056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 00:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Manuel_do_rio: @stevenstrogatz's podcasts for @QuantaMagazine's The Joy of Why are always interesting, but the episode with David Tong…</title>
+      <link>https://twitter.com/stevenstrogatz/status/1673482769538719745</link>
+      <description>RT @Manuel_do_rio: @stevenstrogatz's podcasts for @QuantaMagazine's The Joy of Why are always interesting, but the episode with David Tong…</description>
+      <content:encoded>RT @Manuel_do_rio: @stevenstrogatz's podcasts for @QuantaMagazine's The Joy of Why are always interesting, but the episode with David Tong…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1673482769538719745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 00:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ItsClaraLiao: Had a great time presenting my work (for the first time!) and meeting wonderful people! Thanks @ClaireFoldi &amp;amp; @KynaConn !!</title>
+      <link>https://twitter.com/kwanalexc/status/1673487721694724096</link>
+      <description>RT @ItsClaraLiao: Had a great time presenting my work (for the first time!) and meeting wonderful people! Thanks @ClaireFoldi &amp;amp; @KynaConn !!</description>
+      <content:encoded>RT @ItsClaraLiao: Had a great time presenting my work (for the first time!) and meeting wonderful people! Thanks @ClaireFoldi &amp;amp; @KynaConn !!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kwanalexc/status/1673487721694724096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 00:25:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Looks like voltage imaging got about another factor 2 improvement, even while discarding most collected photons through a polarizer. Smart.
+https://t.co/EWfbMwtU64</title>
+      <link>https://twitter.com/LecoqJerome/status/1673492787931803648</link>
+      <description>Looks like voltage imaging got about another factor 2 improvement, even while discarding most collected photons through a polarizer. Smart.
+https://t.co/EWfbMwtU64</description>
+      <content:encoded>Looks like voltage imaging got about another factor 2 improvement, even while discarding most collected photons through a polarizer. Smart.
+https://t.co/EWfbMwtU64&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1673492787931803648"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 00:45:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: Gut-microbiota-brain axis in depression: mechanisms and possible therapies #neuroscience https://t.co/TcajjJXIm4</title>
+      <link>https://twitter.com/FrontNeurosci/status/1673500278111498241</link>
+      <description>New Research: Editorial: Gut-microbiota-brain axis in depression: mechanisms and possible therapies #neuroscience https://t.co/TcajjJXIm4</description>
+      <content:encoded>New Research: Editorial: Gut-microbiota-brain axis in depression: mechanisms and possible therapies #neuroscience https://t.co/TcajjJXIm4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673500278111498241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 27 Jun 2023 01:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/BaddBFIJQQ</title>
+      <link>https://twitter.com/NeuroBill/status/1673507056152895493</link>
+      <description>https://t.co/BaddBFIJQQ</description>
+      <content:encoded>https://t.co/BaddBFIJQQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1673507056152895493"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fzl9zHoWAAEjyDz.jpg" length="610" type="photo"/>
+      <pubDate>Tue, 27 Jun 2023 01:42:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
