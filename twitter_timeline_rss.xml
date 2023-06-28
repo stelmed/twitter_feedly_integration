@@ -6,139 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jun 2023 16:23:46 +0000</lastBuildDate>
-    <item>
-      <title>RT @CompCellBio: Obligatory group photo of the CCB on site Workshop https://t.co/oCWtqzCw9L</title>
-      <link>https://twitter.com/lesloew/status/1673798869455626240</link>
-      <description>RT @CompCellBio: Obligatory group photo of the CCB on site Workshop https://t.co/oCWtqzCw9L</description>
-      <content:encoded>RT @CompCellBio: Obligatory group photo of the CCB on site Workshop https://t.co/oCWtqzCw9L&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/lesloew/status/1673798869455626240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzkWk70aEAAdAV1.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 27 Jun 2023 21:02:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Synthetic Quantum Nanostructures (SynQuaNon) aims to develop novel classes of superconducting metamaterials for #quantum info science – e.g., enabling single-photon detector arrays for sensing, imaging, and comms. Info session July 10: https://t.co/nbV5YWhZEU https://t.co/pN5LEJNs7a</title>
-      <link>https://twitter.com/DARPA/status/1673799308586491905</link>
-      <description>Our Synthetic Quantum Nanostructures (SynQuaNon) aims to develop novel classes of superconducting metamaterials for #quantum info science – e.g., enabling single-photon detector arrays for sensing, imaging, and comms. Info session July 10: https://t.co/nbV5YWhZEU https://t.co/pN5LEJNs7a</description>
-      <content:encoded>Our Synthetic Quantum Nanostructures (SynQuaNon) aims to develop novel classes of superconducting metamaterials for #quantum info science – e.g., enabling single-photon detector arrays for sensing, imaging, and comms. Info session July 10: https://t.co/nbV5YWhZEU https://t.co/pN5LEJNs7a&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1673799308586491905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzqHmX1XwAEZnGS.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 27 Jun 2023 21:03:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Really fun @IntlBrainLab meetup sparked by a visit from @roamnoth to talk about reproducible electrophysiology. https://t.co/uolqjx3jEQ</title>
-      <link>https://twitter.com/anne_churchland/status/1673802575358095360</link>
-      <description>Really fun @IntlBrainLab meetup sparked by a visit from @roamnoth to talk about reproducible electrophysiology. https://t.co/uolqjx3jEQ</description>
-      <content:encoded>Really fun @IntlBrainLab meetup sparked by a visit from @roamnoth to talk about reproducible electrophysiology. https://t.co/uolqjx3jEQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/anne_churchland/status/1673802575358095360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzqKkD_agAEbtHP.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 27 Jun 2023 21:16:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AntonSArkhipov: Got a nice memento at the celebration of the MindScope Project @AllenInstitute 
-This is a rendering of ~100 neurons fro…</title>
-      <link>https://twitter.com/AllenInstitute/status/1673806157096288263</link>
-      <description>RT @AntonSArkhipov: Got a nice memento at the celebration of the MindScope Project @AllenInstitute 
-This is a rendering of ~100 neurons fro…</description>
-      <content:encoded>RT @AntonSArkhipov: Got a nice memento at the celebration of the MindScope Project @AllenInstitute 
-This is a rendering of ~100 neurons fro…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1673806157096288263"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 27 Jun 2023 21:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NatComputSci: 📢Our June issue is now live, and it includes a Focus that highlights the potential for computational tools to help addres…</title>
-      <link>https://twitter.com/naturemethods/status/1673807056355180545</link>
-      <description>RT @NatComputSci: 📢Our June issue is now live, and it includes a Focus that highlights the potential for computational tools to help addres…</description>
-      <content:encoded>RT @NatComputSci: 📢Our June issue is now live, and it includes a Focus that highlights the potential for computational tools to help addres…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1673807056355180545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 27 Jun 2023 21:34:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers developed a technique using Stable Diffusion to generate images of what individuals were observing based on their brain scans. 
-
-Read our summary of the paper in #TheBatch: https://t.co/MmPYK8VcbP</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1673813455915065344</link>
-      <description>Researchers developed a technique using Stable Diffusion to generate images of what individuals were observing based on their brain scans. 
-
-Read our summary of the paper in #TheBatch: https://t.co/MmPYK8VcbP</description>
-      <content:encoded>Researchers developed a technique using Stable Diffusion to generate images of what individuals were observing based on their brain scans. 
-
-Read our summary of the paper in #TheBatch: https://t.co/MmPYK8VcbP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1673813455915065344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 27 Jun 2023 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @SDuraBernal: New Postdoc position available in the lab!  See the details and how to apply here: https://t.co/aGDh79EjyE  (Please share!…</title>
-      <link>https://twitter.com/Ian_Duguid/status/1673814013879152640</link>
-      <description>RT @SDuraBernal: New Postdoc position available in the lab!  See the details and how to apply here: https://t.co/aGDh79EjyE  (Please share!…</description>
-      <content:encoded>RT @SDuraBernal: New Postdoc position available in the lab!  See the details and how to apply here: https://t.co/aGDh79EjyE  (Please share!…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Ian_Duguid/status/1673814013879152640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 27 Jun 2023 22:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>I agree strongly with this. https://t.co/T7XyFrv89V</title>
-      <link>https://twitter.com/BillGates/status/1673823213670010880</link>
-      <description>I agree strongly with this. https://t.co/T7XyFrv89V</description>
-      <content:encoded>I agree strongly with this. https://t.co/T7XyFrv89V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1673823213670010880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 27 Jun 2023 22:38:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Editorial: Brain serotonergic system #Synaptic #Neuroscience https://t.co/vEVMFw7doH</title>
-      <link>https://twitter.com/FrontNeurosci/status/1673823912373940224</link>
-      <description>New Research: Editorial: Brain serotonergic system #Synaptic #Neuroscience https://t.co/vEVMFw7doH</description>
-      <content:encoded>New Research: Editorial: Brain serotonergic system #Synaptic #Neuroscience https://t.co/vEVMFw7doH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673823912373940224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 27 Jun 2023 22:41:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DrJRink: Awesome 2P panel this afternoon at #RSA2023 @JimOtis17 @KristinScaplen @karlakaun @CodySiciliano @brainsOnMyMind thank you all…</title>
-      <link>https://twitter.com/brainsOnMyMind/status/1673830387381075968</link>
-      <description>RT @DrJRink: Awesome 2P panel this afternoon at #RSA2023 @JimOtis17 @KristinScaplen @karlakaun @CodySiciliano @brainsOnMyMind thank you all…</description>
-      <content:encoded>RT @DrJRink: Awesome 2P panel this afternoon at #RSA2023 @JimOtis17 @KristinScaplen @karlakaun @CodySiciliano @brainsOnMyMind thank you all…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1673830387381075968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 27 Jun 2023 23:07:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch the entire first episode on this platform. Great move by Apple!
-
-Note, you can Airplay from your iPhone to TV to watch on a big screen. https://t.co/fV7DEJv96Q</title>
-      <link>https://twitter.com/elonmusk/status/1673831774038949888</link>
-      <description>Watch the entire first episode on this platform. Great move by Apple!
-
-Note, you can Airplay from your iPhone to TV to watch on a big screen. https://t.co/fV7DEJv96Q</description>
-      <content:encoded>Watch the entire first episode on this platform. Great move by Apple!
-
-Note, you can Airplay from your iPhone to TV to watch on a big screen. https://t.co/fV7DEJv96Q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1673831774038949888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 27 Jun 2023 23:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prelude to Mars https://t.co/nY2XahU4JG</title>
-      <link>https://twitter.com/elonmusk/status/1673832186796179456</link>
-      <description>Prelude to Mars https://t.co/nY2XahU4JG</description>
-      <content:encoded>Prelude to Mars https://t.co/nY2XahU4JG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1673832186796179456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 27 Jun 2023 23:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jagarikin: しましまの動きは左右で同じです https://t.co/KHch7lAqUX</title>
-      <link>https://twitter.com/MargolisLab/status/1673838393841577986</link>
-      <description>RT @jagarikin: しましまの動きは左右で同じです https://t.co/KHch7lAqUX</description>
-      <content:encoded>RT @jagarikin: しましまの動きは左右で同じです https://t.co/KHch7lAqUX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MargolisLab/status/1673838393841577986"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FzouHQ9aUAA-Bed.jpg" length="944" type="photo"/>
-      <pubDate>Tue, 27 Jun 2023 23:39:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elementary and middle school educators and parents, your students are invited to participate in our #OpenScience Sticker Contest! The winning designs will be showcased during #OpenScienceWeek and given out to all of our visiting field trips. #AllenLearn https://t.co/Mm6L1Q5LoW</title>
-      <link>https://twitter.com/AllenInstitute/status/1673843657844183042</link>
-      <description>Elementary and middle school educators and parents, your students are invited to participate in our #OpenScience Sticker Contest! The winning designs will be showcased during #OpenScienceWeek and given out to all of our visiting field trips. #AllenLearn https://t.co/Mm6L1Q5LoW</description>
-      <content:encoded>Elementary and middle school educators and parents, your students are invited to participate in our #OpenScience Sticker Contest! The winning designs will be showcased during #OpenScienceWeek and given out to all of our visiting field trips. #AllenLearn https://t.co/Mm6L1Q5LoW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1673843657844183042"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 00:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Information-theoretic analysis of Hierarchical Temporal Memory-Spatial Pooler algorithm with a new upper bound for the standard information bottleneck method: Hierarchical Temporal Memory (HTM) is an… #Computational #Neuroscience https://t.co/tdrZmguc5C</title>
-      <link>https://twitter.com/FrontNeurosci/status/1673843921259229184</link>
-      <description>New Research: Information-theoretic analysis of Hierarchical Temporal Memory-Spatial Pooler algorithm with a new upper bound for the standard information bottleneck method: Hierarchical Temporal Memory (HTM) is an… #Computational #Neuroscience https://t.co/tdrZmguc5C</description>
-      <content:encoded>New Research: Information-theoretic analysis of Hierarchical Temporal Memory-Spatial Pooler algorithm with a new upper bound for the standard information bottleneck method: Hierarchical Temporal Memory (HTM) is an… #Computational #Neuroscience https://t.co/tdrZmguc5C&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673843921259229184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 00:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our surgeons use the lasso tool to highlight relevant brain regions based on fMRI. The robot leverages high resolution cameras to automatically place targets in the region of interests while avoiding the tiniest vessels that are not easily visible to the naked eye 🤠 #techtuesday https://t.co/efFmuB16sa</title>
-      <link>https://twitter.com/neuralink/status/1673846600408485889</link>
-      <description>Our surgeons use the lasso tool to highlight relevant brain regions based on fMRI. The robot leverages high resolution cameras to automatically place targets in the region of interests while avoiding the tiniest vessels that are not easily visible to the naked eye 🤠 #techtuesday https://t.co/efFmuB16sa</description>
-      <content:encoded>Our surgeons use the lasso tool to highlight relevant brain regions based on fMRI. The robot leverages high resolution cameras to automatically place targets in the region of interests while avoiding the tiniest vessels that are not easily visible to the naked eye 🤠 #techtuesday https://t.co/efFmuB16sa&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralink/status/1673846600408485889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1673846566606585856/pu/img/rJ8Oh4_YFwZXbOyj.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 00:11:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jun 2023 17:15:44 +0000</lastBuildDate>
     <item>
       <title>RT @munkdebate: You can now watch our Munk Debate on AI for free (below)
 
@@ -2037,6 +1905,197 @@ The well-regulated development of the sensory epithelium is essential for hearin
 
 The well-regulated development of the sensory epithelium is essential for hearing. This process involves the specification of a… #Neuroanatomy https://t.co/OZbtNFm0lv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674090791764127746"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 28 Jun 2023 16:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @fan_of_gpu: @TimothyStiles You are welcome 🤗 https://t.co/v2gqPYtxqn</title>
+      <link>https://twitter.com/trose_neuro/status/1674093126691028993</link>
+      <description>RT @fan_of_gpu: @TimothyStiles You are welcome 🤗 https://t.co/v2gqPYtxqn</description>
+      <content:encoded>RT @fan_of_gpu: @TimothyStiles You are welcome 🤗 https://t.co/v2gqPYtxqn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trose_neuro/status/1674093126691028993"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1673933274538704896/pu/img/Gl2hloqOsP0pViOx.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 16:31:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Native to the western Pacific Ocean, the Asian sheepshead wrasse is one of the largest species of wrasse. All Sheepshead are born female and as they grow older, eventually will change sex
+
+[read more: https://t.co/j7kROFKs9o]
+https://t.co/GEEjelG2uX https://t.co/qZDBvfxIuk</title>
+      <link>https://twitter.com/Rainmaker1973/status/1674093205673988097</link>
+      <description>Native to the western Pacific Ocean, the Asian sheepshead wrasse is one of the largest species of wrasse. All Sheepshead are born female and as they grow older, eventually will change sex
+
+[read more: https://t.co/j7kROFKs9o]
+https://t.co/GEEjelG2uX https://t.co/qZDBvfxIuk</description>
+      <content:encoded>Native to the western Pacific Ocean, the Asian sheepshead wrasse is one of the largest species of wrasse. All Sheepshead are born female and as they grow older, eventually will change sex
+
+[read more: https://t.co/j7kROFKs9o]
+https://t.co/GEEjelG2uX https://t.co/qZDBvfxIuk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674093205673988097"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1662522291115155457/pu/img/q-RGaBU9f2ZuSPzr.jpg" length="886" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 16:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Climate warming is causing a decrease in snowfall and increase in rainfall at high altitudes in the Northern Hemisphere, and is predicted to increase the risk of extreme rainfall, according to a study published in @Nature. https://t.co/1upzu5Jsqt https://t.co/CiCdJwPpzA</title>
+      <link>https://twitter.com/NaturePortfolio/status/1674093907909410820</link>
+      <description>Climate warming is causing a decrease in snowfall and increase in rainfall at high altitudes in the Northern Hemisphere, and is predicted to increase the risk of extreme rainfall, according to a study published in @Nature. https://t.co/1upzu5Jsqt https://t.co/CiCdJwPpzA</description>
+      <content:encoded>Climate warming is causing a decrease in snowfall and increase in rainfall at high altitudes in the Northern Hemisphere, and is predicted to increase the risk of extreme rainfall, according to a study published in @Nature. https://t.co/1upzu5Jsqt https://t.co/CiCdJwPpzA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1674093907909410820"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzuThnTXgAAqmmz.jpg" length="1066" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 16:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entrevista con Ernesto Saenz de Buruaga @medicinarespon   https://t.co/1ZREnBWfBj</title>
+      <link>https://twitter.com/yusterafa/status/1674094108065820673</link>
+      <description>Entrevista con Ernesto Saenz de Buruaga @medicinarespon   https://t.co/1ZREnBWfBj</description>
+      <content:encoded>Entrevista con Ernesto Saenz de Buruaga @medicinarespon   https://t.co/1ZREnBWfBj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/yusterafa/status/1674094108065820673"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 16:35:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Think that time to go is a bit optimistic 🤭 https://t.co/iY9Otk3tNU</title>
+      <link>https://twitter.com/AndrewHires/status/1674094305940750337</link>
+      <description>Think that time to go is a bit optimistic 🤭 https://t.co/iY9Otk3tNU</description>
+      <content:encoded>Think that time to go is a bit optimistic 🤭 https://t.co/iY9Otk3tNU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1674094305940750337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzuT49eacAE99HS.jpg" length="900" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 16:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1000ft, start of GMR climb https://t.co/pJNeSNmBEl</title>
+      <link>https://twitter.com/AndrewHires/status/1674094646132346881</link>
+      <description>1000ft, start of GMR climb https://t.co/pJNeSNmBEl</description>
+      <content:encoded>1000ft, start of GMR climb https://t.co/pJNeSNmBEl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1674094646132346881"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzuUNFnaQAE2-O_.jpg" length="900" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 16:37:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Help us spread the word about the 2023 Brain Awareness Video Contest! 
+
+First place wins $4k and complimentary registration to #SfN23. 
+
+Learn more and enter #BAVC23 today: https://t.co/GG0mGnOq8e https://t.co/xyZAGnXcQU</title>
+      <link>https://twitter.com/SfNtweets/status/1674095337319825409</link>
+      <description>Help us spread the word about the 2023 Brain Awareness Video Contest! 
+
+First place wins $4k and complimentary registration to #SfN23. 
+
+Learn more and enter #BAVC23 today: https://t.co/GG0mGnOq8e https://t.co/xyZAGnXcQU</description>
+      <content:encoded>Help us spread the word about the 2023 Brain Awareness Video Contest! 
+
+First place wins $4k and complimentary registration to #SfN23. 
+
+Learn more and enter #BAVC23 today: https://t.co/GG0mGnOq8e https://t.co/xyZAGnXcQU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1674095337319825409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzuU0hYWIAElN0J.jpg" length="624" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 16:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AmericanBrainCo: ABC hosted an in-person #CongressionalNeuroscienceCaucus briefing NIH BRAIN Initiative: Accelerating Discovery Toward…</title>
+      <link>https://twitter.com/AllenInstitute/status/1674096319630016516</link>
+      <description>RT @AmericanBrainCo: ABC hosted an in-person #CongressionalNeuroscienceCaucus briefing NIH BRAIN Initiative: Accelerating Discovery Toward…</description>
+      <content:encoded>RT @AmericanBrainCo: ABC hosted an in-person #CongressionalNeuroscienceCaucus briefing NIH BRAIN Initiative: Accelerating Discovery Toward…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1674096319630016516"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 16:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CherishArdinger: ‼️‼️‼️TODAY‼️‼️‼️
+
+If you are still @RSAposts, come check out this new work! Poster #064 this afternoon 🐭👇</title>
+      <link>https://twitter.com/brainsOnMyMind/status/1674096497753993216</link>
+      <description>RT @CherishArdinger: ‼️‼️‼️TODAY‼️‼️‼️
+
+If you are still @RSAposts, come check out this new work! Poster #064 this afternoon 🐭👇</description>
+      <content:encoded>RT @CherishArdinger: ‼️‼️‼️TODAY‼️‼️‼️
+
+If you are still @RSAposts, come check out this new work! Poster #064 this afternoon 🐭👇&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1674096497753993216"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 16:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>HHMI Investigator @zhangf &amp;amp; colleagues have uncovered a CRISPR-like system in animals that can edit the human genome.
+
+“This new system is another way to make precise changes in human cells, complementing the genome editing tools we already have.”—@zhangf
+
+https://t.co/9HtTOzVmOV</title>
+      <link>https://twitter.com/HHMINEWS/status/1674098036023123968</link>
+      <description>HHMI Investigator @zhangf &amp;amp; colleagues have uncovered a CRISPR-like system in animals that can edit the human genome.
+
+“This new system is another way to make precise changes in human cells, complementing the genome editing tools we already have.”—@zhangf
+
+https://t.co/9HtTOzVmOV</description>
+      <content:encoded>HHMI Investigator @zhangf &amp;amp; colleagues have uncovered a CRISPR-like system in animals that can edit the human genome.
+
+“This new system is another way to make precise changes in human cells, complementing the genome editing tools we already have.”—@zhangf
+
+https://t.co/9HtTOzVmOV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1674098036023123968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 16:50:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The story of the Hakone-en Aquarium in the Kanagawa prefecture, Japan, downgraded the penguins' and otters' diet due to high costs, and the animals are refusing to eat the cheaper fish
+
+[read more: https://t.co/D2dmXm10BS]
+https://t.co/kqdi3vneEL https://t.co/SJe5XgcVzT</title>
+      <link>https://twitter.com/Rainmaker1973/status/1674099840492486656</link>
+      <description>The story of the Hakone-en Aquarium in the Kanagawa prefecture, Japan, downgraded the penguins' and otters' diet due to high costs, and the animals are refusing to eat the cheaper fish
+
+[read more: https://t.co/D2dmXm10BS]
+https://t.co/kqdi3vneEL https://t.co/SJe5XgcVzT</description>
+      <content:encoded>The story of the Hakone-en Aquarium in the Kanagawa prefecture, Japan, downgraded the penguins' and otters' diet due to high costs, and the animals are refusing to eat the cheaper fish
+
+[read more: https://t.co/D2dmXm10BS]
+https://t.co/kqdi3vneEL https://t.co/SJe5XgcVzT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674099840492486656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1587736461226360832/pu/img/WR8BBX0Ofa6nGM5w.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 16:57:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>.@BarrCenter was built upon 2️⃣ foundational beliefs: 
+✨Students are able to learn when we truly see who they are
+✨Educators can do their best teaching when we provide a system that recognizes their talents https://t.co/acF2AaaPd9</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1674100429423083521</link>
+      <description>.@BarrCenter was built upon 2️⃣ foundational beliefs: 
+✨Students are able to learn when we truly see who they are
+✨Educators can do their best teaching when we provide a system that recognizes their talents https://t.co/acF2AaaPd9</description>
+      <content:encoded>.@BarrCenter was built upon 2️⃣ foundational beliefs: 
+✨Students are able to learn when we truly see who they are
+✨Educators can do their best teaching when we provide a system that recognizes their talents https://t.co/acF2AaaPd9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1674100429423083521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzuZd7SWAAwE2oI.jpg" length="960" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Be_Women_Sci: 🎆 On the 16th of June 2023, BeWiSe had the incredible opportunity to gather the board and esteemed members of the associa…</title>
+      <link>https://twitter.com/avdjeugd/status/1674100437597683732</link>
+      <description>RT @Be_Women_Sci: 🎆 On the 16th of June 2023, BeWiSe had the incredible opportunity to gather the board and esteemed members of the associa…</description>
+      <content:encoded>RT @Be_Women_Sci: 🎆 On the 16th of June 2023, BeWiSe had the incredible opportunity to gather the board and esteemed members of the associa…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/avdjeugd/status/1674100437597683732"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 17:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/rVd67STe8d</title>
+      <link>https://twitter.com/AndrewHires/status/1674100867161812998</link>
+      <description>https://t.co/rVd67STe8d</description>
+      <content:encoded>https://t.co/rVd67STe8d&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1674100867161812998"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzuVof-aMAIDe_S.jpg" length="900" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>2000ft https://t.co/WI33VjkbW8</title>
+      <link>https://twitter.com/AndrewHires/status/1674101246469505025</link>
+      <description>2000ft https://t.co/WI33VjkbW8</description>
+      <content:encoded>2000ft https://t.co/WI33VjkbW8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1674101246469505025"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzuaKZMaEAEuV3M.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:03:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thank you for the kind words</title>
+      <link>https://twitter.com/elonmusk/status/1674101384390782976</link>
+      <description>Thank you for the kind words</description>
+      <content:encoded>Thank you for the kind words&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1674101384390782976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 17:04:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a playbook for elite-level sports: Master’s student Jerry Lu works to optimize the performance of both athletes and their sporting organizations. https://t.co/uhhqgczo9S https://t.co/Dwr3prIBWH</title>
+      <link>https://twitter.com/MIT/status/1674101664960114688</link>
+      <description>Building a playbook for elite-level sports: Master’s student Jerry Lu works to optimize the performance of both athletes and their sporting organizations. https://t.co/uhhqgczo9S https://t.co/Dwr3prIBWH</description>
+      <content:encoded>Building a playbook for elite-level sports: Master’s student Jerry Lu works to optimize the performance of both athletes and their sporting organizations. https://t.co/uhhqgczo9S https://t.co/Dwr3prIBWH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1674101664960114688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzualtNXsAEnNXe.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:05:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>very useful package for people fitting models to behavior. https://t.co/uRs5mx4KYF</title>
+      <link>https://twitter.com/KordingLab/status/1674102800576573440</link>
+      <description>very useful package for people fitting models to behavior. https://t.co/uRs5mx4KYF</description>
+      <content:encoded>very useful package for people fitting models to behavior. https://t.co/uRs5mx4KYF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1674102800576573440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 17:09:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
