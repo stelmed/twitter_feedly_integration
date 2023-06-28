@@ -6,204 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jun 2023 17:15:44 +0000</lastBuildDate>
-    <item>
-      <title>RT @munkdebate: You can now watch our Munk Debate on AI for free (below)
-
-Be it Resolved, AI research and development poses an existential…</title>
-      <link>https://twitter.com/ylecun/status/1673848299374227461</link>
-      <description>RT @munkdebate: You can now watch our Munk Debate on AI for free (below)
-
-Be it Resolved, AI research and development poses an existential…</description>
-      <content:encoded>RT @munkdebate: You can now watch our Munk Debate on AI for free (below)
-
-Be it Resolved, AI research and development poses an existential…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673848299374227461"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 00:18:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @hausfath: Great Bloomberg piece on the need for regulation of CDR and the critical importance of MRV. Also nice to see the verification…</title>
-      <link>https://twitter.com/thefreemanlab/status/1673851830542139394</link>
-      <description>RT @hausfath: Great Bloomberg piece on the need for regulation of CDR and the critical importance of MRV. Also nice to see the verification…</description>
-      <content:encoded>RT @hausfath: Great Bloomberg piece on the need for regulation of CDR and the critical importance of MRV. Also nice to see the verification…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/thefreemanlab/status/1673851830542139394"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 00:32:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/xXZEvpr4q5</title>
-      <link>https://twitter.com/elonmusk/status/1673852066572406784</link>
-      <description>https://t.co/xXZEvpr4q5</description>
-      <content:encoded>https://t.co/xXZEvpr4q5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1673852066572406784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fzq3lIGagAA2MV-.jpg" length="800" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 00:33:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: A cross-sectional study of explainable machine learning in Alzheimer’s disease: diagnostic classification using MR radiomic features: Introduction
-
-Alzheimer’s disease (AD) even nowadays remains a complex… #ageing #neuroscience https://t.co/kOkj8MmBwr</title>
-      <link>https://twitter.com/FrontNeurosci/status/1673862667013087233</link>
-      <description>New Research: A cross-sectional study of explainable machine learning in Alzheimer’s disease: diagnostic classification using MR radiomic features: Introduction
-
-Alzheimer’s disease (AD) even nowadays remains a complex… #ageing #neuroscience https://t.co/kOkj8MmBwr</description>
-      <content:encoded>New Research: A cross-sectional study of explainable machine learning in Alzheimer’s disease: diagnostic classification using MR radiomic features: Introduction
-
-Alzheimer’s disease (AD) even nowadays remains a complex… #ageing #neuroscience https://t.co/kOkj8MmBwr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673862667013087233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 01:15:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the latest #SciencePodcast🎙️, @boron110 talks with researcher Athanasia Tzika in a slithery segment on how snakes make scales.
-
-🎧 Listen here: https://t.co/Vssx4njccM @LANEVOL https://t.co/5a5PZKXs0l</title>
-      <link>https://twitter.com/ScienceMagazine/status/1673866377004826626</link>
-      <description>On the latest #SciencePodcast🎙️, @boron110 talks with researcher Athanasia Tzika in a slithery segment on how snakes make scales.
-
-🎧 Listen here: https://t.co/Vssx4njccM @LANEVOL https://t.co/5a5PZKXs0l</description>
-      <content:encoded>On the latest #SciencePodcast🎙️, @boron110 talks with researcher Athanasia Tzika in a slithery segment on how snakes make scales.
-
-🎧 Listen here: https://t.co/Vssx4njccM @LANEVOL https://t.co/5a5PZKXs0l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1673866377004826626"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1673866341160308737/pu/img/OmOVpu1VWeclyNZn.jpg" length="1080" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 01:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>I have been reviewing the CEBRA paper in depth. What really strikes me is the multi-sessions/animal embedding. I feel like this paper is only scratching the surface of what could be done there. For starter, we  could embed across species or even between models and experiments.</title>
-      <link>https://twitter.com/LecoqJerome/status/1673870441591750656</link>
-      <description>I have been reviewing the CEBRA paper in depth. What really strikes me is the multi-sessions/animal embedding. I feel like this paper is only scratching the surface of what could be done there. For starter, we  could embed across species or even between models and experiments.</description>
-      <content:encoded>I have been reviewing the CEBRA paper in depth. What really strikes me is the multi-sessions/animal embedding. I feel like this paper is only scratching the surface of what could be done there. For starter, we  could embed across species or even between models and experiments.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1673870441591750656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 01:46:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>In addition, I wonder if it could also be used for transfer training from experiment to models?</title>
-      <link>https://twitter.com/LecoqJerome/status/1673870442992635904</link>
-      <description>In addition, I wonder if it could also be used for transfer training from experiment to models?</description>
-      <content:encoded>In addition, I wonder if it could also be used for transfer training from experiment to models?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1673870442992635904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 01:46:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>I also would like to see this applied against key behavior variables like rewards or prediction errors...</title>
-      <link>https://twitter.com/LecoqJerome/status/1673870446482305024</link>
-      <description>I also would like to see this applied against key behavior variables like rewards or prediction errors...</description>
-      <content:encoded>I also would like to see this applied against key behavior variables like rewards or prediction errors...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1673870446482305024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 01:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making embedding robust against behavior is essentially what the cortex is probably trying to do inherently so the algorithm itself might have biological relevance...</title>
-      <link>https://twitter.com/LecoqJerome/status/1673870698631266305</link>
-      <description>Making embedding robust against behavior is essentially what the cortex is probably trying to do inherently so the algorithm itself might have biological relevance...</description>
-      <content:encoded>Making embedding robust against behavior is essentially what the cortex is probably trying to do inherently so the algorithm itself might have biological relevance...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1673870698631266305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 01:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Editorial: Brain arteriovenous malformations: cerebrovasculature behaving badly #Neuroscience https://t.co/SYjLJMxzRk</title>
-      <link>https://twitter.com/FrontNeurosci/status/1673875873681014785</link>
-      <description>New Research: Editorial: Brain arteriovenous malformations: cerebrovasculature behaving badly #Neuroscience https://t.co/SYjLJMxzRk</description>
-      <content:encoded>New Research: Editorial: Brain arteriovenous malformations: cerebrovasculature behaving badly #Neuroscience https://t.co/SYjLJMxzRk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1673875873681014785"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 02:08:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @LoganTCollins: I'd place Sigmund et al. as one of my favorite papers that I have read this year! They leverage protein engineering to c…</title>
-      <link>https://twitter.com/sofroniewn/status/1673877493730910209</link>
-      <description>RT @LoganTCollins: I'd place Sigmund et al. as one of my favorite papers that I have read this year! They leverage protein engineering to c…</description>
-      <content:encoded>RT @LoganTCollins: I'd place Sigmund et al. as one of my favorite papers that I have read this year! They leverage protein engineering to c…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1673877493730910209"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 02:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scientists have uncovered how the spatial arrangement of the kinase PDK1 shapes its substrate specificity—a finding that could inform methods to selectively manipulate PDK1 to target cancer and other disorders. #Biochemistry @SciSignal https://t.co/ok43F52S9o https://t.co/G4jkF1tDKR</title>
-      <link>https://twitter.com/ScienceMagazine/status/1673888977512693763</link>
-      <description>Scientists have uncovered how the spatial arrangement of the kinase PDK1 shapes its substrate specificity—a finding that could inform methods to selectively manipulate PDK1 to target cancer and other disorders. #Biochemistry @SciSignal https://t.co/ok43F52S9o https://t.co/G4jkF1tDKR</description>
-      <content:encoded>Scientists have uncovered how the spatial arrangement of the kinase PDK1 shapes its substrate specificity—a finding that could inform methods to selectively manipulate PDK1 to target cancer and other disorders. #Biochemistry @SciSignal https://t.co/ok43F52S9o https://t.co/G4jkF1tDKR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1673888977512693763"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzrZJ5RWcAAFYf4.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 03:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @A_Izquierdo1: Contribute to a collection of papers on the Neuroscience of Naturalistic Behavior in Oxford Open Neuroscience @OUPAcademi…</title>
-      <link>https://twitter.com/MargolisLab/status/1673894102788653058</link>
-      <description>RT @A_Izquierdo1: Contribute to a collection of papers on the Neuroscience of Naturalistic Behavior in Oxford Open Neuroscience @OUPAcademi…</description>
-      <content:encoded>RT @A_Izquierdo1: Contribute to a collection of papers on the Neuroscience of Naturalistic Behavior in Oxford Open Neuroscience @OUPAcademi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MargolisLab/status/1673894102788653058"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 03:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EricTopol: An inhaled Covid vaccine booster was more than 5-fold effective for inducing neutralizing antibodies at 28-days, and more du…</title>
-      <link>https://twitter.com/TonyZador/status/1673900566609825793</link>
-      <description>RT @EricTopol: An inhaled Covid vaccine booster was more than 5-fold effective for inducing neutralizing antibodies at 28-days, and more du…</description>
-      <content:encoded>RT @EricTopol: An inhaled Covid vaccine booster was more than 5-fold effective for inducing neutralizing antibodies at 28-days, and more du…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1673900566609825793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 03:46:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MetaAI: The Open Catalyst Challenge invites participants to help address the pressing challenges faced by the world due to energy scarc…</title>
-      <link>https://twitter.com/ylecun/status/1673907529447878661</link>
-      <description>RT @MetaAI: The Open Catalyst Challenge invites participants to help address the pressing challenges faced by the world due to energy scarc…</description>
-      <content:encoded>RT @MetaAI: The Open Catalyst Challenge invites participants to help address the pressing challenges faced by the world due to energy scarc…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673907529447878661"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 04:13:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @OpenCatalyst: 📢We're thrilled to announce the 3rd Open Catalyst Challenge @NeurIPSConf 2023! 
-
-This year's focus: computing adsorption…</title>
-      <link>https://twitter.com/ylecun/status/1673907559609057282</link>
-      <description>RT @OpenCatalyst: 📢We're thrilled to announce the 3rd Open Catalyst Challenge @NeurIPSConf 2023! 
-
-This year's focus: computing adsorption…</description>
-      <content:encoded>RT @OpenCatalyst: 📢We're thrilled to announce the 3rd Open Catalyst Challenge @NeurIPSConf 2023! 
-
-This year's focus: computing adsorption…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673907559609057282"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 04:13:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Virtualgoodz: Wow the @NablaTech team knows how to give a proper demo! 😂 Insane demonstration of their Copilot product for GPs: no set-…</title>
-      <link>https://twitter.com/ylecun/status/1673908155955249152</link>
-      <description>RT @Virtualgoodz: Wow the @NablaTech team knows how to give a proper demo! 😂 Insane demonstration of their Copilot product for GPs: no set-…</description>
-      <content:encoded>RT @Virtualgoodz: Wow the @NablaTech team knows how to give a proper demo! 😂 Insane demonstration of their Copilot product for GPs: no set-…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673908155955249152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 04:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>How does a mussel shell open and shut easily and without damage for hundreds of thousands of cycles during the bivalve’s lifetime?
-
-The answer lies in a combination of design and materials that resist brittle fracture over time, a new Science study finds. https://t.co/1vZClAndf6 https://t.co/iW3AJ93DVD</title>
-      <link>https://twitter.com/ScienceMagazine/status/1673911627588988931</link>
-      <description>How does a mussel shell open and shut easily and without damage for hundreds of thousands of cycles during the bivalve’s lifetime?
-
-The answer lies in a combination of design and materials that resist brittle fracture over time, a new Science study finds. https://t.co/1vZClAndf6 https://t.co/iW3AJ93DVD</description>
-      <content:encoded>How does a mussel shell open and shut easily and without damage for hundreds of thousands of cycles during the bivalve’s lifetime?
-
-The answer lies in a combination of design and materials that resist brittle fracture over time, a new Science study finds. https://t.co/1vZClAndf6 https://t.co/iW3AJ93DVD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1673911627588988931"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzrtwQhXgAM0LdU.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 04:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>I used to have even longer hair, but even now,they are still not white.
-Also, my ears are not pointy, and my archer skills are feeble. https://t.co/pk03jImgoE</title>
-      <link>https://twitter.com/ylecun/status/1673914716400361472</link>
-      <description>I used to have even longer hair, but even now,they are still not white.
-Also, my ears are not pointy, and my archer skills are feeble. https://t.co/pk03jImgoE</description>
-      <content:encoded>I used to have even longer hair, but even now,they are still not white.
-Also, my ears are not pointy, and my archer skills are feeble. https://t.co/pk03jImgoE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673914716400361472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 04:42:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nice MIT Tech Review piece by @Melissahei about our stance on AI existential risks, with quotes by @jpineau1 and me.
-
-https://t.co/GU0miQNDDf</title>
-      <link>https://twitter.com/ylecun/status/1673917336477130753</link>
-      <description>Nice MIT Tech Review piece by @Melissahei about our stance on AI existential risks, with quotes by @jpineau1 and me.
-
-https://t.co/GU0miQNDDf</description>
-      <content:encoded>Nice MIT Tech Review piece by @Melissahei about our stance on AI existential risks, with quotes by @jpineau1 and me.
-
-https://t.co/GU0miQNDDf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1673917336477130753"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 04:52:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>26 years ago #Today, #Galileo spacecraft captured this global view of #Io with a plume of volcano Pillan visible 
-
-[read more: https://t.co/hIBGrYSHbm] https://t.co/61fJFfppgM</title>
-      <link>https://twitter.com/Rainmaker1973/status/1673933524095717376</link>
-      <description>26 years ago #Today, #Galileo spacecraft captured this global view of #Io with a plume of volcano Pillan visible 
-
-[read more: https://t.co/hIBGrYSHbm] https://t.co/61fJFfppgM</description>
-      <content:encoded>26 years ago #Today, #Galileo spacecraft captured this global view of #Io with a plume of volcano Pillan visible 
-
-[read more: https://t.co/hIBGrYSHbm] https://t.co/61fJFfppgM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1673933524095717376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzsBobiXsAA05L3.jpg" length="675" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 05:57:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jun 2023 18:22:38 +0000</lastBuildDate>
     <item>
       <title>Lunge feeding—a common foraging technique of humpbacks and other rorqual whales characterized by rapid underwater lunges to capture dense patches of prey—is energy efficient even when prey is sparse, according to a new analysis in @ScienceAdvances. https://t.co/AEd7BV446A https://t.co/EcOtkR6JqD</title>
       <link>https://twitter.com/ScienceMagazine/status/1673934276989992960</link>
@@ -2096,6 +1899,199 @@ https://t.co/kqdi3vneEL https://t.co/SJe5XgcVzT&lt;blockquote class="twitter-twe
       <description>very useful package for people fitting models to behavior. https://t.co/uRs5mx4KYF</description>
       <content:encoded>very useful package for people fitting models to behavior. https://t.co/uRs5mx4KYF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1674102800576573440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 28 Jun 2023 17:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>The dynamics of pattern matching in camouflaging cuttlefish
+https://t.co/ilcLPjbbuK https://t.co/54glBnjdpo</title>
+      <link>https://twitter.com/gottapatchemall/status/1674104382529609728</link>
+      <description>The dynamics of pattern matching in camouflaging cuttlefish
+https://t.co/ilcLPjbbuK https://t.co/54glBnjdpo</description>
+      <content:encoded>The dynamics of pattern matching in camouflaging cuttlefish
+https://t.co/ilcLPjbbuK https://t.co/54glBnjdpo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1674104382529609728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzuczSWagAUjSsr.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:16:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>A consciousness “adversarial collaboration” yields its first results, how the mollusk inspires durable materials, and immune cells that may “jet ski” into action.
+
+➡️ Check out the inaugural #ScienceAdviser #newsletter: https://t.co/TFmnqZRsi6
+📨 Sign up: https://t.co/QWSfpCiw78 https://t.co/xosvXye9VP</title>
+      <link>https://twitter.com/ScienceMagazine/status/1674106556382576640</link>
+      <description>A consciousness “adversarial collaboration” yields its first results, how the mollusk inspires durable materials, and immune cells that may “jet ski” into action.
+
+➡️ Check out the inaugural #ScienceAdviser #newsletter: https://t.co/TFmnqZRsi6
+📨 Sign up: https://t.co/QWSfpCiw78 https://t.co/xosvXye9VP</description>
+      <content:encoded>A consciousness “adversarial collaboration” yields its first results, how the mollusk inspires durable materials, and immune cells that may “jet ski” into action.
+
+➡️ Check out the inaugural #ScienceAdviser #newsletter: https://t.co/TFmnqZRsi6
+📨 Sign up: https://t.co/QWSfpCiw78 https://t.co/xosvXye9VP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674106556382576640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzufCofWABMAtci.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:24:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>LSD increases sleep duration the night after microdosing
+https://t.co/lQ5kTWx9bU https://t.co/x2MGvHMB60</title>
+      <link>https://twitter.com/gottapatchemall/status/1674107126871121921</link>
+      <description>LSD increases sleep duration the night after microdosing
+https://t.co/lQ5kTWx9bU https://t.co/x2MGvHMB60</description>
+      <content:encoded>LSD increases sleep duration the night after microdosing
+https://t.co/lQ5kTWx9bU https://t.co/x2MGvHMB60&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1674107126871121921"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzufgegaMAAGp0P.png" length="658" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @aliceyting: TransitID is out today in Cell! This is a proximity labeling method for unbiased discovery of endogenous proteins that traf…</title>
+      <link>https://twitter.com/furthlab/status/1674107421982175232</link>
+      <description>RT @aliceyting: TransitID is out today in Cell! This is a proximity labeling method for unbiased discovery of endogenous proteins that traf…</description>
+      <content:encoded>RT @aliceyting: TransitID is out today in Cell! This is a proximity labeling method for unbiased discovery of endogenous proteins that traf…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1674107421982175232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 17:28:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SpaceX: Additional views from yesterday’s Ship 25 static fire https://t.co/dwdVETLJsV</title>
+      <link>https://twitter.com/MichaelGalanin/status/1674107569386684428</link>
+      <description>RT @SpaceX: Additional views from yesterday’s Ship 25 static fire https://t.co/dwdVETLJsV</description>
+      <content:encoded>RT @SpaceX: Additional views from yesterday’s Ship 25 static fire https://t.co/dwdVETLJsV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1674107569386684428"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzqPnW3aMAAmT_I.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @abhi_aggarwal1: 🚨 New preprint 🚨
+#jAspSnFR3: We developed a new genetically encoded indicator for detecting aspartate by re-engineering…</title>
+      <link>https://twitter.com/HHMIJanelia/status/1674108323031928832</link>
+      <description>RT @abhi_aggarwal1: 🚨 New preprint 🚨
+#jAspSnFR3: We developed a new genetically encoded indicator for detecting aspartate by re-engineering…</description>
+      <content:encoded>RT @abhi_aggarwal1: 🚨 New preprint 🚨
+#jAspSnFR3: We developed a new genetically encoded indicator for detecting aspartate by re-engineering…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1674108323031928832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 17:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Human pluripotent stem cells can be triggered to self-organize into 3D structures that mimic events in embryo development that occur following implantation into the uterus (in the absence of placental cell types), according to a study published in @Nature. https://t.co/3oU1qbkpBv https://t.co/U2fvwbFqwW</title>
+      <link>https://twitter.com/NaturePortfolio/status/1674109677624229898</link>
+      <description>Human pluripotent stem cells can be triggered to self-organize into 3D structures that mimic events in embryo development that occur following implantation into the uterus (in the absence of placental cell types), according to a study published in @Nature. https://t.co/3oU1qbkpBv https://t.co/U2fvwbFqwW</description>
+      <content:encoded>Human pluripotent stem cells can be triggered to self-organize into 3D structures that mimic events in embryo development that occur following implantation into the uterus (in the absence of placental cell types), according to a study published in @Nature. https://t.co/3oU1qbkpBv https://t.co/U2fvwbFqwW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1674109677624229898"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fzuh3PFXoAAErV1.jpg" length="1000" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @KavliFoundation: On July 25-26, please join us for a virtual conference, “SciPEP 2023: New Insights for Communicating Basic Science,” t…</title>
+      <link>https://twitter.com/KavliAtYale/status/1674112487115849733</link>
+      <description>RT @KavliFoundation: On July 25-26, please join us for a virtual conference, “SciPEP 2023: New Insights for Communicating Basic Science,” t…</description>
+      <content:encoded>RT @KavliFoundation: On July 25-26, please join us for a virtual conference, “SciPEP 2023: New Insights for Communicating Basic Science,” t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KavliAtYale/status/1674112487115849733"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 17:48:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Close ties to diverse stakeholders underpin critical emerging technologies: "These partnerships are necessary to successfully support the innovations that will shape the future," says @NIST Director Laurie Locascio. Hear more from her at #ERISummit: https://t.co/HCf3V4pa4u https://t.co/FTLbNCrlJY</title>
+      <link>https://twitter.com/DARPA/status/1674114540135383040</link>
+      <description>Close ties to diverse stakeholders underpin critical emerging technologies: "These partnerships are necessary to successfully support the innovations that will shape the future," says @NIST Director Laurie Locascio. Hear more from her at #ERISummit: https://t.co/HCf3V4pa4u https://t.co/FTLbNCrlJY</description>
+      <content:encoded>Close ties to diverse stakeholders underpin critical emerging technologies: "These partnerships are necessary to successfully support the innovations that will shape the future," says @NIST Director Laurie Locascio. Hear more from her at #ERISummit: https://t.co/HCf3V4pa4u https://t.co/FTLbNCrlJY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1674114540135383040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzumTZiWYBcKPql.png" length="768" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 17:56:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>The bacterial genus #Fusobacterium may be a previously unknown driver of #endometriosis, suggests a new clinical study that ties bacterial infiltration of the endometrium to a higher incidence of the condition in women. @ScienceTM https://t.co/cZ4n8qjZz4 https://t.co/Wf6l0eMbQ7</title>
+      <link>https://twitter.com/ScienceMagazine/status/1674115533640286209</link>
+      <description>The bacterial genus #Fusobacterium may be a previously unknown driver of #endometriosis, suggests a new clinical study that ties bacterial infiltration of the endometrium to a higher incidence of the condition in women. @ScienceTM https://t.co/cZ4n8qjZz4 https://t.co/Wf6l0eMbQ7</description>
+      <content:encoded>The bacterial genus #Fusobacterium may be a previously unknown driver of #endometriosis, suggests a new clinical study that ties bacterial infiltration of the endometrium to a higher incidence of the condition in women. @ScienceTM https://t.co/cZ4n8qjZz4 https://t.co/Wf6l0eMbQ7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674115533640286209"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzunNJXX0A8tjSK.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 18:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AndrewYNg: New course! Generative AI with Large Language Models, created with @AWS and hosted on @coursera. This course goes deep into…</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1674117054595489798</link>
+      <description>RT @AndrewYNg: New course! Generative AI with Large Language Models, created with @AWS and hosted on @coursera. This course goes deep into…</description>
+      <content:encoded>RT @AndrewYNg: New course! Generative AI with Large Language Models, created with @AWS and hosted on @coursera. This course goes deep into…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1674117054595489798"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 18:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers at @MDAndersonNews + @UCIrvine  unveil the Human Breast Cell Atlas—a blueprint of breast tissue in @Nature that
+
+✅ Benchmarks healthy breast tissue
+🩺 Aids early detection + understanding of disease
+🔬Inspires new diagnostic tools &amp;amp; treatments
+https://t.co/QNVceBGyB9</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1674118286093570055</link>
+      <description>Researchers at @MDAndersonNews + @UCIrvine  unveil the Human Breast Cell Atlas—a blueprint of breast tissue in @Nature that
+
+✅ Benchmarks healthy breast tissue
+🩺 Aids early detection + understanding of disease
+🔬Inspires new diagnostic tools &amp;amp; treatments
+https://t.co/QNVceBGyB9</description>
+      <content:encoded>Researchers at @MDAndersonNews + @UCIrvine  unveil the Human Breast Cell Atlas—a blueprint of breast tissue in @Nature that
+
+✅ Benchmarks healthy breast tissue
+🩺 Aids early detection + understanding of disease
+🔬Inspires new diagnostic tools &amp;amp; treatments
+https://t.co/QNVceBGyB9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1674118286093570055"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 18:11:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏅#TFCommunitySpotlight Winner: Sam Brink🏅
+
+Sam created Parker, a smart parking tool that enables you to monitor parking spots using a webcam, cellphone camera, or any virtual camera. Great work!
+
+Learn more ➡️ https://t.co/YrrSQlyaiU https://t.co/AIXCCNqn3V</title>
+      <link>https://twitter.com/TensorFlow/status/1674118541287489537</link>
+      <description>🏅#TFCommunitySpotlight Winner: Sam Brink🏅
+
+Sam created Parker, a smart parking tool that enables you to monitor parking spots using a webcam, cellphone camera, or any virtual camera. Great work!
+
+Learn more ➡️ https://t.co/YrrSQlyaiU https://t.co/AIXCCNqn3V</description>
+      <content:encoded>🏅#TFCommunitySpotlight Winner: Sam Brink🏅
+
+Sam created Parker, a smart parking tool that enables you to monitor parking spots using a webcam, cellphone camera, or any virtual camera. Great work!
+
+Learn more ➡️ https://t.co/YrrSQlyaiU https://t.co/AIXCCNqn3V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1674118541287489537"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1674118493577400330/pu/img/ZMW4fXgyuPMJIr5x.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 28 Jun 2023 18:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ScienceAdvances: Much of how spatial asymmetry organizes in cells and how cells form organs is still unknown. Two studies propose a mec…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1674118867415711744</link>
+      <description>RT @ScienceAdvances: Much of how spatial asymmetry organizes in cells and how cells form organs is still unknown. Two studies propose a mec…</description>
+      <content:encoded>RT @ScienceAdvances: Much of how spatial asymmetry organizes in cells and how cells form organs is still unknown. Two studies propose a mec…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674118867415711744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 18:13:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PhilCorlett1: Josue Caro is a @WuTsaiYale postdoctoral scholar using transformer models to integrate neural data across different measu…</title>
+      <link>https://twitter.com/jess_cardin/status/1674119557508653060</link>
+      <description>RT @PhilCorlett1: Josue Caro is a @WuTsaiYale postdoctoral scholar using transformer models to integrate neural data across different measu…</description>
+      <content:encoded>RT @PhilCorlett1: Josue Caro is a @WuTsaiYale postdoctoral scholar using transformer models to integrate neural data across different measu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jess_cardin/status/1674119557508653060"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 18:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jorgemlg: Finally, a peak moment of interdisciplinary coolness: @MayBrittMoser (Nobel Prize of Physiology/Medicine) sharing with #ASSC2…</title>
+      <link>https://twitter.com/KISNeuro/status/1674120289506975744</link>
+      <description>RT @jorgemlg: Finally, a peak moment of interdisciplinary coolness: @MayBrittMoser (Nobel Prize of Physiology/Medicine) sharing with #ASSC2…</description>
+      <content:encoded>RT @jorgemlg: Finally, a peak moment of interdisciplinary coolness: @MayBrittMoser (Nobel Prize of Physiology/Medicine) sharing with #ASSC2…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1674120289506975744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 18:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @diceyjennings: Agree that @MayBrittMoser is the coolest…I asked her for tips on how to lead a group that is both successful and support…</title>
+      <link>https://twitter.com/KISNeuro/status/1674120352538951680</link>
+      <description>RT @diceyjennings: Agree that @MayBrittMoser is the coolest…I asked her for tips on how to lead a group that is both successful and support…</description>
+      <content:encoded>RT @diceyjennings: Agree that @MayBrittMoser is the coolest…I asked her for tips on how to lead a group that is both successful and support…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1674120352538951680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 18:19:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MayBrittMoser: @diceyjennings And our slogan is: Excellent science, Happy people, Happy animals and Diversity @KISNeuro 💃🏻🥳🤩</title>
+      <link>https://twitter.com/KISNeuro/status/1674120368938786816</link>
+      <description>RT @MayBrittMoser: @diceyjennings And our slogan is: Excellent science, Happy people, Happy animals and Diversity @KISNeuro 💃🏻🥳🤩</description>
+      <content:encoded>RT @MayBrittMoser: @diceyjennings And our slogan is: Excellent science, Happy people, Happy animals and Diversity @KISNeuro 💃🏻🥳🤩&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1674120368938786816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 18:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jorgemlg: An #ASSC26 highlight for me was the career panel. Thanks to @MetzgarRachel for inviting me and to the rest of the student com…</title>
+      <link>https://twitter.com/KISNeuro/status/1674120475218268174</link>
+      <description>RT @jorgemlg: An #ASSC26 highlight for me was the career panel. Thanks to @MetzgarRachel for inviting me and to the rest of the student com…</description>
+      <content:encoded>RT @jorgemlg: An #ASSC26 highlight for me was the career panel. Thanks to @MetzgarRachel for inviting me and to the rest of the student com…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1674120475218268174"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 18:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's Okay to say, "I don't know."</title>
+      <link>https://twitter.com/ProfFeynman/status/1674120684820369408</link>
+      <description>It's Okay to say, "I don't know."</description>
+      <content:encoded>It's Okay to say, "I don't know."&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1674120684820369408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 18:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
