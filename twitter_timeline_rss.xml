@@ -6,212 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jun 2023 14:15:34 +0000</lastBuildDate>
-    <item>
-      <title>RT @ScienceAdvances: Much of how spatial asymmetry organizes in cells and how cells form organs is still unknown. Two studies propose a mec…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1674118867415711744</link>
-      <description>RT @ScienceAdvances: Much of how spatial asymmetry organizes in cells and how cells form organs is still unknown. Two studies propose a mec…</description>
-      <content:encoded>RT @ScienceAdvances: Much of how spatial asymmetry organizes in cells and how cells form organs is still unknown. Two studies propose a mec…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674118867415711744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 18:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @PhilCorlett1: Josue Caro is a @WuTsaiYale postdoctoral scholar using transformer models to integrate neural data across different measu…</title>
-      <link>https://twitter.com/jess_cardin/status/1674119557508653060</link>
-      <description>RT @PhilCorlett1: Josue Caro is a @WuTsaiYale postdoctoral scholar using transformer models to integrate neural data across different measu…</description>
-      <content:encoded>RT @PhilCorlett1: Josue Caro is a @WuTsaiYale postdoctoral scholar using transformer models to integrate neural data across different measu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jess_cardin/status/1674119557508653060"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 18:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jorgemlg: Finally, a peak moment of interdisciplinary coolness: @MayBrittMoser (Nobel Prize of Physiology/Medicine) sharing with #ASSC2…</title>
-      <link>https://twitter.com/KISNeuro/status/1674120289506975744</link>
-      <description>RT @jorgemlg: Finally, a peak moment of interdisciplinary coolness: @MayBrittMoser (Nobel Prize of Physiology/Medicine) sharing with #ASSC2…</description>
-      <content:encoded>RT @jorgemlg: Finally, a peak moment of interdisciplinary coolness: @MayBrittMoser (Nobel Prize of Physiology/Medicine) sharing with #ASSC2…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1674120289506975744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 18:19:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @diceyjennings: Agree that @MayBrittMoser is the coolest…I asked her for tips on how to lead a group that is both successful and support…</title>
-      <link>https://twitter.com/KISNeuro/status/1674120352538951680</link>
-      <description>RT @diceyjennings: Agree that @MayBrittMoser is the coolest…I asked her for tips on how to lead a group that is both successful and support…</description>
-      <content:encoded>RT @diceyjennings: Agree that @MayBrittMoser is the coolest…I asked her for tips on how to lead a group that is both successful and support…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1674120352538951680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 18:19:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MayBrittMoser: @diceyjennings And our slogan is: Excellent science, Happy people, Happy animals and Diversity @KISNeuro 💃🏻🥳🤩</title>
-      <link>https://twitter.com/KISNeuro/status/1674120368938786816</link>
-      <description>RT @MayBrittMoser: @diceyjennings And our slogan is: Excellent science, Happy people, Happy animals and Diversity @KISNeuro 💃🏻🥳🤩</description>
-      <content:encoded>RT @MayBrittMoser: @diceyjennings And our slogan is: Excellent science, Happy people, Happy animals and Diversity @KISNeuro 💃🏻🥳🤩&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1674120368938786816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 18:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jorgemlg: An #ASSC26 highlight for me was the career panel. Thanks to @MetzgarRachel for inviting me and to the rest of the student com…</title>
-      <link>https://twitter.com/KISNeuro/status/1674120475218268174</link>
-      <description>RT @jorgemlg: An #ASSC26 highlight for me was the career panel. Thanks to @MetzgarRachel for inviting me and to the rest of the student com…</description>
-      <content:encoded>RT @jorgemlg: An #ASSC26 highlight for me was the career panel. Thanks to @MetzgarRachel for inviting me and to the rest of the student com…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1674120475218268174"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 18:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>It's Okay to say, "I don't know."</title>
-      <link>https://twitter.com/ProfFeynman/status/1674120684820369408</link>
-      <description>It's Okay to say, "I don't know."</description>
-      <content:encoded>It's Okay to say, "I don't know."&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1674120684820369408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 18:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @PhysInHistory: The Genius of James Clerk Maxwell 📑
-
-James C. Maxwell published his first scientific paper at the age of 14, on the cons…</title>
-      <link>https://twitter.com/ProfFeynman/status/1674122814427889664</link>
-      <description>RT @PhysInHistory: The Genius of James Clerk Maxwell 📑
-
-James C. Maxwell published his first scientific paper at the age of 14, on the cons…</description>
-      <content:encoded>RT @PhysInHistory: The Genius of James Clerk Maxwell 📑
-
-James C. Maxwell published his first scientific paper at the age of 14, on the cons…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1674122814427889664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 18:29:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @GSchertler: I am the organisier of ICRP 2024 please take note and add to your agenda and retweet! https://t.co/csuD96AODN</title>
-      <link>https://twitter.com/OferYizhar/status/1674123658015526917</link>
-      <description>RT @GSchertler: I am the organisier of ICRP 2024 please take note and add to your agenda and retweet! https://t.co/csuD96AODN</description>
-      <content:encoded>RT @GSchertler: I am the organisier of ICRP 2024 please take note and add to your agenda and retweet! https://t.co/csuD96AODN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1674123658015526917"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzuqvIjWIAAvakW.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 18:32:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>A study in @NatureBiotech uses microelectronics fibers to modulate and record the crosstalk between the brain and gut. https://t.co/ZD5uLsI2Kr https://t.co/j6PWYSIbja</title>
-      <link>https://twitter.com/NaturePortfolio/status/1674125783885926406</link>
-      <description>A study in @NatureBiotech uses microelectronics fibers to modulate and record the crosstalk between the brain and gut. https://t.co/ZD5uLsI2Kr https://t.co/j6PWYSIbja</description>
-      <content:encoded>A study in @NatureBiotech uses microelectronics fibers to modulate and record the crosstalk between the brain and gut. https://t.co/ZD5uLsI2Kr https://t.co/j6PWYSIbja&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1674125783885926406"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fzuwgv7X0BM8fvk.jpg" length="1066" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine is out! 
-
-Scientists present a drug-delivering implant for HIV PrEP,…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1674131139051638804</link>
-      <description>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine is out! 
-
-Scientists present a drug-delivering implant for HIV PrEP,…</description>
-      <content:encoded>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine is out! 
-
-Scientists present a drug-delivering implant for HIV PrEP,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674131139051638804"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 19:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Characterization of diffusion magnetic resonance imaging revealing relationships between white matter disconnection and behavioral disturbances in mild cognitive impairment: a systematic review: White matter disconnection is… #Neuroscience https://t.co/ARRRLaG5jG</title>
-      <link>https://twitter.com/FrontNeurosci/status/1674131687087955968</link>
-      <description>New Research: Characterization of diffusion magnetic resonance imaging revealing relationships between white matter disconnection and behavioral disturbances in mild cognitive impairment: a systematic review: White matter disconnection is… #Neuroscience https://t.co/ARRRLaG5jG</description>
-      <content:encoded>New Research: Characterization of diffusion magnetic resonance imaging revealing relationships between white matter disconnection and behavioral disturbances in mild cognitive impairment: a systematic review: White matter disconnection is… #Neuroscience https://t.co/ARRRLaG5jG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674131687087955968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 19:04:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ODagliyan: We are looking for postdocs for an ERC-funded project involving molecular mechanisms of neural circuits in the mouse brain.…</title>
-      <link>https://twitter.com/CarlenLab/status/1674133489464098817</link>
-      <description>RT @ODagliyan: We are looking for postdocs for an ERC-funded project involving molecular mechanisms of neural circuits in the mouse brain.…</description>
-      <content:encoded>RT @ODagliyan: We are looking for postdocs for an ERC-funded project involving molecular mechanisms of neural circuits in the mouse brain.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CarlenLab/status/1674133489464098817"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 19:11:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insights into the genetic architecture of multiple sclerosis severity https://t.co/SV38v4gTVf</title>
-      <link>https://twitter.com/NatureNV/status/1674134031133298714</link>
-      <description>Insights into the genetic architecture of multiple sclerosis severity https://t.co/SV38v4gTVf</description>
-      <content:encoded>Insights into the genetic architecture of multiple sclerosis severity https://t.co/SV38v4gTVf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1674134031133298714"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 19:13:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Drawing upon my own journey as a first-generation student and member of the LGBT+ community, I am dedicated to serving as a mentor and advocate for students who face similar challenges." 
-
-Proud to have @__morozco as a #NeuroAdvocate!  
-
-#pridemonth #ECPA https://t.co/TGlztvFmi1</title>
-      <link>https://twitter.com/SfNtweets/status/1674136188863631397</link>
-      <description>“Drawing upon my own journey as a first-generation student and member of the LGBT+ community, I am dedicated to serving as a mentor and advocate for students who face similar challenges." 
-
-Proud to have @__morozco as a #NeuroAdvocate!  
-
-#pridemonth #ECPA https://t.co/TGlztvFmi1</description>
-      <content:encoded>“Drawing upon my own journey as a first-generation student and member of the LGBT+ community, I am dedicated to serving as a mentor and advocate for students who face similar challenges." 
-
-Proud to have @__morozco as a #NeuroAdvocate!  
-
-#pridemonth #ECPA https://t.co/TGlztvFmi1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1674136188863631397"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 19:22:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @pfau: We cannot rule out the possibility that radio communication will alert hostile alien superintelligences to our whereabouts, trigg…</title>
-      <link>https://twitter.com/tyrell_turing/status/1674136722882416672</link>
-      <description>RT @pfau: We cannot rule out the possibility that radio communication will alert hostile alien superintelligences to our whereabouts, trigg…</description>
-      <content:encoded>RT @pfau: We cannot rule out the possibility that radio communication will alert hostile alien superintelligences to our whereabouts, trigg…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1674136722882416672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 19:24:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>In the new play Love + Science, biologist @davidjglassM "[brings] the scientific community something to treasure: a play in which scientists do realistic research while embracing their humanity."
-
-Read the @SciMagBooks review by @hholdenthorp: https://t.co/IhnM9rBxBz https://t.co/rVFjYqyjoD</title>
-      <link>https://twitter.com/ScienceMagazine/status/1674138133196165138</link>
-      <description>In the new play Love + Science, biologist @davidjglassM "[brings] the scientific community something to treasure: a play in which scientists do realistic research while embracing their humanity."
-
-Read the @SciMagBooks review by @hholdenthorp: https://t.co/IhnM9rBxBz https://t.co/rVFjYqyjoD</description>
-      <content:encoded>In the new play Love + Science, biologist @davidjglassM "[brings] the scientific community something to treasure: a play in which scientists do realistic research while embracing their humanity."
-
-Read the @SciMagBooks review by @hholdenthorp: https://t.co/IhnM9rBxBz https://t.co/rVFjYqyjoD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674138133196165138"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fzu7wpvXsAATTvy.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 19:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @UConn: Jonathan XV was picked up and brought home to UConn on National Mascot Day – and will soon be a fixture on campus as he learns t…</title>
-      <link>https://twitter.com/lesloew/status/1674138804104630272</link>
-      <description>RT @UConn: Jonathan XV was picked up and brought home to UConn on National Mascot Day – and will soon be a fixture on campus as he learns t…</description>
-      <content:encoded>RT @UConn: Jonathan XV was picked up and brought home to UConn on National Mascot Day – and will soon be a fixture on campus as he learns t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/lesloew/status/1674138804104630272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 19:32:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @UConn: There’s a new Husky on campus – welcome to UConn, Jonathan XV 💙 https://t.co/UnKGKosWDh</title>
-      <link>https://twitter.com/lesloew/status/1674139207890272256</link>
-      <description>RT @UConn: There’s a new Husky on campus – welcome to UConn, Jonathan XV 💙 https://t.co/UnKGKosWDh</description>
-      <content:encoded>RT @UConn: There’s a new Husky on campus – welcome to UConn, Jonathan XV 💙 https://t.co/UnKGKosWDh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/lesloew/status/1674139207890272256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fzpg1PNagAA3G_U.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 19:34:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EvanDHynes: Exciting news from @Climatebase...
-
-WE'RE HIRING! 🎉 
-
-✍️ Writers
-📣 Content Marketing Manager
-⚙️ Fellowship Operations
-
-Appl…</title>
-      <link>https://twitter.com/neurograce/status/1674139239330598944</link>
-      <description>RT @EvanDHynes: Exciting news from @Climatebase...
-
-WE'RE HIRING! 🎉 
-
-✍️ Writers
-📣 Content Marketing Manager
-⚙️ Fellowship Operations
-
-Appl…</description>
-      <content:encoded>RT @EvanDHynes: Exciting news from @Climatebase...
-
-WE'RE HIRING! 🎉 
-
-✍️ Writers
-📣 Content Marketing Manager
-⚙️ Fellowship Operations
-
-Appl…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1674139239330598944"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 19:34:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @zhangf: Since the discovery of CRISPR-Cas systems, people have wondered if a similar type of system exists in eukaryotes. Today, we rep…</title>
-      <link>https://twitter.com/OferYizhar/status/1674141192248782855</link>
-      <description>RT @zhangf: Since the discovery of CRISPR-Cas systems, people have wondered if a similar type of system exists in eukaryotes. Today, we rep…</description>
-      <content:encoded>RT @zhangf: Since the discovery of CRISPR-Cas systems, people have wondered if a similar type of system exists in eukaryotes. Today, we rep…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1674141192248782855"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 19:42:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jun 2023 15:17:53 +0000</lastBuildDate>
     <item>
       <title>Here are some special volume equations which are used for rocket nose cones
 
@@ -2235,6 +2030,205 @@ We are still learning from operating in this harsh environment, but we’ll buil
       <description>RT @SfNJournals: New #JNeurosci research from @AndersFjell et al. @LCBC_UiO @LifebrainEU suggests some people can cope with less #sleep wit…</description>
       <content:encoded>RT @SfNJournals: New #JNeurosci research from @AndersFjell et al. @LCBC_UiO @LifebrainEU suggests some people can cope with less #sleep wit…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1674419899203198976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 29 Jun 2023 14:09:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study in @Nature shows that the perception of moral decline is pervasive, perdurable, unfounded and easily produced, and suggest that this illusion has implications for research. https://t.co/NOGTfgMooo https://t.co/c7dy241Sen</title>
+      <link>https://twitter.com/NaturePortfolio/status/1674423747917520899</link>
+      <description>A study in @Nature shows that the perception of moral decline is pervasive, perdurable, unfounded and easily produced, and suggest that this illusion has implications for research. https://t.co/NOGTfgMooo https://t.co/c7dy241Sen</description>
+      <content:encoded>A study in @Nature shows that the perception of moral decline is pervasive, perdurable, unfounded and easily produced, and suggest that this illusion has implications for research. https://t.co/NOGTfgMooo https://t.co/c7dy241Sen&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1674423747917520899"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fzy_ghyaEAYJSpF.jpg" length="1066" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ZebrafishRock: Unanswered Q from Slack: Has anyone had any luck using fluorescent timers in #zebrafish?  Specifically, the blue-to-red…</title>
+      <link>https://twitter.com/Addgene/status/1674424054311419907</link>
+      <description>RT @ZebrafishRock: Unanswered Q from Slack: Has anyone had any luck using fluorescent timers in #zebrafish?  Specifically, the blue-to-red…</description>
+      <content:encoded>RT @ZebrafishRock: Unanswered Q from Slack: Has anyone had any luck using fluorescent timers in #zebrafish?  Specifically, the blue-to-red…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1674424054311419907"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 14:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DrLeoRios: Looks great! A positive control for high-complexity golden gate assembly. Junction sites were predicted using comprehensive…</title>
+      <link>https://twitter.com/Addgene/status/1674424116479430657</link>
+      <description>RT @DrLeoRios: Looks great! A positive control for high-complexity golden gate assembly. Junction sites were predicted using comprehensive…</description>
+      <content:encoded>RT @DrLeoRios: Looks great! A positive control for high-complexity golden gate assembly. Junction sites were predicted using comprehensive…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1674424116479430657"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 14:26:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharon M. Kolb will be awarded an honorary doctorate at the Faculty of Social Sciences, Umeå University, in 2023. She has over thirty years of teaching experience and has been working with the internationalisation of higher education for many years. https://t.co/64qlLPPyeP</title>
+      <link>https://twitter.com/umeauniversity/status/1674424449486196742</link>
+      <description>Sharon M. Kolb will be awarded an honorary doctorate at the Faculty of Social Sciences, Umeå University, in 2023. She has over thirty years of teaching experience and has been working with the internationalisation of higher education for many years. https://t.co/64qlLPPyeP</description>
+      <content:encoded>Sharon M. Kolb will be awarded an honorary doctorate at the Faculty of Social Sciences, Umeå University, in 2023. She has over thirty years of teaching experience and has been working with the internationalisation of higher education for many years. https://t.co/64qlLPPyeP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/umeauniversity/status/1674424449486196742"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 14:27:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MPIfR_Bonn: Watch researchers at the MPIfR explain the exciting gravitational wave results:
+
+#PulsarTiming #GravitationalWaves #BlackHo…</title>
+      <link>https://twitter.com/maxplanckpress/status/1674424453328175107</link>
+      <description>RT @MPIfR_Bonn: Watch researchers at the MPIfR explain the exciting gravitational wave results:
+
+#PulsarTiming #GravitationalWaves #BlackHo…</description>
+      <content:encoded>RT @MPIfR_Bonn: Watch researchers at the MPIfR explain the exciting gravitational wave results:
+
+#PulsarTiming #GravitationalWaves #BlackHo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1674424453328175107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 14:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @weijima01: "Behind the paper" is a great series by @NaturePortfolio. Here, I'm I trying to tell the honest story of the lab's recent pa…</title>
+      <link>https://twitter.com/NaturePortfolio/status/1674425259586621442</link>
+      <description>RT @weijima01: "Behind the paper" is a great series by @NaturePortfolio. Here, I'm I trying to tell the honest story of the lab's recent pa…</description>
+      <content:encoded>RT @weijima01: "Behind the paper" is a great series by @NaturePortfolio. Here, I'm I trying to tell the honest story of the lab's recent pa…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1674425259586621442"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 14:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Enactive artificial intelligence: subverting gender norms in human-robot interaction: Introduction
+
+This paper presents Enactive Artificial Intelligence (eAI) as a gender-inclusive approach to AI, emphasizing the need to… #Neurorobotics https://t.co/RT6bEUcZ2w</title>
+      <link>https://twitter.com/FrontNeurosci/status/1674427386459488260</link>
+      <description>New Research: Enactive artificial intelligence: subverting gender norms in human-robot interaction: Introduction
+
+This paper presents Enactive Artificial Intelligence (eAI) as a gender-inclusive approach to AI, emphasizing the need to… #Neurorobotics https://t.co/RT6bEUcZ2w</description>
+      <content:encoded>New Research: Enactive artificial intelligence: subverting gender norms in human-robot interaction: Introduction
+
+This paper presents Enactive Artificial Intelligence (eAI) as a gender-inclusive approach to AI, emphasizing the need to… #Neurorobotics https://t.co/RT6bEUcZ2w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674427386459488260"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 14:39:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moongooses typically protect themselves from predators in groups, but when left alone, this is their primary strategy.
+
+See this one scaring away a pride of lionesses
+
+[📹 Jérôme Guillaumot: https://t.co/O8OC3nW0Le]
+https://t.co/xjjYhZ59zK</title>
+      <link>https://twitter.com/Rainmaker1973/status/1674427939180642310</link>
+      <description>Moongooses typically protect themselves from predators in groups, but when left alone, this is their primary strategy.
+
+See this one scaring away a pride of lionesses
+
+[📹 Jérôme Guillaumot: https://t.co/O8OC3nW0Le]
+https://t.co/xjjYhZ59zK</description>
+      <content:encoded>Moongooses typically protect themselves from predators in groups, but when left alone, this is their primary strategy.
+
+See this one scaring away a pride of lionesses
+
+[📹 Jérôme Guillaumot: https://t.co/O8OC3nW0Le]
+https://t.co/xjjYhZ59zK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674427939180642310"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1674342890271825921/pu/img/6F4nuKVa8DOSFm-M.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 14:41:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Please RT. We are looking for a motivated research technician to take part in exciting studies on how the brain combines sensory evidence and prior knowledge for sensory perception and decision-making. Great long-term prospects or also perfect before PhD https://t.co/1eYYrkq7IP</title>
+      <link>https://twitter.com/SonjaBHofer/status/1674428481751638019</link>
+      <description>Please RT. We are looking for a motivated research technician to take part in exciting studies on how the brain combines sensory evidence and prior knowledge for sensory perception and decision-making. Great long-term prospects or also perfect before PhD https://t.co/1eYYrkq7IP</description>
+      <content:encoded>Please RT. We are looking for a motivated research technician to take part in exciting studies on how the brain combines sensory evidence and prior knowledge for sensory perception and decision-making. Great long-term prospects or also perfect before PhD https://t.co/1eYYrkq7IP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SonjaBHofer/status/1674428481751638019"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 14:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Powered Coding Will Add $1.5 trillion to Global GDP, Say Researchers https://t.co/wNktEXPGyY https://t.co/1S3icsh4VZ</title>
+      <link>https://twitter.com/arxivblog/status/1674429462618963972</link>
+      <description>AI-Powered Coding Will Add $1.5 trillion to Global GDP, Say Researchers https://t.co/wNktEXPGyY https://t.co/1S3icsh4VZ</description>
+      <content:encoded>AI-Powered Coding Will Add $1.5 trillion to Global GDP, Say Researchers https://t.co/wNktEXPGyY https://t.co/1S3icsh4VZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/arxivblog/status/1674429462618963972"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzzEtYbaUAEcsy1.png" length="825" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 14:47:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>A lens that brings objects back to an 8-bit status
+
+[read more: https://t.co/r8djWVgat6]
+https://t.co/P4KJn09C9f</title>
+      <link>https://twitter.com/Rainmaker1973/status/1674430043857248258</link>
+      <description>A lens that brings objects back to an 8-bit status
+
+[read more: https://t.co/r8djWVgat6]
+https://t.co/P4KJn09C9f</description>
+      <content:encoded>A lens that brings objects back to an 8-bit status
+
+[read more: https://t.co/r8djWVgat6]
+https://t.co/P4KJn09C9f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674430043857248258"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1674024038489022467/pu/img/ZN-XtLxBsNNYViaz.jpg" length="532" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 14:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪🏾 Strong teacher-student connections = 📚 increased learning
+
+Learn how @HowardUms2 uses @SummitSpark's focus on mentorship to guide students as they grow and develop the skills needed to succeed in and out of the classroom https://t.co/apB2oRzvLL</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1674432614944624644</link>
+      <description>💪🏾 Strong teacher-student connections = 📚 increased learning
+
+Learn how @HowardUms2 uses @SummitSpark's focus on mentorship to guide students as they grow and develop the skills needed to succeed in and out of the classroom https://t.co/apB2oRzvLL</description>
+      <content:encoded>💪🏾 Strong teacher-student connections = 📚 increased learning
+
+Learn how @HowardUms2 uses @SummitSpark's focus on mentorship to guide students as they grow and develop the skills needed to succeed in and out of the classroom https://t.co/apB2oRzvLL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1674432614944624644"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 15:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>With fantastic image quality, high contrast and customisable settings – the Scientifica SciCam Pro will make your patch clamp experiments easier. Discover more here https://t.co/7bsaRTBHo8 https://t.co/O0sUGujJXu</title>
+      <link>https://twitter.com/Scientifica_Int/status/1674432818263498753</link>
+      <description>With fantastic image quality, high contrast and customisable settings – the Scientifica SciCam Pro will make your patch clamp experiments easier. Discover more here https://t.co/7bsaRTBHo8 https://t.co/O0sUGujJXu</description>
+      <content:encoded>With fantastic image quality, high contrast and customisable settings – the Scientifica SciCam Pro will make your patch clamp experiments easier. Discover more here https://t.co/7bsaRTBHo8 https://t.co/O0sUGujJXu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1674432818263498753"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzzHxXkaEAEzw-y.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 15:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our latest study, led by @res_chetko, showing that people correct reaches more quickly for objects that move continuously than for lights that extinguish in one location and instantaneously appear in another location. https://t.co/4uNDV6suSY</title>
+      <link>https://twitter.com/andpru/status/1674433162066239488</link>
+      <description>Our latest study, led by @res_chetko, showing that people correct reaches more quickly for objects that move continuously than for lights that extinguish in one location and instantaneously appear in another location. https://t.co/4uNDV6suSY</description>
+      <content:encoded>Our latest study, led by @res_chetko, showing that people correct reaches more quickly for objects that move continuously than for lights that extinguish in one location and instantaneously appear in another location. https://t.co/4uNDV6suSY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1674433162066239488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 15:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graduate student Cecilé Sadler brings STEM and coding activities to the local community organization blackyard, and investigates what makes a positive learning environment for the students. https://t.co/8ojalGzNyk https://t.co/BaRbU5tA5O</title>
+      <link>https://twitter.com/MIT/status/1674433855942455296</link>
+      <description>Graduate student Cecilé Sadler brings STEM and coding activities to the local community organization blackyard, and investigates what makes a positive learning environment for the students. https://t.co/8ojalGzNyk https://t.co/BaRbU5tA5O</description>
+      <content:encoded>Graduate student Cecilé Sadler brings STEM and coding activities to the local community organization blackyard, and investigates what makes a positive learning environment for the students. https://t.co/8ojalGzNyk https://t.co/BaRbU5tA5O&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1674433855942455296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzzIt_CX0AAi3KQ.jpg" length="1000" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 15:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>This week's dip into Nature's archive considers the use of symbols in chemistry and features an octopus baby boom https://t.co/gaHJIWtNx0 https://t.co/fWNNQUPA7n</title>
+      <link>https://twitter.com/NatureNV/status/1674434110503403521</link>
+      <description>This week's dip into Nature's archive considers the use of symbols in chemistry and features an octopus baby boom https://t.co/gaHJIWtNx0 https://t.co/fWNNQUPA7n</description>
+      <content:encoded>This week's dip into Nature's archive considers the use of symbols in chemistry and features an octopus baby boom https://t.co/gaHJIWtNx0 https://t.co/fWNNQUPA7n&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1674434110503403521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzzI8z1acAA1Dq-.jpg" length="1024" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 15:06:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Liatris ligulistylis, also known as meadow blazingstar, is irresistible to Monarch butterflies. They flock to the purple flower for the August/September magical monarch migration
+
+[📹 David Domoney]
+https://t.co/sMn0VGCF11</title>
+      <link>https://twitter.com/Rainmaker1973/status/1674436151388835840</link>
+      <description>Liatris ligulistylis, also known as meadow blazingstar, is irresistible to Monarch butterflies. They flock to the purple flower for the August/September magical monarch migration
+
+[📹 David Domoney]
+https://t.co/sMn0VGCF11</description>
+      <content:encoded>Liatris ligulistylis, also known as meadow blazingstar, is irresistible to Monarch butterflies. They flock to the purple flower for the August/September magical monarch migration
+
+[📹 David Domoney]
+https://t.co/sMn0VGCF11&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674436151388835840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1172572981916262403/pu/img/oQ6K-_gKMBqz_bbM.jpg" length="675" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 15:14:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Task-specific invariant representation in auditory cortex  https://t.co/0sPNYufV8J #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674436520168632321</link>
+      <description>Task-specific invariant representation in auditory cortex  https://t.co/0sPNYufV8J #biorxiv_neursci</description>
+      <content:encoded>Task-specific invariant representation in auditory cortex  https://t.co/0sPNYufV8J #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674436520168632321"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 15:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acoustically evoked K-complexes are sufficient to boost verbal memory consolidation during sleep  https://t.co/Tekk9LZYPE #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674436630319382528</link>
+      <description>Acoustically evoked K-complexes are sufficient to boost verbal memory consolidation during sleep  https://t.co/Tekk9LZYPE #biorxiv_neursci</description>
+      <content:encoded>Acoustically evoked K-complexes are sufficient to boost verbal memory consolidation during sleep  https://t.co/Tekk9LZYPE #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674436630319382528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 15:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations  https://t.co/gYKXr4jBD0 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674436733323317249</link>
+      <description>A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations  https://t.co/gYKXr4jBD0 #biorxiv_neursci</description>
+      <content:encoded>A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations  https://t.co/gYKXr4jBD0 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674436733323317249"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 15:16:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
