@@ -6,60 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jun 2023 17:15:36 +0000</lastBuildDate>
-    <item>
-      <title>2500, feeling gooooood https://t.co/widrOIr1Re</title>
-      <link>https://twitter.com/AndrewHires/status/1674208000255610880</link>
-      <description>2500, feeling gooooood https://t.co/widrOIr1Re</description>
-      <content:encoded>2500, feeling gooooood https://t.co/widrOIr1Re&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1674208000255610880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1674207731149049856/img/pCL4ncbnULAkYIAZ.jpg" length="675" type="photo"/>
-      <pubDate>Thu, 29 Jun 2023 00:07:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The brain's sensitivity to sensory error can be modulated by altering perceived variability  https://t.co/Ds1RuSSf2Z #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674209938594320385</link>
-      <description>The brain's sensitivity to sensory error can be modulated by altering perceived variability  https://t.co/Ds1RuSSf2Z #biorxiv_neursci</description>
-      <content:encoded>The brain's sensitivity to sensory error can be modulated by altering perceived variability  https://t.co/Ds1RuSSf2Z #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674209938594320385"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 29 Jun 2023 00:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The circadian molecular clock in the suprachiasmatic nucleus is necessary but not sufficient for fear entrainment in the mouse  https://t.co/GEePtL2L5L #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674210037378547713</link>
-      <description>The circadian molecular clock in the suprachiasmatic nucleus is necessary but not sufficient for fear entrainment in the mouse  https://t.co/GEePtL2L5L #biorxiv_neursci</description>
-      <content:encoded>The circadian molecular clock in the suprachiasmatic nucleus is necessary but not sufficient for fear entrainment in the mouse  https://t.co/GEePtL2L5L #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674210037378547713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 29 Jun 2023 00:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hello world!
-
-Question: How can an animal transiently express a behavior in adulthood, in the absence of previous experience?
-
-Using maternal aggression as the prototypical behavior, our study (just submitted🚀), experimentally attacks this question.
-
-1/6
-
-https://t.co/JjrWnj7Yf7</title>
-      <link>https://twitter.com/stagkourakis/status/1674212198766493696</link>
-      <description>Hello world!
-
-Question: How can an animal transiently express a behavior in adulthood, in the absence of previous experience?
-
-Using maternal aggression as the prototypical behavior, our study (just submitted🚀), experimentally attacks this question.
-
-1/6
-
-https://t.co/JjrWnj7Yf7</description>
-      <content:encoded>Hello world!
-
-Question: How can an animal transiently express a behavior in adulthood, in the absence of previous experience?
-
-Using maternal aggression as the prototypical behavior, our study (just submitted🚀), experimentally attacks this question.
-
-1/6
-
-https://t.co/JjrWnj7Yf7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stagkourakis/status/1674212198766493696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 29 Jun 2023 00:24:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jun 2023 18:24:16 +0000</lastBuildDate>
     <item>
       <title>Ideas discussed:
 
@@ -2425,6 +2372,133 @@ https://t.co/l7MRqJEK6k</description>
       <content:encoded>The @uk_biobank  is capturing full-body scans of 60K individuals over time, making it the world’s largest human imaging project. It could change what we know about dementia, cancer, heart disease + more. Here’s how ⬇️
 https://t.co/l7MRqJEK6k&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1674465441991872512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 29 Jun 2023 17:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The INCF membership model invites individuals, institutions, projects, organizations, &amp;amp; companies to become a part of our network’s mission to push open and FAIR neuroscience.
+
+Read about how you can make a difference here: https://t.co/XSvZlC0HKi
+
+#OpenScience #FAIRdata https://t.co/aZzJcGYDSW</title>
+      <link>https://twitter.com/INCForg/status/1674467011160682514</link>
+      <description>The INCF membership model invites individuals, institutions, projects, organizations, &amp;amp; companies to become a part of our network’s mission to push open and FAIR neuroscience.
+
+Read about how you can make a difference here: https://t.co/XSvZlC0HKi
+
+#OpenScience #FAIRdata https://t.co/aZzJcGYDSW</description>
+      <content:encoded>The INCF membership model invites individuals, institutions, projects, organizations, &amp;amp; companies to become a part of our network’s mission to push open and FAIR neuroscience.
+
+Read about how you can make a difference here: https://t.co/XSvZlC0HKi
+
+#OpenScience #FAIRdata https://t.co/aZzJcGYDSW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1674467011160682514"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzzYeyVWcAMryF5.png" length="680" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 17:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@anne_churchland @LecoqJerome @UCLAHealth @dgsomucla Best wishes and waves of good vibes from Leuven, Anne. We wish you a speedy treatment and recovery.</title>
+      <link>https://twitter.com/BoninLab/status/1674468954222342146</link>
+      <description>@anne_churchland @LecoqJerome @UCLAHealth @dgsomucla Best wishes and waves of good vibes from Leuven, Anne. We wish you a speedy treatment and recovery.</description>
+      <content:encoded>@anne_churchland @LecoqJerome @UCLAHealth @dgsomucla Best wishes and waves of good vibes from Leuven, Anne. We wish you a speedy treatment and recovery.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BoninLab/status/1674468954222342146"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 17:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ricard_sole: Can learning and cognition emerge without neurons? Here's a great review of how physical systems can implement neural-like…</title>
+      <link>https://twitter.com/furthlab/status/1674470011690164252</link>
+      <description>RT @ricard_sole: Can learning and cognition emerge without neurons? Here's a great review of how physical systems can implement neural-like…</description>
+      <content:encoded>RT @ricard_sole: Can learning and cognition emerge without neurons? Here's a great review of how physical systems can implement neural-like…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1674470011690164252"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 17:28:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Education isn't something you can finish."
+
+-- Isaac Asimov (1920 - 1992) https://t.co/j2kfuuSuMA</title>
+      <link>https://twitter.com/ProfFeynman/status/1674471384997855232</link>
+      <description>"Education isn't something you can finish."
+
+-- Isaac Asimov (1920 - 1992) https://t.co/j2kfuuSuMA</description>
+      <content:encoded>"Education isn't something you can finish."
+
+-- Isaac Asimov (1920 - 1992) https://t.co/j2kfuuSuMA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1674471384997855232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fzzq16RWIAoctQG.jpg" length="500" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 17:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Methods from developmental psychology can help researchers to understand the representations used by large language models, complementing standard computational approaches, writes @mcxfrank in a @NatRevPsych. 🔒 https://t.co/2QV1tXh0hp https://t.co/NgN9ZlRKvE</title>
+      <link>https://twitter.com/NaturePortfolio/status/1674472065825492992</link>
+      <description>Methods from developmental psychology can help researchers to understand the representations used by large language models, complementing standard computational approaches, writes @mcxfrank in a @NatRevPsych. 🔒 https://t.co/2QV1tXh0hp https://t.co/NgN9ZlRKvE</description>
+      <content:encoded>Methods from developmental psychology can help researchers to understand the representations used by large language models, complementing standard computational approaches, writes @mcxfrank in a @NatRevPsych. 🔒 https://t.co/2QV1tXh0hp https://t.co/NgN9ZlRKvE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1674472065825492992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fzzrc_4WIAsCv_n.jpg" length="1066" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 17:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Among the things a Beluga can do there's even playing with a seagull and offering fish for friendship
+
+[source and full story: https://t.co/we8C59V9RW]
+https://t.co/9jxdKIHY4f</title>
+      <link>https://twitter.com/Rainmaker1973/status/1674472783454117889</link>
+      <description>Among the things a Beluga can do there's even playing with a seagull and offering fish for friendship
+
+[source and full story: https://t.co/we8C59V9RW]
+https://t.co/9jxdKIHY4f</description>
+      <content:encoded>Among the things a Beluga can do there's even playing with a seagull and offering fish for friendship
+
+[source and full story: https://t.co/we8C59V9RW]
+https://t.co/9jxdKIHY4f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674472783454117889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1169614365986820096/pu/img/U11tv3iVtfnQ7TpB.jpg" length="224" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 17:39:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Myelin ensheathment itself becomes detrimental for axonal survival and increases the risk of axons degenerating in an autoimmune environment. This challenges the view of myelin as solely protective.
+
+https://t.co/pX7oyVkqz6</title>
+      <link>https://twitter.com/NatureNeuro/status/1674473589070766092</link>
+      <description>#Myelin ensheathment itself becomes detrimental for axonal survival and increases the risk of axons degenerating in an autoimmune environment. This challenges the view of myelin as solely protective.
+
+https://t.co/pX7oyVkqz6</description>
+      <content:encoded>#Myelin ensheathment itself becomes detrimental for axonal survival and increases the risk of axons degenerating in an autoimmune environment. This challenges the view of myelin as solely protective.
+
+https://t.co/pX7oyVkqz6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1674473589070766092"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 17:43:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@anne_churchland @UCLAHealth @dgsomucla Oh, damnit!!  Seriously good luck wishes for your treatment, Anne. We’ll be pulling for you up in Trondheim!</title>
+      <link>https://twitter.com/JonRWhitlock/status/1674479038381826049</link>
+      <description>@anne_churchland @UCLAHealth @dgsomucla Oh, damnit!!  Seriously good luck wishes for your treatment, Anne. We’ll be pulling for you up in Trondheim!</description>
+      <content:encoded>@anne_churchland @UCLAHealth @dgsomucla Oh, damnit!!  Seriously good luck wishes for your treatment, Anne. We’ll be pulling for you up in Trondheim!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/JonRWhitlock/status/1674479038381826049"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 18:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists are learning how to cryopreserve living tissues, organs, and even whole organisms, then bring them back to life.
+
+Learn more in the latest issue of Science: https://t.co/dleC8LcFDP https://t.co/fHmZobpT5T</title>
+      <link>https://twitter.com/ScienceMagazine/status/1674479121340964871</link>
+      <description>Scientists are learning how to cryopreserve living tissues, organs, and even whole organisms, then bring them back to life.
+
+Learn more in the latest issue of Science: https://t.co/dleC8LcFDP https://t.co/fHmZobpT5T</description>
+      <content:encoded>Scientists are learning how to cryopreserve living tissues, organs, and even whole organisms, then bring them back to life.
+
+Learn more in the latest issue of Science: https://t.co/dleC8LcFDP https://t.co/fHmZobpT5T&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674479121340964871"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fzzx4tiX0AYsDcs.jpg" length="943" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 18:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fun fact: a baby goat is called a kid. A group of kids is called a tribe or a herd of kids.The act of a mother goat giving birth is called kidding.
+
+[source: https://t.co/GzoRgViLOU]
+[📹 mayhem.goatees]
+https://t.co/SCA7fS7Gcx</title>
+      <link>https://twitter.com/Rainmaker1973/status/1674481817129197579</link>
+      <description>Fun fact: a baby goat is called a kid. A group of kids is called a tribe or a herd of kids.The act of a mother goat giving birth is called kidding.
+
+[source: https://t.co/GzoRgViLOU]
+[📹 mayhem.goatees]
+https://t.co/SCA7fS7Gcx</description>
+      <content:encoded>Fun fact: a baby goat is called a kid. A group of kids is called a tribe or a herd of kids.The act of a mother goat giving birth is called kidding.
+
+[source: https://t.co/GzoRgViLOU]
+[📹 mayhem.goatees]
+https://t.co/SCA7fS7Gcx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674481817129197579"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1670294082046898177/pu/img/NjnC5eSPC7VGFNLp.jpg" length="720" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 18:15:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
