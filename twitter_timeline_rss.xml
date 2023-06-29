@@ -6,22 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jun 2023 03:26:19 +0000</lastBuildDate>
-    <item>
-      <title>RT @AlisonGopnik: Link to an important new article showing that policies like medicaid and child tax credits  really can make a difference…</title>
-      <link>https://twitter.com/tyrell_turing/status/1674046184661348352</link>
-      <description>RT @AlisonGopnik: Link to an important new article showing that policies like medicaid and child tax credits  really can make a difference…</description>
-      <content:encoded>RT @AlisonGopnik: Link to an important new article showing that policies like medicaid and child tax credits  really can make a difference…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1674046184661348352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 13:24:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Applications for functional data: https://t.co/tQyTHytFz8</title>
-      <link>https://twitter.com/PessoaBrain/status/1674046360448901120</link>
-      <description>Applications for functional data: https://t.co/tQyTHytFz8</description>
-      <content:encoded>Applications for functional data: https://t.co/tQyTHytFz8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1674046360448901120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FztoSp9WYAg8Hkb.jpg" length="900" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 13:25:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jun 2023 04:21:56 +0000</lastBuildDate>
     <item>
       <title>RT @DigitalEU: 🇪🇺⚛️ EU advances on Quantum technologies
 
@@ -1884,6 +1869,20 @@ https://t.co/ipEEZDFLo2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>I like how the book makes you more conscious and introspective. Happiness is all personal. The book does a good job in bringing honesty to the process. It must have taken courage to write.</description>
       <content:encoded>I like how the book makes you more conscious and introspective. Happiness is all personal. The book does a good job in bringing honesty to the process. It must have taken courage to write.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1674252880591847424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 29 Jun 2023 03:06:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @LehtinenLab: How does the 🧠 change between day and night? New work led by @sciencedame in @NatureComms finds diurnal changes in the cho…</title>
+      <link>https://twitter.com/andermann_mark/status/1674261804648628227</link>
+      <description>RT @LehtinenLab: How does the 🧠 change between day and night? New work led by @sciencedame in @NatureComms finds diurnal changes in the cho…</description>
+      <content:encoded>RT @LehtinenLab: How does the 🧠 change between day and night? New work led by @sciencedame in @NatureComms finds diurnal changes in the cho…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andermann_mark/status/1674261804648628227"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 03:41:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @zhangf: 7/x Finally, to gain insight into the mechanism of Fz and guide future development, we used cryo-EM to resolve the structure of…</title>
+      <link>https://twitter.com/sofroniewn/status/1674271493654732800</link>
+      <description>RT @zhangf: 7/x Finally, to gain insight into the mechanism of Fz and guide future development, we used cryo-EM to resolve the structure of…</description>
+      <content:encoded>RT @zhangf: 7/x Finally, to gain insight into the mechanism of Fz and guide future development, we used cryo-EM to resolve the structure of…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1674271493654732800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 04:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
