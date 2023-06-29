@@ -6,58 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jun 2023 02:55:58 +0000</lastBuildDate>
-    <item>
-      <title>RT @Douglas_Main: National Geographic is laying off its staff writers, including me.
-
-It’s been a wonderful five years—an honor and a joy.…</title>
-      <link>https://twitter.com/neurograce/status/1674043651276828672</link>
-      <description>RT @Douglas_Main: National Geographic is laying off its staff writers, including me.
-
-It’s been a wonderful five years—an honor and a joy.…</description>
-      <content:encoded>RT @Douglas_Main: National Geographic is laying off its staff writers, including me.
-
-It’s been a wonderful five years—an honor and a joy.…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1674043651276828672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 13:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/MNJMhLV9E9</title>
-      <link>https://twitter.com/PessoaBrain/status/1674043878196781056</link>
-      <description>https://t.co/MNJMhLV9E9</description>
-      <content:encoded>https://t.co/MNJMhLV9E9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1674043878196781056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FztmCOfXsAE3yaS.jpg" length="900" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 13:15:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>You can hear the words «Green Needle» or «Brainstorm» only based on which one you think about.
-
-This is an auditory illusion, or a false perception of a real sound
-
-[explanation: https://t.co/cnq2xCRkvg]
-https://t.co/LrNSmgCfGL</title>
-      <link>https://twitter.com/Rainmaker1973/status/1674045342470270977</link>
-      <description>You can hear the words «Green Needle» or «Brainstorm» only based on which one you think about.
-
-This is an auditory illusion, or a false perception of a real sound
-
-[explanation: https://t.co/cnq2xCRkvg]
-https://t.co/LrNSmgCfGL</description>
-      <content:encoded>You can hear the words «Green Needle» or «Brainstorm» only based on which one you think about.
-
-This is an auditory illusion, or a false perception of a real sound
-
-[explanation: https://t.co/cnq2xCRkvg]
-https://t.co/LrNSmgCfGL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674045342470270977"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1307483049945427973/pu/img/gQ1rhTUGaT46govD.jpg" length="342" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 13:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @pcastr: I am psc, and I approve of this message.</title>
-      <link>https://twitter.com/tyrell_turing/status/1674045920445444096</link>
-      <description>RT @pcastr: I am psc, and I approve of this message.</description>
-      <content:encoded>RT @pcastr: I am psc, and I approve of this message.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1674045920445444096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 13:23:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jun 2023 03:26:19 +0000</lastBuildDate>
     <item>
       <title>RT @AlisonGopnik: Link to an important new article showing that policies like medicaid and child tax credits  really can make a difference…</title>
       <link>https://twitter.com/tyrell_turing/status/1674046184661348352</link>
@@ -1906,6 +1855,35 @@ https://t.co/ipEEZDFLo2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>New Research: Learning the heterogeneous representation of brain's structure from serial SEM images using a masked autoencoder #Neuroinformatics https://t.co/6KIA75cpjB</description>
       <content:encoded>New Research: Learning the heterogeneous representation of brain's structure from serial SEM images using a masked autoencoder #Neuroinformatics https://t.co/6KIA75cpjB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674238139374923776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 29 Jun 2023 02:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harnessing structural and functional techniques, researchers identify and optimize a pan #hantavirus antibody that can protect rodents against infections with the evolutionarily distinct Puumala virus and Andes virus. @ScienceTM https://t.co/ROuC5DwKHm https://t.co/7WhmCL962W</title>
+      <link>https://twitter.com/ScienceMagazine/status/1674251367173570560</link>
+      <description>Harnessing structural and functional techniques, researchers identify and optimize a pan #hantavirus antibody that can protect rodents against infections with the evolutionarily distinct Puumala virus and Andes virus. @ScienceTM https://t.co/ROuC5DwKHm https://t.co/7WhmCL962W</description>
+      <content:encoded>Harnessing structural and functional techniques, researchers identify and optimize a pan #hantavirus antibody that can protect rodents against infections with the evolutionarily distinct Puumala virus and Andes virus. @ScienceTM https://t.co/ROuC5DwKHm https://t.co/7WhmCL962W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674251367173570560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzwivwUWwAIbkKs.jpg" length="910" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just finished this book https://t.co/SwL3aXl1T7. “happiness project” now a classic. The book is a bit long and repetitive at times but the meticulous approach could work well for many scientists…</title>
+      <link>https://twitter.com/LecoqJerome/status/1674251656417136641</link>
+      <description>Just finished this book https://t.co/SwL3aXl1T7. “happiness project” now a classic. The book is a bit long and repetitive at times but the meticulous approach could work well for many scientists…</description>
+      <content:encoded>Just finished this book https://t.co/SwL3aXl1T7. “happiness project” now a classic. The book is a bit long and repetitive at times but the meticulous approach could work well for many scientists…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1674251656417136641"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 03:01:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good analysis from Nature editors about the real current risks from today’s AI, debunking the apocalyptic hype being promoted by some. https://t.co/QAGe5bCym0</title>
+      <link>https://twitter.com/partha_mitra/status/1674251809618300928</link>
+      <description>Good analysis from Nature editors about the real current risks from today’s AI, debunking the apocalyptic hype being promoted by some. https://t.co/QAGe5bCym0</description>
+      <content:encoded>Good analysis from Nature editors about the real current risks from today’s AI, debunking the apocalyptic hype being promoted by some. https://t.co/QAGe5bCym0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/partha_mitra/status/1674251809618300928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 03:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>I like how the book makes you more conscious and introspective. Happiness is all personal. The book does a good job in bringing honesty to the process. It must have taken courage to write.</title>
+      <link>https://twitter.com/LecoqJerome/status/1674252880591847424</link>
+      <description>I like how the book makes you more conscious and introspective. Happiness is all personal. The book does a good job in bringing honesty to the process. It must have taken courage to write.</description>
+      <content:encoded>I like how the book makes you more conscious and introspective. Happiness is all personal. The book does a good job in bringing honesty to the process. It must have taken courage to write.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1674252880591847424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 03:06:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
