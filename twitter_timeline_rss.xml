@@ -6,159 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jun 2023 09:17:59 +0000</lastBuildDate>
-    <item>
-      <title>Sugihara's view: https://t.co/wHX4VLzhvC</title>
-      <link>https://twitter.com/PessoaBrain/status/1674081687817318403</link>
-      <description>Sugihara's view: https://t.co/wHX4VLzhvC</description>
-      <content:encoded>Sugihara's view: https://t.co/wHX4VLzhvC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1674081687817318403"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzuIa-9WAAEg2JW.jpg" length="900" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 15:45:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simulations suggest that certain naturally occurring halogen-containing compounds cool the climate – but nowhere near enough to offset the effects of CO2 emissions. Laura Revell @UCNZ explains in this terrific N&amp;amp;V https://t.co/BMAj8tQ4QZ</title>
-      <link>https://twitter.com/NatureNV/status/1674083342596153344</link>
-      <description>Simulations suggest that certain naturally occurring halogen-containing compounds cool the climate – but nowhere near enough to offset the effects of CO2 emissions. Laura Revell @UCNZ explains in this terrific N&amp;amp;V https://t.co/BMAj8tQ4QZ</description>
-      <content:encoded>Simulations suggest that certain naturally occurring halogen-containing compounds cool the climate – but nowhere near enough to offset the effects of CO2 emissions. Laura Revell @UCNZ explains in this terrific N&amp;amp;V https://t.co/BMAj8tQ4QZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1674083342596153344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 15:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lightning doesn't strike bodies of water as much as land, but when it does, it spreads out over the water, which acts as a conductor. It can hit boats that are nearby, and electrocute fish that are near the surface.
-
-[read more: https://t.co/nXE4KScIqG]
-https://t.co/MNg43ssUKU</title>
-      <link>https://twitter.com/Rainmaker1973/status/1674083428436791297</link>
-      <description>Lightning doesn't strike bodies of water as much as land, but when it does, it spreads out over the water, which acts as a conductor. It can hit boats that are nearby, and electrocute fish that are near the surface.
-
-[read more: https://t.co/nXE4KScIqG]
-https://t.co/MNg43ssUKU</description>
-      <content:encoded>Lightning doesn't strike bodies of water as much as land, but when it does, it spreads out over the water, which acts as a conductor. It can hit boats that are nearby, and electrocute fish that are near the surface.
-
-[read more: https://t.co/nXE4KScIqG]
-https://t.co/MNg43ssUKU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674083428436791297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1674072468019871745/pu/img/Vpe2_HF4WFGXB-Uf.jpg" length="876" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 15:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maybe reservoir computing could help? https://t.co/f1hrlCr25S</title>
-      <link>https://twitter.com/PessoaBrain/status/1674083766111797249</link>
-      <description>Maybe reservoir computing could help? https://t.co/f1hrlCr25S</description>
-      <content:encoded>Maybe reservoir computing could help? https://t.co/f1hrlCr25S&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1674083766111797249"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzuKUC4XoAA_2zI.jpg" length="900" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 15:54:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>A protein found in human lungs prevents infection by flu viruses from birds – but mutations in the viruses’ nucleoprotein allow them to escape this inhibition and spill over into humans. https://t.co/0mHs9PENc1</title>
-      <link>https://twitter.com/NatureNV/status/1674084585498374147</link>
-      <description>A protein found in human lungs prevents infection by flu viruses from birds – but mutations in the viruses’ nucleoprotein allow them to escape this inhibition and spill over into humans. https://t.co/0mHs9PENc1</description>
-      <content:encoded>A protein found in human lungs prevents infection by flu viruses from birds – but mutations in the viruses’ nucleoprotein allow them to escape this inhibition and spill over into humans. https://t.co/0mHs9PENc1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1674084585498374147"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 15:57:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>New course available on @Coursera: Generative AI with Large Language Models, built in collaboration with @AWS!
-
-Learn how to understand the LLM-based generative AI lifecycle, choose the right LLM and optimize training for your task, and more.
-
-Enroll now: https://t.co/fnl5QCLprv https://t.co/C5rYZWhP9l</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1674085251105144832</link>
-      <description>New course available on @Coursera: Generative AI with Large Language Models, built in collaboration with @AWS!
-
-Learn how to understand the LLM-based generative AI lifecycle, choose the right LLM and optimize training for your task, and more.
-
-Enroll now: https://t.co/fnl5QCLprv https://t.co/C5rYZWhP9l</description>
-      <content:encoded>New course available on @Coursera: Generative AI with Large Language Models, built in collaboration with @AWS!
-
-Learn how to understand the LLM-based generative AI lifecycle, choose the right LLM and optimize training for your task, and more.
-
-Enroll now: https://t.co/fnl5QCLprv https://t.co/C5rYZWhP9l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1674085251105144832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1674085191726297088/pu/img/FJU1OWgyVNIsRlXg.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 16:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Astrocytes are more than just star-shaped cells in your brain—they play a critical role in Alzheimer's disease. ⭐  
-
-By understanding more about them, neuroscientist Nicola Allen + team hope to find new ways to prevent, treat or #EndAlz https://t.co/ZeZSgJcvZB</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1674085332340408322</link>
-      <description>Astrocytes are more than just star-shaped cells in your brain—they play a critical role in Alzheimer's disease. ⭐  
-
-By understanding more about them, neuroscientist Nicola Allen + team hope to find new ways to prevent, treat or #EndAlz https://t.co/ZeZSgJcvZB</description>
-      <content:encoded>Astrocytes are more than just star-shaped cells in your brain—they play a critical role in Alzheimer's disease. ⭐  
-
-By understanding more about them, neuroscientist Nicola Allen + team hope to find new ways to prevent, treat or #EndAlz https://t.co/ZeZSgJcvZB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1674085332340408322"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzuLvOyWIAIv243.jpg" length="940" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 16:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Happy #TauDay! Hope this helps to round out your day. https://t.co/90b7Tepn1P</title>
-      <link>https://twitter.com/MIT/status/1674086027583946753</link>
-      <description>Happy #TauDay! Hope this helps to round out your day. https://t.co/90b7Tepn1P</description>
-      <content:encoded>Happy #TauDay! Hope this helps to round out your day. https://t.co/90b7Tepn1P&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1674086027583946753"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FzuMXnJXoAEz020.jpg" length="1000" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 16:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Tour de France starts and June gloom ends this weekend. To celebrate let’s try the hardest bicycle climb in Southern California.
-
-Starting Encanto park in Azuza at 600 feet, taking the undulating and scenic Glendora mountain road up 4000 feet to Mount Baldy Village, the… https://t.co/6Wugqhsvg9 https://t.co/SNhJutDtnr</title>
-      <link>https://twitter.com/AndrewHires/status/1674087390506520578</link>
-      <description>The Tour de France starts and June gloom ends this weekend. To celebrate let’s try the hardest bicycle climb in Southern California.
-
-Starting Encanto park in Azuza at 600 feet, taking the undulating and scenic Glendora mountain road up 4000 feet to Mount Baldy Village, the… https://t.co/6Wugqhsvg9 https://t.co/SNhJutDtnr</description>
-      <content:encoded>The Tour de France starts and June gloom ends this weekend. To celebrate let’s try the hardest bicycle climb in Southern California.
-
-Starting Encanto park in Azuza at 600 feet, taking the undulating and scenic Glendora mountain road up 4000 feet to Mount Baldy Village, the… https://t.co/6Wugqhsvg9 https://t.co/SNhJutDtnr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1674087390506520578"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzuNm1GaQAEO9_b.jpg" length="554" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 16:08:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Funding from @wellcometrust and @gatesfoundation will support the phase 3 trial of a TB vaccine candidate called M72. If successful, M72 could help accelerate progress toward ending TB as a public health threat &amp;amp; greatly improve lives around the world. https://t.co/cM3kqZmCIY</title>
-      <link>https://twitter.com/BillGates/status/1674088419121836033</link>
-      <description>Funding from @wellcometrust and @gatesfoundation will support the phase 3 trial of a TB vaccine candidate called M72. If successful, M72 could help accelerate progress toward ending TB as a public health threat &amp;amp; greatly improve lives around the world. https://t.co/cM3kqZmCIY</description>
-      <content:encoded>Funding from @wellcometrust and @gatesfoundation will support the phase 3 trial of a TB vaccine candidate called M72. If successful, M72 could help accelerate progress toward ending TB as a public health threat &amp;amp; greatly improve lives around the world. https://t.co/cM3kqZmCIY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1674088419121836033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 28 Jun 2023 16:12:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>TT-15XMAX subwoofer has a max power of 14000W and due to its design it's always seen in pretty much impressive vibration visualizations, helped by the rolling shutter effect
-
-[specs: https://t.co/LPgwfwiDiq]
-[video: https://t.co/oFHe9ebKEr]
-https://t.co/kQerqlDa4J</title>
-      <link>https://twitter.com/Rainmaker1973/status/1674088778221121539</link>
-      <description>TT-15XMAX subwoofer has a max power of 14000W and due to its design it's always seen in pretty much impressive vibration visualizations, helped by the rolling shutter effect
-
-[specs: https://t.co/LPgwfwiDiq]
-[video: https://t.co/oFHe9ebKEr]
-https://t.co/kQerqlDa4J</description>
-      <content:encoded>TT-15XMAX subwoofer has a max power of 14000W and due to its design it's always seen in pretty much impressive vibration visualizations, helped by the rolling shutter effect
-
-[specs: https://t.co/LPgwfwiDiq]
-[video: https://t.co/oFHe9ebKEr]
-https://t.co/kQerqlDa4J&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674088778221121539"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1673819044347097089/pu/img/FMDzRCAlzAxTQtNB.jpg" length="608" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 16:14:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Let’s go! 600ft https://t.co/CAXQdChnzq</title>
-      <link>https://twitter.com/AndrewHires/status/1674088817819799552</link>
-      <description>Let’s go! 600ft https://t.co/CAXQdChnzq</description>
-      <content:encoded>Let’s go! 600ft https://t.co/CAXQdChnzq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1674088817819799552"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1674088610486943744/img/aYOVcMrVI4Lo-qZG.jpg" length="675" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 16:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>High-resistant starch rice to prevent #diabetes: Sanwen Huang with Keyi Ye recommend this @UCAS1978 @PNASNews research to genetically modify rice crops to help prevent  #obesity &amp;amp; #type2diabetes.
-
-https://t.co/Tc1ynk7q5u https://t.co/J1S2yWwqjT</title>
-      <link>https://twitter.com/Facultyopinions/status/1674090289940553730</link>
-      <description>High-resistant starch rice to prevent #diabetes: Sanwen Huang with Keyi Ye recommend this @UCAS1978 @PNASNews research to genetically modify rice crops to help prevent  #obesity &amp;amp; #type2diabetes.
-
-https://t.co/Tc1ynk7q5u https://t.co/J1S2yWwqjT</description>
-      <content:encoded>High-resistant starch rice to prevent #diabetes: Sanwen Huang with Keyi Ye recommend this @UCAS1978 @PNASNews research to genetically modify rice crops to help prevent  #obesity &amp;amp; #type2diabetes.
-
-https://t.co/Tc1ynk7q5u https://t.co/J1S2yWwqjT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1674090289940553730"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzuQPkTXwAMiSyk.jpg" length="764" type="photo"/>
-      <pubDate>Wed, 28 Jun 2023 16:20:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jun 2023 10:19:30 +0000</lastBuildDate>
     <item>
       <title>RT @CollisionHQ: .@DeepMind chief business officer Colin Murdoch joined us on Centre Stage to talk everything AI and to explore how DeepMin…</title>
       <link>https://twitter.com/DeepMind/status/1674090554232012801</link>
@@ -591,6 +439,19 @@ James C. Maxwell published his first scientific paper at the age of 14, on the c
       <content:encoded>A study in @NatureBiotech uses microelectronics fibers to modulate and record the crosstalk between the brain and gut. https://t.co/ZD5uLsI2Kr https://t.co/j6PWYSIbja&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1674125783885926406"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fzuwgv7X0BM8fvk.jpg" length="1066" type="photo"/>
       <pubDate>Wed, 28 Jun 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine is out! 
+
+Scientists present a drug-delivering implant for HIV PrEP,…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1674131139051638804</link>
+      <description>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine is out! 
+
+Scientists present a drug-delivering implant for HIV PrEP,…</description>
+      <content:encoded>RT @ScienceTM: This week's new issue of #ScienceTranslationalMedicine is out! 
+
+Scientists present a drug-delivering implant for HIV PrEP,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674131139051638804"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 28 Jun 2023 19:02:22 +0000</pubDate>
     </item>
     <item>
       <title>New Research: Characterization of diffusion magnetic resonance imaging revealing relationships between white matter disconnection and behavioral disturbances in mild cognitive impairment: a systematic review: White matter disconnection is… #Neuroscience https://t.co/ARRRLaG5jG</title>
@@ -2143,6 +2004,165 @@ Don't miss this opportunity to showcase your groundbreaking research and submit 
 .
 ♆&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674344826324623361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 29 Jun 2023 09:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why do whales leap into the air? Breaching, slapping play a role in both long-distance &amp;amp; close-range communication. The resulting sound can travel enormous distances 
+
+[read more: https://t.co/NHbAijlwm0] 
+[📹 Beau Pilgrim: https://t.co/eeJlG7Y6ne]
+https://t.co/ZyrZznih1r</title>
+      <link>https://twitter.com/Rainmaker1973/status/1674348347170193410</link>
+      <description>Why do whales leap into the air? Breaching, slapping play a role in both long-distance &amp;amp; close-range communication. The resulting sound can travel enormous distances 
+
+[read more: https://t.co/NHbAijlwm0] 
+[📹 Beau Pilgrim: https://t.co/eeJlG7Y6ne]
+https://t.co/ZyrZznih1r</description>
+      <content:encoded>Why do whales leap into the air? Breaching, slapping play a role in both long-distance &amp;amp; close-range communication. The resulting sound can travel enormous distances 
+
+[read more: https://t.co/NHbAijlwm0] 
+[📹 Beau Pilgrim: https://t.co/eeJlG7Y6ne]
+https://t.co/ZyrZznih1r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674348347170193410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/790204192669347842/pu/img/3PcHb329LICZ_nIg.jpg" length="1024" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 09:25:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jakhmack: Another great opportunity to join us: The new https://t.co/DiqYtMfeh7 institute has a second opening for a Professorship to w…</title>
+      <link>https://twitter.com/CellTypist/status/1674352792415137792</link>
+      <description>RT @jakhmack: Another great opportunity to join us: The new https://t.co/DiqYtMfeh7 institute has a second opening for a Professorship to w…</description>
+      <content:encoded>RT @jakhmack: Another great opportunity to join us: The new https://t.co/DiqYtMfeh7 institute has a second opening for a Professorship to w…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1674352792415137792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 09:43:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Timothy0Leary: Representational drift as a window into neural and behavioural plasticity
+https://t.co/Lmr59sjVMX</title>
+      <link>https://twitter.com/TrackingActions/status/1674352991795593217</link>
+      <description>RT @Timothy0Leary: Representational drift as a window into neural and behavioural plasticity
+https://t.co/Lmr59sjVMX</description>
+      <content:encoded>RT @Timothy0Leary: Representational drift as a window into neural and behavioural plasticity
+https://t.co/Lmr59sjVMX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1674352991795593217"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 09:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>How many drops of water can fit on a penny? 
+
+[surface tension: https://t.co/8GCVhmq0x7] 
+[source, Ryan DeLaHaye: https://t.co/RPcZd3OnSn]
+https://t.co/Xh1w32Um3g</title>
+      <link>https://twitter.com/Rainmaker1973/status/1674353778538033155</link>
+      <description>How many drops of water can fit on a penny? 
+
+[surface tension: https://t.co/8GCVhmq0x7] 
+[source, Ryan DeLaHaye: https://t.co/RPcZd3OnSn]
+https://t.co/Xh1w32Um3g</description>
+      <content:encoded>How many drops of water can fit on a penny? 
+
+[surface tension: https://t.co/8GCVhmq0x7] 
+[source, Ryan DeLaHaye: https://t.co/RPcZd3OnSn]
+https://t.co/Xh1w32Um3g&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674353778538033155"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1240411631777087494/pu/img/9AwC84N06wfgVsU3.jpg" length="960" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 09:47:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Glad to announce our first Young Investigator Symposium in collaboration with @Ucmr_sweden.
+
+We welcome all PhDs and Postdocs in Umeå to avail this opportunity to share their research achievements and strengthen their professional network.
+
+Register now!
+https://t.co/m8FyPu2SUr</title>
+      <link>https://twitter.com/PostdocUmu/status/1674354198643712000</link>
+      <description>Glad to announce our first Young Investigator Symposium in collaboration with @Ucmr_sweden.
+
+We welcome all PhDs and Postdocs in Umeå to avail this opportunity to share their research achievements and strengthen their professional network.
+
+Register now!
+https://t.co/m8FyPu2SUr</description>
+      <content:encoded>Glad to announce our first Young Investigator Symposium in collaboration with @Ucmr_sweden.
+
+We welcome all PhDs and Postdocs in Umeå to avail this opportunity to share their research achievements and strengthen their professional network.
+
+Register now!
+https://t.co/m8FyPu2SUr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1674354198643712000"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 09:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thanks goes to @OxfordDPAG for hosting the symposium on EVOLUTION AND DEVELOPMENT OF MAMMALIAN BRAINS (https://t.co/p1AFFEzwsJ). It was a satellite to CORTICAL EVOLUTION 2023 (https://t.co/E2VMdEsJGE) Organizers: Martínez Cerdeño, Bruner, and Noctor. @Go_Ventricular @DPAGPostdoc https://t.co/1UGL6yqhGn</title>
+      <link>https://twitter.com/ZoltanMolnar64/status/1674354232667828226</link>
+      <description>Thanks goes to @OxfordDPAG for hosting the symposium on EVOLUTION AND DEVELOPMENT OF MAMMALIAN BRAINS (https://t.co/p1AFFEzwsJ). It was a satellite to CORTICAL EVOLUTION 2023 (https://t.co/E2VMdEsJGE) Organizers: Martínez Cerdeño, Bruner, and Noctor. @Go_Ventricular @DPAGPostdoc https://t.co/1UGL6yqhGn</description>
+      <content:encoded>Thanks goes to @OxfordDPAG for hosting the symposium on EVOLUTION AND DEVELOPMENT OF MAMMALIAN BRAINS (https://t.co/p1AFFEzwsJ). It was a satellite to CORTICAL EVOLUTION 2023 (https://t.co/E2VMdEsJGE) Organizers: Martínez Cerdeño, Bruner, and Noctor. @Go_Ventricular @DPAGPostdoc https://t.co/1UGL6yqhGn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ZoltanMolnar64/status/1674354232667828226"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fzx_tNqWYAAAsU5.jpg" length="963" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 09:48:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insights into the genetic architecture of multiple sclerosis severity https://t.co/7bvr0ZcUe0</title>
+      <link>https://twitter.com/NatureNV/status/1674354442869657600</link>
+      <description>Insights into the genetic architecture of multiple sclerosis severity https://t.co/7bvr0ZcUe0</description>
+      <content:encoded>Insights into the genetic architecture of multiple sclerosis severity https://t.co/7bvr0ZcUe0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1674354442869657600"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 09:49:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>@Ucmr_sweden The event will feature keynote lectures from Umeå University alums, a poster session, oral presentations, and dynamic poster teasers!
+
+There will be a prize for the best poster and the best presentation.
+
+When: Oct 3rd
+Where: KBC Huset
+Deadline for abstract submission: Aug 21st</title>
+      <link>https://twitter.com/PostdocUmu/status/1674354821745242113</link>
+      <description>@Ucmr_sweden The event will feature keynote lectures from Umeå University alums, a poster session, oral presentations, and dynamic poster teasers!
+
+There will be a prize for the best poster and the best presentation.
+
+When: Oct 3rd
+Where: KBC Huset
+Deadline for abstract submission: Aug 21st</description>
+      <content:encoded>@Ucmr_sweden The event will feature keynote lectures from Umeå University alums, a poster session, oral presentations, and dynamic poster teasers!
+
+There will be a prize for the best poster and the best presentation.
+
+When: Oct 3rd
+Where: KBC Huset
+Deadline for abstract submission: Aug 21st&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1674354821745242113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 09:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mims_umea: Join us at @mims_umea as our new Group Leader! We perform basic &amp;amp;translational research in molecular infection medicine at @…</title>
+      <link>https://twitter.com/PostdocUmu/status/1674354981661552640</link>
+      <description>RT @mims_umea: Join us at @mims_umea as our new Group Leader! We perform basic &amp;amp;translational research in molecular infection medicine at @…</description>
+      <content:encoded>RT @mims_umea: Join us at @mims_umea as our new Group Leader! We perform basic &amp;amp;translational research in molecular infection medicine at @…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1674354981661552640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 09:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SciLifeLab_DC: Join our great team! 
+
+👉Project leader https://t.co/M7a8EKFqVz
+👉Specialist (Kubernetes) https://t.co/34JPKbcYiS
+👉AI coor…</title>
+      <link>https://twitter.com/PostdocUmu/status/1674355108266508288</link>
+      <description>RT @SciLifeLab_DC: Join our great team! 
+
+👉Project leader https://t.co/M7a8EKFqVz
+👉Specialist (Kubernetes) https://t.co/34JPKbcYiS
+👉AI coor…</description>
+      <content:encoded>RT @SciLifeLab_DC: Join our great team! 
+
+👉Project leader https://t.co/M7a8EKFqVz
+👉Specialist (Kubernetes) https://t.co/34JPKbcYiS
+👉AI coor…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PostdocUmu/status/1674355108266508288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 29 Jun 2023 09:52:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚗⚡ Would you harness the power of AI in your EV development? 
+
+Comment with a 👍 for yes and 👎 for no! #EVdevelopment #AI https://t.co/Q1PaNyRJI7</title>
+      <link>https://twitter.com/MATLAB/status/1674357040498503681</link>
+      <description>🚗⚡ Would you harness the power of AI in your EV development? 
+
+Comment with a 👍 for yes and 👎 for no! #EVdevelopment #AI https://t.co/Q1PaNyRJI7</description>
+      <content:encoded>🚗⚡ Would you harness the power of AI in your EV development? 
+
+Comment with a 👍 for yes and 👎 for no! #EVdevelopment #AI https://t.co/Q1PaNyRJI7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1674357040498503681"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzyC2wyXgAE_G-l.jpg" length="711" type="photo"/>
+      <pubDate>Thu, 29 Jun 2023 10:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
