@@ -6,158 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jun 2023 21:15:12 +0000</lastBuildDate>
-    <item>
-      <title>RT @QuantaMagazine: The elegant movements of a jellyfish in water embody solutions to problems in engineering, medicine and mathematics.
-
-L…</title>
-      <link>https://twitter.com/stevenstrogatz/status/1674560652604497920</link>
-      <description>RT @QuantaMagazine: The elegant movements of a jellyfish in water embody solutions to problems in engineering, medicine and mathematics.
-
-L…</description>
-      <content:encoded>RT @QuantaMagazine: The elegant movements of a jellyfish in water embody solutions to problems in engineering, medicine and mathematics.
-
-L…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1674560652604497920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 29 Jun 2023 23:29:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: A sensory signal related to left-right symmetry modulates intra- and interlimb cutaneous reflexes during locomotion in intact cats: Introduction
-
-During locomotion, cutaneous reflexes play an essential role in rapidly… #Neuroscience https://t.co/61q6PSvd1k</title>
-      <link>https://twitter.com/FrontNeurosci/status/1674568569580027905</link>
-      <description>New Research: A sensory signal related to left-right symmetry modulates intra- and interlimb cutaneous reflexes during locomotion in intact cats: Introduction
-
-During locomotion, cutaneous reflexes play an essential role in rapidly… #Neuroscience https://t.co/61q6PSvd1k</description>
-      <content:encoded>New Research: A sensory signal related to left-right symmetry modulates intra- and interlimb cutaneous reflexes during locomotion in intact cats: Introduction
-
-During locomotion, cutaneous reflexes play an essential role in rapidly… #Neuroscience https://t.co/61q6PSvd1k&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674568569580027905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 00:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @Starlink: Starlink in the Yukon 🛰️🇨🇦</title>
-      <link>https://twitter.com/elonmusk/status/1674573540065148928</link>
-      <description>RT @Starlink: Starlink in the Yukon 🛰️🇨🇦</description>
-      <content:encoded>RT @Starlink: Starlink in the Yukon 🛰️🇨🇦&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1674573540065148928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 00:20:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontiers, that's a treble clef . https://t.co/yaWKjDwiJe</title>
-      <link>https://twitter.com/NeuroBill/status/1674573896916570113</link>
-      <description>Frontiers, that's a treble clef . https://t.co/yaWKjDwiJe</description>
-      <content:encoded>Frontiers, that's a treble clef . https://t.co/yaWKjDwiJe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroBill/status/1674573896916570113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz1H3mTaYAEjYjd.png" length="527" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 00:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ride summary:
-
-Cresting the rideable top, a descending hiker “No way, NO WAY! I’m a cyclist and I can’t believe you got your bike up here”
-
-Well…. Ride from Encanto to Baldy Village was a pleasant, upper Z2 cruise. A bit more effort to the waterfall. From there it was mixed… https://t.co/v3FoOiWohN https://t.co/PmB7l98gao</title>
-      <link>https://twitter.com/AndrewHires/status/1674585869104345088</link>
-      <description>Ride summary:
-
-Cresting the rideable top, a descending hiker “No way, NO WAY! I’m a cyclist and I can’t believe you got your bike up here”
-
-Well…. Ride from Encanto to Baldy Village was a pleasant, upper Z2 cruise. A bit more effort to the waterfall. From there it was mixed… https://t.co/v3FoOiWohN https://t.co/PmB7l98gao</description>
-      <content:encoded>Ride summary:
-
-Cresting the rideable top, a descending hiker “No way, NO WAY! I’m a cyclist and I can’t believe you got your bike up here”
-
-Well…. Ride from Encanto to Baldy Village was a pleasant, upper Z2 cruise. A bit more effort to the waterfall. From there it was mixed… https://t.co/v3FoOiWohN https://t.co/PmB7l98gao&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewHires/status/1674585869104345088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1674585726313443328/img/zXZip5CcRKqE0lRb.jpg" length="675" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 01:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Optogenetic manipulation of inhibitory interneurons can be used to validate a model of spatiotemporal sequence learning: The brain uses temporal information to link discrete events into memory structures… #Computational #Neuroscience https://t.co/DVm0OMwi2q</title>
-      <link>https://twitter.com/FrontNeurosci/status/1674587440705843200</link>
-      <description>New Research: Optogenetic manipulation of inhibitory interneurons can be used to validate a model of spatiotemporal sequence learning: The brain uses temporal information to link discrete events into memory structures… #Computational #Neuroscience https://t.co/DVm0OMwi2q</description>
-      <content:encoded>New Research: Optogenetic manipulation of inhibitory interneurons can be used to validate a model of spatiotemporal sequence learning: The brain uses temporal information to link discrete events into memory structures… #Computational #Neuroscience https://t.co/DVm0OMwi2q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674587440705843200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 01:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Developing a Toolbox of Antibodies Validated for Array Tomography-Based Imaging of Brain Synapses  https://t.co/m9wU538XCU #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674587460574105601</link>
-      <description>Developing a Toolbox of Antibodies Validated for Array Tomography-Based Imaging of Brain Synapses  https://t.co/m9wU538XCU #biorxiv_neursci</description>
-      <content:encoded>Developing a Toolbox of Antibodies Validated for Array Tomography-Based Imaging of Brain Synapses  https://t.co/m9wU538XCU #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674587460574105601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 01:15:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>A modular approach to handle in-vivo drift correction for high-density extracellular recordings  https://t.co/n3vsBgb4I3 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674587592451342337</link>
-      <description>A modular approach to handle in-vivo drift correction for high-density extracellular recordings  https://t.co/n3vsBgb4I3 #biorxiv_neursci</description>
-      <content:encoded>A modular approach to handle in-vivo drift correction for high-density extracellular recordings  https://t.co/n3vsBgb4I3 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674587592451342337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 01:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Register for a webinar on July 19 to learn how #immunology researchers at the Allen Institute are using multiplexed multi-modal fixed scRNA-seq assays to overcome challenges found in traditional single cell transcriptomics. #RNAseq
-
-https://t.co/RdZK5iadg5</title>
-      <link>https://twitter.com/AllenInstitute/status/1674591079600095233</link>
-      <description>Register for a webinar on July 19 to learn how #immunology researchers at the Allen Institute are using multiplexed multi-modal fixed scRNA-seq assays to overcome challenges found in traditional single cell transcriptomics. #RNAseq
-
-https://t.co/RdZK5iadg5</description>
-      <content:encoded>Register for a webinar on July 19 to learn how #immunology researchers at the Allen Institute are using multiplexed multi-modal fixed scRNA-seq assays to overcome challenges found in traditional single cell transcriptomics. #RNAseq
-
-https://t.co/RdZK5iadg5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1674591079600095233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 01:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Unraveling molecular characteristic of fluoride neurotoxicity on U87 glial-like cells: insights from transcriptomic and proteomic approach: The potential of fluoride (F) as a neurotoxicant in humans is still controversial in… #neuroscience https://t.co/hJiLKQ23N1</title>
-      <link>https://twitter.com/FrontNeurosci/status/1674600523557920774</link>
-      <description>New Research: Unraveling molecular characteristic of fluoride neurotoxicity on U87 glial-like cells: insights from transcriptomic and proteomic approach: The potential of fluoride (F) as a neurotoxicant in humans is still controversial in… #neuroscience https://t.co/hJiLKQ23N1</description>
-      <content:encoded>New Research: Unraveling molecular characteristic of fluoride neurotoxicity on U87 glial-like cells: insights from transcriptomic and proteomic approach: The potential of fluoride (F) as a neurotoxicant in humans is still controversial in… #neuroscience https://t.co/hJiLKQ23N1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674600523557920774"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 02:07:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cell autonomous regulation of the activation of AgRP neurons by the melanocortin-3 receptor  https://t.co/cKd53woutf #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674602537276657666</link>
-      <description>Cell autonomous regulation of the activation of AgRP neurons by the melanocortin-3 receptor  https://t.co/cKd53woutf #biorxiv_neursci</description>
-      <content:encoded>Cell autonomous regulation of the activation of AgRP neurons by the melanocortin-3 receptor  https://t.co/cKd53woutf #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674602537276657666"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 02:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maltodextrin administration ameliorates brain pathology in a mouse model of mitochondrial disease  https://t.co/mxeULHEIYh #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674602638057299968</link>
-      <description>Maltodextrin administration ameliorates brain pathology in a mouse model of mitochondrial disease  https://t.co/mxeULHEIYh #biorxiv_neursci</description>
-      <content:encoded>Maltodextrin administration ameliorates brain pathology in a mouse model of mitochondrial disease  https://t.co/mxeULHEIYh #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674602638057299968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 02:15:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mortality rates in U.S. counties during the #COVID19 pandemic show that unlike cities, rural areas were impacted more in the second year of the pandemic. https://t.co/TSEhIj2WXv @ScienceAdvances https://t.co/Z8ODiXRvVl</title>
-      <link>https://twitter.com/ScienceMagazine/status/1674613770826416128</link>
-      <description>Mortality rates in U.S. counties during the #COVID19 pandemic show that unlike cities, rural areas were impacted more in the second year of the pandemic. https://t.co/TSEhIj2WXv @ScienceAdvances https://t.co/Z8ODiXRvVl</description>
-      <content:encoded>Mortality rates in U.S. counties during the #COVID19 pandemic show that unlike cities, rural areas were impacted more in the second year of the pandemic. https://t.co/TSEhIj2WXv @ScienceAdvances https://t.co/Z8ODiXRvVl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674613770826416128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz1sWJoX0AAqsM2.jpg" length="978" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 03:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congrats Roger!! Well deserved! Proud of you! https://t.co/BVfdTk2TKS</title>
-      <link>https://twitter.com/rhuganir/status/1674618108743499777</link>
-      <description>Congrats Roger!! Well deserved! Proud of you! https://t.co/BVfdTk2TKS</description>
-      <content:encoded>Congrats Roger!! Well deserved! Proud of you! https://t.co/BVfdTk2TKS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/rhuganir/status/1674618108743499777"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 03:17:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DdelAlamo: "Graph Denoising Diffusion for Inverse Protein Folding"
-
-Sequence design using diffusion - we all knew this was coming event…</title>
-      <link>https://twitter.com/gottapatchemall/status/1674623478216130560</link>
-      <description>RT @DdelAlamo: "Graph Denoising Diffusion for Inverse Protein Folding"
-
-Sequence design using diffusion - we all knew this was coming event…</description>
-      <content:encoded>RT @DdelAlamo: "Graph Denoising Diffusion for Inverse Protein Folding"
-
-Sequence design using diffusion - we all knew this was coming event…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1674623478216130560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 03:38:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some chance fight happens in Colosseum</title>
-      <link>https://twitter.com/elonmusk/status/1674635153061330946</link>
-      <description>Some chance fight happens in Colosseum</description>
-      <content:encoded>Some chance fight happens in Colosseum&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1674635153061330946"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 04:25:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Jun 2023 22:17:19 +0000</lastBuildDate>
     <item>
       <title>A new #SciencePolicyForum describes the risks that increasingly limited access to abortion may pose to clinical research participants and staff, one year after the U.S. Supreme Court’s decision in Dobbs v. Jackson Woman’s Health Organization. 
 
@@ -2173,6 +2022,132 @@ https://t.co/p2mlB03jWV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @KDudnyk47866: Excited to share our new work about the sequence basis of transcription initiation in human. We showed that simple rules…</description>
       <content:encoded>RT @KDudnyk47866: Excited to share our new work about the sequence basis of transcription initiation in human. We showed that simple rules…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1674887935491973120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 30 Jun 2023 21:09:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jayvanbavel: 43% of White students at Harvard are legacy, athletes, related to donors or staff.
+
+All the universities making social med…</title>
+      <link>https://twitter.com/TheBrunoCortex/status/1674890849618911234</link>
+      <description>RT @jayvanbavel: 43% of White students at Harvard are legacy, athletes, related to donors or staff.
+
+All the universities making social med…</description>
+      <content:encoded>RT @jayvanbavel: 43% of White students at Harvard are legacy, athletes, related to donors or staff.
+
+All the universities making social med…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1674890849618911234"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 21:21:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The fly connectome is orders of magnitude larger, and was only attainable due to decades of technological progress made by a small community of true believers. In my 2012 book Connectome, I described how AI was essential for success. https://t.co/UMUlQujx3j</title>
+      <link>https://twitter.com/SebastianSeung/status/1674890881793417218</link>
+      <description>The fly connectome is orders of magnitude larger, and was only attainable due to decades of technological progress made by a small community of true believers. In my 2012 book Connectome, I described how AI was essential for success. https://t.co/UMUlQujx3j</description>
+      <content:encoded>The fly connectome is orders of magnitude larger, and was only attainable due to decades of technological progress made by a small community of true believers. In my 2012 book Connectome, I described how AI was essential for success. https://t.co/UMUlQujx3j&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1674890881793417218"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz5oYO8XwAI-f57.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 30 Jun 2023 21:21:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>It was tough going in the 2000s. The neuro experts told us that connectomes were useless and the computer vision experts told us that convolutional nets were the wrong approach. https://t.co/ZZFE3XBtLw</title>
+      <link>https://twitter.com/SebastianSeung/status/1674891864212684802</link>
+      <description>It was tough going in the 2000s. The neuro experts told us that connectomes were useless and the computer vision experts told us that convolutional nets were the wrong approach. https://t.co/ZZFE3XBtLw</description>
+      <content:encoded>It was tough going in the 2000s. The neuro experts told us that connectomes were useless and the computer vision experts told us that convolutional nets were the wrong approach. https://t.co/ZZFE3XBtLw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1674891864212684802"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 21:25:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>This platform hit another all-time high in user-seconds last week</title>
+      <link>https://twitter.com/elonmusk/status/1674894268912087040</link>
+      <description>This platform hit another all-time high in user-seconds last week</description>
+      <content:encoded>This platform hit another all-time high in user-seconds last week&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1674894268912087040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 21:34:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Today the @FlyWireNews Consortium includes 40+ labs, all happily using the fly connectome to make scientific discoveries about how flies see, smell, taste, hear, walk, and, of course, fly. Not to mention "cognitive" behaviors like social interactions and navigation.</title>
+      <link>https://twitter.com/SebastianSeung/status/1674894980463067145</link>
+      <description>Today the @FlyWireNews Consortium includes 40+ labs, all happily using the fly connectome to make scientific discoveries about how flies see, smell, taste, hear, walk, and, of course, fly. Not to mention "cognitive" behaviors like social interactions and navigation.</description>
+      <content:encoded>Today the @FlyWireNews Consortium includes 40+ labs, all happily using the fly connectome to make scientific discoveries about how flies see, smell, taste, hear, walk, and, of course, fly. Not to mention "cognitive" behaviors like social interactions and navigation.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1674894980463067145"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 21:37:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @isiCNI: Applications are now open for Imbizo 2024! Apply before July 11 to join us in South Africa for 3 weeks (Jan 7-28) of Comp Neuro…</title>
+      <link>https://twitter.com/bdanubius/status/1674898647459287041</link>
+      <description>RT @isiCNI: Applications are now open for Imbizo 2024! Apply before July 11 to join us in South Africa for 3 weeks (Jan 7-28) of Comp Neuro…</description>
+      <content:encoded>RT @isiCNI: Applications are now open for Imbizo 2024! Apply before July 11 to join us in South Africa for 3 weeks (Jan 7-28) of Comp Neuro…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1674898647459287041"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 21:52:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grant-writing is always better at #PieintheSky, Woods Hole, MA https://t.co/AkB3MCYX24</title>
+      <link>https://twitter.com/FitzpatrickLab/status/1674899471577088000</link>
+      <description>Grant-writing is always better at #PieintheSky, Woods Hole, MA https://t.co/AkB3MCYX24</description>
+      <content:encoded>Grant-writing is always better at #PieintheSky, Woods Hole, MA https://t.co/AkB3MCYX24&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1674899471577088000"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz5wJZpWwAIzvgF.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 30 Jun 2023 21:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shouldn't forget discoveries about female vs male behaviors from partner in @FlyWireNews crime @MurthyLab  Here are the neurons/eye candy https://t.co/3Z7WtH3RKD</title>
+      <link>https://twitter.com/SebastianSeung/status/1674899509636153344</link>
+      <description>Shouldn't forget discoveries about female vs male behaviors from partner in @FlyWireNews crime @MurthyLab  Here are the neurons/eye candy https://t.co/3Z7WtH3RKD</description>
+      <content:encoded>Shouldn't forget discoveries about female vs male behaviors from partner in @FlyWireNews crime @MurthyLab  Here are the neurons/eye candy https://t.co/3Z7WtH3RKD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1674899509636153344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 21:55:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MurthyLab: Excited to announce the completion of the first adult brain connectome - FlyWire is the neuronal wiring diagram of a Drosoph…</title>
+      <link>https://twitter.com/meletislab/status/1674899944870760448</link>
+      <description>RT @MurthyLab: Excited to announce the completion of the first adult brain connectome - FlyWire is the neuronal wiring diagram of a Drosoph…</description>
+      <content:encoded>RT @MurthyLab: Excited to announce the completion of the first adult brain connectome - FlyWire is the neuronal wiring diagram of a Drosoph…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/meletislab/status/1674899944870760448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 21:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Despite extensive investments in large language models and vision models, Meta lacks a high-profile generative AI initiative. Reporters went looking for reasons why. 
+
+Learn more in #TheBatch: https://t.co/79LHWaqAra</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1674900619935490050</link>
+      <description>Despite extensive investments in large language models and vision models, Meta lacks a high-profile generative AI initiative. Reporters went looking for reasons why. 
+
+Learn more in #TheBatch: https://t.co/79LHWaqAra</description>
+      <content:encoded>Despite extensive investments in large language models and vision models, Meta lacks a high-profile generative AI initiative. Reporters went looking for reasons why. 
+
+Learn more in #TheBatch: https://t.co/79LHWaqAra&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1674900619935490050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decoding object categories from EEG during free viewing reveals early information evolution compared to passive viewing  https://t.co/DVol7TSqOg #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674904520621531137</link>
+      <description>Decoding object categories from EEG during free viewing reveals early information evolution compared to passive viewing  https://t.co/DVol7TSqOg #biorxiv_neursci</description>
+      <content:encoded>Decoding object categories from EEG during free viewing reveals early information evolution compared to passive viewing  https://t.co/DVol7TSqOg #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674904520621531137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 22:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multimodal layer modeling reveals in-vivo pathology in ALS  https://t.co/wJmTtN8T7o #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674904619955240960</link>
+      <description>Multimodal layer modeling reveals in-vivo pathology in ALS  https://t.co/wJmTtN8T7o #biorxiv_neursci</description>
+      <content:encoded>Multimodal layer modeling reveals in-vivo pathology in ALS  https://t.co/wJmTtN8T7o #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674904619955240960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 22:15:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The influence of movement speed on reward-based motor learning  https://t.co/ZXzeMMYs1T #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674904687282192384</link>
+      <description>The influence of movement speed on reward-based motor learning  https://t.co/ZXzeMMYs1T #biorxiv_neursci</description>
+      <content:encoded>The influence of movement speed on reward-based motor learning  https://t.co/ZXzeMMYs1T #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674904687282192384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 22:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visual shape discrimination in goldfish, modelled with the neural circuitry of optic tectum and torus longitudinalis.  https://t.co/6CmL3jSuK8 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674904781201055745</link>
+      <description>Visual shape discrimination in goldfish, modelled with the neural circuitry of optic tectum and torus longitudinalis.  https://t.co/6CmL3jSuK8 #biorxiv_neursci</description>
+      <content:encoded>Visual shape discrimination in goldfish, modelled with the neural circuitry of optic tectum and torus longitudinalis.  https://t.co/6CmL3jSuK8 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674904781201055745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 22:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neurophysiological correlates of Somatosensory tinnitus modulation  https://t.co/MReVerI00K #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674904875384053762</link>
+      <description>Neurophysiological correlates of Somatosensory tinnitus modulation  https://t.co/MReVerI00K #biorxiv_neursci</description>
+      <content:encoded>Neurophysiological correlates of Somatosensory tinnitus modulation  https://t.co/MReVerI00K #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674904875384053762"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 22:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Age-dependent decrease in inhibitory drive on the excitatory superficial spinal dorsal horn neurons  https://t.co/D7Niu2PtGs #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674904969508532224</link>
+      <description>Age-dependent decrease in inhibitory drive on the excitatory superficial spinal dorsal horn neurons  https://t.co/D7Niu2PtGs #biorxiv_neursci</description>
+      <content:encoded>Age-dependent decrease in inhibitory drive on the excitatory superficial spinal dorsal horn neurons  https://t.co/D7Niu2PtGs #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674904969508532224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 30 Jun 2023 22:17:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
