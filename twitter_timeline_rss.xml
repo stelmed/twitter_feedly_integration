@@ -6,36 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jul 2023 22:15:58 +0000</lastBuildDate>
-    <item>
-      <title>This is how a starfish walks
-
-Water enters through a sieve plate in the skin and is forced by muscles into each tube foot
-
-Tube feet enable the starfish to manipulate prey, to move, and to cling to rocks
-
-[full video, Zeb Hallock: https://t.co/3jtrUHCf8N]
-https://t.co/IxYHQ81aNI</title>
-      <link>https://twitter.com/Rainmaker1973/status/1674854030504255502</link>
-      <description>This is how a starfish walks
-
-Water enters through a sieve plate in the skin and is forced by muscles into each tube foot
-
-Tube feet enable the starfish to manipulate prey, to move, and to cling to rocks
-
-[full video, Zeb Hallock: https://t.co/3jtrUHCf8N]
-https://t.co/IxYHQ81aNI</description>
-      <content:encoded>This is how a starfish walks
-
-Water enters through a sieve plate in the skin and is forced by muscles into each tube foot
-
-Tube feet enable the starfish to manipulate prey, to move, and to cling to rocks
-
-[full video, Zeb Hallock: https://t.co/3jtrUHCf8N]
-https://t.co/IxYHQ81aNI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674854030504255502"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1126678144365268992/pu/img/-58BpNg8uLfMAUmn.jpg" length="480" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 18:54:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Jul 2023 23:16:48 +0000</lastBuildDate>
     <item>
       <title>How does cAMP move in cells? Katherine Xiang (@km_xiang) and team developed cAMP-SITES for all-optical perturbation and measurement of cAMP. https://t.co/FBtHYZNYEI https://t.co/QgCLVheoDS</title>
       <link>https://twitter.com/AdamEzraCohen/status/1674854997824266240</link>
@@ -2057,6 +2028,19 @@ Congratulations 🎉🎊🍾 @JonRWhi…&lt;blockquote class="twitter-tweet"&gt;
       <description>Now to 10k, 1k &amp;amp; 0.5k</description>
       <content:encoded>Now to 10k, 1k &amp;amp; 0.5k&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1675260424109928449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 01 Jul 2023 21:49:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Utility of hybrid PET/MRI in stereoelectroencephalography guided radiofrequency thermocoagulation in MRI negative epilepsy patients: Introduction
+
+Hybrid positron emission tomography/magnetic resonance imaging (PET/MRI) is a… #Neuroscience https://t.co/fRH52hL8di</title>
+      <link>https://twitter.com/FrontNeurosci/status/1675273586058358784</link>
+      <description>New Research: Utility of hybrid PET/MRI in stereoelectroencephalography guided radiofrequency thermocoagulation in MRI negative epilepsy patients: Introduction
+
+Hybrid positron emission tomography/magnetic resonance imaging (PET/MRI) is a… #Neuroscience https://t.co/fRH52hL8di</description>
+      <content:encoded>New Research: Utility of hybrid PET/MRI in stereoelectroencephalography guided radiofrequency thermocoagulation in MRI negative epilepsy patients: Introduction
+
+Hybrid positron emission tomography/magnetic resonance imaging (PET/MRI) is a… #Neuroscience https://t.co/fRH52hL8di&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675273586058358784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 22:42:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
