@@ -6,49 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jul 2023 01:55:04 +0000</lastBuildDate>
-    <item>
-      <title>Genetic influences on motor learning and superperformance mutants revealed by random mutational survey of mouse locomotion  https://t.co/RiZcdX3TZS #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674693418029658112</link>
-      <description>Genetic influences on motor learning and superperformance mutants revealed by random mutational survey of mouse locomotion  https://t.co/RiZcdX3TZS #biorxiv_neursci</description>
-      <content:encoded>Genetic influences on motor learning and superperformance mutants revealed by random mutational survey of mouse locomotion  https://t.co/RiZcdX3TZS #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674693418029658112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 08:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neuronal wiring diagram of an adult brain  https://t.co/qVjDNjaY3D #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674693778647445505</link>
-      <description>Neuronal wiring diagram of an adult brain  https://t.co/qVjDNjaY3D #biorxiv_neursci</description>
-      <content:encoded>Neuronal wiring diagram of an adult brain  https://t.co/qVjDNjaY3D #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674693778647445505"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 08:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Developmental molecular controls over arealization of descending cortical motor pathways  https://t.co/IOIEORI4O6 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674693951159148544</link>
-      <description>Developmental molecular controls over arealization of descending cortical motor pathways  https://t.co/IOIEORI4O6 #biorxiv_neursci</description>
-      <content:encoded>Developmental molecular controls over arealization of descending cortical motor pathways  https://t.co/IOIEORI4O6 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674693951159148544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 08:18:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Predicting Executive Functioning from Brain Networks: Modality Specificity and Age Effects  https://t.co/rkoOjuBTUQ #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674694189198581760</link>
-      <description>Predicting Executive Functioning from Brain Networks: Modality Specificity and Age Effects  https://t.co/rkoOjuBTUQ #biorxiv_neursci</description>
-      <content:encoded>Predicting Executive Functioning from Brain Networks: Modality Specificity and Age Effects  https://t.co/rkoOjuBTUQ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674694189198581760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 08:19:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Encoding and context-dependent control of reward consumption within the central nucleus of the amygdala  https://t.co/MrA8P7r68o #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674694369377501185</link>
-      <description>Encoding and context-dependent control of reward consumption within the central nucleus of the amygdala  https://t.co/MrA8P7r68o #biorxiv_neursci</description>
-      <content:encoded>Encoding and context-dependent control of reward consumption within the central nucleus of the amygdala  https://t.co/MrA8P7r68o #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674694369377501185"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 08:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @HBPSociety: It's about that time! #HBPSummerSchool starts next week. Curious about our training modules for anticipating, identifying a…</title>
-      <link>https://twitter.com/HumanBrainProj/status/1674695130433957889</link>
-      <description>RT @HBPSociety: It's about that time! #HBPSummerSchool starts next week. Curious about our training modules for anticipating, identifying a…</description>
-      <content:encoded>RT @HBPSociety: It's about that time! #HBPSummerSchool starts next week. Curious about our training modules for anticipating, identifying a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HumanBrainProj/status/1674695130433957889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 08:23:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Jul 2023 03:08:17 +0000</lastBuildDate>
     <item>
       <title>Här är förslagen som kan öka hälsan och välståndet i Sverige, genom att skapa bättre förutsättningar för medicinsk forskning, utveckling och vård. 
 
@@ -2051,6 +2009,55 @@ Chronic exposure to social defeat stress (SDS) has been used to… #Neuroscience
       <content:encoded>Generative #AI models such as #ChatGPT, DALL·E, and #Midjourney all have features that may distort human beliefs through their transmission of false information and stereotyped biases, argues a new #SciencePerspective. https://t.co/gcoC115dnM https://t.co/dXSa6ypTuv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674953491544961024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fz6hUvHWAAACc3F.jpg" length="750" type="photo"/>
       <pubDate>Sat, 01 Jul 2023 01:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Reliability and validity of the electronic version of the Hopkins verbal learning test-revised in middle-aged and elderly Chinese people: Background
+
+The aging population is increasing, making it essential to have a… #ageing #neuroscience https://t.co/ndvh3jZiYd</title>
+      <link>https://twitter.com/FrontNeurosci/status/1674963040939409409</link>
+      <description>New Research: Reliability and validity of the electronic version of the Hopkins verbal learning test-revised in middle-aged and elderly Chinese people: Background
+
+The aging population is increasing, making it essential to have a… #ageing #neuroscience https://t.co/ndvh3jZiYd</description>
+      <content:encoded>New Research: Reliability and validity of the electronic version of the Hopkins verbal learning test-revised in middle-aged and elderly Chinese people: Background
+
+The aging population is increasing, making it essential to have a… #ageing #neuroscience https://t.co/ndvh3jZiYd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674963040939409409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 02:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fork in the road: how self-confidence about terrain influences gaze behaviour and path choice  https://t.co/xUvarBZTaY #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674964934382305280</link>
+      <description>Fork in the road: how self-confidence about terrain influences gaze behaviour and path choice  https://t.co/xUvarBZTaY #biorxiv_neursci</description>
+      <content:encoded>Fork in the road: how self-confidence about terrain influences gaze behaviour and path choice  https://t.co/xUvarBZTaY #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674964934382305280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 02:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>A frame and a hotspot in cochlear mechanics  https://t.co/PleVbZUsVx #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674965205397172226</link>
+      <description>A frame and a hotspot in cochlear mechanics  https://t.co/PleVbZUsVx #biorxiv_neursci</description>
+      <content:encoded>A frame and a hotspot in cochlear mechanics  https://t.co/PleVbZUsVx #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674965205397172226"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 02:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decision-consistent bias mediated by drift dynamics of human visual working memory  https://t.co/rq2V01fiAv #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674965409018118144</link>
+      <description>Decision-consistent bias mediated by drift dynamics of human visual working memory  https://t.co/rq2V01fiAv #biorxiv_neursci</description>
+      <content:encoded>Decision-consistent bias mediated by drift dynamics of human visual working memory  https://t.co/rq2V01fiAv #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674965409018118144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 02:17:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Age-Related Differences in Alpha Power for Distractor Inhibition During Visual Working Memory  https://t.co/5foNgKRK2p #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1674965520041271299</link>
+      <description>Age-Related Differences in Alpha Power for Distractor Inhibition During Visual Working Memory  https://t.co/5foNgKRK2p #biorxiv_neursci</description>
+      <content:encoded>Age-Related Differences in Alpha Power for Distractor Inhibition During Visual Working Memory  https://t.co/5foNgKRK2p #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674965520041271299"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 02:17:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers have identified a long noncoding RNA that exacerbates the migration and invasiveness of #BreastCancer and #LungCancer cells in vitro and in zebrafish—suggesting that the RNA could offer a target for new cancer therapies. @SciSignal https://t.co/MA6dPaHryx https://t.co/3KWxsvSroy</title>
+      <link>https://twitter.com/ScienceMagazine/status/1674976140874723330</link>
+      <description>Researchers have identified a long noncoding RNA that exacerbates the migration and invasiveness of #BreastCancer and #LungCancer cells in vitro and in zebrafish—suggesting that the RNA could offer a target for new cancer therapies. @SciSignal https://t.co/MA6dPaHryx https://t.co/3KWxsvSroy</description>
+      <content:encoded>Researchers have identified a long noncoding RNA that exacerbates the migration and invasiveness of #BreastCancer and #LungCancer cells in vitro and in zebrafish—suggesting that the RNA could offer a target for new cancer therapies. @SciSignal https://t.co/MA6dPaHryx https://t.co/3KWxsvSroy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674976140874723330"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz617FSWwAM-CeH.jpg" length="910" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 03:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
