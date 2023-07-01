@@ -6,51 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jul 2023 06:22:02 +0000</lastBuildDate>
-    <item>
-      <title>🎙️ New Podcast Episode Alert! 🌌📡
-
-Join us on an awe-inspiring journey as we unravel the secrets of the cosmos. We dive into the fascinating world of low-frequency gravitational waves with Micheal Kramer @MPIfR_Bonn and Alberto Sesana from @unimib. 
-Choose where to listen!</title>
-      <link>https://twitter.com/ERC_Research/status/1674749628481409024</link>
-      <description>🎙️ New Podcast Episode Alert! 🌌📡
-
-Join us on an awe-inspiring journey as we unravel the secrets of the cosmos. We dive into the fascinating world of low-frequency gravitational waves with Micheal Kramer @MPIfR_Bonn and Alberto Sesana from @unimib. 
-Choose where to listen!</description>
-      <content:encoded>🎙️ New Podcast Episode Alert! 🌌📡
-
-Join us on an awe-inspiring journey as we unravel the secrets of the cosmos. We dive into the fascinating world of low-frequency gravitational waves with Micheal Kramer @MPIfR_Bonn and Alberto Sesana from @unimib. 
-Choose where to listen!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1674749628481409024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 12:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New @SciSignal experiments reveal how “sticking” to specific molecules facilitates the activation of #Tcells—potentially explaining how these immune cells are activated as they migrate into inflamed tissues. #CalciumSignaling https://t.co/k1pX4dQgoV https://t.co/swEXVOxrLd</title>
-      <link>https://twitter.com/ScienceMagazine/status/1674749771569852418</link>
-      <description>New @SciSignal experiments reveal how “sticking” to specific molecules facilitates the activation of #Tcells—potentially explaining how these immune cells are activated as they migrate into inflamed tissues. #CalciumSignaling https://t.co/k1pX4dQgoV https://t.co/swEXVOxrLd</description>
-      <content:encoded>New @SciSignal experiments reveal how “sticking” to specific molecules facilitates the activation of #Tcells—potentially explaining how these immune cells are activated as they migrate into inflamed tissues. #CalciumSignaling https://t.co/k1pX4dQgoV https://t.co/swEXVOxrLd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674749771569852418"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz3oCscWIAgpTc2.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 12:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>#PeerReview from @eLife of 👉🏿 Distinct representations of innate and learned threats within the thalamic-amygdala pathway  https://t.co/QAXmAQo30H #biorxiv_neursci #reviewedpreprint</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674751048659943425</link>
-      <description>#PeerReview from @eLife of 👉🏿 Distinct representations of innate and learned threats within the thalamic-amygdala pathway  https://t.co/QAXmAQo30H #biorxiv_neursci #reviewedpreprint</description>
-      <content:encoded>#PeerReview from @eLife of 👉🏿 Distinct representations of innate and learned threats within the thalamic-amygdala pathway  https://t.co/QAXmAQo30H #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674751048659943425"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 12:05:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚨Applications due today (June 30)!🚨
-
-🔗https://t.co/xHYNhHvnjt https://t.co/prnCwF4KGs</title>
-      <link>https://twitter.com/HHMIJanelia/status/1674751273139142658</link>
-      <description>🚨Applications due today (June 30)!🚨
-
-🔗https://t.co/xHYNhHvnjt https://t.co/prnCwF4KGs</description>
-      <content:encoded>🚨Applications due today (June 30)!🚨
-
-🔗https://t.co/xHYNhHvnjt https://t.co/prnCwF4KGs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1674751273139142658"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 12:06:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Jul 2023 07:15:31 +0000</lastBuildDate>
     <item>
       <title>@anne_churchland @UCLAHealth @dgsomucla Sending best wishes.</title>
       <link>https://twitter.com/KordingLab/status/1674754101526114304</link>
@@ -2063,6 +2019,48 @@ https://t.co/cBSfphvxO7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>The successor representation subserves hierarchical abstraction for goal-directed behavior  https://t.co/pu8bfBISEv #biorxiv_neursci</description>
       <content:encoded>The successor representation subserves hierarchical abstraction for goal-directed behavior  https://t.co/pu8bfBISEv #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675025350466650112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 01 Jul 2023 06:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Radar Cross Section is a measure of how detectable an object is by radar. Larger RCS -&amp;gt; object is more easily detected. The B2 Spirit has a wingpsan 6 times larger than the F-16: yet, it has a smaller radar cross-section 
+
+[chart, read more: https://t.co/Kj1v9ttI2W] https://t.co/UB7piUikd8</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675027705719341058</link>
+      <description>Radar Cross Section is a measure of how detectable an object is by radar. Larger RCS -&amp;gt; object is more easily detected. The B2 Spirit has a wingpsan 6 times larger than the F-16: yet, it has a smaller radar cross-section 
+
+[chart, read more: https://t.co/Kj1v9ttI2W] https://t.co/UB7piUikd8</description>
+      <content:encoded>Radar Cross Section is a measure of how detectable an object is by radar. Larger RCS -&amp;gt; object is more easily detected. The B2 Spirit has a wingpsan 6 times larger than the F-16: yet, it has a smaller radar cross-section 
+
+[chart, read more: https://t.co/Kj1v9ttI2W] https://t.co/UB7piUikd8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675027705719341058"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz7g-75XoAIetRW.jpg" length="680" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 06:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On the Washington National Cathedral there's a well-hidden, but very official, carving of #StarWars villain Darth Vader as a grotesqueperched high among its many spires 
+
+[read more: https://t.co/ZCt0GJE5dL] https://t.co/WUZol4pS6h</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675033997406257155</link>
+      <description>On the Washington National Cathedral there's a well-hidden, but very official, carving of #StarWars villain Darth Vader as a grotesqueperched high among its many spires 
+
+[read more: https://t.co/ZCt0GJE5dL] https://t.co/WUZol4pS6h</description>
+      <content:encoded>On the Washington National Cathedral there's a well-hidden, but very official, carving of #StarWars villain Darth Vader as a grotesqueperched high among its many spires 
+
+[read more: https://t.co/ZCt0GJE5dL] https://t.co/WUZol4pS6h&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675033997406257155"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz7hYBdWcAEIpP5.jpg" length="515" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 06:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk @karpathy Is leadership prompt engineering for humans?</title>
+      <link>https://twitter.com/ylecun/status/1675036104909520896</link>
+      <description>@elonmusk @karpathy Is leadership prompt engineering for humans?</description>
+      <content:encoded>@elonmusk @karpathy Is leadership prompt engineering for humans?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1675036104909520896"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 06:58:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gestational and postnatal age associations for striatal tissue iron deposition in early infancy  https://t.co/b3p7qJnbJg #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675040409213337600</link>
+      <description>Gestational and postnatal age associations for striatal tissue iron deposition in early infancy  https://t.co/b3p7qJnbJg #biorxiv_neursci</description>
+      <content:encoded>Gestational and postnatal age associations for striatal tissue iron deposition in early infancy  https://t.co/b3p7qJnbJg #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675040409213337600"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 07:15:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
