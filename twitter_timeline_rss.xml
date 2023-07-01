@@ -6,117 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jul 2023 14:14:42 +0000</lastBuildDate>
-    <item>
-      <title>RT @JesseJenkins: Hot off the presses in @ScienceMagazine! 
-A cross-model comparison of nine independent modeling studies on the impacts of…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1674794750573158403</link>
-      <description>RT @JesseJenkins: Hot off the presses in @ScienceMagazine! 
-A cross-model comparison of nine independent modeling studies on the impacts of…</description>
-      <content:encoded>RT @JesseJenkins: Hot off the presses in @ScienceMagazine! 
-A cross-model comparison of nine independent modeling studies on the impacts of…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674794750573158403"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 14:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>It was beautiful! The Lindau Nobel Laureate Meeting ended today. All Max Planck participants - young scientists as well as Nobel laureates - thank you for the hospitality and the lively exchange. @lindaunobel #LINO23 https://t.co/PefQvGnLTB</title>
-      <link>https://twitter.com/maxplanckpress/status/1674795032258412545</link>
-      <description>It was beautiful! The Lindau Nobel Laureate Meeting ended today. All Max Planck participants - young scientists as well as Nobel laureates - thank you for the hospitality and the lively exchange. @lindaunobel #LINO23 https://t.co/PefQvGnLTB</description>
-      <content:encoded>It was beautiful! The Lindau Nobel Laureate Meeting ended today. All Max Planck participants - young scientists as well as Nobel laureates - thank you for the hospitality and the lively exchange. @lindaunobel #LINO23 https://t.co/PefQvGnLTB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1674795032258412545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz4QGB7aUAAwu-N.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 15:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harnessing structural and functional techniques, researchers identify and optimize a pan #hantavirus antibody that can protect rodents against infections with the evolutionarily distinct Puumala virus and Andes virus. https://t.co/N1WOIvsmBU @ScienceTM https://t.co/BhBVT3AhZz</title>
-      <link>https://twitter.com/ScienceMagazine/status/1674795051040530437</link>
-      <description>Harnessing structural and functional techniques, researchers identify and optimize a pan #hantavirus antibody that can protect rodents against infections with the evolutionarily distinct Puumala virus and Andes virus. https://t.co/N1WOIvsmBU @ScienceTM https://t.co/BhBVT3AhZz</description>
-      <content:encoded>Harnessing structural and functional techniques, researchers identify and optimize a pan #hantavirus antibody that can protect rodents against infections with the evolutionarily distinct Puumala virus and Andes virus. https://t.co/N1WOIvsmBU @ScienceTM https://t.co/BhBVT3AhZz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674795051040530437"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz4ROQmaEBQmK13.jpg" length="910" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 15:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>TackAnnemieke ⁦@eHalsan för viktigt samtal om utredningen”Infrastruktur för hälsodata som nationellt intresse” &amp;amp;tack⁩ ⁦@lakarforbundet⁩ för värdskap ⁦@Medtronic⁩ ⁦@PfizerSverige⁩ ⁦@MargaretaHaag⁩ ⁦@LIFse⁩ ⁦@uppsalauni⁩ ⁦⁦@AochAF⁩ https://t.co/g31sMwBYHZ</title>
-      <link>https://twitter.com/forskasverige/status/1674795491660566536</link>
-      <description>TackAnnemieke ⁦@eHalsan för viktigt samtal om utredningen”Infrastruktur för hälsodata som nationellt intresse” &amp;amp;tack⁩ ⁦@lakarforbundet⁩ för värdskap ⁦@Medtronic⁩ ⁦@PfizerSverige⁩ ⁦@MargaretaHaag⁩ ⁦@LIFse⁩ ⁦@uppsalauni⁩ ⁦⁦@AochAF⁩ https://t.co/g31sMwBYHZ</description>
-      <content:encoded>TackAnnemieke ⁦@eHalsan för viktigt samtal om utredningen”Infrastruktur för hälsodata som nationellt intresse” &amp;amp;tack⁩ ⁦@lakarforbundet⁩ för värdskap ⁦@Medtronic⁩ ⁦@PfizerSverige⁩ ⁦@MargaretaHaag⁩ ⁦@LIFse⁩ ⁦@uppsalauni⁩ ⁦⁦@AochAF⁩ https://t.co/g31sMwBYHZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/forskasverige/status/1674795491660566536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz4RnmdaUAA2NAU.jpg" length="1125" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 15:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers have developed a dataset for teaching an AI to write better chart captions, improving accessibility for blind and low-vision individuals. A model trained with this dataset could translate “‘chart language’ to English,” Angie Boggust explains. https://t.co/fmqY7iujmH https://t.co/AAoMxfWuVT</title>
-      <link>https://twitter.com/MIT/status/1674796267732619264</link>
-      <description>Researchers have developed a dataset for teaching an AI to write better chart captions, improving accessibility for blind and low-vision individuals. A model trained with this dataset could translate “‘chart language’ to English,” Angie Boggust explains. https://t.co/fmqY7iujmH https://t.co/AAoMxfWuVT</description>
-      <content:encoded>Researchers have developed a dataset for teaching an AI to write better chart captions, improving accessibility for blind and low-vision individuals. A model trained with this dataset could translate “‘chart language’ to English,” Angie Boggust explains. https://t.co/fmqY7iujmH https://t.co/AAoMxfWuVT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1674796267732619264"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz4SU7iacAIE1H3.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 15:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subscribing to this account unlocks daily long tweets with in-depth coverage of science subjects documented with sources and references.
-
-Twitter's new effective features include inline pictures and formatting.
-
-This account doesn't change its routine.
-
-Follow for more https://t.co/IdmLdeinaV https://t.co/FtMYrebwo1</title>
-      <link>https://twitter.com/Rainmaker1973/status/1674797673730428933</link>
-      <description>Subscribing to this account unlocks daily long tweets with in-depth coverage of science subjects documented with sources and references.
-
-Twitter's new effective features include inline pictures and formatting.
-
-This account doesn't change its routine.
-
-Follow for more https://t.co/IdmLdeinaV https://t.co/FtMYrebwo1</description>
-      <content:encoded>Subscribing to this account unlocks daily long tweets with in-depth coverage of science subjects documented with sources and references.
-
-Twitter's new effective features include inline pictures and formatting.
-
-This account doesn't change its routine.
-
-Follow for more https://t.co/IdmLdeinaV https://t.co/FtMYrebwo1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674797673730428933"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1674773320708009985/pu/img/J9tWrpC9r5woj3xe.jpg" length="604" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 15:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pair density waves have been observed in three superconductors. Find out more in this great N&amp;amp;V by @Hui_STM and Hong-Jun Gao https://t.co/gEbx2rOStB</title>
-      <link>https://twitter.com/NatureNV/status/1674797840068149253</link>
-      <description>Pair density waves have been observed in three superconductors. Find out more in this great N&amp;amp;V by @Hui_STM and Hong-Jun Gao https://t.co/gEbx2rOStB</description>
-      <content:encoded>Pair density waves have been observed in three superconductors. Find out more in this great N&amp;amp;V by @Hui_STM and Hong-Jun Gao https://t.co/gEbx2rOStB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1674797840068149253"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 15:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modular LED wall panels allow an easy, seamless front and back replacement of the tiles 
-
-[video: https://t.co/P7XuCCsfqy] 
-[leran more: https://t.co/81xdp3A1g2]
-https://t.co/Pq1rTiXpP9</title>
-      <link>https://twitter.com/Rainmaker1973/status/1674799925367017474</link>
-      <description>Modular LED wall panels allow an easy, seamless front and back replacement of the tiles 
-
-[video: https://t.co/P7XuCCsfqy] 
-[leran more: https://t.co/81xdp3A1g2]
-https://t.co/Pq1rTiXpP9</description>
-      <content:encoded>Modular LED wall panels allow an easy, seamless front and back replacement of the tiles 
-
-[video: https://t.co/P7XuCCsfqy] 
-[leran more: https://t.co/81xdp3A1g2]
-https://t.co/Pq1rTiXpP9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674799925367017474"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1674613502953111552/img/ykiZT-eDZB_2HCTM.jpg" length="404" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 15:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mleptin: Enthusiastic agreement with Swedish research minister Mats Persson @matsperspektiv on topics like the importance of funding fu…</title>
-      <link>https://twitter.com/ERC_Research/status/1674801707698515969</link>
-      <description>RT @mleptin: Enthusiastic agreement with Swedish research minister Mats Persson @matsperspektiv on topics like the importance of funding fu…</description>
-      <content:encoded>RT @mleptin: Enthusiastic agreement with Swedish research minister Mats Persson @matsperspektiv on topics like the importance of funding fu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1674801707698515969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 15:26:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Review in @NatRevDrugDisc summarizes trends in the approval of oncology therapeutic products by the United States FDA from January 2000 to October 2022, based on a categorization by their mechanism of action and primary target. 🔒 #Cancer https://t.co/NnmRJkV0Zb https://t.co/H9YgJNNhfV</title>
-      <link>https://twitter.com/NaturePortfolio/status/1674802304094969856</link>
-      <description>A Review in @NatRevDrugDisc summarizes trends in the approval of oncology therapeutic products by the United States FDA from January 2000 to October 2022, based on a categorization by their mechanism of action and primary target. 🔒 #Cancer https://t.co/NnmRJkV0Zb https://t.co/H9YgJNNhfV</description>
-      <content:encoded>A Review in @NatRevDrugDisc summarizes trends in the approval of oncology therapeutic products by the United States FDA from January 2000 to October 2022, based on a categorization by their mechanism of action and primary target. 🔒 #Cancer https://t.co/NnmRJkV0Zb https://t.co/H9YgJNNhfV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1674802304094969856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz4XzhAXwAYNkh3.png" length="301" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 15:29:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Jul 2023 15:16:56 +0000</lastBuildDate>
     <item>
       <title>We believe that breakthroughs can happen when we build for the long term through commitment and dedication https://t.co/QKAHhkqj6g</title>
       <link>https://twitter.com/ChanZuckerberg/status/1674802553433751552</link>
@@ -2070,6 +1960,120 @@ Submit a poster: https://t.co/34eUbMGQWs https://t.co/uDYqeUnqM5&lt;blockquote c
       <content:encoded>Results of the 2022 applied chemistry project are in! 🍷 https://t.co/AJiyCrJemr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1675145830192357377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fz9QIlWWwAEx6Lb.jpg" length="900" type="photo"/>
       <pubDate>Sat, 01 Jul 2023 14:14:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Baker's poster Evolution of the Alphabet looks at nearly 3,800 years of the alphabet’s evolution, tracing it from Egyptian hieroglyphs to the present forms we use today 
+
+[source, read more: https://t.co/2V6dwk9hCO] https://t.co/ImbiMYwyXp</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675147243601506306</link>
+      <description>Matt Baker's poster Evolution of the Alphabet looks at nearly 3,800 years of the alphabet’s evolution, tracing it from Egyptian hieroglyphs to the present forms we use today 
+
+[source, read more: https://t.co/2V6dwk9hCO] https://t.co/ImbiMYwyXp</description>
+      <content:encoded>Matt Baker's poster Evolution of the Alphabet looks at nearly 3,800 years of the alphabet’s evolution, tracing it from Egyptian hieroglyphs to the present forms we use today 
+
+[source, read more: https://t.co/2V6dwk9hCO] https://t.co/ImbiMYwyXp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675147243601506306"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz8TlF0WIAItH11.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 14:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#saturday #rain #yes https://t.co/x1MmpZyGuE</title>
+      <link>https://twitter.com/ewadorotaz/status/1675147518454251522</link>
+      <description>#saturday #rain #yes https://t.co/x1MmpZyGuE</description>
+      <content:encoded>#saturday #rain #yes https://t.co/x1MmpZyGuE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1675147518454251522"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1675147483326951425/pu/img/mDPz0BEXnhiL1nQ6.jpg" length="675" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 14:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The authors of a Comment article in @NatMachIntell show that large language models, such as ChatGPT, can guide the robot design process, and propose new human–AI co-design strategies and their societal implications. 🔒 https://t.co/rFik0P76Zu https://t.co/qPUAjwtbce</title>
+      <link>https://twitter.com/NaturePortfolio/status/1675148523434655745</link>
+      <description>The authors of a Comment article in @NatMachIntell show that large language models, such as ChatGPT, can guide the robot design process, and propose new human–AI co-design strategies and their societal implications. 🔒 https://t.co/rFik0P76Zu https://t.co/qPUAjwtbce</description>
+      <content:encoded>The authors of a Comment article in @NatMachIntell show that large language models, such as ChatGPT, can guide the robot design process, and propose new human–AI co-design strategies and their societal implications. 🔒 https://t.co/rFik0P76Zu https://t.co/qPUAjwtbce&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1675148523434655745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz9SsBtWcAQ7EY6.jpg" length="1066" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Effects of sensory deprivation on glomerular interneurons in the mouse olfactory bulb: differences in mortality and phenotypic adjustment of dopaminergic neurons: Neurogenesis persists in the mammalian subventricular zone… #neuroscience https://t.co/CGs72LJ7m6</title>
+      <link>https://twitter.com/FrontNeurosci/status/1675152174022803457</link>
+      <description>New Research: Effects of sensory deprivation on glomerular interneurons in the mouse olfactory bulb: differences in mortality and phenotypic adjustment of dopaminergic neurons: Neurogenesis persists in the mammalian subventricular zone… #neuroscience https://t.co/CGs72LJ7m6</description>
+      <content:encoded>New Research: Effects of sensory deprivation on glomerular interneurons in the mouse olfactory bulb: differences in mortality and phenotypic adjustment of dopaminergic neurons: Neurogenesis persists in the mammalian subventricular zone… #neuroscience https://t.co/CGs72LJ7m6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675152174022803457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 14:39:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mount Taranaki National Park has an almost perfectly circular boundary: the change in vegetation is so sharply delineated that the photos from above show an incredibly neat base 
+
+[read more: https://t.co/YBgSYOeNrY] https://t.co/6xZBZSWg5t</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675152276510453761</link>
+      <description>Mount Taranaki National Park has an almost perfectly circular boundary: the change in vegetation is so sharply delineated that the photos from above show an incredibly neat base 
+
+[read more: https://t.co/YBgSYOeNrY] https://t.co/6xZBZSWg5t</description>
+      <content:encoded>Mount Taranaki National Park has an almost perfectly circular boundary: the change in vegetation is so sharply delineated that the photos from above show an incredibly neat base 
+
+[read more: https://t.co/YBgSYOeNrY] https://t.co/6xZBZSWg5t&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675152276510453761"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz8T6CgXsAA8cyT.jpg" length="1024" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 14:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICYMI: An overactive inflammatory response could be at the root of many #longCOVID cases, according to a new study from the Allen Institute for Immunology and @FredHutch. https://t.co/aJK26f7Qx7</title>
+      <link>https://twitter.com/AllenInstitute/status/1675153790905774080</link>
+      <description>ICYMI: An overactive inflammatory response could be at the root of many #longCOVID cases, according to a new study from the Allen Institute for Immunology and @FredHutch. https://t.co/aJK26f7Qx7</description>
+      <content:encoded>ICYMI: An overactive inflammatory response could be at the root of many #longCOVID cases, according to a new study from the Allen Institute for Immunology and @FredHutch. https://t.co/aJK26f7Qx7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1675153790905774080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 14:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>How are chromosomes that undergo catastrophic shattering transmitted to daughter cells during cell division? Learn more in a super N&amp;amp;V by Yibo Xue &amp;amp; @durocherlab https://t.co/6d3q5X0o2H</title>
+      <link>https://twitter.com/NatureNV/status/1675156214794027009</link>
+      <description>How are chromosomes that undergo catastrophic shattering transmitted to daughter cells during cell division? Learn more in a super N&amp;amp;V by Yibo Xue &amp;amp; @durocherlab https://t.co/6d3q5X0o2H</description>
+      <content:encoded>How are chromosomes that undergo catastrophic shattering transmitted to daughter cells during cell division? Learn more in a super N&amp;amp;V by Yibo Xue &amp;amp; @durocherlab https://t.co/6d3q5X0o2H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1675156214794027009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 14:55:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sodium Citrate is the secret ingredient to make any cheese into smooth, creamy nacho cheese sauce. Coincidentally, Sodium Citrate's chemical formula is Na₃C₆H₅O₇ 
+
+[read more: https://t.co/rrV4VqpKed] 
+#FoodScience https://t.co/3VBa88vqg7</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675157313978789888</link>
+      <description>Sodium Citrate is the secret ingredient to make any cheese into smooth, creamy nacho cheese sauce. Coincidentally, Sodium Citrate's chemical formula is Na₃C₆H₅O₇ 
+
+[read more: https://t.co/rrV4VqpKed] 
+#FoodScience https://t.co/3VBa88vqg7</description>
+      <content:encoded>Sodium Citrate is the secret ingredient to make any cheese into smooth, creamy nacho cheese sauce. Coincidentally, Sodium Citrate's chemical formula is Na₃C₆H₅O₇ 
+
+[read more: https://t.co/rrV4VqpKed] 
+#FoodScience https://t.co/3VBa88vqg7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675157313978789888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz8UBOEX0AArAZh.jpg" length="680" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Music Technology at MIT blends creativity, engineering, and musical practice. The Voxel Lab gives students a space to build entirely new ways of making sound or hack existing methods in novel ways. https://t.co/rgk1n7dEDY</title>
+      <link>https://twitter.com/MIT/status/1675158568709033984</link>
+      <description>Music Technology at MIT blends creativity, engineering, and musical practice. The Voxel Lab gives students a space to build entirely new ways of making sound or hack existing methods in novel ways. https://t.co/rgk1n7dEDY</description>
+      <content:encoded>Music Technology at MIT blends creativity, engineering, and musical practice. The Voxel Lab gives students a space to build entirely new ways of making sound or hack existing methods in novel ways. https://t.co/rgk1n7dEDY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1675158568709033984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1671153921421873155/img/7MhPbPgeDmlQV8pC.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 15:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is such a teaser! What are we supposed to do for a week? 😜 https://t.co/tUVEKNsNrF</title>
+      <link>https://twitter.com/ruimcosta/status/1675159183329759235</link>
+      <description>This is such a teaser! What are we supposed to do for a week? 😜 https://t.co/tUVEKNsNrF</description>
+      <content:encoded>This is such a teaser! What are we supposed to do for a week? 😜 https://t.co/tUVEKNsNrF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ruimcosta/status/1675159183329759235"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 01 Jul 2023 15:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roughly 5% of the energy dispersed when a metal is deformed is spent moving the atoms around, but the remaining 95% is dispersed as heat. This is why one can make fire with metal hit by a hammer
+
+[📹 tomkovlebduka: https://t.co/fgg4PxB4AX]
+https://t.co/0i87dcrR3N</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675159828057006083</link>
+      <description>Roughly 5% of the energy dispersed when a metal is deformed is spent moving the atoms around, but the remaining 95% is dispersed as heat. This is why one can make fire with metal hit by a hammer
+
+[📹 tomkovlebduka: https://t.co/fgg4PxB4AX]
+https://t.co/0i87dcrR3N</description>
+      <content:encoded>Roughly 5% of the energy dispersed when a metal is deformed is spent moving the atoms around, but the remaining 95% is dispersed as heat. This is why one can make fire with metal hit by a hammer
+
+[📹 tomkovlebduka: https://t.co/fgg4PxB4AX]
+https://t.co/0i87dcrR3N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675159828057006083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1614675416047812608/img/qzFejQIcXjx_4ArO.jpg" length="854" type="photo"/>
+      <pubDate>Sat, 01 Jul 2023 15:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
