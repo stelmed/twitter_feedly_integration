@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 20:17:26 +0000</lastBuildDate>
-    <item>
-      <title>The San Francisco Garter Snake has been on the endangered list since 1967, and has been labeled the most beautiful snake in the U.S. Researches estimate only 1-2 thousand remain 
-
-[read more: https://t.co/XkdQwkHoVG] https://t.co/Q4Mdh32CJv</title>
-      <link>https://twitter.com/Rainmaker1973/status/1675142219592859650</link>
-      <description>The San Francisco Garter Snake has been on the endangered list since 1967, and has been labeled the most beautiful snake in the U.S. Researches estimate only 1-2 thousand remain 
-
-[read more: https://t.co/XkdQwkHoVG] https://t.co/Q4Mdh32CJv</description>
-      <content:encoded>The San Francisco Garter Snake has been on the endangered list since 1967, and has been labeled the most beautiful snake in the U.S. Researches estimate only 1-2 thousand remain 
-
-[read more: https://t.co/XkdQwkHoVG] https://t.co/Q4Mdh32CJv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675142219592859650"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz8SZJoXgAAsYDN.jpg" length="640" type="photo"/>
-      <pubDate>Sat, 01 Jul 2023 14:00:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jul 2023 21:14:40 +0000</lastBuildDate>
     <item>
       <title>With blogs, application notes, case studies, webinars and more, the Scientifica Resource Centre is a place to build on and share your knowledge. Interested in contributing? We are always looking for guest authors to share their work. Find out more. https://t.co/6u6Nsr7de8 https://t.co/h9P8Fuvo2B</title>
       <link>https://twitter.com/Scientifica_Int/status/1675142351906373633</link>
@@ -2112,6 +2098,14 @@ Do these clowns have any idea the absolute rout they are facing at the next GE? 
 
 Do these clowns have any idea the absolute rout they are facing at the next GE? They seem to be living in a fantasy land. https://t.co/qlNyS3cEvA&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1675598107516493825"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 02 Jul 2023 20:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>An analysis in @NatureHumBehav examines nonresponse behaviour on questionnaire items from the UK Biobank using phenotypic and genetic data, which could inform our understanding of how item nonresponse might lead to bias in genetic studies. https://t.co/FGjtZ8xQY0 https://t.co/x5LlWplCKS</title>
+      <link>https://twitter.com/NaturePortfolio/status/1675607799223517185</link>
+      <description>An analysis in @NatureHumBehav examines nonresponse behaviour on questionnaire items from the UK Biobank using phenotypic and genetic data, which could inform our understanding of how item nonresponse might lead to bias in genetic studies. https://t.co/FGjtZ8xQY0 https://t.co/x5LlWplCKS</description>
+      <content:encoded>An analysis in @NatureHumBehav examines nonresponse behaviour on questionnaire items from the UK Biobank using phenotypic and genetic data, which could inform our understanding of how item nonresponse might lead to bias in genetic studies. https://t.co/FGjtZ8xQY0 https://t.co/x5LlWplCKS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1675607799223517185"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0D0ZYtWYAYp8EE.jpg" length="1066" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 20:50:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
