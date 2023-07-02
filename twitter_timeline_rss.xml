@@ -6,83 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 10:17:34 +0000</lastBuildDate>
-    <item>
-      <title>Go @joshdubnau's mom! https://t.co/ge796Pme0E</title>
-      <link>https://twitter.com/TonyZador/status/1674926214585397248</link>
-      <description>Go @joshdubnau's mom! https://t.co/ge796Pme0E</description>
-      <content:encoded>Go @joshdubnau's mom! https://t.co/ge796Pme0E&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1674926214585397248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 23:41:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Potential links between brown adipose tissue, circadian dysregulation, and suicide risk: Circadian desynchronizations are associated with psychiatric disorders as well as with higher suicidal risk. Brown adipose tissue (BAT)… #Neuroscience https://t.co/4yVj1aG5HM</title>
-      <link>https://twitter.com/FrontNeurosci/status/1674930959282753536</link>
-      <description>New Research: Potential links between brown adipose tissue, circadian dysregulation, and suicide risk: Circadian desynchronizations are associated with psychiatric disorders as well as with higher suicidal risk. Brown adipose tissue (BAT)… #Neuroscience https://t.co/4yVj1aG5HM</description>
-      <content:encoded>New Research: Potential links between brown adipose tissue, circadian dysregulation, and suicide risk: Circadian desynchronizations are associated with psychiatric disorders as well as with higher suicidal risk. Brown adipose tissue (BAT)… #Neuroscience https://t.co/4yVj1aG5HM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674930959282753536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 00:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Machine learning reveals the control mechanics of the insect wing hinge  https://t.co/W5xWfGRS6y #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674934712605765632</link>
-      <description>Machine learning reveals the control mechanics of the insect wing hinge  https://t.co/W5xWfGRS6y #biorxiv_neursci</description>
-      <content:encoded>Machine learning reveals the control mechanics of the insect wing hinge  https://t.co/W5xWfGRS6y #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674934712605765632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 00:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Personalized connectivity-based network targeting model of TMS for treatment of psychiatric disorders: computational feasibility and ...  https://t.co/MeCoN69ICw #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674934782302605312</link>
-      <description>Personalized connectivity-based network targeting model of TMS for treatment of psychiatric disorders: computational feasibility and ...  https://t.co/MeCoN69ICw #biorxiv_neursci</description>
-      <content:encoded>Personalized connectivity-based network targeting model of TMS for treatment of psychiatric disorders: computational feasibility and ...  https://t.co/MeCoN69ICw #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674934782302605312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 00:15:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Age-Related Balance Problems in Mice Are Sharpened by the Loss of Calcitonin Gene-Related Peptide (CGRP) and a Vestibular Challenge  https://t.co/Qi9nQGNTdD #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674934878025011200</link>
-      <description>Age-Related Balance Problems in Mice Are Sharpened by the Loss of Calcitonin Gene-Related Peptide (CGRP) and a Vestibular Challenge  https://t.co/Qi9nQGNTdD #biorxiv_neursci</description>
-      <content:encoded>Age-Related Balance Problems in Mice Are Sharpened by the Loss of Calcitonin Gene-Related Peptide (CGRP) and a Vestibular Challenge  https://t.co/Qi9nQGNTdD #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674934878025011200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 00:16:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ianOldenburg: Extremely thankful to the Whitehall Foundation for supporting our research using holographic optogenetics to link neural…</title>
-      <link>https://twitter.com/ewadorotaz/status/1674934901638832129</link>
-      <description>RT @ianOldenburg: Extremely thankful to the Whitehall Foundation for supporting our research using holographic optogenetics to link neural…</description>
-      <content:encoded>RT @ianOldenburg: Extremely thankful to the Whitehall Foundation for supporting our research using holographic optogenetics to link neural…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1674934901638832129"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 00:16:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cellular Substrate of Eligibility Traces  https://t.co/njCSDl0gjX #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674934974502383623</link>
-      <description>Cellular Substrate of Eligibility Traces  https://t.co/njCSDl0gjX #biorxiv_neursci</description>
-      <content:encoded>Cellular Substrate of Eligibility Traces  https://t.co/njCSDl0gjX #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674934974502383623"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 00:16:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sex difference in the facilitation of fear learning by prior fear conditioning.  https://t.co/NNLX81uVzg #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674935069813637128</link>
-      <description>Sex difference in the facilitation of fear learning by prior fear conditioning.  https://t.co/NNLX81uVzg #biorxiv_neursci</description>
-      <content:encoded>Sex difference in the facilitation of fear learning by prior fear conditioning.  https://t.co/NNLX81uVzg #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674935069813637128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 00:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visualizing alpha-synuclein and iron deposition in M83 mouse model of Parkinson's disease in vivo  https://t.co/kBmKijvr5Z #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674935194313281536</link>
-      <description>Visualizing alpha-synuclein and iron deposition in M83 mouse model of Parkinson's disease in vivo  https://t.co/kBmKijvr5Z #biorxiv_neursci</description>
-      <content:encoded>Visualizing alpha-synuclein and iron deposition in M83 mouse model of Parkinson's disease in vivo  https://t.co/kBmKijvr5Z #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674935194313281536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 00:17:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @bennyjtang: Chart captioning is hard, both for humans &amp;amp; AI.
-
-Today, we’re introducing VisText: a benchmark dataset of 12k+ visually-div…</title>
-      <link>https://twitter.com/gottapatchemall/status/1674943035678035968</link>
-      <description>RT @bennyjtang: Chart captioning is hard, both for humans &amp;amp; AI.
-
-Today, we’re introducing VisText: a benchmark dataset of 12k+ visually-div…</description>
-      <content:encoded>RT @bennyjtang: Chart captioning is hard, both for humans &amp;amp; AI.
-
-Today, we’re introducing VisText: a benchmark dataset of 12k+ visually-div…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1674943035678035968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 00:48:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jul 2023 11:13:55 +0000</lastBuildDate>
     <item>
       <title>RT @JiefuBiol: Our lab is one-year-old! Received this surprise cake today from my awesome lab members @wang_yupu @Zuzhi_Jiang and twitterle…</title>
       <link>https://twitter.com/HHMIJanelia/status/1674949300923531264</link>
@@ -2185,6 +2109,113 @@ JAX…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Pe
       <description>Inferring Neuron-level Brain Circuit Connection via Graph Neural Network Amidst Small Established Connections  https://t.co/jK8uo362nP #biorxiv_neursci</description>
       <content:encoded>Inferring Neuron-level Brain Circuit Connection via Graph Neural Network Amidst Small Established Connections  https://t.co/jK8uo362nP #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675448181075705856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 02 Jul 2023 10:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windmills create a turbulence that change the condensation rates in a foggy environment, sometimes with spectacular results 
+
+[source: https://t.co/hW6uDX3krV] https://t.co/vJ6AEXPNzV</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675449233196089350</link>
+      <description>Windmills create a turbulence that change the condensation rates in a foggy environment, sometimes with spectacular results 
+
+[source: https://t.co/hW6uDX3krV] https://t.co/vJ6AEXPNzV</description>
+      <content:encoded>Windmills create a turbulence that change the condensation rates in a foggy environment, sometimes with spectacular results 
+
+[source: https://t.co/hW6uDX3krV] https://t.co/vJ6AEXPNzV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675449233196089350"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0BKn_9XgAAzils.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 10:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@OferYizhar Congrats! looking forward to diving in</title>
+      <link>https://twitter.com/SilberbergGilad/status/1675452879564414976</link>
+      <description>@OferYizhar Congrats! looking forward to diving in</description>
+      <content:encoded>@OferYizhar Congrats! looking forward to diving in&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SilberbergGilad/status/1675452879564414976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 10:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>@SilberbergGilad Thanks Gilli!</title>
+      <link>https://twitter.com/OferYizhar/status/1675453344746287104</link>
+      <description>@SilberbergGilad Thanks Gilli!</description>
+      <content:encoded>@SilberbergGilad Thanks Gilli!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1675453344746287104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 10:36:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>@OferYizhar That looks incredibly useful, great work! Congratulations!</title>
+      <link>https://twitter.com/MattNeuro/status/1675453707138265088</link>
+      <description>@OferYizhar That looks incredibly useful, great work! Congratulations!</description>
+      <content:encoded>@OferYizhar That looks incredibly useful, great work! Congratulations!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MattNeuro/status/1675453707138265088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 10:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photographer Tobias Messerli caught the right moment when the Sun disc set behind a tree with the same approximate relative size 
+
+[March 10, 2018, Utzingen, Switzerland: https://t.co/83zlR75xEo] 
+[author's site: https://t.co/rhekNcjfIX] https://t.co/Cgx1lJgVVx</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675454266348130304</link>
+      <description>Photographer Tobias Messerli caught the right moment when the Sun disc set behind a tree with the same approximate relative size 
+
+[March 10, 2018, Utzingen, Switzerland: https://t.co/83zlR75xEo] 
+[author's site: https://t.co/rhekNcjfIX] https://t.co/Cgx1lJgVVx</description>
+      <content:encoded>Photographer Tobias Messerli caught the right moment when the Sun disc set behind a tree with the same approximate relative size 
+
+[March 10, 2018, Utzingen, Switzerland: https://t.co/83zlR75xEo] 
+[author's site: https://t.co/rhekNcjfIX] https://t.co/Cgx1lJgVVx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675454266348130304"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0BK3EuWwAAolYW.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@MattNeuro Thank you @MattNeuro !</title>
+      <link>https://twitter.com/OferYizhar/status/1675455028679569408</link>
+      <description>@MattNeuro Thank you @MattNeuro !</description>
+      <content:encoded>@MattNeuro Thank you @MattNeuro !&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1675455028679569408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 10:43:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The first simulated image of a black hole, represents a pivotal moment in the history of astrophysics, a moment immortalized by French astrophysicist Jean-Pierre Luminet in 1978. His groundbreaking work utilized the computational capacities of an IBM 7040, with data processed via… https://t.co/1qNuvVw9Vs https://t.co/HcKbHUjtvW</title>
+      <link>https://twitter.com/fermatslibrary/status/1675455867120959491</link>
+      <description>The first simulated image of a black hole, represents a pivotal moment in the history of astrophysics, a moment immortalized by French astrophysicist Jean-Pierre Luminet in 1978. His groundbreaking work utilized the computational capacities of an IBM 7040, with data processed via… https://t.co/1qNuvVw9Vs https://t.co/HcKbHUjtvW</description>
+      <content:encoded>The first simulated image of a black hole, represents a pivotal moment in the history of astrophysics, a moment immortalized by French astrophysicist Jean-Pierre Luminet in 1978. His groundbreaking work utilized the computational capacities of an IBM 7040, with data processed via… https://t.co/1qNuvVw9Vs https://t.co/HcKbHUjtvW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1675455867120959491"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0Bp7QmWcAIKbLG.jpg" length="640" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 10:46:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @NikoMcCarty: Day 23 of great biology papers.
+
+"The genetics of Caenorhabditis elegans," by Sydney Brenner (1974).
+
+7 years, 300 worm mu…</title>
+      <link>https://twitter.com/neuropsykologen/status/1675458905797799937</link>
+      <description>RT @NikoMcCarty: Day 23 of great biology papers.
+
+"The genetics of Caenorhabditis elegans," by Sydney Brenner (1974).
+
+7 years, 300 worm mu…</description>
+      <content:encoded>RT @NikoMcCarty: Day 23 of great biology papers.
+
+"The genetics of Caenorhabditis elegans," by Sydney Brenner (1974).
+
+7 years, 300 worm mu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuropsykologen/status/1675458905797799937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 10:58:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>A stressing week in the life of a whale, trying to feed and survive, dodging the heavy vessel traffic. This paper focuses on defining priority areas for blue whale conservation, investigating the overlap with vessel traffic 
+
+[full paper: https://t.co/rKHu5bHdpS] https://t.co/ycToPl6gBS</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675459304206237699</link>
+      <description>A stressing week in the life of a whale, trying to feed and survive, dodging the heavy vessel traffic. This paper focuses on defining priority areas for blue whale conservation, investigating the overlap with vessel traffic 
+
+[full paper: https://t.co/rKHu5bHdpS] https://t.co/ycToPl6gBS</description>
+      <content:encoded>A stressing week in the life of a whale, trying to feed and survive, dodging the heavy vessel traffic. This paper focuses on defining priority areas for blue whale conservation, investigating the overlap with vessel traffic 
+
+[full paper: https://t.co/rKHu5bHdpS] https://t.co/ycToPl6gBS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675459304206237699"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1675421753672073216/pu/img/rKxzVg0KmfLBsuZL.jpg" length="700" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 11:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @VVyazovskiy: Oscillatory-Quality of sleep spindles: from properties to function https://t.co/DPjuVw9qQX</title>
+      <link>https://twitter.com/wake_sleep/status/1675460182283878400</link>
+      <description>RT @VVyazovskiy: Oscillatory-Quality of sleep spindles: from properties to function https://t.co/DPjuVw9qQX</description>
+      <content:encoded>RT @VVyazovskiy: Oscillatory-Quality of sleep spindles: from properties to function https://t.co/DPjuVw9qQX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1675460182283878400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 11:03:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
