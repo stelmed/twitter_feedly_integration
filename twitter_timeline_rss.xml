@@ -6,37 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 04:20:47 +0000</lastBuildDate>
-    <item>
-      <title>RT @Pengeblogg: Tross den supergeeky gjentagende påstanden om at vi lever i en simulering, er @Strumke en uvanlig god formidler av stoff om…</title>
-      <link>https://twitter.com/GauteEinevoll/status/1674864743142547465</link>
-      <description>RT @Pengeblogg: Tross den supergeeky gjentagende påstanden om at vi lever i en simulering, er @Strumke en uvanlig god formidler av stoff om…</description>
-      <content:encoded>RT @Pengeblogg: Tross den supergeeky gjentagende påstanden om at vi lever i en simulering, er @Strumke en uvanlig god formidler av stoff om…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GauteEinevoll/status/1674864743142547465"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 19:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>One of the hardest parts of fostering rescued joeys at a kangaroo sanctuary is making a pouch that makes them feel as safe and comforted as their mother's
-
-This is why handmade pouches made out of sweatshirts are used
-
-[read more: https://t.co/ZENgm3lHeG]
-https://t.co/QQUKMCN56W</title>
-      <link>https://twitter.com/Rainmaker1973/status/1674869190983835780</link>
-      <description>One of the hardest parts of fostering rescued joeys at a kangaroo sanctuary is making a pouch that makes them feel as safe and comforted as their mother's
-
-This is why handmade pouches made out of sweatshirts are used
-
-[read more: https://t.co/ZENgm3lHeG]
-https://t.co/QQUKMCN56W</description>
-      <content:encoded>One of the hardest parts of fostering rescued joeys at a kangaroo sanctuary is making a pouch that makes them feel as safe and comforted as their mother's
-
-This is why handmade pouches made out of sweatshirts are used
-
-[read more: https://t.co/ZENgm3lHeG]
-https://t.co/QQUKMCN56W&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674869190983835780"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1039844667527843840/pu/img/2qmW9_u8IJCroEYg.jpg" length="640" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 19:55:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jul 2023 05:16:21 +0000</lastBuildDate>
     <item>
       <title>RT @sdorkenw: We are releasing a whole-brain connectome of the fruit fly, including ~130k annotated neurons and tens of millions of typed s…</title>
       <link>https://twitter.com/sofroniewn/status/1674873856899813377</link>
@@ -2011,6 +1981,26 @@ Clinical trials demonstrated that co-targeting… #neuroscience https://t.co/Lpp
       <content:encoded>RT @SpaceX: More photos from today’s Falcon 9 launch of Euclid https://t.co/B9h2CS6WIr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1675339521062236161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/Fz-tgogacAEATn3.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 02 Jul 2023 03:04:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @j_perkel: My latest @nature, out today: seven tips for publishing scientific data. Feat @miguelacevedopr @CieraReports @_inundata @etha…</title>
+      <link>https://twitter.com/sejdevries/status/1675360981311188992</link>
+      <description>RT @j_perkel: My latest @nature, out today: seven tips for publishing scientific data. Feat @miguelacevedopr @CieraReports @_inundata @etha…</description>
+      <content:encoded>RT @j_perkel: My latest @nature, out today: seven tips for publishing scientific data. Feat @miguelacevedopr @CieraReports @_inundata @etha…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sejdevries/status/1675360981311188992"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 04:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>you awake from a deep trance, 
+step away from the phone 
+to see your friends &amp;amp; family</title>
+      <link>https://twitter.com/elonmusk/status/1675365001836593154</link>
+      <description>you awake from a deep trance, 
+step away from the phone 
+to see your friends &amp;amp; family</description>
+      <content:encoded>you awake from a deep trance, 
+step away from the phone 
+to see your friends &amp;amp; family&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1675365001836593154"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 04:45:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
