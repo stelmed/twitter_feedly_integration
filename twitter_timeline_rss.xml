@@ -6,102 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 07:15:19 +0000</lastBuildDate>
-    <item>
-      <title>RT @sdorkenw: We are releasing a whole-brain connectome of the fruit fly, including ~130k annotated neurons and tens of millions of typed s…</title>
-      <link>https://twitter.com/furthlab/status/1674885187698606085</link>
-      <description>RT @sdorkenw: We are releasing a whole-brain connectome of the fruit fly, including ~130k annotated neurons and tens of millions of typed s…</description>
-      <content:encoded>RT @sdorkenw: We are releasing a whole-brain connectome of the fruit fly, including ~130k annotated neurons and tens of millions of typed s…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1674885187698606085"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 20:58:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samples recovered from near-Earth asteroid #Ryugu represent chemically the most primitive and pristine #SolarSystem materials yet analyzed in a laboratory, a 2022 Science study suggests. https://t.co/Vc8wUYxJoE #AsteroidDay https://t.co/tdow6JSJZP</title>
-      <link>https://twitter.com/ScienceMagazine/status/1674885559750209541</link>
-      <description>Samples recovered from near-Earth asteroid #Ryugu represent chemically the most primitive and pristine #SolarSystem materials yet analyzed in a laboratory, a 2022 Science study suggests. https://t.co/Vc8wUYxJoE #AsteroidDay https://t.co/tdow6JSJZP</description>
-      <content:encoded>Samples recovered from near-Earth asteroid #Ryugu represent chemically the most primitive and pristine #SolarSystem materials yet analyzed in a laboratory, a 2022 Science study suggests. https://t.co/Vc8wUYxJoE #AsteroidDay https://t.co/tdow6JSJZP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1674885559750209541"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz5jiUyWwAMYHka.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 21:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @srinituraga: This! This is the biggest news in neuroscience!</title>
-      <link>https://twitter.com/neurograce/status/1674885935882809348</link>
-      <description>RT @srinituraga: This! This is the biggest news in neuroscience!</description>
-      <content:encoded>RT @srinituraga: This! This is the biggest news in neuroscience!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1674885935882809348"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:01:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The C. elegans connectome, published in 1986, contains 300 neurons and &amp;lt;10k synapses. It has been refined and corrected over the years and is available @WormAtlas https://t.co/lQ8xYu6IpI</title>
-      <link>https://twitter.com/SebastianSeung/status/1674886215810658305</link>
-      <description>The C. elegans connectome, published in 1986, contains 300 neurons and &amp;lt;10k synapses. It has been refined and corrected over the years and is available @WormAtlas https://t.co/lQ8xYu6IpI</description>
-      <content:encoded>The C. elegans connectome, published in 1986, contains 300 neurons and &amp;lt;10k synapses. It has been refined and corrected over the years and is available @WormAtlas https://t.co/lQ8xYu6IpI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1674886215810658305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:02:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @RubenQC_Lab: Spatially resolved single-cell translatomics at molecular resolution
-https://t.co/p2mlB03jWV</title>
-      <link>https://twitter.com/FitzpatrickLab/status/1674887293318881283</link>
-      <description>RT @RubenQC_Lab: Spatially resolved single-cell translatomics at molecular resolution
-https://t.co/p2mlB03jWV</description>
-      <content:encoded>RT @RubenQC_Lab: Spatially resolved single-cell translatomics at molecular resolution
-https://t.co/p2mlB03jWV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1674887293318881283"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @KDudnyk47866: Excited to share our new work about the sequence basis of transcription initiation in human. We showed that simple rules…</title>
-      <link>https://twitter.com/FitzpatrickLab/status/1674887935491973120</link>
-      <description>RT @KDudnyk47866: Excited to share our new work about the sequence basis of transcription initiation in human. We showed that simple rules…</description>
-      <content:encoded>RT @KDudnyk47866: Excited to share our new work about the sequence basis of transcription initiation in human. We showed that simple rules…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1674887935491973120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:09:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jayvanbavel: 43% of White students at Harvard are legacy, athletes, related to donors or staff.
-
-All the universities making social med…</title>
-      <link>https://twitter.com/TheBrunoCortex/status/1674890849618911234</link>
-      <description>RT @jayvanbavel: 43% of White students at Harvard are legacy, athletes, related to donors or staff.
-
-All the universities making social med…</description>
-      <content:encoded>RT @jayvanbavel: 43% of White students at Harvard are legacy, athletes, related to donors or staff.
-
-All the universities making social med…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1674890849618911234"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:21:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The fly connectome is orders of magnitude larger, and was only attainable due to decades of technological progress made by a small community of true believers. In my 2012 book Connectome, I described how AI was essential for success. https://t.co/UMUlQujx3j</title>
-      <link>https://twitter.com/SebastianSeung/status/1674890881793417218</link>
-      <description>The fly connectome is orders of magnitude larger, and was only attainable due to decades of technological progress made by a small community of true believers. In my 2012 book Connectome, I described how AI was essential for success. https://t.co/UMUlQujx3j</description>
-      <content:encoded>The fly connectome is orders of magnitude larger, and was only attainable due to decades of technological progress made by a small community of true believers. In my 2012 book Connectome, I described how AI was essential for success. https://t.co/UMUlQujx3j&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1674890881793417218"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz5oYO8XwAI-f57.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 21:21:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>It was tough going in the 2000s. The neuro experts told us that connectomes were useless and the computer vision experts told us that convolutional nets were the wrong approach. https://t.co/ZZFE3XBtLw</title>
-      <link>https://twitter.com/SebastianSeung/status/1674891864212684802</link>
-      <description>It was tough going in the 2000s. The neuro experts told us that connectomes were useless and the computer vision experts told us that convolutional nets were the wrong approach. https://t.co/ZZFE3XBtLw</description>
-      <content:encoded>It was tough going in the 2000s. The neuro experts told us that connectomes were useless and the computer vision experts told us that convolutional nets were the wrong approach. https://t.co/ZZFE3XBtLw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1674891864212684802"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>This platform hit another all-time high in user-seconds last week</title>
-      <link>https://twitter.com/elonmusk/status/1674894268912087040</link>
-      <description>This platform hit another all-time high in user-seconds last week</description>
-      <content:encoded>This platform hit another all-time high in user-seconds last week&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1674894268912087040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:34:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Today the @FlyWireNews Consortium includes 40+ labs, all happily using the fly connectome to make scientific discoveries about how flies see, smell, taste, hear, walk, and, of course, fly. Not to mention "cognitive" behaviors like social interactions and navigation.</title>
-      <link>https://twitter.com/SebastianSeung/status/1674894980463067145</link>
-      <description>Today the @FlyWireNews Consortium includes 40+ labs, all happily using the fly connectome to make scientific discoveries about how flies see, smell, taste, hear, walk, and, of course, fly. Not to mention "cognitive" behaviors like social interactions and navigation.</description>
-      <content:encoded>Today the @FlyWireNews Consortium includes 40+ labs, all happily using the fly connectome to make scientific discoveries about how flies see, smell, taste, hear, walk, and, of course, fly. Not to mention "cognitive" behaviors like social interactions and navigation.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1674894980463067145"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:37:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @isiCNI: Applications are now open for Imbizo 2024! Apply before July 11 to join us in South Africa for 3 weeks (Jan 7-28) of Comp Neuro…</title>
-      <link>https://twitter.com/bdanubius/status/1674898647459287041</link>
-      <description>RT @isiCNI: Applications are now open for Imbizo 2024! Apply before July 11 to join us in South Africa for 3 weeks (Jan 7-28) of Comp Neuro…</description>
-      <content:encoded>RT @isiCNI: Applications are now open for Imbizo 2024! Apply before July 11 to join us in South Africa for 3 weeks (Jan 7-28) of Comp Neuro…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1674898647459287041"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:52:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jul 2023 08:21:21 +0000</lastBuildDate>
     <item>
       <title>Grant-writing is always better at #PieintheSky, Woods Hole, MA https://t.co/AkB3MCYX24</title>
       <link>https://twitter.com/FitzpatrickLab/status/1674899471577088000</link>
@@ -2000,6 +1905,160 @@ Some…</description>
 
 Some…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1675401750977576961"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 02 Jul 2023 07:11:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>This string shooter uses two wheels on motors to push a string forward while a tube guides the string back through the wheels, creating a constant loop that appears to defy gravity &amp;amp; demonstrates wave phenomena
+
+[📹 Bruce Yeany: https://t.co/S6FWtr99PQ]
+https://t.co/6FO6OWf0Z9</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675404152015409152</link>
+      <description>This string shooter uses two wheels on motors to push a string forward while a tube guides the string back through the wheels, creating a constant loop that appears to defy gravity &amp;amp; demonstrates wave phenomena
+
+[📹 Bruce Yeany: https://t.co/S6FWtr99PQ]
+https://t.co/6FO6OWf0Z9</description>
+      <content:encoded>This string shooter uses two wheels on motors to push a string forward while a tube guides the string back through the wheels, creating a constant loop that appears to defy gravity &amp;amp; demonstrates wave phenomena
+
+[📹 Bruce Yeany: https://t.co/S6FWtr99PQ]
+https://t.co/6FO6OWf0Z9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675404152015409152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1553670127018774529/pu/img/A2lWciDICvj1FP4x.jpg" length="600" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 07:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Almost as clearly as a textbook diagram, these images made by a noncontact atomic force microscope reveal the positions of individual atoms and bonds in several molecules 
+
+[read more: https://t.co/XN9wYgyq4q] https://t.co/hRdWPqeCyk</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675407714598436866</link>
+      <description>Almost as clearly as a textbook diagram, these images made by a noncontact atomic force microscope reveal the positions of individual atoms and bonds in several molecules 
+
+[read more: https://t.co/XN9wYgyq4q] https://t.co/hRdWPqeCyk</description>
+      <content:encoded>Almost as clearly as a textbook diagram, these images made by a noncontact atomic force microscope reveal the positions of individual atoms and bonds in several molecules 
+
+[read more: https://t.co/XN9wYgyq4q] https://t.co/hRdWPqeCyk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675407714598436866"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0A-bCBWwAATRLt.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 07:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Follow the light: Emmanuel Farge recommends this paper by @simon_sprecher et al. published in @PNASNews that demonstrated the existence of #AssociativeLearning in a cnidarian using the sea anemone #Nematostella vectensis.
+
+https://t.co/FYSBj13yqp https://t.co/L1AHWPaAHO</title>
+      <link>https://twitter.com/Facultyopinions/status/1675408972562481152</link>
+      <description>Follow the light: Emmanuel Farge recommends this paper by @simon_sprecher et al. published in @PNASNews that demonstrated the existence of #AssociativeLearning in a cnidarian using the sea anemone #Nematostella vectensis.
+
+https://t.co/FYSBj13yqp https://t.co/L1AHWPaAHO</description>
+      <content:encoded>Follow the light: Emmanuel Farge recommends this paper by @simon_sprecher et al. published in @PNASNews that demonstrated the existence of #AssociativeLearning in a cnidarian using the sea anemone #Nematostella vectensis.
+
+https://t.co/FYSBj13yqp https://t.co/L1AHWPaAHO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1675408972562481152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0A_lN1WYAIw8sn.jpg" length="764" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 07:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Happening tomorrow: Webinar on Virus exposure &amp;amp; neurodegenerative disease risk, hosted by the NIH!
+
+#neuroscience https://t.co/cYfO24mxFs</title>
+      <link>https://twitter.com/INCForg/status/1675409219493982208</link>
+      <description>Happening tomorrow: Webinar on Virus exposure &amp;amp; neurodegenerative disease risk, hosted by the NIH!
+
+#neuroscience https://t.co/cYfO24mxFs</description>
+      <content:encoded>Happening tomorrow: Webinar on Virus exposure &amp;amp; neurodegenerative disease risk, hosted by the NIH!
+
+#neuroscience https://t.co/cYfO24mxFs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1675409219493982208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 07:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>S.C.U.T.E. is a volunteer organization under the direction of the South Carolina Department of Natural Resources, dedicated to the preservation of sea turtles along the South Carolina coast. This photo of a loggerhead sea turte belongs to their 2020 season https://t.co/Bn6Ew61EzZ https://t.co/UjFuGRnTRH</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675411275054997504</link>
+      <description>S.C.U.T.E. is a volunteer organization under the direction of the South Carolina Department of Natural Resources, dedicated to the preservation of sea turtles along the South Carolina coast. This photo of a loggerhead sea turte belongs to their 2020 season https://t.co/Bn6Ew61EzZ https://t.co/UjFuGRnTRH</description>
+      <content:encoded>S.C.U.T.E. is a volunteer organization under the direction of the South Carolina Department of Natural Resources, dedicated to the preservation of sea turtles along the South Carolina coast. This photo of a loggerhead sea turte belongs to their 2020 season https://t.co/Bn6Ew61EzZ https://t.co/UjFuGRnTRH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675411275054997504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0BBpVgWcAMiBCG.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 07:49:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>We thank 🇬🇪Minister Amilakhvari for his recent visit to the ERC and his support for frontier research.
+
+📣 Message for researchers in Georgia: if you missed the dedicated webinar on funding opportunities, the recording is now available. 
+
+🎥 https://t.co/yDxgugXfNV
+
+@EUinGeorgia https://t.co/zQJjntjutP</title>
+      <link>https://twitter.com/ERC_Research/status/1675414033015644162</link>
+      <description>We thank 🇬🇪Minister Amilakhvari for his recent visit to the ERC and his support for frontier research.
+
+📣 Message for researchers in Georgia: if you missed the dedicated webinar on funding opportunities, the recording is now available. 
+
+🎥 https://t.co/yDxgugXfNV
+
+@EUinGeorgia https://t.co/zQJjntjutP</description>
+      <content:encoded>We thank 🇬🇪Minister Amilakhvari for his recent visit to the ERC and his support for frontier research.
+
+📣 Message for researchers in Georgia: if you missed the dedicated webinar on funding opportunities, the recording is now available. 
+
+🎥 https://t.co/yDxgugXfNV
+
+@EUinGeorgia https://t.co/zQJjntjutP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1675414033015644162"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0BEKPUacAAidiC.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 08:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>There's a place in the Mauritius, where a runoff of sand deposits creates an illusion of an underwater waterfall
+
+[read more: https://t.co/qXJBDkzNVd] https://t.co/1EZI32dE0G</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675415375561752577</link>
+      <description>There's a place in the Mauritius, where a runoff of sand deposits creates an illusion of an underwater waterfall
+
+[read more: https://t.co/qXJBDkzNVd] https://t.co/1EZI32dE0G</description>
+      <content:encoded>There's a place in the Mauritius, where a runoff of sand deposits creates an illusion of an underwater waterfall
+
+[read more: https://t.co/qXJBDkzNVd] https://t.co/1EZI32dE0G&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675415375561752577"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0BFWT1WwAEjmqq.jpg" length="1024" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 08:05:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>I never thought the streams of psychopharmacology and celebrity slap scandals would cross... but they did https://t.co/xTbuN84gVQ</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1675415968359542784</link>
+      <description>I never thought the streams of psychopharmacology and celebrity slap scandals would cross... but they did https://t.co/xTbuN84gVQ</description>
+      <content:encoded>I never thought the streams of psychopharmacology and celebrity slap scandals would cross... but they did https://t.co/xTbuN84gVQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1675415968359542784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 08:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Legend has it that Eskimos have 100 words for snow. Neuroscientists have 1000s of names for fly neurons. The names extend to all normal flies and left-right sides. The fly brain is like a machine assembled from mass-produced parts. https://t.co/vcqmwl6QcS</title>
+      <link>https://twitter.com/SebastianSeung/status/1675417347509612545</link>
+      <description>Legend has it that Eskimos have 100 words for snow. Neuroscientists have 1000s of names for fly neurons. The names extend to all normal flies and left-right sides. The fly brain is like a machine assembled from mass-produced parts. https://t.co/vcqmwl6QcS</description>
+      <content:encoded>Legend has it that Eskimos have 100 words for snow. Neuroscientists have 1000s of names for fly neurons. The names extend to all normal flies and left-right sides. The fly brain is like a machine assembled from mass-produced parts. https://t.co/vcqmwl6QcS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1675417347509612545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 08:13:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>A bistable inhibitory OptoGPCR for multiplexed optogenetic control of neural circuits  https://t.co/QTkJkU26Jw #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675417927615430657</link>
+      <description>A bistable inhibitory OptoGPCR for multiplexed optogenetic control of neural circuits  https://t.co/QTkJkU26Jw #biorxiv_neursci</description>
+      <content:encoded>A bistable inhibitory OptoGPCR for multiplexed optogenetic control of neural circuits  https://t.co/QTkJkU26Jw #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675417927615430657"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 08:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vascularized Brain Assembloids with Enhanced Cellular Complexity Provide Insights into The Cellular Deficits of Tauopathy  https://t.co/Sbc3N3KGmx #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675418046955941890</link>
+      <description>Vascularized Brain Assembloids with Enhanced Cellular Complexity Provide Insights into The Cellular Deficits of Tauopathy  https://t.co/Sbc3N3KGmx #biorxiv_neursci</description>
+      <content:encoded>Vascularized Brain Assembloids with Enhanced Cellular Complexity Provide Insights into The Cellular Deficits of Tauopathy  https://t.co/Sbc3N3KGmx #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675418046955941890"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 08:16:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The engine of a 117-year old Swiss steamboat
+
+[boat, (DE): https://t.co/EfRvE31DIL]
+[u/SirLucky7: https://t.co/riMoSYmWk4]
+https://t.co/Kpo3DN23vR</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675418815016890370</link>
+      <description>The engine of a 117-year old Swiss steamboat
+
+[boat, (DE): https://t.co/EfRvE31DIL]
+[u/SirLucky7: https://t.co/riMoSYmWk4]
+https://t.co/Kpo3DN23vR</description>
+      <content:encoded>The engine of a 117-year old Swiss steamboat
+
+[boat, (DE): https://t.co/EfRvE31DIL]
+[u/SirLucky7: https://t.co/riMoSYmWk4]
+https://t.co/Kpo3DN23vR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675418815016890370"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1675325694962974720/pu/img/dAbIzyFrfDJuy2oF.jpg" length="608" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 08:19:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
