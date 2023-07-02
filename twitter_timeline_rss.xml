@@ -6,56 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 08:21:21 +0000</lastBuildDate>
-    <item>
-      <title>Grant-writing is always better at #PieintheSky, Woods Hole, MA https://t.co/AkB3MCYX24</title>
-      <link>https://twitter.com/FitzpatrickLab/status/1674899471577088000</link>
-      <description>Grant-writing is always better at #PieintheSky, Woods Hole, MA https://t.co/AkB3MCYX24</description>
-      <content:encoded>Grant-writing is always better at #PieintheSky, Woods Hole, MA https://t.co/AkB3MCYX24&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1674899471577088000"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz5wJZpWwAIzvgF.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 21:55:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shouldn't forget discoveries about female vs male behaviors from partner in @FlyWireNews crime @MurthyLab  Here are the neurons/eye candy https://t.co/3Z7WtH3RKD</title>
-      <link>https://twitter.com/SebastianSeung/status/1674899509636153344</link>
-      <description>Shouldn't forget discoveries about female vs male behaviors from partner in @FlyWireNews crime @MurthyLab  Here are the neurons/eye candy https://t.co/3Z7WtH3RKD</description>
-      <content:encoded>Shouldn't forget discoveries about female vs male behaviors from partner in @FlyWireNews crime @MurthyLab  Here are the neurons/eye candy https://t.co/3Z7WtH3RKD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1674899509636153344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:55:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MurthyLab: Excited to announce the completion of the first adult brain connectome - FlyWire is the neuronal wiring diagram of a Drosoph…</title>
-      <link>https://twitter.com/meletislab/status/1674899944870760448</link>
-      <description>RT @MurthyLab: Excited to announce the completion of the first adult brain connectome - FlyWire is the neuronal wiring diagram of a Drosoph…</description>
-      <content:encoded>RT @MurthyLab: Excited to announce the completion of the first adult brain connectome - FlyWire is the neuronal wiring diagram of a Drosoph…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/meletislab/status/1674899944870760448"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 21:57:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Despite extensive investments in large language models and vision models, Meta lacks a high-profile generative AI initiative. Reporters went looking for reasons why. 
-
-Learn more in #TheBatch: https://t.co/79LHWaqAra</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1674900619935490050</link>
-      <description>Despite extensive investments in large language models and vision models, Meta lacks a high-profile generative AI initiative. Reporters went looking for reasons why. 
-
-Learn more in #TheBatch: https://t.co/79LHWaqAra</description>
-      <content:encoded>Despite extensive investments in large language models and vision models, Meta lacks a high-profile generative AI initiative. Reporters went looking for reasons why. 
-
-Learn more in #TheBatch: https://t.co/79LHWaqAra&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1674900619935490050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decoding object categories from EEG during free viewing reveals early information evolution compared to passive viewing  https://t.co/DVol7TSqOg #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674904520621531137</link>
-      <description>Decoding object categories from EEG during free viewing reveals early information evolution compared to passive viewing  https://t.co/DVol7TSqOg #biorxiv_neursci</description>
-      <content:encoded>Decoding object categories from EEG during free viewing reveals early information evolution compared to passive viewing  https://t.co/DVol7TSqOg #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674904520621531137"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 22:15:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multimodal layer modeling reveals in-vivo pathology in ALS  https://t.co/wJmTtN8T7o #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674904619955240960</link>
-      <description>Multimodal layer modeling reveals in-vivo pathology in ALS  https://t.co/wJmTtN8T7o #biorxiv_neursci</description>
-      <content:encoded>Multimodal layer modeling reveals in-vivo pathology in ALS  https://t.co/wJmTtN8T7o #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674904619955240960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 22:15:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jul 2023 09:15:49 +0000</lastBuildDate>
     <item>
       <title>The influence of movement speed on reward-based motor learning  https://t.co/ZXzeMMYs1T #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1674904687282192384</link>
@@ -2059,6 +2010,82 @@ https://t.co/Kpo3DN23vR</description>
 https://t.co/Kpo3DN23vR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675418815016890370"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1675325694962974720/pu/img/dAbIzyFrfDJuy2oF.jpg" length="608" type="photo"/>
       <pubDate>Sun, 02 Jul 2023 08:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @torbenja: Takk for invitasjonen @GauteEinevoll til en hyggelig samtale om komplekse spørsmål (konflikter i #Mali, klimatiltak, #reindri…</title>
+      <link>https://twitter.com/GauteEinevoll/status/1675419833444319233</link>
+      <description>RT @torbenja: Takk for invitasjonen @GauteEinevoll til en hyggelig samtale om komplekse spørsmål (konflikter i #Mali, klimatiltak, #reindri…</description>
+      <content:encoded>RT @torbenja: Takk for invitasjonen @GauteEinevoll til en hyggelig samtale om komplekse spørsmål (konflikter i #Mali, klimatiltak, #reindri…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GauteEinevoll/status/1675419833444319233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 08:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luck or mastering the laws of physics? 
+
+Golfer Jon Rahm Rodriguez produced a superb shot that skimmed off the water before slowly rolling its way into the hole 
+
+[video: https://t.co/Uow65x7PfE] 
+https://t.co/0CgG6RWr6A</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675422416732921856</link>
+      <description>Luck or mastering the laws of physics? 
+
+Golfer Jon Rahm Rodriguez produced a superb shot that skimmed off the water before slowly rolling its way into the hole 
+
+[video: https://t.co/Uow65x7PfE] 
+https://t.co/0CgG6RWr6A</description>
+      <content:encoded>Luck or mastering the laws of physics? 
+
+Golfer Jon Rahm Rodriguez produced a superb shot that skimmed off the water before slowly rolling its way into the hole 
+
+[video: https://t.co/Uow65x7PfE] 
+https://t.co/0CgG6RWr6A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675422416732921856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1326283285618634764/pu/img/Or9xhviAC5L6GkR6.jpg" length="640" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 08:33:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>A peacock can fly despite its large size. Its tail is up to 2 meters long, about 60% of its body length. Despite these odd proportions, the bird flies just fine, if not very far
+
+[📹 https://t.co/wd5fxUwUQg]
+https://t.co/JBNRu5Nwv5</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675426405629272066</link>
+      <description>A peacock can fly despite its large size. Its tail is up to 2 meters long, about 60% of its body length. Despite these odd proportions, the bird flies just fine, if not very far
+
+[📹 https://t.co/wd5fxUwUQg]
+https://t.co/JBNRu5Nwv5</description>
+      <content:encoded>A peacock can fly despite its large size. Its tail is up to 2 meters long, about 60% of its body length. Despite these odd proportions, the bird flies just fine, if not very far
+
+[📹 https://t.co/wd5fxUwUQg]
+https://t.co/JBNRu5Nwv5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675426405629272066"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1675100796650758144/pu/img/lT-m-8tyuYoOkUWM.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 08:49:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers @Yale have found that liver fibrosis — scarring of the liver tissue that occurs in many chronic liver diseases — is associated with reduce #cognitive ability and, in certain regions of the #brain, reduced brain volume. Read more here https://t.co/LsYU4UAyMD. https://t.co/8r4D0rJMI7</title>
+      <link>https://twitter.com/Scientifica_Int/status/1675429234829819904</link>
+      <description>Researchers @Yale have found that liver fibrosis — scarring of the liver tissue that occurs in many chronic liver diseases — is associated with reduce #cognitive ability and, in certain regions of the #brain, reduced brain volume. Read more here https://t.co/LsYU4UAyMD. https://t.co/8r4D0rJMI7</description>
+      <content:encoded>Researchers @Yale have found that liver fibrosis — scarring of the liver tissue that occurs in many chronic liver diseases — is associated with reduce #cognitive ability and, in certain regions of the #brain, reduced brain volume. Read more here https://t.co/LsYU4UAyMD. https://t.co/8r4D0rJMI7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1675429234829819904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0BSAqTX0AETjSc.jpg" length="766" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 09:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orchis italica, commonly known as the naked man orchid, is a species of orchid native to the Mediterranean. It gets its common name from... Well, you can see that 
+
+[read more: https://t.co/FH8KMtGmU6] https://t.co/XrQBI9MVIJ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675431617106710528</link>
+      <description>Orchis italica, commonly known as the naked man orchid, is a species of orchid native to the Mediterranean. It gets its common name from... Well, you can see that 
+
+[read more: https://t.co/FH8KMtGmU6] https://t.co/XrQBI9MVIJ</description>
+      <content:encoded>Orchis italica, commonly known as the naked man orchid, is a species of orchid native to the Mediterranean. It gets its common name from... Well, you can see that 
+
+[read more: https://t.co/FH8KMtGmU6] https://t.co/XrQBI9MVIJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675431617106710528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0BJ3OLXsAAlYo8.jpg" length="680" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 09:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VTA dopamine neurons drive spatiotemporally heterogeneous striatal dopamine signals during learning  https://t.co/sNAPuL67rr #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675432974408450048</link>
+      <description>VTA dopamine neurons drive spatiotemporally heterogeneous striatal dopamine signals during learning  https://t.co/sNAPuL67rr #biorxiv_neursci</description>
+      <content:encoded>VTA dopamine neurons drive spatiotemporally heterogeneous striatal dopamine signals during learning  https://t.co/sNAPuL67rr #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675432974408450048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 09:15:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
