@@ -6,127 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jul 2023 23:16:48 +0000</lastBuildDate>
-    <item>
-      <title>How does cAMP move in cells? Katherine Xiang (@km_xiang) and team developed cAMP-SITES for all-optical perturbation and measurement of cAMP. https://t.co/FBtHYZNYEI https://t.co/QgCLVheoDS</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674854997824266240</link>
-      <description>How does cAMP move in cells? Katherine Xiang (@km_xiang) and team developed cAMP-SITES for all-optical perturbation and measurement of cAMP. https://t.co/FBtHYZNYEI https://t.co/QgCLVheoDS</description>
-      <content:encoded>How does cAMP move in cells? Katherine Xiang (@km_xiang) and team developed cAMP-SITES for all-optical perturbation and measurement of cAMP. https://t.co/FBtHYZNYEI https://t.co/QgCLVheoDS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674854997824266240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz5Dn6vacAUcRXI.png" length="517" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 18:58:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is cAMP localized in nanoscale domains, or does it spread broadly? How does cell geometry affect cAMP spread? Katherine combined micromirror-targeted laser stimulation and molecular targeting of the actuator (bPAC) and the reporter (Pink Flamindo) to study cAMP flow in cells. https://t.co/VtbpZApNh3</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674854999594274816</link>
-      <description>Is cAMP localized in nanoscale domains, or does it spread broadly? How does cell geometry affect cAMP spread? Katherine combined micromirror-targeted laser stimulation and molecular targeting of the actuator (bPAC) and the reporter (Pink Flamindo) to study cAMP flow in cells. https://t.co/VtbpZApNh3</description>
-      <content:encoded>Is cAMP localized in nanoscale domains, or does it spread broadly? How does cell geometry affect cAMP spread? Katherine combined micromirror-targeted laser stimulation and molecular targeting of the actuator (bPAC) and the reporter (Pink Flamindo) to study cAMP flow in cells. https://t.co/VtbpZApNh3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674854999594274816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz5D-FXagAAbJL0.png" length="461" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 18:58:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>She made all 4 combinations of membrane-targeted vs soluble bPAC and Pink Flamindo. https://t.co/LXLmdF5m5a</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674855001561403392</link>
-      <description>She made all 4 combinations of membrane-targeted vs soluble bPAC and Pink Flamindo. https://t.co/LXLmdF5m5a</description>
-      <content:encoded>She made all 4 combinations of membrane-targeted vs soluble bPAC and Pink Flamindo. https://t.co/LXLmdF5m5a&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674855001561403392"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz5EOrnaYAAGDWk.png" length="581" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 18:58:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s an example where she activated membrane-targeted bPAC just at one end of an MDCK cell. https://t.co/olCvurzMxw</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674855003243294721</link>
-      <description>Here’s an example where she activated membrane-targeted bPAC just at one end of an MDCK cell. https://t.co/olCvurzMxw</description>
-      <content:encoded>Here’s an example where she activated membrane-targeted bPAC just at one end of an MDCK cell. https://t.co/olCvurzMxw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674855003243294721"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1674851397194616834/pu/img/gwiTIsuXm_qs-Xvz.jpg" length="1120" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 18:58:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>cAMP spreads pretty far and fast! It has a diffusion coefficient in cells of ~120 μm^2/s.</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674855006691004416</link>
-      <description>cAMP spreads pretty far and fast! It has a diffusion coefficient in cells of ~120 μm^2/s.</description>
-      <content:encoded>cAMP spreads pretty far and fast! It has a diffusion coefficient in cells of ~120 μm^2/s.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674855006691004416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 18:58:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>In skinny tubes, like dendrites, diffusion balances with degradation by phosphodiesterases to establish a cAMP length-scale of about ~30 μm. https://t.co/4Nhj5ke36y</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674855008146448385</link>
-      <description>In skinny tubes, like dendrites, diffusion balances with degradation by phosphodiesterases to establish a cAMP length-scale of about ~30 μm. https://t.co/4Nhj5ke36y</description>
-      <content:encoded>In skinny tubes, like dendrites, diffusion balances with degradation by phosphodiesterases to establish a cAMP length-scale of about ~30 μm. https://t.co/4Nhj5ke36y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674855008146448385"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz5E01FaEAAJUuz.jpg" length="975" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 18:58:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here's a video https://t.co/pMj6jm6Cj1</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674855010377818112</link>
-      <description>Here's a video https://t.co/pMj6jm6Cj1</description>
-      <content:encoded>Here's a video https://t.co/pMj6jm6Cj1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674855010377818112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1674851905305186304/pu/img/PP09LI34yZ0kVU-5.jpg" length="1120" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 18:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>We then explored theoretically how cAMP concentration and propagation length scale with tube diameter. The reaction-diffusion equation has the same structure as the Hodgkin-Huxley cable equations; but the scaling with diameter can differ due to different boundary conditions!</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674855014031069185</link>
-      <description>We then explored theoretically how cAMP concentration and propagation length scale with tube diameter. The reaction-diffusion equation has the same structure as the Hodgkin-Huxley cable equations; but the scaling with diameter can differ due to different boundary conditions!</description>
-      <content:encoded>We then explored theoretically how cAMP concentration and propagation length scale with tube diameter. The reaction-diffusion equation has the same structure as the Hodgkin-Huxley cable equations; but the scaling with diameter can differ due to different boundary conditions!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674855014031069185"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 18:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Depending on whether the adenylyl cyclases and phosphodiesterases are each on the membrane or soluble, you can get totally different scaling.</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674855015440330752</link>
-      <description>Depending on whether the adenylyl cyclases and phosphodiesterases are each on the membrane or soluble, you can get totally different scaling.</description>
-      <content:encoded>Depending on whether the adenylyl cyclases and phosphodiesterases are each on the membrane or soluble, you can get totally different scaling.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674855015440330752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 18:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could targeting of drugs to soluble vs membrane-bound enzymes modulate cAMP signaling in different sub-cellular domains (e.g. dendrites vs. soma)?</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674855016807673856</link>
-      <description>Could targeting of drugs to soluble vs membrane-bound enzymes modulate cAMP signaling in different sub-cellular domains (e.g. dendrites vs. soma)?</description>
-      <content:encoded>Could targeting of drugs to soluble vs membrane-bound enzymes modulate cAMP signaling in different sub-cellular domains (e.g. dendrites vs. soma)?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674855016807673856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 18:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thanks to Pojeong Park (@PojeongP), Shon Koren (@sh_koren), and Rebecca Frank Hayward!</title>
-      <link>https://twitter.com/AdamEzraCohen/status/1674855018208579585</link>
-      <description>Thanks to Pojeong Park (@PojeongP), Shon Koren (@sh_koren), and Rebecca Frank Hayward!</description>
-      <content:encoded>Thanks to Pojeong Park (@PojeongP), Shon Koren (@sh_koren), and Rebecca Frank Hayward!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AdamEzraCohen/status/1674855018208579585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 18:58:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Reduced levels of ALS gene DCTN1 induce motor defects in Drosophila: Amyotrophic lateral sclerosis (ALS) is a rapidly progressive neuromuscular disease that has a strong genetic component. Deleterious variants in the DCTN1… #Neuroscience https://t.co/ps0cdlPam1</title>
-      <link>https://twitter.com/FrontNeurosci/status/1674856589126430720</link>
-      <description>New Research: Reduced levels of ALS gene DCTN1 induce motor defects in Drosophila: Amyotrophic lateral sclerosis (ALS) is a rapidly progressive neuromuscular disease that has a strong genetic component. Deleterious variants in the DCTN1… #Neuroscience https://t.co/ps0cdlPam1</description>
-      <content:encoded>New Research: Reduced levels of ALS gene DCTN1 induce motor defects in Drosophila: Amyotrophic lateral sclerosis (ALS) is a rapidly progressive neuromuscular disease that has a strong genetic component. Deleterious variants in the DCTN1… #Neuroscience https://t.co/ps0cdlPam1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1674856589126430720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 19:05:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>NeuroMabSeq: high volume acquisition, processing, and curation of hybridoma sequences and their use in generating recombinant ...  https://t.co/D30IoRKfIQ #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1674859236268863498</link>
-      <description>NeuroMabSeq: high volume acquisition, processing, and curation of hybridoma sequences and their use in generating recombinant ...  https://t.co/D30IoRKfIQ #biorxiv_neursci</description>
-      <content:encoded>NeuroMabSeq: high volume acquisition, processing, and curation of hybridoma sequences and their use in generating recombinant ...  https://t.co/D30IoRKfIQ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1674859236268863498"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 19:15:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>There are over 500 species of shark living in waters around the world and the majority give birth to live young. The remainder are oviparous
-
-This is how a shark gives birth  
-
-[📹 NatGeoWild: https://t.co/D8zdnXLGc9]
-https://t.co/w9Mf94F1h3</title>
-      <link>https://twitter.com/Rainmaker1973/status/1674861820249612289</link>
-      <description>There are over 500 species of shark living in waters around the world and the majority give birth to live young. The remainder are oviparous
-
-This is how a shark gives birth  
-
-[📹 NatGeoWild: https://t.co/D8zdnXLGc9]
-https://t.co/w9Mf94F1h3</description>
-      <content:encoded>There are over 500 species of shark living in waters around the world and the majority give birth to live young. The remainder are oviparous
-
-This is how a shark gives birth  
-
-[📹 NatGeoWild: https://t.co/D8zdnXLGc9]
-https://t.co/w9Mf94F1h3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1674861820249612289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1674484455832969217/img/NiB903_n3chzp7jH.jpg" length="542" type="photo"/>
-      <pubDate>Fri, 30 Jun 2023 19:25:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jul 2023 03:03:41 +0000</lastBuildDate>
     <item>
       <title>Data from the IceCube Neutrino Observatory reveals neutrino emission from within the Milky Way. Existence of this long-sought signal paves the way for the future of astroparticle physics in our Galaxy.
 
@@ -2041,6 +1921,105 @@ Hybrid positron emission tomography/magnetic resonance imaging (PET/MRI) is a…
 
 Hybrid positron emission tomography/magnetic resonance imaging (PET/MRI) is a… #Neuroscience https://t.co/fRH52hL8di&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675273586058358784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 01 Jul 2023 22:42:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: A semantic segmentation scheme for night driving improved by irregular convolution: In order to solve the poor performance of real-time semantic segmentation of night road conditions in video images due to insufficient light… #Neurorobotics https://t.co/7b5068EvYM</title>
+      <link>https://twitter.com/FrontNeurosci/status/1675293345374150656</link>
+      <description>New Research: A semantic segmentation scheme for night driving improved by irregular convolution: In order to solve the poor performance of real-time semantic segmentation of night road conditions in video images due to insufficient light… #Neurorobotics https://t.co/7b5068EvYM</description>
+      <content:encoded>New Research: A semantic segmentation scheme for night driving improved by irregular convolution: In order to solve the poor performance of real-time semantic segmentation of night road conditions in video images due to insufficient light… #Neurorobotics https://t.co/7b5068EvYM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675293345374150656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 00:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @peiferlabunc: @leslievosshall Thanks!  Two great ones we use almost weekly on your list @flystocks and @DSHB_antibodies .  We also love…</title>
+      <link>https://twitter.com/Addgene/status/1675309106402394113</link>
+      <description>RT @peiferlabunc: @leslievosshall Thanks!  Two great ones we use almost weekly on your list @flystocks and @DSHB_antibodies .  We also love…</description>
+      <content:encoded>RT @peiferlabunc: @leslievosshall Thanks!  Two great ones we use almost weekly on your list @flystocks and @DSHB_antibodies .  We also love…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1675309106402394113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 01:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Cham74751558: Thrilled to share our latest work, offering an innovative alternative for discovering RNA targets of your desired RBPs! G…</title>
+      <link>https://twitter.com/Addgene/status/1675309143207321600</link>
+      <description>RT @Cham74751558: Thrilled to share our latest work, offering an innovative alternative for discovering RNA targets of your desired RBPs! G…</description>
+      <content:encoded>RT @Cham74751558: Thrilled to share our latest work, offering an innovative alternative for discovering RNA targets of your desired RBPs! G…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1675309143207321600"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 01:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impressive work on parieto-frontal integration theory. Association b/w polygenic score and educational attainment and intelligence is mediated by surface area and fiber network efficiency | https://t.co/oss3d8XVMC https://t.co/2AtnYClYsZ</title>
+      <link>https://twitter.com/neuropsykologen/status/1675309179395878912</link>
+      <description>Impressive work on parieto-frontal integration theory. Association b/w polygenic score and educational attainment and intelligence is mediated by surface area and fiber network efficiency | https://t.co/oss3d8XVMC https://t.co/2AtnYClYsZ</description>
+      <content:encoded>Impressive work on parieto-frontal integration theory. Association b/w polygenic score and educational attainment and intelligence is mediated by surface area and fiber network efficiency | https://t.co/oss3d8XVMC https://t.co/2AtnYClYsZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuropsykologen/status/1675309179395878912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz_k0W0X0AIxvpR.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 01:03:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oh the irony of hitting view limits due to complaining about view limits</title>
+      <link>https://twitter.com/elonmusk/status/1675309846701174786</link>
+      <description>Oh the irony of hitting view limits due to complaining about view limits</description>
+      <content:encoded>Oh the irony of hitting view limits due to complaining about view limits&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1675309846701174786"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 01:06:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Delineating effects of angiopoietin-2 inhibition on vascular permeability and inflammation in models of retinal neovascularization and ischemia/reperfusion: Introduction
+
+Clinical trials demonstrated that co-targeting… #neuroscience https://t.co/LppeTlMQxn</title>
+      <link>https://twitter.com/FrontNeurosci/status/1675312224787898368</link>
+      <description>New Research: Delineating effects of angiopoietin-2 inhibition on vascular permeability and inflammation in models of retinal neovascularization and ischemia/reperfusion: Introduction
+
+Clinical trials demonstrated that co-targeting… #neuroscience https://t.co/LppeTlMQxn</description>
+      <content:encoded>New Research: Delineating effects of angiopoietin-2 inhibition on vascular permeability and inflammation in models of retinal neovascularization and ischemia/reperfusion: Introduction
+
+Clinical trials demonstrated that co-targeting… #neuroscience https://t.co/LppeTlMQxn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675312224787898368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 01:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microvascular plasticity in stroke recovery: Longitudinal snapshots, network statistical analysis, and dynamics  https://t.co/hUaMFiUJn7 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675312249861201921</link>
+      <description>Microvascular plasticity in stroke recovery: Longitudinal snapshots, network statistical analysis, and dynamics  https://t.co/hUaMFiUJn7 #biorxiv_neursci</description>
+      <content:encoded>Microvascular plasticity in stroke recovery: Longitudinal snapshots, network statistical analysis, and dynamics  https://t.co/hUaMFiUJn7 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675312249861201921"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 01:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intrinsic motor network connectivity predicts corticospinal excitability  https://t.co/oJnewGEIyz #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675312372796252161</link>
+      <description>Intrinsic motor network connectivity predicts corticospinal excitability  https://t.co/oJnewGEIyz #biorxiv_neursci</description>
+      <content:encoded>Intrinsic motor network connectivity predicts corticospinal excitability  https://t.co/oJnewGEIyz #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675312372796252161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 01:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's disease  https://t.co/aWZj7aGkdQ #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675312500877795328</link>
+      <description>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's disease  https://t.co/aWZj7aGkdQ #biorxiv_neursci</description>
+      <content:encoded>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's disease  https://t.co/aWZj7aGkdQ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675312500877795328"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 01:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanosensation of the heart and gut elicits hypometabolism and vigilance in mice.  https://t.co/z1pAkR4O6O #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675312658952642561</link>
+      <description>Mechanosensation of the heart and gut elicits hypometabolism and vigilance in mice.  https://t.co/z1pAkR4O6O #biorxiv_neursci</description>
+      <content:encoded>Mechanosensation of the heart and gut elicits hypometabolism and vigilance in mice.  https://t.co/z1pAkR4O6O #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675312658952642561"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 01:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>So much space https://t.co/9zaKJ40dOy</title>
+      <link>https://twitter.com/elonmusk/status/1675315349573578752</link>
+      <description>So much space https://t.co/9zaKJ40dOy</description>
+      <content:encoded>So much space https://t.co/9zaKJ40dOy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1675315349573578752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/Fz_qbnfXoAUE4V9.jpg" length="995" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 01:27:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Editorial: Chronic pain in neuropsychiatric diseases #Neuroscience https://t.co/tGrIKqmCTg</title>
+      <link>https://twitter.com/FrontNeurosci/status/1675325301931536386</link>
+      <description>New Research: Editorial: Chronic pain in neuropsychiatric diseases #Neuroscience https://t.co/tGrIKqmCTg</description>
+      <content:encoded>New Research: Editorial: Chronic pain in neuropsychiatric diseases #Neuroscience https://t.co/tGrIKqmCTg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675325301931536386"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 02:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>TrkB-dependent regulation of molecular signaling across septal cell types  https://t.co/89OlLltsXk #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675327315406909441</link>
+      <description>TrkB-dependent regulation of molecular signaling across septal cell types  https://t.co/89OlLltsXk #biorxiv_neursci</description>
+      <content:encoded>TrkB-dependent regulation of molecular signaling across septal cell types  https://t.co/89OlLltsXk #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675327315406909441"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 02:15:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
