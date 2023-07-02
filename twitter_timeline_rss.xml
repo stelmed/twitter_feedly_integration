@@ -6,14 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 05:16:21 +0000</lastBuildDate>
-    <item>
-      <title>RT @sdorkenw: We are releasing a whole-brain connectome of the fruit fly, including ~130k annotated neurons and tens of millions of typed s…</title>
-      <link>https://twitter.com/sofroniewn/status/1674873856899813377</link>
-      <description>RT @sdorkenw: We are releasing a whole-brain connectome of the fruit fly, including ~130k annotated neurons and tens of millions of typed s…</description>
-      <content:encoded>RT @sdorkenw: We are releasing a whole-brain connectome of the fruit fly, including ~130k annotated neurons and tens of millions of typed s…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1674873856899813377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 30 Jun 2023 20:13:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jul 2023 06:21:37 +0000</lastBuildDate>
     <item>
       <title>What a resource! https://t.co/B2VWCR1OiE</title>
       <link>https://twitter.com/CellTypist/status/1674876399193128960</link>
@@ -2001,6 +1994,13 @@ to see your friends &amp;amp; family</description>
 step away from the phone 
 to see your friends &amp;amp; family&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1675365001836593154"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 02 Jul 2023 04:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>PAK3 downregulation induces cognitive impairment following cranial irradiation  https://t.co/ecCrREObvC #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1675372831650074624</link>
+      <description>PAK3 downregulation induces cognitive impairment following cranial irradiation  https://t.co/ecCrREObvC #biorxiv_neursci</description>
+      <content:encoded>PAK3 downregulation induces cognitive impairment following cranial irradiation  https://t.co/ecCrREObvC #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675372831650074624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 02 Jul 2023 05:16:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
