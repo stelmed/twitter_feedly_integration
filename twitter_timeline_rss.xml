@@ -6,62 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jul 2023 18:22:05 +0000</lastBuildDate>
-    <item>
-      <title>Great team effort with @OferYizhar lab, led by @JWietek: 
-We show that PdCO is a potent, bistable Go-coupled GPCR suitable for precisely timed synaptic inhibition that can be combined with red-light mediated neuronal activation or far-red calcium imaging https://t.co/0QnT6CxPTe https://t.co/ok87894VIj</title>
-      <link>https://twitter.com/SimWieg/status/1675530117953515520</link>
-      <description>Great team effort with @OferYizhar lab, led by @JWietek: 
-We show that PdCO is a potent, bistable Go-coupled GPCR suitable for precisely timed synaptic inhibition that can be combined with red-light mediated neuronal activation or far-red calcium imaging https://t.co/0QnT6CxPTe https://t.co/ok87894VIj</description>
-      <content:encoded>Great team effort with @OferYizhar lab, led by @JWietek: 
-We show that PdCO is a potent, bistable Go-coupled GPCR suitable for precisely timed synaptic inhibition that can be combined with red-light mediated neuronal activation or far-red calcium imaging https://t.co/0QnT6CxPTe https://t.co/ok87894VIj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SimWieg/status/1675530117953515520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0Cs8XaX0AEe_LQ.jpg" length="1200" type="photo"/>
-      <pubDate>Sun, 02 Jul 2023 15:41:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>@SimWieg @JWietek @adrianna_nozo @mauropulin Indeed - another great product of our long-term collaboration. Thanks @SimWieg @mauropulin @adrianna_nozo and the team for your important contributions.</title>
-      <link>https://twitter.com/OferYizhar/status/1675531689072771072</link>
-      <description>@SimWieg @JWietek @adrianna_nozo @mauropulin Indeed - another great product of our long-term collaboration. Thanks @SimWieg @mauropulin @adrianna_nozo and the team for your important contributions.</description>
-      <content:encoded>@SimWieg @JWietek @adrianna_nozo @mauropulin Indeed - another great product of our long-term collaboration. Thanks @SimWieg @mauropulin @adrianna_nozo and the team for your important contributions.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OferYizhar/status/1675531689072771072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 02 Jul 2023 15:47:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interesting read: Researchers discovered that some Neanderthal genes are responsible for certain traits in modern humans, including how fast someone can burn calories or a person’s natural immune resistance to certain diseases.
-
-https://t.co/dr2vHkM0RU</title>
-      <link>https://twitter.com/AllenInstitute/status/1675532532157386753</link>
-      <description>Interesting read: Researchers discovered that some Neanderthal genes are responsible for certain traits in modern humans, including how fast someone can burn calories or a person’s natural immune resistance to certain diseases.
-
-https://t.co/dr2vHkM0RU</description>
-      <content:encoded>Interesting read: Researchers discovered that some Neanderthal genes are responsible for certain traits in modern humans, including how fast someone can burn calories or a person’s natural immune resistance to certain diseases.
-
-https://t.co/dr2vHkM0RU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1675532532157386753"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 02 Jul 2023 15:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The «world's most battered great white shark»: a specimen filmed in southern Australia in 2021, showing dozens of scratches, scars and wounds on every part of its body
-
-[📹 Dean Spraakman: https://t.co/ufxkSLoiNS]
-https://t.co/SWsqlUsfdf</title>
-      <link>https://twitter.com/Rainmaker1973/status/1675533770340855808</link>
-      <description>The «world's most battered great white shark»: a specimen filmed in southern Australia in 2021, showing dozens of scratches, scars and wounds on every part of its body
-
-[📹 Dean Spraakman: https://t.co/ufxkSLoiNS]
-https://t.co/SWsqlUsfdf</description>
-      <content:encoded>The «world's most battered great white shark»: a specimen filmed in southern Australia in 2021, showing dozens of scratches, scars and wounds on every part of its body
-
-[📹 Dean Spraakman: https://t.co/ufxkSLoiNS]
-https://t.co/SWsqlUsfdf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675533770340855808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1576346052889829386/pu/img/VJon64OJuu8BKA0S.jpg" length="480" type="photo"/>
-      <pubDate>Sun, 02 Jul 2023 15:55:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comedy is legal on this platform! https://t.co/G1ZslWmxBK</title>
-      <link>https://twitter.com/elonmusk/status/1675539077607596033</link>
-      <description>Comedy is legal on this platform! https://t.co/G1ZslWmxBK</description>
-      <content:encoded>Comedy is legal on this platform! https://t.co/G1ZslWmxBK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1675539077607596033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 02 Jul 2023 16:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jul 2023 19:14:45 +0000</lastBuildDate>
     <item>
       <title>New Research: OPRM1 A118G polymorphism modulating motor pathway for pain adaptability in women with primary dysmenorrhea: Introduction
 
@@ -2190,6 +2135,79 @@ https://t.co/SpNzDB7GTk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>Give your children logical explanations, not magical ones.</description>
       <content:encoded>Give your children logical explanations, not magical ones.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1675929803864813568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 03 Jul 2023 18:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>A single administration of klotho, a longevity protein, can improve cognitive function in old monkeys, according to a study published in @NatureAging. https://t.co/c0GAJt1q3i https://t.co/jAPZpomsMT</title>
+      <link>https://twitter.com/NaturePortfolio/status/1675937723406774278</link>
+      <description>A single administration of klotho, a longevity protein, can improve cognitive function in old monkeys, according to a study published in @NatureAging. https://t.co/c0GAJt1q3i https://t.co/jAPZpomsMT</description>
+      <content:encoded>A single administration of klotho, a longevity protein, can improve cognitive function in old monkeys, according to a study published in @NatureAging. https://t.co/c0GAJt1q3i https://t.co/jAPZpomsMT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1675937723406774278"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0IgdgOX0AAY5Jv.jpg" length="1000" type="photo"/>
+      <pubDate>Mon, 03 Jul 2023 18:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The most striking feature about the Olona sp, Limacodidae caterpillar is the fact that it literally looks like it’s made of a delicious, jelly gummi substance
+
+[📹 Janice Ang]
+https://t.co/vv5GscJ79p</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675938658006839297</link>
+      <description>The most striking feature about the Olona sp, Limacodidae caterpillar is the fact that it literally looks like it’s made of a delicious, jelly gummi substance
+
+[📹 Janice Ang]
+https://t.co/vv5GscJ79p</description>
+      <content:encoded>The most striking feature about the Olona sp, Limacodidae caterpillar is the fact that it literally looks like it’s made of a delicious, jelly gummi substance
+
+[📹 Janice Ang]
+https://t.co/vv5GscJ79p&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675938658006839297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1152822457570668544/pu/img/VaZ5sQOQM5pO_wmW.jpg" length="640" type="photo"/>
+      <pubDate>Mon, 03 Jul 2023 18:44:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>We had a great time at our HQ week and our summer picnic! CZIers collaborated, connected and celebrated the progress in science, education and our local community that we’ve made together https://t.co/0q6fNt0anz</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1675938785303883781</link>
+      <description>We had a great time at our HQ week and our summer picnic! CZIers collaborated, connected and celebrated the progress in science, education and our local community that we’ve made together https://t.co/0q6fNt0anz</description>
+      <content:encoded>We had a great time at our HQ week and our summer picnic! CZIers collaborated, connected and celebrated the progress in science, education and our local community that we’ve made together https://t.co/0q6fNt0anz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1675938785303883781"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0IhcXXWcAIHDEd.jpg" length="635" type="photo"/>
+      <pubDate>Mon, 03 Jul 2023 18:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>@KordingLab I'm sorry, but the linguistic games they play in this cell culture stuff bugs me a bit... 
+
+They are defining "prediction" using MI between a binary stim signal and the time-shifted spiking activity. 
+
+That doesn't tell you whether the system is making a prediction.</title>
+      <link>https://twitter.com/tyrell_turing/status/1675939528509386752</link>
+      <description>@KordingLab I'm sorry, but the linguistic games they play in this cell culture stuff bugs me a bit... 
+
+They are defining "prediction" using MI between a binary stim signal and the time-shifted spiking activity. 
+
+That doesn't tell you whether the system is making a prediction.</description>
+      <content:encoded>@KordingLab I'm sorry, but the linguistic games they play in this cell culture stuff bugs me a bit... 
+
+They are defining "prediction" using MI between a binary stim signal and the time-shifted spiking activity. 
+
+That doesn't tell you whether the system is making a prediction.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1675939528509386752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 03 Jul 2023 18:48:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tyrell_turing It should technically be called feature set production,no?  And for that pretty much anything, including a loudspeaker and some microphones would have worked.</title>
+      <link>https://twitter.com/KordingLab/status/1675940904723681280</link>
+      <description>@tyrell_turing It should technically be called feature set production,no?  And for that pretty much anything, including a loudspeaker and some microphones would have worked.</description>
+      <content:encoded>@tyrell_turing It should technically be called feature set production,no?  And for that pretty much anything, including a loudspeaker and some microphones would have worked.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1675940904723681280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 03 Jul 2023 18:53:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Spatiotemporal phase slip patterns for visual evoked potentials, covert object naming tasks, and insight moments extracted from 256 channel EEG recordings: Phase slips arise from state transitions of the coordinated activity… #Neuroscience https://t.co/bd3g2lhXVk</title>
+      <link>https://twitter.com/FrontNeurosci/status/1675943627036717056</link>
+      <description>New Research: Spatiotemporal phase slip patterns for visual evoked potentials, covert object naming tasks, and insight moments extracted from 256 channel EEG recordings: Phase slips arise from state transitions of the coordinated activity… #Neuroscience https://t.co/bd3g2lhXVk</description>
+      <content:encoded>New Research: Spatiotemporal phase slip patterns for visual evoked potentials, covert object naming tasks, and insight moments extracted from 256 channel EEG recordings: Phase slips arise from state transitions of the coordinated activity… #Neuroscience https://t.co/bd3g2lhXVk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675943627036717056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 03 Jul 2023 19:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @NerdyChristie: Today’s ScienceAdviser includes academics’ reactions to the Supreme Court’s recent decisions, how ticks fly onto you, an…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1675944574915604497</link>
+      <description>RT @NerdyChristie: Today’s ScienceAdviser includes academics’ reactions to the Supreme Court’s recent decisions, how ticks fly onto you, an…</description>
+      <content:encoded>RT @NerdyChristie: Today’s ScienceAdviser includes academics’ reactions to the Supreme Court’s recent decisions, how ticks fly onto you, an…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1675944574915604497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 03 Jul 2023 19:08:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
