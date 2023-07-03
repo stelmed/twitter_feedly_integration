@@ -6,115 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 23:17:27 +0000</lastBuildDate>
-    <item>
-      <title>The stunning dynamics of a BMX trick performance
-
-This is Ryan Williams at Brisbane's Nitro World Games 2022
-
-[full video: https://t.co/HffLO1CgjE]
-https://t.co/a8Tt1Ijmn2</title>
-      <link>https://twitter.com/Rainmaker1973/status/1675171710096556033</link>
-      <description>The stunning dynamics of a BMX trick performance
-
-This is Ryan Williams at Brisbane's Nitro World Games 2022
-
-[full video: https://t.co/HffLO1CgjE]
-https://t.co/a8Tt1Ijmn2</description>
-      <content:encoded>The stunning dynamics of a BMX trick performance
-
-This is Ryan Williams at Brisbane's Nitro World Games 2022
-
-[full video: https://t.co/HffLO1CgjE]
-https://t.co/a8Tt1Ijmn2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675171710096556033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1664252753143635969/pu/img/zA7Wh-xp6DdzYudt.jpg" length="600" type="photo"/>
-      <pubDate>Sat, 01 Jul 2023 15:57:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Catch up on this week’s AI news: 
-- Researchers found that some crowd workers use AI for text-related tasks
-- Why Meta has yet to launch a flagship generative AI service
-- The unusual plan to educate U.S. legislators on AI
-
-Learn more in #TheBatch: https://t.co/DA9PwirdTg</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1675172405524807680</link>
-      <description>Catch up on this week’s AI news: 
-- Researchers found that some crowd workers use AI for text-related tasks
-- Why Meta has yet to launch a flagship generative AI service
-- The unusual plan to educate U.S. legislators on AI
-
-Learn more in #TheBatch: https://t.co/DA9PwirdTg</description>
-      <content:encoded>Catch up on this week’s AI news: 
-- Researchers found that some crowd workers use AI for text-related tasks
-- Why Meta has yet to launch a flagship generative AI service
-- The unusual plan to educate U.S. legislators on AI
-
-Learn more in #TheBatch: https://t.co/DA9PwirdTg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1675172405524807680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 15:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Divert the trolley onto this track to maximize the number of survivors, but cause someone’s death. Do nothing, you might spare your conscience, but the human cost will be higher. What should you do?"
-
-Click the link below to read more!
-
-https://t.co/OnyTbee4TJ</title>
-      <link>https://twitter.com/KnowingNeurons/status/1675172890092744706</link>
-      <description>"Divert the trolley onto this track to maximize the number of survivors, but cause someone’s death. Do nothing, you might spare your conscience, but the human cost will be higher. What should you do?"
-
-Click the link below to read more!
-
-https://t.co/OnyTbee4TJ</description>
-      <content:encoded>"Divert the trolley onto this track to maximize the number of survivors, but cause someone’s death. Do nothing, you might spare your conscience, but the human cost will be higher. What should you do?"
-
-Click the link below to read more!
-
-https://t.co/OnyTbee4TJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KnowingNeurons/status/1675172890092744706"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 16:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is what an iceberg calving and flipping looks like
-
-Ilulissat Icefjord, Greenland 
-
-[📹 Peter Søndergaard: https://t.co/EoTcK3TiDM]
-https://t.co/dwTkFKiyPN</title>
-      <link>https://twitter.com/Rainmaker1973/status/1675176293439004672</link>
-      <description>This is what an iceberg calving and flipping looks like
-
-Ilulissat Icefjord, Greenland 
-
-[📹 Peter Søndergaard: https://t.co/EoTcK3TiDM]
-https://t.co/dwTkFKiyPN</description>
-      <content:encoded>This is what an iceberg calving and flipping looks like
-
-Ilulissat Icefjord, Greenland 
-
-[📹 Peter Søndergaard: https://t.co/EoTcK3TiDM]
-https://t.co/dwTkFKiyPN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675176293439004672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1458926750537338886/pu/img/qfygnc4tlUMuibsc.jpg" length="854" type="photo"/>
-      <pubDate>Sat, 01 Jul 2023 16:15:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Connectomes: from a sparsity of networks to large-scale databases #Neuroinformatics https://t.co/FWDKpVRzcH</title>
-      <link>https://twitter.com/FrontNeurosci/status/1675177831448612865</link>
-      <description>New Research: Connectomes: from a sparsity of networks to large-scale databases #Neuroinformatics https://t.co/FWDKpVRzcH</description>
-      <content:encoded>New Research: Connectomes: from a sparsity of networks to large-scale databases #Neuroinformatics https://t.co/FWDKpVRzcH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675177831448612865"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 01 Jul 2023 16:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>A shortage of tritium fuel may leave fusion energy with an empty tank.
-
-Learn more in this @NewsfromScience feature: https://t.co/PzUaXDljEq #ScienceMagArchives https://t.co/N4WTQeyzmL</title>
-      <link>https://twitter.com/ScienceMagazine/status/1675179985466712064</link>
-      <description>A shortage of tritium fuel may leave fusion energy with an empty tank.
-
-Learn more in this @NewsfromScience feature: https://t.co/PzUaXDljEq #ScienceMagArchives https://t.co/N4WTQeyzmL</description>
-      <content:encoded>A shortage of tritium fuel may leave fusion energy with an empty tank.
-
-Learn more in this @NewsfromScience feature: https://t.co/PzUaXDljEq #ScienceMagArchives https://t.co/N4WTQeyzmL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1675179985466712064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/Fz9vUZDWcAIzqIJ.jpg" length="1118" type="photo"/>
-      <pubDate>Sat, 01 Jul 2023 16:30:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jul 2023 01:48:58 +0000</lastBuildDate>
     <item>
       <title>A feature article in @Nature highlights a New York experiment that is part of a commercial race to develop ocean-based technologies to extract carbon dioxide from the atmosphere. https://t.co/ByqPpNBlI8</title>
       <link>https://twitter.com/NaturePortfolio/status/1675180714554277894</link>
@@ -1333,6 +1225,26 @@ Light-controlled inhibition of synaptic transmission via the inhibitory #GPCR…
       <pubDate>Sun, 02 Jul 2023 12:20:20 +0000</pubDate>
     </item>
     <item>
+      <title>This video explains the blood coagulation process in a simple way 
+
+[read more: https://t.co/zDC64xlH07]
+[📹 Designmate: https://t.co/sCKNR9AMHU] 
+https://t.co/P7L47G5tKj</title>
+      <link>https://twitter.com/Rainmaker1973/status/1675480127570837504</link>
+      <description>This video explains the blood coagulation process in a simple way 
+
+[read more: https://t.co/zDC64xlH07]
+[📹 Designmate: https://t.co/sCKNR9AMHU] 
+https://t.co/P7L47G5tKj</description>
+      <content:encoded>This video explains the blood coagulation process in a simple way 
+
+[read more: https://t.co/zDC64xlH07]
+[📹 Designmate: https://t.co/sCKNR9AMHU] 
+https://t.co/P7L47G5tKj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1675480127570837504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1449309446744809473/pu/img/6Ab2Euie7_6CDXGb.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 02 Jul 2023 12:22:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Ah yes.
 
 The forbidden rock candy. https://t.co/eviweB1orb</title>
@@ -2046,6 +1958,53 @@ Do these clowns have any idea the absolute rout they are facing at the next GE? 
       <description>Early resource scarcity causes cortical astrocyte enlargement and sex-specific changes in the orbitofrontal cortex transcriptome in ...  https://t.co/WYpo7PUoCw #biorxiv_neursci</description>
       <content:encoded>Early resource scarcity causes cortical astrocyte enlargement and sex-specific changes in the orbitofrontal cortex transcriptome in ...  https://t.co/WYpo7PUoCw #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1675644555159392262"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 02 Jul 2023 23:16:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Feasibility study on the application of a spiking neural network in myoelectric control systems: In recent years, the effectiveness of a spiking neural network (SNN) for Electromyography (EMG) pattern recognition has been… #Neuroscience https://t.co/MuuY17WCtX</title>
+      <link>https://twitter.com/FrontNeurosci/status/1675655730475704321</link>
+      <description>New Research: Feasibility study on the application of a spiking neural network in myoelectric control systems: In recent years, the effectiveness of a spiking neural network (SNN) for Electromyography (EMG) pattern recognition has been… #Neuroscience https://t.co/MuuY17WCtX</description>
+      <content:encoded>New Research: Feasibility study on the application of a spiking neural network in myoelectric control systems: In recent years, the effectiveness of a spiking neural network (SNN) for Electromyography (EMG) pattern recognition has been… #Neuroscience https://t.co/MuuY17WCtX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675655730475704321"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 03 Jul 2023 00:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BobQubit: The current wave of interest is a good time to also promote our recently updated paper on neurotransmitter prediction directl…</title>
+      <link>https://twitter.com/SebastianSeung/status/1675656304424103937</link>
+      <description>RT @BobQubit: The current wave of interest is a good time to also promote our recently updated paper on neurotransmitter prediction directl…</description>
+      <content:encoded>RT @BobQubit: The current wave of interest is a good time to also promote our recently updated paper on neurotransmitter prediction directl…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SebastianSeung/status/1675656304424103937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 03 Jul 2023 00:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Spike-frequency adaptation inhibits the pairwise spike correlation: Introduction
+
+The spike train output correlation with pairwise neurons determines the neural population coding, which depends on the average firing rate of… #Neuroscience https://t.co/02wpXZhKHv</title>
+      <link>https://twitter.com/FrontNeurosci/status/1675674604659163136</link>
+      <description>New Research: Spike-frequency adaptation inhibits the pairwise spike correlation: Introduction
+
+The spike train output correlation with pairwise neurons determines the neural population coding, which depends on the average firing rate of… #Neuroscience https://t.co/02wpXZhKHv</description>
+      <content:encoded>New Research: Spike-frequency adaptation inhibits the pairwise spike correlation: Introduction
+
+The spike train output correlation with pairwise neurons determines the neural population coding, which depends on the average firing rate of… #Neuroscience https://t.co/02wpXZhKHv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1675674604659163136"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 03 Jul 2023 01:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BWJones: Reminder: Always default to compassion.
+
+You never have complete insight into what battles your friends, family, and neighbors…</title>
+      <link>https://twitter.com/ewadorotaz/status/1675674621398462464</link>
+      <description>RT @BWJones: Reminder: Always default to compassion.
+
+You never have complete insight into what battles your friends, family, and neighbors…</description>
+      <content:encoded>RT @BWJones: Reminder: Always default to compassion.
+
+You never have complete insight into what battles your friends, family, and neighbors…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1675674621398462464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 03 Jul 2023 01:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>People do have problems. Do not assume different. https://t.co/q1i7gumKkh</title>
+      <link>https://twitter.com/ewadorotaz/status/1675674902727122944</link>
+      <description>People do have problems. Do not assume different. https://t.co/q1i7gumKkh</description>
+      <content:encoded>People do have problems. Do not assume different. https://t.co/q1i7gumKkh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1675674902727122944"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 03 Jul 2023 01:16:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
