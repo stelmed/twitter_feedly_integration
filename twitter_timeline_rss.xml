@@ -6,49 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jul 2023 22:17:23 +0000</lastBuildDate>
-    <item>
-      <title>New Research: Editorial: Recent advancements in sleep homeostasis #Neuroscience https://t.co/jUmVhJOwC0</title>
-      <link>https://twitter.com/FrontNeurosci/status/1676018128881582080</link>
-      <description>New Research: Editorial: Recent advancements in sleep homeostasis #Neuroscience https://t.co/jUmVhJOwC0</description>
-      <content:encoded>New Research: Editorial: Recent advancements in sleep homeostasis #Neuroscience https://t.co/jUmVhJOwC0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1676018128881582080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 04 Jul 2023 00:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Initial and corrective submovement encoding differences within primary motor cortex during precision reaching  https://t.co/VFbaAbJ6Xo #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1676021940958404612</link>
-      <description>Initial and corrective submovement encoding differences within primary motor cortex during precision reaching  https://t.co/VFbaAbJ6Xo #biorxiv_neursci</description>
-      <content:encoded>Initial and corrective submovement encoding differences within primary motor cortex during precision reaching  https://t.co/VFbaAbJ6Xo #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676021940958404612"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 04 Jul 2023 00:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Large-scale deorphanization of Nematostella vectensis neuropeptide GPCRs supports the independent expansion of bilaterian and ...  https://t.co/eVAlz60K7W #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1676022177101955073</link>
-      <description>Large-scale deorphanization of Nematostella vectensis neuropeptide GPCRs supports the independent expansion of bilaterian and ...  https://t.co/eVAlz60K7W #biorxiv_neursci</description>
-      <content:encoded>Large-scale deorphanization of Nematostella vectensis neuropeptide GPCRs supports the independent expansion of bilaterian and ...  https://t.co/eVAlz60K7W #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676022177101955073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 04 Jul 2023 00:16:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>A machine learning toolbox for the analysis of sharp-wave ripples reveal common features across species  https://t.co/HONViJEZ25 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1676022321390264322</link>
-      <description>A machine learning toolbox for the analysis of sharp-wave ripples reveal common features across species  https://t.co/HONViJEZ25 #biorxiv_neursci</description>
-      <content:encoded>A machine learning toolbox for the analysis of sharp-wave ripples reveal common features across species  https://t.co/HONViJEZ25 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676022321390264322"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 04 Jul 2023 00:17:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polymodal sensory perception of mechanical and chemical cues drives robust settlement and metamorphosis of a marine pre-vertebrate ...  https://t.co/A43wBFDNwS #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1676022515217362944</link>
-      <description>Polymodal sensory perception of mechanical and chemical cues drives robust settlement and metamorphosis of a marine pre-vertebrate ...  https://t.co/A43wBFDNwS #biorxiv_neursci</description>
-      <content:encoded>Polymodal sensory perception of mechanical and chemical cues drives robust settlement and metamorphosis of a marine pre-vertebrate ...  https://t.co/A43wBFDNwS #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676022515217362944"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 04 Jul 2023 00:18:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Optical resolution is not the limiting factor for spatial precision of two-photon optogenetic photostimulation  https://t.co/RKRsoX5b7K #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1676022634314715136</link>
-      <description>Optical resolution is not the limiting factor for spatial precision of two-photon optogenetic photostimulation  https://t.co/RKRsoX5b7K #biorxiv_neursci</description>
-      <content:encoded>Optical resolution is not the limiting factor for spatial precision of two-photon optogenetic photostimulation  https://t.co/RKRsoX5b7K #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676022634314715136"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 04 Jul 2023 00:18:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jul 2023 23:18:15 +0000</lastBuildDate>
     <item>
       <title>Oscillatory waveform shape and temporal spike correlations differ across bat frontal and auditory cortex  https://t.co/G9FvQRDb86 #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1676022763738234881</link>
@@ -1306,29 +1264,6 @@ https://t.co/qYjXnL3TAS https://t.co/vaeGqLCteR&lt;blockquote class="twitter-twe
       <pubDate>Tue, 04 Jul 2023 16:21:32 +0000</pubDate>
     </item>
     <item>
-      <title>Frogs don't swallow water; they get all the moisture they need through their skin, through which, they both drink and breathe.
-
-That's why this one, offered water on a very hot day, went for a full body soak
-
-[📹 Reddit user u/FootLoosePickleJuice]
-https://t.co/B9iR2JBGmY</title>
-      <link>https://twitter.com/Rainmaker1973/status/1676266133937168386</link>
-      <description>Frogs don't swallow water; they get all the moisture they need through their skin, through which, they both drink and breathe.
-
-That's why this one, offered water on a very hot day, went for a full body soak
-
-[📹 Reddit user u/FootLoosePickleJuice]
-https://t.co/B9iR2JBGmY</description>
-      <content:encoded>Frogs don't swallow water; they get all the moisture they need through their skin, through which, they both drink and breathe.
-
-That's why this one, offered water on a very hot day, went for a full body soak
-
-[📹 Reddit user u/FootLoosePickleJuice]
-https://t.co/B9iR2JBGmY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676266133937168386"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1020173574789902337/pu/img/ANTmGUExoKdSMw2l.jpg" length="608" type="photo"/>
-      <pubDate>Tue, 04 Jul 2023 16:26:04 +0000</pubDate>
-    </item>
-    <item>
       <title>New in Science: Gullies observed on #Mars’ surface could have formed by melting water ice during periods of high obliquity.
 
 Learn more ➡️ https://t.co/xVIFQqmIal https://t.co/Gyv4L4RFNa</title>
@@ -1651,6 +1586,13 @@ A Thread👇 https://t.co/hVDs1lJ1B2&lt;blockquote class="twitter-tweet"&gt;&lt;
       <content:encoded>I, a universe of atoms, an atom in the universe. https://t.co/bomOP0bzA0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1676288470346776576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0NfeUyWAAER5on.jpg" length="750" type="photo"/>
       <pubDate>Tue, 04 Jul 2023 17:54:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Rainmaker1973: Frogs don't swallow water; they get all the moisture they need through their skin, through which, they both drink and br…</title>
+      <link>https://twitter.com/Rainmaker1973/status/1676289518310137868</link>
+      <description>RT @Rainmaker1973: Frogs don't swallow water; they get all the moisture they need through their skin, through which, they both drink and br…</description>
+      <content:encoded>RT @Rainmaker1973: Frogs don't swallow water; they get all the moisture they need through their skin, through which, they both drink and br…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676289518310137868"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 04 Jul 2023 17:58:59 +0000</pubDate>
     </item>
     <item>
       <title>A less-studied, rare class of HLA molecule could be especially helpful during #SARSCoV2 infection, finds new @SciImmunology research involving patient samples. https://t.co/fbySPfb6dB https://t.co/3JMbBzIv19</title>
@@ -2006,6 +1948,67 @@ The tweets have become spicy.&lt;blockquote class="twitter-tweet"&gt;&lt;a href=
       <description>Human vagus nerve fascicular anatomy: a microCT segmentation and histological study  https://t.co/brI8zYeEnB #biorxiv_neursci</description>
       <content:encoded>Human vagus nerve fascicular anatomy: a microCT segmentation and histological study  https://t.co/brI8zYeEnB #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676354066346024966"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 04 Jul 2023 22:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Exploring the potential of mindfulness-based therapy in the prevention and treatment of neurodegenerative diseases based on molecular mechanism studies: Neurodegenerative diseases (ND) have received increasing attention due to… #Neuroscience https://t.co/vRmBliR0q5</title>
+      <link>https://twitter.com/FrontNeurosci/status/1676360624711041024</link>
+      <description>New Research: Exploring the potential of mindfulness-based therapy in the prevention and treatment of neurodegenerative diseases based on molecular mechanism studies: Neurodegenerative diseases (ND) have received increasing attention due to… #Neuroscience https://t.co/vRmBliR0q5</description>
+      <content:encoded>New Research: Exploring the potential of mindfulness-based therapy in the prevention and treatment of neurodegenerative diseases based on molecular mechanism studies: Neurodegenerative diseases (ND) have received increasing attention due to… #Neuroscience https://t.co/vRmBliR0q5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1676360624711041024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 04 Jul 2023 22:41:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Happy #4thOfJuly! We hope you have a fun and safe holiday. 🎆🇺🇸
+
+If you find yourself in South Lake Union for the festivities, keep an eye out for our red, white, and blue lights!
+
+#FourthOfJuly #IndependenceDay https://t.co/IGo14OYL1l</title>
+      <link>https://twitter.com/AllenInstitute/status/1676362775835148288</link>
+      <description>Happy #4thOfJuly! We hope you have a fun and safe holiday. 🎆🇺🇸
+
+If you find yourself in South Lake Union for the festivities, keep an eye out for our red, white, and blue lights!
+
+#FourthOfJuly #IndependenceDay https://t.co/IGo14OYL1l</description>
+      <content:encoded>Happy #4thOfJuly! We hope you have a fun and safe holiday. 🎆🇺🇸
+
+If you find yourself in South Lake Union for the festivities, keep an eye out for our red, white, and blue lights!
+
+#FourthOfJuly #IndependenceDay https://t.co/IGo14OYL1l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1676362775835148288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0OjCyxWcAASVZO.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 04 Jul 2023 22:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expansion microscopy addresses the resolution problem in light microscopy by making the sample bigger, instead of the resolution higher. Interested? You can read about it in our blog!
+ 
+https://t.co/bdfSMTlQEH</title>
+      <link>https://twitter.com/Addgene/status/1676367029895417856</link>
+      <description>Expansion microscopy addresses the resolution problem in light microscopy by making the sample bigger, instead of the resolution higher. Interested? You can read about it in our blog!
+ 
+https://t.co/bdfSMTlQEH</description>
+      <content:encoded>Expansion microscopy addresses the resolution problem in light microscopy by making the sample bigger, instead of the resolution higher. Interested? You can read about it in our blog!
+ 
+https://t.co/bdfSMTlQEH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1676367029895417856"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 04 Jul 2023 23:06:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effects of Copy Number Variations on Longevity in Late-Onset Alzheimer's Disease Patients: Insights from a Causality Network Analysis  https://t.co/oy8QLfLpFD #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1676369163504304128</link>
+      <description>Effects of Copy Number Variations on Longevity in Late-Onset Alzheimer's Disease Patients: Insights from a Causality Network Analysis  https://t.co/oy8QLfLpFD #biorxiv_neursci</description>
+      <content:encoded>Effects of Copy Number Variations on Longevity in Late-Onset Alzheimer's Disease Patients: Insights from a Causality Network Analysis  https://t.co/oy8QLfLpFD #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676369163504304128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 04 Jul 2023 23:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mimicking of tau hyperphosphorylation in GABAergic motoneurons of C. elegans induces severe peripheral and neuronal alterations  https://t.co/T8xX2loMYc #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1676369265018978306</link>
+      <description>Mimicking of tau hyperphosphorylation in GABAergic motoneurons of C. elegans induces severe peripheral and neuronal alterations  https://t.co/T8xX2loMYc #biorxiv_neursci</description>
+      <content:encoded>Mimicking of tau hyperphosphorylation in GABAergic motoneurons of C. elegans induces severe peripheral and neuronal alterations  https://t.co/T8xX2loMYc #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676369265018978306"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 04 Jul 2023 23:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parafoveal vision reveals qualitative differences between FFA and PPA  https://t.co/UypSoxQ4n9 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1676369329527373830</link>
+      <description>Parafoveal vision reveals qualitative differences between FFA and PPA  https://t.co/UypSoxQ4n9 #biorxiv_neursci</description>
+      <content:encoded>Parafoveal vision reveals qualitative differences between FFA and PPA  https://t.co/UypSoxQ4n9 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676369329527373830"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 04 Jul 2023 23:16:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
