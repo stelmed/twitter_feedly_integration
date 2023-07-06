@@ -6,170 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 10:20:38 +0000</lastBuildDate>
-    <item>
-      <title>Meet RIBOmap.
-
-The new method enables single-cell in situ profiling and three-dimensional mapping of mRNA translation in thousands of genes across intact cells and tissues, researchers report in Science. https://t.co/Xv7kNDdCEt https://t.co/h2KF7lBAla</title>
-      <link>https://twitter.com/ScienceMagazine/status/1676584266581278720</link>
-      <description>Meet RIBOmap.
-
-The new method enables single-cell in situ profiling and three-dimensional mapping of mRNA translation in thousands of genes across intact cells and tissues, researchers report in Science. https://t.co/Xv7kNDdCEt https://t.co/h2KF7lBAla</description>
-      <content:encoded>Meet RIBOmap.
-
-The new method enables single-cell in situ profiling and three-dimensional mapping of mRNA translation in thousands of genes across intact cells and tissues, researchers report in Science. https://t.co/Xv7kNDdCEt https://t.co/h2KF7lBAla&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1676584266581278720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RsgHqXgAI9hBI.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 13:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>#145: Probing cell identity hierarchies by fate titration and collision during direct reprogramming by Hersbach @davidsebfischer Magdalena Götz @fabian_theis @LabStricker
-
-Predictable gene expression supports model-aided design of cellular reprogramming.
-
-https://t.co/gWhvAoD24L https://t.co/98NY42juBi</title>
-      <link>https://twitter.com/bdanubius/status/1676585721883426816</link>
-      <description>#145: Probing cell identity hierarchies by fate titration and collision during direct reprogramming by Hersbach @davidsebfischer Magdalena Götz @fabian_theis @LabStricker
-
-Predictable gene expression supports model-aided design of cellular reprogramming.
-
-https://t.co/gWhvAoD24L https://t.co/98NY42juBi</description>
-      <content:encoded>#145: Probing cell identity hierarchies by fate titration and collision during direct reprogramming by Hersbach @davidsebfischer Magdalena Götz @fabian_theis @LabStricker
-
-Predictable gene expression supports model-aided design of cellular reprogramming.
-
-https://t.co/gWhvAoD24L https://t.co/98NY42juBi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1676585721883426816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0F8490WAAAk604.png" length="550" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 13:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @scisignal: Enzyme clusters agitate disease-linked synovial fibroblasts in inflammatory arthritis, an exchange factor “piggybacks” on mo…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1676587376187932675</link>
-      <description>RT @scisignal: Enzyme clusters agitate disease-linked synovial fibroblasts in inflammatory arthritis, an exchange factor “piggybacks” on mo…</description>
-      <content:encoded>RT @scisignal: Enzyme clusters agitate disease-linked synovial fibroblasts in inflammatory arthritis, an exchange factor “piggybacks” on mo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1676587376187932675"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 13:42:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Swimming Pool” was created by artist Leandro Erlich, and it's a “trompe-l'œil” or an optical illusion made with just 10 cm of water 
-
-[source, read more: https://t.co/LZ9Ng8TWyF]
-https://t.co/9rb1NDu7zU</title>
-      <link>https://twitter.com/Rainmaker1973/status/1676589276287365122</link>
-      <description>“Swimming Pool” was created by artist Leandro Erlich, and it's a “trompe-l'œil” or an optical illusion made with just 10 cm of water 
-
-[source, read more: https://t.co/LZ9Ng8TWyF]
-https://t.co/9rb1NDu7zU</description>
-      <content:encoded>“Swimming Pool” was created by artist Leandro Erlich, and it's a “trompe-l'œil” or an optical illusion made with just 10 cm of water 
-
-[source, read more: https://t.co/LZ9Ng8TWyF]
-https://t.co/9rb1NDu7zU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676589276287365122"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1078639416124624897/img/6nFZIIUQOwJCH1mb.jpg" length="640" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 13:50:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @dimvladkost: Beyond excited to be joining the CDN @dev_neuro and start the next chapter! I am very grateful for the support of many men…</title>
-      <link>https://twitter.com/zwitscherdustin/status/1676590055400386561</link>
-      <description>RT @dimvladkost: Beyond excited to be joining the CDN @dev_neuro and start the next chapter! I am very grateful for the support of many men…</description>
-      <content:encoded>RT @dimvladkost: Beyond excited to be joining the CDN @dev_neuro and start the next chapter! I am very grateful for the support of many men…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/zwitscherdustin/status/1676590055400386561"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 13:53:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next week is the #SONA2023 conference. Meet us there together with @bccn_berlin and @MPS_cog! 
-
-💡Research stays of young #postdocs from sub-Saharan Africa are currently financially supported by the @TWASnews and @dfg_public.
-
-This and others programs👉https://t.co/0l7rSdRJAI https://t.co/QCTiBH8Pv7</title>
-      <link>https://twitter.com/BernsteinNeuro/status/1676590552727408646</link>
-      <description>Next week is the #SONA2023 conference. Meet us there together with @bccn_berlin and @MPS_cog! 
-
-💡Research stays of young #postdocs from sub-Saharan Africa are currently financially supported by the @TWASnews and @dfg_public.
-
-This and others programs👉https://t.co/0l7rSdRJAI https://t.co/QCTiBH8Pv7</description>
-      <content:encoded>Next week is the #SONA2023 conference. Meet us there together with @bccn_berlin and @MPS_cog! 
-
-💡Research stays of young #postdocs from sub-Saharan Africa are currently financially supported by the @TWASnews and @dfg_public.
-
-This and others programs👉https://t.co/0l7rSdRJAI https://t.co/QCTiBH8Pv7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1676590552727408646"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RvzsjX0AEZNvE.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 13:55:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don't miss out on today's #MeettheExpert webinar!  
-
-Learn how @Bautista_DianaM navigates academia as a first-generation woman of color and discover the molecular &amp;amp; cellular mechanisms of itch, pain &amp;amp; inflammation.  
-
-It’s not too late, register now ▶️ https://t.co/UwS6oqcJ5F https://t.co/rVyxrbvfN3</title>
-      <link>https://twitter.com/SfNtweets/status/1676591852999385088</link>
-      <description>Don't miss out on today's #MeettheExpert webinar!  
-
-Learn how @Bautista_DianaM navigates academia as a first-generation woman of color and discover the molecular &amp;amp; cellular mechanisms of itch, pain &amp;amp; inflammation.  
-
-It’s not too late, register now ▶️ https://t.co/UwS6oqcJ5F https://t.co/rVyxrbvfN3</description>
-      <content:encoded>Don't miss out on today's #MeettheExpert webinar!  
-
-Learn how @Bautista_DianaM navigates academia as a first-generation woman of color and discover the molecular &amp;amp; cellular mechanisms of itch, pain &amp;amp; inflammation.  
-
-It’s not too late, register now ▶️ https://t.co/UwS6oqcJ5F https://t.co/rVyxrbvfN3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1676591852999385088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RzY1gXgAIR2Kh.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 14:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jourdainlab: &amp;gt;40 plasmids related to our two recent publications with @VamsiMootha now available at @Addgene! 🧬
-
-👉🏻Skinner*, Blanco-Fer…</title>
-      <link>https://twitter.com/Addgene/status/1676592346819960832</link>
-      <description>RT @jourdainlab: &amp;gt;40 plasmids related to our two recent publications with @VamsiMootha now available at @Addgene! 🧬
-
-👉🏻Skinner*, Blanco-Fer…</description>
-      <content:encoded>RT @jourdainlab: &amp;gt;40 plasmids related to our two recent publications with @VamsiMootha now available at @Addgene! 🧬
-
-👉🏻Skinner*, Blanco-Fer…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1676592346819960832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 14:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>"WILSOOON!" https://t.co/2feRVHYOLD</title>
-      <link>https://twitter.com/TheOceanCleanup/status/1676592627523760129</link>
-      <description>"WILSOOON!" https://t.co/2feRVHYOLD</description>
-      <content:encoded>"WILSOOON!" https://t.co/2feRVHYOLD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheOceanCleanup/status/1676592627523760129"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0R0G9fWIAQH2Zi.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 14:03:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-VGlut1 [N28/9R]
-DEPOSITING LAB: James Trimmer
-PURPOSE: Anti-VGlut1 (Rat) chimeric recombinant antibody. The hybridoma-derived heavy chain variable sequence and kappa light chain are fused to a rabbit IgG Fc.
-
-https://t.co/FarY1wmC9A https://t.co/Pucyk4K3rU</title>
-      <link>https://twitter.com/Addgene/status/1676594038881898497</link>
-      <description>Anti-VGlut1 [N28/9R]
-DEPOSITING LAB: James Trimmer
-PURPOSE: Anti-VGlut1 (Rat) chimeric recombinant antibody. The hybridoma-derived heavy chain variable sequence and kappa light chain are fused to a rabbit IgG Fc.
-
-https://t.co/FarY1wmC9A https://t.co/Pucyk4K3rU</description>
-      <content:encoded>Anti-VGlut1 [N28/9R]
-DEPOSITING LAB: James Trimmer
-PURPOSE: Anti-VGlut1 (Rat) chimeric recombinant antibody. The hybridoma-derived heavy chain variable sequence and kappa light chain are fused to a rabbit IgG Fc.
-
-https://t.co/FarY1wmC9A https://t.co/Pucyk4K3rU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1676594038881898497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F0R1YmkWYAEjTE6.jpg" length="480" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 14:09:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>This remarkable picture of Almaty, Kazakhstan, taken by Igors Jefimovs in January 2014, shows an impressive separation of a very thick smog and open air due to a very intense inversion 
-
-[source: https://t.co/JxU7l9AY1i] 
-[more about the inversion: https://t.co/6YJQGEIO1S] https://t.co/x6TYS7Jtc7</title>
-      <link>https://twitter.com/Rainmaker1973/status/1676595159729930249</link>
-      <description>This remarkable picture of Almaty, Kazakhstan, taken by Igors Jefimovs in January 2014, shows an impressive separation of a very thick smog and open air due to a very intense inversion 
-
-[source: https://t.co/JxU7l9AY1i] 
-[more about the inversion: https://t.co/6YJQGEIO1S] https://t.co/x6TYS7Jtc7</description>
-      <content:encoded>This remarkable picture of Almaty, Kazakhstan, taken by Igors Jefimovs in January 2014, shows an impressive separation of a very thick smog and open air due to a very intense inversion 
-
-[source: https://t.co/JxU7l9AY1i] 
-[more about the inversion: https://t.co/6YJQGEIO1S] https://t.co/x6TYS7Jtc7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676595159729930249"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0R2W74XoBYfBla.jpg" length="680" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 14:13:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jul 2023 11:15:51 +0000</lastBuildDate>
     <item>
       <title>RT @guo_lab: Beyond thrilled to welcome @Denethi_W to join the lab for her thesis research, co-advised by organoid guru @Inhyun_P . Denethi…</title>
       <link>https://twitter.com/KavliAtYale/status/1676595750824812546</link>
@@ -2031,6 +1868,108 @@ https://t.co/vhhy4ZrMYu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <content:encoded>RT @Tarhuwa: Google cancelling Google+ in 2019 instead of waiting four more years https://t.co/qIVjPrIlxf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1676898454574977024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0UT2VmXsAEcYS-.png" length="688" type="photo"/>
       <pubDate>Thu, 06 Jul 2023 10:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Possible mechanism of behavioral timescale plasticity! https://t.co/Fd2VH7hXYc</title>
+      <link>https://twitter.com/TheBrunoCortex/status/1676899386410795010</link>
+      <description>Possible mechanism of behavioral timescale plasticity! https://t.co/Fd2VH7hXYc</description>
+      <content:encoded>Possible mechanism of behavioral timescale plasticity! https://t.co/Fd2VH7hXYc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1676899386410795010"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 10:22:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dear @Keir_Starmer - marking papers is work and workers have rights. Industrial action is always the very last resort and all of us doing it feel "uncomfortable" too, but we ran out of options because employers wouldn't listen. The students support @UCU. So should @UKLabour. https://t.co/tUZRk6CbZk https://t.co/wmcSm7JVSQ</title>
+      <link>https://twitter.com/chrisdc77/status/1676901937415876608</link>
+      <description>Dear @Keir_Starmer - marking papers is work and workers have rights. Industrial action is always the very last resort and all of us doing it feel "uncomfortable" too, but we ran out of options because employers wouldn't listen. The students support @UCU. So should @UKLabour. https://t.co/tUZRk6CbZk https://t.co/wmcSm7JVSQ</description>
+      <content:encoded>Dear @Keir_Starmer - marking papers is work and workers have rights. Industrial action is always the very last resort and all of us doing it feel "uncomfortable" too, but we ran out of options because employers wouldn't listen. The students support @UCU. So should @UKLabour. https://t.co/tUZRk6CbZk https://t.co/wmcSm7JVSQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1676901937415876608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0WLh1JXsAAFAiO.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 10:32:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visiting Gabriel Souza, vicegovernor of Río Grande do Sul, with procuradora Camila Pintarelli, to discuss Brazil‘s constitutional amendment on Neurorights https://t.co/zCsJ2Roy6K</title>
+      <link>https://twitter.com/yusterafa/status/1676902009734066180</link>
+      <description>Visiting Gabriel Souza, vicegovernor of Río Grande do Sul, with procuradora Camila Pintarelli, to discuss Brazil‘s constitutional amendment on Neurorights https://t.co/zCsJ2Roy6K</description>
+      <content:encoded>Visiting Gabriel Souza, vicegovernor of Río Grande do Sul, with procuradora Camila Pintarelli, to discuss Brazil‘s constitutional amendment on Neurorights https://t.co/zCsJ2Roy6K&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/yusterafa/status/1676902009734066180"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0WNfRYXgAAd-Zn.jpg" length="1024" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 10:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The complete human nervous system dissection
+
+In 19th-century Philadelphia, an anatomist dissected and mounted this human nervous system. Now researchers are trying to figure out whose remains are stretched out in a glass case
+
+[source, read more: https://t.co/zkAXKxFpsz] https://t.co/V2JcRfyLlU</title>
+      <link>https://twitter.com/Rainmaker1973/status/1676902280824537088</link>
+      <description>The complete human nervous system dissection
+
+In 19th-century Philadelphia, an anatomist dissected and mounted this human nervous system. Now researchers are trying to figure out whose remains are stretched out in a glass case
+
+[source, read more: https://t.co/zkAXKxFpsz] https://t.co/V2JcRfyLlU</description>
+      <content:encoded>The complete human nervous system dissection
+
+In 19th-century Philadelphia, an anatomist dissected and mounted this human nervous system. Now researchers are trying to figure out whose remains are stretched out in a glass case
+
+[source, read more: https://t.co/zkAXKxFpsz] https://t.co/V2JcRfyLlU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676902280824537088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0WNtpYXsAEIvfr.png" length="538" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 10:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MayBrittMoser: 🌹 ⁦@KISNeuro⁩     🕺🏽👏🏽👏🏽👏🏽 Til topps mot Alzheimer: - Det er godt å gjøre dette for mamma https://t.co/8p17s6xCc1</title>
+      <link>https://twitter.com/KISNeuro/status/1676903517003423746</link>
+      <description>RT @MayBrittMoser: 🌹 ⁦@KISNeuro⁩     🕺🏽👏🏽👏🏽👏🏽 Til topps mot Alzheimer: - Det er godt å gjøre dette for mamma https://t.co/8p17s6xCc1</description>
+      <content:encoded>RT @MayBrittMoser: 🌹 ⁦@KISNeuro⁩     🕺🏽👏🏽👏🏽👏🏽 Til topps mot Alzheimer: - Det er godt å gjøre dette for mamma https://t.co/8p17s6xCc1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1676903517003423746"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 10:38:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>We are delighted to announce that the submission deadline for this fascinating topic on the role of ependymal cells in health and disease has been extended to September 30th. 
+
+Full info here➡️https://t.co/FYXHXDvZuY
+
+#cellularneuroscience #empendymalcells #submissionopen https://t.co/nvnMhfZ5CP</title>
+      <link>https://twitter.com/FrontNeurosci/status/1676905328636469250</link>
+      <description>We are delighted to announce that the submission deadline for this fascinating topic on the role of ependymal cells in health and disease has been extended to September 30th. 
+
+Full info here➡️https://t.co/FYXHXDvZuY
+
+#cellularneuroscience #empendymalcells #submissionopen https://t.co/nvnMhfZ5CP</description>
+      <content:encoded>We are delighted to announce that the submission deadline for this fascinating topic on the role of ependymal cells in health and disease has been extended to September 30th. 
+
+Full info here➡️https://t.co/FYXHXDvZuY
+
+#cellularneuroscience #empendymalcells #submissionopen https://t.co/nvnMhfZ5CP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1676905328636469250"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0WPxYWXoAA-Tva.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 10:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>So can someone help me get on b-sky?</title>
+      <link>https://twitter.com/neurograce/status/1676906314704748547</link>
+      <description>So can someone help me get on b-sky?</description>
+      <content:encoded>So can someone help me get on b-sky?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1676906314704748547"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 10:49:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Airlines express concerns over the upcoming #5G rollout near airports, warning there may be potential disruptions that could affect your next flight and cargo transportation 👉 🛬 https://t.co/acf6RtthmN https://t.co/GCW7BinWjO</title>
+      <link>https://twitter.com/MATLAB/status/1676908857782575106</link>
+      <description>⚠️ Airlines express concerns over the upcoming #5G rollout near airports, warning there may be potential disruptions that could affect your next flight and cargo transportation 👉 🛬 https://t.co/acf6RtthmN https://t.co/GCW7BinWjO</description>
+      <content:encoded>⚠️ Airlines express concerns over the upcoming #5G rollout near airports, warning there may be potential disruptions that could affect your next flight and cargo transportation 👉 🛬 https://t.co/acf6RtthmN https://t.co/GCW7BinWjO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MATLAB/status/1676908857782575106"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0WTuCKWYAEIewj.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 11:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Black Diamond apple and the White Ghost apple are two breeds of the fruit, the former being cultivated in the Tibetan region of Nyingchi, the latter being developed by Zaiger genetics.
+
+[read more: https://t.co/d0uK1CbCcn, https://t.co/OHkwaT4yS5]
+https://t.co/uUyu2XDPrF</title>
+      <link>https://twitter.com/Rainmaker1973/status/1676909673620832256</link>
+      <description>The Black Diamond apple and the White Ghost apple are two breeds of the fruit, the former being cultivated in the Tibetan region of Nyingchi, the latter being developed by Zaiger genetics.
+
+[read more: https://t.co/d0uK1CbCcn, https://t.co/OHkwaT4yS5]
+https://t.co/uUyu2XDPrF</description>
+      <content:encoded>The Black Diamond apple and the White Ghost apple are two breeds of the fruit, the former being cultivated in the Tibetan region of Nyingchi, the latter being developed by Zaiger genetics.
+
+[read more: https://t.co/d0uK1CbCcn, https://t.co/OHkwaT4yS5]
+https://t.co/uUyu2XDPrF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676909673620832256"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1555999252886740994/pu/img/VbsPTYhAbjLI1d_t.jpg" length="360" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 11:03:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
