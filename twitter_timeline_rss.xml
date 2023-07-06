@@ -6,113 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 06:25:01 +0000</lastBuildDate>
-    <item>
-      <title>RT @MarkBrakel: Full paper and all recommendations here. Check it out: https://t.co/MemEUQUa6E</title>
-      <link>https://twitter.com/tegmark/status/1676566530899820545</link>
-      <description>RT @MarkBrakel: Full paper and all recommendations here. Check it out: https://t.co/MemEUQUa6E</description>
-      <content:encoded>RT @MarkBrakel: Full paper and all recommendations here. Check it out: https://t.co/MemEUQUa6E&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1676566530899820545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:19:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>We are excited to present a Brain-Wide Map of neural activity during a complex decision-making behavior, a product of the monumental effort of 22 labs: 547 Neuropixels recordings in 267 brain regions from 115 mice collected in 11 labs 🐭 (1/8)
-https://t.co/5W0RqM6xpB</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676567938252300294</link>
-      <description>We are excited to present a Brain-Wide Map of neural activity during a complex decision-making behavior, a product of the monumental effort of 22 labs: 547 Neuropixels recordings in 267 brain regions from 115 mice collected in 11 labs 🐭 (1/8)
-https://t.co/5W0RqM6xpB</description>
-      <content:encoded>We are excited to present a Brain-Wide Map of neural activity during a complex decision-making behavior, a product of the monumental effort of 22 labs: 547 Neuropixels recordings in 267 brain regions from 115 mice collected in 11 labs 🐭 (1/8)
-https://t.co/5W0RqM6xpB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676567938252300294"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:25:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>How does complex behavior emerge from hundreds of brain areas processing information related to sensation, decisions, actions, and prior beliefs? We tackled this question by recording spiking activity across the brain in mice engaged in the IBL task https://t.co/b7AKNwQFdp (2/8) https://t.co/Bu1xqhFsZD</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676567941947555840</link>
-      <description>How does complex behavior emerge from hundreds of brain areas processing information related to sensation, decisions, actions, and prior beliefs? We tackled this question by recording spiking activity across the brain in mice engaged in the IBL task https://t.co/b7AKNwQFdp (2/8) https://t.co/Bu1xqhFsZD</description>
-      <content:encoded>How does complex behavior emerge from hundreds of brain areas processing information related to sensation, decisions, actions, and prior beliefs? We tackled this question by recording spiking activity across the brain in mice engaged in the IBL task https://t.co/b7AKNwQFdp (2/8) https://t.co/Bu1xqhFsZD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676567941947555840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RbZvBWYAEkxM6.png" length="588" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:25:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>With a battery of analysis tools, we examined which brain regions carried signals about visual stimuli, the mouse's choice, prior expectation, movements, and reward 📊
-Explore our results at https://t.co/i2VAxCiL9M and the data for each recording at https://t.co/KhDBnOSCeW 
-(3/8) https://t.co/G47os5CwRx</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676567944459943936</link>
-      <description>With a battery of analysis tools, we examined which brain regions carried signals about visual stimuli, the mouse's choice, prior expectation, movements, and reward 📊
-Explore our results at https://t.co/i2VAxCiL9M and the data for each recording at https://t.co/KhDBnOSCeW 
-(3/8) https://t.co/G47os5CwRx</description>
-      <content:encoded>With a battery of analysis tools, we examined which brain regions carried signals about visual stimuli, the mouse's choice, prior expectation, movements, and reward 📊
-Explore our results at https://t.co/i2VAxCiL9M and the data for each recording at https://t.co/KhDBnOSCeW 
-(3/8) https://t.co/G47os5CwRx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676567944459943936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F0Rb9lyXgAEsjjA.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:25:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visual stimuli elicited transient responses in traditional visual areas followed by ramping activity in midbrain and hindbrain regions, consistent with their role in decision making.💡(4/8) https://t.co/PF7WmpoOiz</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676567949203628035</link>
-      <description>Visual stimuli elicited transient responses in traditional visual areas followed by ramping activity in midbrain and hindbrain regions, consistent with their role in decision making.💡(4/8) https://t.co/PF7WmpoOiz</description>
-      <content:encoded>Visual stimuli elicited transient responses in traditional visual areas followed by ramping activity in midbrain and hindbrain regions, consistent with their role in decision making.💡(4/8) https://t.co/PF7WmpoOiz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676567949203628035"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RcP_-WcAA0PCn.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:25:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>The upcoming choice (before the first movement on a trial) was represented across the cortex, basal ganglia, thalamus, midbrain, hindbrain, and cerebellum. 🤸‍♂️(5/8) https://t.co/qqOCdenYcx</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676567953322528768</link>
-      <description>The upcoming choice (before the first movement on a trial) was represented across the cortex, basal ganglia, thalamus, midbrain, hindbrain, and cerebellum. 🤸‍♂️(5/8) https://t.co/qqOCdenYcx</description>
-      <content:encoded>The upcoming choice (before the first movement on a trial) was represented across the cortex, basal ganglia, thalamus, midbrain, hindbrain, and cerebellum. 🤸‍♂️(5/8) https://t.co/qqOCdenYcx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676567953322528768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RcqvkXoAAOTJp.jpg" length="1134" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The neural representation of movement and feedback/reward consumption were particularly widespread, reflecting brain-wide changes in neural activity. 🧠 (6/8) https://t.co/htSzjlo55s</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676567956946386944</link>
-      <description>The neural representation of movement and feedback/reward consumption were particularly widespread, reflecting brain-wide changes in neural activity. 🧠 (6/8) https://t.co/htSzjlo55s</description>
-      <content:encoded>The neural representation of movement and feedback/reward consumption were particularly widespread, reflecting brain-wide changes in neural activity. 🧠 (6/8) https://t.co/htSzjlo55s&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676567956946386944"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0Rc7hnXsAEglgd.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:25:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surprisingly, the block prior was represented by few neurons in very few regions. To investigate this further, we devoted a whole companion paper to it, where additional analyses discovered widespread representations of the prior. (7/8)
-https://t.co/CpNxYPqBS8</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676567960364756996</link>
-      <description>Surprisingly, the block prior was represented by few neurons in very few regions. To investigate this further, we devoted a whole companion paper to it, where additional analyses discovered widespread representations of the prior. (7/8)
-https://t.co/CpNxYPqBS8</description>
-      <content:encoded>Surprisingly, the block prior was represented by few neurons in very few regions. To investigate this further, we devoted a whole companion paper to it, where additional analyses discovered widespread representations of the prior. (7/8)
-https://t.co/CpNxYPqBS8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676567960364756996"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:25:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do you want to know how your favorite brain region is involved in complex decision making? Explore or download the data to find out: https://t.co/51tShG1AcB! 💻
-
-This work was generously funded by @SimonsFdn and @wellcometrust.
-(8/8)</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676567962910707712</link>
-      <description>Do you want to know how your favorite brain region is involved in complex decision making? Explore or download the data to find out: https://t.co/51tShG1AcB! 💻
-
-This work was generously funded by @SimonsFdn and @wellcometrust.
-(8/8)</description>
-      <content:encoded>Do you want to know how your favorite brain region is involved in complex decision making? Explore or download the data to find out: https://t.co/51tShG1AcB! 💻
-
-This work was generously funded by @SimonsFdn and @wellcometrust.
-(8/8)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676567962910707712"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:25:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The amazing view of schooling cutlass fish vertically fishing, with their extremely reflective skin shining bright when illuminated by the ROV in Costa Rica
-
-[📹 Schmidt Ocean]
-https://t.co/5gcT2RozCB"</title>
-      <link>https://twitter.com/Rainmaker1973/status/1676569313082220547</link>
-      <description>The amazing view of schooling cutlass fish vertically fishing, with their extremely reflective skin shining bright when illuminated by the ROV in Costa Rica
-
-[📹 Schmidt Ocean]
-https://t.co/5gcT2RozCB"</description>
-      <content:encoded>The amazing view of schooling cutlass fish vertically fishing, with their extremely reflective skin shining bright when illuminated by the ROV in Costa Rica
-
-[📹 Schmidt Ocean]
-https://t.co/5gcT2RozCB"&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676569313082220547"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1083126324535877632/pu/img/r8Kni9Kl0f305cFH.jpg" length="1152" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:30:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jul 2023 07:17:55 +0000</lastBuildDate>
     <item>
       <title>🚨Another pre-print alert!🚨Here we use the electrophysiology data from the Brain Wide Map as well as widefield data to investigate the question “Where in the brain is prior knowledge represented?” Recordings in 267 brain regions from 121 mice (1/8)
 https://t.co/CpNxYPqBS8</title>
@@ -252,6 +146,19 @@ https://t.co/W9IA5VU2fQ https://t.co/xyVRWTAxT7&lt;blockquote class="twitter-twe
       <content:encoded>The Square Root of Zero https://t.co/IHWMJyXoNw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1676578178297364481"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0Rm98nXsAIZLuz.jpg" length="1200" type="photo"/>
       <pubDate>Wed, 05 Jul 2023 13:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @dijiang319: RIBOmap charts translation - a new study by @WangXiaoLab in this week’s @ScienceMagazine 
+https://t.co/9RlCES5bre
+Accompani…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1676578300393562114</link>
+      <description>RT @dijiang319: RIBOmap charts translation - a new study by @WangXiaoLab in this week’s @ScienceMagazine 
+https://t.co/9RlCES5bre
+Accompani…</description>
+      <content:encoded>RT @dijiang319: RIBOmap charts translation - a new study by @WangXiaoLab in this week’s @ScienceMagazine 
+https://t.co/9RlCES5bre
+Accompani…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1676578300393562114"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 05 Jul 2023 13:06:30 +0000</pubDate>
     </item>
     <item>
       <title>"Five major transitions" in the evolution of nervous systems leading to new computational architectures https://t.co/hwgBHU9Ykv Cuteness peaked at (b) https://t.co/eEKxk6wlE8</title>
@@ -1979,6 +1886,129 @@ Learn more in @SciRobotics: https://t.co/vZsrWoCXpx https://t.co/m5bZh0UwHs&lt;b
       <description>RT @CarissaVeliz: Russell Group, which is made up of 24 leading #universities including Oxford and Cambridge, has announced that students w…</description>
       <content:encoded>RT @CarissaVeliz: Russell Group, which is made up of 24 leading #universities including Oxford and Cambridge, has announced that students w…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1676835496092131328"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 06 Jul 2023 06:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interesting… https://t.co/73jsSFktYY</title>
+      <link>https://twitter.com/blamlab/status/1676840126054559745</link>
+      <description>Interesting… https://t.co/73jsSFktYY</description>
+      <content:encoded>Interesting… https://t.co/73jsSFktYY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1676840126054559745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 06:26:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is what 35,000 walrus look like along a shore 
+
+[source, read more: https://t.co/G2rGTJ2BF9] https://t.co/r5ahqUHtku</title>
+      <link>https://twitter.com/Rainmaker1973/status/1676840730847748096</link>
+      <description>This is what 35,000 walrus look like along a shore 
+
+[source, read more: https://t.co/G2rGTJ2BF9] https://t.co/r5ahqUHtku</description>
+      <content:encoded>This is what 35,000 walrus look like along a shore 
+
+[source, read more: https://t.co/G2rGTJ2BF9] https://t.co/r5ahqUHtku&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676840730847748096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VVuYiWYAIj1k8.jpg" length="680" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 06:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @bccn_berlin: @SONAorg You should definitely put a visit at our information booth (#4) into your personal agenda😀. 
+#studyabroad #PhD #M…</title>
+      <link>https://twitter.com/BernsteinNeuro/status/1676844675456434177</link>
+      <description>RT @bccn_berlin: @SONAorg You should definitely put a visit at our information booth (#4) into your personal agenda😀. 
+#studyabroad #PhD #M…</description>
+      <content:encoded>RT @bccn_berlin: @SONAorg You should definitely put a visit at our information booth (#4) into your personal agenda😀. 
+#studyabroad #PhD #M…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1676844675456434177"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 06:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Where did the chemical elements of the Solar System come from? This periodic table by Jennifer Johnson shows the origin of the elements in the Solar System
+
+[source, read more: https://t.co/4rdDIYms9O] https://t.co/aHWYwMqRUR</title>
+      <link>https://twitter.com/Rainmaker1973/status/1676844690803421184</link>
+      <description>Where did the chemical elements of the Solar System come from? This periodic table by Jennifer Johnson shows the origin of the elements in the Solar System
+
+[source, read more: https://t.co/4rdDIYms9O] https://t.co/aHWYwMqRUR</description>
+      <content:encoded>Where did the chemical elements of the Solar System come from? This periodic table by Jennifer Johnson shows the origin of the elements in the Solar System
+
+[source, read more: https://t.co/4rdDIYms9O] https://t.co/aHWYwMqRUR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676844690803421184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VZV3xXgAAYYgz.jpg" length="680" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 06:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @guido_meijer: I'm incredibly proud to have worked on this massive dataset which now has its first publication(s)!</title>
+      <link>https://twitter.com/trose_neuro/status/1676846381523247107</link>
+      <description>RT @guido_meijer: I'm incredibly proud to have worked on this massive dataset which now has its first publication(s)!</description>
+      <content:encoded>RT @guido_meijer: I'm incredibly proud to have worked on this massive dataset which now has its first publication(s)!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trose_neuro/status/1676846381523247107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 06:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>#146: Principles of neural stem cell lineage progression: Insights from developing cerebral cortex by @HippenmeyerLab 
+
+Assembly principles in the neocortex: how can these basic programs be utilized for evolution + exploration of topologies?
+
+https://t.co/kder1X2nMr https://t.co/aRRmKlOmtj</title>
+      <link>https://twitter.com/bdanubius/status/1676846439777935361</link>
+      <description>#146: Principles of neural stem cell lineage progression: Insights from developing cerebral cortex by @HippenmeyerLab 
+
+Assembly principles in the neocortex: how can these basic programs be utilized for evolution + exploration of topologies?
+
+https://t.co/kder1X2nMr https://t.co/aRRmKlOmtj</description>
+      <content:encoded>#146: Principles of neural stem cell lineage progression: Insights from developing cerebral cortex by @HippenmeyerLab 
+
+Assembly principles in the neocortex: how can these basic programs be utilized for evolution + exploration of topologies?
+
+https://t.co/kder1X2nMr https://t.co/aRRmKlOmtj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bdanubius/status/1676846439777935361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0F-fVOWIAAhiYf.jpg" length="1128" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 06:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>💋 Today is #InternationalKissingDay
+
+#DYK good oral hygiene may safeguard against chronic #lung diseases, along with cavity &amp;amp; gum issues?
+
+Discover more via @BertelsenRandi @UiB and remember to floss &amp;amp; brush!
+👉 https://t.co/9uJ89EGn3k
+
+#immunology #bacteriology @HorizonMagEu https://t.co/k9QiQS1CgS</title>
+      <link>https://twitter.com/ERC_Research/status/1676848511495835649</link>
+      <description>💋 Today is #InternationalKissingDay
+
+#DYK good oral hygiene may safeguard against chronic #lung diseases, along with cavity &amp;amp; gum issues?
+
+Discover more via @BertelsenRandi @UiB and remember to floss &amp;amp; brush!
+👉 https://t.co/9uJ89EGn3k
+
+#immunology #bacteriology @HorizonMagEu https://t.co/k9QiQS1CgS</description>
+      <content:encoded>💋 Today is #InternationalKissingDay
+
+#DYK good oral hygiene may safeguard against chronic #lung diseases, along with cavity &amp;amp; gum issues?
+
+Discover more via @BertelsenRandi @UiB and remember to floss &amp;amp; brush!
+👉 https://t.co/9uJ89EGn3k
+
+#immunology #bacteriology @HorizonMagEu https://t.co/k9QiQS1CgS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1676848511495835649"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VcySkaIAASuDM.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 07:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Kenya, elephant excretions are used to make paper. Elephants poop up to 50 kg a day which can produce ~125 sheets of paper. This helps save the indigenous tree population and forest from being destroyed and creates a need for the 7000 elephants in Kenya https://t.co/Wq5f4klXAb https://t.co/vprZPIHeuH</title>
+      <link>https://twitter.com/Rainmaker1973/status/1676849284380065793</link>
+      <description>In Kenya, elephant excretions are used to make paper. Elephants poop up to 50 kg a day which can produce ~125 sheets of paper. This helps save the indigenous tree population and forest from being destroyed and creates a need for the 7000 elephants in Kenya https://t.co/Wq5f4klXAb https://t.co/vprZPIHeuH</description>
+      <content:encoded>In Kenya, elephant excretions are used to make paper. Elephants poop up to 50 kg a day which can produce ~125 sheets of paper. This helps save the indigenous tree population and forest from being destroyed and creates a need for the 7000 elephants in Kenya https://t.co/Wq5f4klXAb https://t.co/vprZPIHeuH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676849284380065793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VdfEJX0AEvkNY.jpg" length="680" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 07:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discussion of Mastodon for the neuroscience community seems to have tapered off, but I still see lots of neuro talk on Twitter. Perspectives from anyone using both?</title>
+      <link>https://twitter.com/TheBrunoCortex/status/1676852143611936768</link>
+      <description>Discussion of Mastodon for the neuroscience community seems to have tapered off, but I still see lots of neuro talk on Twitter. Perspectives from anyone using both?</description>
+      <content:encoded>Discussion of Mastodon for the neuroscience community seems to have tapered off, but I still see lots of neuro talk on Twitter. Perspectives from anyone using both?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1676852143611936768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 07:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @yicaichina: A big challenge for #AI research over the next decade is whether AI will be allowed to form consciousness and wisdom like h…</title>
+      <link>https://twitter.com/ylecun/status/1676852402274615296</link>
+      <description>RT @yicaichina: A big challenge for #AI research over the next decade is whether AI will be allowed to form consciousness and wisdom like h…</description>
+      <content:encoded>RT @yicaichina: A big challenge for #AI research over the next decade is whether AI will be allowed to form consciousness and wisdom like h…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1676852402274615296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 07:15:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
