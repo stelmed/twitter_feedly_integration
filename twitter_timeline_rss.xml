@@ -6,144 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 17:17:04 +0000</lastBuildDate>
-    <item>
-      <title>RT @JWietek: Plasmids are now online https://t.co/lkZGyM5g2j</title>
-      <link>https://twitter.com/SimWieg/status/1676687649204064265</link>
-      <description>RT @JWietek: Plasmids are now online https://t.co/lkZGyM5g2j</description>
-      <content:encoded>RT @JWietek: Plasmids are now online https://t.co/lkZGyM5g2j&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SimWieg/status/1676687649204064265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 20:21:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two models provide a timely opportunity for Imme Ebert-Uphoff and Kyle Hilburn to examine the benefits and risks of using AI in weather prediction. https://t.co/N2cL5oEOuI</title>
-      <link>https://twitter.com/NatureNV/status/1676689133085810689</link>
-      <description>Two models provide a timely opportunity for Imme Ebert-Uphoff and Kyle Hilburn to examine the benefits and risks of using AI in weather prediction. https://t.co/N2cL5oEOuI</description>
-      <content:encoded>Two models provide a timely opportunity for Imme Ebert-Uphoff and Kyle Hilburn to examine the benefits and risks of using AI in weather prediction. https://t.co/N2cL5oEOuI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1676689133085810689"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 20:26:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>@ewadorotaz I do not like "multiphoton laser" because multiphoton refers to something that happens outside the laser, and not a key part of its operation.</title>
-      <link>https://twitter.com/UNC_Optics/status/1676689706308841472</link>
-      <description>@ewadorotaz I do not like "multiphoton laser" because multiphoton refers to something that happens outside the laser, and not a key part of its operation.</description>
-      <content:encoded>@ewadorotaz I do not like "multiphoton laser" because multiphoton refers to something that happens outside the laser, and not a key part of its operation.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/UNC_Optics/status/1676689706308841472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 20:29:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @LucinaUddin: @PessoaBrain https://t.co/kEJdagoorZ</title>
-      <link>https://twitter.com/PessoaBrain/status/1676692584981299202</link>
-      <description>RT @LucinaUddin: @PessoaBrain https://t.co/kEJdagoorZ</description>
-      <content:encoded>RT @LucinaUddin: @PessoaBrain https://t.co/kEJdagoorZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1676692584981299202"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 20:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Climate tech innovators fill me with hope. @Breakthrough-backed @FormEnergyInc and @CFS_energy are two startups leading the way toward a clean, abundant energy future. https://t.co/kMzVR55Qnt</title>
-      <link>https://twitter.com/BillGates/status/1676693466569637888</link>
-      <description>Climate tech innovators fill me with hope. @Breakthrough-backed @FormEnergyInc and @CFS_energy are two startups leading the way toward a clean, abundant energy future. https://t.co/kMzVR55Qnt</description>
-      <content:encoded>Climate tech innovators fill me with hope. @Breakthrough-backed @FormEnergyInc and @CFS_energy are two startups leading the way toward a clean, abundant energy future. https://t.co/kMzVR55Qnt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1676693466569637888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 20:44:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>A paper in @Nature presents evidence for a giant rockslide that may have taken the peak off one of the Himalaya’s highest mountains during Medieval times. This erosion event may have reduced the height of the summit by several hundred meters. https://t.co/2NFfZiXAFl https://t.co/Nm4MiO6hWV</title>
-      <link>https://twitter.com/NaturePortfolio/status/1676694963063513088</link>
-      <description>A paper in @Nature presents evidence for a giant rockslide that may have taken the peak off one of the Himalaya’s highest mountains during Medieval times. This erosion event may have reduced the height of the summit by several hundred meters. https://t.co/2NFfZiXAFl https://t.co/Nm4MiO6hWV</description>
-      <content:encoded>A paper in @Nature presents evidence for a giant rockslide that may have taken the peak off one of the Himalaya’s highest mountains during Medieval times. This erosion event may have reduced the height of the summit by several hundred meters. https://t.co/2NFfZiXAFl https://t.co/Nm4MiO6hWV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1676694963063513088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0TRKpvWwAAZEFq.jpg" length="1000" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 20:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>By harnessing Ethereum-inspired blockchain technology researchers have designed a method based on a token economy that can help #robot swarms resist meddling, malicious robots.
-
-Learn more in @SciRobotics: https://t.co/NgixXRTMPD https://t.co/WvXjoUtEMG</title>
-      <link>https://twitter.com/ScienceMagazine/status/1676697513577857024</link>
-      <description>By harnessing Ethereum-inspired blockchain technology researchers have designed a method based on a token economy that can help #robot swarms resist meddling, malicious robots.
-
-Learn more in @SciRobotics: https://t.co/NgixXRTMPD https://t.co/WvXjoUtEMG</description>
-      <content:encoded>By harnessing Ethereum-inspired blockchain technology researchers have designed a method based on a token economy that can help #robot swarms resist meddling, malicious robots.
-
-Learn more in @SciRobotics: https://t.co/NgixXRTMPD https://t.co/WvXjoUtEMG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1676697513577857024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0TTgMbXsAIdh7O.jpg" length="1139" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 21:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @bfmbusiness: La place de l'IA en France
-
-🗨️ "Le meilleur modèle, plus ou moins Open Source aujourd'hui, s'appelle LLaMA et crée par @Me…</title>
-      <link>https://twitter.com/ylecun/status/1676698726813900800</link>
-      <description>RT @bfmbusiness: La place de l'IA en France
-
-🗨️ "Le meilleur modèle, plus ou moins Open Source aujourd'hui, s'appelle LLaMA et crée par @Me…</description>
-      <content:encoded>RT @bfmbusiness: La place de l'IA en France
-
-🗨️ "Le meilleur modèle, plus ou moins Open Source aujourd'hui, s'appelle LLaMA et crée par @Me…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1676698726813900800"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 21:05:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @techandco: La place de l'IA en France
-
-🗨️ "Le meilleur modèle, plus ou moins Open Source aujourd'hui, s'appelle LLaMA et crée par @Meta…</title>
-      <link>https://twitter.com/ylecun/status/1676698854564003847</link>
-      <description>RT @techandco: La place de l'IA en France
-
-🗨️ "Le meilleur modèle, plus ou moins Open Source aujourd'hui, s'appelle LLaMA et crée par @Meta…</description>
-      <content:encoded>RT @techandco: La place de l'IA en France
-
-🗨️ "Le meilleur modèle, plus ou moins Open Source aujourd'hui, s'appelle LLaMA et crée par @Meta…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1676698854564003847"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 21:05:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @munkdebate: What happens if super intelligent machines fall into the wrong hands?
-
-@MIT's @tegmark: "If Hitler were more intelligent th…</title>
-      <link>https://twitter.com/ylecun/status/1676699079827488772</link>
-      <description>RT @munkdebate: What happens if super intelligent machines fall into the wrong hands?
-
-@MIT's @tegmark: "If Hitler were more intelligent th…</description>
-      <content:encoded>RT @munkdebate: What happens if super intelligent machines fall into the wrong hands?
-
-@MIT's @tegmark: "If Hitler were more intelligent th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1676699079827488772"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 21:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DominiqueMockly: La France s'impose déjà comme une grande nation de l'#intelligenceartificielle, grâce à @ylecun ! La rock star de @Viv…</title>
-      <link>https://twitter.com/ylecun/status/1676700551487139840</link>
-      <description>RT @DominiqueMockly: La France s'impose déjà comme une grande nation de l'#intelligenceartificielle, grâce à @ylecun ! La rock star de @Viv…</description>
-      <content:encoded>RT @DominiqueMockly: La France s'impose déjà comme une grande nation de l'#intelligenceartificielle, grâce à @ylecun ! La rock star de @Viv…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1676700551487139840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 21:12:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @don_sci: Last year we showed prevalent 'healthy bias' in who attended @uk_biobank  imaging: https://t.co/6mzFAArHsS
-
-Here we extend tha…</title>
-      <link>https://twitter.com/Neuro_Skeptic/status/1676706364356272128</link>
-      <description>RT @don_sci: Last year we showed prevalent 'healthy bias' in who attended @uk_biobank  imaging: https://t.co/6mzFAArHsS
-
-Here we extend tha…</description>
-      <content:encoded>RT @don_sci: Last year we showed prevalent 'healthy bias' in who attended @uk_biobank  imaging: https://t.co/6mzFAArHsS
-
-Here we extend tha…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1676706364356272128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 21:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @pfau: The lack of solution to adversarial examples (which are just qualitatively different from things like optical illusions) are a bi…</title>
-      <link>https://twitter.com/AToliasLab/status/1676716400117686273</link>
-      <description>RT @pfau: The lack of solution to adversarial examples (which are just qualitatively different from things like optical illusions) are a bi…</description>
-      <content:encoded>RT @pfau: The lack of solution to adversarial examples (which are just qualitatively different from things like optical illusions) are a bi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AToliasLab/status/1676716400117686273"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 22:15:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cortical Adaptation Mechanism in the Delta Band of Post-Stroke Aphasic subjects during Naming Task  https://t.co/IeuDoQwEs3 #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1676716460435963905</link>
-      <description>Cortical Adaptation Mechanism in the Delta Band of Post-Stroke Aphasic subjects during Naming Task  https://t.co/IeuDoQwEs3 #biorxiv_neursci</description>
-      <content:encoded>Cortical Adaptation Mechanism in the Delta Band of Post-Stroke Aphasic subjects during Naming Task  https://t.co/IeuDoQwEs3 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1676716460435963905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 22:15:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Commitment to cell division is not an irreversible switch. Learn more in a terrific N&amp;amp;V by @Alexis_Barr  https://t.co/WyAZ1Wwe2o</title>
-      <link>https://twitter.com/NatureNV/status/1676718067294916608</link>
-      <description>Commitment to cell division is not an irreversible switch. Learn more in a terrific N&amp;amp;V by @Alexis_Barr  https://t.co/WyAZ1Wwe2o</description>
-      <content:encoded>Commitment to cell division is not an irreversible switch. Learn more in a terrific N&amp;amp;V by @Alexis_Barr  https://t.co/WyAZ1Wwe2o&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1676718067294916608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 22:21:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jul 2023 18:22:07 +0000</lastBuildDate>
     <item>
       <title>RT @ZuckermanBrain: A computer cursor animals move with their minds, using brain cells that normally move muscles. See how it helped Vivek…</title>
       <link>https://twitter.com/ruimcosta/status/1676718126585778177</link>
@@ -1965,6 +1828,187 @@ https://t.co/k2RI7nosH3</description>
 https://t.co/k2RI7nosH3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677002849387937805"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1328349125302247426/pu/img/QPUm_q536wY2Q8gk.jpg" length="576" type="photo"/>
       <pubDate>Thu, 06 Jul 2023 17:13:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>#ScienceUpdate
+In @ScienceAdvances, re neuronal representation of predictions. Recording w/ @neuronexustech H64LP_30mm in field A1 of mouse AC. Stim = regular seq of tones + occasional tone omissions. Average spike sort yield &amp;gt;0.7 neurons/ch.
+Read more: https://t.co/MfihWHatYB https://t.co/oUszaBaJH4</title>
+      <link>https://twitter.com/neuronexustech/status/1677008230239592451</link>
+      <description>#ScienceUpdate
+In @ScienceAdvances, re neuronal representation of predictions. Recording w/ @neuronexustech H64LP_30mm in field A1 of mouse AC. Stim = regular seq of tones + occasional tone omissions. Average spike sort yield &amp;gt;0.7 neurons/ch.
+Read more: https://t.co/MfihWHatYB https://t.co/oUszaBaJH4</description>
+      <content:encoded>#ScienceUpdate
+In @ScienceAdvances, re neuronal representation of predictions. Recording w/ @neuronexustech H64LP_30mm in field A1 of mouse AC. Stim = regular seq of tones + occasional tone omissions. Average spike sort yield &amp;gt;0.7 neurons/ch.
+Read more: https://t.co/MfihWHatYB https://t.co/oUszaBaJH4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuronexustech/status/1677008230239592451"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0XuGTUXwAEwWyC.jpg" length="937" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 17:34:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>.@NatureCareers details how training programmes that address failure can help early-career scientists to bounce back. https://t.co/DFx4Odxq4H</title>
+      <link>https://twitter.com/NaturePortfolio/status/1677008759674028032</link>
+      <description>.@NatureCareers details how training programmes that address failure can help early-career scientists to bounce back. https://t.co/DFx4Odxq4H</description>
+      <content:encoded>.@NatureCareers details how training programmes that address failure can help early-career scientists to bounce back. https://t.co/DFx4Odxq4H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1677008759674028032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 17:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Single brain cell looking for a connection
+
+[📹 Leticia Peris + read more: https://t.co/WDgBFZh487]
+https://t.co/cet9zJuK9n</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677009696341778446</link>
+      <description>Single brain cell looking for a connection
+
+[📹 Leticia Peris + read more: https://t.co/WDgBFZh487]
+https://t.co/cet9zJuK9n</description>
+      <content:encoded>Single brain cell looking for a connection
+
+[📹 Leticia Peris + read more: https://t.co/WDgBFZh487]
+https://t.co/cet9zJuK9n&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677009696341778446"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1492870613555453956/pu/img/6-C4Uw6bMGpH7nlH.jpg" length="320" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 17:40:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are your high school students interested in learning more about the immune system? Download our free immunology lesson plans and materials, developed with Allen Institute for Immunology scientists. No prior immunology knowledge required. #AllenLearn
+https://t.co/I8HcA912Ed</title>
+      <link>https://twitter.com/AllenInstitute/status/1677011251254157316</link>
+      <description>Are your high school students interested in learning more about the immune system? Download our free immunology lesson plans and materials, developed with Allen Institute for Immunology scientists. No prior immunology knowledge required. #AllenLearn
+https://t.co/I8HcA912Ed</description>
+      <content:encoded>Are your high school students interested in learning more about the immune system? Download our free immunology lesson plans and materials, developed with Allen Institute for Immunology scientists. No prior immunology knowledge required. #AllenLearn
+https://t.co/I8HcA912Ed&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1677011251254157316"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 17:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The discoveries of tomorrow will be made by the early career STEM professionals of today.
+
+President and CEO @ruimcosta shares why supportive environments for the next generation is critical to scientific discovery.
+
+More on our early career programs: https://t.co/EKV5mrMzEP https://t.co/Nw9rJitDZo</title>
+      <link>https://twitter.com/AllenInstitute/status/1677014196892885002</link>
+      <description>The discoveries of tomorrow will be made by the early career STEM professionals of today.
+
+President and CEO @ruimcosta shares why supportive environments for the next generation is critical to scientific discovery.
+
+More on our early career programs: https://t.co/EKV5mrMzEP https://t.co/Nw9rJitDZo</description>
+      <content:encoded>The discoveries of tomorrow will be made by the early career STEM professionals of today.
+
+President and CEO @ruimcosta shares why supportive environments for the next generation is critical to scientific discovery.
+
+More on our early career programs: https://t.co/EKV5mrMzEP https://t.co/Nw9rJitDZo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1677014196892885002"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0XzgYjXwAE_BGE.png" length="640" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 17:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Join us on July 19 for a webinar on how #immunology researchers at the Allen Institute are using multiplexed multi-modal fixed scRNA-seq assays to overcome challenges found in traditional single cell transcriptomics. #RNAseq
+https://t.co/RdZK5i9Fqx</title>
+      <link>https://twitter.com/AllenInstitute/status/1677014806119735297</link>
+      <description>Join us on July 19 for a webinar on how #immunology researchers at the Allen Institute are using multiplexed multi-modal fixed scRNA-seq assays to overcome challenges found in traditional single cell transcriptomics. #RNAseq
+https://t.co/RdZK5i9Fqx</description>
+      <content:encoded>Join us on July 19 for a webinar on how #immunology researchers at the Allen Institute are using multiplexed multi-modal fixed scRNA-seq assays to overcome challenges found in traditional single cell transcriptomics. #RNAseq
+https://t.co/RdZK5i9Fqx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1677014806119735297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 18:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>This week in Science, a study reports “the most precise measurement yet” of the size of the electron’s permanent electric dipole moment.
+
+The results have implications for an important unresolved question in physics—the imbalance of matter and antimatter. https://t.co/GyuCXRk6Zl https://t.co/0zkL2kwILf</title>
+      <link>https://twitter.com/ScienceMagazine/status/1677015833074180097</link>
+      <description>This week in Science, a study reports “the most precise measurement yet” of the size of the electron’s permanent electric dipole moment.
+
+The results have implications for an important unresolved question in physics—the imbalance of matter and antimatter. https://t.co/GyuCXRk6Zl https://t.co/0zkL2kwILf</description>
+      <content:encoded>This week in Science, a study reports “the most precise measurement yet” of the size of the electron’s permanent electric dipole moment.
+
+The results have implications for an important unresolved question in physics—the imbalance of matter and antimatter. https://t.co/GyuCXRk6Zl https://t.co/0zkL2kwILf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677015833074180097"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0X1Az4WYBctTe-.jpg" length="943" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 18:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Children are not little adults—their biology can be fundamentally different. By figuring out how cells + tissues develop in childhood, we could catch diseases much earlier than usual and prevent them from progressing in adults.” -@garybader1 
+
+📷 of a hepatocyte cell in a liver https://t.co/nxKwk4fuoi</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1677017348111253504</link>
+      <description>“Children are not little adults—their biology can be fundamentally different. By figuring out how cells + tissues develop in childhood, we could catch diseases much earlier than usual and prevent them from progressing in adults.” -@garybader1 
+
+📷 of a hepatocyte cell in a liver https://t.co/nxKwk4fuoi</description>
+      <content:encoded>“Children are not little adults—their biology can be fundamentally different. By figuring out how cells + tissues develop in childhood, we could catch diseases much earlier than usual and prevent them from progressing in adults.” -@garybader1 
+
+📷 of a hepatocyte cell in a liver https://t.co/nxKwk4fuoi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1677017348111253504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0X2Y-bWYAA4SJO.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 18:11:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JuliaBauman2: Can scientists be taught how to choose good projects?
+
+I took a fantastic class taught by @mfgrp last quarter where the f…</title>
+      <link>https://twitter.com/sofroniewn/status/1677017493033070592</link>
+      <description>RT @JuliaBauman2: Can scientists be taught how to choose good projects?
+
+I took a fantastic class taught by @mfgrp last quarter where the f…</description>
+      <content:encoded>RT @JuliaBauman2: Can scientists be taught how to choose good projects?
+
+I took a fantastic class taught by @mfgrp last quarter where the f…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1677017493033070592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 18:11:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>We're excited to announce the hiring of Dr. Ananda Goldrath as Executive VP of the Allen Institute for #Immunology. Goldrath is a leading expert on immune memory and most recently served as Tata Chancellor’s Professor of Molecular Biology at @UCSanDiego.
+https://t.co/1Nr8EjFHSv</title>
+      <link>https://twitter.com/AllenInstitute/status/1677017677481533453</link>
+      <description>We're excited to announce the hiring of Dr. Ananda Goldrath as Executive VP of the Allen Institute for #Immunology. Goldrath is a leading expert on immune memory and most recently served as Tata Chancellor’s Professor of Molecular Biology at @UCSanDiego.
+https://t.co/1Nr8EjFHSv</description>
+      <content:encoded>We're excited to announce the hiring of Dr. Ananda Goldrath as Executive VP of the Allen Institute for #Immunology. Goldrath is a leading expert on immune memory and most recently served as Tata Chancellor’s Professor of Molecular Biology at @UCSanDiego.
+https://t.co/1Nr8EjFHSv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1677017677481533453"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 18:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DefenceU: The most efficient means of delivery of HIMARS, Iris-T, and Patriots from Ukraine to the streets of Paris is through the Carp…</title>
+      <link>https://twitter.com/MichaelGalanin/status/1677019155113947136</link>
+      <description>RT @DefenceU: The most efficient means of delivery of HIMARS, Iris-T, and Patriots from Ukraine to the streets of Paris is through the Carp…</description>
+      <content:encoded>RT @DefenceU: The most efficient means of delivery of HIMARS, Iris-T, and Patriots from Ukraine to the streets of Paris is through the Carp…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1677019155113947136"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 18:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watch this moose shed its antlers with the shake of its head.
+
+A woodsman near Juniper, N.B., captured the moment a bull moose sheds its antlers, possibly a one-in-a-lifetime event
+
+[read more: https://t.co/x6mItROsM4]
+https://t.co/t8mar2Be5v</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677019271967170576</link>
+      <description>Watch this moose shed its antlers with the shake of its head.
+
+A woodsman near Juniper, N.B., captured the moment a bull moose sheds its antlers, possibly a one-in-a-lifetime event
+
+[read more: https://t.co/x6mItROsM4]
+https://t.co/t8mar2Be5v</description>
+      <content:encoded>Watch this moose shed its antlers with the shake of its head.
+
+A woodsman near Juniper, N.B., captured the moment a bull moose sheds its antlers, possibly a one-in-a-lifetime event
+
+[read more: https://t.co/x6mItROsM4]
+https://t.co/t8mar2Be5v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677019271967170576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1618634553744130048/pu/img/R_gJlrzYB_BO9nz-.jpg" length="960" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 18:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @latestinspace: NEWS 🚨: James Webb telescope captures stunning new image of two galaxies colliding https://t.co/Tjzt02Od8P</title>
+      <link>https://twitter.com/MichaelGalanin/status/1677019279894405127</link>
+      <description>RT @latestinspace: NEWS 🚨: James Webb telescope captures stunning new image of two galaxies colliding https://t.co/Tjzt02Od8P</description>
+      <content:encoded>RT @latestinspace: NEWS 🚨: James Webb telescope captures stunning new image of two galaxies colliding https://t.co/Tjzt02Od8P&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1677019279894405127"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0WgobYXsAAo0SJ.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 18:18:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JeffBezos: Honored to be on this journey with @NASA to land astronauts on the Moon — this time to stay. Together, we’ll be solving the…</title>
+      <link>https://twitter.com/MichaelGalanin/status/1677019420839796745</link>
+      <description>RT @JeffBezos: Honored to be on this journey with @NASA to land astronauts on the Moon — this time to stay. Together, we’ll be solving the…</description>
+      <content:encoded>RT @JeffBezos: Honored to be on this journey with @NASA to land astronauts on the Moon — this time to stay. Together, we’ll be solving the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1677019420839796745"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 18:19:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another framing I like is "Likelihood of success you estimate" vs "Likelihood of success your peers estimate". If there's a big differential there and you really know your stuff, then project can be a lot of fun! 🚀 Unfortunately not a good strategy for getting grant funding 🤣 https://t.co/0RuU8S1g2p</title>
+      <link>https://twitter.com/sofroniewn/status/1677019773258067969</link>
+      <description>Another framing I like is "Likelihood of success you estimate" vs "Likelihood of success your peers estimate". If there's a big differential there and you really know your stuff, then project can be a lot of fun! 🚀 Unfortunately not a good strategy for getting grant funding 🤣 https://t.co/0RuU8S1g2p</description>
+      <content:encoded>Another framing I like is "Likelihood of success you estimate" vs "Likelihood of success your peers estimate". If there's a big differential there and you really know your stuff, then project can be a lot of fun! 🚀 Unfortunately not a good strategy for getting grant funding 🤣 https://t.co/0RuU8S1g2p&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1677019773258067969"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 18:20:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
