@@ -6,47 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 05:18:20 +0000</lastBuildDate>
-    <item>
-      <title>God Bless America</title>
-      <link>https://twitter.com/elonmusk/status/1676565163594448896</link>
-      <description>God Bless America</description>
-      <content:encoded>God Bless America&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1676565163594448896"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:14:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MarkBrakel: The AI Act will NOT the determine the fate of AI development in Europe. Investment and talent will.
-
-As @Tom_Westgarth15 po…</title>
-      <link>https://twitter.com/tegmark/status/1676566134051545088</link>
-      <description>RT @MarkBrakel: The AI Act will NOT the determine the fate of AI development in Europe. Investment and talent will.
-
-As @Tom_Westgarth15 po…</description>
-      <content:encoded>RT @MarkBrakel: The AI Act will NOT the determine the fate of AI development in Europe. Investment and talent will.
-
-As @Tom_Westgarth15 po…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1676566134051545088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MarkBrakel: 2. Companies should know, and be able to intervene, when a customer using GPT-4 or similar violates the terms of use by dis…</title>
-      <link>https://twitter.com/tegmark/status/1676566405100220416</link>
-      <description>RT @MarkBrakel: 2. Companies should know, and be able to intervene, when a customer using GPT-4 or similar violates the terms of use by dis…</description>
-      <content:encoded>RT @MarkBrakel: 2. Companies should know, and be able to intervene, when a customer using GPT-4 or similar violates the terms of use by dis…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1676566405100220416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @MarkBrakel: 4. Close the loophole.
-
-The Council version of the Act contains a provision whereby general-purpose providers can evade reg…</title>
-      <link>https://twitter.com/tegmark/status/1676566509248708608</link>
-      <description>RT @MarkBrakel: 4. Close the loophole.
-
-The Council version of the Act contains a provision whereby general-purpose providers can evade reg…</description>
-      <content:encoded>RT @MarkBrakel: 4. Close the loophole.
-
-The Council version of the Act contains a provision whereby general-purpose providers can evade reg…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1676566509248708608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:19:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jul 2023 06:25:01 +0000</lastBuildDate>
     <item>
       <title>RT @MarkBrakel: Full paper and all recommendations here. Check it out: https://t.co/MemEUQUa6E</title>
       <link>https://twitter.com/tegmark/status/1676566530899820545</link>
@@ -292,19 +252,6 @@ https://t.co/W9IA5VU2fQ https://t.co/xyVRWTAxT7&lt;blockquote class="twitter-twe
       <content:encoded>The Square Root of Zero https://t.co/IHWMJyXoNw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1676578178297364481"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0Rm98nXsAIZLuz.jpg" length="1200" type="photo"/>
       <pubDate>Wed, 05 Jul 2023 13:06:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @dijiang319: RIBOmap charts translation - a new study by @WangXiaoLab in this week’s @ScienceMagazine 
-https://t.co/9RlCES5bre
-Accompani…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1676578300393562114</link>
-      <description>RT @dijiang319: RIBOmap charts translation - a new study by @WangXiaoLab in this week’s @ScienceMagazine 
-https://t.co/9RlCES5bre
-Accompani…</description>
-      <content:encoded>RT @dijiang319: RIBOmap charts translation - a new study by @WangXiaoLab in this week’s @ScienceMagazine 
-https://t.co/9RlCES5bre
-Accompani…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1676578300393562114"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 13:06:30 +0000</pubDate>
     </item>
     <item>
       <title>"Five major transitions" in the evolution of nervous systems leading to new computational architectures https://t.co/hwgBHU9Ykv Cuteness peaked at (b) https://t.co/eEKxk6wlE8</title>
@@ -1982,6 +1929,56 @@ A LOT of you asked…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https:/
       <description>RT @burakgur_: Had a great TA Training session with @abigailbodner and the lead TAs of  @neuromatch and @climatematch! A team full of insig…</description>
       <content:encoded>RT @burakgur_: Had a great TA Training session with @abigailbodner and the lead TAs of  @neuromatch and @climatematch! A team full of insig…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1676822004580663297"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 06 Jul 2023 05:14:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exoskeleton suits can correct balance perturbations by reacting "artificially fast." 
+
+Learn more in @SciRobotics: https://t.co/vZsrWoCXpx https://t.co/m5bZh0UwHs</title>
+      <link>https://twitter.com/ScienceMagazine/status/1676833390190895104</link>
+      <description>Exoskeleton suits can correct balance perturbations by reacting "artificially fast." 
+
+Learn more in @SciRobotics: https://t.co/vZsrWoCXpx https://t.co/m5bZh0UwHs</description>
+      <content:encoded>Exoskeleton suits can correct balance perturbations by reacting "artificially fast." 
+
+Learn more in @SciRobotics: https://t.co/vZsrWoCXpx https://t.co/m5bZh0UwHs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1676833390190895104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VPFQnXwAAkXA9.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 06:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>För att kunna möta framtidens hälsoutmaningar behövs verktyg, så som forskningsanläggningar, databaser och biobanker. Idag saknas dock finansiering och permanent organisationsform för viktig forskningsinfrastruktur. Det måste förändras. Läs mer: https://t.co/RJGODEtQSe https://t.co/DlbZWyZfVE</title>
+      <link>https://twitter.com/forskasverige/status/1676833393424707584</link>
+      <description>För att kunna möta framtidens hälsoutmaningar behövs verktyg, så som forskningsanläggningar, databaser och biobanker. Idag saknas dock finansiering och permanent organisationsform för viktig forskningsinfrastruktur. Det måste förändras. Läs mer: https://t.co/RJGODEtQSe https://t.co/DlbZWyZfVE</description>
+      <content:encoded>För att kunna möta framtidens hälsoutmaningar behövs verktyg, så som forskningsanläggningar, databaser och biobanker. Idag saknas dock finansiering och permanent organisationsform för viktig forskningsinfrastruktur. Det måste förändras. Läs mer: https://t.co/RJGODEtQSe https://t.co/DlbZWyZfVE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/forskasverige/status/1676833393424707584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VPFZDWIAMIhYR.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 06:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>In people’s minds, July 6 rings no bells. But 137 years ago #Today, Louis Pasteur successfully used the vaccine for rabies for the first time on a human, a 9-year-old named Joseph Meister, after the boy was badly mauled by a rabid dog 
+
+[read more: https://t.co/bPXXIcQTtv] https://t.co/3Imp9LH33S</title>
+      <link>https://twitter.com/Rainmaker1973/status/1676834444701827072</link>
+      <description>In people’s minds, July 6 rings no bells. But 137 years ago #Today, Louis Pasteur successfully used the vaccine for rabies for the first time on a human, a 9-year-old named Joseph Meister, after the boy was badly mauled by a rabid dog 
+
+[read more: https://t.co/bPXXIcQTtv] https://t.co/3Imp9LH33S</description>
+      <content:encoded>In people’s minds, July 6 rings no bells. But 137 years ago #Today, Louis Pasteur successfully used the vaccine for rabies for the first time on a human, a 9-year-old named Joseph Meister, after the boy was badly mauled by a rabid dog 
+
+[read more: https://t.co/bPXXIcQTtv] https://t.co/3Imp9LH33S&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676834444701827072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VP-RLWYAAVHD1.jpg" length="522" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 06:04:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>On threads at simonrschultz</title>
+      <link>https://twitter.com/neuralengine/status/1676835302504054787</link>
+      <description>On threads at simonrschultz</description>
+      <content:encoded>On threads at simonrschultz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuralengine/status/1676835302504054787"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 06:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CarissaVeliz: Russell Group, which is made up of 24 leading #universities including Oxford and Cambridge, has announced that students w…</title>
+      <link>https://twitter.com/TheBrunoCortex/status/1676835496092131328</link>
+      <description>RT @CarissaVeliz: Russell Group, which is made up of 24 leading #universities including Oxford and Cambridge, has announced that students w…</description>
+      <content:encoded>RT @CarissaVeliz: Russell Group, which is made up of 24 leading #universities including Oxford and Cambridge, has announced that students w…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1676835496092131328"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 06:08:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
