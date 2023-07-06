@@ -6,115 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 07:17:55 +0000</lastBuildDate>
-    <item>
-      <title>🚨Another pre-print alert!🚨Here we use the electrophysiology data from the Brain Wide Map as well as widefield data to investigate the question “Where in the brain is prior knowledge represented?” Recordings in 267 brain regions from 121 mice (1/8)
-https://t.co/CpNxYPqBS8</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676570280494260224</link>
-      <description>🚨Another pre-print alert!🚨Here we use the electrophysiology data from the Brain Wide Map as well as widefield data to investigate the question “Where in the brain is prior knowledge represented?” Recordings in 267 brain regions from 121 mice (1/8)
-https://t.co/CpNxYPqBS8</description>
-      <content:encoded>🚨Another pre-print alert!🚨Here we use the electrophysiology data from the Brain Wide Map as well as widefield data to investigate the question “Where in the brain is prior knowledge represented?” Recordings in 267 brain regions from 121 mice (1/8)
-https://t.co/CpNxYPqBS8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676570280494260224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:34:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>In the IBL task, the prior probability that the stimulus appeared on the right switched in a random and uncued manner between 0.2 and 0.8 in blocks of trials. Mice leverage their prior knowledge of this block structure to improve their performance and obtain more rewards 🧀 (2/8) https://t.co/Zv7LAi7O1x</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676570283468111872</link>
-      <description>In the IBL task, the prior probability that the stimulus appeared on the right switched in a random and uncued manner between 0.2 and 0.8 in blocks of trials. Mice leverage their prior knowledge of this block structure to improve their performance and obtain more rewards 🧀 (2/8) https://t.co/Zv7LAi7O1x</description>
-      <content:encoded>In the IBL task, the prior probability that the stimulus appeared on the right switched in a random and uncued manner between 0.2 and 0.8 in blocks of trials. Mice leverage their prior knowledge of this block structure to improve their performance and obtain more rewards 🧀 (2/8) https://t.co/Zv7LAi7O1x&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676570283468111872"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RersmXoAQRPL6.jpg" length="1048" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:34:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where is prior information about the state of the world represented in the brain? At one extreme, the brain might combine prior information with sensory evidence in high level decision-making brain regions, right before decisions are turned into actions. (3/8) https://t.co/ZBkUTPaus7</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676570285921783808</link>
-      <description>Where is prior information about the state of the world represented in the brain? At one extreme, the brain might combine prior information with sensory evidence in high level decision-making brain regions, right before decisions are turned into actions. (3/8) https://t.co/ZBkUTPaus7</description>
-      <content:encoded>Where is prior information about the state of the world represented in the brain? At one extreme, the brain might combine prior information with sensory evidence in high level decision-making brain regions, right before decisions are turned into actions. (3/8) https://t.co/ZBkUTPaus7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676570285921783808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RfIi6WAAEi8lC.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:34:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>At the other extreme, the brain might operate like a very large Bayesian network, in which probabilistic inference is the modus operandi in all brain regions and inference can be performed in all directions. (4/8) https://t.co/xPSsNhaHUm</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676570288929099778</link>
-      <description>At the other extreme, the brain might operate like a very large Bayesian network, in which probabilistic inference is the modus operandi in all brain regions and inference can be performed in all directions. (4/8) https://t.co/xPSsNhaHUm</description>
-      <content:encoded>At the other extreme, the brain might operate like a very large Bayesian network, in which probabilistic inference is the modus operandi in all brain regions and inference can be performed in all directions. (4/8) https://t.co/xPSsNhaHUm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676570288929099778"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RfOwcXgAAwgKF.jpg" length="1194" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>We found that prior information is encoded in more than 20% of brain regions which, remarkably, span all levels of processing, from early sensory areas (LGd, VISp) to motor regions (MOs, MOp, GRN) and high level cortical regions (ACCd, ORBvl). (5/8) https://t.co/otbhLjeqQH</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676570291940519937</link>
-      <description>We found that prior information is encoded in more than 20% of brain regions which, remarkably, span all levels of processing, from early sensory areas (LGd, VISp) to motor regions (MOs, MOp, GRN) and high level cortical regions (ACCd, ORBvl). (5/8) https://t.co/otbhLjeqQH</description>
-      <content:encoded>We found that prior information is encoded in more than 20% of brain regions which, remarkably, span all levels of processing, from early sensory areas (LGd, VISp) to motor regions (MOs, MOp, GRN) and high level cortical regions (ACCd, ORBvl). (5/8) https://t.co/otbhLjeqQH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676570291940519937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RfWsXWYAYu-yO.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:34:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two different modalities (electrophysiology and widefield imaging [WFI]), different mice but same task! Having one shared canonical task allows us to run the same experiment in different modalities. We found very similar prior representations between modalities. (6/8) https://t.co/Bhviu6nSsj</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676570295031799809</link>
-      <description>Two different modalities (electrophysiology and widefield imaging [WFI]), different mice but same task! Having one shared canonical task allows us to run the same experiment in different modalities. We found very similar prior representations between modalities. (6/8) https://t.co/Bhviu6nSsj</description>
-      <content:encoded>Two different modalities (electrophysiology and widefield imaging [WFI]), different mice but same task! Having one shared canonical task allows us to run the same experiment in different modalities. We found very similar prior representations between modalities. (6/8) https://t.co/Bhviu6nSsj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676570295031799809"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RfeUBX0AAcQoz.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:34:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>This prior found in the neural activity is reflected in the behavior. Higher decoded priors are associated with a greater proportion of rightward choices. (7/8) https://t.co/tFCd2MGzB1</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676570297711960064</link>
-      <description>This prior found in the neural activity is reflected in the behavior. Higher decoded priors are associated with a greater proportion of rightward choices. (7/8) https://t.co/tFCd2MGzB1</description>
-      <content:encoded>This prior found in the neural activity is reflected in the behavior. Higher decoded priors are associated with a greater proportion of rightward choices. (7/8) https://t.co/tFCd2MGzB1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676570297711960064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RflGkXoAAEH5f.jpg" length="934" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:34:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>This work provides a picture, at an unprecedented scale, of the neural processes underpinning prior information in decision-making, bringing evidence for the “Bayesian network” model of the brain. Check out our many more results in our preprint. (8/8)
-https://t.co/CpNxYPqBS8</title>
-      <link>https://twitter.com/IntlBrainLab/status/1676570300098412545</link>
-      <description>This work provides a picture, at an unprecedented scale, of the neural processes underpinning prior information in decision-making, bringing evidence for the “Bayesian network” model of the brain. Check out our many more results in our preprint. (8/8)
-https://t.co/CpNxYPqBS8</description>
-      <content:encoded>This work provides a picture, at an unprecedented scale, of the neural processes underpinning prior information in decision-making, bringing evidence for the “Bayesian network” model of the brain. Check out our many more results in our preprint. (8/8)
-https://t.co/CpNxYPqBS8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/IntlBrainLab/status/1676570300098412545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 05 Jul 2023 12:34:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Have you ever considered creating an animation, song, or skit about #brainscience? 
-
-🚨 Today is the last day to submit a short, educational video for the 2023 Brain Awareness Video Contest! 
-
-Learn more about #BAVC23 entry and prizes: https://t.co/GG0mGnOq8e
-
-#neurotwitter https://t.co/zFKu7OuJTY</title>
-      <link>https://twitter.com/SfNtweets/status/1676570644182454274</link>
-      <description>Have you ever considered creating an animation, song, or skit about #brainscience? 
-
-🚨 Today is the last day to submit a short, educational video for the 2023 Brain Awareness Video Contest! 
-
-Learn more about #BAVC23 entry and prizes: https://t.co/GG0mGnOq8e
-
-#neurotwitter https://t.co/zFKu7OuJTY</description>
-      <content:encoded>Have you ever considered creating an animation, song, or skit about #brainscience? 
-
-🚨 Today is the last day to submit a short, educational video for the 2023 Brain Awareness Video Contest! 
-
-Learn more about #BAVC23 entry and prizes: https://t.co/GG0mGnOq8e
-
-#neurotwitter https://t.co/zFKu7OuJTY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1676570644182454274"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RgGV3WIAAaaa1.jpg" length="624" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>For #SarcomaAwarenessMonth, we highlight Daniel Orbach’s recommendation of the research to find a molecular analytic consensus for diagnosing pediatric and adult patients with #rhabdomyosarcoma (RMS). @LinardicLabDuke @ICR_London @OncologyAdvance
-
-https://t.co/W9IA5VU2fQ https://t.co/xyVRWTAxT7</title>
-      <link>https://twitter.com/Facultyopinions/status/1676571636089122816</link>
-      <description>For #SarcomaAwarenessMonth, we highlight Daniel Orbach’s recommendation of the research to find a molecular analytic consensus for diagnosing pediatric and adult patients with #rhabdomyosarcoma (RMS). @LinardicLabDuke @ICR_London @OncologyAdvance
-
-https://t.co/W9IA5VU2fQ https://t.co/xyVRWTAxT7</description>
-      <content:encoded>For #SarcomaAwarenessMonth, we highlight Daniel Orbach’s recommendation of the research to find a molecular analytic consensus for diagnosing pediatric and adult patients with #rhabdomyosarcoma (RMS). @LinardicLabDuke @ICR_London @OncologyAdvance
-
-https://t.co/W9IA5VU2fQ https://t.co/xyVRWTAxT7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1676571636089122816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0RhBD5XsAANfdR.jpg" length="1200" type="photo"/>
-      <pubDate>Wed, 05 Jul 2023 12:40:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jul 2023 08:24:30 +0000</lastBuildDate>
     <item>
       <title>@TheBrunoCortex @bartulem @tucetombaz @ClaudiaBattist7 @Jingyi_GF @adric_dunn @KISNeuro @GordonPetty3 Yes, I quite agree.</title>
       <link>https://twitter.com/JonRWhitlock/status/1676572481912467456</link>
@@ -2009,6 +1901,112 @@ Discover more via @BertelsenRandi @UiB and remember to floss &amp;amp; brush!
       <description>RT @yicaichina: A big challenge for #AI research over the next decade is whether AI will be allowed to form consciousness and wisdom like h…</description>
       <content:encoded>RT @yicaichina: A big challenge for #AI research over the next decade is whether AI will be allowed to form consciousness and wisdom like h…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1676852402274615296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 06 Jul 2023 07:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ground pangolins walk on their hind legs, occasionally using their forelegs and their tail for balance 
+
+[read more: https://t.co/NCu13grv8j] 
+[video: https://t.co/48mcK7sGAk]
+https://t.co/BzTjpcIMul</title>
+      <link>https://twitter.com/Rainmaker1973/status/1676853569062830081</link>
+      <description>Ground pangolins walk on their hind legs, occasionally using their forelegs and their tail for balance 
+
+[read more: https://t.co/NCu13grv8j] 
+[video: https://t.co/48mcK7sGAk]
+https://t.co/BzTjpcIMul</description>
+      <content:encoded>Ground pangolins walk on their hind legs, occasionally using their forelegs and their tail for balance 
+
+[read more: https://t.co/NCu13grv8j] 
+[video: https://t.co/48mcK7sGAk]
+https://t.co/BzTjpcIMul&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676853569062830081"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1555221231690981377/pu/img/XAw7ztPCuVctGw_K.jpg" length="960" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 07:20:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Individual membership in INCF is more than discounts on events, products, &amp;amp; platforms - it's a voice in how we work toward open &amp;amp; FAIR neuroscience, and access to academic &amp;amp; corporate collaborators in our global #neuroinformagical community!
+
+Learn more: https://t.co/XSvZlC1fzQ https://t.co/4yCfeNrRbL</title>
+      <link>https://twitter.com/INCForg/status/1676853989554688000</link>
+      <description>Individual membership in INCF is more than discounts on events, products, &amp;amp; platforms - it's a voice in how we work toward open &amp;amp; FAIR neuroscience, and access to academic &amp;amp; corporate collaborators in our global #neuroinformagical community!
+
+Learn more: https://t.co/XSvZlC1fzQ https://t.co/4yCfeNrRbL</description>
+      <content:encoded>Individual membership in INCF is more than discounts on events, products, &amp;amp; platforms - it's a voice in how we work toward open &amp;amp; FAIR neuroscience, and access to academic &amp;amp; corporate collaborators in our global #neuroinformagical community!
+
+Learn more: https://t.co/XSvZlC1fzQ https://t.co/4yCfeNrRbL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1676853989554688000"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/FzzY2DIXsAIbder.png" length="680" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 07:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The loss of deep-rooting native vegetation and declining evapotranspiration due to rapid agricultural expansion in the South American plains has led to shallow groundwater tables and increased flooding throughout the region, researchers report in Science. https://t.co/oMBjBMseOK https://t.co/X35aaF9Ovg</title>
+      <link>https://twitter.com/ScienceMagazine/status/1676856039688290305</link>
+      <description>The loss of deep-rooting native vegetation and declining evapotranspiration due to rapid agricultural expansion in the South American plains has led to shallow groundwater tables and increased flooding throughout the region, researchers report in Science. https://t.co/oMBjBMseOK https://t.co/X35aaF9Ovg</description>
+      <content:encoded>The loss of deep-rooting native vegetation and declining evapotranspiration due to rapid agricultural expansion in the South American plains has led to shallow groundwater tables and increased flooding throughout the region, researchers report in Science. https://t.co/oMBjBMseOK https://t.co/X35aaF9Ovg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1676856039688290305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VjrmbXgAApYvO.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 07:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>A must-read: Michael Polymenis recommends this “beautiful” paper in @Nature by @iaincheeseman @WhiteheadInst on the effect of CDC20 translational isoforms on #mitosis duration
+
+https://t.co/qBqhq6cRDi https://t.co/3gQYNyVI8Q</title>
+      <link>https://twitter.com/Facultyopinions/status/1676858523110502400</link>
+      <description>A must-read: Michael Polymenis recommends this “beautiful” paper in @Nature by @iaincheeseman @WhiteheadInst on the effect of CDC20 translational isoforms on #mitosis duration
+
+https://t.co/qBqhq6cRDi https://t.co/3gQYNyVI8Q</description>
+      <content:encoded>A must-read: Michael Polymenis recommends this “beautiful” paper in @Nature by @iaincheeseman @WhiteheadInst on the effect of CDC20 translational isoforms on #mitosis duration
+
+https://t.co/qBqhq6cRDi https://t.co/3gQYNyVI8Q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1676858523110502400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0Vl8LZXwAA-yc1.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 07:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have you ever seen a spiral-like aurora? This photo was taken by photographer Juan Carlos Casado in August 2016 over Thingvallavatn Lake in Iceland, a lake that partly fills a fault that divides Earth's large Eurasian and North American tectonic plates https://t.co/uAXTqnTm9g https://t.co/i8CjJWyJUb</title>
+      <link>https://twitter.com/Rainmaker1973/status/1676863022751424513</link>
+      <description>Have you ever seen a spiral-like aurora? This photo was taken by photographer Juan Carlos Casado in August 2016 over Thingvallavatn Lake in Iceland, a lake that partly fills a fault that divides Earth's large Eurasian and North American tectonic plates https://t.co/uAXTqnTm9g https://t.co/i8CjJWyJUb</description>
+      <content:encoded>Have you ever seen a spiral-like aurora? This photo was taken by photographer Juan Carlos Casado in August 2016 over Thingvallavatn Lake in Iceland, a lake that partly fills a fault that divides Earth's large Eurasian and North American tectonic plates https://t.co/uAXTqnTm9g https://t.co/i8CjJWyJUb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676863022751424513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VqAeUXoAAUH76.jpg" length="455" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 07:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our amazing team of the #DataScience department at the newly founded Hertie Institute for #AI in #BrainHealth - incredibly lucky to be able to work with all of them! @uni_tue @uktuebingen @MedTuebingen @ml4science @Cyber_Valley https://t.co/BFPmHu9TRo</title>
+      <link>https://twitter.com/CellTypist/status/1676863074341474305</link>
+      <description>Our amazing team of the #DataScience department at the newly founded Hertie Institute for #AI in #BrainHealth - incredibly lucky to be able to work with all of them! @uni_tue @uktuebingen @MedTuebingen @ml4science @Cyber_Valley https://t.co/BFPmHu9TRo</description>
+      <content:encoded>Our amazing team of the #DataScience department at the newly founded Hertie Institute for #AI in #BrainHealth - incredibly lucky to be able to work with all of them! @uni_tue @uktuebingen @MedTuebingen @ml4science @Cyber_Valley https://t.co/BFPmHu9TRo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1676863074341474305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VpCv9WIAIS-Yg.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 07:58:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>if you want to become our colleague and lead the #machinelearning department, apply 👇now https://t.co/Ei1qCMGf6t</title>
+      <link>https://twitter.com/CellTypist/status/1676863078036647936</link>
+      <description>if you want to become our colleague and lead the #machinelearning department, apply 👇now https://t.co/Ei1qCMGf6t</description>
+      <content:encoded>if you want to become our colleague and lead the #machinelearning department, apply 👇now https://t.co/Ei1qCMGf6t&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1676863078036647936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 07:58:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DidrikSoderlind: Jeg har bestemt meg for å gjøre som enkelte antitrans-folk og bruke det som skjer i fjøset mitt som modell for mennesk…</title>
+      <link>https://twitter.com/GauteEinevoll/status/1676865333473300481</link>
+      <description>RT @DidrikSoderlind: Jeg har bestemt meg for å gjøre som enkelte antitrans-folk og bruke det som skjer i fjøset mitt som modell for mennesk…</description>
+      <content:encoded>RT @DidrikSoderlind: Jeg har bestemt meg for å gjøre som enkelte antitrans-folk og bruke det som skjer i fjøset mitt som modell for mennesk…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GauteEinevoll/status/1676865333473300481"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 08:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>An @EBRAINS_eu survey about the tools which are used or planned to be used is currently underway. Please participate until July 10!
+
+👉https://t.co/WbXZGTryxL
+
+#BernsteinNetwork #Computational #Neuroscience https://t.co/szM9F2MOoI</title>
+      <link>https://twitter.com/BernsteinNeuro/status/1676866521585287169</link>
+      <description>An @EBRAINS_eu survey about the tools which are used or planned to be used is currently underway. Please participate until July 10!
+
+👉https://t.co/WbXZGTryxL
+
+#BernsteinNetwork #Computational #Neuroscience https://t.co/szM9F2MOoI</description>
+      <content:encoded>An @EBRAINS_eu survey about the tools which are used or planned to be used is currently underway. Please participate until July 10!
+
+👉https://t.co/WbXZGTryxL
+
+#BernsteinNetwork #Computational #Neuroscience https://t.co/szM9F2MOoI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1676866521585287169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0VswaoWIAA7Z22.png" length="1200" type="photo"/>
+      <pubDate>Thu, 06 Jul 2023 08:11:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
