@@ -6,143 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jul 2023 07:16:40 +0000</lastBuildDate>
-    <item>
-      <title>There is a hierarchy of training paradigms: 
-- Architectural: uses general properties of the data to direct the architecture of the learning system.
-- Self-Supervised: can use lots of (raw) data to pre-train a large system to represent the data in a task-independent way.
--… https://t.co/4LeWCdxR0I</title>
-      <link>https://twitter.com/ylecun/status/1676915002060713984</link>
-      <description>There is a hierarchy of training paradigms: 
-- Architectural: uses general properties of the data to direct the architecture of the learning system.
-- Self-Supervised: can use lots of (raw) data to pre-train a large system to represent the data in a task-independent way.
--… https://t.co/4LeWCdxR0I</description>
-      <content:encoded>There is a hierarchy of training paradigms: 
-- Architectural: uses general properties of the data to direct the architecture of the learning system.
-- Self-Supervised: can use lots of (raw) data to pre-train a large system to represent the data in a task-independent way.
--… https://t.co/4LeWCdxR0I&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1676915002060713984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 11:24:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>In this clip, Armenian steel worker Arkady Mgdsyan takes advantage of the Leidenfrost effect
-
-An insulating vapor layer temporarily prevents the molten metal from harming him
-
-[source: https://t.co/J8udOmGVmA ]
-[read more: https://t.co/fbTyIUXZhM]
-https://t.co/RhsztXOvAi</title>
-      <link>https://twitter.com/Rainmaker1973/status/1676915710612652038</link>
-      <description>In this clip, Armenian steel worker Arkady Mgdsyan takes advantage of the Leidenfrost effect
-
-An insulating vapor layer temporarily prevents the molten metal from harming him
-
-[source: https://t.co/J8udOmGVmA ]
-[read more: https://t.co/fbTyIUXZhM]
-https://t.co/RhsztXOvAi</description>
-      <content:encoded>In this clip, Armenian steel worker Arkady Mgdsyan takes advantage of the Leidenfrost effect
-
-An insulating vapor layer temporarily prevents the molten metal from harming him
-
-[source: https://t.co/J8udOmGVmA ]
-[read more: https://t.co/fbTyIUXZhM]
-https://t.co/RhsztXOvAi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676915710612652038"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1413049864993140751/pu/img/rdkdMjyrpiL5nUkL.jpg" length="640" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 11:27:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @gsxej: Would you like to shape the future of connectomics ... even neuroscience? Fresh from finishing the two largest connectomes ever,…</title>
-      <link>https://twitter.com/furthlab/status/1676919775639773188</link>
-      <description>RT @gsxej: Would you like to shape the future of connectomics ... even neuroscience? Fresh from finishing the two largest connectomes ever,…</description>
-      <content:encoded>RT @gsxej: Would you like to shape the future of connectomics ... even neuroscience? Fresh from finishing the two largest connectomes ever,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/furthlab/status/1676919775639773188"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 11:43:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @fedeadolfi: In a new-ish paper with @jeffrey_bowers  and @davidpoeppel we try to paint a nuanced picture of what it looks like, from a…</title>
-      <link>https://twitter.com/martin_a_vinck/status/1676920438851608576</link>
-      <description>RT @fedeadolfi: In a new-ish paper with @jeffrey_bowers  and @davidpoeppel we try to paint a nuanced picture of what it looks like, from a…</description>
-      <content:encoded>RT @fedeadolfi: In a new-ish paper with @jeffrey_bowers  and @davidpoeppel we try to paint a nuanced picture of what it looks like, from a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/martin_a_vinck/status/1676920438851608576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 11:46:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NeuroPolarbear: (Almost) Everything is Everywhere</title>
-      <link>https://twitter.com/KordingLab/status/1676920589099909123</link>
-      <description>RT @NeuroPolarbear: (Almost) Everything is Everywhere</description>
-      <content:encoded>RT @NeuroPolarbear: (Almost) Everything is Everywhere&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1676920589099909123"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 11:46:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>We already have 'prompt engineers' finding the best way to instruct AIs.
-
-In future, will we need psychotherapists to help debug complex AIs?</title>
-      <link>https://twitter.com/Neuro_Skeptic/status/1676924042689871872</link>
-      <description>We already have 'prompt engineers' finding the best way to instruct AIs.
-
-In future, will we need psychotherapists to help debug complex AIs?</description>
-      <content:encoded>We already have 'prompt engineers' finding the best way to instruct AIs.
-
-In future, will we need psychotherapists to help debug complex AIs?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1676924042689871872"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 12:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>In 1988 the U.S. government wanted to know how strong reinforced concrete is (used in nuclear reactors). So they launched an F4 Phantom jet at 500 mph and slammed it head-on directly into a slab of concrete 
-
-[video, read more: https://t.co/O4UzUa2VIZ]
-https://t.co/o0Abc9qXPn</title>
-      <link>https://twitter.com/Rainmaker1973/status/1676924222260609025</link>
-      <description>In 1988 the U.S. government wanted to know how strong reinforced concrete is (used in nuclear reactors). So they launched an F4 Phantom jet at 500 mph and slammed it head-on directly into a slab of concrete 
-
-[video, read more: https://t.co/O4UzUa2VIZ]
-https://t.co/o0Abc9qXPn</description>
-      <content:encoded>In 1988 the U.S. government wanted to know how strong reinforced concrete is (used in nuclear reactors). So they launched an F4 Phantom jet at 500 mph and slammed it head-on directly into a slab of concrete 
-
-[video, read more: https://t.co/O4UzUa2VIZ]
-https://t.co/o0Abc9qXPn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676924222260609025"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1555831535013699586/pu/img/le5333uefgUkZ3_U.jpg" length="480" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 12:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our lives can depend on the weather. How could AI help us predict it? ⛈️
-
-Google DeepMind’s current research is focusing on forecasting out to 10 days to produce results much more accurate than previous models.
-
-Find out more in the @WashingtonPost. ⬇️ https://t.co/OaH4OkzVGc</title>
-      <link>https://twitter.com/DeepMind/status/1676926369966555138</link>
-      <description>Our lives can depend on the weather. How could AI help us predict it? ⛈️
-
-Google DeepMind’s current research is focusing on forecasting out to 10 days to produce results much more accurate than previous models.
-
-Find out more in the @WashingtonPost. ⬇️ https://t.co/OaH4OkzVGc</description>
-      <content:encoded>Our lives can depend on the weather. How could AI help us predict it? ⛈️
-
-Google DeepMind’s current research is focusing on forecasting out to 10 days to produce results much more accurate than previous models.
-
-Find out more in the @WashingtonPost. ⬇️ https://t.co/OaH4OkzVGc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepMind/status/1676926369966555138"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 12:09:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>This what happens when mosquitoes bite you
-
-[📹 science8888: https://t.co/uCcix95vSE]
-https://t.co/Oexltpydoc</title>
-      <link>https://twitter.com/Rainmaker1973/status/1676927247570071556</link>
-      <description>This what happens when mosquitoes bite you
-
-[📹 science8888: https://t.co/uCcix95vSE]
-https://t.co/Oexltpydoc</description>
-      <content:encoded>This what happens when mosquitoes bite you
-
-[📹 science8888: https://t.co/uCcix95vSE]
-https://t.co/Oexltpydoc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676927247570071556"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1675882116825989125/pu/img/EKgIRX3ijq38YSYV.jpg" length="572" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 12:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @rhodamine110: Great piece by @nbompey highlighting how Open Science can drive new discoveries. Lots of cool work from our (@prat_i_k @j…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1676928659419021312</link>
-      <description>RT @rhodamine110: Great piece by @nbompey highlighting how Open Science can drive new discoveries. Lots of cool work from our (@prat_i_k @j…</description>
-      <content:encoded>RT @rhodamine110: Great piece by @nbompey highlighting how Open Science can drive new discoveries. Lots of cool work from our (@prat_i_k @j…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1676928659419021312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 12:18:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jul 2023 08:23:02 +0000</lastBuildDate>
     <item>
       <title>There are currently no ERC grantees based in 🇲🇹Malta. Would you like to change that?
 
@@ -1494,13 +1358,6 @@ In a new #ScienceEditorial, @hholdenthorp speaks with Sean Decatur, president of
       <pubDate>Thu, 06 Jul 2023 21:02:43 +0000</pubDate>
     </item>
     <item>
-      <title>RT @JakeYeston: Also in @ScienceMagazine we’ve got a wild result from @GloriusGroup where they insert an intact 4-membered ring into thioph…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1677067923939119107</link>
-      <description>RT @JakeYeston: Also in @ScienceMagazine we’ve got a wild result from @GloriusGroup where they insert an intact 4-membered ring into thioph…</description>
-      <content:encoded>RT @JakeYeston: Also in @ScienceMagazine we’ve got a wild result from @GloriusGroup where they insert an intact 4-membered ring into thioph…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677067923939119107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 21:32:06 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @goSzoke: Huge shoutout to the creators of MusicGen @MetaAI . Had a lot of fun trying it out and ultimately generating a podcast intro 🤗…</title>
       <link>https://twitter.com/ylecun/status/1677069049010814976</link>
       <description>RT @goSzoke: Huge shoutout to the creators of MusicGen @MetaAI . Had a lot of fun trying it out and ultimately generating a podcast intro 🤗…</description>
@@ -1955,6 +1812,154 @@ Find out more 👉 https://t.co/XrcfE1ShjT
 @Cordis_eu @Sarkar_Lab @FoodSciLeeds @UniversityLeeds #biochemistry #nutrition https://t.co/WrdaxGYCuN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1677210975269978113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677210861457534977/pu/img/Dw22f_ZTvqRwF2et.jpg" length="1200" type="photo"/>
       <pubDate>Fri, 07 Jul 2023 07:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The lobster moth (Stauropus fagi), has an odd-looking caterpillar with a crustacean-like appearance. 
+
+This caterpillar can also shoot formic acid (most commonly found in ant venom) as a defense.
+
+[learn more, video: https://t.co/GChhPaGQ6P]
+https://t.co/5av68nG1zF</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677215258753089541</link>
+      <description>The lobster moth (Stauropus fagi), has an odd-looking caterpillar with a crustacean-like appearance. 
+
+This caterpillar can also shoot formic acid (most commonly found in ant venom) as a defense.
+
+[learn more, video: https://t.co/GChhPaGQ6P]
+https://t.co/5av68nG1zF</description>
+      <content:encoded>The lobster moth (Stauropus fagi), has an odd-looking caterpillar with a crustacean-like appearance. 
+
+This caterpillar can also shoot formic acid (most commonly found in ant venom) as a defense.
+
+[learn more, video: https://t.co/GChhPaGQ6P]
+https://t.co/5av68nG1zF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677215258753089541"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1555415576063143936/pu/img/3wygvohVjVZbqaD5.jpg" length="720" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 07:17:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>So maybe I should conclude no neuro people are using both Twitter AND Mastodon... 😂</title>
+      <link>https://twitter.com/TheBrunoCortex/status/1677215874657427457</link>
+      <description>So maybe I should conclude no neuro people are using both Twitter AND Mastodon... 😂</description>
+      <content:encoded>So maybe I should conclude no neuro people are using both Twitter AND Mastodon... 😂&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1677215874657427457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 07:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An expanding wave of new evaluation methods for grants and academic positions aims to assess applicants more directly on the merits of their research, and to expand the range of activities that researchers get recognition for. https://t.co/qmrLshKUoc @ScienceCareers</title>
+      <link>https://twitter.com/ScienceMagazine/status/1677218399850561536</link>
+      <description>An expanding wave of new evaluation methods for grants and academic positions aims to assess applicants more directly on the merits of their research, and to expand the range of activities that researchers get recognition for. https://t.co/qmrLshKUoc @ScienceCareers</description>
+      <content:encoded>An expanding wave of new evaluation methods for grants and academic positions aims to assess applicants more directly on the merits of their research, and to expand the range of activities that researchers get recognition for. https://t.co/qmrLshKUoc @ScienceCareers&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677218399850561536"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 07:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AryBandung: Wuih keren2 bgt ini anak2 SMA di luar yg dpt penghargaan tertinggi Steven Strogartz untuk project komunikasi matematis 👇👇
+.</title>
+      <link>https://twitter.com/stevenstrogatz/status/1677219689661956096</link>
+      <description>RT @AryBandung: Wuih keren2 bgt ini anak2 SMA di luar yg dpt penghargaan tertinggi Steven Strogartz untuk project komunikasi matematis 👇👇
+.</description>
+      <content:encoded>RT @AryBandung: Wuih keren2 bgt ini anak2 SMA di luar yg dpt penghargaan tertinggi Steven Strogartz untuk project komunikasi matematis 👇👇
+.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/stevenstrogatz/status/1677219689661956096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 07:35:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 Trends in self-citation rates in neuroscience literature  https://t.co/HgeS4T2pPr #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1677219797879119875</link>
+      <description>#PeerReview from @eLife of 👉🏿 Trends in self-citation rates in neuroscience literature  https://t.co/HgeS4T2pPr #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 Trends in self-citation rates in neuroscience literature  https://t.co/HgeS4T2pPr #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677219797879119875"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 07:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 Hippocampal subfield CA1-3 shows differential structural and functional network plasticity after stress-reducing socio-affective mental training  https://t.co/zMJzaT79Rs #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1677219805105987584</link>
+      <description>#PeerReview from @eLife of 👉🏿 Hippocampal subfield CA1-3 shows differential structural and functional network plasticity after stress-reducing socio-affective mental training  https://t.co/zMJzaT79Rs #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 Hippocampal subfield CA1-3 shows differential structural and functional network plasticity after stress-reducing socio-affective mental training  https://t.co/zMJzaT79Rs #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677219805105987584"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 07:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 SNAP25 disease mutations change the energy landscape for synaptic exocytosis due to aberrant SNARE interactions  https://t.co/LRyX95c4VM #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1677219811472834563</link>
+      <description>#PeerReview from @eLife of 👉🏿 SNAP25 disease mutations change the energy landscape for synaptic exocytosis due to aberrant SNARE interactions  https://t.co/LRyX95c4VM #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 SNAP25 disease mutations change the energy landscape for synaptic exocytosis due to aberrant SNARE interactions  https://t.co/LRyX95c4VM #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677219811472834563"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 07:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mass-produced and sold throughout the US as early as the beginning of the 20th century, chicken eyeglasses were intended to prevent feather pecking and cannibalism. Their lenses were mainly rose-colored, to prevent aggressive behavior linked to blood sight https://t.co/UMWBgEi1lL https://t.co/Teip28CaH3</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677220067195461632</link>
+      <description>Mass-produced and sold throughout the US as early as the beginning of the 20th century, chicken eyeglasses were intended to prevent feather pecking and cannibalism. Their lenses were mainly rose-colored, to prevent aggressive behavior linked to blood sight https://t.co/UMWBgEi1lL https://t.co/Teip28CaH3</description>
+      <content:encoded>Mass-produced and sold throughout the US as early as the beginning of the 20th century, chicken eyeglasses were intended to prevent feather pecking and cannibalism. Their lenses were mainly rose-colored, to prevent aggressive behavior linked to blood sight https://t.co/UMWBgEi1lL https://t.co/Teip28CaH3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677220067195461632"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0auqtWWAAAMnnC.jpg" length="296" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 07:36:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traumatic #braininjury and #epilepsy: @helenfernandes1 recommends this new work in @JNNP_BMJ by @PostiJussi @Tku_brain_mind on the risk of traumatic #brain injury in patients with adult-onset epilepsy
+
+https://t.co/6lBJLMa0pq https://t.co/eMYN2YHw34</title>
+      <link>https://twitter.com/Facultyopinions/status/1677220918865670149</link>
+      <description>Traumatic #braininjury and #epilepsy: @helenfernandes1 recommends this new work in @JNNP_BMJ by @PostiJussi @Tku_brain_mind on the risk of traumatic #brain injury in patients with adult-onset epilepsy
+
+https://t.co/6lBJLMa0pq https://t.co/eMYN2YHw34</description>
+      <content:encoded>Traumatic #braininjury and #epilepsy: @helenfernandes1 recommends this new work in @JNNP_BMJ by @PostiJussi @Tku_brain_mind on the risk of traumatic #brain injury in patients with adult-onset epilepsy
+
+https://t.co/6lBJLMa0pq https://t.co/eMYN2YHw34&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1677220918865670149"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0avh7wXwAIBv-_.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 07:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SONAorg: 4 days to go!
+We can't wait! See you at #SONA2023 https://t.co/m74qZZ3NZU
+
+#scientist #research #neurology #neurological https…</title>
+      <link>https://twitter.com/BernsteinNeuro/status/1677224811527905280</link>
+      <description>RT @SONAorg: 4 days to go!
+We can't wait! See you at #SONA2023 https://t.co/m74qZZ3NZU
+
+#scientist #research #neurology #neurological https…</description>
+      <content:encoded>RT @SONAorg: 4 days to go!
+We can't wait! See you at #SONA2023 https://t.co/m74qZZ3NZU
+
+#scientist #research #neurology #neurological https…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1677224811527905280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 07:55:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>The rectangular function and the sinc function are related: one is the Fourier transform of the other 
+
+[read more: https://t.co/YiYQzvC4vD]
+[source of the gif: https://t.co/EhPPZRlE9m] https://t.co/XlrZEMC2xH</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677225282015567877</link>
+      <description>The rectangular function and the sinc function are related: one is the Fourier transform of the other 
+
+[read more: https://t.co/YiYQzvC4vD]
+[source of the gif: https://t.co/EhPPZRlE9m] https://t.co/XlrZEMC2xH</description>
+      <content:encoded>The rectangular function and the sinc function are related: one is the Fourier transform of the other 
+
+[read more: https://t.co/YiYQzvC4vD]
+[source of the gif: https://t.co/EhPPZRlE9m] https://t.co/XlrZEMC2xH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677225282015567877"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F0azdb0XwAAP-an.jpg" length="500" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 07:57:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists @EPFL_en have found that patients recently diagnosed with #Parkinson’s disease and who have early hallucinations are at greater risk of faster #cognitive decline. Read more here https://t.co/tjCqKcmmaR
+#neuroscience https://t.co/fZilxD2M4l</title>
+      <link>https://twitter.com/Scientifica_Int/status/1677225983995256833</link>
+      <description>Scientists @EPFL_en have found that patients recently diagnosed with #Parkinson’s disease and who have early hallucinations are at greater risk of faster #cognitive decline. Read more here https://t.co/tjCqKcmmaR
+#neuroscience https://t.co/fZilxD2M4l</description>
+      <content:encoded>Scientists @EPFL_en have found that patients recently diagnosed with #Parkinson’s disease and who have early hallucinations are at greater risk of faster #cognitive decline. Read more here https://t.co/tjCqKcmmaR
+#neuroscience https://t.co/fZilxD2M4l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1677225983995256833"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0a0JN_WYAAGMgq.jpg" length="1106" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 08:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn how the #brain processes numbers in the new scientific publication of, among others, #BernsteinNetwork member @lab_jacob. Photo: Juli Eberle/TUM
+
+👉https://t.co/9jnoocYyTt https://t.co/CvxrMWMD1Z</title>
+      <link>https://twitter.com/BernsteinNeuro/status/1677229079286755329</link>
+      <description>Learn how the #brain processes numbers in the new scientific publication of, among others, #BernsteinNetwork member @lab_jacob. Photo: Juli Eberle/TUM
+
+👉https://t.co/9jnoocYyTt https://t.co/CvxrMWMD1Z</description>
+      <content:encoded>Learn how the #brain processes numbers in the new scientific publication of, among others, #BernsteinNetwork member @lab_jacob. Photo: Juli Eberle/TUM
+
+👉https://t.co/9jnoocYyTt https://t.co/CvxrMWMD1Z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1677229079286755329"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0a2OQMWYAA8UUc.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 08:12:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
