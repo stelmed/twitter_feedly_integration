@@ -6,152 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jul 2023 13:25:03 +0000</lastBuildDate>
-    <item>
-      <title>By better understanding how cells interact + respond to new environments, molecular biologist Gustavo Silva of @thesilvalab will gain insights on how a cell’s proteins dictate its health https://t.co/0CmLsj9ABQ</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1676986392469970944</link>
-      <description>By better understanding how cells interact + respond to new environments, molecular biologist Gustavo Silva of @thesilvalab will gain insights on how a cell’s proteins dictate its health https://t.co/0CmLsj9ABQ</description>
-      <content:encoded>By better understanding how cells interact + respond to new environments, molecular biologist Gustavo Silva of @thesilvalab will gain insights on how a cell’s proteins dictate its health https://t.co/0CmLsj9ABQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1676986392469970944"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0XaPLMWwAAOsmi.jpg" length="1080" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 16:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @SamJakeEngland: Thought ticks were terrifying? They just got worse. Turns out they can use static electricity ⚡️ to launch through the…</title>
-      <link>https://twitter.com/CurrentBiology/status/1676986473894035456</link>
-      <description>RT @SamJakeEngland: Thought ticks were terrifying? They just got worse. Turns out they can use static electricity ⚡️ to launch through the…</description>
-      <content:encoded>RT @SamJakeEngland: Thought ticks were terrifying? They just got worse. Turns out they can use static electricity ⚡️ to launch through the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CurrentBiology/status/1676986473894035456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 16:08:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do you have a neuroscience abstract you'd like to present? Submit it for Assembly 2023🧠
-
-Join us for investigator-led talks, round-table discussions, tutorials, &amp;amp; hands-on workshops on FAIR neuro!
-
-Learn more: https://t.co/x8uwUtRye8
-Submit an abstract: https://t.co/34eUbMGQWs https://t.co/GuUn3d5HNw</title>
-      <link>https://twitter.com/INCForg/status/1676986613581381637</link>
-      <description>Do you have a neuroscience abstract you'd like to present? Submit it for Assembly 2023🧠
-
-Join us for investigator-led talks, round-table discussions, tutorials, &amp;amp; hands-on workshops on FAIR neuro!
-
-Learn more: https://t.co/x8uwUtRye8
-Submit an abstract: https://t.co/34eUbMGQWs https://t.co/GuUn3d5HNw</description>
-      <content:encoded>Do you have a neuroscience abstract you'd like to present? Submit it for Assembly 2023🧠
-
-Join us for investigator-led talks, round-table discussions, tutorials, &amp;amp; hands-on workshops on FAIR neuro!
-
-Learn more: https://t.co/x8uwUtRye8
-Submit an abstract: https://t.co/34eUbMGQWs https://t.co/GuUn3d5HNw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1676986613581381637"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/FzzXvMAXoAE7edX.jpg" length="1181" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 16:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“in the tail of DNA there are no perfect endings”: @SeretIDirini looks at Mary Armanios’ group’s @HopkinsMedicine investigation in @NEJM into #aging mechanisms and the potentially #cancerous effects of altering #telomere length.
-
-https://t.co/8U4f24vvUf https://t.co/QbGIea6jum</title>
-      <link>https://twitter.com/Facultyopinions/status/1676989395373522948</link>
-      <description>“in the tail of DNA there are no perfect endings”: @SeretIDirini looks at Mary Armanios’ group’s @HopkinsMedicine investigation in @NEJM into #aging mechanisms and the potentially #cancerous effects of altering #telomere length.
-
-https://t.co/8U4f24vvUf https://t.co/QbGIea6jum</description>
-      <content:encoded>“in the tail of DNA there are no perfect endings”: @SeretIDirini looks at Mary Armanios’ group’s @HopkinsMedicine investigation in @NEJM into #aging mechanisms and the potentially #cancerous effects of altering #telomere length.
-
-https://t.co/8U4f24vvUf https://t.co/QbGIea6jum&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1676989395373522948"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0Xc9XrWwAQzJzh.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 16:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Toward reproducible models of sequence learning: replication and analysis of a modular spiking network with reward-based learning: To acquire statistical regularities from the world, the brain must reliably process, and learn… #Neuroscience https://t.co/lmhZbbQg6t</title>
-      <link>https://twitter.com/FrontNeurosci/status/1676989772651429888</link>
-      <description>New Research: Toward reproducible models of sequence learning: replication and analysis of a modular spiking network with reward-based learning: To acquire statistical regularities from the world, the brain must reliably process, and learn… #Neuroscience https://t.co/lmhZbbQg6t</description>
-      <content:encoded>New Research: Toward reproducible models of sequence learning: replication and analysis of a modular spiking network with reward-based learning: To acquire statistical regularities from the world, the brain must reliably process, and learn… #Neuroscience https://t.co/lmhZbbQg6t&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1676989772651429888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 16:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Porcupines' quills take on various forms, but all are modified hairs coated with thick plates of keratin. This video of a couple of porcupines defending their young from a leopard, shows their effectiveness
-
-[📹 https://t.co/DpEKK3rMYN]
-https://t.co/v669DscEUR</title>
-      <link>https://twitter.com/Rainmaker1973/status/1676991215474991105</link>
-      <description>Porcupines' quills take on various forms, but all are modified hairs coated with thick plates of keratin. This video of a couple of porcupines defending their young from a leopard, shows their effectiveness
-
-[📹 https://t.co/DpEKK3rMYN]
-https://t.co/v669DscEUR</description>
-      <content:encoded>Porcupines' quills take on various forms, but all are modified hairs coated with thick plates of keratin. This video of a couple of porcupines defending their young from a leopard, shows their effectiveness
-
-[📹 https://t.co/DpEKK3rMYN]
-https://t.co/v669DscEUR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676991215474991105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1616749047712473090/pu/img/C6x7mjxDkht-0x9_.jpg" length="264" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 16:27:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>"With every educated woman, a new chapter begins—one that empowers future generations and shapes a more inclusive, prosperous, and equitable society for all." #LetterToScience https://t.co/oEYeiITolU</title>
-      <link>https://twitter.com/ScienceMagazine/status/1676991905459052544</link>
-      <description>"With every educated woman, a new chapter begins—one that empowers future generations and shapes a more inclusive, prosperous, and equitable society for all." #LetterToScience https://t.co/oEYeiITolU</description>
-      <content:encoded>"With every educated woman, a new chapter begins—one that empowers future generations and shapes a more inclusive, prosperous, and equitable society for all." #LetterToScience https://t.co/oEYeiITolU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1676991905459052544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 16:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>An analysis reported in @SciReports shows that the highest status individual in ancient Copper Age society in Iberia was a woman, dubbed the 'Ivory Lady,' and not a man as previously thought. https://t.co/CkaPw8ldrw https://t.co/qTJJzxuXQD</title>
-      <link>https://twitter.com/NaturePortfolio/status/1676992675193421825</link>
-      <description>An analysis reported in @SciReports shows that the highest status individual in ancient Copper Age society in Iberia was a woman, dubbed the 'Ivory Lady,' and not a man as previously thought. https://t.co/CkaPw8ldrw https://t.co/qTJJzxuXQD</description>
-      <content:encoded>An analysis reported in @SciReports shows that the highest status individual in ancient Copper Age society in Iberia was a woman, dubbed the 'Ivory Lady,' and not a man as previously thought. https://t.co/CkaPw8ldrw https://t.co/qTJJzxuXQD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1676992675193421825"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0Xf7x6WIAAK78V.jpg" length="1066" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 16:33:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Getting “unconfused” is one of the best ways to learn something new. That’s what my new podcast is all about. https://t.co/fvnnfWd0zn https://t.co/Xppg4AjKAj</title>
-      <link>https://twitter.com/BillGates/status/1676995880782819328</link>
-      <description>Getting “unconfused” is one of the best ways to learn something new. That’s what my new podcast is all about. https://t.co/fvnnfWd0zn https://t.co/Xppg4AjKAj</description>
-      <content:encoded>Getting “unconfused” is one of the best ways to learn something new. That’s what my new podcast is all about. https://t.co/fvnnfWd0zn https://t.co/Xppg4AjKAj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1676995880782819328"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 16:45:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>2D Artist Jesse Martin uses apps like Endless Paper and Apple Pencil, to create illustrations that can be infinitely zoomed in
-
-[more clips: https://t.co/Ek3cL5NQTI]
-https://t.co/ZIoky2Az0n</title>
-      <link>https://twitter.com/Rainmaker1973/status/1676998036256325639</link>
-      <description>2D Artist Jesse Martin uses apps like Endless Paper and Apple Pencil, to create illustrations that can be infinitely zoomed in
-
-[more clips: https://t.co/Ek3cL5NQTI]
-https://t.co/ZIoky2Az0n</description>
-      <content:encoded>2D Artist Jesse Martin uses apps like Endless Paper and Apple Pencil, to create illustrations that can be infinitely zoomed in
-
-[more clips: https://t.co/Ek3cL5NQTI]
-https://t.co/ZIoky2Az0n&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1676998036256325639"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1629076439780986880/pu/img/R0-u9YTAql-Tx0O7.jpg" length="608" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 16:54:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The project you've been working on is finally ready to be published and you want to share your code or designs with the community. Don't forget about including a license in the repo! 
-
-Read about this issue in this week's post on the OB blog:
-https://t.co/nq0DGPKsVz https://t.co/wTgFwt05iW</title>
-      <link>https://twitter.com/OpenBehavior/status/1676998099955220498</link>
-      <description>The project you've been working on is finally ready to be published and you want to share your code or designs with the community. Don't forget about including a license in the repo! 
-
-Read about this issue in this week's post on the OB blog:
-https://t.co/nq0DGPKsVz https://t.co/wTgFwt05iW</description>
-      <content:encoded>The project you've been working on is finally ready to be published and you want to share your code or designs with the community. Don't forget about including a license in the repo! 
-
-Read about this issue in this week's post on the OB blog:
-https://t.co/nq0DGPKsVz https://t.co/wTgFwt05iW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenBehavior/status/1676998099955220498"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0Xkvl7XsAA_3IP.jpg" length="1008" type="photo"/>
-      <pubDate>Thu, 06 Jul 2023 16:54:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>We are partnering with @curvenote to make scholarly publishing better! 🤝
-
-Come join us! https://t.co/4SdprMkGVi</title>
-      <link>https://twitter.com/neuromatch/status/1676998557029797888</link>
-      <description>We are partnering with @curvenote to make scholarly publishing better! 🤝
-
-Come join us! https://t.co/4SdprMkGVi</description>
-      <content:encoded>We are partnering with @curvenote to make scholarly publishing better! 🤝
-
-Come join us! https://t.co/4SdprMkGVi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuromatch/status/1676998557029797888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 06 Jul 2023 16:56:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jul 2023 14:16:23 +0000</lastBuildDate>
     <item>
       <title>Congratulations Ritchie! https://t.co/W3ql3la1BZ</title>
       <link>https://twitter.com/KarlDeisseroth/status/1676998724369940480</link>
@@ -747,6 +602,13 @@ In a new #ScienceEditorial, @hholdenthorp speaks with Sean Decatur, president of
       <content:encoded>Bethesda fountain from the boathouse in Central Park https://t.co/GoIt8cfilx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/prerana123/status/1677060529158799360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0YdptlXoAEwkJO.jpg" length="1200" type="photo"/>
       <pubDate>Thu, 06 Jul 2023 21:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JakeYeston: Also in @ScienceMagazine we’ve got a wild result from @GloriusGroup where they insert an intact 4-membered ring into thioph…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1677067923939119107</link>
+      <description>RT @JakeYeston: Also in @ScienceMagazine we’ve got a wild result from @GloriusGroup where they insert an intact 4-membered ring into thioph…</description>
+      <content:encoded>RT @JakeYeston: Also in @ScienceMagazine we’ve got a wild result from @GloriusGroup where they insert an intact 4-membered ring into thioph…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677067923939119107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 06 Jul 2023 21:32:06 +0000</pubDate>
     </item>
     <item>
       <title>RT @goSzoke: Huge shoutout to the creators of MusicGen @MetaAI . Had a lot of fun trying it out and ultimately generating a podcast intro 🤗…</title>
@@ -2172,6 +2034,195 @@ https://t.co/Av36EXzump</description>
 https://t.co/Av36EXzump&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677305932789829633"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1676861782529564674/img/-6qduXwixn4rxyDL.jpg" length="675" type="photo"/>
       <pubDate>Fri, 07 Jul 2023 13:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @GallowayLabMIT: Github is to Code as @Addgene is to DNA...
+
+but the simulator still seems cool ;)</title>
+      <link>https://twitter.com/Addgene/status/1677308508117639169</link>
+      <description>RT @GallowayLabMIT: Github is to Code as @Addgene is to DNA...
+
+but the simulator still seems cool ;)</description>
+      <content:encoded>RT @GallowayLabMIT: Github is to Code as @Addgene is to DNA...
+
+but the simulator still seems cool ;)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1677308508117639169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:28:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @alanrpacheco: Thrilled to share our latest work, in which we use metabolic models and ecological metrics to predict microbial interacti…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1677308639453802497</link>
+      <description>RT @alanrpacheco: Thrilled to share our latest work, in which we use metabolic models and ecological metrics to predict microbial interacti…</description>
+      <content:encoded>RT @alanrpacheco: Thrilled to share our latest work, in which we use metabolic models and ecological metrics to predict microbial interacti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677308639453802497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:28:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ConstiZo: Climate change is shifting growing seasons, but how will it affect autumn leaf senescence in northern forests? More than exci…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1677308837785640960</link>
+      <description>RT @ConstiZo: Climate change is shifting growing seasons, but how will it affect autumn leaf senescence in northern forests? More than exci…</description>
+      <content:encoded>RT @ConstiZo: Climate change is shifting growing seasons, but how will it affect autumn leaf senescence in northern forests? More than exci…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677308837785640960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:29:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>HHMI Investigator Dominique Bergmann &amp;amp; @Stanford &amp;amp; @UCSanDiego researchers found that plant &amp;amp; animal stem cells both rely on the cytoskeleton to divide properly, but in opposite ways. The group's work could help scientists engineer more resilient plants: https://t.co/DWXwGOwyfZ</title>
+      <link>https://twitter.com/HHMINEWS/status/1677308987400658945</link>
+      <description>HHMI Investigator Dominique Bergmann &amp;amp; @Stanford &amp;amp; @UCSanDiego researchers found that plant &amp;amp; animal stem cells both rely on the cytoskeleton to divide properly, but in opposite ways. The group's work could help scientists engineer more resilient plants: https://t.co/DWXwGOwyfZ</description>
+      <content:encoded>HHMI Investigator Dominique Bergmann &amp;amp; @Stanford &amp;amp; @UCSanDiego researchers found that plant &amp;amp; animal stem cells both rely on the cytoskeleton to divide properly, but in opposite ways. The group's work could help scientists engineer more resilient plants: https://t.co/DWXwGOwyfZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMINEWS/status/1677308987400658945"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @GloriusFrank: Our work describing Structural Editing of heterocyclic aromatic rings (thiophene) by insertion of cyclobutanes (from BCBs…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1677309062902317056</link>
+      <description>RT @GloriusFrank: Our work describing Structural Editing of heterocyclic aromatic rings (thiophene) by insertion of cyclobutanes (from BCBs…</description>
+      <content:encoded>RT @GloriusFrank: Our work describing Structural Editing of heterocyclic aromatic rings (thiophene) by insertion of cyclobutanes (from BCBs…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677309062902317056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>In the latest #SciencePodcast🎙️, @boron110 and @bannelia discuss a new worldwide survey that busts the long-standing myth that in our deep past, virtually all hunters were men and women tended to be gatherers.
+
+🎧 Listen here: https://t.co/VSYGFs7gXq https://t.co/fqCBgtngUj</title>
+      <link>https://twitter.com/ScienceMagazine/status/1677309063720304642</link>
+      <description>In the latest #SciencePodcast🎙️, @boron110 and @bannelia discuss a new worldwide survey that busts the long-standing myth that in our deep past, virtually all hunters were men and women tended to be gatherers.
+
+🎧 Listen here: https://t.co/VSYGFs7gXq https://t.co/fqCBgtngUj</description>
+      <content:encoded>In the latest #SciencePodcast🎙️, @boron110 and @bannelia discuss a new worldwide survey that busts the long-standing myth that in our deep past, virtually all hunters were men and women tended to be gatherers.
+
+🎧 Listen here: https://t.co/VSYGFs7gXq https://t.co/fqCBgtngUj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677309063720304642"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677309026013442055/pu/img/ZY6HCf4uP9n71Vvw.jpg" length="1080" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 13:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @GiraldezLab: 🔬🧬 Excited to share our latest study https://t.co/kb3GfMrK32 @ScienceMagazine developing  ChromExM which uses expansion mi…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1677309198344900610</link>
+      <description>RT @GiraldezLab: 🔬🧬 Excited to share our latest study https://t.co/kb3GfMrK32 @ScienceMagazine developing  ChromExM which uses expansion mi…</description>
+      <content:encoded>RT @GiraldezLab: 🔬🧬 Excited to share our latest study https://t.co/kb3GfMrK32 @ScienceMagazine developing  ChromExM which uses expansion mi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677309198344900610"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @godwin_france: Let's meet at our community event
+
+🔗 https://t.co/FvNV5pRUD5
+
+@DeepLearningAI_
+
+#AI  #Accra #Ho #Ghana #artificalintelli…</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1677309970172325889</link>
+      <description>RT @godwin_france: Let's meet at our community event
+
+🔗 https://t.co/FvNV5pRUD5
+
+@DeepLearningAI_
+
+#AI  #Accra #Ho #Ghana #artificalintelli…</description>
+      <content:encoded>RT @godwin_france: Let's meet at our community event
+
+🔗 https://t.co/FvNV5pRUD5
+
+@DeepLearningAI_
+
+#AI  #Accra #Ho #Ghana #artificalintelli…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1677309970172325889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:33:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The height of the waves in Praia do Norte, Nazaré, Portugal, is massive: it can reach 35 meters [read more: https://t.co/sYPzW4aGlC]. 
+
+This is Sebastian Steudtner riding a huge wave on January 18, 2018 [full video: https://t.co/8IuwTppAmK]
+https://t.co/teschZj1ss</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677311277993979908</link>
+      <description>The height of the waves in Praia do Norte, Nazaré, Portugal, is massive: it can reach 35 meters [read more: https://t.co/sYPzW4aGlC]. 
+
+This is Sebastian Steudtner riding a huge wave on January 18, 2018 [full video: https://t.co/8IuwTppAmK]
+https://t.co/teschZj1ss</description>
+      <content:encoded>The height of the waves in Praia do Norte, Nazaré, Portugal, is massive: it can reach 35 meters [read more: https://t.co/sYPzW4aGlC]. 
+
+This is Sebastian Steudtner riding a huge wave on January 18, 2018 [full video: https://t.co/8IuwTppAmK]
+https://t.co/teschZj1ss&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677311277993979908"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1090005545887678469/pu/img/fPO76WeWFy3XdIWQ.jpg" length="480" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 13:39:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hugely honoured to be recognised by the @GairdnerAwards alongside John Jumper and on behalf of the entire @DeepMind team for our work in creating #AlphaFold and the impact it has had https://t.co/ifdO0v1tSz</title>
+      <link>https://twitter.com/demishassabis/status/1677314323906023432</link>
+      <description>Hugely honoured to be recognised by the @GairdnerAwards alongside John Jumper and on behalf of the entire @DeepMind team for our work in creating #AlphaFold and the impact it has had https://t.co/ifdO0v1tSz</description>
+      <content:encoded>Hugely honoured to be recognised by the @GairdnerAwards alongside John Jumper and on behalf of the entire @DeepMind team for our work in creating #AlphaFold and the impact it has had https://t.co/ifdO0v1tSz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/demishassabis/status/1677314323906023432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taking Theo Jansen's linkage and its Strandbeest as a starting point, Californian collective CARV has created the walking bicycle, a symbiosis of bike and walking robotic creature
+
+[📹 garden house sara]
+https://t.co/vrkS8Iy3Fj</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677314902195597312</link>
+      <description>Taking Theo Jansen's linkage and its Strandbeest as a starting point, Californian collective CARV has created the walking bicycle, a symbiosis of bike and walking robotic creature
+
+[📹 garden house sara]
+https://t.co/vrkS8Iy3Fj</description>
+      <content:encoded>Taking Theo Jansen's linkage and its Strandbeest as a starting point, Californian collective CARV has created the walking bicycle, a symbiosis of bike and walking robotic creature
+
+[📹 garden house sara]
+https://t.co/vrkS8Iy3Fj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677314902195597312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1676505494171836416/pu/img/q0-M6fzF8I9AJI8A.jpg" length="675" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 13:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Summer break. See you in September! https://t.co/rUwuZDnjm2</title>
+      <link>https://twitter.com/andpru/status/1677315667693846528</link>
+      <description>Summer break. See you in September! https://t.co/rUwuZDnjm2</description>
+      <content:encoded>Summer break. See you in September! https://t.co/rUwuZDnjm2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1677315667693846528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New kit alert! 
+This Golden Gate standards kit is a positive control for high complexity Golden Gate assembly. 
+https://t.co/WOGW1DB3LU https://t.co/9yJHzxV9ZJ</title>
+      <link>https://twitter.com/Addgene/status/1677317295805284355</link>
+      <description>New kit alert! 
+This Golden Gate standards kit is a positive control for high complexity Golden Gate assembly. 
+https://t.co/WOGW1DB3LU https://t.co/9yJHzxV9ZJ</description>
+      <content:encoded>New kit alert! 
+This Golden Gate standards kit is a positive control for high complexity Golden Gate assembly. 
+https://t.co/WOGW1DB3LU https://t.co/9yJHzxV9ZJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1677317295805284355"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0cHMTRXwAI1f47.jpg" length="1000" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 14:03:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anti-Neuregulin-CRD [N126B/31R]
+DEPOSITING LAB: James Trimmer
+PURPOSE: Anti-Neuregulin-CRD (Cysteine-rich domain, Type III) (Human) recombinant mouse monoclonal antibody
+
+https://t.co/LD72tfV5AL https://t.co/WAbt5TnwvC</title>
+      <link>https://twitter.com/Addgene/status/1677317307310174209</link>
+      <description>Anti-Neuregulin-CRD [N126B/31R]
+DEPOSITING LAB: James Trimmer
+PURPOSE: Anti-Neuregulin-CRD (Cysteine-rich domain, Type III) (Human) recombinant mouse monoclonal antibody
+
+https://t.co/LD72tfV5AL https://t.co/WAbt5TnwvC</description>
+      <content:encoded>Anti-Neuregulin-CRD [N126B/31R]
+DEPOSITING LAB: James Trimmer
+PURPOSE: Anti-Neuregulin-CRD (Cysteine-rich domain, Type III) (Human) recombinant mouse monoclonal antibody
+
+https://t.co/LD72tfV5AL https://t.co/WAbt5TnwvC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1677317307310174209"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F0cHMY-XoAMP2Ox.jpg" length="480" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 14:03:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>While at Cat Lake, British Columbia, XYSM, a DJ from Vancouver realized that every time he played a loud note on his guitar, the insects populating the lake's water, reacted to the sound
+
+[read more: https://t.co/pzt46Polgf]
+[📹: https://t.co/si0HQ7daJF]
+https://t.co/AVSjwQfG4q</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677318825161654272</link>
+      <description>While at Cat Lake, British Columbia, XYSM, a DJ from Vancouver realized that every time he played a loud note on his guitar, the insects populating the lake's water, reacted to the sound
+
+[read more: https://t.co/pzt46Polgf]
+[📹: https://t.co/si0HQ7daJF]
+https://t.co/AVSjwQfG4q</description>
+      <content:encoded>While at Cat Lake, British Columbia, XYSM, a DJ from Vancouver realized that every time he played a loud note on his guitar, the insects populating the lake's water, reacted to the sound
+
+[read more: https://t.co/pzt46Polgf]
+[📹: https://t.co/si0HQ7daJF]
+https://t.co/AVSjwQfG4q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677318825161654272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1554973907152683010/pu/img/eUUaK9dt8ZK5Rl-s.jpg" length="406" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 14:09:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
