@@ -6,21 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 21:14:32 +0000</lastBuildDate>
-    <item>
-      <title>Individual differences in spatial working memory strategies differentially reflected in the engagement of control and default brain ...  https://t.co/CrDgUlEoQq #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1677396552061448192</link>
-      <description>Individual differences in spatial working memory strategies differentially reflected in the engagement of control and default brain ...  https://t.co/CrDgUlEoQq #biorxiv_neursci</description>
-      <content:encoded>Individual differences in spatial working memory strategies differentially reflected in the engagement of control and default brain ...  https://t.co/CrDgUlEoQq #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677396552061448192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 19:17:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cell-type specific optogenetic fMRI on basal forebrain reveals functional network basis of behavioral preference  https://t.co/PosatTDAdy #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1677396627948969994</link>
-      <description>Cell-type specific optogenetic fMRI on basal forebrain reveals functional network basis of behavioral preference  https://t.co/PosatTDAdy #biorxiv_neursci</description>
-      <content:encoded>Cell-type specific optogenetic fMRI on basal forebrain reveals functional network basis of behavioral preference  https://t.co/PosatTDAdy #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677396627948969994"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 19:18:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Jul 2023 22:15:48 +0000</lastBuildDate>
     <item>
       <title>Mental fatigue has only marginal effects on static balance control in healthy young adults  https://t.co/EZzNnxpG70 #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1677396767925477390</link>
@@ -1873,6 +1859,20 @@ Op…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sof
       <content:encoded>A paper in @Nature reports on how an engineered minimal cell contends with the forces of evolution compared with the Mycoplasma mycoides non-minimal cell from which it was synthetically derived. https://t.co/6zUZm1S3Bn https://t.co/X5F0WwFI1N&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1677782126740078592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0it76FXoAAx1pG.jpg" length="1066" type="photo"/>
       <pubDate>Sat, 08 Jul 2023 20:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proteomics and phosphoproteomics profiling in glutamatergic neurons and microglia in an iPSC model of Jansen de Vries Syndrome  https://t.co/kGOc3l70YZ #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1677788668612825090</link>
+      <description>Proteomics and phosphoproteomics profiling in glutamatergic neurons and microglia in an iPSC model of Jansen de Vries Syndrome  https://t.co/kGOc3l70YZ #biorxiv_neursci</description>
+      <content:encoded>Proteomics and phosphoproteomics profiling in glutamatergic neurons and microglia in an iPSC model of Jansen de Vries Syndrome  https://t.co/kGOc3l70YZ #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677788668612825090"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 08 Jul 2023 21:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @llanga: Wow. @Meta commits to dedicate three engineer-years to implement the removal of the GIL from #Python and fix upcoming compatibi…</title>
+      <link>https://twitter.com/sofroniewn/status/1677795810610913282</link>
+      <description>RT @llanga: Wow. @Meta commits to dedicate three engineer-years to implement the removal of the GIL from #Python and fix upcoming compatibi…</description>
+      <content:encoded>RT @llanga: Wow. @Meta commits to dedicate three engineer-years to implement the removal of the GIL from #Python and fix upcoming compatibi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1677795810610913282"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 08 Jul 2023 21:44:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
