@@ -6,7 +6,21 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 04:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2023 05:16:32 +0000</lastBuildDate>
+    <item>
+      <title>This classic experiment takes advantage of the food coating and sugar of Skittles to produce a beautiful mandala-like pattern
+
+[read more: https://t.co/afLqrbIvph] https://t.co/TGU9IiQJet</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677291566568751107</link>
+      <description>This classic experiment takes advantage of the food coating and sugar of Skittles to produce a beautiful mandala-like pattern
+
+[read more: https://t.co/afLqrbIvph] https://t.co/TGU9IiQJet</description>
+      <content:encoded>This classic experiment takes advantage of the food coating and sugar of Skittles to produce a beautiful mandala-like pattern
+
+[read more: https://t.co/afLqrbIvph] https://t.co/TGU9IiQJet&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677291566568751107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677290593355964417/pu/img/7romXaAdZMyHBL4i.jpg" length="766" type="photo"/>
+      <pubDate>Fri, 07 Jul 2023 12:20:46 +0000</pubDate>
+    </item>
     <item>
       <title>That time a drawing instructor made a chalk drawing on a horse to show the articulation of a horse's skeleton
 
@@ -422,13 +436,6 @@ but the simulator still seems cool ;)&lt;blockquote class="twitter-tweet"&gt;&lt
       <description>RT @alanrpacheco: Thrilled to share our latest work, in which we use metabolic models and ecological metrics to predict microbial interacti…</description>
       <content:encoded>RT @alanrpacheco: Thrilled to share our latest work, in which we use metabolic models and ecological metrics to predict microbial interacti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677308639453802497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 07 Jul 2023 13:28:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @ConstiZo: Climate change is shifting growing seasons, but how will it affect autumn leaf senescence in northern forests? More than exci…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1677308837785640960</link>
-      <description>RT @ConstiZo: Climate change is shifting growing seasons, but how will it affect autumn leaf senescence in northern forests? More than exci…</description>
-      <content:encoded>RT @ConstiZo: Climate change is shifting growing seasons, but how will it affect autumn leaf senescence in northern forests? More than exci…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677308837785640960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 13:29:24 +0000</pubDate>
     </item>
     <item>
       <title>HHMI Investigator Dominique Bergmann &amp;amp; @Stanford &amp;amp; @UCSanDiego researchers found that plant &amp;amp; animal stem cells both rely on the cytoskeleton to divide properly, but in opposite ways. The group's work could help scientists engineer more resilient plants: https://t.co/DWXwGOwyfZ</title>
