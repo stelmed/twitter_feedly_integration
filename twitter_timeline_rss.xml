@@ -6,133 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 15:17:01 +0000</lastBuildDate>
-    <item>
-      <title>Have you ever wondered why zombies are so obsessed with eating brains? In Do Zombies Dream of Undead Sheep?, two neuroscientists closely examine these creatures and discuss what is happening to their nervous system to produce the classic idea of a zombie.
-https://t.co/g5prvT2ec5</title>
-      <link>https://twitter.com/KnowingNeurons/status/1677347521767563265</link>
-      <description>Have you ever wondered why zombies are so obsessed with eating brains? In Do Zombies Dream of Undead Sheep?, two neuroscientists closely examine these creatures and discuss what is happening to their nervous system to produce the classic idea of a zombie.
-https://t.co/g5prvT2ec5</description>
-      <content:encoded>Have you ever wondered why zombies are so obsessed with eating brains? In Do Zombies Dream of Undead Sheep?, two neuroscientists closely examine these creatures and discuss what is happening to their nervous system to produce the classic idea of a zombie.
-https://t.co/g5prvT2ec5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KnowingNeurons/status/1677347521767563265"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 16:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who should I follow on the 🧵s app?</title>
-      <link>https://twitter.com/patrickmineault/status/1677349628532998146</link>
-      <description>Who should I follow on the 🧵s app?</description>
-      <content:encoded>Who should I follow on the 🧵s app?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1677349628532998146"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 16:11:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The saddleback caterpillar has tubercles that contain threatening hollow spines connected to a gland that secretes venom that, when broken, is released into predators  
-
-[read more: https://t.co/D1cQOvvI5e]
-https://t.co/hvlMT1kZ94</title>
-      <link>https://twitter.com/Rainmaker1973/status/1677350739897724929</link>
-      <description>The saddleback caterpillar has tubercles that contain threatening hollow spines connected to a gland that secretes venom that, when broken, is released into predators  
-
-[read more: https://t.co/D1cQOvvI5e]
-https://t.co/hvlMT1kZ94</description>
-      <content:encoded>The saddleback caterpillar has tubercles that contain threatening hollow spines connected to a gland that secretes venom that, when broken, is released into predators  
-
-[read more: https://t.co/D1cQOvvI5e]
-https://t.co/hvlMT1kZ94&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677350739897724929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1554544557970309122/pu/img/oejOHpZwUkqFEtol.jpg" length="460" type="photo"/>
-      <pubDate>Fri, 07 Jul 2023 16:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mimi1inh: Packed house for the Advanced Topics in #CryoEM &amp;amp; #CryoET Workshop today #ACA2023!!!
-
-Awesome #CryoEM  line-up this morning,…</title>
-      <link>https://twitter.com/FitzpatrickLab/status/1677351493563711488</link>
-      <description>RT @mimi1inh: Packed house for the Advanced Topics in #CryoEM &amp;amp; #CryoET Workshop today #ACA2023!!!
-
-Awesome #CryoEM  line-up this morning,…</description>
-      <content:encoded>RT @mimi1inh: Packed house for the Advanced Topics in #CryoEM &amp;amp; #CryoET Workshop today #ACA2023!!!
-
-Awesome #CryoEM  line-up this morning,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1677351493563711488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 16:18:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>#IntermittentFasting &amp;amp; the liver: Malcolm Alison recommends this paper by Sarkar A et al. @StanfordMed published in @eLife that provides an example of the dietary influence on adult #hepatocyte proliferation.
-
-https://t.co/Ig7aHEeBvx https://t.co/DqxQVXzSM5</title>
-      <link>https://twitter.com/Facultyopinions/status/1677351774464757766</link>
-      <description>#IntermittentFasting &amp;amp; the liver: Malcolm Alison recommends this paper by Sarkar A et al. @StanfordMed published in @eLife that provides an example of the dietary influence on adult #hepatocyte proliferation.
-
-https://t.co/Ig7aHEeBvx https://t.co/DqxQVXzSM5</description>
-      <content:encoded>#IntermittentFasting &amp;amp; the liver: Malcolm Alison recommends this paper by Sarkar A et al. @StanfordMed published in @eLife that provides an example of the dietary influence on adult #hepatocyte proliferation.
-
-https://t.co/Ig7aHEeBvx https://t.co/DqxQVXzSM5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Facultyopinions/status/1677351774464757766"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0cmjK9WcAIlyFy.jpg" length="764" type="photo"/>
-      <pubDate>Fri, 07 Jul 2023 16:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Bidirectional recurrent learning of inverse dynamic models for robots with elastic joints: a real-time real-world implementation: Collaborative robots, or cobots, are designed to work alongside humans and to alleviate their… #Neurorobotics https://t.co/mPzkQhmjqD</title>
-      <link>https://twitter.com/FrontNeurosci/status/1677352163281113089</link>
-      <description>New Research: Bidirectional recurrent learning of inverse dynamic models for robots with elastic joints: a real-time real-world implementation: Collaborative robots, or cobots, are designed to work alongside humans and to alleviate their… #Neurorobotics https://t.co/mPzkQhmjqD</description>
-      <content:encoded>New Research: Bidirectional recurrent learning of inverse dynamic models for robots with elastic joints: a real-time real-world implementation: Collaborative robots, or cobots, are designed to work alongside humans and to alleviate their… #Neurorobotics https://t.co/mPzkQhmjqD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1677352163281113089"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 16:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Machines like Pomac COSMO 45 are thought for tomato harvesting automation. They collect through 45 channels, sort, and transports for shipment 
-
-[video: https://t.co/8DPw8TpHuw]
-https://t.co/Hp3ly4I4MM</title>
-      <link>https://twitter.com/Rainmaker1973/status/1677352891886051335</link>
-      <description>Machines like Pomac COSMO 45 are thought for tomato harvesting automation. They collect through 45 channels, sort, and transports for shipment 
-
-[video: https://t.co/8DPw8TpHuw]
-https://t.co/Hp3ly4I4MM</description>
-      <content:encoded>Machines like Pomac COSMO 45 are thought for tomato harvesting automation. They collect through 45 channels, sort, and transports for shipment 
-
-[video: https://t.co/8DPw8TpHuw]
-https://t.co/Hp3ly4I4MM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677352891886051335"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677283515145261056/pu/img/fN_CAKokTWopah4L.jpg" length="406" type="photo"/>
-      <pubDate>Fri, 07 Jul 2023 16:24:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New blog post: "Leaving Science in a Better State Than They Found It: How the Campsite Rule Motivates Scientists to Learn About #Reproducibility" by April Clyburne-Sherin, co-founder of @repro4everyone and part of the @comm4rigor team! Read here: https://t.co/ruJ6bI3vGC https://t.co/P6O3hMRLAf</title>
-      <link>https://twitter.com/comm4rigor/status/1677353672987090961</link>
-      <description>New blog post: "Leaving Science in a Better State Than They Found It: How the Campsite Rule Motivates Scientists to Learn About #Reproducibility" by April Clyburne-Sherin, co-founder of @repro4everyone and part of the @comm4rigor team! Read here: https://t.co/ruJ6bI3vGC https://t.co/P6O3hMRLAf</description>
-      <content:encoded>New blog post: "Leaving Science in a Better State Than They Found It: How the Campsite Rule Motivates Scientists to Learn About #Reproducibility" by April Clyburne-Sherin, co-founder of @repro4everyone and part of the @comm4rigor team! Read here: https://t.co/ruJ6bI3vGC https://t.co/P6O3hMRLAf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/comm4rigor/status/1677353672987090961"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 16:27:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new study with implications for one of the most important unresolved questions in physics—the imbalance of matter and antimatter in our universe—reports “the most precise measurement yet” of the size of the electron’s permanent electric dipole moment. https://t.co/qYkYAF4N1J https://t.co/yymPeGDAYt</title>
-      <link>https://twitter.com/ScienceMagazine/status/1677354338203705348</link>
-      <description>A new study with implications for one of the most important unresolved questions in physics—the imbalance of matter and antimatter in our universe—reports “the most precise measurement yet” of the size of the electron’s permanent electric dipole moment. https://t.co/qYkYAF4N1J https://t.co/yymPeGDAYt</description>
-      <content:encoded>A new study with implications for one of the most important unresolved questions in physics—the imbalance of matter and antimatter in our universe—reports “the most precise measurement yet” of the size of the electron’s permanent electric dipole moment. https://t.co/qYkYAF4N1J https://t.co/yymPeGDAYt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677354338203705348"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0co4ZsWYAEgy2Y.jpg" length="900" type="photo"/>
-      <pubDate>Fri, 07 Jul 2023 16:30:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jm_mightypirate: If you want to avoid re-inventing the wheel you need to make sure that the existing wheels fit your vehicle! 
-Interact…</title>
-      <link>https://twitter.com/sofroniewn/status/1677355153232633857</link>
-      <description>RT @jm_mightypirate: If you want to avoid re-inventing the wheel you need to make sure that the existing wheels fit your vehicle! 
-Interact…</description>
-      <content:encoded>RT @jm_mightypirate: If you want to avoid re-inventing the wheel you need to make sure that the existing wheels fit your vehicle! 
-Interact…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1677355153232633857"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 16:33:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Myelin is widely believed to protect axons from damage in multiple sclerosis. A study in @NatureNeuro challenges this view and finds that myelin insulation renders axons more vulnerable to degeneration in an autoimmune environment. https://t.co/UMKiYwBsS5 https://t.co/no4hZDFnBc</title>
-      <link>https://twitter.com/NaturePortfolio/status/1677355818113540100</link>
-      <description>Myelin is widely believed to protect axons from damage in multiple sclerosis. A study in @NatureNeuro challenges this view and finds that myelin insulation renders axons more vulnerable to degeneration in an autoimmune environment. https://t.co/UMKiYwBsS5 https://t.co/no4hZDFnBc</description>
-      <content:encoded>Myelin is widely believed to protect axons from damage in multiple sclerosis. A study in @NatureNeuro challenges this view and finds that myelin insulation renders axons more vulnerable to degeneration in an autoimmune environment. https://t.co/UMKiYwBsS5 https://t.co/no4hZDFnBc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1677355818113540100"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0cqNd2WAAIT9w6.jpg" length="1000" type="photo"/>
-      <pubDate>Fri, 07 Jul 2023 16:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>We were delighted to hear that Polina Danilina who did her project under the day to day supervision of Florida Szabo in the Molnár Lab was the winner of the oral presentation category of The Oxford University Clinical Research Society (OUCRS) FHS and Student Research Symposium. https://t.co/VSuadF5L4K</title>
-      <link>https://twitter.com/ZoltanMolnar64/status/1677356194539741189</link>
-      <description>We were delighted to hear that Polina Danilina who did her project under the day to day supervision of Florida Szabo in the Molnár Lab was the winner of the oral presentation category of The Oxford University Clinical Research Society (OUCRS) FHS and Student Research Symposium. https://t.co/VSuadF5L4K</description>
-      <content:encoded>We were delighted to hear that Polina Danilina who did her project under the day to day supervision of Florida Szabo in the Molnár Lab was the winner of the oral presentation category of The Oxford University Clinical Research Society (OUCRS) FHS and Student Research Symposium. https://t.co/VSuadF5L4K&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ZoltanMolnar64/status/1677356194539741189"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0cqNBHXoAUUSXe.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 07 Jul 2023 16:37:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Jul 2023 16:22:09 +0000</lastBuildDate>
     <item>
       <title>#PrecisionHealth &amp;gt; One-size-fits-all
 
@@ -1879,6 +1753,119 @@ h…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Pess
       <content:encoded>Researchers have provided the most unbiased and comprehensive molecular atlas of human brain vasculature in Alzheimer’s disease at single-cell resolution and across multiple brain regions. https://t.co/4FzwLqfVfS https://t.co/yVyTweZQqe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1677695336758878208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0hfBI0X0AEqkHH.png" length="900" type="photo"/>
       <pubDate>Sat, 08 Jul 2023 15:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>In order to avoid expensive irrigation systems, this farmer lifted the spraying pipes using hydrogen balloons 
+
+https://t.co/7LfBcZ7IsE</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677701283312988162</link>
+      <description>In order to avoid expensive irrigation systems, this farmer lifted the spraying pipes using hydrogen balloons 
+
+https://t.co/7LfBcZ7IsE</description>
+      <content:encoded>In order to avoid expensive irrigation systems, this farmer lifted the spraying pipes using hydrogen balloons 
+
+https://t.co/7LfBcZ7IsE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677701283312988162"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1556671424022315009/pu/img/M3hI4Hi2N3PcH5Gj.jpg" length="404" type="photo"/>
+      <pubDate>Sat, 08 Jul 2023 15:28:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The findings of a study published in @NatureMedicine raise the possibility that a universal transcriptional signature of clinically effective, persistent CD19 CAR-T cells exists. https://t.co/9ToK8tdcS9 https://t.co/b5gqMMZ34q</title>
+      <link>https://twitter.com/NaturePortfolio/status/1677701344319229952</link>
+      <description>The findings of a study published in @NatureMedicine raise the possibility that a universal transcriptional signature of clinically effective, persistent CD19 CAR-T cells exists. https://t.co/9ToK8tdcS9 https://t.co/b5gqMMZ34q</description>
+      <content:encoded>The findings of a study published in @NatureMedicine raise the possibility that a universal transcriptional signature of clinically effective, persistent CD19 CAR-T cells exists. https://t.co/9ToK8tdcS9 https://t.co/b5gqMMZ34q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1677701344319229952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0hkdvsWYAA3JPi.jpg" length="1000" type="photo"/>
+      <pubDate>Sat, 08 Jul 2023 15:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un bel libro, finalmente la versione italiana 💯 https://t.co/PPQcvdPc7r</title>
+      <link>https://twitter.com/manlius84/status/1677702198631735296</link>
+      <description>Un bel libro, finalmente la versione italiana 💯 https://t.co/PPQcvdPc7r</description>
+      <content:encoded>Un bel libro, finalmente la versione italiana 💯 https://t.co/PPQcvdPc7r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1677702198631735296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 08 Jul 2023 15:32:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>@manlius84 thank you Manlio!</title>
+      <link>https://twitter.com/PessoaBrain/status/1677703783101374464</link>
+      <description>@manlius84 thank you Manlio!</description>
+      <content:encoded>@manlius84 thank you Manlio!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1677703783101374464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 08 Jul 2023 15:38:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧪Scientists are creating Janelia Fluor dyes that can act as linkers for other ligands, using them to see brain-wide turnover of proteins &amp;amp; deploying them to record the transcriptional history of cells &amp;amp; examine dendritic biophysics &amp;amp; plasticity rules➡️https://t.co/PwHaVs1oNH https://t.co/GJks3YTJ06</title>
+      <link>https://twitter.com/HHMIJanelia/status/1677709150745182208</link>
+      <description>🧪Scientists are creating Janelia Fluor dyes that can act as linkers for other ligands, using them to see brain-wide turnover of proteins &amp;amp; deploying them to record the transcriptional history of cells &amp;amp; examine dendritic biophysics &amp;amp; plasticity rules➡️https://t.co/PwHaVs1oNH https://t.co/GJks3YTJ06</description>
+      <content:encoded>🧪Scientists are creating Janelia Fluor dyes that can act as linkers for other ligands, using them to see brain-wide turnover of proteins &amp;amp; deploying them to record the transcriptional history of cells &amp;amp; examine dendritic biophysics &amp;amp; plasticity rules➡️https://t.co/PwHaVs1oNH https://t.co/GJks3YTJ06&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1677709150745182208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677709127449997314/pu/img/RAzKbETyBD2Ovh62.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 08 Jul 2023 16:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four notable examples of animal camouflage:
+
+1. Tawny frogmouth
+2. Stick insect
+3. Lexias pardalis caterpillar
+4. Kallima inachus
+https://t.co/GeGCC3AO7v</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677711451350245378</link>
+      <description>Four notable examples of animal camouflage:
+
+1. Tawny frogmouth
+2. Stick insect
+3. Lexias pardalis caterpillar
+4. Kallima inachus
+https://t.co/GeGCC3AO7v</description>
+      <content:encoded>Four notable examples of animal camouflage:
+
+1. Tawny frogmouth
+2. Stick insect
+3. Lexias pardalis caterpillar
+4. Kallima inachus
+https://t.co/GeGCC3AO7v&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677711451350245378"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677668603594969089/pu/img/b9RTKkf-Vy6lR_IH.jpg" length="675" type="photo"/>
+      <pubDate>Sat, 08 Jul 2023 16:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How many π digits do we need?
+3.1415 ➡️ design the finest engines
+3.1415926535 ➡️ obtain the circumference of the Earth within a fraction of an inch
+3.1415926535897932384626433832795028842 ➡️  measure the radius of the universe to an accuracy equal to the size of a hydrogen atom</title>
+      <link>https://twitter.com/fermatslibrary/status/1677714039713964032</link>
+      <description>How many π digits do we need?
+3.1415 ➡️ design the finest engines
+3.1415926535 ➡️ obtain the circumference of the Earth within a fraction of an inch
+3.1415926535897932384626433832795028842 ➡️  measure the radius of the universe to an accuracy equal to the size of a hydrogen atom</description>
+      <content:encoded>How many π digits do we need?
+3.1415 ➡️ design the finest engines
+3.1415926535 ➡️ obtain the circumference of the Earth within a fraction of an inch
+3.1415926535897932384626433832795028842 ➡️  measure the radius of the universe to an accuracy equal to the size of a hydrogen atom&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1677714039713964032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 08 Jul 2023 16:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>High heels haven't been innovated in 200 years and this may be a smart technical solution to make shoes elegant &amp;amp; comfortable at the same time and when one just needs 
+
+[Ashlea Belle: https://t.co/ujDCDAdBpp]
+[read more: https://t.co/awuB2mVLbm]
+https://t.co/uPZvPBVytI</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677714654536056832</link>
+      <description>High heels haven't been innovated in 200 years and this may be a smart technical solution to make shoes elegant &amp;amp; comfortable at the same time and when one just needs 
+
+[Ashlea Belle: https://t.co/ujDCDAdBpp]
+[read more: https://t.co/awuB2mVLbm]
+https://t.co/uPZvPBVytI</description>
+      <content:encoded>High heels haven't been innovated in 200 years and this may be a smart technical solution to make shoes elegant &amp;amp; comfortable at the same time and when one just needs 
+
+[Ashlea Belle: https://t.co/ujDCDAdBpp]
+[read more: https://t.co/awuB2mVLbm]
+https://t.co/uPZvPBVytI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677714654536056832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677408752343941122/pu/img/yKjdPBVAosgyguzd.jpg" length="576" type="photo"/>
+      <pubDate>Sat, 08 Jul 2023 16:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Single-cell transcriptomic profiling of dorsal root ganglion: an overview: The somatosensory neurons in the dorsal root ganglion (DRG) are responsible to detect peripheral physical and noxious stimuli, and then transmit these… #Neuroanatomy https://t.co/70lBjvsqNl</title>
+      <link>https://twitter.com/FrontNeurosci/status/1677714674643791873</link>
+      <description>New Research: Single-cell transcriptomic profiling of dorsal root ganglion: an overview: The somatosensory neurons in the dorsal root ganglion (DRG) are responsible to detect peripheral physical and noxious stimuli, and then transmit these… #Neuroanatomy https://t.co/70lBjvsqNl</description>
+      <content:encoded>New Research: Single-cell transcriptomic profiling of dorsal root ganglion: an overview: The somatosensory neurons in the dorsal root ganglion (DRG) are responsible to detect peripheral physical and noxious stimuli, and then transmit these… #Neuroanatomy https://t.co/70lBjvsqNl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1677714674643791873"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 08 Jul 2023 16:22:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
