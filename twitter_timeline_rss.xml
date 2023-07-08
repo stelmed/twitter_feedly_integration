@@ -6,44 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 03:31:40 +0000</lastBuildDate>
-    <item>
-      <title>RT @somnirons: 🚨Exciting news: our group is moving to @OxNeuro @UniofOxford. We will be based at @OxfordDPAG @Oxfordcircuits 
-We are lookin…</title>
-      <link>https://twitter.com/behrenstimb/status/1677290518915559424</link>
-      <description>RT @somnirons: 🚨Exciting news: our group is moving to @OxNeuro @UniofOxford. We will be based at @OxfordDPAG @Oxfordcircuits 
-We are lookin…</description>
-      <content:encoded>RT @somnirons: 🚨Exciting news: our group is moving to @OxNeuro @UniofOxford. We will be based at @OxfordDPAG @Oxfordcircuits 
-We are lookin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1677290518915559424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 12:16:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mmc_series: Congratulations to Hari Shroff, receiving the @RoyalMicroSoc Scientific Achievement Award today at #mmc2023UK 
-
-@LSFMMBL @M…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1677290570497048578</link>
-      <description>RT @mmc_series: Congratulations to Hari Shroff, receiving the @RoyalMicroSoc Scientific Achievement Award today at #mmc2023UK 
-
-@LSFMMBL @M…</description>
-      <content:encoded>RT @mmc_series: Congratulations to Hari Shroff, receiving the @RoyalMicroSoc Scientific Achievement Award today at #mmc2023UK 
-
-@LSFMMBL @M…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1677290570497048578"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 12:16:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>This classic experiment takes advantage of the food coating and sugar of Skittles to produce a beautiful mandala-like pattern
-
-[read more: https://t.co/afLqrbIvph] https://t.co/TGU9IiQJet</title>
-      <link>https://twitter.com/Rainmaker1973/status/1677291566568751107</link>
-      <description>This classic experiment takes advantage of the food coating and sugar of Skittles to produce a beautiful mandala-like pattern
-
-[read more: https://t.co/afLqrbIvph] https://t.co/TGU9IiQJet</description>
-      <content:encoded>This classic experiment takes advantage of the food coating and sugar of Skittles to produce a beautiful mandala-like pattern
-
-[read more: https://t.co/afLqrbIvph] https://t.co/TGU9IiQJet&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677291566568751107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677290593355964417/pu/img/7romXaAdZMyHBL4i.jpg" length="766" type="photo"/>
-      <pubDate>Fri, 07 Jul 2023 12:20:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Jul 2023 04:21:05 +0000</lastBuildDate>
     <item>
       <title>That time a drawing instructor made a chalk drawing on a horse to show the articulation of a horse's skeleton
 
@@ -459,6 +422,13 @@ but the simulator still seems cool ;)&lt;blockquote class="twitter-tweet"&gt;&lt
       <description>RT @alanrpacheco: Thrilled to share our latest work, in which we use metabolic models and ecological metrics to predict microbial interacti…</description>
       <content:encoded>RT @alanrpacheco: Thrilled to share our latest work, in which we use metabolic models and ecological metrics to predict microbial interacti…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677308639453802497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 07 Jul 2023 13:28:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @ConstiZo: Climate change is shifting growing seasons, but how will it affect autumn leaf senescence in northern forests? More than exci…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1677308837785640960</link>
+      <description>RT @ConstiZo: Climate change is shifting growing seasons, but how will it affect autumn leaf senescence in northern forests? More than exci…</description>
+      <content:encoded>RT @ConstiZo: Climate change is shifting growing seasons, but how will it affect autumn leaf senescence in northern forests? More than exci…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677308837785640960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 07 Jul 2023 13:29:24 +0000</pubDate>
     </item>
     <item>
       <title>HHMI Investigator Dominique Bergmann &amp;amp; @Stanford &amp;amp; @UCSanDiego researchers found that plant &amp;amp; animal stem cells both rely on the cytoskeleton to divide properly, but in opposite ways. The group's work could help scientists engineer more resilient plants: https://t.co/DWXwGOwyfZ</title>
@@ -1971,6 +1941,20 @@ Natural-gradient learning for spiking neurons https://t.co/ioiIC2Y…&lt;blockqu
       <content:encoded>Scientists have described a previously unappreciated mechanism in #DendriticCells that exacerbates the severity of allergic airway responses—and show that targeting this pathway can soothe airway allergies in mice. @SciSignal https://t.co/wTVrEInsSB https://t.co/TbQCAjx5C5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1677512857326350337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0e5DaaWIAIZ8ub.jpg" length="1200" type="photo"/>
       <pubDate>Sat, 08 Jul 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 I-Spin live: An open-source software based on blind-source separation for decoding the activity of spinal alpha motor neurons in real-time  https://t.co/giFOPBJSiL #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1677529264533524480</link>
+      <description>#PeerReview from @eLife of 👉🏿 I-Spin live: An open-source software based on blind-source separation for decoding the activity of spinal alpha motor neurons in real-time  https://t.co/giFOPBJSiL #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 I-Spin live: An open-source software based on blind-source separation for decoding the activity of spinal alpha motor neurons in real-time  https://t.co/giFOPBJSiL #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677529264533524480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 08 Jul 2023 04:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PeerReview from @eLife of 👉🏿 Functional ultrasound imaging of stroke in awake rats  https://t.co/86CVG1a8Ov #biorxiv_neursci #reviewedpreprint</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1677529273622491139</link>
+      <description>#PeerReview from @eLife of 👉🏿 Functional ultrasound imaging of stroke in awake rats  https://t.co/86CVG1a8Ov #biorxiv_neursci #reviewedpreprint</description>
+      <content:encoded>#PeerReview from @eLife of 👉🏿 Functional ultrasound imaging of stroke in awake rats  https://t.co/86CVG1a8Ov #biorxiv_neursci #reviewedpreprint&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677529273622491139"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 08 Jul 2023 04:05:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
