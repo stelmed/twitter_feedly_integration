@@ -6,56 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Jul 2023 20:17:52 +0000</lastBuildDate>
-    <item>
-      <title>RT @KevinGuskiewicz: Our commitment to access and affordability continues at Carolina. We will provide free tuition and required fees for i…</title>
-      <link>https://twitter.com/UNC_Optics/status/1677679561918619652</link>
-      <description>RT @KevinGuskiewicz: Our commitment to access and affordability continues at Carolina. We will provide free tuition and required fees for i…</description>
-      <content:encoded>RT @KevinGuskiewicz: Our commitment to access and affordability continues at Carolina. We will provide free tuition and required fees for i…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/UNC_Optics/status/1677679561918619652"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 08 Jul 2023 14:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Review in @NatureRevGenet reviews the computational methods used to infer gene regulatory networks, in particular from single-cell multi-omics data. 🔒 https://t.co/LgvwbeTY3q https://t.co/Ec8d59C0YQ</title>
-      <link>https://twitter.com/NaturePortfolio/status/1677685259184353280</link>
-      <description>A Review in @NatureRevGenet reviews the computational methods used to infer gene regulatory networks, in particular from single-cell multi-omics data. 🔒 https://t.co/LgvwbeTY3q https://t.co/Ec8d59C0YQ</description>
-      <content:encoded>A Review in @NatureRevGenet reviews the computational methods used to infer gene regulatory networks, in particular from single-cell multi-omics data. 🔒 https://t.co/LgvwbeTY3q https://t.co/Ec8d59C0YQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1677685259184353280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0hV2NBWwAE2V52.jpg" length="1000" type="photo"/>
-      <pubDate>Sat, 08 Jul 2023 14:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fallingwater, the modern house prototype built by Frank Lloyd Wright over a waterfall in 1935 
-
-[read more: https://t.co/qK81lyfeoJ]
-[video: https://t.co/WcJ1kLc0ri]
-https://t.co/1C0JclfWcT</title>
-      <link>https://twitter.com/Rainmaker1973/status/1677688260968022019</link>
-      <description>Fallingwater, the modern house prototype built by Frank Lloyd Wright over a waterfall in 1935 
-
-[read more: https://t.co/qK81lyfeoJ]
-[video: https://t.co/WcJ1kLc0ri]
-https://t.co/1C0JclfWcT</description>
-      <content:encoded>Fallingwater, the modern house prototype built by Frank Lloyd Wright over a waterfall in 1935 
-
-[read more: https://t.co/qK81lyfeoJ]
-[video: https://t.co/WcJ1kLc0ri]
-https://t.co/1C0JclfWcT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677688260968022019"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1464680420184928269/pu/img/ulKFXpqCm4Xcopz0.jpg" length="1080" type="photo"/>
-      <pubDate>Sat, 08 Jul 2023 14:37:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Understanding health behavior change by motivation and reward mechanisms: a review of the literature: The global rise of lifestyle-related chronic diseases has engendered growing interest among various stakeholders including… #neuroscience https://t.co/ZZm6cPzhAw</title>
-      <link>https://twitter.com/FrontNeurosci/status/1677688878369751041</link>
-      <description>New Research: Understanding health behavior change by motivation and reward mechanisms: a review of the literature: The global rise of lifestyle-related chronic diseases has engendered growing interest among various stakeholders including… #neuroscience https://t.co/ZZm6cPzhAw</description>
-      <content:encoded>New Research: Understanding health behavior change by motivation and reward mechanisms: a review of the literature: The global rise of lifestyle-related chronic diseases has engendered growing interest among various stakeholders including… #neuroscience https://t.co/ZZm6cPzhAw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1677688878369751041"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 08 Jul 2023 14:39:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Note that I’m TrackingActions elsewhere too 🤗 🧵💙… 😉</title>
-      <link>https://twitter.com/TrackingActions/status/1677690514928283648</link>
-      <description>Note that I’m TrackingActions elsewhere too 🤗 🧵💙… 😉</description>
-      <content:encoded>Note that I’m TrackingActions elsewhere too 🤗 🧵💙… 😉&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1677690514928283648"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 08 Jul 2023 14:46:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Jul 2023 21:14:29 +0000</lastBuildDate>
     <item>
       <title>RT @MillerLabMIT: Local Orchestration of Global Functional Patterns Supporting Loss and Restoration of Consciousness in the Primate Brain
 h…</title>
@@ -1888,6 +1839,65 @@ Check out the blog for a deeper dive and more demonstrations on how decision tre
       <content:encoded>Douce France, …🎶 https://t.co/T9zxS4yd32&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1678131628109864963"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0nryEAX0AIb1qk.jpg" length="900" type="photo"/>
       <pubDate>Sun, 09 Jul 2023 19:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AnnaDevor: Friends, I'm happy to share good news: Neurophotonics  new IF is 5.3, and we are just getting started! 
+https://t.co/ypTDmeF…</title>
+      <link>https://twitter.com/LecoqJerome/status/1678139954055061506</link>
+      <description>RT @AnnaDevor: Friends, I'm happy to share good news: Neurophotonics  new IF is 5.3, and we are just getting started! 
+https://t.co/ypTDmeF…</description>
+      <content:encoded>RT @AnnaDevor: Friends, I'm happy to share good news: Neurophotonics  new IF is 5.3, and we are just getting started! 
+https://t.co/ypTDmeF…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1678139954055061506"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 09 Jul 2023 20:31:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>I thought everyone could do that. https://t.co/XxwnZQGmjR</title>
+      <link>https://twitter.com/KordingLab/status/1678140303356620801</link>
+      <description>I thought everyone could do that. https://t.co/XxwnZQGmjR</description>
+      <content:encoded>I thought everyone could do that. https://t.co/XxwnZQGmjR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1678140303356620801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 09 Jul 2023 20:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @LiToast: I can’t stop thinking about this review I found for a hotel I stayed in once https://t.co/8hJ4yd7x71</title>
+      <link>https://twitter.com/chrisdc77/status/1678142408033280001</link>
+      <description>RT @LiToast: I can’t stop thinking about this review I found for a hotel I stayed in once https://t.co/8hJ4yd7x71</description>
+      <content:encoded>RT @LiToast: I can’t stop thinking about this review I found for a hotel I stayed in once https://t.co/8hJ4yd7x71&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/chrisdc77/status/1678142408033280001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0jpmdgXwAI7ypJ.jpg" length="554" type="photo"/>
+      <pubDate>Sun, 09 Jul 2023 20:41:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>I know this idea “just upload and it does it’s thing” sounds super scary. Until you have seen typical workflows in some corners of biology. Then you just live in perpetual fear that results of either can make it into clinical care. Thank g@d are mds conservative( rct or bust). https://t.co/n74ZcJHRbt</title>
+      <link>https://twitter.com/KordingLab/status/1678142710404767744</link>
+      <description>I know this idea “just upload and it does it’s thing” sounds super scary. Until you have seen typical workflows in some corners of biology. Then you just live in perpetual fear that results of either can make it into clinical care. Thank g@d are mds conservative( rct or bust). https://t.co/n74ZcJHRbt</description>
+      <content:encoded>I know this idea “just upload and it does it’s thing” sounds super scary. Until you have seen typical workflows in some corners of biology. Then you just live in perpetual fear that results of either can make it into clinical care. Thank g@d are mds conservative( rct or bust). https://t.co/n74ZcJHRbt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1678142710404767744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 09 Jul 2023 20:42:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>I’d rather say use it. But know that even a short lack of full epistemic humility will make you look very clueless. https://t.co/qg2amG9OAo</title>
+      <link>https://twitter.com/KordingLab/status/1678143495226155011</link>
+      <description>I’d rather say use it. But know that even a short lack of full epistemic humility will make you look very clueless. https://t.co/qg2amG9OAo</description>
+      <content:encoded>I’d rather say use it. But know that even a short lack of full epistemic humility will make you look very clueless. https://t.co/qg2amG9OAo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1678143495226155011"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 09 Jul 2023 20:46:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>An analysis in @NatureAstronomy of cosmologically distant quasars, photometrically observed over two decades, reveals the long-expected presence of cosmic time dilation owing to the expansion of space imprinted on their variability. https://t.co/53TMA37J1Z</title>
+      <link>https://twitter.com/NaturePortfolio/status/1678144493340577793</link>
+      <description>An analysis in @NatureAstronomy of cosmologically distant quasars, photometrically observed over two decades, reveals the long-expected presence of cosmic time dilation owing to the expansion of space imprinted on their variability. https://t.co/53TMA37J1Z</description>
+      <content:encoded>An analysis in @NatureAstronomy of cosmologically distant quasars, photometrically observed over two decades, reveals the long-expected presence of cosmic time dilation owing to the expansion of space imprinted on their variability. https://t.co/53TMA37J1Z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1678144493340577793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 09 Jul 2023 20:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @matteofarinella: Charting new explorations in Neuroland 🧠
+
+#wip #sketching #drawing #maps #neuroscience #Neurocomic https://t.co/hKqN7K…</title>
+      <link>https://twitter.com/FlavioDonato82/status/1678146936124104704</link>
+      <description>RT @matteofarinella: Charting new explorations in Neuroland 🧠
+
+#wip #sketching #drawing #maps #neuroscience #Neurocomic https://t.co/hKqN7K…</description>
+      <content:encoded>RT @matteofarinella: Charting new explorations in Neuroland 🧠
+
+#wip #sketching #drawing #maps #neuroscience #Neurocomic https://t.co/hKqN7K…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FlavioDonato82/status/1678146936124104704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 09 Jul 2023 20:59:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
