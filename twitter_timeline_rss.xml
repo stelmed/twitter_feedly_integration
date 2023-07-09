@@ -6,43 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Jul 2023 08:20:53 +0000</lastBuildDate>
-    <item>
-      <title>Neural subspaces of imagined movements in parietal cortex remain stable over several years in humans.  https://t.co/TUuZOqBwbI #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1677411609310797824</link>
-      <description>Neural subspaces of imagined movements in parietal cortex remain stable over several years in humans.  https://t.co/TUuZOqBwbI #biorxiv_neursci</description>
-      <content:encoded>Neural subspaces of imagined movements in parietal cortex remain stable over several years in humans.  https://t.co/TUuZOqBwbI #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677411609310797824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 20:17:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Previous motor task performance impacts phase-based EEG resting-state connectivity states  https://t.co/yv1WLFhPbr #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1677411696376258560</link>
-      <description>Previous motor task performance impacts phase-based EEG resting-state connectivity states  https://t.co/yv1WLFhPbr #biorxiv_neursci</description>
-      <content:encoded>Previous motor task performance impacts phase-based EEG resting-state connectivity states  https://t.co/yv1WLFhPbr #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1677411696376258560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 20:18:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nice video on PRECISE-TBI tools that enable you to get the most out of your scientific paper.  These tools help scientists conducting experimental or pre-clincal traumatic brain injury research make data more FAIR, rigorous, reproducible, and transparent. https://t.co/Bu1r8EFMhO</title>
-      <link>https://twitter.com/neuinfo/status/1677416680639832064</link>
-      <description>Nice video on PRECISE-TBI tools that enable you to get the most out of your scientific paper.  These tools help scientists conducting experimental or pre-clincal traumatic brain injury research make data more FAIR, rigorous, reproducible, and transparent. https://t.co/Bu1r8EFMhO</description>
-      <content:encoded>Nice video on PRECISE-TBI tools that enable you to get the most out of your scientific paper.  These tools help scientists conducting experimental or pre-clincal traumatic brain injury research make data more FAIR, rigorous, reproducible, and transparent. https://t.co/Bu1r8EFMhO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuinfo/status/1677416680639832064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 20:37:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>How do our brains give rise to conscious thought? Scientists are making bets and testing two of the most prominent theories of #consciousness. https://t.co/LcGtZ2aH6n</title>
-      <link>https://twitter.com/AllenInstitute/status/1677416917257289728</link>
-      <description>How do our brains give rise to conscious thought? Scientists are making bets and testing two of the most prominent theories of #consciousness. https://t.co/LcGtZ2aH6n</description>
-      <content:encoded>How do our brains give rise to conscious thought? Scientists are making bets and testing two of the most prominent theories of #consciousness. https://t.co/LcGtZ2aH6n&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1677416917257289728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 07 Jul 2023 20:38:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Robotic Servicing of Geosynchronous Satellites program in partnership with @northropgrumman   SpaceLogistics is one step closer to launch! The first of two robotic arms💪is installed on the payload deck @USNRL https://t.co/e8Vs4xUSc9</title>
-      <link>https://twitter.com/DARPA/status/1677418900143722497</link>
-      <description>Our Robotic Servicing of Geosynchronous Satellites program in partnership with @northropgrumman   SpaceLogistics is one step closer to launch! The first of two robotic arms💪is installed on the payload deck @USNRL https://t.co/e8Vs4xUSc9</description>
-      <content:encoded>Our Robotic Servicing of Geosynchronous Satellites program in partnership with @northropgrumman   SpaceLogistics is one step closer to launch! The first of two robotic arms💪is installed on the payload deck @USNRL https://t.co/e8Vs4xUSc9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1677418900143722497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0djVQoXgAEy1JE.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 07 Jul 2023 20:46:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Jul 2023 09:16:10 +0000</lastBuildDate>
     <item>
       <title>RT @cziscience: This incredible image shows the delay of electricity throughout a mouse brain cell. Scientists like @AdamEzraCohen are work…</title>
       <link>https://twitter.com/AdamEzraCohen/status/1677419101772484608</link>
@@ -1966,6 +1930,72 @@ https://t.co/2pQ1fB30kE</description>
 https://t.co/2pQ1fB30kE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677953443506401281"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1576635559639977985/pu/img/wUwV9GJiPgDo4d-G.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 09 Jul 2023 08:10:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>We saw sea birds and particularly pelicans engulfing huge fish: yet, sometimes they have issues too. This man in Florida saved a pelican choking badly on a huge fish which had a double-sided hook which stuck into the pelican
+
+[📹 https://t.co/ne0TgqsNhu]
+https://t.co/2PZY2B1pLm</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677956842792599553</link>
+      <description>We saw sea birds and particularly pelicans engulfing huge fish: yet, sometimes they have issues too. This man in Florida saved a pelican choking badly on a huge fish which had a double-sided hook which stuck into the pelican
+
+[📹 https://t.co/ne0TgqsNhu]
+https://t.co/2PZY2B1pLm</description>
+      <content:encoded>We saw sea birds and particularly pelicans engulfing huge fish: yet, sometimes they have issues too. This man in Florida saved a pelican choking badly on a huge fish which had a double-sided hook which stuck into the pelican
+
+[📹 https://t.co/ne0TgqsNhu]
+https://t.co/2PZY2B1pLm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677956842792599553"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677860227771924481/pu/img/N-uhoYJs1Fu6-EM9.jpg" length="720" type="photo"/>
+      <pubDate>Sun, 09 Jul 2023 08:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to make a color changing cake using the lenticular printing  principles 
+
+[read more: https://t.co/IvEWYBZXxh]
+[tutorial, CharlotteSometimes: https://t.co/XClKebwnRb]
+https://t.co/QpNl0Tj9Qz</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677961740598882305</link>
+      <description>How to make a color changing cake using the lenticular printing  principles 
+
+[read more: https://t.co/IvEWYBZXxh]
+[tutorial, CharlotteSometimes: https://t.co/XClKebwnRb]
+https://t.co/QpNl0Tj9Qz</description>
+      <content:encoded>How to make a color changing cake using the lenticular printing  principles 
+
+[read more: https://t.co/IvEWYBZXxh]
+[tutorial, CharlotteSometimes: https://t.co/XClKebwnRb]
+https://t.co/QpNl0Tj9Qz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677961740598882305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1124707002876194816/pu/img/P8HDeYua4W_TPn-H.jpg" length="640" type="photo"/>
+      <pubDate>Sun, 09 Jul 2023 08:43:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new AI tool that could help doctors assess the early signs of #dementia and #Alzheimer’s more quickly and efficiently, has been developed by researchers @sheffielduni . Read more here https://t.co/9dc3pqJeuM https://t.co/XV8dxF7yrc</title>
+      <link>https://twitter.com/Scientifica_Int/status/1677965820402495489</link>
+      <description>A new AI tool that could help doctors assess the early signs of #dementia and #Alzheimer’s more quickly and efficiently, has been developed by researchers @sheffielduni . Read more here https://t.co/9dc3pqJeuM https://t.co/XV8dxF7yrc</description>
+      <content:encoded>A new AI tool that could help doctors assess the early signs of #dementia and #Alzheimer’s more quickly and efficiently, has been developed by researchers @sheffielduni . Read more here https://t.co/9dc3pqJeuM https://t.co/XV8dxF7yrc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1677965820402495489"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0lVBVkWYAA42bH.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 09 Jul 2023 09:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Super agile and balanced, Direct Drive's Diablo is the world first wheeled-leg transformable robot powered by 6 direct-drive motors. An open development platform for custom controls &amp;amp; DIY 
+
+[read more: https://t.co/d9cWQ10H1C] https://t.co/QCNF8CGDSS</title>
+      <link>https://twitter.com/Rainmaker1973/status/1677967524141363200</link>
+      <description>Super agile and balanced, Direct Drive's Diablo is the world first wheeled-leg transformable robot powered by 6 direct-drive motors. An open development platform for custom controls &amp;amp; DIY 
+
+[read more: https://t.co/d9cWQ10H1C] https://t.co/QCNF8CGDSS</description>
+      <content:encoded>Super agile and balanced, Direct Drive's Diablo is the world first wheeled-leg transformable robot powered by 6 direct-drive motors. An open development platform for custom controls &amp;amp; DIY 
+
+[read more: https://t.co/d9cWQ10H1C] https://t.co/QCNF8CGDSS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677967524141363200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677967431573151745/pu/img/T_7XuC43SMFWfMVw.jpg" length="720" type="photo"/>
+      <pubDate>Sun, 09 Jul 2023 09:06:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Miriam_Melis: Let the countdown begin! Excited for this upcoming @CannabinoidGrc @GordonConf with a fantastic line up of speakers and a…</title>
+      <link>https://twitter.com/RaffaellaTonini/status/1677968139449933824</link>
+      <description>RT @Miriam_Melis: Let the countdown begin! Excited for this upcoming @CannabinoidGrc @GordonConf with a fantastic line up of speakers and a…</description>
+      <content:encoded>RT @Miriam_Melis: Let the countdown begin! Excited for this upcoming @CannabinoidGrc @GordonConf with a fantastic line up of speakers and a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/RaffaellaTonini/status/1677968139449933824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 09 Jul 2023 09:09:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
