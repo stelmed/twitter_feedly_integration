@@ -6,24 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Jul 2023 01:49:31 +0000</lastBuildDate>
-    <item>
-      <title>Imagine to grab a Champagne bottle by the neck and hurl it against a wall. What could go wrong? 
-
-Some science considerations: https://t.co/E7YFWd2YW8
-https://t.co/2sPRfl75o2</title>
-      <link>https://twitter.com/Rainmaker1973/status/1677746040487723010</link>
-      <description>Imagine to grab a Champagne bottle by the neck and hurl it against a wall. What could go wrong? 
-
-Some science considerations: https://t.co/E7YFWd2YW8
-https://t.co/2sPRfl75o2</description>
-      <content:encoded>Imagine to grab a Champagne bottle by the neck and hurl it against a wall. What could go wrong? 
-
-Some science considerations: https://t.co/E7YFWd2YW8
-https://t.co/2sPRfl75o2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677746040487723010"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1556280610863435778/pu/img/r8I9nevHZjrLxdNV.jpg" length="640" type="photo"/>
-      <pubDate>Sat, 08 Jul 2023 18:26:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Jul 2023 03:02:18 +0000</lastBuildDate>
     <item>
       <title>Of all cheesy movies, Notting Hill is perhaps the best.  Whenever I run out of things  to watch on the plane I rewatch it.  I still don't understand what makes it so entertaining though.</title>
       <link>https://twitter.com/HenryYin19/status/1677747105111080961</link>
@@ -1917,6 +1900,19 @@ https://t.co/8ufS4oCIJc</description>
 See our paper by S. Sahl et al:
 https://t.co/8ufS4oCIJc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1678215851193901059"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Mon, 10 Jul 2023 01:33:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Insulin-like growth factor 1 supplementation supports motor coordination and affects myelination in preterm pigs: Introduction
+
+Preterm infants have increased risk of impaired neurodevelopment to which reduced systemic levels… #Neuroscience https://t.co/SJVH6W1Moc</title>
+      <link>https://twitter.com/FrontNeurosci/status/1678224526801502208</link>
+      <description>New Research: Insulin-like growth factor 1 supplementation supports motor coordination and affects myelination in preterm pigs: Introduction
+
+Preterm infants have increased risk of impaired neurodevelopment to which reduced systemic levels… #Neuroscience https://t.co/SJVH6W1Moc</description>
+      <content:encoded>New Research: Insulin-like growth factor 1 supplementation supports motor coordination and affects myelination in preterm pigs: Introduction
+
+Preterm infants have increased risk of impaired neurodevelopment to which reduced systemic levels… #Neuroscience https://t.co/SJVH6W1Moc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1678224526801502208"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 10 Jul 2023 02:08:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
