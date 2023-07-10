@@ -6,27 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Jul 2023 04:22:10 +0000</lastBuildDate>
-    <item>
-      <title>A peacock can fly despite its large size. Its tail is up to 2 meters long, about 60% of its body length. Despite these odd proportions, the bird flies just fine, if not very far 
-
-[read more: https://t.co/JZSm2hPwDA] 
-[📹 Harsha Narasimhamurthy]
-https://t.co/12RI4f7Xd7</title>
-      <link>https://twitter.com/Rainmaker1973/status/1677750716696281091</link>
-      <description>A peacock can fly despite its large size. Its tail is up to 2 meters long, about 60% of its body length. Despite these odd proportions, the bird flies just fine, if not very far 
-
-[read more: https://t.co/JZSm2hPwDA] 
-[📹 Harsha Narasimhamurthy]
-https://t.co/12RI4f7Xd7</description>
-      <content:encoded>A peacock can fly despite its large size. Its tail is up to 2 meters long, about 60% of its body length. Despite these odd proportions, the bird flies just fine, if not very far 
-
-[read more: https://t.co/JZSm2hPwDA] 
-[📹 Harsha Narasimhamurthy]
-https://t.co/12RI4f7Xd7&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1677750716696281091"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1256967430124929024/pu/img/HzAuSoy0M71N2rHb.jpg" length="720" type="photo"/>
-      <pubDate>Sat, 08 Jul 2023 18:45:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Jul 2023 05:17:35 +0000</lastBuildDate>
     <item>
       <title>Sam Cossman &amp;amp; George Kourounis are among the first explorers to step foot inside the worlds most dangerous and inaccessible volcano, Marum Crater.  More people have visited the moon than the firey depths of this spectacular and deadly location 
 
@@ -1906,6 +1886,27 @@ Preterm infants have increased risk of impaired neurodevelopment to which reduce
       <content:encoded>This week's dip into Nature's archive features a look at atomic structure and considers some cookery lessons https://t.co/CivN1hHYce https://t.co/IlVVDIp54T&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1678255743022112768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F0pctGVWAAAqnko.jpg" length="1024" type="photo"/>
       <pubDate>Mon, 10 Jul 2023 04:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @EngelTatiana: Which brain regions process information related to sensation, decisions, actions, and prior beliefs? Are these signals wi…</title>
+      <link>https://twitter.com/SteinmetzNeuro/status/1678258852490510337</link>
+      <description>RT @EngelTatiana: Which brain regions process information related to sensation, decisions, actions, and prior beliefs? Are these signals wi…</description>
+      <content:encoded>RT @EngelTatiana: Which brain regions process information related to sensation, decisions, actions, and prior beliefs? Are these signals wi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SteinmetzNeuro/status/1678258852490510337"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 10 Jul 2023 04:24:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>In 2022, the U.S. government passed the Inflation Reduction Act—billed as its most significant piece of climate legislation to date.
+
+A new #SciencePolicyForum evaluates the legislation's emissions and energy impacts. https://t.co/FnC1A59s8l https://t.co/umy4HtBXwd</title>
+      <link>https://twitter.com/ScienceMagazine/status/1678260281913274369</link>
+      <description>In 2022, the U.S. government passed the Inflation Reduction Act—billed as its most significant piece of climate legislation to date.
+
+A new #SciencePolicyForum evaluates the legislation's emissions and energy impacts. https://t.co/FnC1A59s8l https://t.co/umy4HtBXwd</description>
+      <content:encoded>In 2022, the U.S. government passed the Inflation Reduction Act—billed as its most significant piece of climate legislation to date.
+
+A new #SciencePolicyForum evaluates the legislation's emissions and energy impacts. https://t.co/FnC1A59s8l https://t.co/umy4HtBXwd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1678260281913274369"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0pg1RGWcAA8Bpj.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 10 Jul 2023 04:30:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
