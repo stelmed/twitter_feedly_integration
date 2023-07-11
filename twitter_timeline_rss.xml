@@ -6,155 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jul 2023 11:14:41 +0000</lastBuildDate>
-    <item>
-      <title>@KordingLab Yes, I think it is showing that for a spiking model there is a nice way of doing natural gradient descent for a specific objective.</title>
-      <link>https://twitter.com/tyrell_turing/status/1678427147449384968</link>
-      <description>@KordingLab Yes, I think it is showing that for a spiking model there is a nice way of doing natural gradient descent for a specific objective.</description>
-      <content:encoded>@KordingLab Yes, I think it is showing that for a spiking model there is a nice way of doing natural gradient descent for a specific objective.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1678427147449384968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:33:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @davidrliu: Three of the more costly and frequently used reagents in molecular biology are rolling circle amplification (RCA) mix, chemi…</title>
-      <link>https://twitter.com/Addgene/status/1678427320225234944</link>
-      <description>RT @davidrliu: Three of the more costly and frequently used reagents in molecular biology are rolling circle amplification (RCA) mix, chemi…</description>
-      <content:encoded>RT @davidrliu: Three of the more costly and frequently used reagents in molecular biology are rolling circle amplification (RCA) mix, chemi…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1678427320225234944"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:33:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Announcing the Keynotes &amp;amp; Tutorials for #CCN2023!
-
-Keynotes &amp;amp; Tutorials are a unique format in which a keynote talk is accompanied by a hands-on data/code tutorial. The goal is to give the audience a look "under the hood".
-https://t.co/CLCRmi1JQM</title>
-      <link>https://twitter.com/CogCompNeuro/status/1678427585712103425</link>
-      <description>Announcing the Keynotes &amp;amp; Tutorials for #CCN2023!
-
-Keynotes &amp;amp; Tutorials are a unique format in which a keynote talk is accompanied by a hands-on data/code tutorial. The goal is to give the audience a look "under the hood".
-https://t.co/CLCRmi1JQM</description>
-      <content:encoded>Announcing the Keynotes &amp;amp; Tutorials for #CCN2023!
-
-Keynotes &amp;amp; Tutorials are a unique format in which a keynote talk is accompanied by a hands-on data/code tutorial. The goal is to give the audience a look "under the hood".
-https://t.co/CLCRmi1JQM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CogCompNeuro/status/1678427585712103425"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in #ModelDB: Cholinergic Modulation Shifts the Response of CA1 Pyramidal Cells to Depolarizing Ramps via TRPM4 Channels with Potential Implications for Place Cell Firing (Combe et al., 2023) 
-https://t.co/rOO7D273D5</title>
-      <link>https://twitter.com/ModelDB/status/1678427737667543040</link>
-      <description>New in #ModelDB: Cholinergic Modulation Shifts the Response of CA1 Pyramidal Cells to Depolarizing Ramps via TRPM4 Channels with Potential Implications for Place Cell Firing (Combe et al., 2023) 
-https://t.co/rOO7D273D5</description>
-      <content:encoded>New in #ModelDB: Cholinergic Modulation Shifts the Response of CA1 Pyramidal Cells to Depolarizing Ramps via TRPM4 Channels with Potential Implications for Place Cell Firing (Combe et al., 2023) 
-https://t.co/rOO7D273D5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ModelDB/status/1678427737667543040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>A High-dimensional View of Computational Neuroscience
-
-By @michaelfbonner @FlorentinGuth @AtlasKazemian Raj Magesh Gauthaman, Zirui Chen
-
-Abstract + Outline: https://t.co/IyOMt7MbhW</title>
-      <link>https://twitter.com/CogCompNeuro/status/1678428375629676544</link>
-      <description>A High-dimensional View of Computational Neuroscience
-
-By @michaelfbonner @FlorentinGuth @AtlasKazemian Raj Magesh Gauthaman, Zirui Chen
-
-Abstract + Outline: https://t.co/IyOMt7MbhW</description>
-      <content:encoded>A High-dimensional View of Computational Neuroscience
-
-By @michaelfbonner @FlorentinGuth @AtlasKazemian Raj Magesh Gauthaman, Zirui Chen
-
-Abstract + Outline: https://t.co/IyOMt7MbhW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CogCompNeuro/status/1678428375629676544"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:38:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behind the Eyes: Insights into Cognition from Naturalistic Gaze Behavior in VR
-
-By @RobertsonNeuro @AJ_Haskins @deepasri_p @tommy_botch Brenda Garcia
-
-Abtract + Outline: https://t.co/niPUTQMbyE</title>
-      <link>https://twitter.com/CogCompNeuro/status/1678428936420696068</link>
-      <description>Behind the Eyes: Insights into Cognition from Naturalistic Gaze Behavior in VR
-
-By @RobertsonNeuro @AJ_Haskins @deepasri_p @tommy_botch Brenda Garcia
-
-Abtract + Outline: https://t.co/niPUTQMbyE</description>
-      <content:encoded>Behind the Eyes: Insights into Cognition from Naturalistic Gaze Behavior in VR
-
-By @RobertsonNeuro @AJ_Haskins @deepasri_p @tommy_botch Brenda Garcia
-
-Abtract + Outline: https://t.co/niPUTQMbyE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CogCompNeuro/status/1678428936420696068"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:40:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microcircuit motifs in mouse &amp;amp; human brains are strikingly similar, see our eLife Insight commentary on the Allen Institute's recent comprehensive &amp;amp; impressive study of local cortical brain circuits in humans. With @Hovy_Wong Christina Chou @alanna_j_watt https://t.co/TzIVSTUz4G</title>
-      <link>https://twitter.com/pj_sjostrom/status/1678429809985110017</link>
-      <description>Microcircuit motifs in mouse &amp;amp; human brains are strikingly similar, see our eLife Insight commentary on the Allen Institute's recent comprehensive &amp;amp; impressive study of local cortical brain circuits in humans. With @Hovy_Wong Christina Chou @alanna_j_watt https://t.co/TzIVSTUz4G</description>
-      <content:encoded>Microcircuit motifs in mouse &amp;amp; human brains are strikingly similar, see our eLife Insight commentary on the Allen Institute's recent comprehensive &amp;amp; impressive study of local cortical brain circuits in humans. With @Hovy_Wong Christina Chou @alanna_j_watt https://t.co/TzIVSTUz4G&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/pj_sjostrom/status/1678429809985110017"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:43:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cognitive models of Behavior: Classical and Deep Learning Approaches  By
-
-@eckstein_maria @kevinjmiller10 @neuro_kim Zeb Kurth-Nelson
-
-Abstract + Outline: https://t.co/dovtDcOBY2</title>
-      <link>https://twitter.com/CogCompNeuro/status/1678429821787930625</link>
-      <description>Cognitive models of Behavior: Classical and Deep Learning Approaches  By
-
-@eckstein_maria @kevinjmiller10 @neuro_kim Zeb Kurth-Nelson
-
-Abstract + Outline: https://t.co/dovtDcOBY2</description>
-      <content:encoded>Cognitive models of Behavior: Classical and Deep Learning Approaches  By
-
-@eckstein_maria @kevinjmiller10 @neuro_kim Zeb Kurth-Nelson
-
-Abstract + Outline: https://t.co/dovtDcOBY2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CogCompNeuro/status/1678429821787930625"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:43:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Awesome job as always, @timjarsky @HongkuiZeng and others! Sorry, I don't have all the Twitter handles...</title>
-      <link>https://twitter.com/pj_sjostrom/status/1678430154274533377</link>
-      <description>Awesome job as always, @timjarsky @HongkuiZeng and others! Sorry, I don't have all the Twitter handles...</description>
-      <content:encoded>Awesome job as always, @timjarsky @HongkuiZeng and others! Sorry, I don't have all the Twitter handles...&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/pj_sjostrom/status/1678430154274533377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:45:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Complete bullshit.
-Pardon my french. https://t.co/eeBXEii5ER</title>
-      <link>https://twitter.com/ylecun/status/1678430917558259714</link>
-      <description>Complete bullshit.
-Pardon my french. https://t.co/eeBXEii5ER</description>
-      <content:encoded>Complete bullshit.
-Pardon my french. https://t.co/eeBXEii5ER&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1678430917558259714"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:48:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congrats Greta! We are so proud of you! 🎉 https://t.co/96S6mqjUfr</title>
-      <link>https://twitter.com/mcgovernmit/status/1678430918271201280</link>
-      <description>Congrats Greta! We are so proud of you! 🎉 https://t.co/96S6mqjUfr</description>
-      <content:encoded>Congrats Greta! We are so proud of you! 🎉 https://t.co/96S6mqjUfr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/mcgovernmit/status/1678430918271201280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:48:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>I'm tyrell_turing on the new 🧵 app.
-
-But, I gotta say, I'm super irritated that there is no desktop version of it, as my strategy for not spending too much time on social media is to not have it on my phone. Might be a non-starter for me... 😑</title>
-      <link>https://twitter.com/tyrell_turing/status/1678432616192589825</link>
-      <description>I'm tyrell_turing on the new 🧵 app.
-
-But, I gotta say, I'm super irritated that there is no desktop version of it, as my strategy for not spending too much time on social media is to not have it on my phone. Might be a non-starter for me... 😑</description>
-      <content:encoded>I'm tyrell_turing on the new 🧵 app.
-
-But, I gotta say, I'm super irritated that there is no desktop version of it, as my strategy for not spending too much time on social media is to not have it on my phone. Might be a non-starter for me... 😑&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1678432616192589825"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 15:54:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viruses have a lot of applications, including biosensor delivery! Check out our recent blog on how these two systems tango https://t.co/OiTmmrHGwn</title>
-      <link>https://twitter.com/Addgene/status/1678434402198601728</link>
-      <description>Viruses have a lot of applications, including biosensor delivery! Check out our recent blog on how these two systems tango https://t.co/OiTmmrHGwn</description>
-      <content:encoded>Viruses have a lot of applications, including biosensor delivery! Check out our recent blog on how these two systems tango https://t.co/OiTmmrHGwn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1678434402198601728"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 10 Jul 2023 16:01:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jul 2023 12:37:45 +0000</lastBuildDate>
     <item>
       <title>A new study from @rafalab and colleagues presents a significance analysis framework for evaluating single-cell clusters. Application of the method detects cases of over-clustering in reported scRNA-seq analysis results. 
 https://t.co/5komLzhKO5 https://t.co/YbO2TyE9uX</title>
@@ -1946,6 +1798,165 @@ Submit your objects and support more progressive methods of publication!!&lt;blo
       <description>RT @dimitrispp: To produce a memory neurons need to coordinate, similarly to musicians in an orchestra who want to play a song. For neurons…</description>
       <content:encoded>RT @dimitrispp: To produce a memory neurons need to coordinate, similarly to musicians in an orchestra who want to play a song. For neurons…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1678722926562930688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 11 Jul 2023 11:08:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aujourd'hui à 18h15 en direct sur France Culture:
+Un débat sur l'IA avec Anne Alombert, Patrick Perez, et Yoshua Bengio .
+
+https://t.co/LC4FdvTaJF</title>
+      <link>https://twitter.com/ylecun/status/1678725191596408833</link>
+      <description>Aujourd'hui à 18h15 en direct sur France Culture:
+Un débat sur l'IA avec Anne Alombert, Patrick Perez, et Yoshua Bengio .
+
+https://t.co/LC4FdvTaJF</description>
+      <content:encoded>Aujourd'hui à 18h15 en direct sur France Culture:
+Un débat sur l'IA avec Anne Alombert, Patrick Perez, et Yoshua Bengio .
+
+https://t.co/LC4FdvTaJF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1678725191596408833"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 11 Jul 2023 11:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giving a talk in Italy is usually a bit different from the USA...
+Great visit to the University of Trento/Rovereto and Italian Institute of Technology with @Gozzi_Ale as fantastic host. https://t.co/DLOQ4El14z</title>
+      <link>https://twitter.com/PessoaBrain/status/1678727301356310530</link>
+      <description>Giving a talk in Italy is usually a bit different from the USA...
+Great visit to the University of Trento/Rovereto and Italian Institute of Technology with @Gozzi_Ale as fantastic host. https://t.co/DLOQ4El14z</description>
+      <content:encoded>Giving a talk in Italy is usually a bit different from the USA...
+Great visit to the University of Trento/Rovereto and Italian Institute of Technology with @Gozzi_Ale as fantastic host. https://t.co/DLOQ4El14z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1678727301356310530"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0wJk6OXoAAZecq.jpg" length="900" type="photo"/>
+      <pubDate>Tue, 11 Jul 2023 11:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blue parrotfish have pharyngeal teeth that grind ingested rocks into sand. No other species has this uniform blue color as adults
+
+[source: https://t.co/rAg5Pb9brd]
+https://t.co/eSwICwXD5P</title>
+      <link>https://twitter.com/Rainmaker1973/status/1678727612581945344</link>
+      <description>Blue parrotfish have pharyngeal teeth that grind ingested rocks into sand. No other species has this uniform blue color as adults
+
+[source: https://t.co/rAg5Pb9brd]
+https://t.co/eSwICwXD5P</description>
+      <content:encoded>Blue parrotfish have pharyngeal teeth that grind ingested rocks into sand. No other species has this uniform blue color as adults
+
+[source: https://t.co/rAg5Pb9brd]
+https://t.co/eSwICwXD5P&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1678727612581945344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1678480054366420995/pu/img/YpjEVZw6XXOF_Nwz.jpg" length="720" type="photo"/>
+      <pubDate>Tue, 11 Jul 2023 11:27:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yoga and Wellness, Neo-Shamanism, and Psychics as entry points to QAnon https://t.co/sByPUfWSfW Makes sense, any group based on the idea of an "us" who knows truths denied by "them" is suspect in my eyes. https://t.co/unWRsCDrfW</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1678729268279246849</link>
+      <description>Yoga and Wellness, Neo-Shamanism, and Psychics as entry points to QAnon https://t.co/sByPUfWSfW Makes sense, any group based on the idea of an "us" who knows truths denied by "them" is suspect in my eyes. https://t.co/unWRsCDrfW</description>
+      <content:encoded>Yoga and Wellness, Neo-Shamanism, and Psychics as entry points to QAnon https://t.co/sByPUfWSfW Makes sense, any group based on the idea of an "us" who knows truths denied by "them" is suspect in my eyes. https://t.co/unWRsCDrfW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1678729268279246849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0wLCH7WcAAoqwp.png" length="761" type="photo"/>
+      <pubDate>Tue, 11 Jul 2023 11:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>@PessoaBrain @Gozzi_Ale Waiting for you in Padua 👀 https://t.co/YhXhgYg0q3</title>
+      <link>https://twitter.com/manlius84/status/1678732153222225921</link>
+      <description>@PessoaBrain @Gozzi_Ale Waiting for you in Padua 👀 https://t.co/YhXhgYg0q3</description>
+      <content:encoded>@PessoaBrain @Gozzi_Ale Waiting for you in Padua 👀 https://t.co/YhXhgYg0q3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1678732153222225921"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0wN-dYX0AA97BQ.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 11 Jul 2023 11:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>No symptoms doesn't = no risk! Wilbert Aronow recommends this Danish study in @AnnalsofIM showing that even subclinical, asymptomatic #coronaryatherosclerosis can lead to a significantly heightened risk of #ischemicheartdisease &amp;amp; #myocardialinfarction
+
+https://t.co/ZdWfnMU4vB https://t.co/gbFJrTxkaj</title>
+      <link>https://twitter.com/H1Connect/status/1678732749811732480</link>
+      <description>No symptoms doesn't = no risk! Wilbert Aronow recommends this Danish study in @AnnalsofIM showing that even subclinical, asymptomatic #coronaryatherosclerosis can lead to a significantly heightened risk of #ischemicheartdisease &amp;amp; #myocardialinfarction
+
+https://t.co/ZdWfnMU4vB https://t.co/gbFJrTxkaj</description>
+      <content:encoded>No symptoms doesn't = no risk! Wilbert Aronow recommends this Danish study in @AnnalsofIM showing that even subclinical, asymptomatic #coronaryatherosclerosis can lead to a significantly heightened risk of #ischemicheartdisease &amp;amp; #myocardialinfarction
+
+https://t.co/ZdWfnMU4vB https://t.co/gbFJrTxkaj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/H1Connect/status/1678732749811732480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F0wOih1XsAAtbj3.jpg" length="764" type="photo"/>
+      <pubDate>Tue, 11 Jul 2023 11:47:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>The superb lyrebird is an Australian songbird. It is one of the world's largest songbirds, and is renowned for its elaborate tail and courtship displays, and its excellent mimicry 
+
+[📹 World Birds]
+[read more: https://t.co/pNNwZsFtLc]
+https://t.co/WD1mXFqhHS</title>
+      <link>https://twitter.com/Rainmaker1973/status/1678732894351548419</link>
+      <description>The superb lyrebird is an Australian songbird. It is one of the world's largest songbirds, and is renowned for its elaborate tail and courtship displays, and its excellent mimicry 
+
+[📹 World Birds]
+[read more: https://t.co/pNNwZsFtLc]
+https://t.co/WD1mXFqhHS</description>
+      <content:encoded>The superb lyrebird is an Australian songbird. It is one of the world's largest songbirds, and is renowned for its elaborate tail and courtship displays, and its excellent mimicry 
+
+[📹 World Birds]
+[read more: https://t.co/pNNwZsFtLc]
+https://t.co/WD1mXFqhHS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1678732894351548419"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1515026307737964550/pu/img/62J75c20Reij4gI2.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 11 Jul 2023 11:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>@karolinskainst  och Karolinska Universitetssjukhuset stärker satsningen på avancerade cell-, gen- och vävnadsterapier genom att etablera Karolinska ATMP-centrum👉https://t.co/mk1gW7sb9S #karolinska #cellterapi #atmpcentrum #atmp #satsning</title>
+      <link>https://twitter.com/KarolinskaUnsju/status/1678735756230111243</link>
+      <description>@karolinskainst  och Karolinska Universitetssjukhuset stärker satsningen på avancerade cell-, gen- och vävnadsterapier genom att etablera Karolinska ATMP-centrum👉https://t.co/mk1gW7sb9S #karolinska #cellterapi #atmpcentrum #atmp #satsning</description>
+      <content:encoded>@karolinskainst  och Karolinska Universitetssjukhuset stärker satsningen på avancerade cell-, gen- och vävnadsterapier genom att etablera Karolinska ATMP-centrum👉https://t.co/mk1gW7sb9S #karolinska #cellterapi #atmpcentrum #atmp #satsning&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KarolinskaUnsju/status/1678735756230111243"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 11 Jul 2023 11:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toddlers regulate behavior to avoid making adults angry. This experiment led by the University of Washington shows how children as young as 15 months can detect anger when watching other people’s social interactions 
+
+[read more: https://t.co/inkLZ43jXt] https://t.co/NzNTpG3nIN https://t.co/K4NP5pSqpC</title>
+      <link>https://twitter.com/Rainmaker1973/status/1678735799515324420</link>
+      <description>Toddlers regulate behavior to avoid making adults angry. This experiment led by the University of Washington shows how children as young as 15 months can detect anger when watching other people’s social interactions 
+
+[read more: https://t.co/inkLZ43jXt] https://t.co/NzNTpG3nIN https://t.co/K4NP5pSqpC</description>
+      <content:encoded>Toddlers regulate behavior to avoid making adults angry. This experiment led by the University of Washington shows how children as young as 15 months can detect anger when watching other people’s social interactions 
+
+[read more: https://t.co/inkLZ43jXt] https://t.co/NzNTpG3nIN https://t.co/K4NP5pSqpC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1678735799515324420"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1678735755026333697/pu/img/Gg_v9idqC4tTmrfR.jpg" length="324" type="photo"/>
+      <pubDate>Tue, 11 Jul 2023 11:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MBFBioscience: ClearScope is the revolutionary light sheet theta microscope system! Use to image small specimens (whole mouse and rat b…</title>
+      <link>https://twitter.com/INCForg/status/1678738899387006976</link>
+      <description>RT @MBFBioscience: ClearScope is the revolutionary light sheet theta microscope system! Use to image small specimens (whole mouse and rat b…</description>
+      <content:encoded>RT @MBFBioscience: ClearScope is the revolutionary light sheet theta microscope system! Use to image small specimens (whole mouse and rat b…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1678738899387006976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 11 Jul 2023 12:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>This video shows how traditional Uzbek bread is made. The doughs are baked upside down, where the heat keeps them in place and the bakers know exactly when to grab them out of the oven before they fall off
+
+[full video, Pure Life: https://t.co/QM1aun0W0i]
+https://t.co/Ka7AdFXEhe</title>
+      <link>https://twitter.com/Rainmaker1973/status/1678739992602988545</link>
+      <description>This video shows how traditional Uzbek bread is made. The doughs are baked upside down, where the heat keeps them in place and the bakers know exactly when to grab them out of the oven before they fall off
+
+[full video, Pure Life: https://t.co/QM1aun0W0i]
+https://t.co/Ka7AdFXEhe</description>
+      <content:encoded>This video shows how traditional Uzbek bread is made. The doughs are baked upside down, where the heat keeps them in place and the bakers know exactly when to grab them out of the oven before they fall off
+
+[full video, Pure Life: https://t.co/QM1aun0W0i]
+https://t.co/Ka7AdFXEhe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1678739992602988545"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1483809216670453765/pu/img/J8FETh0cdbpC2Q6W.jpg" length="960" type="photo"/>
+      <pubDate>Tue, 11 Jul 2023 12:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>String artist Pilusion starts from a blank boards with 200 nails and weaves impressive portraits
+
+[source: https://t.co/35hthfSiki]
+[site: https://t.co/itvpGq26xx]
+https://t.co/icquvZvGpM</title>
+      <link>https://twitter.com/Rainmaker1973/status/1678744149489532928</link>
+      <description>String artist Pilusion starts from a blank boards with 200 nails and weaves impressive portraits
+
+[source: https://t.co/35hthfSiki]
+[site: https://t.co/itvpGq26xx]
+https://t.co/icquvZvGpM</description>
+      <content:encoded>String artist Pilusion starts from a blank boards with 200 nails and weaves impressive portraits
+
+[source: https://t.co/35hthfSiki]
+[site: https://t.co/itvpGq26xx]
+https://t.co/icquvZvGpM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1678744149489532928"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1678690098563391489/pu/img/-W1e2QdNfT2dZjdf.jpg" length="368" type="photo"/>
+      <pubDate>Tue, 11 Jul 2023 12:32:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
