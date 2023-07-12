@@ -6,124 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jul 2023 08:23:10 +0000</lastBuildDate>
-    <item>
-      <title>From @BoWang87 (4/n) 
-
-https://t.co/UH3TzlONJO</title>
-      <link>https://twitter.com/naturemethods/status/1678798918455271427</link>
-      <description>From @BoWang87 (4/n) 
-
-https://t.co/UH3TzlONJO</description>
-      <content:encoded>From @BoWang87 (4/n) 
-
-https://t.co/UH3TzlONJO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1678798918455271427"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 16:10:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>From @davidvanvalen (5/n)
-
-https://t.co/fOyBmWyjYF</title>
-      <link>https://twitter.com/naturemethods/status/1678798920036564995</link>
-      <description>From @davidvanvalen (5/n)
-
-https://t.co/fOyBmWyjYF</description>
-      <content:encoded>From @davidvanvalen (5/n)
-
-https://t.co/fOyBmWyjYF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1678798920036564995"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 16:10:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Qionghai Dai (6/n)
-
-https://t.co/bHdpnfkIU0</title>
-      <link>https://twitter.com/naturemethods/status/1678798921533931521</link>
-      <description>From Qionghai Dai (6/n)
-
-https://t.co/bHdpnfkIU0</description>
-      <content:encoded>From Qionghai Dai (6/n)
-
-https://t.co/bHdpnfkIU0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1678798921533931521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 16:10:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>In their piece, @EliceiriK and @DrAnneCarpenter envision smart microscopes of the future and how to get there. (7/n)
-
-https://t.co/uLLJwhaRF3</title>
-      <link>https://twitter.com/naturemethods/status/1678798923173961730</link>
-      <description>In their piece, @EliceiriK and @DrAnneCarpenter envision smart microscopes of the future and how to get there. (7/n)
-
-https://t.co/uLLJwhaRF3</description>
-      <content:encoded>In their piece, @EliceiriK and @DrAnneCarpenter envision smart microscopes of the future and how to get there. (7/n)
-
-https://t.co/uLLJwhaRF3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1678798923173961730"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 16:10:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>.@Malacridalab discusses bringing hypserspectral and fluorescence lifetime imaging into the 21st century and to a broad audience using advanced image analysis tools. (8/n)
-
-https://t.co/bfOpo4VXHH</title>
-      <link>https://twitter.com/naturemethods/status/1678798924838993920</link>
-      <description>.@Malacridalab discusses bringing hypserspectral and fluorescence lifetime imaging into the 21st century and to a broad audience using advanced image analysis tools. (8/n)
-
-https://t.co/bfOpo4VXHH</description>
-      <content:encoded>.@Malacridalab discusses bringing hypserspectral and fluorescence lifetime imaging into the 21st century and to a broad audience using advanced image analysis tools. (8/n)
-
-https://t.co/bfOpo4VXHH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1678798924838993920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 16:10:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pieces from Susanne Rafelski and colleagues and @TalleyJLambert and @JenCWaters discuss the importance of doing advanced image analysis correctly, for a future where bioimage analysis is robust and reproducible. (9/n)
-
-https://t.co/26DWZLnO0s</title>
-      <link>https://twitter.com/naturemethods/status/1678798926630068224</link>
-      <description>Pieces from Susanne Rafelski and colleagues and @TalleyJLambert and @JenCWaters discuss the importance of doing advanced image analysis correctly, for a future where bioimage analysis is robust and reproducible. (9/n)
-
-https://t.co/26DWZLnO0s</description>
-      <content:encoded>Pieces from Susanne Rafelski and colleagues and @TalleyJLambert and @JenCWaters discuss the importance of doing advanced image analysis correctly, for a future where bioimage analysis is robust and reproducible. (9/n)
-
-https://t.co/26DWZLnO0s&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1678798926630068224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 16:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>From @TalleyJLambert and @JenCWaters (10/n)
-
-https://t.co/O1V2aTGiob</title>
-      <link>https://twitter.com/naturemethods/status/1678798928253157378</link>
-      <description>From @TalleyJLambert and @JenCWaters (10/n)
-
-https://t.co/O1V2aTGiob</description>
-      <content:encoded>From @TalleyJLambert and @JenCWaters (10/n)
-
-https://t.co/O1V2aTGiob&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1678798928253157378"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 16:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>.@florianjug and colleagues emphasize the importance of community on the future of bioimage analysis, where FAIR data sharing and robust, accessible tools work together to drive biological discovery. (11/n)
-
-https://t.co/IqhkUvBlKY</title>
-      <link>https://twitter.com/naturemethods/status/1678798929716998145</link>
-      <description>.@florianjug and colleagues emphasize the importance of community on the future of bioimage analysis, where FAIR data sharing and robust, accessible tools work together to drive biological discovery. (11/n)
-
-https://t.co/IqhkUvBlKY</description>
-      <content:encoded>.@florianjug and colleagues emphasize the importance of community on the future of bioimage analysis, where FAIR data sharing and robust, accessible tools work together to drive biological discovery. (11/n)
-
-https://t.co/IqhkUvBlKY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1678798929716998145"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 16:10:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>.@EliceiriK and @CiminiLab invite microscopists to play a game of twenty questions to help match users with specific image analysis needs with appropriate tools. (12/n)
-
-https://t.co/dheFtek3e1</title>
-      <link>https://twitter.com/naturemethods/status/1678798931394719748</link>
-      <description>.@EliceiriK and @CiminiLab invite microscopists to play a game of twenty questions to help match users with specific image analysis needs with appropriate tools. (12/n)
-
-https://t.co/dheFtek3e1</description>
-      <content:encoded>.@EliceiriK and @CiminiLab invite microscopists to play a game of twenty questions to help match users with specific image analysis needs with appropriate tools. (12/n)
-
-https://t.co/dheFtek3e1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1678798931394719748"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 16:10:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jul 2023 09:18:01 +0000</lastBuildDate>
     <item>
       <title>Finally, @mike_r_oscope and colleagues envision a bright future for bioimage analysis and bioimage analysts in Africa and offer a roadmap to get there. (13/n) 
 
@@ -1938,6 +1821,103 @@ https://t.co/GzHtqVrgdV</description>
 https://t.co/GzHtqVrgdV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679043005473275904"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1678830317074018304/pu/img/df9u-hzBe6UNjym5.jpg" length="400" type="photo"/>
       <pubDate>Wed, 12 Jul 2023 08:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @bccn_berlin: Excited to meet you at #SONA2023 at our booth #4  together with @BernsteinNeuro and @MPS_cog. Informing about  studying in…</title>
+      <link>https://twitter.com/BernsteinNeuro/status/1679046922328326144</link>
+      <description>RT @bccn_berlin: Excited to meet you at #SONA2023 at our booth #4  together with @BernsteinNeuro and @MPS_cog. Informing about  studying in…</description>
+      <content:encoded>RT @bccn_berlin: Excited to meet you at #SONA2023 at our booth #4  together with @BernsteinNeuro and @MPS_cog. Informing about  studying in…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1679046922328326144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 08:35:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>In this beautiful close up by gemstone hobbyist Jeff Schultz, we see a stunning Mexican fire opal. When illuminated just right, it looks like a sunset above the clouds 
+
+[source, read more: https://t.co/Nj1Y4O9ZQC] https://t.co/WETwkyq3HH</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679047966923915266</link>
+      <description>In this beautiful close up by gemstone hobbyist Jeff Schultz, we see a stunning Mexican fire opal. When illuminated just right, it looks like a sunset above the clouds 
+
+[source, read more: https://t.co/Nj1Y4O9ZQC] https://t.co/WETwkyq3HH</description>
+      <content:encoded>In this beautiful close up by gemstone hobbyist Jeff Schultz, we see a stunning Mexican fire opal. When illuminated just right, it looks like a sunset above the clouds 
+
+[source, read more: https://t.co/Nj1Y4O9ZQC] https://t.co/WETwkyq3HH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679047966923915266"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F00tL3GWIAEbC4F.jpg" length="721" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 08:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gyro-Cut is a curious tool that thanks to its design, allows you to accurately cut curved profile or simply make fanciful wavy cut ups
+
+[video, how it works: https://t.co/AHe0TSV4nu]
+https://t.co/wuqzGUnqhW</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679049093576884226</link>
+      <description>Gyro-Cut is a curious tool that thanks to its design, allows you to accurately cut curved profile or simply make fanciful wavy cut ups
+
+[video, how it works: https://t.co/AHe0TSV4nu]
+https://t.co/wuqzGUnqhW</description>
+      <content:encoded>Gyro-Cut is a curious tool that thanks to its design, allows you to accurately cut curved profile or simply make fanciful wavy cut ups
+
+[video, how it works: https://t.co/AHe0TSV4nu]
+https://t.co/wuqzGUnqhW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679049093576884226"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1678917876177092610/img/vhCNlyXB6hLCo7lk.jpg" length="720" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 08:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>@BasuNeuro82</title>
+      <link>https://twitter.com/FrontNeurosci/status/1679049977983651841</link>
+      <description>@BasuNeuro82</description>
+      <content:encoded>@BasuNeuro82&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1679049977983651841"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 08:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>A European space telescope sets off to discover the nature of dark energy—the biggest ingredient in the universe.
+
+Learn more in this @NewsfromScience feature: https://t.co/HvwJfZ1Si0 https://t.co/yqoZaA7SHd</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679053026827411457</link>
+      <description>A European space telescope sets off to discover the nature of dark energy—the biggest ingredient in the universe.
+
+Learn more in this @NewsfromScience feature: https://t.co/HvwJfZ1Si0 https://t.co/yqoZaA7SHd</description>
+      <content:encoded>A European space telescope sets off to discover the nature of dark energy—the biggest ingredient in the universe.
+
+Learn more in this @NewsfromScience feature: https://t.co/HvwJfZ1Si0 https://t.co/yqoZaA7SHd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679053026827411457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F00x1GGXsAAYzyT.jpg" length="529" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 09:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>#Neuroscientists at Georgetown University Medical Center say the #brain’s auditory lexicon, a catalog of verbal language, is actually located in the front of the primary auditory cortex, not in the back of it. Read more here https://t.co/N8bzko7LSH https://t.co/vIIQ97tsHb</title>
+      <link>https://twitter.com/Scientifica_Int/status/1679053136760119296</link>
+      <description>#Neuroscientists at Georgetown University Medical Center say the #brain’s auditory lexicon, a catalog of verbal language, is actually located in the front of the primary auditory cortex, not in the back of it. Read more here https://t.co/N8bzko7LSH https://t.co/vIIQ97tsHb</description>
+      <content:encoded>#Neuroscientists at Georgetown University Medical Center say the #brain’s auditory lexicon, a catalog of verbal language, is actually located in the front of the primary auditory cortex, not in the back of it. Read more here https://t.co/N8bzko7LSH https://t.co/vIIQ97tsHb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1679053136760119296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F00x7WVWIAAPpsa.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 09:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @EliotJacobson: The 7 hottest days on Earth in the last 100,000+ years all happened in the last week:
+
+July 6 ~ 17.23°C / 63.01°F
+July 7…</title>
+      <link>https://twitter.com/CellTypist/status/1679053247913361409</link>
+      <description>RT @EliotJacobson: The 7 hottest days on Earth in the last 100,000+ years all happened in the last week:
+
+July 6 ~ 17.23°C / 63.01°F
+July 7…</description>
+      <content:encoded>RT @EliotJacobson: The 7 hottest days on Earth in the last 100,000+ years all happened in the last week:
+
+July 6 ~ 17.23°C / 63.01°F
+July 7…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1679053247913361409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 09:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using a drone, brothers photographers JP and Mike Andrews, capture natural and human made scenes across the world, stumbling upon unique patterns that can only be discerned from above, like this cargo ship's shadow 
+
+[source: https://t.co/cCZYzgDoal] https://t.co/650Orns5Fm</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679055176739479554</link>
+      <description>Using a drone, brothers photographers JP and Mike Andrews, capture natural and human made scenes across the world, stumbling upon unique patterns that can only be discerned from above, like this cargo ship's shadow 
+
+[source: https://t.co/cCZYzgDoal] https://t.co/650Orns5Fm</description>
+      <content:encoded>Using a drone, brothers photographers JP and Mike Andrews, capture natural and human made scenes across the world, stumbling upon unique patterns that can only be discerned from above, like this cargo ship's shadow 
+
+[source: https://t.co/cCZYzgDoal] https://t.co/650Orns5Fm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679055176739479554"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F00zt5AWAAEYQon.jpg" length="486" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 09:08:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
