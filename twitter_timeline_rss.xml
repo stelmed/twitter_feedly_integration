@@ -6,200 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jul 2023 15:18:51 +0000</lastBuildDate>
-    <item>
-      <title>This new #openscience resource allows the #neuroscience community to:
-
-🧠 Identify more cell types in the brain,
-🧠 Understand where they are, and
-🧠 Refine boundaries and knowledge of brain regions. https://t.co/O1s4udsHJM</title>
-      <link>https://twitter.com/AllenInstitute/status/1678873573254103040</link>
-      <description>This new #openscience resource allows the #neuroscience community to:
-
-🧠 Identify more cell types in the brain,
-🧠 Understand where they are, and
-🧠 Refine boundaries and knowledge of brain regions. https://t.co/O1s4udsHJM</description>
-      <content:encoded>This new #openscience resource allows the #neuroscience community to:
-
-🧠 Identify more cell types in the brain,
-🧠 Understand where they are, and
-🧠 Refine boundaries and knowledge of brain regions. https://t.co/O1s4udsHJM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1678873573254103040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0yNodIaQAAUUL0.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 11 Jul 2023 21:07:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dive deeper into how the Allen Brain Cell Atlas was made and the extraordinary diversity it is already revealing: https://t.co/X9MsPtSV43 https://t.co/8ljUiehWza</title>
-      <link>https://twitter.com/AllenInstitute/status/1678873575674224640</link>
-      <description>Dive deeper into how the Allen Brain Cell Atlas was made and the extraordinary diversity it is already revealing: https://t.co/X9MsPtSV43 https://t.co/8ljUiehWza</description>
-      <content:encoded>Dive deeper into how the Allen Brain Cell Atlas was made and the extraordinary diversity it is already revealing: https://t.co/X9MsPtSV43 https://t.co/8ljUiehWza&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1678873575674224640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F0yNuZcaQAApkX8.jpg" length="1080" type="photo"/>
-      <pubDate>Tue, 11 Jul 2023 21:07:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>In collaboration with @NIH and @AWS, the Allen Brain Cell Atlas will join other atlases on the Brain Knowledge Platform – soon to be the largest open-source database of brain cell data in the world. https://t.co/q7uxCW4hOy</title>
-      <link>https://twitter.com/AllenInstitute/status/1678873578413101056</link>
-      <description>In collaboration with @NIH and @AWS, the Allen Brain Cell Atlas will join other atlases on the Brain Knowledge Platform – soon to be the largest open-source database of brain cell data in the world. https://t.co/q7uxCW4hOy</description>
-      <content:encoded>In collaboration with @NIH and @AWS, the Allen Brain Cell Atlas will join other atlases on the Brain Knowledge Platform – soon to be the largest open-source database of brain cell data in the world. https://t.co/q7uxCW4hOy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1678873578413101056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 21:07:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Read an overview of the preliminary data, how to download it, and example use cases on the ABC Atlas @Github page. https://t.co/seXSuhuVkt</title>
-      <link>https://twitter.com/AllenInstitute/status/1678873579642052608</link>
-      <description>Read an overview of the preliminary data, how to download it, and example use cases on the ABC Atlas @Github page. https://t.co/seXSuhuVkt</description>
-      <content:encoded>Read an overview of the preliminary data, how to download it, and example use cases on the ABC Atlas @Github page. https://t.co/seXSuhuVkt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1678873579642052608"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 21:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>We’re always looking for feedback on our platform and how to make it even more accessible to the #OpenScience community. https://t.co/dEEA9pujST</title>
-      <link>https://twitter.com/AllenInstitute/status/1678873580891930631</link>
-      <description>We’re always looking for feedback on our platform and how to make it even more accessible to the #OpenScience community. https://t.co/dEEA9pujST</description>
-      <content:encoded>We’re always looking for feedback on our platform and how to make it even more accessible to the #OpenScience community. https://t.co/dEEA9pujST&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1678873580891930631"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 21:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Commitment to cell division is not an irreversible switch. Learn more in a terrific N&amp;amp;V by @Alexis_Barr  https://t.co/oxhO1RQREL</title>
-      <link>https://twitter.com/NatureNV/status/1678874150885117952</link>
-      <description>Commitment to cell division is not an irreversible switch. Learn more in a terrific N&amp;amp;V by @Alexis_Barr  https://t.co/oxhO1RQREL</description>
-      <content:encoded>Commitment to cell division is not an irreversible switch. Learn more in a terrific N&amp;amp;V by @Alexis_Barr  https://t.co/oxhO1RQREL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1678874150885117952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 21:09:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A huge thank you to @cziscience for funding our https://t.co/mEMGnwKHtG program, where we also met @choldgraf for the first time back in 2020! 🥳</title>
-      <link>https://twitter.com/TrackingActions/status/1678875806217428994</link>
-      <description>A huge thank you to @cziscience for funding our https://t.co/mEMGnwKHtG program, where we also met @choldgraf for the first time back in 2020! 🥳</description>
-      <content:encoded>A huge thank you to @cziscience for funding our https://t.co/mEMGnwKHtG program, where we also met @choldgraf for the first time back in 2020! 🥳&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1678875806217428994"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 21:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coming tomorrow 🔥 (sorry for my delay on submitting proper latex files to arxiv 🫣) …</title>
-      <link>https://twitter.com/TrackingActions/status/1678876326021808128</link>
-      <description>Coming tomorrow 🔥 (sorry for my delay on submitting proper latex files to arxiv 🫣) …</description>
-      <content:encoded>Coming tomorrow 🔥 (sorry for my delay on submitting proper latex files to arxiv 🫣) …&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1678876326021808128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 21:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>I already got different one but check this one for you please! https://t.co/0rv2S2ZPvf</title>
-      <link>https://twitter.com/ewadorotaz/status/1678883098405093378</link>
-      <description>I already got different one but check this one for you please! https://t.co/0rv2S2ZPvf</description>
-      <content:encoded>I already got different one but check this one for you please! https://t.co/0rv2S2ZPvf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1678883098405093378"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 21:44:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Level up your project or business with generative AI!
-
-In our new course made in collaboration with @AWScloud you’ll learn the technical foundations of generative AI with a focus on LLMs and get code in hand to kickstart your own projects.
-
-Enroll today: https://t.co/IyBiEgKV2e</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1678886884397973504</link>
-      <description>Level up your project or business with generative AI!
-
-In our new course made in collaboration with @AWScloud you’ll learn the technical foundations of generative AI with a focus on LLMs and get code in hand to kickstart your own projects.
-
-Enroll today: https://t.co/IyBiEgKV2e</description>
-      <content:encoded>Level up your project or business with generative AI!
-
-In our new course made in collaboration with @AWScloud you’ll learn the technical foundations of generative AI with a focus on LLMs and get code in hand to kickstart your own projects.
-
-Enroll today: https://t.co/IyBiEgKV2e&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1678886884397973504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In 1950, Claude Shannon built one of the world’s first examples of a machine capable of learning: a robotic maze-solving mouse known as Theseus - named after the ancient Greek hero who navigated through a Minotaur’s labyrinth.
-
-Learn more in today’s paper: https://t.co/Zmznsdeh7J https://t.co/w04h8ZSPlP</title>
-      <link>https://twitter.com/fermatslibrary/status/1678889071945617408</link>
-      <description>In 1950, Claude Shannon built one of the world’s first examples of a machine capable of learning: a robotic maze-solving mouse known as Theseus - named after the ancient Greek hero who navigated through a Minotaur’s labyrinth.
-
-Learn more in today’s paper: https://t.co/Zmznsdeh7J https://t.co/w04h8ZSPlP</description>
-      <content:encoded>In 1950, Claude Shannon built one of the world’s first examples of a machine capable of learning: a robotic maze-solving mouse known as Theseus - named after the ancient Greek hero who navigated through a Minotaur’s labyrinth.
-
-Learn more in today’s paper: https://t.co/Zmznsdeh7J https://t.co/w04h8ZSPlP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1678889071945617408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1678888971974344705/img/H8bfYGwmU01ibgBR.jpg" length="1024" type="photo"/>
-      <pubDate>Tue, 11 Jul 2023 22:08:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @arjunrajlab: I common hear that ChIP seq et al are not quantitative. What does that mean? If a peak is like 3x higher, should I not int…</title>
-      <link>https://twitter.com/sofroniewn/status/1678893179050004482</link>
-      <description>RT @arjunrajlab: I common hear that ChIP seq et al are not quantitative. What does that mean? If a peak is like 3x higher, should I not int…</description>
-      <content:encoded>RT @arjunrajlab: I common hear that ChIP seq et al are not quantitative. What does that mean? If a peak is like 3x higher, should I not int…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1678893179050004482"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 22:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congratulations, Faith!! So proud to work with you🙏 https://t.co/7kmhlV54Wh</title>
-      <link>https://twitter.com/kaymtye/status/1678893643594178564</link>
-      <description>Congratulations, Faith!! So proud to work with you🙏 https://t.co/7kmhlV54Wh</description>
-      <content:encoded>Congratulations, Faith!! So proud to work with you🙏 https://t.co/7kmhlV54Wh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1678893643594178564"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 22:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @insitro: Heading to #SciPy2023? Make sure to check out insitro’s Head of Computational Biology, Angela Pisco, for the Thursday keynote!…</title>
-      <link>https://twitter.com/sofroniewn/status/1678893689995935748</link>
-      <description>RT @insitro: Heading to #SciPy2023? Make sure to check out insitro’s Head of Computational Biology, Angela Pisco, for the Thursday keynote!…</description>
-      <content:encoded>RT @insitro: Heading to #SciPy2023? Make sure to check out insitro’s Head of Computational Biology, Angela Pisco, for the Thursday keynote!…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1678893689995935748"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 22:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://t.co/PWgWu1fltI</title>
-      <link>https://twitter.com/kaymtye/status/1678894004686012417</link>
-      <description>https://t.co/PWgWu1fltI</description>
-      <content:encoded>https://t.co/PWgWu1fltI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1678894004686012417"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0yhMi0WcAI20Ut.jpg" length="1200" type="photo"/>
-      <pubDate>Tue, 11 Jul 2023 22:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>What are the foundational principles of neuroscience? By which I mean: beliefs or assumptions that animate our study of the brain across topics. Things like a belief in a structure-function relationship or the neuron as the base unit.</title>
-      <link>https://twitter.com/neurograce/status/1678894080716144640</link>
-      <description>What are the foundational principles of neuroscience? By which I mean: beliefs or assumptions that animate our study of the brain across topics. Things like a belief in a structure-function relationship or the neuron as the base unit.</description>
-      <content:encoded>What are the foundational principles of neuroscience? By which I mean: beliefs or assumptions that animate our study of the brain across topics. Things like a belief in a structure-function relationship or the neuron as the base unit.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1678894080716144640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 22:28:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>@moriel_z @denisejcai @okaysteve @anna_beyeler @NadineGogolla @_Kellykimkim_ @lady_ginseng @maya_opendak @rachellepamintu</title>
-      <link>https://twitter.com/kaymtye/status/1678895146149052416</link>
-      <description>@moriel_z @denisejcai @okaysteve @anna_beyeler @NadineGogolla @_Kellykimkim_ @lady_ginseng @maya_opendak @rachellepamintu</description>
-      <content:encoded>@moriel_z @denisejcai @okaysteve @anna_beyeler @NadineGogolla @_Kellykimkim_ @lady_ginseng @maya_opendak @rachellepamintu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1678895146149052416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 22:32:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@moriel_z @denisejcai @okaysteve @anna_beyeler @NadineGogolla @_Kellykimkim_ @lady_ginseng @maya_opendak @rachellepamintu @rvpamintu</title>
-      <link>https://twitter.com/kaymtye/status/1678895803467792384</link>
-      <description>@moriel_z @denisejcai @okaysteve @anna_beyeler @NadineGogolla @_Kellykimkim_ @lady_ginseng @maya_opendak @rachellepamintu @rvpamintu</description>
-      <content:encoded>@moriel_z @denisejcai @okaysteve @anna_beyeler @NadineGogolla @_Kellykimkim_ @lady_ginseng @maya_opendak @rachellepamintu @rvpamintu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kaymtye/status/1678895803467792384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 22:35:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: Molecular and long-term behavioral consequences of neonatal opioid exposure and withdrawal in mice: Introduction
-
-Infants exposed to opioids in utero are at high risk of exhibiting Neonatal Opioid Withdrawal Syndrome (NOWS), a… #neuroscience https://t.co/wPviwCVvCZ</title>
-      <link>https://twitter.com/FrontNeurosci/status/1678897464513024001</link>
-      <description>New Research: Molecular and long-term behavioral consequences of neonatal opioid exposure and withdrawal in mice: Introduction
-
-Infants exposed to opioids in utero are at high risk of exhibiting Neonatal Opioid Withdrawal Syndrome (NOWS), a… #neuroscience https://t.co/wPviwCVvCZ</description>
-      <content:encoded>New Research: Molecular and long-term behavioral consequences of neonatal opioid exposure and withdrawal in mice: Introduction
-
-Infants exposed to opioids in utero are at high risk of exhibiting Neonatal Opioid Withdrawal Syndrome (NOWS), a… #neuroscience https://t.co/wPviwCVvCZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1678897464513024001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Tue, 11 Jul 2023 22:42:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Call for community review: 2 new neuroscience SBPs!
-
-1. Digital SWC Reconstructions Describing Neuron Morphology Review by Aug 15: https://t.co/583fr81moU
-
-2. SPARC Data Structure Review by Aug 15: https://t.co/jLSDVhbIJa https://t.co/XMhKzIR129</title>
-      <link>https://twitter.com/INCForg/status/1678904824203444224</link>
-      <description>Call for community review: 2 new neuroscience SBPs!
-
-1. Digital SWC Reconstructions Describing Neuron Morphology Review by Aug 15: https://t.co/583fr81moU
-
-2. SPARC Data Structure Review by Aug 15: https://t.co/jLSDVhbIJa https://t.co/XMhKzIR129</description>
-      <content:encoded>Call for community review: 2 new neuroscience SBPs!
-
-1. Digital SWC Reconstructions Describing Neuron Morphology Review by Aug 15: https://t.co/583fr81moU
-
-2. SPARC Data Structure Review by Aug 15: https://t.co/jLSDVhbIJa https://t.co/XMhKzIR129&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1678904824203444224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0yrCPMWAAMqT3O.png" length="550" type="photo"/>
-      <pubDate>Tue, 11 Jul 2023 23:11:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jul 2023 16:24:05 +0000</lastBuildDate>
     <item>
       <title>🧠 Big things are happening on the #OpenScope front! Brace yourself for a triple dose of #neuroscience news! 🎉🧵@alleninstitute</title>
       <link>https://twitter.com/LecoqJerome/status/1678912073320009728</link>
@@ -1645,6 +1452,20 @@ https://t.co/XzP3D271aP https://t.co/3mGnw1cNBO&lt;blockquote class="twitter-twe
       <pubDate>Wed, 12 Jul 2023 13:10:17 +0000</pubDate>
     </item>
     <item>
+      <title>Specifically, we developed a smartly constrained API, with 3 LLMs that interact to correct errors, rephrase, do dynamic matching, and do spatiotemporal reasoning over your videos!
+
+PLUS, a fast, novel dual-memory system to overcome token limits... https://t.co/teVBXaHBV8</title>
+      <link>https://twitter.com/TrackingActions/status/1679115967027200003</link>
+      <description>Specifically, we developed a smartly constrained API, with 3 LLMs that interact to correct errors, rephrase, do dynamic matching, and do spatiotemporal reasoning over your videos!
+
+PLUS, a fast, novel dual-memory system to overcome token limits... https://t.co/teVBXaHBV8</description>
+      <content:encoded>Specifically, we developed a smartly constrained API, with 3 LLMs that interact to correct errors, rephrase, do dynamic matching, and do spatiotemporal reasoning over your videos!
+
+PLUS, a fast, novel dual-memory system to overcome token limits... https://t.co/teVBXaHBV8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1679115967027200003"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F01gmvYWIAAhSnV.png" length="1200" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 13:10:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Of course, this is NOT a final🪄 solution, it's a proof of concept &amp;amp; we, lead by 🧙@shaokaiyeah, are actively improving AmadeusGPT!
 
 We greatly thank @kinematikAI for hosting this demo in 🤝 w/@mwmathis  &amp;amp; the @TheValleeFdn for funding!
@@ -2056,6 +1877,207 @@ Here's how educators can create a learning environment in which students feel co
 
 Here's how educators can create a learning environment in which students feel comfortable voicing their opinions ⬇️ https://t.co/Uu8tQniCPG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1679146287814553600"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Wed, 12 Jul 2023 15:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @NerdyChristie: Not knowing is apparently so awful to us that people will trade pain for useless information. Now that I think about it,…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679148527140864001</link>
+      <description>RT @NerdyChristie: Not knowing is apparently so awful to us that people will trade pain for useless information. Now that I think about it,…</description>
+      <content:encoded>RT @NerdyChristie: Not knowing is apparently so awful to us that people will trade pain for useless information. Now that I think about it,…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679148527140864001"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 15:19:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iridescent clouds are a diffraction phenomenon caused by small water droplets or small ice crystals individually scattering light. They often occur on lenticular clouds on top of a cumulonimbus, called pileus
+
+[read more: https://t.co/5BjLnzKzTd]
+https://t.co/0x0XDojI5B</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679150321329733634</link>
+      <description>Iridescent clouds are a diffraction phenomenon caused by small water droplets or small ice crystals individually scattering light. They often occur on lenticular clouds on top of a cumulonimbus, called pileus
+
+[read more: https://t.co/5BjLnzKzTd]
+https://t.co/0x0XDojI5B</description>
+      <content:encoded>Iridescent clouds are a diffraction phenomenon caused by small water droplets or small ice crystals individually scattering light. They often occur on lenticular clouds on top of a cumulonimbus, called pileus
+
+[read more: https://t.co/5BjLnzKzTd]
+https://t.co/0x0XDojI5B&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679150321329733634"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1677781598899429377/img/F7f0mZ-bJAUxE8b-.jpg" length="675" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 15:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data show that decentralized contact-tracing apps saved thousands of lives during the COVID-19 pandemic. A Comment article in @Nature argues that national and international authorities must invest in the technology now. https://t.co/mmBZoQozcH</title>
+      <link>https://twitter.com/NaturePortfolio/status/1679150875044986880</link>
+      <description>Data show that decentralized contact-tracing apps saved thousands of lives during the COVID-19 pandemic. A Comment article in @Nature argues that national and international authorities must invest in the technology now. https://t.co/mmBZoQozcH</description>
+      <content:encoded>Data show that decentralized contact-tracing apps saved thousands of lives during the COVID-19 pandemic. A Comment article in @Nature argues that national and international authorities must invest in the technology now. https://t.co/mmBZoQozcH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679150875044986880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 15:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CellGenomics: Multiset correlation and factor analysis enables exploration of multi-omics data https://t.co/NsagAuCu3p</title>
+      <link>https://twitter.com/gottapatchemall/status/1679155354435989504</link>
+      <description>RT @CellGenomics: Multiset correlation and factor analysis enables exploration of multi-omics data https://t.co/NsagAuCu3p</description>
+      <content:encoded>RT @CellGenomics: Multiset correlation and factor analysis enables exploration of multi-omics data https://t.co/NsagAuCu3p&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/gottapatchemall/status/1679155354435989504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 15:46:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @KevinKaichuang: De novo design of new protein folds not observed in nature 
+
+@shintaro_minami @kobnaoya 
+
+https://t.co/6ma8YpKWyq https…</title>
+      <link>https://twitter.com/sofroniewn/status/1679156545576374272</link>
+      <description>RT @KevinKaichuang: De novo design of new protein folds not observed in nature 
+
+@shintaro_minami @kobnaoya 
+
+https://t.co/6ma8YpKWyq https…</description>
+      <content:encoded>RT @KevinKaichuang: De novo design of new protein folds not observed in nature 
+
+@shintaro_minami @kobnaoya 
+
+https://t.co/6ma8YpKWyq https…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1679156545576374272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 15:51:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research Highlight by @DrLeiTang: @Anders_S_Hansen and colleagues integrated an enrichment strategy to Micro-C to obtain fine-scale resolution 3D genome maps.
+https://t.co/4ls5CQzwte</title>
+      <link>https://twitter.com/naturemethods/status/1679157426216398848</link>
+      <description>Research Highlight by @DrLeiTang: @Anders_S_Hansen and colleagues integrated an enrichment strategy to Micro-C to obtain fine-scale resolution 3D genome maps.
+https://t.co/4ls5CQzwte</description>
+      <content:encoded>Research Highlight by @DrLeiTang: @Anders_S_Hansen and colleagues integrated an enrichment strategy to Micro-C to obtain fine-scale resolution 3D genome maps.
+https://t.co/4ls5CQzwte&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1679157426216398848"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 15:55:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PhysInHistory: Wolfgang Pauli was a remarkable physicist who made significant contributions to quantum physics and won the Nobel Prize…</title>
+      <link>https://twitter.com/ProfFeynman/status/1679158245250985986</link>
+      <description>RT @PhysInHistory: Wolfgang Pauli was a remarkable physicist who made significant contributions to quantum physics and won the Nobel Prize…</description>
+      <content:encoded>RT @PhysInHistory: Wolfgang Pauli was a remarkable physicist who made significant contributions to quantum physics and won the Nobel Prize…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1679158245250985986"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 15:58:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Study, think, create, and grow. Teach yourself and teach others.</title>
+      <link>https://twitter.com/ProfFeynman/status/1679158484112392192</link>
+      <description>Study, think, create, and grow. Teach yourself and teach others.</description>
+      <content:encoded>Study, think, create, and grow. Teach yourself and teach others.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ProfFeynman/status/1679158484112392192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 15:59:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The amazing "rocking line" illusion. The black bar is moving straight to the right, but it looks like it's bumping up and down! https://t.co/ZRR39nJBlY &amp;amp;  https://t.co/AC0eFjS2ie https://t.co/8shqJ9lYEN</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1679159046631194624</link>
+      <description>The amazing "rocking line" illusion. The black bar is moving straight to the right, but it looks like it's bumping up and down! https://t.co/ZRR39nJBlY &amp;amp;  https://t.co/AC0eFjS2ie https://t.co/8shqJ9lYEN</description>
+      <content:encoded>The amazing "rocking line" illusion. The black bar is moving straight to the right, but it looks like it's bumping up and down! https://t.co/ZRR39nJBlY &amp;amp;  https://t.co/AC0eFjS2ie https://t.co/8shqJ9lYEN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1679159046631194624"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F02SGAOWYAAdGVK.jpg" length="448" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 16:01:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>KI and @KarolinskaUnsju have signed an agreement to establish a joint center for advanced cell, gene and tissue therapies – Karolinska ATMP Centre.
+
+Read more here ⬇️
+https://t.co/KKqSQtoCjJ https://t.co/twJorD7bHg</title>
+      <link>https://twitter.com/karolinskainst/status/1679159678612262913</link>
+      <description>KI and @KarolinskaUnsju have signed an agreement to establish a joint center for advanced cell, gene and tissue therapies – Karolinska ATMP Centre.
+
+Read more here ⬇️
+https://t.co/KKqSQtoCjJ https://t.co/twJorD7bHg</description>
+      <content:encoded>KI and @KarolinskaUnsju have signed an agreement to establish a joint center for advanced cell, gene and tissue therapies – Karolinska ATMP Centre.
+
+Read more here ⬇️
+https://t.co/KKqSQtoCjJ https://t.co/twJorD7bHg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/karolinskainst/status/1679159678612262913"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F02QjJDX0AAGvVs.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 16:03:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT acronyms decoded
+
+[📹 iklogic: https://t.co/WhuPZnxpif]
+https://t.co/GntTdDkyqX</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679159856953978880</link>
+      <description>IT acronyms decoded
+
+[📹 iklogic: https://t.co/WhuPZnxpif]
+https://t.co/GntTdDkyqX</description>
+      <content:encoded>IT acronyms decoded
+
+[📹 iklogic: https://t.co/WhuPZnxpif]
+https://t.co/GntTdDkyqX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679159856953978880"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1677173143109074945/pu/img/Jr6mBeCUGg8YhroT.jpg" length="406" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 16:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiera Fletcher ’17: Finding the purpose that propels us: The aerospace engineer, mentor, and author talks motivation and representation with MIT Libraries staff. https://t.co/xgLGMeR654 https://t.co/yA8vNShi2H</title>
+      <link>https://twitter.com/MIT/status/1679160013389025280</link>
+      <description>Tiera Fletcher ’17: Finding the purpose that propels us: The aerospace engineer, mentor, and author talks motivation and representation with MIT Libraries staff. https://t.co/xgLGMeR654 https://t.co/yA8vNShi2H</description>
+      <content:encoded>Tiera Fletcher ’17: Finding the purpose that propels us: The aerospace engineer, mentor, and author talks motivation and representation with MIT Libraries staff. https://t.co/xgLGMeR654 https://t.co/yA8vNShi2H&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1679160013389025280"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F02TIaaXoAMejSv.jpg" length="1200" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 16:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>New kit alert! 🎉🎉
+The CEAS kit contains strain construction vectors used to lower gene expression in Saccharomyces cerevisiae.
+
+https://t.co/xiRfZY2yzs https://t.co/UQAJJMtD41</title>
+      <link>https://twitter.com/Addgene/status/1679160192234057730</link>
+      <description>New kit alert! 🎉🎉
+The CEAS kit contains strain construction vectors used to lower gene expression in Saccharomyces cerevisiae.
+
+https://t.co/xiRfZY2yzs https://t.co/UQAJJMtD41</description>
+      <content:encoded>New kit alert! 🎉🎉
+The CEAS kit contains strain construction vectors used to lower gene expression in Saccharomyces cerevisiae.
+
+https://t.co/xiRfZY2yzs https://t.co/UQAJJMtD41&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1679160192234057730"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F02TTAHWwAEmlux.jpg" length="500" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 16:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engaging communities who are underrepresented in genomics research can accelerate the future of #PrecisionHealth. Here’s how: https://t.co/oqEP2nwWjC https://t.co/nXUOML4Xy2</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1679161895696101377</link>
+      <description>Engaging communities who are underrepresented in genomics research can accelerate the future of #PrecisionHealth. Here’s how: https://t.co/oqEP2nwWjC https://t.co/nXUOML4Xy2</description>
+      <content:encoded>Engaging communities who are underrepresented in genomics research can accelerate the future of #PrecisionHealth. Here’s how: https://t.co/oqEP2nwWjC https://t.co/nXUOML4Xy2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1679161895696101377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F02U1_XWcAAHQGK.png" length="1200" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 16:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yixing clay teapots are made from Yixing clay. This traditional style originated in China, dating back to the 15th century, and are made from clay produced near Yixing in the eastern Chinese province of Jiangsu
+
+[📹 makingceramic: https://t.co/qIM3jk1p7W]
+https://t.co/zK5m7kv446</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679163449492885506</link>
+      <description>Yixing clay teapots are made from Yixing clay. This traditional style originated in China, dating back to the 15th century, and are made from clay produced near Yixing in the eastern Chinese province of Jiangsu
+
+[📹 makingceramic: https://t.co/qIM3jk1p7W]
+https://t.co/zK5m7kv446</description>
+      <content:encoded>Yixing clay teapots are made from Yixing clay. This traditional style originated in China, dating back to the 15th century, and are made from clay produced near Yixing in the eastern Chinese province of Jiangsu
+
+[📹 makingceramic: https://t.co/qIM3jk1p7W]
+https://t.co/zK5m7kv446&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679163449492885506"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1617965479502528512/img/C2PIBOMTTtDOTdTV.jpg" length="675" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 16:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>How could #psychedelics help us in treating #depression? @castren_eero @UH_Neuro et al. in @NatureNeuro examine the effect of LSD and psilocin on key receptors while preventing hallucinogenic effects. Recommended by Lennart Brodin
+
+https://t.co/Kp9TOxiueg https://t.co/m0rUiKyeH6</title>
+      <link>https://twitter.com/H1Connect/status/1679163714883276801</link>
+      <description>How could #psychedelics help us in treating #depression? @castren_eero @UH_Neuro et al. in @NatureNeuro examine the effect of LSD and psilocin on key receptors while preventing hallucinogenic effects. Recommended by Lennart Brodin
+
+https://t.co/Kp9TOxiueg https://t.co/m0rUiKyeH6</description>
+      <content:encoded>How could #psychedelics help us in treating #depression? @castren_eero @UH_Neuro et al. in @NatureNeuro examine the effect of LSD and psilocin on key receptors while preventing hallucinogenic effects. Recommended by Lennart Brodin
+
+https://t.co/Kp9TOxiueg https://t.co/m0rUiKyeH6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/H1Connect/status/1679163714883276801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F02Wf-yXsAALd8K.jpg" length="764" type="photo"/>
+      <pubDate>Wed, 12 Jul 2023 16:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Neurocognitive and cerebellar function in ADHD, Autism and Spinocerebellar Ataxia: The cerebellum plays a major role in s balance, motor control and sensorimotor integration, but also cognition, language, and emotional… #Neuroscience https://t.co/srV2dWdxqT</title>
+      <link>https://twitter.com/FrontNeurosci/status/1679164096057606145</link>
+      <description>New Research: Neurocognitive and cerebellar function in ADHD, Autism and Spinocerebellar Ataxia: The cerebellum plays a major role in s balance, motor control and sensorimotor integration, but also cognition, language, and emotional… #Neuroscience https://t.co/srV2dWdxqT</description>
+      <content:encoded>New Research: Neurocognitive and cerebellar function in ADHD, Autism and Spinocerebellar Ataxia: The cerebellum plays a major role in s balance, motor control and sensorimotor integration, but also cognition, language, and emotional… #Neuroscience https://t.co/srV2dWdxqT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1679164096057606145"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 16:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing formation of @xAI to understand reality</title>
+      <link>https://twitter.com/elonmusk/status/1679164661869182976</link>
+      <description>Announcing formation of @xAI to understand reality</description>
+      <content:encoded>Announcing formation of @xAI to understand reality&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1679164661869182976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Wed, 12 Jul 2023 16:23:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
