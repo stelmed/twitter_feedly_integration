@@ -6,61 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 22:16:53 +0000</lastBuildDate>
-    <item>
-      <title>A visual proof of the cubic binomial formula
-
-(p + q)³= p³ + 3pq² + 3p²q + q³
-
-[source, read more: https://t.co/lKOV0u2oTw] https://t.co/oNqTwK5dJI</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679390677233221633</link>
-      <description>A visual proof of the cubic binomial formula
-
-(p + q)³= p³ + 3pq² + 3p²q + q³
-
-[source, read more: https://t.co/lKOV0u2oTw] https://t.co/oNqTwK5dJI</description>
-      <content:encoded>A visual proof of the cubic binomial formula
-
-(p + q)³= p³ + 3pq² + 3p²q + q³
-
-[source, read more: https://t.co/lKOV0u2oTw] https://t.co/oNqTwK5dJI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679390677233221633"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F05k23dWcAELONv.jpg" length="680" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 07:21:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new form of expansion microscopy called ChromExM can be used to expand chromatin to visualize transcription at high resolution, according to new research in Science.
- 
-Learn more ⬇️
-📄: https://t.co/Q5TMc7ymNa
-#SciencePerspective: https://t.co/yrjfTSbtET https://t.co/sYCU9PzkNU</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679392745645826050</link>
-      <description>A new form of expansion microscopy called ChromExM can be used to expand chromatin to visualize transcription at high resolution, according to new research in Science.
- 
-Learn more ⬇️
-📄: https://t.co/Q5TMc7ymNa
-#SciencePerspective: https://t.co/yrjfTSbtET https://t.co/sYCU9PzkNU</description>
-      <content:encoded>A new form of expansion microscopy called ChromExM can be used to expand chromatin to visualize transcription at high resolution, according to new research in Science.
- 
-Learn more ⬇️
-📄: https://t.co/Q5TMc7ymNa
-#SciencePerspective: https://t.co/yrjfTSbtET https://t.co/sYCU9PzkNU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679392745645826050"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F05mzVsXgAY0zb5.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 07:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DanielFelsky: Day 3 of @CAMH_KCNI Summer Academy brought us to the @CAMHResearch Biobank facility, where Natalie Freeman showed us the…</title>
-      <link>https://twitter.com/wake_sleep/status/1679394835629854722</link>
-      <description>RT @DanielFelsky: Day 3 of @CAMH_KCNI Summer Academy brought us to the @CAMHResearch Biobank facility, where Natalie Freeman showed us the…</description>
-      <content:encoded>RT @DanielFelsky: Day 3 of @CAMH_KCNI Summer Academy brought us to the @CAMHResearch Biobank facility, where Natalie Freeman showed us the…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1679394835629854722"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 07:38:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DanielFelsky: Day 2 of @CAMH_KCNI Summer Academy brings us to our first field trip - Anusha Ravichandran showed us around the @CAMHRese…</title>
-      <link>https://twitter.com/wake_sleep/status/1679394877090430976</link>
-      <description>RT @DanielFelsky: Day 2 of @CAMH_KCNI Summer Academy brings us to our first field trip - Anusha Ravichandran showed us around the @CAMHRese…</description>
-      <content:encoded>RT @DanielFelsky: Day 2 of @CAMH_KCNI Summer Academy brings us to our first field trip - Anusha Ravichandran showed us around the @CAMHRese…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1679394877090430976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 07:38:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jul 2023 23:17:55 +0000</lastBuildDate>
     <item>
       <title>What would the worker need in order to escape the hole? Centripetal acceleration = v^2/r: increasing r means you have to increase v to compensate, so more velocity and a larger frictional force 
 
@@ -2086,6 +2032,34 @@ Start learning for free: https://t.co/GDIQlJWwbK&lt;blockquote class="twitter-tw
       <description>Hue selectivity from recurrent circuitry in Drosophila  https://t.co/c7lZ9UGTek #biorxiv_neursci</description>
       <content:encoded>Hue selectivity from recurrent circuitry in Drosophila  https://t.co/c7lZ9UGTek #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679615578254737411"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 13 Jul 2023 22:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BormuthVolker: Thrilled to present our latest preprint: A Versatile and #OpenSource One- and Two-Photon #LightSheet Microscope Design!…</title>
+      <link>https://twitter.com/UNC_Optics/status/1679616470173507585</link>
+      <description>RT @BormuthVolker: Thrilled to present our latest preprint: A Versatile and #OpenSource One- and Two-Photon #LightSheet Microscope Design!…</description>
+      <content:encoded>RT @BormuthVolker: Thrilled to present our latest preprint: A Versatile and #OpenSource One- and Two-Photon #LightSheet Microscope Design!…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/UNC_Optics/status/1679616470173507585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 22:19:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new study suggests people can “hear” the absence of noise. https://t.co/Aa7jOf5rKn @NewsfromScience</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679619216494690305</link>
+      <description>A new study suggests people can “hear” the absence of noise. https://t.co/Aa7jOf5rKn @NewsfromScience</description>
+      <content:encoded>A new study suggests people can “hear” the absence of noise. https://t.co/Aa7jOf5rKn @NewsfromScience&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679619216494690305"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 22:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @s_y_chung: 🎉Happy to share an exciting new theory paper our group, just published in @PhysRevLett with Editor's suggestion📖. Also featu…</title>
+      <link>https://twitter.com/KriegeskorteLab/status/1679623720795504642</link>
+      <description>RT @s_y_chung: 🎉Happy to share an exciting new theory paper our group, just published in @PhysRevLett with Editor's suggestion📖. Also featu…</description>
+      <content:encoded>RT @s_y_chung: 🎉Happy to share an exciting new theory paper our group, just published in @PhysRevLett with Editor's suggestion📖. Also featu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KriegeskorteLab/status/1679623720795504642"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 22:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JonAMichaels: This is how it’s supposed to work! @eLife didn’t decide that media outlets should cover a preprint, but now we get to see…</title>
+      <link>https://twitter.com/KriegeskorteLab/status/1679624600433438720</link>
+      <description>RT @JonAMichaels: This is how it’s supposed to work! @eLife didn’t decide that media outlets should cover a preprint, but now we get to see…</description>
+      <content:encoded>RT @JonAMichaels: This is how it’s supposed to work! @eLife didn’t decide that media outlets should cover a preprint, but now we get to see…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KriegeskorteLab/status/1679624600433438720"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 22:51:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
