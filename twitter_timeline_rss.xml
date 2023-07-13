@@ -6,31 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 04:21:27 +0000</lastBuildDate>
-    <item>
-      <title>We try! https://t.co/VtwVH0spd8</title>
-      <link>https://twitter.com/Addgene/status/1679123543840227329</link>
-      <description>We try! https://t.co/VtwVH0spd8</description>
-      <content:encoded>We try! https://t.co/VtwVH0spd8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1679123543840227329"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Wed, 12 Jul 2023 13:40:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ranakpur Jain temple in Ranakpur, India is a grand white marble structure spread over 4,500 m2 with 1444 marble pillars carved in exquisite detail, twenty-nine halls, eighty domes and 426 columns 
-
-[read more: https://t.co/fYjgzLxN2X]
-[📷 Sabhi Khan] https://t.co/v3248Wl0Ys</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679124021365948418</link>
-      <description>Ranakpur Jain temple in Ranakpur, India is a grand white marble structure spread over 4,500 m2 with 1444 marble pillars carved in exquisite detail, twenty-nine halls, eighty domes and 426 columns 
-
-[read more: https://t.co/fYjgzLxN2X]
-[📷 Sabhi Khan] https://t.co/v3248Wl0Ys</description>
-      <content:encoded>Ranakpur Jain temple in Ranakpur, India is a grand white marble structure spread over 4,500 m2 with 1444 marble pillars carved in exquisite detail, twenty-nine halls, eighty domes and 426 columns 
-
-[read more: https://t.co/fYjgzLxN2X]
-[📷 Sabhi Khan] https://t.co/v3248Wl0Ys&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679124021365948418"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F01yZboXsAIZmmq.jpg" length="451" type="photo"/>
-      <pubDate>Wed, 12 Jul 2023 13:42:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jul 2023 05:17:30 +0000</lastBuildDate>
     <item>
       <title>Mushrooms are neither plants nor animals. Yet, they shoot fireworks of spikes when thermally stimulated! But how will they react to other types of stimuli? Our fellows Elsa and Tom are set to find out! #2023BYBFellowship
 
@@ -1949,6 +1925,20 @@ https://t.co/keNV3cOKA0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>Liquid-based assembly accelerates production of microLED displays https://t.co/zEf0doazc1</description>
       <content:encoded>Liquid-based assembly accelerates production of microLED displays https://t.co/zEf0doazc1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1679343024378183681"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 13 Jul 2023 04:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>"The majority of industry scientists … value the contributions they make. And many of them, like me, have come to this work with a deeply personal motivation." #ScienceWorkingLife @ScienceCareers https://t.co/tHQqXwdE8t</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679347426463719429</link>
+      <description>"The majority of industry scientists … value the contributions they make. And many of them, like me, have come to this work with a deeply personal motivation." #ScienceWorkingLife @ScienceCareers https://t.co/tHQqXwdE8t</description>
+      <content:encoded>"The majority of industry scientists … value the contributions they make. And many of them, like me, have come to this work with a deeply personal motivation." #ScienceWorkingLife @ScienceCareers https://t.co/tHQqXwdE8t&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679347426463719429"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 04:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>A framework for identifying targets for individualized therapy in genetic disease https://t.co/NP2K9zKj0c</title>
+      <link>https://twitter.com/NatureNV/status/1679358366521475075</link>
+      <description>A framework for identifying targets for individualized therapy in genetic disease https://t.co/NP2K9zKj0c</description>
+      <content:encoded>A framework for identifying targets for individualized therapy in genetic disease https://t.co/NP2K9zKj0c&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1679358366521475075"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 05:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
