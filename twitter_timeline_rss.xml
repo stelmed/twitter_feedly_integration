@@ -6,67 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 21:15:32 +0000</lastBuildDate>
-    <item>
-      <title>The story of the first and only aircraft that shot a (malfunctioning) satellite out of orbit with a missile in 1985 
-
-[read more: https://t.co/Txhvaj6jOB] https://t.co/w7ACmRNj3s</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679387239464222721</link>
-      <description>The story of the first and only aircraft that shot a (malfunctioning) satellite out of orbit with a missile in 1985 
-
-[read more: https://t.co/Txhvaj6jOB] https://t.co/w7ACmRNj3s</description>
-      <content:encoded>The story of the first and only aircraft that shot a (malfunctioning) satellite out of orbit with a missile in 1985 
-
-[read more: https://t.co/Txhvaj6jOB] https://t.co/w7ACmRNj3s&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679387239464222721"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F05hw0LXgAAkhyO.jpg" length="514" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 07:08:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new study in @ScienceTM shows that booster vaccination and Omicron infection strengthen and diversify Omicron-reactive T cell responses. Research by @TRMueller and @marcus_buggert et al. @CIM_Sweden #COVID19.
-https://t.co/QbOC0Rfzit https://t.co/eqZhGt2UoE</title>
-      <link>https://twitter.com/karolinskainst/status/1679388955437826049</link>
-      <description>A new study in @ScienceTM shows that booster vaccination and Omicron infection strengthen and diversify Omicron-reactive T cell responses. Research by @TRMueller and @marcus_buggert et al. @CIM_Sweden #COVID19.
-https://t.co/QbOC0Rfzit https://t.co/eqZhGt2UoE</description>
-      <content:encoded>A new study in @ScienceTM shows that booster vaccination and Omicron infection strengthen and diversify Omicron-reactive T cell responses. Research by @TRMueller and @marcus_buggert et al. @CIM_Sweden #COVID19.
-https://t.co/QbOC0Rfzit https://t.co/eqZhGt2UoE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/karolinskainst/status/1679388955437826049"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F05jRpXWAAAva2R.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 07:15:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>A dual Purkinje cell rate and synchrony code sculpts reach kinematics  https://t.co/BuV4fORcxn #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1679389060387700736</link>
-      <description>A dual Purkinje cell rate and synchrony code sculpts reach kinematics  https://t.co/BuV4fORcxn #biorxiv_neursci</description>
-      <content:encoded>A dual Purkinje cell rate and synchrony code sculpts reach kinematics  https://t.co/BuV4fORcxn #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679389060387700736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 07:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cooperative thalamocortical circuit mechanism for sensory prediction errors  https://t.co/mV7cmljhPE #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1679389163500498945</link>
-      <description>Cooperative thalamocortical circuit mechanism for sensory prediction errors  https://t.co/mV7cmljhPE #biorxiv_neursci</description>
-      <content:encoded>Cooperative thalamocortical circuit mechanism for sensory prediction errors  https://t.co/mV7cmljhPE #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679389163500498945"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 07:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiscale entropy analysis of combined EEG-fNIRS measurement in preterm neonates  https://t.co/v4cms7Doqz #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1679389265409474560</link>
-      <description>Multiscale entropy analysis of combined EEG-fNIRS measurement in preterm neonates  https://t.co/v4cms7Doqz #biorxiv_neursci</description>
-      <content:encoded>Multiscale entropy analysis of combined EEG-fNIRS measurement in preterm neonates  https://t.co/v4cms7Doqz #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679389265409474560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 07:16:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The h-current controls cortical recurrent network activity through modulation of dendrosomatic communication  https://t.co/6AnrC6rNtx #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1679389359043125249</link>
-      <description>The h-current controls cortical recurrent network activity through modulation of dendrosomatic communication  https://t.co/6AnrC6rNtx #biorxiv_neursci</description>
-      <content:encoded>The h-current controls cortical recurrent network activity through modulation of dendrosomatic communication  https://t.co/6AnrC6rNtx #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679389359043125249"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 07:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ventral pallidum GABA and glutamate neurons drive approach and avoidance through distinct modulation of VTA cell types  https://t.co/A1hIYjnTGU #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1679389488412327936</link>
-      <description>Ventral pallidum GABA and glutamate neurons drive approach and avoidance through distinct modulation of VTA cell types  https://t.co/A1hIYjnTGU #biorxiv_neursci</description>
-      <content:encoded>Ventral pallidum GABA and glutamate neurons drive approach and avoidance through distinct modulation of VTA cell types  https://t.co/A1hIYjnTGU #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679389488412327936"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 07:17:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jul 2023 22:16:53 +0000</lastBuildDate>
     <item>
       <title>A visual proof of the cubic binomial formula
 
@@ -2066,6 +2006,86 @@ Read about the 6 #BayArea community-rooted businesses that we’re supporting th
       <description>Anna Grim, a scientific data engineer at the Allen Institute, describes how Neuron Segmentation can be used to reconstruct individual neurons imaged using the expansion-assisted selective-plane illumination microscopy (ExA-SPIM). https://t.co/yXaXDuTNjQ</description>
       <content:encoded>Anna Grim, a scientific data engineer at the Allen Institute, describes how Neuron Segmentation can be used to reconstruct individual neurons imaged using the expansion-assisted selective-plane illumination microscopy (ExA-SPIM). https://t.co/yXaXDuTNjQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599542369677312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Thu, 13 Jul 2023 21:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>What can the big-brained learn from that which is brainless? 🤔 The answer might surprise you! Our fellows Milica and Amanda are on a mission to unveil the secrets of single-celled decision making by studying -- a plate of slime. #2023BYBFellowship
+
+👇
+https://t.co/rNF3BiZASV https://t.co/cqfRNGeDGx</title>
+      <link>https://twitter.com/BackyardBrains/status/1679603607472054274</link>
+      <description>What can the big-brained learn from that which is brainless? 🤔 The answer might surprise you! Our fellows Milica and Amanda are on a mission to unveil the secrets of single-celled decision making by studying -- a plate of slime. #2023BYBFellowship
+
+👇
+https://t.co/rNF3BiZASV https://t.co/cqfRNGeDGx</description>
+      <content:encoded>What can the big-brained learn from that which is brainless? 🤔 The answer might surprise you! Our fellows Milica and Amanda are on a mission to unveil the secrets of single-celled decision making by studying -- a plate of slime. #2023BYBFellowship
+
+👇
+https://t.co/rNF3BiZASV https://t.co/cqfRNGeDGx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BackyardBrains/status/1679603607472054274"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F018qqNX0AYVFf6.jpg" length="1200" type="photo"/>
+      <pubDate>Thu, 13 Jul 2023 21:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Looking forward to connecting with a broad community!  Many thanks to the organizers for the opportunity.  Much of what I'll discuss is in a recent preprint, https://t.co/lC63VTdF0p. https://t.co/zFK8qlMd9w</title>
+      <link>https://twitter.com/wbialek/status/1679604763783200768</link>
+      <description>Looking forward to connecting with a broad community!  Many thanks to the organizers for the opportunity.  Much of what I'll discuss is in a recent preprint, https://t.co/lC63VTdF0p. https://t.co/zFK8qlMd9w</description>
+      <content:encoded>Looking forward to connecting with a broad community!  Many thanks to the organizers for the opportunity.  Much of what I'll discuss is in a recent preprint, https://t.co/lC63VTdF0p. https://t.co/zFK8qlMd9w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wbialek/status/1679604763783200768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 21:32:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>@andermann_mark Agreed with all! Need to add that Stephen is kind to strangers too! :)</title>
+      <link>https://twitter.com/ewadorotaz/status/1679604901054218243</link>
+      <description>@andermann_mark Agreed with all! Need to add that Stephen is kind to strangers too! :)</description>
+      <content:encoded>@andermann_mark Agreed with all! Need to add that Stephen is kind to strangers too! :)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1679604901054218243"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 21:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>A quantum computer has accelerated the performance of the the Markov chain Monte Carlo algorithm. https://t.co/HXpYfTcDb0</title>
+      <link>https://twitter.com/NatureNV/status/1679605598495678464</link>
+      <description>A quantum computer has accelerated the performance of the the Markov chain Monte Carlo algorithm. https://t.co/HXpYfTcDb0</description>
+      <content:encoded>A quantum computer has accelerated the performance of the the Markov chain Monte Carlo algorithm. https://t.co/HXpYfTcDb0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1679605598495678464"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 21:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Join How Diffusion Models Work and learn:
+
+🎯How to effectively train a diffusion model
+🎯How to accelerate the sampling process
+🎯How to build a neural network that can predict noise in an image
+And much more! 
+
+Start learning for free: https://t.co/GDIQlJWwbK</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1679611661068451843</link>
+      <description>Join How Diffusion Models Work and learn:
+
+🎯How to effectively train a diffusion model
+🎯How to accelerate the sampling process
+🎯How to build a neural network that can predict noise in an image
+And much more! 
+
+Start learning for free: https://t.co/GDIQlJWwbK</description>
+      <content:encoded>Join How Diffusion Models Work and learn:
+
+🎯How to effectively train a diffusion model
+🎯How to accelerate the sampling process
+🎯How to build a neural network that can predict noise in an image
+And much more! 
+
+Start learning for free: https://t.co/GDIQlJWwbK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1679611661068451843"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@behrenstimb I don’t get why landmark is in bold though - it feels misleading.</title>
+      <link>https://twitter.com/TrackingActions/status/1679614177868935169</link>
+      <description>@behrenstimb I don’t get why landmark is in bold though - it feels misleading.</description>
+      <content:encoded>@behrenstimb I don’t get why landmark is in bold though - it feels misleading.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1679614177868935169"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 22:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hue selectivity from recurrent circuitry in Drosophila  https://t.co/c7lZ9UGTek #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1679615578254737411</link>
+      <description>Hue selectivity from recurrent circuitry in Drosophila  https://t.co/c7lZ9UGTek #biorxiv_neursci</description>
+      <content:encoded>Hue selectivity from recurrent circuitry in Drosophila  https://t.co/c7lZ9UGTek #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679615578254737411"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Thu, 13 Jul 2023 22:15:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
