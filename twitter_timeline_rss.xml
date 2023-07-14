@@ -6,23 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jul 2023 03:00:07 +0000</lastBuildDate>
-    <item>
-      <title>'Denny' is the only known individual whose parents were two different species of human. The 13-year-old Neanderthal-Denisovan hybrid girl lived 90,000 years ago in central Asia, where a fragment of her bone was found in 2012 https://t.co/JEc4HoHSOp [📷https://t.co/hfyBH13rhY] https://t.co/sghjeT9t05</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679417281225404416</link>
-      <description>'Denny' is the only known individual whose parents were two different species of human. The 13-year-old Neanderthal-Denisovan hybrid girl lived 90,000 years ago in central Asia, where a fragment of her bone was found in 2012 https://t.co/JEc4HoHSOp [📷https://t.co/hfyBH13rhY] https://t.co/sghjeT9t05</description>
-      <content:encoded>'Denny' is the only known individual whose parents were two different species of human. The 13-year-old Neanderthal-Denisovan hybrid girl lived 90,000 years ago in central Asia, where a fragment of her bone was found in 2012 https://t.co/JEc4HoHSOp [📷https://t.co/hfyBH13rhY] https://t.co/sghjeT9t05&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679417281225404416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F059HDMX0AEI6nc.jpg" length="680" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 09:07:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spain’s Secretary of State @carmeartigas @SEDIAgob supporting Neurorights within Spain’s Charter of Digital Rights for the digital era https://t.co/YtEpx3DU9g</title>
-      <link>https://twitter.com/yusterafa/status/1679419423755468802</link>
-      <description>Spain’s Secretary of State @carmeartigas @SEDIAgob supporting Neurorights within Spain’s Charter of Digital Rights for the digital era https://t.co/YtEpx3DU9g</description>
-      <content:encoded>Spain’s Secretary of State @carmeartigas @SEDIAgob supporting Neurorights within Spain’s Charter of Digital Rights for the digital era https://t.co/YtEpx3DU9g&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/yusterafa/status/1679419423755468802"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F05_EBDXsAYnA8G.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 09:16:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jul 2023 03:30:55 +0000</lastBuildDate>
     <item>
       <title>What is the nature of sensory prediction error signals in neocortex and the circuit-mechanisms underlying them? Genuinely thrilled to see this epic effort from Shohei Furutachi in my and @TFlogel's lab out on @biorxivpreprint: https://t.co/xIc8es8hIT</title>
       <link>https://twitter.com/SonjaBHofer/status/1679422136610439169</link>
@@ -2029,6 +2013,20 @@ Here's the full list of 25 examples: htt…&lt;blockquote class="twitter-tweet"&
       <content:encoded>Spermine, a highly abundant compound in human semen, restricts the sexual transmission of X4-HIV-1, the variants of #HIV-1 that use the CXCR4 co-receptor to enter target cells, according to a new @ScienceAdvances study. https://t.co/t4nULk7Hqs https://t.co/g8LpI3T3Of&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679687184859774978"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F09yl8cXgAsCHQp.jpg" length="1200" type="photo"/>
       <pubDate>Fri, 14 Jul 2023 03:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @apcbapcb: Once again: first 5 people to DM receipts of a donation to this strike solidarity fund get a signed PLANES paperback in the m…</title>
+      <link>https://twitter.com/thefreemanlab/status/1679689922779676674</link>
+      <description>RT @apcbapcb: Once again: first 5 people to DM receipts of a donation to this strike solidarity fund get a signed PLANES paperback in the m…</description>
+      <content:encoded>RT @apcbapcb: Once again: first 5 people to DM receipts of a donation to this strike solidarity fund get a signed PLANES paperback in the m…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/thefreemanlab/status/1679689922779676674"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 03:10:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BenjoCowley: Faculty job alert!  CSHL is hiring a faculty position in computational neuroscience, broadly defined.   Deadline to apply…</title>
+      <link>https://twitter.com/jpillowtime/status/1679694310839664640</link>
+      <description>RT @BenjoCowley: Faculty job alert!  CSHL is hiring a faculty position in computational neuroscience, broadly defined.   Deadline to apply…</description>
+      <content:encoded>RT @BenjoCowley: Faculty job alert!  CSHL is hiring a faculty position in computational neuroscience, broadly defined.   Deadline to apply…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jpillowtime/status/1679694310839664640"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 03:28:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
