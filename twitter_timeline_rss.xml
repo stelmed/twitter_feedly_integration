@@ -6,126 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jul 2023 16:22:26 +0000</lastBuildDate>
-    <item>
-      <title>Entrepreneurs that start businesses in their communities are part of the social fabric that drives economic mobility in the US. 
-
-Read about the 6 #BayArea community-rooted businesses that we’re supporting through our inclusive entrepreneurship portfolio https://t.co/1VCn64nvyr</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1679598517520592897</link>
-      <description>Entrepreneurs that start businesses in their communities are part of the social fabric that drives economic mobility in the US. 
-
-Read about the 6 #BayArea community-rooted businesses that we’re supporting through our inclusive entrepreneurship portfolio https://t.co/1VCn64nvyr</description>
-      <content:encoded>Entrepreneurs that start businesses in their communities are part of the social fabric that drives economic mobility in the US. 
-
-Read about the 6 #BayArea community-rooted businesses that we’re supporting through our inclusive entrepreneurship portfolio https://t.co/1VCn64nvyr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1679598517520592897"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>From sample preparation to dataset analysis – learn how the ExA-SPIM pipeline works in a new series by scientists from the Allen Institute for Neural Dynamics. 🧵
-
-🔗 https://t.co/NmXW0ximiS
-
-#OpenScience #NeuroTwitter</title>
-      <link>https://twitter.com/AllenInstitute/status/1679599530956947457</link>
-      <description>From sample preparation to dataset analysis – learn how the ExA-SPIM pipeline works in a new series by scientists from the Allen Institute for Neural Dynamics. 🧵
-
-🔗 https://t.co/NmXW0ximiS
-
-#OpenScience #NeuroTwitter</description>
-      <content:encoded>From sample preparation to dataset analysis – learn how the ExA-SPIM pipeline works in a new series by scientists from the Allen Institute for Neural Dynamics. 🧵
-
-🔗 https://t.co/NmXW0ximiS
-
-#OpenScience #NeuroTwitter&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599530956947457"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:11:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karel @Svoboda314, Vice President and Executive Director of the Allen Institute for Neural Dynamics, introduces the ExA-SPIM pipeline. https://t.co/fq1Jh6nmcl</title>
-      <link>https://twitter.com/AllenInstitute/status/1679599532374622209</link>
-      <description>Karel @Svoboda314, Vice President and Executive Director of the Allen Institute for Neural Dynamics, introduces the ExA-SPIM pipeline. https://t.co/fq1Jh6nmcl</description>
-      <content:encoded>Karel @Svoboda314, Vice President and Executive Director of the Allen Institute for Neural Dynamics, introduces the ExA-SPIM pipeline. https://t.co/fq1Jh6nmcl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599532374622209"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:11:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>.@Adam_K_Glaser, a scientist at the Allen Institute for Neural Dynamics, gives an overview of a new methodology for mapping brain-wide neural circuits. https://t.co/ke4ubr4s6E</title>
-      <link>https://twitter.com/AllenInstitute/status/1679599533628727296</link>
-      <description>.@Adam_K_Glaser, a scientist at the Allen Institute for Neural Dynamics, gives an overview of a new methodology for mapping brain-wide neural circuits. https://t.co/ke4ubr4s6E</description>
-      <content:encoded>.@Adam_K_Glaser, a scientist at the Allen Institute for Neural Dynamics, gives an overview of a new methodology for mapping brain-wide neural circuits. https://t.co/ke4ubr4s6E&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599533628727296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:11:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naveen Ouellette, a research associate at the Allen institute for Neural Dynamics, describes how to use expansion microscopy techniques to clear and expand whole mouse brain before imaging on the ExA-SPIM. https://t.co/dPvJrAbFcR</title>
-      <link>https://twitter.com/AllenInstitute/status/1679599534853476352</link>
-      <description>Naveen Ouellette, a research associate at the Allen institute for Neural Dynamics, describes how to use expansion microscopy techniques to clear and expand whole mouse brain before imaging on the ExA-SPIM. https://t.co/dPvJrAbFcR</description>
-      <content:encoded>Naveen Ouellette, a research associate at the Allen institute for Neural Dynamics, describes how to use expansion microscopy techniques to clear and expand whole mouse brain before imaging on the ExA-SPIM. https://t.co/dPvJrAbFcR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599534853476352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:11:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xiaoyun Jiang, an optical engineer at Allen Institute for Neural Dynamics, describes the hardware involved with ExA-SPIM, provides more details about the system design and shows some images taken by our prototype system. https://t.co/N56IJbBqGe</title>
-      <link>https://twitter.com/AllenInstitute/status/1679599536170467332</link>
-      <description>Xiaoyun Jiang, an optical engineer at Allen Institute for Neural Dynamics, describes the hardware involved with ExA-SPIM, provides more details about the system design and shows some images taken by our prototype system. https://t.co/N56IJbBqGe</description>
-      <content:encoded>Xiaoyun Jiang, an optical engineer at Allen Institute for Neural Dynamics, describes the hardware involved with ExA-SPIM, provides more details about the system design and shows some images taken by our prototype system. https://t.co/N56IJbBqGe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599536170467332"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:11:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joshua Vasquez, a systems design engineer at the Allen Institute for Neural Dynamics, describes the modular acquisition and production software that runs the ExA-SPIM microscope and what information is logged. https://t.co/MeTl3FM0Pq</title>
-      <link>https://twitter.com/AllenInstitute/status/1679599537378426884</link>
-      <description>Joshua Vasquez, a systems design engineer at the Allen Institute for Neural Dynamics, describes the modular acquisition and production software that runs the ExA-SPIM microscope and what information is logged. https://t.co/MeTl3FM0Pq</description>
-      <content:encoded>Joshua Vasquez, a systems design engineer at the Allen Institute for Neural Dynamics, describes the modular acquisition and production software that runs the ExA-SPIM microscope and what information is logged. https://t.co/MeTl3FM0Pq&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599537378426884"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:11:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Micah Woodard, an Optical Engineer at the Allen Institute, describes the GUI interface to perform imaging acquisition on the ExA-SPIM. https://t.co/OWbxvXygmh</title>
-      <link>https://twitter.com/AllenInstitute/status/1679599539609632768</link>
-      <description>Micah Woodard, an Optical Engineer at the Allen Institute, describes the GUI interface to perform imaging acquisition on the ExA-SPIM. https://t.co/OWbxvXygmh</description>
-      <content:encoded>Micah Woodard, an Optical Engineer at the Allen Institute, describes the GUI interface to perform imaging acquisition on the ExA-SPIM. https://t.co/OWbxvXygmh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599539609632768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cameron Arshadi, a Data Analyst at the Allen Institute, describes measures established to deal with the large datasets produced by ExA-SPIM imaging. https://t.co/MmDvNNhvat</title>
-      <link>https://twitter.com/AllenInstitute/status/1679599541174272006</link>
-      <description>Cameron Arshadi, a Data Analyst at the Allen Institute, describes measures established to deal with the large datasets produced by ExA-SPIM imaging. https://t.co/MmDvNNhvat</description>
-      <content:encoded>Cameron Arshadi, a Data Analyst at the Allen Institute, describes measures established to deal with the large datasets produced by ExA-SPIM imaging. https://t.co/MmDvNNhvat&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599541174272006"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anna Grim, a scientific data engineer at the Allen Institute, describes how Neuron Segmentation can be used to reconstruct individual neurons imaged using the expansion-assisted selective-plane illumination microscopy (ExA-SPIM). https://t.co/yXaXDuTNjQ</title>
-      <link>https://twitter.com/AllenInstitute/status/1679599542369677312</link>
-      <description>Anna Grim, a scientific data engineer at the Allen Institute, describes how Neuron Segmentation can be used to reconstruct individual neurons imaged using the expansion-assisted selective-plane illumination microscopy (ExA-SPIM). https://t.co/yXaXDuTNjQ</description>
-      <content:encoded>Anna Grim, a scientific data engineer at the Allen Institute, describes how Neuron Segmentation can be used to reconstruct individual neurons imaged using the expansion-assisted selective-plane illumination microscopy (ExA-SPIM). https://t.co/yXaXDuTNjQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679599542369677312"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>What can the big-brained learn from that which is brainless? 🤔 The answer might surprise you! Our fellows Milica and Amanda are on a mission to unveil the secrets of single-celled decision making by studying -- a plate of slime. #2023BYBFellowship
-
-👇
-https://t.co/rNF3BiZASV https://t.co/cqfRNGeDGx</title>
-      <link>https://twitter.com/BackyardBrains/status/1679603607472054274</link>
-      <description>What can the big-brained learn from that which is brainless? 🤔 The answer might surprise you! Our fellows Milica and Amanda are on a mission to unveil the secrets of single-celled decision making by studying -- a plate of slime. #2023BYBFellowship
-
-👇
-https://t.co/rNF3BiZASV https://t.co/cqfRNGeDGx</description>
-      <content:encoded>What can the big-brained learn from that which is brainless? 🤔 The answer might surprise you! Our fellows Milica and Amanda are on a mission to unveil the secrets of single-celled decision making by studying -- a plate of slime. #2023BYBFellowship
-
-👇
-https://t.co/rNF3BiZASV https://t.co/cqfRNGeDGx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BackyardBrains/status/1679603607472054274"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F018qqNX0AYVFf6.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 21:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Looking forward to connecting with a broad community!  Many thanks to the organizers for the opportunity.  Much of what I'll discuss is in a recent preprint, https://t.co/lC63VTdF0p. https://t.co/zFK8qlMd9w</title>
-      <link>https://twitter.com/wbialek/status/1679604763783200768</link>
-      <description>Looking forward to connecting with a broad community!  Many thanks to the organizers for the opportunity.  Much of what I'll discuss is in a recent preprint, https://t.co/lC63VTdF0p. https://t.co/zFK8qlMd9w</description>
-      <content:encoded>Looking forward to connecting with a broad community!  Many thanks to the organizers for the opportunity.  Much of what I'll discuss is in a recent preprint, https://t.co/lC63VTdF0p. https://t.co/zFK8qlMd9w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wbialek/status/1679604763783200768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:32:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>@andermann_mark Agreed with all! Need to add that Stephen is kind to strangers too! :)</title>
-      <link>https://twitter.com/ewadorotaz/status/1679604901054218243</link>
-      <description>@andermann_mark Agreed with all! Need to add that Stephen is kind to strangers too! :)</description>
-      <content:encoded>@andermann_mark Agreed with all! Need to add that Stephen is kind to strangers too! :)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1679604901054218243"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 21:33:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jul 2023 17:14:14 +0000</lastBuildDate>
     <item>
       <title>A quantum computer has accelerated the performance of the the Markov chain Monte Carlo algorithm. https://t.co/HXpYfTcDb0</title>
       <link>https://twitter.com/NatureNV/status/1679605598495678464</link>
@@ -2120,6 +2001,142 @@ https://t.co/zCHXreQ4jB</description>
 https://t.co/zCHXreQ4jB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679888812636352521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679601969252499457/pu/img/w5_2cUel_7uE35kc.jpg" length="640" type="photo"/>
       <pubDate>Fri, 14 Jul 2023 16:21:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>"You’re allowed to change. You’re allowed to leave. You’re allowed to let those years be exactly what they were: time spent growing and learning as a human being ... " 
+
+Here's a reminder that you're allowed to quit your #PhD. https://t.co/UjhfVWQ1Uq @ScienceCareers</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679891007318503424</link>
+      <description>"You’re allowed to change. You’re allowed to leave. You’re allowed to let those years be exactly what they were: time spent growing and learning as a human being ... " 
+
+Here's a reminder that you're allowed to quit your #PhD. https://t.co/UjhfVWQ1Uq @ScienceCareers</description>
+      <content:encoded>"You’re allowed to change. You’re allowed to leave. You’re allowed to let those years be exactly what they were: time spent growing and learning as a human being ... " 
+
+Here's a reminder that you're allowed to quit your #PhD. https://t.co/UjhfVWQ1Uq @ScienceCareers&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679891007318503424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @OpenCatalyst: 🤔 Have questions about the 2023 Open Catalyst Challenge? We've got answers!
+
+📆 Join our weekly office hours starting 7/20…</title>
+      <link>https://twitter.com/ylecun/status/1679891563273670658</link>
+      <description>RT @OpenCatalyst: 🤔 Have questions about the 2023 Open Catalyst Challenge? We've got answers!
+
+📆 Join our weekly office hours starting 7/20…</description>
+      <content:encoded>RT @OpenCatalyst: 🤔 Have questions about the 2023 Open Catalyst Challenge? We've got answers!
+
+📆 Join our weekly office hours starting 7/20…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1679891563273670658"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:32:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>@KordingLab If it were an exponential family model, there would be a uniformly most powerful approach.  For literally everything else: the best approach depends on unknown (and unknowable, but estimable) model parameters.</title>
+      <link>https://twitter.com/neuro_data/status/1679891866525872135</link>
+      <description>@KordingLab If it were an exponential family model, there would be a uniformly most powerful approach.  For literally everything else: the best approach depends on unknown (and unknowable, but estimable) model parameters.</description>
+      <content:encoded>@KordingLab If it were an exponential family model, there would be a uniformly most powerful approach.  For literally everything else: the best approach depends on unknown (and unknowable, but estimable) model parameters.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1679891866525872135"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:33:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>A @SciReports paper describes a new species of ancient alligator from Thailand that is closely related to the Chinese alligator (Alligator sinensis). https://t.co/xo33mNEpIv https://t.co/OfGZ5YZ0Ub</title>
+      <link>https://twitter.com/NaturePortfolio/status/1679892135636611083</link>
+      <description>A @SciReports paper describes a new species of ancient alligator from Thailand that is closely related to the Chinese alligator (Alligator sinensis). https://t.co/xo33mNEpIv https://t.co/OfGZ5YZ0Ub</description>
+      <content:encoded>A @SciReports paper describes a new species of ancient alligator from Thailand that is closely related to the Chinese alligator (Alligator sinensis). https://t.co/xo33mNEpIv https://t.co/OfGZ5YZ0Ub&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679892135636611083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1As_OpXsAQws32.jpg" length="1000" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 16:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fluorescent sample for #FluorescenceFriday and interesting finding in #Organoid https://t.co/gQGYdjHdFK</title>
+      <link>https://twitter.com/ewadorotaz/status/1679894083353956357</link>
+      <description>Fluorescent sample for #FluorescenceFriday and interesting finding in #Organoid https://t.co/gQGYdjHdFK</description>
+      <content:encoded>Fluorescent sample for #FluorescenceFriday and interesting finding in #Organoid https://t.co/gQGYdjHdFK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1679894083353956357"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>If you at @pennphiladelic this weekend, check out new work from @aboharbf - classifying 8 psychedelic and non-psychedelic drugs via whole-brain c-Fos maps.
+
+Spoiler: high accuracy and reveal key regions driving prediction. 
+
+w/ @PashaDavoudian and @akaye https://t.co/c91Yzl4Dxm</title>
+      <link>https://twitter.com/kwanalexc/status/1679894136168624130</link>
+      <description>If you at @pennphiladelic this weekend, check out new work from @aboharbf - classifying 8 psychedelic and non-psychedelic drugs via whole-brain c-Fos maps.
+
+Spoiler: high accuracy and reveal key regions driving prediction. 
+
+w/ @PashaDavoudian and @akaye https://t.co/c91Yzl4Dxm</description>
+      <content:encoded>If you at @pennphiladelic this weekend, check out new work from @aboharbf - classifying 8 psychedelic and non-psychedelic drugs via whole-brain c-Fos maps.
+
+Spoiler: high accuracy and reveal key regions driving prediction. 
+
+w/ @PashaDavoudian and @akaye https://t.co/c91Yzl4Dxm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kwanalexc/status/1679894136168624130"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1Au0C3XsAQBSS-.jpg" length="749" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 16:42:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @AntonSArkhipov: Wrapped up the first day of the Modeling Software Workshop @AllenInstitute, which covers our modeling software suite BM…</title>
+      <link>https://twitter.com/AllenInstitute/status/1679894526083706888</link>
+      <description>RT @AntonSArkhipov: Wrapped up the first day of the Modeling Software Workshop @AllenInstitute, which covers our modeling software suite BM…</description>
+      <content:encoded>RT @AntonSArkhipov: Wrapped up the first day of the Modeling Software Workshop @AllenInstitute, which covers our modeling software suite BM…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679894526083706888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>𝗥𝗲𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗯𝗿𝗮𝗶𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴:
+https://t.co/WREIn4Im41 https://t.co/IZCL1NTES6</title>
+      <link>https://twitter.com/PessoaBrain/status/1679895330668593152</link>
+      <description>𝗥𝗲𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗯𝗿𝗮𝗶𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴:
+https://t.co/WREIn4Im41 https://t.co/IZCL1NTES6</description>
+      <content:encoded>𝗥𝗲𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗯𝗿𝗮𝗶𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴:
+https://t.co/WREIn4Im41 https://t.co/IZCL1NTES6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1679895330668593152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1Avr7EXsAc3Kbs.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 16:47:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>This MRI image of a mouse shows T cells in the spleen.
+
+@sellmyerlab + @arnab_mukh3rjee are #ImagingTheFuture by developing tools that will allow us to use MRI to obtain biological information from far fewer numbers of cells than currently possible https://t.co/t7lBHpQaCp</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1679895497685839886</link>
+      <description>This MRI image of a mouse shows T cells in the spleen.
+
+@sellmyerlab + @arnab_mukh3rjee are #ImagingTheFuture by developing tools that will allow us to use MRI to obtain biological information from far fewer numbers of cells than currently possible https://t.co/t7lBHpQaCp</description>
+      <content:encoded>This MRI image of a mouse shows T cells in the spleen.
+
+@sellmyerlab + @arnab_mukh3rjee are #ImagingTheFuture by developing tools that will allow us to use MRI to obtain biological information from far fewer numbers of cells than currently possible https://t.co/t7lBHpQaCp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1679895497685839886"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679895474562629632/pu/img/PGyPTOKRYxtG2z27.jpg" length="720" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 16:47:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here's the rest. https://t.co/xM5Up9TG7f</title>
+      <link>https://twitter.com/andpru/status/1679899327890698252</link>
+      <description>Here's the rest. https://t.co/xM5Up9TG7f</description>
+      <content:encoded>Here's the rest. https://t.co/xM5Up9TG7f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1679899327890698252"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AziNmXsAMulcx.jpg" length="521" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 17:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>MIT researchers devise a way to evaluate cybersecurity methods: The system analyzes the likelihood that an attacker could thwart a certain security scheme to steal secret information. https://t.co/7QgM14sX17 https://t.co/DXNvBoQMQi</title>
+      <link>https://twitter.com/MIT/status/1679899871329890310</link>
+      <description>MIT researchers devise a way to evaluate cybersecurity methods: The system analyzes the likelihood that an attacker could thwart a certain security scheme to steal secret information. https://t.co/7QgM14sX17 https://t.co/DXNvBoQMQi</description>
+      <content:encoded>MIT researchers devise a way to evaluate cybersecurity methods: The system analyzes the likelihood that an attacker could thwart a certain security scheme to steal secret information. https://t.co/7QgM14sX17 https://t.co/DXNvBoQMQi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1679899871329890310"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1A0B55WAAAdBhQ.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 17:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Before participating in @ev_fedorenko "Interesting Brains" project, Elyse thought her atypical brain was something that needed to be cured. Now, she tells @ScienceNews, these differences make her brain "fabulous." @ScienceMIT @mitbrainandcog 
+
+https://t.co/zanAthFUY5</title>
+      <link>https://twitter.com/mcgovernmit/status/1679901228019462154</link>
+      <description>Before participating in @ev_fedorenko "Interesting Brains" project, Elyse thought her atypical brain was something that needed to be cured. Now, she tells @ScienceNews, these differences make her brain "fabulous." @ScienceMIT @mitbrainandcog 
+
+https://t.co/zanAthFUY5</description>
+      <content:encoded>Before participating in @ev_fedorenko "Interesting Brains" project, Elyse thought her atypical brain was something that needed to be cured. Now, she tells @ScienceNews, these differences make her brain "fabulous." @ScienceMIT @mitbrainandcog 
+
+https://t.co/zanAthFUY5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/mcgovernmit/status/1679901228019462154"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 17:10:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>.@dsengeh is revolutionizing Sierra Leone's healthcare and education sectors with his remarkable determination. https://t.co/IdjtU2Jsgg</title>
+      <link>https://twitter.com/BillGates/status/1679901971099308033</link>
+      <description>.@dsengeh is revolutionizing Sierra Leone's healthcare and education sectors with his remarkable determination. https://t.co/IdjtU2Jsgg</description>
+      <content:encoded>.@dsengeh is revolutionizing Sierra Leone's healthcare and education sectors with his remarkable determination. https://t.co/IdjtU2Jsgg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BillGates/status/1679901971099308033"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 17:13:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
