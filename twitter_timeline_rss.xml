@@ -6,210 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jul 2023 19:14:18 +0000</lastBuildDate>
-    <item>
-      <title>Also, One-Punch Man</title>
-      <link>https://twitter.com/elonmusk/status/1679704751284563968</link>
-      <description>Also, One-Punch Man</description>
-      <content:encoded>Also, One-Punch Man&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1679704751284563968"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 04:09:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>An in situ search for organic molecules in Mars’s Jezero Crater https://t.co/k7y9SzS0yY</title>
-      <link>https://twitter.com/NatureNV/status/1679705140150845440</link>
-      <description>An in situ search for organic molecules in Mars’s Jezero Crater https://t.co/k7y9SzS0yY</description>
-      <content:encoded>An in situ search for organic molecules in Mars’s Jezero Crater https://t.co/k7y9SzS0yY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1679705140150845440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 04:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two new Science studies present novel methods that enable the fabrication of high-performance perovskite-silicon tandem solar cells that break the 30% efficiency threshold.
-
-📄: https://t.co/YpLNcOiH8u
-📄: https://t.co/mYvyWYqQyh
-#SciencePerspective: https://t.co/78Vllfw5nO https://t.co/ds47cTXiW1</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679709832872378368</link>
-      <description>Two new Science studies present novel methods that enable the fabrication of high-performance perovskite-silicon tandem solar cells that break the 30% efficiency threshold.
-
-📄: https://t.co/YpLNcOiH8u
-📄: https://t.co/mYvyWYqQyh
-#SciencePerspective: https://t.co/78Vllfw5nO https://t.co/ds47cTXiW1</description>
-      <content:encoded>Two new Science studies present novel methods that enable the fabrication of high-performance perovskite-silicon tandem solar cells that break the 30% efficiency threshold.
-
-📄: https://t.co/YpLNcOiH8u
-📄: https://t.co/mYvyWYqQyh
-#SciencePerspective: https://t.co/78Vllfw5nO https://t.co/ds47cTXiW1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679709832872378368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0-HMPnXgAMWPYH.jpg" length="900" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 04:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spaces discussion with @xAI team tomorrow at 1pm PT</title>
-      <link>https://twitter.com/elonmusk/status/1679724717815767040</link>
-      <description>Spaces discussion with @xAI team tomorrow at 1pm PT</description>
-      <content:encoded>Spaces discussion with @xAI team tomorrow at 1pm PT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1679724717815767040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 05:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Testing</title>
-      <link>https://twitter.com/elonmusk/status/1679724967628509184</link>
-      <description>Testing</description>
-      <content:encoded>Testing&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1679724967628509184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 05:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Today in 1965, the Mariner 4 sent a transmission of the first close-up photographs of Mars 
-
-[read more: https://t.co/nZ4Fz28hZV] https://t.co/u2I9ppWvFv</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679730069718048768</link>
-      <description>#Today in 1965, the Mariner 4 sent a transmission of the first close-up photographs of Mars 
-
-[read more: https://t.co/nZ4Fz28hZV] https://t.co/u2I9ppWvFv</description>
-      <content:encoded>#Today in 1965, the Mariner 4 sent a transmission of the first close-up photographs of Mars 
-
-[read more: https://t.co/nZ4Fz28hZV] https://t.co/u2I9ppWvFv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679730069718048768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0-ZhXFWAAMOh82.jpg" length="522" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 05:50:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Born 230 years ago #Today, George Green was a mathematical physicist, most notable for the namesake theorem giving the relationship between a line integral around a simple closed curve C and a double integral over the plane region D bounded by C https://t.co/SzKUFifved https://t.co/bQAJ3fSzIM</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679730829734338560</link>
-      <description>Born 230 years ago #Today, George Green was a mathematical physicist, most notable for the namesake theorem giving the relationship between a line integral around a simple closed curve C and a double integral over the plane region D bounded by C https://t.co/SzKUFifved https://t.co/bQAJ3fSzIM</description>
-      <content:encoded>Born 230 years ago #Today, George Green was a mathematical physicist, most notable for the namesake theorem giving the relationship between a line integral around a simple closed curve C and a double integral over the plane region D bounded by C https://t.co/SzKUFifved https://t.co/bQAJ3fSzIM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679730829734338560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0-aO6GXgAIpOt-.jpg" length="680" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 05:53:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tumor cells are infamously skilled masters of immune disguise, but research in @SciImmunology shows that forcing them to present antigens can boost anti-cancer immune activity. https://t.co/JE5JTpVVr2 https://t.co/sSASmUkmmU</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679732506508111873</link>
-      <description>Tumor cells are infamously skilled masters of immune disguise, but research in @SciImmunology shows that forcing them to present antigens can boost anti-cancer immune activity. https://t.co/JE5JTpVVr2 https://t.co/sSASmUkmmU</description>
-      <content:encoded>Tumor cells are infamously skilled masters of immune disguise, but research in @SciImmunology shows that forcing them to present antigens can boost anti-cancer immune activity. https://t.co/JE5JTpVVr2 https://t.co/sSASmUkmmU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679732506508111873"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0-b0D7WcAIaYhb.jpg" length="910" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 06:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 years ago #Today, New Horizon performed its historic close flyby of Pluto. This is a flyover movie that offers spectacular perspectives of the many unusual features that were discovered on that day
-
-[source, HD: https://t.co/MFhZRDEQ69]
-https://t.co/u5jmUigkuG</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679732587680485376</link>
-      <description>8 years ago #Today, New Horizon performed its historic close flyby of Pluto. This is a flyover movie that offers spectacular perspectives of the many unusual features that were discovered on that day
-
-[source, HD: https://t.co/MFhZRDEQ69]
-https://t.co/u5jmUigkuG</description>
-      <content:encoded>8 years ago #Today, New Horizon performed its historic close flyby of Pluto. This is a flyover movie that offers spectacular perspectives of the many unusual features that were discovered on that day
-
-[source, HD: https://t.co/MFhZRDEQ69]
-https://t.co/u5jmUigkuG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679732587680485376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1547582602541903874/pu/img/7Aw4vQrvL8koP2SP.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 06:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fantastic piece in Sciences on the limitations of LLMs by my Munk Debate teammate @MelMitchell1.
-
-Quote: "The assumptions that we make for humans—that they cannot memorize vast collections of text related to test questions, and when they answer questions correctly, they will be… https://t.co/VA75i4RmLG</title>
-      <link>https://twitter.com/ylecun/status/1679732717280448512</link>
-      <description>Fantastic piece in Sciences on the limitations of LLMs by my Munk Debate teammate @MelMitchell1.
-
-Quote: "The assumptions that we make for humans—that they cannot memorize vast collections of text related to test questions, and when they answer questions correctly, they will be… https://t.co/VA75i4RmLG</description>
-      <content:encoded>Fantastic piece in Sciences on the limitations of LLMs by my Munk Debate teammate @MelMitchell1.
-
-Quote: "The assumptions that we make for humans—that they cannot memorize vast collections of text related to test questions, and when they answer questions correctly, they will be… https://t.co/VA75i4RmLG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1679732717280448512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 06:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @adam_k_glaser: Check out the short videos from members of the team about how the entire ExA-SPIM pipeline works!</title>
-      <link>https://twitter.com/YasirSalas/status/1679733779999408128</link>
-      <description>RT @adam_k_glaser: Check out the short videos from members of the team about how the entire ExA-SPIM pipeline works!</description>
-      <content:encoded>RT @adam_k_glaser: Check out the short videos from members of the team about how the entire ExA-SPIM pipeline works!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/YasirSalas/status/1679733779999408128"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 06:05:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>@TrackingActions The controlled vocab are always in bold.  I guess this is a pretty clear example where it is an impactful topic but the evidence doesn’t support the data.  That seems ok no?</title>
-      <link>https://twitter.com/behrenstimb/status/1679735653943111683</link>
-      <description>@TrackingActions The controlled vocab are always in bold.  I guess this is a pretty clear example where it is an impactful topic but the evidence doesn’t support the data.  That seems ok no?</description>
-      <content:encoded>@TrackingActions The controlled vocab are always in bold.  I guess this is a pretty clear example where it is an impactful topic but the evidence doesn’t support the data.  That seems ok no?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1679735653943111683"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 06:12:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using the ΛCDM concordance model, a new study put the age of the universe at 26.7 billion years, nearly twice as old as previously believed
-
-[read more: https://t.co/TPui0LBh6p] https://t.co/8CtReNwgEx</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679736078373101568</link>
-      <description>Using the ΛCDM concordance model, a new study put the age of the universe at 26.7 billion years, nearly twice as old as previously believed
-
-[read more: https://t.co/TPui0LBh6p] https://t.co/8CtReNwgEx</description>
-      <content:encoded>Using the ΛCDM concordance model, a new study put the age of the universe at 26.7 billion years, nearly twice as old as previously believed
-
-[read more: https://t.co/TPui0LBh6p] https://t.co/8CtReNwgEx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679736078373101568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0-fBHvXwAAltBg.jpg" length="600" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 06:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The organisation and turnover of synaptic proteins within molecular supercomplexes.  https://t.co/ceyD7k8U2u #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1679736352810598402</link>
-      <description>The organisation and turnover of synaptic proteins within molecular supercomplexes.  https://t.co/ceyD7k8U2u #biorxiv_neursci</description>
-      <content:encoded>The organisation and turnover of synaptic proteins within molecular supercomplexes.  https://t.co/ceyD7k8U2u #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679736352810598402"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 06:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Another update: a wonderful gift from an amazing scientist/artist, @ChizhikAlexey !
-
-He made us this beautiful cover art! I'm so impressed, pleased, and grateful.
-
-I love having friends like this :⁠-⁠) https://t.co/ueFHY0e7YR</title>
-      <link>https://twitter.com/AndrewGYork/status/1679743967985008642</link>
-      <description>Another update: a wonderful gift from an amazing scientist/artist, @ChizhikAlexey !
-
-He made us this beautiful cover art! I'm so impressed, pleased, and grateful.
-
-I love having friends like this :⁠-⁠) https://t.co/ueFHY0e7YR</description>
-      <content:encoded>Another update: a wonderful gift from an amazing scientist/artist, @ChizhikAlexey !
-
-He made us this beautiful cover art! I'm so impressed, pleased, and grateful.
-
-I love having friends like this :⁠-⁠) https://t.co/ueFHY0e7YR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewGYork/status/1679743967985008642"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0-lbJ1aEAETcxH.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 06:45:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>What are those dots between Saturn's rings? Our Earth &amp;amp; Moon. Just about 5 years ago, because the Sun was temporarily blocked by the body of Saturn, the robotic Cassini spacecraft was able to look toward the inner Solar System 
-
-[processed by @kevinmgill: https://t.co/47q0oVGlNc] https://t.co/4s14lDIXia</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679745447009701889</link>
-      <description>What are those dots between Saturn's rings? Our Earth &amp;amp; Moon. Just about 5 years ago, because the Sun was temporarily blocked by the body of Saturn, the robotic Cassini spacecraft was able to look toward the inner Solar System 
-
-[processed by @kevinmgill: https://t.co/47q0oVGlNc] https://t.co/4s14lDIXia</description>
-      <content:encoded>What are those dots between Saturn's rings? Our Earth &amp;amp; Moon. Just about 5 years ago, because the Sun was temporarily blocked by the body of Saturn, the robotic Cassini spacecraft was able to look toward the inner Solar System 
-
-[processed by @kevinmgill: https://t.co/47q0oVGlNc] https://t.co/4s14lDIXia&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679745447009701889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0-ne4UWwAAt8Md.jpg" length="596" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 06:51:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joyeux #14juillet! 🇫🇷
-
-Charlotte Ribeyol chercheuse @Sorbonne_Univ_, étudie de la "révolution des couleurs" durant l'ère victorienne (1837-1901) à travers un prisme interdisciplinaire. 
-
-Lire l’article 👉 https://t.co/mq8eLPT4IX
-
-@UEFrance #BastilleDay #Bastillday2023 https://t.co/bUEHKeAsWQ</title>
-      <link>https://twitter.com/ERC_Research/status/1679747633387286528</link>
-      <description>Joyeux #14juillet! 🇫🇷
-
-Charlotte Ribeyol chercheuse @Sorbonne_Univ_, étudie de la "révolution des couleurs" durant l'ère victorienne (1837-1901) à travers un prisme interdisciplinaire. 
-
-Lire l’article 👉 https://t.co/mq8eLPT4IX
-
-@UEFrance #BastilleDay #Bastillday2023 https://t.co/bUEHKeAsWQ</description>
-      <content:encoded>Joyeux #14juillet! 🇫🇷
-
-Charlotte Ribeyol chercheuse @Sorbonne_Univ_, étudie de la "révolution des couleurs" durant l'ère victorienne (1837-1901) à travers un prisme interdisciplinaire. 
-
-Lire l’article 👉 https://t.co/mq8eLPT4IX
-
-@UEFrance #BastilleDay #Bastillday2023 https://t.co/bUEHKeAsWQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1679747633387286528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0-phVXaMAAeajc.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 07:00:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jul 2023 20:18:39 +0000</lastBuildDate>
     <item>
       <title>The common basilisk is endemic to Central South America, where it is found near rivers and streams in rainforests. It is also known as Jesus lizard, for its ability to cross a surface of water by moving quickly before sinking
 
@@ -1198,28 +995,11 @@ https://t.co/7t272X0vU4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Fri, 14 Jul 2023 14:21:47 +0000</pubDate>
     </item>
     <item>
-      <title>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679858873279078401</link>
-      <description>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…</description>
-      <content:encoded>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679858873279078401"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:22:20 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…</title>
       <link>https://twitter.com/ScienceMagazine/status/1679858958721327107</link>
       <description>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…</description>
       <content:encoded>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679858958721327107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 14 Jul 2023 14:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
-Elegant work in hu…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679859014664957952</link>
-      <description>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
-Elegant work in hu…</description>
-      <content:encoded>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
-Elegant work in hu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859014664957952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:22:54 +0000</pubDate>
     </item>
     <item>
       <title>RT @Ale_Brambati: Excited to tell you about my work, new in @sciencemagazine.  MMEJ - a repair pathway that can both mutate and protect DNA…</title>
@@ -1236,26 +1016,12 @@ Elegant work in hu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https:/
       <pubDate>Fri, 14 Jul 2023 14:23:58 +0000</pubDate>
     </item>
     <item>
-      <title>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679859328876945410</link>
-      <description>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…</description>
-      <content:encoded>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859328876945410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:24:08 +0000</pubDate>
-    </item>
-    <item>
       <title>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM</title>
       <link>https://twitter.com/NaturePortfolio/status/1679859566761181184</link>
       <description>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM</description>
       <content:encoded>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679859566761181184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F1APW1SXwAE_O5c.jpg" length="1066" type="photo"/>
       <pubDate>Fri, 14 Jul 2023 14:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679860126914584579</link>
-      <description>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…</description>
-      <content:encoded>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679860126914584579"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:27:19 +0000</pubDate>
     </item>
     <item>
       <title>The AAV Data Hub from @Addgene is a platform from and for scientists for sharing data about AAV experiments. 
@@ -2138,6 +1904,215 @@ https://t.co/lRR6TgIvjR</description>
 
 https://t.co/lRR6TgIvjR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1679931267658428416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 14 Jul 2023 19:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jTroscianko: High-sensitivity low-cost spectrometer that runs from a smartphone. Build your own from 3D printed parts and off-the-shelf…</title>
+      <link>https://twitter.com/trose_neuro/status/1679934901011791873</link>
+      <description>RT @jTroscianko: High-sensitivity low-cost spectrometer that runs from a smartphone. Build your own from 3D printed parts and off-the-shelf…</description>
+      <content:encoded>RT @jTroscianko: High-sensitivity low-cost spectrometer that runs from a smartphone. Build your own from 3D printed parts and off-the-shelf…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trose_neuro/status/1679934901011791873"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 19:24:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The use of #ChatGPT—a chatbot that can generate human-like text—raises productivity in professional writing tasks and reduces productivity inequality in those who use it, according to a new Science study involving over 400 college-educated professionals. https://t.co/bCfh3NHs69</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679936306305191937</link>
+      <description>The use of #ChatGPT—a chatbot that can generate human-like text—raises productivity in professional writing tasks and reduces productivity inequality in those who use it, according to a new Science study involving over 400 college-educated professionals. https://t.co/bCfh3NHs69</description>
+      <content:encoded>The use of #ChatGPT—a chatbot that can generate human-like text—raises productivity in professional writing tasks and reduces productivity inequality in those who use it, according to a new Science study involving over 400 college-educated professionals. https://t.co/bCfh3NHs69&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679936306305191937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 19:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @BioRxIF: With 50,000 journals, it can be difficult to efficiently determine a paper's Impact Factor. That's why we're excited to announ…</title>
+      <link>https://twitter.com/andpru/status/1679936323338027027</link>
+      <description>RT @BioRxIF: With 50,000 journals, it can be difficult to efficiently determine a paper's Impact Factor. That's why we're excited to announ…</description>
+      <content:encoded>RT @BioRxIF: With 50,000 journals, it can be difficult to efficiently determine a paper's Impact Factor. That's why we're excited to announ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1679936323338027027"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 19:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>More complex tech in more extreme environments demands faster testing for more reliable #microelectronics. Our new ASSERT program looks to equip troops sooner with #radhard game-changers. More: https://t.co/OSyKSPvxLP https://t.co/oJq8TYO4qV</title>
+      <link>https://twitter.com/DARPA/status/1679936981823004672</link>
+      <description>More complex tech in more extreme environments demands faster testing for more reliable #microelectronics. Our new ASSERT program looks to equip troops sooner with #radhard game-changers. More: https://t.co/OSyKSPvxLP https://t.co/oJq8TYO4qV</description>
+      <content:encoded>More complex tech in more extreme environments demands faster testing for more reliable #microelectronics. Our new ASSERT program looks to equip troops sooner with #radhard game-changers. More: https://t.co/OSyKSPvxLP https://t.co/oJq8TYO4qV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1679936981823004672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1BVyGQWwA0ItbC.jpg" length="619" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 19:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 Are you a ML dev looking for a powerful and versatile framework to build your models?
+
+Here's how learning the basics of TensorFlow can help you 👇</title>
+      <link>https://twitter.com/TensorFlow/status/1679940351585587200</link>
+      <description>👀 Are you a ML dev looking for a powerful and versatile framework to build your models?
+
+Here's how learning the basics of TensorFlow can help you 👇</description>
+      <content:encoded>👀 Are you a ML dev looking for a powerful and versatile framework to build your models?
+
+Here's how learning the basics of TensorFlow can help you 👇&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1679940351585587200"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 19:46:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💡TensorFlow is a free and open-source library that can be used for a wide variety of tasks, including image classification, natural language processing, and speech recognition.</title>
+      <link>https://twitter.com/TensorFlow/status/1679940354550960129</link>
+      <description>💡TensorFlow is a free and open-source library that can be used for a wide variety of tasks, including image classification, natural language processing, and speech recognition.</description>
+      <content:encoded>💡TensorFlow is a free and open-source library that can be used for a wide variety of tasks, including image classification, natural language processing, and speech recognition.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1679940354550960129"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 19:46:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>📲 Our website has a wealth of resources for beginners, including tutorials, documentation, and how to join and contribute to our community. 
+https://t.co/4sK4lAJn6w</title>
+      <link>https://twitter.com/TensorFlow/status/1679940357264674821</link>
+      <description>📲 Our website has a wealth of resources for beginners, including tutorials, documentation, and how to join and contribute to our community. 
+https://t.co/4sK4lAJn6w</description>
+      <content:encoded>📲 Our website has a wealth of resources for beginners, including tutorials, documentation, and how to join and contribute to our community. 
+https://t.co/4sK4lAJn6w&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1679940357264674821"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 19:46:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Once you've learned the basics of TensorFlow, you can start building your own machine learning models. 
+
+And if you need help, there's a large and active community of TensorFlow users who are always willing to lend a hand. ⤵️
+https://t.co/thpDMgFXdJ</title>
+      <link>https://twitter.com/TensorFlow/status/1679940359990972417</link>
+      <description>Once you've learned the basics of TensorFlow, you can start building your own machine learning models. 
+
+And if you need help, there's a large and active community of TensorFlow users who are always willing to lend a hand. ⤵️
+https://t.co/thpDMgFXdJ</description>
+      <content:encoded>Once you've learned the basics of TensorFlow, you can start building your own machine learning models. 
+
+And if you need help, there's a large and active community of TensorFlow users who are always willing to lend a hand. ⤵️
+https://t.co/thpDMgFXdJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1679940359990972417"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 19:46:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>So what are you waiting for? 
+
+Check out how to get started with TensorFlow today and start building your own machine learning models! ⤵️
+
+https://t.co/ny0ifjBiba</title>
+      <link>https://twitter.com/TensorFlow/status/1679940362855669760</link>
+      <description>So what are you waiting for? 
+
+Check out how to get started with TensorFlow today and start building your own machine learning models! ⤵️
+
+https://t.co/ny0ifjBiba</description>
+      <content:encoded>So what are you waiting for? 
+
+Check out how to get started with TensorFlow today and start building your own machine learning models! ⤵️
+
+https://t.co/ny0ifjBiba&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TensorFlow/status/1679940362855669760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 19:46:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>It may seem counterintuitive, but water falling from a certain height converts potential energy into kinetic and can even do this.
+
+And no, this is not a car pool
+
+[read more: https://t.co/6uPEuu8Dam]
+https://t.co/eTFkjT2k9l</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679943955281059850</link>
+      <description>It may seem counterintuitive, but water falling from a certain height converts potential energy into kinetic and can even do this.
+
+And no, this is not a car pool
+
+[read more: https://t.co/6uPEuu8Dam]
+https://t.co/eTFkjT2k9l</description>
+      <content:encoded>It may seem counterintuitive, but water falling from a certain height converts potential energy into kinetic and can even do this.
+
+And no, this is not a car pool
+
+[read more: https://t.co/6uPEuu8Dam]
+https://t.co/eTFkjT2k9l&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679943955281059850"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1678924535381254146/img/aAnsJioD4GGt1lE4.jpg" length="676" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 20:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 truths and a lie indeed https://t.co/XLL8fyRrOD</title>
+      <link>https://twitter.com/Pascallisch/status/1679945883440361472</link>
+      <description>4 truths and a lie indeed https://t.co/XLL8fyRrOD</description>
+      <content:encoded>4 truths and a lie indeed https://t.co/XLL8fyRrOD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Pascallisch/status/1679945883440361472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1Bd34rWAAAmLLG.jpg" length="896" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 20:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI Discussion  https://t.co/UHZatW4vFS</title>
+      <link>https://twitter.com/elonmusk/status/1679946016806834176</link>
+      <description>xAI Discussion  https://t.co/UHZatW4vFS</description>
+      <content:encoded>xAI Discussion  https://t.co/UHZatW4vFS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1679946016806834176"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 20:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anti-TRIP8b (constant) [N212/17R]
+Depositor: James Trimmer
+Purpose: Mammalian Expression Plasmid of anti-TRIP8b (constant) (Rat). Derived from hybridoma N212/17.
+
+https://t.co/pppWW5CN4Y https://t.co/mnKS5FMxpd</title>
+      <link>https://twitter.com/Addgene/status/1679946374060838912</link>
+      <description>Anti-TRIP8b (constant) [N212/17R]
+Depositor: James Trimmer
+Purpose: Mammalian Expression Plasmid of anti-TRIP8b (constant) (Rat). Derived from hybridoma N212/17.
+
+https://t.co/pppWW5CN4Y https://t.co/mnKS5FMxpd</description>
+      <content:encoded>Anti-TRIP8b (constant) [N212/17R]
+Depositor: James Trimmer
+Purpose: Mammalian Expression Plasmid of anti-TRIP8b (constant) (Rat). Derived from hybridoma N212/17.
+
+https://t.co/pppWW5CN4Y https://t.co/mnKS5FMxpd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1679946374060838912"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F1BeUSAX0AMfbOy.jpg" length="480" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 20:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI discussion on Spaces now</title>
+      <link>https://twitter.com/elonmusk/status/1679946570593374211</link>
+      <description>xAI discussion on Spaces now</description>
+      <content:encoded>xAI discussion on Spaces now&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1679946570593374211"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 20:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>What better thing to 3D-print than a brain in a wheelbarrow! How about we make it our logo? 🤔 #2023BYBFellowship https://t.co/3JUKbzYPyh</title>
+      <link>https://twitter.com/BackyardBrains/status/1679947372707852289</link>
+      <description>What better thing to 3D-print than a brain in a wheelbarrow! How about we make it our logo? 🤔 #2023BYBFellowship https://t.co/3JUKbzYPyh</description>
+      <content:encoded>What better thing to 3D-print than a brain in a wheelbarrow! How about we make it our logo? 🤔 #2023BYBFellowship https://t.co/3JUKbzYPyh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BackyardBrains/status/1679947372707852289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679836452761346049/pu/img/zyRvkbbuf45m2Ubv.jpg" length="675" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 20:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Relationship Between the P300 and Sequence Knowledge in a Changing Environment  https://t.co/tY2qjAJxiS #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1679947767941066753</link>
+      <description>Relationship Between the P300 and Sequence Knowledge in a Changing Environment  https://t.co/tY2qjAJxiS #biorxiv_neursci</description>
+      <content:encoded>Relationship Between the P300 and Sequence Knowledge in a Changing Environment  https://t.co/tY2qjAJxiS #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679947767941066753"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 20:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>A cortical information bottleneck during decision-making  https://t.co/JwyoWsdBtN #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1679947861822173184</link>
+      <description>A cortical information bottleneck during decision-making  https://t.co/JwyoWsdBtN #biorxiv_neursci</description>
+      <content:encoded>A cortical information bottleneck during decision-making  https://t.co/JwyoWsdBtN #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679947861822173184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 20:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reconfiguration of Behavioral Signals in the Anterior Cingulate Cortex based on Emotional State  https://t.co/JwmPLaaQlv #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1679947937101631490</link>
+      <description>Reconfiguration of Behavioral Signals in the Anterior Cingulate Cortex based on Emotional State  https://t.co/JwmPLaaQlv #biorxiv_neursci</description>
+      <content:encoded>Reconfiguration of Behavioral Signals in the Anterior Cingulate Cortex based on Emotional State  https://t.co/JwmPLaaQlv #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679947937101631490"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 20:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Low-dose inhalation exposure to trichloroethylene induces dopaminergic neurodegeneration in rodents  https://t.co/DeqOY9etAV #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1679948043011993601</link>
+      <description>Low-dose inhalation exposure to trichloroethylene induces dopaminergic neurodegeneration in rodents  https://t.co/DeqOY9etAV #biorxiv_neursci</description>
+      <content:encoded>Low-dose inhalation exposure to trichloroethylene induces dopaminergic neurodegeneration in rodents  https://t.co/DeqOY9etAV #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679948043011993601"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 20:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extrasynaptic localization is essential for α5GABAA receptor modulation of dopamine system function  https://t.co/7lsUYexCCh #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1679948146284064772</link>
+      <description>Extrasynaptic localization is essential for α5GABAA receptor modulation of dopamine system function  https://t.co/7lsUYexCCh #biorxiv_neursci</description>
+      <content:encoded>Extrasynaptic localization is essential for α5GABAA receptor modulation of dopamine system function  https://t.co/7lsUYexCCh #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679948146284064772"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 20:17:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural underpinnings of comorbid posttraumatic stress and excessive alcohol use: Opposing effects on loss-related mediofrontal theta ...  https://t.co/FwzyboUGYL #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1679948238940516352</link>
+      <description>Neural underpinnings of comorbid posttraumatic stress and excessive alcohol use: Opposing effects on loss-related mediofrontal theta ...  https://t.co/FwzyboUGYL #biorxiv_neursci</description>
+      <content:encoded>Neural underpinnings of comorbid posttraumatic stress and excessive alcohol use: Opposing effects on loss-related mediofrontal theta ...  https://t.co/FwzyboUGYL #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679948238940516352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 20:17:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
