@@ -6,201 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jul 2023 15:18:16 +0000</lastBuildDate>
-    <item>
-      <title>https://t.co/nDkDkJSQLa https://t.co/xTRoi96a7q</title>
-      <link>https://twitter.com/behrenstimb/status/1679570721234882560</link>
-      <description>https://t.co/nDkDkJSQLa https://t.co/xTRoi96a7q</description>
-      <content:encoded>https://t.co/nDkDkJSQLa https://t.co/xTRoi96a7q&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1679570721234882560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F08Iqs4XgAEsNEq.jpg" length="1125" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 19:17:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @grg_perry: Ask me anything.</title>
-      <link>https://twitter.com/behrenstimb/status/1679571398212157440</link>
-      <description>RT @grg_perry: Ask me anything.</description>
-      <content:encoded>RT @grg_perry: Ask me anything.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1679571398212157440"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 19:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our #CellLineOfTheWeek is SMC (structural maintenance of chromosomes) protein 1A! 🧬🛠️
-
-Our hiPSC lines &amp;amp; plasmids – fluorescently-tagged to illuminate structures – are openly available to support discovery: https://t.co/QCetZaSS0V
-
-📦 Distributed by @Coriell_Science &amp;amp; @Addgene. https://t.co/v1uhNDoTVN</title>
-      <link>https://twitter.com/AllenInstitute/status/1679571898558996483</link>
-      <description>Our #CellLineOfTheWeek is SMC (structural maintenance of chromosomes) protein 1A! 🧬🛠️
-
-Our hiPSC lines &amp;amp; plasmids – fluorescently-tagged to illuminate structures – are openly available to support discovery: https://t.co/QCetZaSS0V
-
-📦 Distributed by @Coriell_Science &amp;amp; @Addgene. https://t.co/v1uhNDoTVN</description>
-      <content:encoded>Our #CellLineOfTheWeek is SMC (structural maintenance of chromosomes) protein 1A! 🧬🛠️
-
-Our hiPSC lines &amp;amp; plasmids – fluorescently-tagged to illuminate structures – are openly available to support discovery: https://t.co/QCetZaSS0V
-
-📦 Distributed by @Coriell_Science &amp;amp; @Addgene. https://t.co/v1uhNDoTVN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679571898558996483"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1674495046715084800/img/dort7SCjT29iSpeW.jpg" length="540" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 19:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How do we know how smart #AI systems are?
-
-@MelMitchell1 explores this question in our first #ScienceExpertVoices article, a new type of commentary written by a rotating group of experts. https://t.co/uB6NSwWs5g https://t.co/bck3BrJh63</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679573957924597768</link>
-      <description>How do we know how smart #AI systems are?
-
-@MelMitchell1 explores this question in our first #ScienceExpertVoices article, a new type of commentary written by a rotating group of experts. https://t.co/uB6NSwWs5g https://t.co/bck3BrJh63</description>
-      <content:encoded>How do we know how smart #AI systems are?
-
-@MelMitchell1 explores this question in our first #ScienceExpertVoices article, a new type of commentary written by a rotating group of experts. https://t.co/uB6NSwWs5g https://t.co/bck3BrJh63&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679573957924597768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F08LnQxWIAAlrNU.jpg" length="750" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 19:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @austinbarnard45: Pretty cool gift from work🚀 https://t.co/HsurdC0L8u</title>
-      <link>https://twitter.com/MichaelGalanin/status/1679580803158687744</link>
-      <description>RT @austinbarnard45: Pretty cool gift from work🚀 https://t.co/HsurdC0L8u</description>
-      <content:encoded>RT @austinbarnard45: Pretty cool gift from work🚀 https://t.co/HsurdC0L8u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1679580803158687744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F07OdLnWwAAuTfl.jpg" length="900" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 19:57:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Of course Kafka wrote in German. https://t.co/7DsjlWifsp</title>
-      <link>https://twitter.com/HenryYin19/status/1679582429248618496</link>
-      <description>Of course Kafka wrote in German. https://t.co/7DsjlWifsp</description>
-      <content:encoded>Of course Kafka wrote in German. https://t.co/7DsjlWifsp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HenryYin19/status/1679582429248618496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 20:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Academia https://t.co/tLcYOYLlwO</title>
-      <link>https://twitter.com/HenryYin19/status/1679582795411357696</link>
-      <description>Academia https://t.co/tLcYOYLlwO</description>
-      <content:encoded>Academia https://t.co/tLcYOYLlwO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HenryYin19/status/1679582795411357696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 20:05:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Every week we have some glam paper retracted often after years of subthreshold damage but eLife is the problem. https://t.co/aumcQmLnad</title>
-      <link>https://twitter.com/andpru/status/1679583358404161547</link>
-      <description>Every week we have some glam paper retracted often after years of subthreshold damage but eLife is the problem. https://t.co/aumcQmLnad</description>
-      <content:encoded>Every week we have some glam paper retracted often after years of subthreshold damage but eLife is the problem. https://t.co/aumcQmLnad&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1679583358404161547"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F08UKOcXsAA4Z33.jpg" length="400" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 20:07:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>pHAGE-RAF1-L86R
-Depositor: Kenneth Scott
-Purpose: Lentiviral expression of RAF1 L86R
-
-https://t.co/jK1ufVPssg https://t.co/WfA9N3UiFy</title>
-      <link>https://twitter.com/Addgene/status/1679583482652008449</link>
-      <description>pHAGE-RAF1-L86R
-Depositor: Kenneth Scott
-Purpose: Lentiviral expression of RAF1 L86R
-
-https://t.co/jK1ufVPssg https://t.co/WfA9N3UiFy</description>
-      <content:encoded>pHAGE-RAF1-L86R
-Depositor: Kenneth Scott
-Purpose: Lentiviral expression of RAF1 L86R
-
-https://t.co/jK1ufVPssg https://t.co/WfA9N3UiFy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1679583482652008449"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F08URNsWYAA4fi6.jpg" length="480" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 20:08:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The reward system plays a role in natural story comprehension  https://t.co/orPtGGIaSz #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1679585384622088194</link>
-      <description>The reward system plays a role in natural story comprehension  https://t.co/orPtGGIaSz #biorxiv_neursci</description>
-      <content:encoded>The reward system plays a role in natural story comprehension  https://t.co/orPtGGIaSz #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679585384622088194"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 20:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pervasive inter-individual differences in the sensorimotor-association axis of cortical organization  https://t.co/l8tG5lga8p #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1679585490733867011</link>
-      <description>Pervasive inter-individual differences in the sensorimotor-association axis of cortical organization  https://t.co/l8tG5lga8p #biorxiv_neursci</description>
-      <content:encoded>Pervasive inter-individual differences in the sensorimotor-association axis of cortical organization  https://t.co/l8tG5lga8p #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679585490733867011"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 20:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @StarTalkRadio: Calling all New Yorkers!
-
-Today's your last chance to witness Manhattanhenge this year—don't miss it! Takes place at 8:2…</title>
-      <link>https://twitter.com/MichaelGalanin/status/1679587376597725186</link>
-      <description>RT @StarTalkRadio: Calling all New Yorkers!
-
-Today's your last chance to witness Manhattanhenge this year—don't miss it! Takes place at 8:2…</description>
-      <content:encoded>RT @StarTalkRadio: Calling all New Yorkers!
-
-Today's your last chance to witness Manhattanhenge this year—don't miss it! Takes place at 8:2…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1679587376597725186"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 20:23:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>NeuroAI / Computational neuroscience faculty position at CSHL
-
-Applications due Sept 1, 2023! 
-
-(please retweet before this platform dies) https://t.co/LBwvXspjbY</title>
-      <link>https://twitter.com/TonyZador/status/1679589831699996672</link>
-      <description>NeuroAI / Computational neuroscience faculty position at CSHL
-
-Applications due Sept 1, 2023! 
-
-(please retweet before this platform dies) https://t.co/LBwvXspjbY</description>
-      <content:encoded>NeuroAI / Computational neuroscience faculty position at CSHL
-
-Applications due Sept 1, 2023! 
-
-(please retweet before this platform dies) https://t.co/LBwvXspjbY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TonyZador/status/1679589831699996672"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 20:33:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @drosophilosophy: next up, @MichaelBReiser takes us on a journey into the fly eye. processing, structure, and function. one of my favori…</title>
-      <link>https://twitter.com/HHMIJanelia/status/1679590038789582850</link>
-      <description>RT @drosophilosophy: next up, @MichaelBReiser takes us on a journey into the fly eye. processing, structure, and function. one of my favori…</description>
-      <content:encoded>RT @drosophilosophy: next up, @MichaelBReiser takes us on a journey into the fly eye. processing, structure, and function. one of my favori…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1679590038789582850"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 20:34:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @michael_krashes: New work from the lab led by the amazing Isabel de Araujo Salgado (who is officially on the job market) investigating…</title>
-      <link>https://twitter.com/trabranco/status/1679593535694155781</link>
-      <description>RT @michael_krashes: New work from the lab led by the amazing Isabel de Araujo Salgado (who is officially on the job market) investigating…</description>
-      <content:encoded>RT @michael_krashes: New work from the lab led by the amazing Isabel de Araujo Salgado (who is officially on the job market) investigating…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trabranco/status/1679593535694155781"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 20:47:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oceans have changed colour over the past 20 years, a trend that may indicate alterations in surface ocean ecosystems driven by climate change, suggests a study published in @Nature. https://t.co/sGB0hkwTLb https://t.co/HstXsFevsf</title>
-      <link>https://twitter.com/NaturePortfolio/status/1679594067649347585</link>
-      <description>Oceans have changed colour over the past 20 years, a trend that may indicate alterations in surface ocean ecosystems driven by climate change, suggests a study published in @Nature. https://t.co/sGB0hkwTLb https://t.co/HstXsFevsf</description>
-      <content:encoded>Oceans have changed colour over the past 20 years, a trend that may indicate alterations in surface ocean ecosystems driven by climate change, suggests a study published in @Nature. https://t.co/sGB0hkwTLb https://t.co/HstXsFevsf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679594067649347585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F08d4wGXsAA0rhe.jpg" length="1066" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 20:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>That's pretty cool! https://t.co/WOz4QFJXDQ</title>
-      <link>https://twitter.com/brainsOnMyMind/status/1679594070467903488</link>
-      <description>That's pretty cool! https://t.co/WOz4QFJXDQ</description>
-      <content:encoded>That's pretty cool! https://t.co/WOz4QFJXDQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1679594070467903488"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 20:50:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New in Science: #CRISPR editing has enabled scientists to design wood in which lignin is more suitable for fiber production. The approach could make paper production less polluting.
-
-Learn more ⬇️
-📄: https://t.co/az3MgvFD01
-#SciencePerspective: https://t.co/UVcZQzEpxk https://t.co/W3osmLe9eg</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679596620873121793</link>
-      <description>New in Science: #CRISPR editing has enabled scientists to design wood in which lignin is more suitable for fiber production. The approach could make paper production less polluting.
-
-Learn more ⬇️
-📄: https://t.co/az3MgvFD01
-#SciencePerspective: https://t.co/UVcZQzEpxk https://t.co/W3osmLe9eg</description>
-      <content:encoded>New in Science: #CRISPR editing has enabled scientists to design wood in which lignin is more suitable for fiber production. The approach could make paper production less polluting.
-
-Learn more ⬇️
-📄: https://t.co/az3MgvFD01
-#SciencePerspective: https://t.co/UVcZQzEpxk https://t.co/W3osmLe9eg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679596620873121793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F08gOZCWIAE-E9G.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 21:00:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jul 2023 16:22:26 +0000</lastBuildDate>
     <item>
       <title>Entrepreneurs that start businesses in their communities are part of the social fabric that drives economic mobility in the US. 
 
@@ -1751,28 +1557,11 @@ https://t.co/7t272X0vU4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Fri, 14 Jul 2023 14:21:47 +0000</pubDate>
     </item>
     <item>
-      <title>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679858873279078401</link>
-      <description>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…</description>
-      <content:encoded>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679858873279078401"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:22:20 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…</title>
       <link>https://twitter.com/ScienceMagazine/status/1679858958721327107</link>
       <description>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…</description>
       <content:encoded>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679858958721327107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 14 Jul 2023 14:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
-Elegant work in hu…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679859014664957952</link>
-      <description>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
-Elegant work in hu…</description>
-      <content:encoded>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
-Elegant work in hu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859014664957952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:22:54 +0000</pubDate>
     </item>
     <item>
       <title>RT @Ale_Brambati: Excited to tell you about my work, new in @sciencemagazine.  MMEJ - a repair pathway that can both mutate and protect DNA…</title>
@@ -1789,26 +1578,12 @@ Elegant work in hu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https:/
       <pubDate>Fri, 14 Jul 2023 14:23:58 +0000</pubDate>
     </item>
     <item>
-      <title>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679859328876945410</link>
-      <description>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…</description>
-      <content:encoded>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859328876945410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:24:08 +0000</pubDate>
-    </item>
-    <item>
       <title>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM</title>
       <link>https://twitter.com/NaturePortfolio/status/1679859566761181184</link>
       <description>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM</description>
       <content:encoded>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679859566761181184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F1APW1SXwAE_O5c.jpg" length="1066" type="photo"/>
       <pubDate>Fri, 14 Jul 2023 14:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679860126914584579</link>
-      <description>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…</description>
-      <content:encoded>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679860126914584579"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:27:19 +0000</pubDate>
     </item>
     <item>
       <title>The AAV Data Hub from @Addgene is a platform from and for scientists for sharing data about AAV experiments. 
@@ -2079,24 +1854,272 @@ Let's co-build our next PR strategy.
       <pubDate>Fri, 14 Jul 2023 15:17:13 +0000</pubDate>
     </item>
     <item>
-      <title>Windshield glass repair kits use resins which are formulated to have the same refractive index as the glass. 
+      <title>🚨Upcoming submission deadline🚨  
 
-[How it works: https://t.co/vBCBoy7DQC] 
-[📹 https://t.co/jI15slDLGe]
-https://t.co/mZC56ytRfp</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679872782295785475</link>
-      <description>Windshield glass repair kits use resins which are formulated to have the same refractive index as the glass. 
+Don't miss the opportunity to contribute to this fascinating research topic exploring COVID-19 Sequelae using Non-Invasive Brain Imaging Techniques. 
 
-[How it works: https://t.co/vBCBoy7DQC] 
-[📹 https://t.co/jI15slDLGe]
-https://t.co/mZC56ytRfp</description>
-      <content:encoded>Windshield glass repair kits use resins which are formulated to have the same refractive index as the glass. 
+📅August 19th 
 
-[How it works: https://t.co/vBCBoy7DQC] 
-[📹 https://t.co/jI15slDLGe]
-https://t.co/mZC56ytRfp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679872782295785475"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1501251650157105152/pu/img/M8MuGlYI5PmdnIrD.jpg" length="460" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 15:17:36 +0000</pubDate>
+Submit here➡️https://t.co/tR7v4UlnHv
+
+#COVID19 #neuroscience #brainimaging https://t.co/TAtc7DJzam</title>
+      <link>https://twitter.com/FrontNeurosci/status/1679873892230262785</link>
+      <description>🚨Upcoming submission deadline🚨  
+
+Don't miss the opportunity to contribute to this fascinating research topic exploring COVID-19 Sequelae using Non-Invasive Brain Imaging Techniques. 
+
+📅August 19th 
+
+Submit here➡️https://t.co/tR7v4UlnHv
+
+#COVID19 #neuroscience #brainimaging https://t.co/TAtc7DJzam</description>
+      <content:encoded>🚨Upcoming submission deadline🚨  
+
+Don't miss the opportunity to contribute to this fascinating research topic exploring COVID-19 Sequelae using Non-Invasive Brain Imaging Techniques. 
+
+📅August 19th 
+
+Submit here➡️https://t.co/tR7v4UlnHv
+
+#COVID19 #neuroscience #brainimaging https://t.co/TAtc7DJzam&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1679873892230262785"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AbJN1XgAENNOY.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:22:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍾 Super happy to say that #BUCTD was accepted to #ICCV2023! Huge congratulations to @zhoumu53, @LStoffl &amp;amp; @TrackingPlumes, it was so great to work with you all🙏🎉 🥂
+
+🇨🇭@EPFL_en @Brainmind_EPFL @ICepfl @epflSV 
+⬇️ Details below! https://t.co/GkgSucj3OI</title>
+      <link>https://twitter.com/TrackingActions/status/1679874193230266371</link>
+      <description>🍾 Super happy to say that #BUCTD was accepted to #ICCV2023! Huge congratulations to @zhoumu53, @LStoffl &amp;amp; @TrackingPlumes, it was so great to work with you all🙏🎉 🥂
+
+🇨🇭@EPFL_en @Brainmind_EPFL @ICepfl @epflSV 
+⬇️ Details below! https://t.co/GkgSucj3OI</description>
+      <content:encoded>🍾 Super happy to say that #BUCTD was accepted to #ICCV2023! Huge congratulations to @zhoumu53, @LStoffl &amp;amp; @TrackingPlumes, it was so great to work with you all🙏🎉 🥂
+
+🇨🇭@EPFL_en @Brainmind_EPFL @ICepfl @epflSV 
+⬇️ Details below! https://t.co/GkgSucj3OI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1679874193230266371"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 15:23:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Take advantage of your SfN membership! 
+
+Register for #SfN23 at a discounted rate and secure the best accommodations before registration opens to the general public on Tuesday, July 18. 
+
+Register now!  ▶️ https://t.co/RpXdt1aONI
+
+#neurotwitter https://t.co/2ANmUnuOVV</title>
+      <link>https://twitter.com/SfNtweets/status/1679875422127894528</link>
+      <description>Take advantage of your SfN membership! 
+
+Register for #SfN23 at a discounted rate and secure the best accommodations before registration opens to the general public on Tuesday, July 18. 
+
+Register now!  ▶️ https://t.co/RpXdt1aONI
+
+#neurotwitter https://t.co/2ANmUnuOVV</description>
+      <content:encoded>Take advantage of your SfN membership! 
+
+Register for #SfN23 at a discounted rate and secure the best accommodations before registration opens to the general public on Tuesday, July 18. 
+
+Register now!  ▶️ https://t.co/RpXdt1aONI
+
+#neurotwitter https://t.co/2ANmUnuOVV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SfNtweets/status/1679875422127894528"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1Adxt9X0AIzfOK.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:28:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>A pilot study published in @Nature reports that targeted removal of invasive, submerged vegetation from water access points in West African villages can reduce rates of schistosomiasis, a disease transmitted by parasites of freshwater snails. https://t.co/VgB23suggI https://t.co/pko21AS6or</title>
+      <link>https://twitter.com/NaturePortfolio/status/1679875672548732930</link>
+      <description>A pilot study published in @Nature reports that targeted removal of invasive, submerged vegetation from water access points in West African villages can reduce rates of schistosomiasis, a disease transmitted by parasites of freshwater snails. https://t.co/VgB23suggI https://t.co/pko21AS6or</description>
+      <content:encoded>A pilot study published in @Nature reports that targeted removal of invasive, submerged vegetation from water access points in West African villages can reduce rates of schistosomiasis, a disease transmitted by parasites of freshwater snails. https://t.co/VgB23suggI https://t.co/pko21AS6or&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679875672548732930"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AeAT7WYAEWoXw.jpg" length="1000" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fun fact: hobby horsing is a sport with gymnastic elements which uses hobby horses, also known as stick horses. Movement sequences similar to those in show jumping or dressage are partly simulated in courses
+
+[read more: https://t.co/5qxH5QkeYC]
+https://t.co/p69G9sXRME</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679875719092920333</link>
+      <description>Fun fact: hobby horsing is a sport with gymnastic elements which uses hobby horses, also known as stick horses. Movement sequences similar to those in show jumping or dressage are partly simulated in courses
+
+[read more: https://t.co/5qxH5QkeYC]
+https://t.co/p69G9sXRME</description>
+      <content:encoded>Fun fact: hobby horsing is a sport with gymnastic elements which uses hobby horses, also known as stick horses. Movement sequences similar to those in show jumping or dressage are partly simulated in courses
+
+[read more: https://t.co/5qxH5QkeYC]
+https://t.co/p69G9sXRME&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679875719092920333"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679654836562690051/pu/img/4EFRXsVaaKyyp0an.jpg" length="676" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:29:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Monday, Blue Brain Scientist Stéphanie Battini is presenting her poster at the #Computational #Neuroscience Meeting
+- Modulation of blood flow by astrocytic activity - 
+
+Find out more – https://t.co/XTbAUTlnrY 
+
+#CNS2023 https://t.co/62RmG9p5fx</title>
+      <link>https://twitter.com/BlueBrainPjt/status/1679876670667341825</link>
+      <description>Monday, Blue Brain Scientist Stéphanie Battini is presenting her poster at the #Computational #Neuroscience Meeting
+- Modulation of blood flow by astrocytic activity - 
+
+Find out more – https://t.co/XTbAUTlnrY 
+
+#CNS2023 https://t.co/62RmG9p5fx</description>
+      <content:encoded>Monday, Blue Brain Scientist Stéphanie Battini is presenting her poster at the #Computational #Neuroscience Meeting
+- Modulation of blood flow by astrocytic activity - 
+
+Find out more – https://t.co/XTbAUTlnrY 
+
+#CNS2023 https://t.co/62RmG9p5fx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BlueBrainPjt/status/1679876670667341825"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AdAwjX0AoF5xa.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:33:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>.@CajonValleyUSD partners with 27 schools to prepare K-12 students to learn about their strengths, interests and values. 
+
+The result? Students of all ages feel empowered to think about their future 🚒👨🏾‍🚒📬📤 https://t.co/C1KpUPg7YG</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1679879122548404224</link>
+      <description>.@CajonValleyUSD partners with 27 schools to prepare K-12 students to learn about their strengths, interests and values. 
+
+The result? Students of all ages feel empowered to think about their future 🚒👨🏾‍🚒📬📤 https://t.co/C1KpUPg7YG</description>
+      <content:encoded>.@CajonValleyUSD partners with 27 schools to prepare K-12 students to learn about their strengths, interests and values. 
+
+The result? Students of all ages feel empowered to think about their future 🚒👨🏾‍🚒📬📤 https://t.co/C1KpUPg7YG&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1679879122548404224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AhKBtXsAM-iIY.jpg" length="1024" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:42:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>One of the ancient techniques to make paper consisted in using mulberry bark and rags with water, mashing them into pulp, pressing out the liquid and hunging the thin mat to dry in the sun
+
+[📹 craftsman0011: https://t.co/jBKhoFnkEd]
+https://t.co/k6yTO982cX</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679879255927160833</link>
+      <description>One of the ancient techniques to make paper consisted in using mulberry bark and rags with water, mashing them into pulp, pressing out the liquid and hunging the thin mat to dry in the sun
+
+[📹 craftsman0011: https://t.co/jBKhoFnkEd]
+https://t.co/k6yTO982cX</description>
+      <content:encoded>One of the ancient techniques to make paper consisted in using mulberry bark and rags with water, mashing them into pulp, pressing out the liquid and hunging the thin mat to dry in the sun
+
+[📹 craftsman0011: https://t.co/jBKhoFnkEd]
+https://t.co/k6yTO982cX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679879255927160833"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679373862226759681/pu/img/Qf3sx_SsHy689SR8.jpg" length="202" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is scarry!!! 😨🙀😱 https://t.co/PLCjcgnIMU</title>
+      <link>https://twitter.com/vdignum/status/1679881403272503296</link>
+      <description>This is scarry!!! 😨🙀😱 https://t.co/PLCjcgnIMU</description>
+      <content:encoded>This is scarry!!! 😨🙀😱 https://t.co/PLCjcgnIMU&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1679881403272503296"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 15:51:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MayBrittMoser: So honored and proud!💃🏻🕺🏽🎶🎊 https://t.co/TamX0f4SQY</title>
+      <link>https://twitter.com/KISNeuro/status/1679882685848735744</link>
+      <description>RT @MayBrittMoser: So honored and proud!💃🏻🕺🏽🎶🎊 https://t.co/TamX0f4SQY</description>
+      <content:encoded>RT @MayBrittMoser: So honored and proud!💃🏻🕺🏽🎶🎊 https://t.co/TamX0f4SQY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KISNeuro/status/1679882685848735744"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 15:56:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @WinnerLab: Assembloid consisting of dorsal and ventral spheroids, synapsin-expressing neurons in magenta (mCherry), DLX-expressing neur…</title>
+      <link>https://twitter.com/Addgene/status/1679884043154866177</link>
+      <description>RT @WinnerLab: Assembloid consisting of dorsal and ventral spheroids, synapsin-expressing neurons in magenta (mCherry), DLX-expressing neur…</description>
+      <content:encoded>RT @WinnerLab: Assembloid consisting of dorsal and ventral spheroids, synapsin-expressing neurons in magenta (mCherry), DLX-expressing neur…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1679884043154866177"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@laubach_mark Thanks, Mark.  This is helpful.</title>
+      <link>https://twitter.com/kwanalexc/status/1679884181961162752</link>
+      <description>@laubach_mark Thanks, Mark.  This is helpful.</description>
+      <content:encoded>@laubach_mark Thanks, Mark.  This is helpful.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kwanalexc/status/1679884181961162752"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Through the MIT Indigenous Languages Initiative, Rani Ukhengching Marma works to preserve Marma, spoken by one of the largest Indigenous groups in Bangladesh. The language “is strongly associated with our ancestral lands, culture, and knowledge,” she says. https://t.co/xHVlIrCt86 https://t.co/Vskecnt0NC</title>
+      <link>https://twitter.com/MIT/status/1679884790412050433</link>
+      <description>Through the MIT Indigenous Languages Initiative, Rani Ukhengching Marma works to preserve Marma, spoken by one of the largest Indigenous groups in Bangladesh. The language “is strongly associated with our ancestral lands, culture, and knowledge,” she says. https://t.co/xHVlIrCt86 https://t.co/Vskecnt0NC</description>
+      <content:encoded>Through the MIT Indigenous Languages Initiative, Rani Ukhengching Marma works to preserve Marma, spoken by one of the largest Indigenous groups in Bangladesh. The language “is strongly associated with our ancestral lands, culture, and knowledge,” she says. https://t.co/xHVlIrCt86 https://t.co/Vskecnt0NC&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1679884790412050433"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AmTrNWIAIuj10.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 16:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Monday, research using @BlueBrainPjt models and data will be presented at the #Computational #Neuroscience Meeting
+- Directional Sensitivity of Cortical Neurons Towards TMS Induced Electric Fields - 
+Find out more – https://t.co/mIzp56SNrx
+
+#CNS2023 https://t.co/N5eBDpfFRs</title>
+      <link>https://twitter.com/BlueBrainPjt/status/1679885082507476994</link>
+      <description>Monday, research using @BlueBrainPjt models and data will be presented at the #Computational #Neuroscience Meeting
+- Directional Sensitivity of Cortical Neurons Towards TMS Induced Electric Fields - 
+Find out more – https://t.co/mIzp56SNrx
+
+#CNS2023 https://t.co/N5eBDpfFRs</description>
+      <content:encoded>Monday, research using @BlueBrainPjt models and data will be presented at the #Computational #Neuroscience Meeting
+- Directional Sensitivity of Cortical Neurons Towards TMS Induced Electric Fields - 
+Find out more – https://t.co/mIzp56SNrx
+
+#CNS2023 https://t.co/N5eBDpfFRs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BlueBrainPjt/status/1679885082507476994"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AgEmCXwAEyLx1.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 16:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers have reported global evidence that plastics contaminate coral reefs and freshwater lakes. https://t.co/yX2FB93lej</title>
+      <link>https://twitter.com/NatureNV/status/1679886659444154368</link>
+      <description>Researchers have reported global evidence that plastics contaminate coral reefs and freshwater lakes. https://t.co/yX2FB93lej</description>
+      <content:encoded>Researchers have reported global evidence that plastics contaminate coral reefs and freshwater lakes. https://t.co/yX2FB93lej&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1679886659444154368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:12:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Replace universal peer review with rare peer validation. https://t.co/xQ63EtAElX</title>
+      <link>https://twitter.com/andpru/status/1679887087804268547</link>
+      <description>Replace universal peer review with rare peer validation. https://t.co/xQ63EtAElX</description>
+      <content:encoded>Replace universal peer review with rare peer validation. https://t.co/xQ63EtAElX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1679887087804268547"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>First Neurorights song! https://t.co/oFSFbbvDMR</title>
+      <link>https://twitter.com/yusterafa/status/1679887335406567424</link>
+      <description>First Neurorights song! https://t.co/oFSFbbvDMR</description>
+      <content:encoded>First Neurorights song! https://t.co/oFSFbbvDMR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/yusterafa/status/1679887335406567424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jt_reeder: We're hiring a microfab encapsulation engineer to help develop our device packaging at Science. If you are interested in wor…</title>
+      <link>https://twitter.com/mardinly/status/1679888117267058690</link>
+      <description>RT @jt_reeder: We're hiring a microfab encapsulation engineer to help develop our device packaging at Science. If you are interested in wor…</description>
+      <content:encoded>RT @jt_reeder: We're hiring a microfab encapsulation engineer to help develop our device packaging at Science. If you are interested in wor…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/mardinly/status/1679888117267058690"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 16:18:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stuck on you: Mitsunori Fukuda recommends this paper by Ouyang Q et al. @njuniversity published in @Dev_Cell that shows Rab8A serves as a #mitochondrial receptor for lipid droplets by forming a tethering complex with the LD-associated PLIN5.
+
+https://t.co/sZIB0T50LM https://t.co/M9ufAVQRej</title>
+      <link>https://twitter.com/H1Connect/status/1679888489540665350</link>
+      <description>Stuck on you: Mitsunori Fukuda recommends this paper by Ouyang Q et al. @njuniversity published in @Dev_Cell that shows Rab8A serves as a #mitochondrial receptor for lipid droplets by forming a tethering complex with the LD-associated PLIN5.
+
+https://t.co/sZIB0T50LM https://t.co/M9ufAVQRej</description>
+      <content:encoded>Stuck on you: Mitsunori Fukuda recommends this paper by Ouyang Q et al. @njuniversity published in @Dev_Cell that shows Rab8A serves as a #mitochondrial receptor for lipid droplets by forming a tethering complex with the LD-associated PLIN5.
+
+https://t.co/sZIB0T50LM https://t.co/M9ufAVQRej&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/H1Connect/status/1679888489540665350"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AprbFXsAMYes4.jpg" length="764" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 16:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Western hoolock gibbons are the only apes that live in the Indian sub-continent. They can walk upright with arms extended out. In fact, the only primates that walk on two legs more regularly than gibbons are humans
+
+[📹 Discover Wild India]
+https://t.co/zCHXreQ4jB</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679888812636352521</link>
+      <description>Western hoolock gibbons are the only apes that live in the Indian sub-continent. They can walk upright with arms extended out. In fact, the only primates that walk on two legs more regularly than gibbons are humans
+
+[📹 Discover Wild India]
+https://t.co/zCHXreQ4jB</description>
+      <content:encoded>Western hoolock gibbons are the only apes that live in the Indian sub-continent. They can walk upright with arms extended out. In fact, the only primates that walk on two legs more regularly than gibbons are humans
+
+[📹 Discover Wild India]
+https://t.co/zCHXreQ4jB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679888812636352521"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679601969252499457/pu/img/w5_2cUel_7uE35kc.jpg" length="640" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 16:21:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
