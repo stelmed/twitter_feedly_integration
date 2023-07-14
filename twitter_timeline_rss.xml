@@ -6,340 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jul 2023 14:16:07 +0000</lastBuildDate>
-    <item>
-      <title>A paper in @Nature presents evidence for diverse types of organic molecules detected by @NASAPersevere in the Jezero Crater on Mars. The findings suggest that a more complex geochemical cycle than previously thought may have existed in the past. https://t.co/mBaz0wcIRI https://t.co/xuyiYsZZL3</title>
-      <link>https://twitter.com/NaturePortfolio/status/1679545496199634945</link>
-      <description>A paper in @Nature presents evidence for diverse types of organic molecules detected by @NASAPersevere in the Jezero Crater on Mars. The findings suggest that a more complex geochemical cycle than previously thought may have existed in the past. https://t.co/mBaz0wcIRI https://t.co/xuyiYsZZL3</description>
-      <content:encoded>A paper in @Nature presents evidence for diverse types of organic molecules detected by @NASAPersevere in the Jezero Crater on Mars. The findings suggest that a more complex geochemical cycle than previously thought may have existed in the past. https://t.co/mBaz0wcIRI https://t.co/xuyiYsZZL3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679545496199634945"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F07xthKWIAQKA23.jpg" length="1066" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 17:37:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>This week's dip into Nature's archive features a look at atomic structure and considers some cookery lessons https://t.co/EobIJQCOx0 https://t.co/LJ06CdwEeg</title>
-      <link>https://twitter.com/NatureNV/status/1679545571625844736</link>
-      <description>This week's dip into Nature's archive features a look at atomic structure and considers some cookery lessons https://t.co/EobIJQCOx0 https://t.co/LJ06CdwEeg</description>
-      <content:encoded>This week's dip into Nature's archive features a look at atomic structure and considers some cookery lessons https://t.co/EobIJQCOx0 https://t.co/LJ06CdwEeg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1679545571625844736"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F07xzAFWIA82SIi.jpg" length="1024" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 17:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @coursera: Coursera co-founder @AndrewYNg is back with another AI course – Generative AI with Large Language Models – built by @deeplear…</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1679545953051607040</link>
-      <description>RT @coursera: Coursera co-founder @AndrewYNg is back with another AI course – Generative AI with Large Language Models – built by @deeplear…</description>
-      <content:encoded>RT @coursera: Coursera co-founder @AndrewYNg is back with another AI course – Generative AI with Large Language Models – built by @deeplear…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1679545953051607040"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 17:38:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Life, the Universe and Everything https://t.co/gOlfUsnqd9</title>
-      <link>https://twitter.com/elonmusk/status/1679546977565184002</link>
-      <description>Life, the Universe and Everything https://t.co/gOlfUsnqd9</description>
-      <content:encoded>Life, the Universe and Everything https://t.co/gOlfUsnqd9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1679546977565184002"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 17:42:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Very exciting work! https://t.co/SSrI184wnT</title>
-      <link>https://twitter.com/georg98keller/status/1679549066424754185</link>
-      <description>Very exciting work! https://t.co/SSrI184wnT</description>
-      <content:encoded>Very exciting work! https://t.co/SSrI184wnT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/georg98keller/status/1679549066424754185"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 17:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jones_g_parker: https://t.co/tf8dpDUemn
-
-This was a fun one. I will spare you the thread except to say that antipsychotics probably don…</title>
-      <link>https://twitter.com/kwanalexc/status/1679550426289414153</link>
-      <description>RT @jones_g_parker: https://t.co/tf8dpDUemn
-
-This was a fun one. I will spare you the thread except to say that antipsychotics probably don…</description>
-      <content:encoded>RT @jones_g_parker: https://t.co/tf8dpDUemn
-
-This was a fun one. I will spare you the thread except to say that antipsychotics probably don…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kwanalexc/status/1679550426289414153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 17:56:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @IshmailSaboor: Happy to share our latest paper @NeuroCellPress, in collaboration with the labs of @VAbraira @psalmotoxin @YttriLab. 
-
-"…</title>
-      <link>https://twitter.com/NeuroCellPress/status/1679550550558253068</link>
-      <description>RT @IshmailSaboor: Happy to share our latest paper @NeuroCellPress, in collaboration with the labs of @VAbraira @psalmotoxin @YttriLab. 
-
-"…</description>
-      <content:encoded>RT @IshmailSaboor: Happy to share our latest paper @NeuroCellPress, in collaboration with the labs of @VAbraira @psalmotoxin @YttriLab. 
-
-"…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1679550550558253068"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 17:57:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ATTN: Theoretical Neuroscience students looking for a postdoc position https://t.co/HWo1G6wvHP</title>
-      <link>https://twitter.com/TheBrunoCortex/status/1679552053075386385</link>
-      <description>ATTN: Theoretical Neuroscience students looking for a postdoc position https://t.co/HWo1G6wvHP</description>
-      <content:encoded>ATTN: Theoretical Neuroscience students looking for a postdoc position https://t.co/HWo1G6wvHP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TheBrunoCortex/status/1679552053075386385"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artist Timur Zagirov has created a beautiful rendition of Van Gogh’s famous self portrait, using 425 polished, colored wooden blocks of pine. The curious thing about it, is that you see a Van Gogh only if you squint or you look at it from afar 
-
-[source: https://t.co/Df896mMowY] https://t.co/9lfEFdSIc2</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679552550570213376</link>
-      <description>Artist Timur Zagirov has created a beautiful rendition of Van Gogh’s famous self portrait, using 425 polished, colored wooden blocks of pine. The curious thing about it, is that you see a Van Gogh only if you squint or you look at it from afar 
-
-[source: https://t.co/Df896mMowY] https://t.co/9lfEFdSIc2</description>
-      <content:encoded>Artist Timur Zagirov has created a beautiful rendition of Van Gogh’s famous self portrait, using 425 polished, colored wooden blocks of pine. The curious thing about it, is that you see a Van Gogh only if you squint or you look at it from afar 
-
-[source: https://t.co/Df896mMowY] https://t.co/9lfEFdSIc2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679552550570213376"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F074D-FWIAwxLn1.jpg" length="561" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 18:05:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>There have been huge strides in the development and application of #AI to science and society. But will AI eclipse humans, or will we find a way to safely and fairly collaborate, allowing us to reach further?
-
-Learn more in a new special issue of Science: https://t.co/UdG7AaVjJ5 https://t.co/8S9z1De8IK</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679552551870406670</link>
-      <description>There have been huge strides in the development and application of #AI to science and society. But will AI eclipse humans, or will we find a way to safely and fairly collaborate, allowing us to reach further?
-
-Learn more in a new special issue of Science: https://t.co/UdG7AaVjJ5 https://t.co/8S9z1De8IK</description>
-      <content:encoded>There have been huge strides in the development and application of #AI to science and society. But will AI eclipse humans, or will we find a way to safely and fairly collaborate, allowing us to reach further?
-
-Learn more in a new special issue of Science: https://t.co/UdG7AaVjJ5 https://t.co/8S9z1De8IK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679552551870406670"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F074JK0WIAoo8St.jpg" length="943" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 18:05:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Curious about applying for OpenScope? Check out these important and exciting updates from OpenScope lead @LecoqJerome. 👇 https://t.co/93ghyaXJyn</title>
-      <link>https://twitter.com/AllenInstitute/status/1679553363807961088</link>
-      <description>Curious about applying for OpenScope? Check out these important and exciting updates from OpenScope lead @LecoqJerome. 👇 https://t.co/93ghyaXJyn</description>
-      <content:encoded>Curious about applying for OpenScope? Check out these important and exciting updates from OpenScope lead @LecoqJerome. 👇 https://t.co/93ghyaXJyn&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679553363807961088"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:08:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>How do peptides and biochemical signals give rise to neural computations in the intact brain? Stephen Zhang and a wonderful team found that multiple stochastically released neuropeptides compete to control biochemical signaling, thereby regulating plasticity rates and behavior. https://t.co/StfOn3N2Ko https://t.co/k0soNX2bMI</title>
-      <link>https://twitter.com/andermann_mark/status/1679553389137649664</link>
-      <description>How do peptides and biochemical signals give rise to neural computations in the intact brain? Stephen Zhang and a wonderful team found that multiple stochastically released neuropeptides compete to control biochemical signaling, thereby regulating plasticity rates and behavior. https://t.co/StfOn3N2Ko https://t.co/k0soNX2bMI</description>
-      <content:encoded>How do peptides and biochemical signals give rise to neural computations in the intact brain? Stephen Zhang and a wonderful team found that multiple stochastically released neuropeptides compete to control biochemical signaling, thereby regulating plasticity rates and behavior. https://t.co/StfOn3N2Ko https://t.co/k0soNX2bMI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andermann_mark/status/1679553389137649664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F0740nIaEAAylSM.jpg" length="560" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 18:08:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>This issue's free featured #review is all about sleep and vigilance states. But what is in a state? @LabNir &amp;amp; @de_lecea begin their review addressing this question and propose a modular and dynamic view of brain states. Read it here: https://t.co/ocaOJGJmeH https://t.co/pML6LOIDCc</title>
-      <link>https://twitter.com/NeuroCellPress/status/1679553546553794564</link>
-      <description>This issue's free featured #review is all about sleep and vigilance states. But what is in a state? @LabNir &amp;amp; @de_lecea begin their review addressing this question and propose a modular and dynamic view of brain states. Read it here: https://t.co/ocaOJGJmeH https://t.co/pML6LOIDCc</description>
-      <content:encoded>This issue's free featured #review is all about sleep and vigilance states. But what is in a state? @LabNir &amp;amp; @de_lecea begin their review addressing this question and propose a modular and dynamic view of brain states. Read it here: https://t.co/ocaOJGJmeH https://t.co/pML6LOIDCc&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NeuroCellPress/status/1679553546553794564"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:09:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>#Antipsychotic drug efficacy correlates with how much they modulate activity in *D1*-type #dopamine receptor-expressing, rather than D2-expressing, striatal neurons in mice
-
-New from @jones_g_parker @seongsik_yun et al.
-
-https://t.co/JzbBxPqdOi</title>
-      <link>https://twitter.com/NatureNeuro/status/1679555038182514700</link>
-      <description>#Antipsychotic drug efficacy correlates with how much they modulate activity in *D1*-type #dopamine receptor-expressing, rather than D2-expressing, striatal neurons in mice
-
-New from @jones_g_parker @seongsik_yun et al.
-
-https://t.co/JzbBxPqdOi</description>
-      <content:encoded>#Antipsychotic drug efficacy correlates with how much they modulate activity in *D1*-type #dopamine receptor-expressing, rather than D2-expressing, striatal neurons in mice
-
-New from @jones_g_parker @seongsik_yun et al.
-
-https://t.co/JzbBxPqdOi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1679555038182514700"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exosome-mediated release of bis(monoacylglycerol)phosphate is regulated by LRRK2 and Glucocerebrosidase activity  https://t.co/QfwrYorI4Q #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1679555350389727237</link>
-      <description>Exosome-mediated release of bis(monoacylglycerol)phosphate is regulated by LRRK2 and Glucocerebrosidase activity  https://t.co/QfwrYorI4Q #biorxiv_neursci</description>
-      <content:encoded>Exosome-mediated release of bis(monoacylglycerol)phosphate is regulated by LRRK2 and Glucocerebrosidase activity  https://t.co/QfwrYorI4Q #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1679555350389727237"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:16:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>⏳🧠A team of neuroscientists at the @ChampalimaudF has shed light on the brain’s “internal clock” by manipulating the temperature of a specific brain region</title>
-      <link>https://twitter.com/Neuro_CF/status/1679556064633561090</link>
-      <description>⏳🧠A team of neuroscientists at the @ChampalimaudF has shed light on the brain’s “internal clock” by manipulating the temperature of a specific brain region</description>
-      <content:encoded>⏳🧠A team of neuroscientists at the @ChampalimaudF has shed light on the brain’s “internal clock” by manipulating the temperature of a specific brain region&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1679556064633561090"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>This study paves the way for a deeper understanding not only of time perception, but also of how our brains process and coordinate actions.</title>
-      <link>https://twitter.com/Neuro_CF/status/1679556066172870667</link>
-      <description>This study paves the way for a deeper understanding not only of time perception, but also of how our brains process and coordinate actions.</description>
-      <content:encoded>This study paves the way for a deeper understanding not only of time perception, but also of how our brains process and coordinate actions.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1679556066172870667"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>👉 Read the new work from Champalimaud Research’s Learning Lab published in the journal Nature Neuroscience: https://t.co/FwIaN2jEMH https://t.co/dIQBu8ruMb</title>
-      <link>https://twitter.com/Neuro_CF/status/1679556067531825161</link>
-      <description>👉 Read the new work from Champalimaud Research’s Learning Lab published in the journal Nature Neuroscience: https://t.co/FwIaN2jEMH https://t.co/dIQBu8ruMb</description>
-      <content:encoded>👉 Read the new work from Champalimaud Research’s Learning Lab published in the journal Nature Neuroscience: https://t.co/FwIaN2jEMH https://t.co/dIQBu8ruMb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1679556067531825161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F077TZpXwAA784i.jpg" length="768" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 18:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lunch at the clam shack with our awesome crew of ⁦@NSB_MBL⁩ students! They came up with super creative projects for cycle 3, and TAs ⁦@QuentinPerreno1⁩ and Clayton Barnes pulled off some incredible feats of experimental wizardry. https://t.co/rsPe11V37J</title>
-      <link>https://twitter.com/jess_cardin/status/1679557315664437248</link>
-      <description>Lunch at the clam shack with our awesome crew of ⁦@NSB_MBL⁩ students! They came up with super creative projects for cycle 3, and TAs ⁦@QuentinPerreno1⁩ and Clayton Barnes pulled off some incredible feats of experimental wizardry. https://t.co/rsPe11V37J</description>
-      <content:encoded>Lunch at the clam shack with our awesome crew of ⁦@NSB_MBL⁩ students! They came up with super creative projects for cycle 3, and TAs ⁦@QuentinPerreno1⁩ and Clayton Barnes pulled off some incredible feats of experimental wizardry. https://t.co/rsPe11V37J&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/jess_cardin/status/1679557315664437248"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F078eXvWIAYhYIJ.jpg" length="900" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 18:24:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kelp forests are one of the most productive and dynamic ecosystems on Earth in terms of synthesis of organic compounds from atmospheric or aqueous carbon dioxide
-
-[read more: https://t.co/pC65olnoxt]
-https://t.co/iTpULoRZF1</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679557337600630799</link>
-      <description>Kelp forests are one of the most productive and dynamic ecosystems on Earth in terms of synthesis of organic compounds from atmospheric or aqueous carbon dioxide
-
-[read more: https://t.co/pC65olnoxt]
-https://t.co/iTpULoRZF1</description>
-      <content:encoded>Kelp forests are one of the most productive and dynamic ecosystems on Earth in terms of synthesis of organic compounds from atmospheric or aqueous carbon dioxide
-
-[read more: https://t.co/pC65olnoxt]
-https://t.co/iTpULoRZF1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679557337600630799"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1679247238374084608/img/CQJ5_JaAuF_lxtvC.jpg" length="1024" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 18:24:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NerdyChristie: Of all the things I learned this week, that some birds build nests out of spikes meant to deter birds is my favorite. Th…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679557591683178513</link>
-      <description>RT @NerdyChristie: Of all the things I learned this week, that some birds build nests out of spikes meant to deter birds is my favorite. Th…</description>
-      <content:encoded>RT @NerdyChristie: Of all the things I learned this week, that some birds build nests out of spikes meant to deter birds is my favorite. Th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679557591683178513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:25:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>I distinctly remember a day, few months prior to the release going through the experimental room. All research associates working very hard to make this goal, all rigs going full blown throughout the day, morning and afternoon, collecting massive amounts of data per week. https://t.co/2wcPAlV5jJ</title>
-      <link>https://twitter.com/LecoqJerome/status/1679558028520206336</link>
-      <description>I distinctly remember a day, few months prior to the release going through the experimental room. All research associates working very hard to make this goal, all rigs going full blown throughout the day, morning and afternoon, collecting massive amounts of data per week. https://t.co/2wcPAlV5jJ</description>
-      <content:encoded>I distinctly remember a day, few months prior to the release going through the experimental room. All research associates working very hard to make this goal, all rigs going full blown throughout the day, morning and afternoon, collecting massive amounts of data per week. https://t.co/2wcPAlV5jJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1679558028520206336"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:26:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is when we knew brain observatories would work. I still believe we were making our field history at the time. 
-Now, we want to share it all with OpenScope.</title>
-      <link>https://twitter.com/LecoqJerome/status/1679558030567030784</link>
-      <description>This is when we knew brain observatories would work. I still believe we were making our field history at the time. 
-Now, we want to share it all with OpenScope.</description>
-      <content:encoded>This is when we knew brain observatories would work. I still believe we were making our field history at the time. 
-Now, we want to share it all with OpenScope.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1679558030567030784"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:26:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Among our 7 job openings right now is the one where you could help us fill the other 6: "Human Resources Business Partner." Join us and help make great #neuroscience happen. https://t.co/e2JpZyZrbU #MIT #Jobs #CareerOpportunities @BlackInNeuro @SACNAS</title>
-      <link>https://twitter.com/MIT_Picower/status/1679560505617428480</link>
-      <description>Among our 7 job openings right now is the one where you could help us fill the other 6: "Human Resources Business Partner." Join us and help make great #neuroscience happen. https://t.co/e2JpZyZrbU #MIT #Jobs #CareerOpportunities @BlackInNeuro @SACNAS</description>
-      <content:encoded>Among our 7 job openings right now is the one where you could help us fill the other 6: "Human Resources Business Partner." Join us and help make great #neuroscience happen. https://t.co/e2JpZyZrbU #MIT #Jobs #CareerOpportunities @BlackInNeuro @SACNAS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT_Picower/status/1679560505617428480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:36:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>A tau protein fragment, MTBR-tau243, found in cerebrospinal fluid was associated with the aggregation of tau in the brain and cognitive decline in two cohorts of people with Alzheimer’s disease, according to a study in @NatureMedicine. https://t.co/l88poblf9x https://t.co/0NmBwtN8sI</title>
-      <link>https://twitter.com/NaturePortfolio/status/1679561602326994953</link>
-      <description>A tau protein fragment, MTBR-tau243, found in cerebrospinal fluid was associated with the aggregation of tau in the brain and cognitive decline in two cohorts of people with Alzheimer’s disease, according to a study in @NatureMedicine. https://t.co/l88poblf9x https://t.co/0NmBwtN8sI</description>
-      <content:encoded>A tau protein fragment, MTBR-tau243, found in cerebrospinal fluid was associated with the aggregation of tau in the brain and cognitive decline in two cohorts of people with Alzheimer’s disease, according to a study in @NatureMedicine. https://t.co/l88poblf9x https://t.co/0NmBwtN8sI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679561602326994953"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F08AXBNWIA4pZ8i.jpg" length="1066" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Andalusian, aka pura raza española, has been recognized as a distinct breed since the XV century. It has been known for its prowess as a war horse and kings across Europe rode them for centuries
-
-[📹 DiazFarmNC: https://t.co/DYwXzuzqG1]
-https://t.co/I4gXlHYOiN</title>
-      <link>https://twitter.com/Rainmaker1973/status/1679563189149741056</link>
-      <description>The Andalusian, aka pura raza española, has been recognized as a distinct breed since the XV century. It has been known for its prowess as a war horse and kings across Europe rode them for centuries
-
-[📹 DiazFarmNC: https://t.co/DYwXzuzqG1]
-https://t.co/I4gXlHYOiN</description>
-      <content:encoded>The Andalusian, aka pura raza española, has been recognized as a distinct breed since the XV century. It has been known for its prowess as a war horse and kings across Europe rode them for centuries
-
-[📹 DiazFarmNC: https://t.co/DYwXzuzqG1]
-https://t.co/I4gXlHYOiN&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679563189149741056"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679212383384793089/pu/img/5LlRSshRe5eVhvEu.jpg" length="576" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 18:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @alice_mukora: @Delissa76, your work never ceases to amaze me. Excited to check this out and the explore the expanded t-types! https://t…</title>
-      <link>https://twitter.com/AllenInstitute/status/1679563276915556352</link>
-      <description>RT @alice_mukora: @Delissa76, your work never ceases to amaze me. Excited to check this out and the explore the expanded t-types! https://t…</description>
-      <content:encoded>RT @alice_mukora: @Delissa76, your work never ceases to amaze me. Excited to check this out and the explore the expanded t-types! https://t…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679563276915556352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:47:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @seemaychou: It's go time @ArcadiaScience 📈 We have ambitious goals to move bio from descriptions to more predictions - we think that ev…</title>
-      <link>https://twitter.com/sofroniewn/status/1679563889003089920</link>
-      <description>RT @seemaychou: It's go time @ArcadiaScience 📈 We have ambitious goals to move bio from descriptions to more predictions - we think that ev…</description>
-      <content:encoded>RT @seemaychou: It's go time @ArcadiaScience 📈 We have ambitious goals to move bio from descriptions to more predictions - we think that ev…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1679563889003089920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 18:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Took a break to check out the Mui Ho Fine Arts library on campus. Floating 📚 stacks 😲 https://t.co/mG6PFeFXzV</title>
-      <link>https://twitter.com/kwanalexc/status/1679565375510331393</link>
-      <description>Took a break to check out the Mui Ho Fine Arts library on campus. Floating 📚 stacks 😲 https://t.co/mG6PFeFXzV</description>
-      <content:encoded>Took a break to check out the Mui Ho Fine Arts library on campus. Floating 📚 stacks 😲 https://t.co/mG6PFeFXzV&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kwanalexc/status/1679565375510331393"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F08DzmoX0AA4PXn.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 18:56:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stable Diffusion, the popular text-to-image generator from Stability AI, may amplify biases in its training data in ways that promote deeply ingrained race and gender stereotypes.
-
-Learn more in #TheBatch: https://t.co/EH7W4jNXpF https://t.co/rGIFlEzf3f</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1679566367001804802</link>
-      <description>Stable Diffusion, the popular text-to-image generator from Stability AI, may amplify biases in its training data in ways that promote deeply ingrained race and gender stereotypes.
-
-Learn more in #TheBatch: https://t.co/EH7W4jNXpF https://t.co/rGIFlEzf3f</description>
-      <content:encoded>Stable Diffusion, the popular text-to-image generator from Stability AI, may amplify biases in its training data in ways that promote deeply ingrained race and gender stereotypes.
-
-Learn more in #TheBatch: https://t.co/EH7W4jNXpF https://t.co/rGIFlEzf3f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1679566367001804802"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F08EtdIX0AIQo4F.jpg" length="925" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 19:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Student success means more than just getting good grades. 
-
-In New Mexico, @FutureFocusEdu is opening doors for students' future careers + higher education through capstone projects &amp;amp; internship programs: https://t.co/DVGSk7bXsX https://t.co/qFgufBEoSE</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1679566564280901634</link>
-      <description>Student success means more than just getting good grades. 
-
-In New Mexico, @FutureFocusEdu is opening doors for students' future careers + higher education through capstone projects &amp;amp; internship programs: https://t.co/DVGSk7bXsX https://t.co/qFgufBEoSE</description>
-      <content:encoded>Student success means more than just getting good grades. 
-
-In New Mexico, @FutureFocusEdu is opening doors for students' future careers + higher education through capstone projects &amp;amp; internship programs: https://t.co/DVGSk7bXsX https://t.co/qFgufBEoSE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1679566564280901634"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F08E4xRX0AEZh2x.jpg" length="1200" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 19:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-DYKDDDDK [M2]
-DEPOSITING LAB: Melina Fan
-PURPOSE: Anti-DYKDDDDK [M2] chimeric recombinant antibody. The hybridoma-derived heavy chain variable sequence and kappa light chain are fused to a rabbit IgG Fc.
-
-https://t.co/NGHWARzbwv https://t.co/Pm0eRmxpHi</title>
-      <link>https://twitter.com/Addgene/status/1679568389109325826</link>
-      <description>Anti-DYKDDDDK [M2]
-DEPOSITING LAB: Melina Fan
-PURPOSE: Anti-DYKDDDDK [M2] chimeric recombinant antibody. The hybridoma-derived heavy chain variable sequence and kappa light chain are fused to a rabbit IgG Fc.
-
-https://t.co/NGHWARzbwv https://t.co/Pm0eRmxpHi</description>
-      <content:encoded>Anti-DYKDDDDK [M2]
-DEPOSITING LAB: Melina Fan
-PURPOSE: Anti-DYKDDDDK [M2] chimeric recombinant antibody. The hybridoma-derived heavy chain variable sequence and kappa light chain are fused to a rabbit IgG Fc.
-
-https://t.co/NGHWARzbwv https://t.co/Pm0eRmxpHi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1679568389109325826"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F08Gip5X0AI0_f1.jpg" length="480" type="photo"/>
-      <pubDate>Thu, 13 Jul 2023 19:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @KatjaReinhard: How flexible are essential innate behaviours and their underlying neural circuits? @Felix_Baier and I, with @HoekstraLab…</title>
-      <link>https://twitter.com/MargolisLab/status/1679568892623036419</link>
-      <description>RT @KatjaReinhard: How flexible are essential innate behaviours and their underlying neural circuits? @Felix_Baier and I, with @HoekstraLab…</description>
-      <content:encoded>RT @KatjaReinhard: How flexible are essential innate behaviours and their underlying neural circuits? @Felix_Baier and I, with @HoekstraLab…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MargolisLab/status/1679568892623036419"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 19:10:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @PracheeAC: Particular shoutout to @mbeisen who fought for this in the face of unfathomable pressure. Many people who want change fold w…</title>
-      <link>https://twitter.com/behrenstimb/status/1679570307521159168</link>
-      <description>RT @PracheeAC: Particular shoutout to @mbeisen who fought for this in the face of unfathomable pressure. Many people who want change fold w…</description>
-      <content:encoded>RT @PracheeAC: Particular shoutout to @mbeisen who fought for this in the face of unfathomable pressure. Many people who want change fold w…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/behrenstimb/status/1679570307521159168"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Thu, 13 Jul 2023 19:15:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jul 2023 15:18:16 +0000</lastBuildDate>
     <item>
       <title>https://t.co/nDkDkJSQLa https://t.co/xTRoi96a7q</title>
       <link>https://twitter.com/behrenstimb/status/1679570721234882560</link>
@@ -2052,6 +1719,384 @@ https://t.co/hVG1oQ5z3I https://t.co/CKTuREa0JV&lt;blockquote class="twitter-twe
       <description>RT @MelMitchell1: How do we know how smart AI systems are? | Science https://t.co/nKxbkJKfzo</description>
       <content:encoded>RT @MelMitchell1: How do we know how smart AI systems are? | Science https://t.co/nKxbkJKfzo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1679856250006142976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 14 Jul 2023 14:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graphical concept of the definition of sine and cosine 
+
+[read more: https://t.co/idMladwJmE] 
+[source, Awesomath: https://t.co/Ba66LpGxhm]
+https://t.co/7t272X0vU4</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679858335284166659</link>
+      <description>Graphical concept of the definition of sine and cosine 
+
+[read more: https://t.co/idMladwJmE] 
+[source, Awesomath: https://t.co/Ba66LpGxhm]
+https://t.co/7t272X0vU4</description>
+      <content:encoded>Graphical concept of the definition of sine and cosine 
+
+[read more: https://t.co/idMladwJmE] 
+[source, Awesomath: https://t.co/Ba66LpGxhm]
+https://t.co/7t272X0vU4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679858335284166659"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FnRBZHAX0AcsfwZ.jpg" length="500" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 14:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MaddySeale: This week's plant highlights from @ScienceMagazine:
+1/2 A respiratory enzyme found to be involved in histone demethylation…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679858734527397889</link>
+      <description>RT @MaddySeale: This week's plant highlights from @ScienceMagazine:
+1/2 A respiratory enzyme found to be involved in histone demethylation…</description>
+      <content:encoded>RT @MaddySeale: This week's plant highlights from @ScienceMagazine:
+1/2 A respiratory enzyme found to be involved in histone demethylation…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679858734527397889"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:21:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679858873279078401</link>
+      <description>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…</description>
+      <content:encoded>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679858873279078401"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679858958721327107</link>
+      <description>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…</description>
+      <content:encoded>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679858958721327107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:22:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
+Elegant work in hu…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679859014664957952</link>
+      <description>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
+Elegant work in hu…</description>
+      <content:encoded>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
+Elegant work in hu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859014664957952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:22:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Ale_Brambati: Excited to tell you about my work, new in @sciencemagazine.  MMEJ - a repair pathway that can both mutate and protect DNA…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679859222396170241</link>
+      <description>RT @Ale_Brambati: Excited to tell you about my work, new in @sciencemagazine.  MMEJ - a repair pathway that can both mutate and protect DNA…</description>
+      <content:encoded>RT @Ale_Brambati: Excited to tell you about my work, new in @sciencemagazine.  MMEJ - a repair pathway that can both mutate and protect DNA…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859222396170241"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @MaartenHulsmans: Did you ever wonder if macrophages play a role in atrial fibrillation? Spoiler alert: yes they do! Check it out @Scien…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679859284677468160</link>
+      <description>RT @MaartenHulsmans: Did you ever wonder if macrophages play a role in atrial fibrillation? Spoiler alert: yes they do! Check it out @Scien…</description>
+      <content:encoded>RT @MaartenHulsmans: Did you ever wonder if macrophages play a role in atrial fibrillation? Spoiler alert: yes they do! Check it out @Scien…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859284677468160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:23:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679859328876945410</link>
+      <description>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…</description>
+      <content:encoded>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859328876945410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:24:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM</title>
+      <link>https://twitter.com/NaturePortfolio/status/1679859566761181184</link>
+      <description>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM</description>
+      <content:encoded>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679859566761181184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1APW1SXwAE_O5c.jpg" length="1066" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 14:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679860126914584579</link>
+      <description>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…</description>
+      <content:encoded>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679860126914584579"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:27:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AAV Data Hub from @Addgene is a platform from and for scientists for sharing data about AAV experiments. 
+https://t.co/nAzHldFqMO https://t.co/rTD7Q5Vuui</title>
+      <link>https://twitter.com/naturemethods/status/1679860773454065664</link>
+      <description>The AAV Data Hub from @Addgene is a platform from and for scientists for sharing data about AAV experiments. 
+https://t.co/nAzHldFqMO https://t.co/rTD7Q5Vuui</description>
+      <content:encoded>The AAV Data Hub from @Addgene is a platform from and for scientists for sharing data about AAV experiments. 
+https://t.co/nAzHldFqMO https://t.co/rTD7Q5Vuui&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1679860773454065664"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AQT3tXsAELgaG.jpg" length="918" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 14:29:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @PallidusSensing: The circadian rhythm of #SSIB2023!  Stop by our table to learn more! https://t.co/9YWB0S4NJ2</title>
+      <link>https://twitter.com/OpenBehavior/status/1679861064509341696</link>
+      <description>RT @PallidusSensing: The circadian rhythm of #SSIB2023!  Stop by our table to learn more! https://t.co/9YWB0S4NJ2</description>
+      <content:encoded>RT @PallidusSensing: The circadian rhythm of #SSIB2023!  Stop by our table to learn more! https://t.co/9YWB0S4NJ2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/OpenBehavior/status/1679861064509341696"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F08HqJLaAAIvf2q.png" length="864" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 14:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝Join the team! The #Champalimaud #Research #Symposium 2023 Volunteering Programme is ON  | Deadline 6 October
+As a #volunteer, you will:
+➡️Get #free access to the event
+➡️Interact with internationally renowned #scientists
+➡️Gain #valuable #experience in the research ecosystem</title>
+      <link>https://twitter.com/Neuro_CF/status/1679862254743740416</link>
+      <description>🤝Join the team! The #Champalimaud #Research #Symposium 2023 Volunteering Programme is ON  | Deadline 6 October
+As a #volunteer, you will:
+➡️Get #free access to the event
+➡️Interact with internationally renowned #scientists
+➡️Gain #valuable #experience in the research ecosystem</description>
+      <content:encoded>🤝Join the team! The #Champalimaud #Research #Symposium 2023 Volunteering Programme is ON  | Deadline 6 October
+As a #volunteer, you will:
+➡️Get #free access to the event
+➡️Interact with internationally renowned #scientists
+➡️Gain #valuable #experience in the research ecosystem&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1679862254743740416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:35:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hurry and join the CRSy23 team:
+👉 https://t.co/LEw7N16XoU
+🗓️24 – 27 October
+📍Champalimaud Foundation</title>
+      <link>https://twitter.com/Neuro_CF/status/1679862256589324288</link>
+      <description>Hurry and join the CRSy23 team:
+👉 https://t.co/LEw7N16XoU
+🗓️24 – 27 October
+📍Champalimaud Foundation</description>
+      <content:encoded>Hurry and join the CRSy23 team:
+👉 https://t.co/LEw7N16XoU
+🗓️24 – 27 October
+📍Champalimaud Foundation&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1679862256589324288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:35:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>#CRSy23 #BrainBodyWorld
+#science #neuroscience #brain #selfawareness #emotions #behaviour #mindbody #braingut #cognitivemaps #stateanalysis #internalstates #electrophysiology #neuroimaging #molecularbiology https://t.co/O965uJTBdz</title>
+      <link>https://twitter.com/Neuro_CF/status/1679862258250264576</link>
+      <description>#CRSy23 #BrainBodyWorld
+#science #neuroscience #brain #selfawareness #emotions #behaviour #mindbody #braingut #cognitivemaps #stateanalysis #internalstates #electrophysiology #neuroimaging #molecularbiology https://t.co/O965uJTBdz</description>
+      <content:encoded>#CRSy23 #BrainBodyWorld
+#science #neuroscience #brain #selfawareness #emotions #behaviour #mindbody #braingut #cognitivemaps #stateanalysis #internalstates #electrophysiology #neuroimaging #molecularbiology https://t.co/O965uJTBdz&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_CF/status/1679862258250264576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1ARunfWAAAPVmq.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 14:35:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discoveries from the @humancellatlas are helping scientists unravel the mystery of the placenta + healthy fetal development. Thousands of researchers around the 🌍 are part of this project accelerating knowledge of #CellBiology  https://t.co/jJgV2N9gbE</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1679862758559416322</link>
+      <description>Discoveries from the @humancellatlas are helping scientists unravel the mystery of the placenta + healthy fetal development. Thousands of researchers around the 🌍 are part of this project accelerating knowledge of #CellBiology  https://t.co/jJgV2N9gbE</description>
+      <content:encoded>Discoveries from the @humancellatlas are helping scientists unravel the mystery of the placenta + healthy fetal development. Thousands of researchers around the 🌍 are part of this project accelerating knowledge of #CellBiology  https://t.co/jJgV2N9gbE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1679862758559416322"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The average cat's reaction time is approximately 20-70 milliseconds, which is faster than the average snake's one (44-70 ms). The average human one is not less than 250 ms
+
+[source: https://t.co/hZYUZFkMDA]
+[📹 qinhan111: https://t.co/bNrc8toGUo]
+https://t.co/NImsjfqogR</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679862907503353857</link>
+      <description>The average cat's reaction time is approximately 20-70 milliseconds, which is faster than the average snake's one (44-70 ms). The average human one is not less than 250 ms
+
+[source: https://t.co/hZYUZFkMDA]
+[📹 qinhan111: https://t.co/bNrc8toGUo]
+https://t.co/NImsjfqogR</description>
+      <content:encoded>The average cat's reaction time is approximately 20-70 milliseconds, which is faster than the average snake's one (44-70 ms). The average human one is not less than 250 ms
+
+[source: https://t.co/hZYUZFkMDA]
+[📹 qinhan111: https://t.co/bNrc8toGUo]
+https://t.co/NImsjfqogR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679862907503353857"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1617172687704719363/pu/img/C1qQIy3GLooEmAps.jpg" length="1024" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 14:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spike raster plots can be frustrating to work with if you make them as vector art. If you work with Python, these issues can be solved by using two tricks described in the thread below and in code shared to our lab's GitHub repo. #opensource #python
+
+https://t.co/hJlsi6nss9 https://t.co/4ZE43t4jPk</title>
+      <link>https://twitter.com/laubach_mark/status/1679863463370260480</link>
+      <description>Spike raster plots can be frustrating to work with if you make them as vector art. If you work with Python, these issues can be solved by using two tricks described in the thread below and in code shared to our lab's GitHub repo. #opensource #python
+
+https://t.co/hJlsi6nss9 https://t.co/4ZE43t4jPk</description>
+      <content:encoded>Spike raster plots can be frustrating to work with if you make them as vector art. If you work with Python, these issues can be solved by using two tricks described in the thread below and in code shared to our lab's GitHub repo. #opensource #python
+
+https://t.co/hJlsi6nss9 https://t.co/4ZE43t4jPk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/laubach_mark/status/1679863463370260480"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1ARJxGWAAADCmD.png" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 14:40:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The first thing to do is to rasterize the spikes directly as they are plotted and then save the figure as an SVG with dpi=600. This side steps having to make two versions of the figure, one as a SVG or PDF for text and another as a PNG for the spikes.</title>
+      <link>https://twitter.com/laubach_mark/status/1679863466100654080</link>
+      <description>The first thing to do is to rasterize the spikes directly as they are plotted and then save the figure as an SVG with dpi=600. This side steps having to make two versions of the figure, one as a SVG or PDF for text and another as a PNG for the spikes.</description>
+      <content:encoded>The first thing to do is to rasterize the spikes directly as they are plotted and then save the figure as an SVG with dpi=600. This side steps having to make two versions of the figure, one as a SVG or PDF for text and another as a PNG for the spikes.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/laubach_mark/status/1679863466100654080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just add "rasterized=True" to the matplotlib command that you use to plot the spikes. Our lab uses modified code for plotting spike rasters from this gist: https://t.co/Ds5JLyhqZd</title>
+      <link>https://twitter.com/laubach_mark/status/1679863467526717442</link>
+      <description>Just add "rasterized=True" to the matplotlib command that you use to plot the spikes. Our lab uses modified code for plotting spike rasters from this gist: https://t.co/Ds5JLyhqZd</description>
+      <content:encoded>Just add "rasterized=True" to the matplotlib command that you use to plot the spikes. Our lab uses modified code for plotting spike rasters from this gist: https://t.co/Ds5JLyhqZd&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/laubach_mark/status/1679863467526717442"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The second thing is to use the scour library to "scrub" the SVG file. This library is amazing for anyone using Inkscape. No more need to import PDFs or use the deep ungroup function before you get to work. https://t.co/vgyqCWfvB8</title>
+      <link>https://twitter.com/laubach_mark/status/1679863468835348481</link>
+      <description>The second thing is to use the scour library to "scrub" the SVG file. This library is amazing for anyone using Inkscape. No more need to import PDFs or use the deep ungroup function before you get to work. https://t.co/vgyqCWfvB8</description>
+      <content:encoded>The second thing is to use the scour library to "scrub" the SVG file. This library is amazing for anyone using Inkscape. No more need to import PDFs or use the deep ungroup function before you get to work. https://t.co/vgyqCWfvB8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/laubach_mark/status/1679863468835348481"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>This stuff might be common knowledge, but it was news to me. We've been working on a complex figure with a bunch of rasters for a new manuscript and these tricks have made things a lot easier. Hope this is helpful for others.</title>
+      <link>https://twitter.com/laubach_mark/status/1679863470160846849</link>
+      <description>This stuff might be common knowledge, but it was news to me. We've been working on a complex figure with a bunch of rasters for a new manuscript and these tricks have made things a lot easier. Hope this is helpful for others.</description>
+      <content:encoded>This stuff might be common knowledge, but it was news to me. We've been working on a complex figure with a bunch of rasters for a new manuscript and these tricks have made things a lot easier. Hope this is helpful for others.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/laubach_mark/status/1679863470160846849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:40:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @RetoPaul: Great article on computational imaging trail blazer @optrickster :
+
+https://t.co/TlQ2eUhEjJ</title>
+      <link>https://twitter.com/ewadorotaz/status/1679863570169839622</link>
+      <description>RT @RetoPaul: Great article on computational imaging trail blazer @optrickster :
+
+https://t.co/TlQ2eUhEjJ</description>
+      <content:encoded>RT @RetoPaul: Great article on computational imaging trail blazer @optrickster :
+
+https://t.co/TlQ2eUhEjJ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1679863570169839622"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Looks like this platform may see all time high device user seconds usage this week</title>
+      <link>https://twitter.com/elonmusk/status/1679864864695816192</link>
+      <description>Looks like this platform may see all time high device user seconds usage this week</description>
+      <content:encoded>Looks like this platform may see all time high device user seconds usage this week&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1679864864695816192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:46:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>In this episode of Curiosity Unbounded, MIT President Sally Kornbluth talks with Associate Professor Greg Fournier about fine-tuning our understanding of evolution; life in the lab; and advice for those just beginning a career in science. https://t.co/yjWztjZgnU https://t.co/eoV5Yfs14A</title>
+      <link>https://twitter.com/MIT/status/1679867182820335617</link>
+      <description>In this episode of Curiosity Unbounded, MIT President Sally Kornbluth talks with Associate Professor Greg Fournier about fine-tuning our understanding of evolution; life in the lab; and advice for those just beginning a career in science. https://t.co/yjWztjZgnU https://t.co/eoV5Yfs14A</description>
+      <content:encoded>In this episode of Curiosity Unbounded, MIT President Sally Kornbluth talks with Associate Professor Greg Fournier about fine-tuning our understanding of evolution; life in the lab; and advice for those just beginning a career in science. https://t.co/yjWztjZgnU https://t.co/eoV5Yfs14A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1679867182820335617"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AWTMMWYAE1Nhg.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 14:55:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Check out a multi-perspective editorial (that I also contributed to) on the future of academic publishing. My piece speaks to the future of peer review in publishing -- relevant to the present eLife kerfuffle -- replace universal peer review with rare peer validation. https://t.co/yrqbwWVtUj</title>
+      <link>https://twitter.com/andpru/status/1679867375074541568</link>
+      <description>Check out a multi-perspective editorial (that I also contributed to) on the future of academic publishing. My piece speaks to the future of peer review in publishing -- relevant to the present eLife kerfuffle -- replace universal peer review with rare peer validation. https://t.co/yrqbwWVtUj</description>
+      <content:encoded>Check out a multi-perspective editorial (that I also contributed to) on the future of academic publishing. My piece speaks to the future of peer review in publishing -- relevant to the present eLife kerfuffle -- replace universal peer review with rare peer validation. https://t.co/yrqbwWVtUj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1679867375074541568"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DanielFelsky: On our penultimate day of @CAMH_KCNI Summer Academy 2023, Akshay Mohan holds class on all things #machinelearning and #AI…</title>
+      <link>https://twitter.com/wake_sleep/status/1679867598165385219</link>
+      <description>RT @DanielFelsky: On our penultimate day of @CAMH_KCNI Summer Academy 2023, Akshay Mohan holds class on all things #machinelearning and #AI…</description>
+      <content:encoded>RT @DanielFelsky: On our penultimate day of @CAMH_KCNI Summer Academy 2023, Akshay Mohan holds class on all things #machinelearning and #AI…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1679867598165385219"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @NetSciConf: Last day of #NetSci2023, and as just announced: soon the wait begins for #NetSci2024 in Québec. 
+
+Québec is a special place…</title>
+      <link>https://twitter.com/manlius84/status/1679868207803269120</link>
+      <description>RT @NetSciConf: Last day of #NetSci2023, and as just announced: soon the wait begins for #NetSci2024 in Québec. 
+
+Québec is a special place…</description>
+      <content:encoded>RT @NetSciConf: Last day of #NetSci2023, and as just announced: soon the wait begins for #NetSci2024 in Québec. 
+
+Québec is a special place…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1679868207803269120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 14:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Evident AI Index, a report from market research firm @Evident_HQ measures the use of AI in the banking industry.
+
+Here are some of the most important takeaways from their latest report: https://t.co/LdLJsqHFmK</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1679868355778314242</link>
+      <description>The Evident AI Index, a report from market research firm @Evident_HQ measures the use of AI in the banking industry.
+
+Here are some of the most important takeaways from their latest report: https://t.co/LdLJsqHFmK</description>
+      <content:encoded>The Evident AI Index, a report from market research firm @Evident_HQ measures the use of AI in the banking industry.
+
+Here are some of the most important takeaways from their latest report: https://t.co/LdLJsqHFmK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1679868355778314242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>In @SciSignal, researchers provide direct evidence for a proposed—but until now unproven—hypothesis that the exchange factor #RhoGEF “piggybacks” on microtubule motor proteins to drive cytokinesis, a critical step in #CellDivision. https://t.co/44XOUiEUAt https://t.co/qY1C2AmumY</title>
+      <link>https://twitter.com/ScienceMagazine/status/1679868416486776835</link>
+      <description>In @SciSignal, researchers provide direct evidence for a proposed—but until now unproven—hypothesis that the exchange factor #RhoGEF “piggybacks” on microtubule motor proteins to drive cytokinesis, a critical step in #CellDivision. https://t.co/44XOUiEUAt https://t.co/qY1C2AmumY</description>
+      <content:encoded>In @SciSignal, researchers provide direct evidence for a proposed—but until now unproven—hypothesis that the exchange factor #RhoGEF “piggybacks” on microtubule motor proteins to drive cytokinesis, a critical step in #CellDivision. https://t.co/44XOUiEUAt https://t.co/qY1C2AmumY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679868416486776835"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AXbAKWYAE1yAw.jpg" length="1200" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here's a bit of mine but also check out the other fascinating perspectives on this topic. https://t.co/eKGs4xfHx8 https://t.co/fJ3omSvhSP</title>
+      <link>https://twitter.com/andpru/status/1679868552772239360</link>
+      <description>Here's a bit of mine but also check out the other fascinating perspectives on this topic. https://t.co/eKGs4xfHx8 https://t.co/fJ3omSvhSP</description>
+      <content:encoded>Here's a bit of mine but also check out the other fascinating perspectives on this topic. https://t.co/eKGs4xfHx8 https://t.co/fJ3omSvhSP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1679868552772239360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AXithXgAEmqUq.jpg" length="864" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @blaiseaguera: Beautiful new work from the SelfOrg team elaborating on Neural Cellular Automata: how, under biologically realistic const…</title>
+      <link>https://twitter.com/tyrell_turing/status/1679868710373191683</link>
+      <description>RT @blaiseaguera: Beautiful new work from the SelfOrg team elaborating on Neural Cellular Automata: how, under biologically realistic const…</description>
+      <content:encoded>RT @blaiseaguera: Beautiful new work from the SelfOrg team elaborating on Neural Cellular Automata: how, under biologically realistic const…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1679868710373191683"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 15:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Check out our latest Creature Column from @nicolasrohner about cavefish, which describes why they are great models to study the genetic basis of morphological traits, behavior, metabolism, and more.
+https://t.co/roel88f0Ag</title>
+      <link>https://twitter.com/naturemethods/status/1679869107473207299</link>
+      <description>Check out our latest Creature Column from @nicolasrohner about cavefish, which describes why they are great models to study the genetic basis of morphological traits, behavior, metabolism, and more.
+https://t.co/roel88f0Ag</description>
+      <content:encoded>Check out our latest Creature Column from @nicolasrohner about cavefish, which describes why they are great models to study the genetic basis of morphological traits, behavior, metabolism, and more.
+https://t.co/roel88f0Ag&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1679869107473207299"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 15:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧐We are looking for our dream PR team to support the European quantum technologies and science creatively shine.
+
+Details about the opportunity : https://t.co/oMvqervIs2
+
+Let's co-build our next PR strategy.
+
+#Hiring #PRagency https://t.co/y5eOOvmSwb</title>
+      <link>https://twitter.com/QuantumFlagship/status/1679872120594092035</link>
+      <description>🧐We are looking for our dream PR team to support the European quantum technologies and science creatively shine.
+
+Details about the opportunity : https://t.co/oMvqervIs2
+
+Let's co-build our next PR strategy.
+
+#Hiring #PRagency https://t.co/y5eOOvmSwb</description>
+      <content:encoded>🧐We are looking for our dream PR team to support the European quantum technologies and science creatively shine.
+
+Details about the opportunity : https://t.co/oMvqervIs2
+
+Let's co-build our next PR strategy.
+
+#Hiring #PRagency https://t.co/y5eOOvmSwb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/QuantumFlagship/status/1679872120594092035"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1AaoORWYAIJ4u1.jpg" length="1069" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:14:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>My data course in collaboration with @thejaan  (ENGR 3440) @penn will experiment with building a whole data course around LLMs. Weirdly, working well with such systems is all about understanding how us humans think. Science fiction is always about humans.</title>
+      <link>https://twitter.com/KordingLab/status/1679872684111593472</link>
+      <description>My data course in collaboration with @thejaan  (ENGR 3440) @penn will experiment with building a whole data course around LLMs. Weirdly, working well with such systems is all about understanding how us humans think. Science fiction is always about humans.</description>
+      <content:encoded>My data course in collaboration with @thejaan  (ENGR 3440) @penn will experiment with building a whole data course around LLMs. Weirdly, working well with such systems is all about understanding how us humans think. Science fiction is always about humans.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1679872684111593472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Fri, 14 Jul 2023 15:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windshield glass repair kits use resins which are formulated to have the same refractive index as the glass. 
+
+[How it works: https://t.co/vBCBoy7DQC] 
+[📹 https://t.co/jI15slDLGe]
+https://t.co/mZC56ytRfp</title>
+      <link>https://twitter.com/Rainmaker1973/status/1679872782295785475</link>
+      <description>Windshield glass repair kits use resins which are formulated to have the same refractive index as the glass. 
+
+[How it works: https://t.co/vBCBoy7DQC] 
+[📹 https://t.co/jI15slDLGe]
+https://t.co/mZC56ytRfp</description>
+      <content:encoded>Windshield glass repair kits use resins which are formulated to have the same refractive index as the glass. 
+
+[How it works: https://t.co/vBCBoy7DQC] 
+[📹 https://t.co/jI15slDLGe]
+https://t.co/mZC56ytRfp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1679872782295785475"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1501251650157105152/pu/img/M8MuGlYI5PmdnIrD.jpg" length="460" type="photo"/>
+      <pubDate>Fri, 14 Jul 2023 15:17:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
