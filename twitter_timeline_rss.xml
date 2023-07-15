@@ -6,136 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jul 2023 16:21:42 +0000</lastBuildDate>
-    <item>
-      <title>"You’re allowed to change. You’re allowed to leave. You’re allowed to let those years be exactly what they were: time spent growing and learning as a human being ... " 
-
-Here's a reminder that you're allowed to quit your #PhD. https://t.co/UjhfVWQ1Uq @ScienceCareers</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679891007318503424</link>
-      <description>"You’re allowed to change. You’re allowed to leave. You’re allowed to let those years be exactly what they were: time spent growing and learning as a human being ... " 
-
-Here's a reminder that you're allowed to quit your #PhD. https://t.co/UjhfVWQ1Uq @ScienceCareers</description>
-      <content:encoded>"You’re allowed to change. You’re allowed to leave. You’re allowed to let those years be exactly what they were: time spent growing and learning as a human being ... " 
-
-Here's a reminder that you're allowed to quit your #PhD. https://t.co/UjhfVWQ1Uq @ScienceCareers&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679891007318503424"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 16:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @OpenCatalyst: 🤔 Have questions about the 2023 Open Catalyst Challenge? We've got answers!
-
-📆 Join our weekly office hours starting 7/20…</title>
-      <link>https://twitter.com/ylecun/status/1679891563273670658</link>
-      <description>RT @OpenCatalyst: 🤔 Have questions about the 2023 Open Catalyst Challenge? We've got answers!
-
-📆 Join our weekly office hours starting 7/20…</description>
-      <content:encoded>RT @OpenCatalyst: 🤔 Have questions about the 2023 Open Catalyst Challenge? We've got answers!
-
-📆 Join our weekly office hours starting 7/20…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ylecun/status/1679891563273670658"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 16:32:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>@KordingLab If it were an exponential family model, there would be a uniformly most powerful approach.  For literally everything else: the best approach depends on unknown (and unknowable, but estimable) model parameters.</title>
-      <link>https://twitter.com/neuro_data/status/1679891866525872135</link>
-      <description>@KordingLab If it were an exponential family model, there would be a uniformly most powerful approach.  For literally everything else: the best approach depends on unknown (and unknowable, but estimable) model parameters.</description>
-      <content:encoded>@KordingLab If it were an exponential family model, there would be a uniformly most powerful approach.  For literally everything else: the best approach depends on unknown (and unknowable, but estimable) model parameters.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neuro_data/status/1679891866525872135"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 16:33:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>A @SciReports paper describes a new species of ancient alligator from Thailand that is closely related to the Chinese alligator (Alligator sinensis). https://t.co/xo33mNEpIv https://t.co/OfGZ5YZ0Ub</title>
-      <link>https://twitter.com/NaturePortfolio/status/1679892135636611083</link>
-      <description>A @SciReports paper describes a new species of ancient alligator from Thailand that is closely related to the Chinese alligator (Alligator sinensis). https://t.co/xo33mNEpIv https://t.co/OfGZ5YZ0Ub</description>
-      <content:encoded>A @SciReports paper describes a new species of ancient alligator from Thailand that is closely related to the Chinese alligator (Alligator sinensis). https://t.co/xo33mNEpIv https://t.co/OfGZ5YZ0Ub&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679892135636611083"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1As_OpXsAQws32.jpg" length="1000" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 16:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fluorescent sample for #FluorescenceFriday and interesting finding in #Organoid https://t.co/gQGYdjHdFK</title>
-      <link>https://twitter.com/ewadorotaz/status/1679894083353956357</link>
-      <description>Fluorescent sample for #FluorescenceFriday and interesting finding in #Organoid https://t.co/gQGYdjHdFK</description>
-      <content:encoded>Fluorescent sample for #FluorescenceFriday and interesting finding in #Organoid https://t.co/gQGYdjHdFK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1679894083353956357"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 16:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>If you at @pennphiladelic this weekend, check out new work from @aboharbf - classifying 8 psychedelic and non-psychedelic drugs via whole-brain c-Fos maps.
-
-Spoiler: high accuracy and reveal key regions driving prediction. 
-
-w/ @PashaDavoudian and @akaye https://t.co/c91Yzl4Dxm</title>
-      <link>https://twitter.com/kwanalexc/status/1679894136168624130</link>
-      <description>If you at @pennphiladelic this weekend, check out new work from @aboharbf - classifying 8 psychedelic and non-psychedelic drugs via whole-brain c-Fos maps.
-
-Spoiler: high accuracy and reveal key regions driving prediction. 
-
-w/ @PashaDavoudian and @akaye https://t.co/c91Yzl4Dxm</description>
-      <content:encoded>If you at @pennphiladelic this weekend, check out new work from @aboharbf - classifying 8 psychedelic and non-psychedelic drugs via whole-brain c-Fos maps.
-
-Spoiler: high accuracy and reveal key regions driving prediction. 
-
-w/ @PashaDavoudian and @akaye https://t.co/c91Yzl4Dxm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/kwanalexc/status/1679894136168624130"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1Au0C3XsAQBSS-.jpg" length="749" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 16:42:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @AntonSArkhipov: Wrapped up the first day of the Modeling Software Workshop @AllenInstitute, which covers our modeling software suite BM…</title>
-      <link>https://twitter.com/AllenInstitute/status/1679894526083706888</link>
-      <description>RT @AntonSArkhipov: Wrapped up the first day of the Modeling Software Workshop @AllenInstitute, which covers our modeling software suite BM…</description>
-      <content:encoded>RT @AntonSArkhipov: Wrapped up the first day of the Modeling Software Workshop @AllenInstitute, which covers our modeling software suite BM…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679894526083706888"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 16:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>𝗥𝗲𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗯𝗿𝗮𝗶𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴:
-https://t.co/WREIn4Im41 https://t.co/IZCL1NTES6</title>
-      <link>https://twitter.com/PessoaBrain/status/1679895330668593152</link>
-      <description>𝗥𝗲𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗯𝗿𝗮𝗶𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴:
-https://t.co/WREIn4Im41 https://t.co/IZCL1NTES6</description>
-      <content:encoded>𝗥𝗲𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗯𝗿𝗮𝗶𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴:
-https://t.co/WREIn4Im41 https://t.co/IZCL1NTES6&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1679895330668593152"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1Avr7EXsAc3Kbs.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 16:47:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>This MRI image of a mouse shows T cells in the spleen.
-
-@sellmyerlab + @arnab_mukh3rjee are #ImagingTheFuture by developing tools that will allow us to use MRI to obtain biological information from far fewer numbers of cells than currently possible https://t.co/t7lBHpQaCp</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1679895497685839886</link>
-      <description>This MRI image of a mouse shows T cells in the spleen.
-
-@sellmyerlab + @arnab_mukh3rjee are #ImagingTheFuture by developing tools that will allow us to use MRI to obtain biological information from far fewer numbers of cells than currently possible https://t.co/t7lBHpQaCp</description>
-      <content:encoded>This MRI image of a mouse shows T cells in the spleen.
-
-@sellmyerlab + @arnab_mukh3rjee are #ImagingTheFuture by developing tools that will allow us to use MRI to obtain biological information from far fewer numbers of cells than currently possible https://t.co/t7lBHpQaCp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1679895497685839886"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679895474562629632/pu/img/PGyPTOKRYxtG2z27.jpg" length="720" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 16:47:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here's the rest. https://t.co/xM5Up9TG7f</title>
-      <link>https://twitter.com/andpru/status/1679899327890698252</link>
-      <description>Here's the rest. https://t.co/xM5Up9TG7f</description>
-      <content:encoded>Here's the rest. https://t.co/xM5Up9TG7f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1679899327890698252"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1AziNmXsAMulcx.jpg" length="521" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 17:03:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>MIT researchers devise a way to evaluate cybersecurity methods: The system analyzes the likelihood that an attacker could thwart a certain security scheme to steal secret information. https://t.co/7QgM14sX17 https://t.co/DXNvBoQMQi</title>
-      <link>https://twitter.com/MIT/status/1679899871329890310</link>
-      <description>MIT researchers devise a way to evaluate cybersecurity methods: The system analyzes the likelihood that an attacker could thwart a certain security scheme to steal secret information. https://t.co/7QgM14sX17 https://t.co/DXNvBoQMQi</description>
-      <content:encoded>MIT researchers devise a way to evaluate cybersecurity methods: The system analyzes the likelihood that an attacker could thwart a certain security scheme to steal secret information. https://t.co/7QgM14sX17 https://t.co/DXNvBoQMQi&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1679899871329890310"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1A0B55WAAAdBhQ.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 17:05:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Before participating in @ev_fedorenko "Interesting Brains" project, Elyse thought her atypical brain was something that needed to be cured. Now, she tells @ScienceNews, these differences make her brain "fabulous." @ScienceMIT @mitbrainandcog 
-
-https://t.co/zanAthFUY5</title>
-      <link>https://twitter.com/mcgovernmit/status/1679901228019462154</link>
-      <description>Before participating in @ev_fedorenko "Interesting Brains" project, Elyse thought her atypical brain was something that needed to be cured. Now, she tells @ScienceNews, these differences make her brain "fabulous." @ScienceMIT @mitbrainandcog 
-
-https://t.co/zanAthFUY5</description>
-      <content:encoded>Before participating in @ev_fedorenko "Interesting Brains" project, Elyse thought her atypical brain was something that needed to be cured. Now, she tells @ScienceNews, these differences make her brain "fabulous." @ScienceMIT @mitbrainandcog 
-
-https://t.co/zanAthFUY5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/mcgovernmit/status/1679901228019462154"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 17:10:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jul 2023 17:14:40 +0000</lastBuildDate>
     <item>
       <title>.@dsengeh is revolutionizing Sierra Leone's healthcare and education sectors with his remarkable determination. https://t.co/IdjtU2Jsgg</title>
       <link>https://twitter.com/BillGates/status/1679901971099308033</link>
@@ -1855,6 +1726,104 @@ https://t.co/nITrxMjkNy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @sofievalk: Yea! Cerebral chemoarchitecture shares organizational traits with brain structure and function is out! We extend previous wo…</description>
       <content:encoded>RT @sofievalk: Yea! Cerebral chemoarchitecture shares organizational traits with brain structure and function is out! We extend previous wo…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1680249582712700929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 15 Jul 2023 16:14:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Association of brain morphology and phenotypic profile in patients with unruptured intracranial aneurysm: Introduction
+
+Studies have found a varying degree of cognitive, psychosocial, and functional impairments in… #ageing #neuroscience https://t.co/qwgYHpK5Cu</title>
+      <link>https://twitter.com/FrontNeurosci/status/1680251386708230144</link>
+      <description>New Research: Association of brain morphology and phenotypic profile in patients with unruptured intracranial aneurysm: Introduction
+
+Studies have found a varying degree of cognitive, psychosocial, and functional impairments in… #ageing #neuroscience https://t.co/qwgYHpK5Cu</description>
+      <content:encoded>New Research: Association of brain morphology and phenotypic profile in patients with unruptured intracranial aneurysm: Introduction
+
+Studies have found a varying degree of cognitive, psychosocial, and functional impairments in… #ageing #neuroscience https://t.co/qwgYHpK5Cu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1680251386708230144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 16:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Still one of the most stunning videos of the formation of a tornado, touching down in Cuauhtémoc, Mexico.
+
+[source, read more (ES): https://t.co/5Aw8Cy0u3s]
+https://t.co/3zrfUCCDoj https://t.co/OJe6RLkojZ</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680251973893775361</link>
+      <description>Still one of the most stunning videos of the formation of a tornado, touching down in Cuauhtémoc, Mexico.
+
+[source, read more (ES): https://t.co/5Aw8Cy0u3s]
+https://t.co/3zrfUCCDoj https://t.co/OJe6RLkojZ</description>
+      <content:encoded>Still one of the most stunning videos of the formation of a tornado, touching down in Cuauhtémoc, Mexico.
+
+[source, read more (ES): https://t.co/5Aw8Cy0u3s]
+https://t.co/3zrfUCCDoj https://t.co/OJe6RLkojZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680251973893775361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679927798612279310/pu/img/dVEUBqAmdLNkTDp0.jpg" length="480" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 16:24:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @CERN: This week, over 100 international experts from 70 different institutes in five continents got together to reflect on how scientif…</title>
+      <link>https://twitter.com/wake_sleep/status/1680252526006874113</link>
+      <description>RT @CERN: This week, over 100 international experts from 70 different institutes in five continents got together to reflect on how scientif…</description>
+      <content:encoded>RT @CERN: This week, over 100 international experts from 70 different institutes in five continents got together to reflect on how scientif…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1680252526006874113"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 16:26:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>@PessoaBrain :-) Sept 12 for the double blinded track. More details here : https://t.co/UXox4AlEA1</title>
+      <link>https://twitter.com/LecoqJerome/status/1680253314833989633</link>
+      <description>@PessoaBrain :-) Sept 12 for the double blinded track. More details here : https://t.co/UXox4AlEA1</description>
+      <content:encoded>@PessoaBrain :-) Sept 12 for the double blinded track. More details here : https://t.co/UXox4AlEA1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1680253314833989633"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 16:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The evolution of the nervous system may have followed multiple paths and risen independently in two early lineages of animals, a recent Science study found in comb jellies.
+
+The results offer a new perspective on neuronal networks and neurotransmission. https://t.co/gz7sN584VU https://t.co/aRV0qaa9yh</title>
+      <link>https://twitter.com/ScienceMagazine/status/1680253426825822209</link>
+      <description>The evolution of the nervous system may have followed multiple paths and risen independently in two early lineages of animals, a recent Science study found in comb jellies.
+
+The results offer a new perspective on neuronal networks and neurotransmission. https://t.co/gz7sN584VU https://t.co/aRV0qaa9yh</description>
+      <content:encoded>The evolution of the nervous system may have followed multiple paths and risen independently in two early lineages of animals, a recent Science study found in comb jellies.
+
+The results offer a new perspective on neuronal networks and neurotransmission. https://t.co/gz7sN584VU https://t.co/aRV0qaa9yh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1680253426825822209"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1F1lWEWwAAP7H7.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 16:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @NatRevImmunol explores current thinking about the pathophysiology of long COVID and discusses potential immunological mechanisms. https://t.co/tEPPhJYQvH https://t.co/0wNeQGtBky</title>
+      <link>https://twitter.com/NaturePortfolio/status/1680254166323679233</link>
+      <description>A Review in @NatRevImmunol explores current thinking about the pathophysiology of long COVID and discusses potential immunological mechanisms. https://t.co/tEPPhJYQvH https://t.co/0wNeQGtBky</description>
+      <content:encoded>A Review in @NatRevImmunol explores current thinking about the pathophysiology of long COVID and discusses potential immunological mechanisms. https://t.co/tEPPhJYQvH https://t.co/0wNeQGtBky&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1680254166323679233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1F2PjJXsAE1N1w.jpg" length="1066" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 16:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic Digital Radiography (DDR) allows you to observe movement like never before. This novel low-dose X-ray imaging technique enables visualization of anatomy in motion
+
+[source, read more: https://t.co/4lk8BvLL8j]
+https://t.co/M4NLHmyo1y</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680256489162719233</link>
+      <description>Dynamic Digital Radiography (DDR) allows you to observe movement like never before. This novel low-dose X-ray imaging technique enables visualization of anatomy in motion
+
+[source, read more: https://t.co/4lk8BvLL8j]
+https://t.co/M4NLHmyo1y</description>
+      <content:encoded>Dynamic Digital Radiography (DDR) allows you to observe movement like never before. This novel low-dose X-ray imaging technique enables visualization of anatomy in motion
+
+[source, read more: https://t.co/4lk8BvLL8j]
+https://t.co/M4NLHmyo1y&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680256489162719233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679925029876772865/pu/img/S6ZFIks4qIaCYHFF.jpg" length="675" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 16:42:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @zacharylipton: When I grow up, my dream is to become the i-th (3 &amp;lt; i &amp;lt; N) author of a major @Google paper for an intern-level contribut…</title>
+      <link>https://twitter.com/KordingLab/status/1680261907159080964</link>
+      <description>RT @zacharylipton: When I grow up, my dream is to become the i-th (3 &amp;lt; i &amp;lt; N) author of a major @Google paper for an intern-level contribut…</description>
+      <content:encoded>RT @zacharylipton: When I grow up, my dream is to become the i-th (3 &amp;lt; i &amp;lt; N) author of a major @Google paper for an intern-level contribut…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1680261907159080964"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 17:03:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Happy 1st birthday, James Webb Telescope! 🎉In its 1st year of peering across the universe, @NASAWebb has gifted us with incredible glimpses of the universe. From Saturn's radiant rings to newborn stars &amp;amp; beyond, it has revolutionized our cosmic perspective: happy anniversary!🤗 https://t.co/XUSslWzgDr</title>
+      <link>https://twitter.com/maxplanckpress/status/1680263420921167874</link>
+      <description>Happy 1st birthday, James Webb Telescope! 🎉In its 1st year of peering across the universe, @NASAWebb has gifted us with incredible glimpses of the universe. From Saturn's radiant rings to newborn stars &amp;amp; beyond, it has revolutionized our cosmic perspective: happy anniversary!🤗 https://t.co/XUSslWzgDr</description>
+      <content:encoded>Happy 1st birthday, James Webb Telescope! 🎉In its 1st year of peering across the universe, @NASAWebb has gifted us with incredible glimpses of the universe. From Saturn's radiant rings to newborn stars &amp;amp; beyond, it has revolutionized our cosmic perspective: happy anniversary!🤗 https://t.co/XUSslWzgDr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1680263420921167874"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1F-dyPXgAI_Fgm.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 17:09:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
