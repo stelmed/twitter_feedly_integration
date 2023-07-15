@@ -6,49 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jul 2023 06:22:12 +0000</lastBuildDate>
-    <item>
-      <title>"Traditional academic publishing is unequal, exclusionary, unsustainable and opaque. [...]. It is a scandal." –Humberto Debat. Editorial on the future of academic publishing is out in Nature Human Behaviour 1/ https://t.co/54IHRuxyn5</title>
-      <link>https://twitter.com/patrickmineault/status/1679829561691848704</link>
-      <description>"Traditional academic publishing is unequal, exclusionary, unsustainable and opaque. [...]. It is a scandal." –Humberto Debat. Editorial on the future of academic publishing is out in Nature Human Behaviour 1/ https://t.co/54IHRuxyn5</description>
-      <content:encoded>"Traditional academic publishing is unequal, exclusionary, unsustainable and opaque. [...]. It is a scandal." –Humberto Debat. Editorial on the future of academic publishing is out in Nature Human Behaviour 1/ https://t.co/54IHRuxyn5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1679829561691848704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 12:25:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>NHB sent an invite in April to me, @andpru and several academics from the global South to weigh in on the future of academic publishing. They would publish it without a paywall. None of us coordinated but when I got the proofs a couple of months later... wow! 2/</title>
-      <link>https://twitter.com/patrickmineault/status/1679829563671564288</link>
-      <description>NHB sent an invite in April to me, @andpru and several academics from the global South to weigh in on the future of academic publishing. They would publish it without a paywall. None of us coordinated but when I got the proofs a couple of months later... wow! 2/</description>
-      <content:encoded>NHB sent an invite in April to me, @andpru and several academics from the global South to weigh in on the future of academic publishing. They would publish it without a paywall. None of us coordinated but when I got the proofs a couple of months later... wow! 2/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1679829563671564288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 12:25:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>I think the vibe across most editorials is that the traditional academic publishing model is fatally flawed and traditional publishers are extractive, bad for science, scandalous, etc. Pretty bold to read that in the pages of an NPG journal 3/</title>
-      <link>https://twitter.com/patrickmineault/status/1679829565374361600</link>
-      <description>I think the vibe across most editorials is that the traditional academic publishing model is fatally flawed and traditional publishers are extractive, bad for science, scandalous, etc. Pretty bold to read that in the pages of an NPG journal 3/</description>
-      <content:encoded>I think the vibe across most editorials is that the traditional academic publishing model is fatally flawed and traditional publishers are extractive, bad for science, scandalous, etc. Pretty bold to read that in the pages of an NPG journal 3/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1679829565374361600"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 12:25:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>I made an argument that trad publishers can't deal with a supply shock from an increase in paper submissions due to AI because their peer-reviewing pipeline is already breaking at the seams. It's a bad business model. 4/</title>
-      <link>https://twitter.com/patrickmineault/status/1679829567064756224</link>
-      <description>I made an argument that trad publishers can't deal with a supply shock from an increase in paper submissions due to AI because their peer-reviewing pipeline is already breaking at the seams. It's a bad business model. 4/</description>
-      <content:encoded>I made an argument that trad publishers can't deal with a supply shock from an increase in paper submissions due to AI because their peer-reviewing pipeline is already breaking at the seams. It's a bad business model. 4/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1679829567064756224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 12:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>FWIW, I think the persistence of peer review+paywall despite obvious flaws is not about aspiration to truth but about exclusivity. Adding up IFs of papers published over the last N years is a rational reaction to lack of domain knowledge (for admins) or time (for academics) 5/</title>
-      <link>https://twitter.com/patrickmineault/status/1679829568822161409</link>
-      <description>FWIW, I think the persistence of peer review+paywall despite obvious flaws is not about aspiration to truth but about exclusivity. Adding up IFs of papers published over the last N years is a rational reaction to lack of domain knowledge (for admins) or time (for academics) 5/</description>
-      <content:encoded>FWIW, I think the persistence of peer review+paywall despite obvious flaws is not about aspiration to truth but about exclusivity. Adding up IFs of papers published over the last N years is a rational reaction to lack of domain knowledge (for admins) or time (for academics) 5/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1679829568822161409"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 12:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>I don't think anybody has cracked that nut yet, and it probably won't be fully resolved until we're in a post-scarcity world where research money is assigned non-competitively. But certain subfields–physics, CS, math–have extracted themselves from standard publishing 6/</title>
-      <link>https://twitter.com/patrickmineault/status/1679829570915106818</link>
-      <description>I don't think anybody has cracked that nut yet, and it probably won't be fully resolved until we're in a post-scarcity world where research money is assigned non-competitively. But certain subfields–physics, CS, math–have extracted themselves from standard publishing 6/</description>
-      <content:encoded>I don't think anybody has cracked that nut yet, and it probably won't be fully resolved until we're in a post-scarcity world where research money is assigned non-competitively. But certain subfields–physics, CS, math–have extracted themselves from standard publishing 6/&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/patrickmineault/status/1679829570915106818"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 12:25:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jul 2023 07:15:42 +0000</lastBuildDate>
     <item>
       <title>Let's keep trying. Let's experiment with bold new ways of publishing science that are more equitable and allow the fruits of publicly funded research to be reaped by the public itself. I'm super excited by new initiatives spearheaded by @neuromatch in this direction 7/7</title>
       <link>https://twitter.com/patrickmineault/status/1679829572714475520</link>
@@ -344,28 +302,11 @@ https://t.co/7t272X0vU4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Fri, 14 Jul 2023 14:21:47 +0000</pubDate>
     </item>
     <item>
-      <title>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679858873279078401</link>
-      <description>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…</description>
-      <content:encoded>RT @alondra: In this week's @ScienceMagazine, a special issue on AI, @sethlazar and I propose the field of "sociotechnical AI safety" and a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679858873279078401"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:22:20 +0000</pubDate>
-    </item>
-    <item>
       <title>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…</title>
       <link>https://twitter.com/ScienceMagazine/status/1679858958721327107</link>
       <description>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…</description>
       <content:encoded>RT @delafuenteupenn: Our latest from the @delafuenteupenn Lab is out @ScienceMagazine! This was not even a field until  5 years ago. AI is…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679858958721327107"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Fri, 14 Jul 2023 14:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
-Elegant work in hu…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679859014664957952</link>
-      <description>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
-Elegant work in hu…</description>
-      <content:encoded>RT @EricTopol: Macrophages are a key driver to atrial fibrillation, laying the foundation for a new therapeutic approach
-Elegant work in hu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859014664957952"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:22:54 +0000</pubDate>
     </item>
     <item>
       <title>RT @Ale_Brambati: Excited to tell you about my work, new in @sciencemagazine.  MMEJ - a repair pathway that can both mutate and protect DNA…</title>
@@ -382,26 +323,12 @@ Elegant work in hu…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https:/
       <pubDate>Fri, 14 Jul 2023 14:23:58 +0000</pubDate>
     </item>
     <item>
-      <title>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679859328876945410</link>
-      <description>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…</description>
-      <content:encoded>RT @avicgoldfarb: Do we want less automation? In a new article in @ScienceMagazine, Ajay, Joshua, and I argue that AI automation may revers…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679859328876945410"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:24:08 +0000</pubDate>
-    </item>
-    <item>
       <title>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM</title>
       <link>https://twitter.com/NaturePortfolio/status/1679859566761181184</link>
       <description>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM</description>
       <content:encoded>A paper in @NatureComms presents a method to directly capture information in the form of light and encode it into DNA via bacteria, analogous to a digital camera. https://t.co/HXoVaor5fJ https://t.co/qIiUzeGTBM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679859566761181184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F1APW1SXwAE_O5c.jpg" length="1066" type="photo"/>
       <pubDate>Fri, 14 Jul 2023 14:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679860126914584579</link>
-      <description>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…</description>
-      <content:encoded>RT @JakeYeston: Fascinating study from @clemonslab in @ScienceMagazine this week on how phage protein E combats bacteria https://t.co/IZYyz…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679860126914584579"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:27:19 +0000</pubDate>
     </item>
     <item>
       <title>The AAV Data Hub from @Addgene is a platform from and for scientists for sharing data about AAV experiments. 
@@ -1862,6 +1789,136 @@ This year, we need to reach all scientists even those that are not on social med
       <description>Differences in cortical surface area in developmental language disorder  https://t.co/AdMaz5bj2B #biorxiv_neursci</description>
       <content:encoded>Differences in cortical surface area in developmental language disorder  https://t.co/AdMaz5bj2B #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680098885987889153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 15 Jul 2023 06:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discovered 224 years ago #Today, the Rosetta Stone is regarded as one of the most important archaeological objects ever found, being the key to deciphering Egyptian hieroglyphs 
+
+[read more: https://t.co/OSwqfEY1D5] https://t.co/QHUD2BrrP9</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680100432239116290</link>
+      <description>Discovered 224 years ago #Today, the Rosetta Stone is regarded as one of the most important archaeological objects ever found, being the key to deciphering Egyptian hieroglyphs 
+
+[read more: https://t.co/OSwqfEY1D5] https://t.co/QHUD2BrrP9</description>
+      <content:encoded>Discovered 224 years ago #Today, the Rosetta Stone is regarded as one of the most important archaeological objects ever found, being the key to deciphering Egyptian hieroglyphs 
+
+[read more: https://t.co/OSwqfEY1D5] https://t.co/QHUD2BrrP9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680100432239116290"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1DqWIBWwAApjc0.jpg" length="680" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 06:22:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @mabdelhack: KCNI summer academy students are presenting their projects on the final day... It's been a great week with many fun discuss…</title>
+      <link>https://twitter.com/wake_sleep/status/1680102832278585345</link>
+      <description>RT @mabdelhack: KCNI summer academy students are presenting their projects on the final day... It's been a great week with many fun discuss…</description>
+      <content:encoded>RT @mabdelhack: KCNI summer academy students are presenting their projects on the final day... It's been a great week with many fun discuss…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1680102832278585345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 06:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geodes are hollow, vaguely spherical rocks, in which masses of mineral matter (which may include crystals) are secluded
+
+This is how you crack one open
+
+[📹 mooneyfinemineral: https://t.co/9jYrjXo9at]
+https://t.co/NKMtNB6WwY</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680102940193832960</link>
+      <description>Geodes are hollow, vaguely spherical rocks, in which masses of mineral matter (which may include crystals) are secluded
+
+This is how you crack one open
+
+[📹 mooneyfinemineral: https://t.co/9jYrjXo9at]
+https://t.co/NKMtNB6WwY</description>
+      <content:encoded>Geodes are hollow, vaguely spherical rocks, in which masses of mineral matter (which may include crystals) are secluded
+
+This is how you crack one open
+
+[📹 mooneyfinemineral: https://t.co/9jYrjXo9at]
+https://t.co/NKMtNB6WwY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680102940193832960"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1611630548216123393/pu/img/3z_UgpthEBYK368g.jpg" length="406" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 06:32:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @DaveMomi: That's a wrap. It was a privilege to interact with such exceptional students as a TA of the @CAMH_KCNI Summer Academy. 
+That'…</title>
+      <link>https://twitter.com/wake_sleep/status/1680103251042091008</link>
+      <description>RT @DaveMomi: That's a wrap. It was a privilege to interact with such exceptional students as a TA of the @CAMH_KCNI Summer Academy. 
+That'…</description>
+      <content:encoded>RT @DaveMomi: That's a wrap. It was a privilege to interact with such exceptional students as a TA of the @CAMH_KCNI Summer Academy. 
+That'…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1680103251042091008"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 06:33:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Due to the size &amp;amp; gentle slopes of Olympus Mons, an observer standing on the Martian surface would be unable to see its peak, because it'd be beyond the horizon. Similarly an observer near the summit wouldn't even see parts of Mars that aren't Olympus Mons https://t.co/TRrAGX42S6 https://t.co/TopjWRnOLt</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680106569432805377</link>
+      <description>Due to the size &amp;amp; gentle slopes of Olympus Mons, an observer standing on the Martian surface would be unable to see its peak, because it'd be beyond the horizon. Similarly an observer near the summit wouldn't even see parts of Mars that aren't Olympus Mons https://t.co/TRrAGX42S6 https://t.co/TopjWRnOLt</description>
+      <content:encoded>Due to the size &amp;amp; gentle slopes of Olympus Mons, an observer standing on the Martian surface would be unable to see its peak, because it'd be beyond the horizon. Similarly an observer near the summit wouldn't even see parts of Mars that aren't Olympus Mons https://t.co/TRrAGX42S6 https://t.co/TopjWRnOLt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680106569432805377"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1Dv2M3WIAA2SwF.jpg" length="680" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 06:46:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>In classical mechanics, solving the equation F = ma gives the position and the momentum of the physical system as a function of the external force on the system. 
+
+In quantum mechanics, the analogue of Newton's law is Schrödinger's equation 
+
+[read more: https://t.co/gPcnlLeind] https://t.co/471INwVONe</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680109065953857538</link>
+      <description>In classical mechanics, solving the equation F = ma gives the position and the momentum of the physical system as a function of the external force on the system. 
+
+In quantum mechanics, the analogue of Newton's law is Schrödinger's equation 
+
+[read more: https://t.co/gPcnlLeind] https://t.co/471INwVONe</description>
+      <content:encoded>In classical mechanics, solving the equation F = ma gives the position and the momentum of the physical system as a function of the external force on the system. 
+
+In quantum mechanics, the analogue of Newton's law is Schrödinger's equation 
+
+[read more: https://t.co/gPcnlLeind] https://t.co/471INwVONe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680109065953857538"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1DyRbrWcAAEh-Y.jpg" length="680" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 06:56:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Postsynaptic mitochondria are positioned to support functional diversity of dendritic spines https://t.co/Klu8H9vyjS https://t.co/kQE9mBpyrY</title>
+      <link>https://twitter.com/bxv_neurosci/status/1680110715104038913</link>
+      <description>Postsynaptic mitochondria are positioned to support functional diversity of dendritic spines https://t.co/Klu8H9vyjS https://t.co/kQE9mBpyrY</description>
+      <content:encoded>Postsynaptic mitochondria are positioned to support functional diversity of dendritic spines https://t.co/Klu8H9vyjS https://t.co/kQE9mBpyrY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1680110715104038913"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1DzypXacAYnjUP.png" length="252" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 07:03:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>In vivo imaging in transgenic songbirds reveals superdiffusive neuron migration in the adult brain https://t.co/6U8c33RkFr https://t.co/J8ANYirGBT</title>
+      <link>https://twitter.com/bxv_neurosci/status/1680110724201447425</link>
+      <description>In vivo imaging in transgenic songbirds reveals superdiffusive neuron migration in the adult brain https://t.co/6U8c33RkFr https://t.co/J8ANYirGBT</description>
+      <content:encoded>In vivo imaging in transgenic songbirds reveals superdiffusive neuron migration in the adult brain https://t.co/6U8c33RkFr https://t.co/J8ANYirGBT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1680110724201447425"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1DzzPqakAAkec7.png" length="252" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 07:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Differences in cortical surface area in developmental language disorder https://t.co/3sUShlXybj https://t.co/PyCBZedzZE</title>
+      <link>https://twitter.com/bxv_neurosci/status/1680110734011961344</link>
+      <description>Differences in cortical surface area in developmental language disorder https://t.co/3sUShlXybj https://t.co/PyCBZedzZE</description>
+      <content:encoded>Differences in cortical surface area in developmental language disorder https://t.co/3sUShlXybj https://t.co/PyCBZedzZE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1680110734011961344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1Dzzz7akAA4GHV.png" length="252" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 07:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hyalite acquires a property of fluorescence due to the inclusion of trace amounts of contaminating uranium in the silica structure of the opal itself, and under UV light uranium will glow very brightly 
+
+[source, read more: https://t.co/Ek3ijX1Z5V]
+https://t.co/V4XzWkifEb</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680113379430526982</link>
+      <description>Hyalite acquires a property of fluorescence due to the inclusion of trace amounts of contaminating uranium in the silica structure of the opal itself, and under UV light uranium will glow very brightly 
+
+[source, read more: https://t.co/Ek3ijX1Z5V]
+https://t.co/V4XzWkifEb</description>
+      <content:encoded>Hyalite acquires a property of fluorescence due to the inclusion of trace amounts of contaminating uranium in the silica structure of the opal itself, and under UV light uranium will glow very brightly 
+
+[source, read more: https://t.co/Ek3ijX1Z5V]
+https://t.co/V4XzWkifEb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680113379430526982"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1392399762096336897/pu/img/W-ui1cTtiI9d6vGV.jpg" length="432" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 07:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brain network reconfiguration during prediction error processing  https://t.co/sc25bZSKB2 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1680113864682139649</link>
+      <description>Brain network reconfiguration during prediction error processing  https://t.co/sc25bZSKB2 #biorxiv_neursci</description>
+      <content:encoded>Brain network reconfiguration during prediction error processing  https://t.co/sc25bZSKB2 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680113864682139649"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 07:15:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
