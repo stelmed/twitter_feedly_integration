@@ -6,84 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jul 2023 22:15:54 +0000</lastBuildDate>
-    <item>
-      <title>An article in @naturemethods presents LIONESS: an integrated optical/machine-learning technology for dense 4D nanoscale reconstruction of living brain tissue. 
-https://t.co/nDYWRwh4bh https://t.co/0QF7e9h8yK</title>
-      <link>https://twitter.com/NaturePortfolio/status/1679924055695302656</link>
-      <description>An article in @naturemethods presents LIONESS: an integrated optical/machine-learning technology for dense 4D nanoscale reconstruction of living brain tissue. 
-https://t.co/nDYWRwh4bh https://t.co/0QF7e9h8yK</description>
-      <content:encoded>An article in @naturemethods presents LIONESS: an integrated optical/machine-learning technology for dense 4D nanoscale reconstruction of living brain tissue. 
-https://t.co/nDYWRwh4bh https://t.co/0QF7e9h8yK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1679924055695302656"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1BKAdsWwBEbrdh.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 18:41:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @TheMattDavis: Nice vid from the comms team. I feel grateful to work with all the cool data coming out of this pipline! https://t.co/RSe…</title>
-      <link>https://twitter.com/AllenInstitute/status/1679925479099502592</link>
-      <description>RT @TheMattDavis: Nice vid from the comms team. I feel grateful to work with all the cool data coming out of this pipline! https://t.co/RSe…</description>
-      <content:encoded>RT @TheMattDavis: Nice vid from the comms team. I feel grateful to work with all the cool data coming out of this pipline! https://t.co/RSe…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1679925479099502592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 18:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Announcing  AAMAS 2024, the 23rd Autonomous Agents and Multiagent Systems conference, from 6-10 May 2024 in Auckland, New Zealand.
- 
-Call for papers is out: 
-https://t.co/Fmeg3wseLN 
-Join us!
-
-#AAMAS2024 #AI #agents</title>
-      <link>https://twitter.com/vdignum/status/1679929949472342024</link>
-      <description>Announcing  AAMAS 2024, the 23rd Autonomous Agents and Multiagent Systems conference, from 6-10 May 2024 in Auckland, New Zealand.
- 
-Call for papers is out: 
-https://t.co/Fmeg3wseLN 
-Join us!
-
-#AAMAS2024 #AI #agents</description>
-      <content:encoded>Announcing  AAMAS 2024, the 23rd Autonomous Agents and Multiagent Systems conference, from 6-10 May 2024 in Auckland, New Zealand.
- 
-Call for papers is out: 
-https://t.co/Fmeg3wseLN 
-Join us!
-
-#AAMAS2024 #AI #agents&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1679929949472342024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 19:04:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interesting in controlling expression with (otherwise inert) drugs? Check out our updated Viral Vectors 101 post on chemogenetics! 
-
-https://t.co/lRR6TgIvjR</title>
-      <link>https://twitter.com/Addgene/status/1679931267658428416</link>
-      <description>Interesting in controlling expression with (otherwise inert) drugs? Check out our updated Viral Vectors 101 post on chemogenetics! 
-
-https://t.co/lRR6TgIvjR</description>
-      <content:encoded>Interesting in controlling expression with (otherwise inert) drugs? Check out our updated Viral Vectors 101 post on chemogenetics! 
-
-https://t.co/lRR6TgIvjR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1679931267658428416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 19:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @jTroscianko: High-sensitivity low-cost spectrometer that runs from a smartphone. Build your own from 3D printed parts and off-the-shelf…</title>
-      <link>https://twitter.com/trose_neuro/status/1679934901011791873</link>
-      <description>RT @jTroscianko: High-sensitivity low-cost spectrometer that runs from a smartphone. Build your own from 3D printed parts and off-the-shelf…</description>
-      <content:encoded>RT @jTroscianko: High-sensitivity low-cost spectrometer that runs from a smartphone. Build your own from 3D printed parts and off-the-shelf…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trose_neuro/status/1679934901011791873"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 19:24:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The use of #ChatGPT—a chatbot that can generate human-like text—raises productivity in professional writing tasks and reduces productivity inequality in those who use it, according to a new Science study involving over 400 college-educated professionals. https://t.co/bCfh3NHs69</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679936306305191937</link>
-      <description>The use of #ChatGPT—a chatbot that can generate human-like text—raises productivity in professional writing tasks and reduces productivity inequality in those who use it, according to a new Science study involving over 400 college-educated professionals. https://t.co/bCfh3NHs69</description>
-      <content:encoded>The use of #ChatGPT—a chatbot that can generate human-like text—raises productivity in professional writing tasks and reduces productivity inequality in those who use it, according to a new Science study involving over 400 college-educated professionals. https://t.co/bCfh3NHs69&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679936306305191937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 19:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @BioRxIF: With 50,000 journals, it can be difficult to efficiently determine a paper's Impact Factor. That's why we're excited to announ…</title>
-      <link>https://twitter.com/andpru/status/1679936323338027027</link>
-      <description>RT @BioRxIF: With 50,000 journals, it can be difficult to efficiently determine a paper's Impact Factor. That's why we're excited to announ…</description>
-      <content:encoded>RT @BioRxIF: With 50,000 journals, it can be difficult to efficiently determine a paper's Impact Factor. That's why we're excited to announ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1679936323338027027"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 19:30:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jul 2023 23:16:32 +0000</lastBuildDate>
     <item>
       <title>More complex tech in more extreme environments demands faster testing for more reliable #microelectronics. Our new ASSERT program looks to equip troops sooner with #radhard game-changers. More: https://t.co/OSyKSPvxLP https://t.co/oJq8TYO4qV</title>
       <link>https://twitter.com/DARPA/status/1679936981823004672</link>
@@ -1805,6 +1728,69 @@ Researchers in @ScienceAdvances created an interventional catherization platform
       <description>Regression and Alignment for Functional Data and Network Topology  https://t.co/3Lmm9Gsov1 #biorxiv_neursci</description>
       <content:encoded>Regression and Alignment for Functional Data and Network Topology  https://t.co/3Lmm9Gsov1 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680340338278318080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 15 Jul 2023 22:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estimates of persistent inward currents in lower limb muscles are not different between inactive, resistance-trained and ...  https://t.co/YD7Znsw4tL #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1680340449242894336</link>
+      <description>Estimates of persistent inward currents in lower limb muscles are not different between inactive, resistance-trained and ...  https://t.co/YD7Znsw4tL #biorxiv_neursci</description>
+      <content:encoded>Estimates of persistent inward currents in lower limb muscles are not different between inactive, resistance-trained and ...  https://t.co/YD7Znsw4tL #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680340449242894336"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 22:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>@jess_cardin @NSB_MBL @zeiss_micro @HamamatsuPhoton @MBLScience I saw it. It looked great and “easy”! Congratulations!</title>
+      <link>https://twitter.com/ewadorotaz/status/1680340453294583808</link>
+      <description>@jess_cardin @NSB_MBL @zeiss_micro @HamamatsuPhoton @MBLScience I saw it. It looked great and “easy”! Congratulations!</description>
+      <content:encoded>@jess_cardin @NSB_MBL @zeiss_micro @HamamatsuPhoton @MBLScience I saw it. It looked great and “easy”! Congratulations!&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1680340453294583808"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 22:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @jess_cardin: Success!  Simultaneous widefield imaging and Neuropixels recordings by our amazing students at @NSB_MBL!  Amazing data, on…</title>
+      <link>https://twitter.com/ewadorotaz/status/1680340658073026560</link>
+      <description>RT @jess_cardin: Success!  Simultaneous widefield imaging and Neuropixels recordings by our amazing students at @NSB_MBL!  Amazing data, on…</description>
+      <content:encoded>RT @jess_cardin: Success!  Simultaneous widefield imaging and Neuropixels recordings by our amazing students at @NSB_MBL!  Amazing data, on…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1680340658073026560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 22:16:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Axo-axonic cells in neuropsychiatric disorders: a systematic review: Imbalance between excitation and inhibition in the cerebral cortex is one of the main theories in neuropsychiatric disorder pathophysiology. Cortical… #neuroscience https://t.co/x8ViLllWYH</title>
+      <link>https://twitter.com/FrontNeurosci/status/1680347025613914112</link>
+      <description>New Research: Axo-axonic cells in neuropsychiatric disorders: a systematic review: Imbalance between excitation and inhibition in the cerebral cortex is one of the main theories in neuropsychiatric disorder pathophysiology. Cortical… #neuroscience https://t.co/x8ViLllWYH</description>
+      <content:encoded>New Research: Axo-axonic cells in neuropsychiatric disorders: a systematic review: Imbalance between excitation and inhibition in the cerebral cortex is one of the main theories in neuropsychiatric disorder pathophysiology. Cortical… #neuroscience https://t.co/x8ViLllWYH&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1680347025613914112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 22:42:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>LSD has super weak effects on social adaptation. Am I misreading this? Buried the lede? https://t.co/FWCQBG9YOu</title>
+      <link>https://twitter.com/KordingLab/status/1680355235137482754</link>
+      <description>LSD has super weak effects on social adaptation. Am I misreading this? Buried the lede? https://t.co/FWCQBG9YOu</description>
+      <content:encoded>LSD has super weak effects on social adaptation. Am I misreading this? Buried the lede? https://t.co/FWCQBG9YOu&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/KordingLab/status/1680355235137482754"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 23:14:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Recurrent Neural Circuit Mechanism of Temporal-scaling Equivariant Representation  https://t.co/l8LYmlz8zU #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1680355425479192576</link>
+      <description>A Recurrent Neural Circuit Mechanism of Temporal-scaling Equivariant Representation  https://t.co/l8LYmlz8zU #biorxiv_neursci</description>
+      <content:encoded>A Recurrent Neural Circuit Mechanism of Temporal-scaling Equivariant Representation  https://t.co/l8LYmlz8zU #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680355425479192576"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 23:15:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEG-based decoding of the spatial focus of auditory attention in a multi-talker audiovisual experiment using Common Spatial Patterns  https://t.co/P7ac4kyxKX #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1680355519737868288</link>
+      <description>EEG-based decoding of the spatial focus of auditory attention in a multi-talker audiovisual experiment using Common Spatial Patterns  https://t.co/P7ac4kyxKX #biorxiv_neursci</description>
+      <content:encoded>EEG-based decoding of the spatial focus of auditory attention in a multi-talker audiovisual experiment using Common Spatial Patterns  https://t.co/P7ac4kyxKX #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680355519737868288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 23:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>On the variability of dynamic functional connectivity assessment methods  https://t.co/RzjGyfTgn5 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1680355584678195203</link>
+      <description>On the variability of dynamic functional connectivity assessment methods  https://t.co/RzjGyfTgn5 #biorxiv_neursci</description>
+      <content:encoded>On the variability of dynamic functional connectivity assessment methods  https://t.co/RzjGyfTgn5 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680355584678195203"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 23:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>N-acetylcysteine and acetyl-L-carnitine did not prevent acute PTZ-induced seizure in adult and larvae zebrafish  https://t.co/Qao9x4aDo5 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1680355673647849472</link>
+      <description>N-acetylcysteine and acetyl-L-carnitine did not prevent acute PTZ-induced seizure in adult and larvae zebrafish  https://t.co/Qao9x4aDo5 #biorxiv_neursci</description>
+      <content:encoded>N-acetylcysteine and acetyl-L-carnitine did not prevent acute PTZ-induced seizure in adult and larvae zebrafish  https://t.co/Qao9x4aDo5 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680355673647849472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 23:16:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
