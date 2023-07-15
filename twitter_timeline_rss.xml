@@ -6,73 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jul 2023 12:33:40 +0000</lastBuildDate>
-    <item>
-      <title>RT @DanielFelsky: On our penultimate day of @CAMH_KCNI Summer Academy 2023, Akshay Mohan holds class on all things #machinelearning and #AI…</title>
-      <link>https://twitter.com/wake_sleep/status/1679867598165385219</link>
-      <description>RT @DanielFelsky: On our penultimate day of @CAMH_KCNI Summer Academy 2023, Akshay Mohan holds class on all things #machinelearning and #AI…</description>
-      <content:encoded>RT @DanielFelsky: On our penultimate day of @CAMH_KCNI Summer Academy 2023, Akshay Mohan holds class on all things #machinelearning and #AI…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1679867598165385219"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NetSciConf: Last day of #NetSci2023, and as just announced: soon the wait begins for #NetSci2024 in Québec. 
-
-Québec is a special place…</title>
-      <link>https://twitter.com/manlius84/status/1679868207803269120</link>
-      <description>RT @NetSciConf: Last day of #NetSci2023, and as just announced: soon the wait begins for #NetSci2024 in Québec. 
-
-Québec is a special place…</description>
-      <content:encoded>RT @NetSciConf: Last day of #NetSci2023, and as just announced: soon the wait begins for #NetSci2024 in Québec. 
-
-Québec is a special place…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1679868207803269120"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 14:59:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Evident AI Index, a report from market research firm @Evident_HQ measures the use of AI in the banking industry.
-
-Here are some of the most important takeaways from their latest report: https://t.co/LdLJsqHFmK</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1679868355778314242</link>
-      <description>The Evident AI Index, a report from market research firm @Evident_HQ measures the use of AI in the banking industry.
-
-Here are some of the most important takeaways from their latest report: https://t.co/LdLJsqHFmK</description>
-      <content:encoded>The Evident AI Index, a report from market research firm @Evident_HQ measures the use of AI in the banking industry.
-
-Here are some of the most important takeaways from their latest report: https://t.co/LdLJsqHFmK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1679868355778314242"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>In @SciSignal, researchers provide direct evidence for a proposed—but until now unproven—hypothesis that the exchange factor #RhoGEF “piggybacks” on microtubule motor proteins to drive cytokinesis, a critical step in #CellDivision. https://t.co/44XOUiEUAt https://t.co/qY1C2AmumY</title>
-      <link>https://twitter.com/ScienceMagazine/status/1679868416486776835</link>
-      <description>In @SciSignal, researchers provide direct evidence for a proposed—but until now unproven—hypothesis that the exchange factor #RhoGEF “piggybacks” on microtubule motor proteins to drive cytokinesis, a critical step in #CellDivision. https://t.co/44XOUiEUAt https://t.co/qY1C2AmumY</description>
-      <content:encoded>In @SciSignal, researchers provide direct evidence for a proposed—but until now unproven—hypothesis that the exchange factor #RhoGEF “piggybacks” on microtubule motor proteins to drive cytokinesis, a critical step in #CellDivision. https://t.co/44XOUiEUAt https://t.co/qY1C2AmumY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1679868416486776835"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1AXbAKWYAE1yAw.jpg" length="1200" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 15:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here's a bit of mine but also check out the other fascinating perspectives on this topic. https://t.co/eKGs4xfHx8 https://t.co/fJ3omSvhSP</title>
-      <link>https://twitter.com/andpru/status/1679868552772239360</link>
-      <description>Here's a bit of mine but also check out the other fascinating perspectives on this topic. https://t.co/eKGs4xfHx8 https://t.co/fJ3omSvhSP</description>
-      <content:encoded>Here's a bit of mine but also check out the other fascinating perspectives on this topic. https://t.co/eKGs4xfHx8 https://t.co/fJ3omSvhSP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1679868552772239360"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1AXithXgAEmqUq.jpg" length="864" type="photo"/>
-      <pubDate>Fri, 14 Jul 2023 15:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @blaiseaguera: Beautiful new work from the SelfOrg team elaborating on Neural Cellular Automata: how, under biologically realistic const…</title>
-      <link>https://twitter.com/tyrell_turing/status/1679868710373191683</link>
-      <description>RT @blaiseaguera: Beautiful new work from the SelfOrg team elaborating on Neural Cellular Automata: how, under biologically realistic const…</description>
-      <content:encoded>RT @blaiseaguera: Beautiful new work from the SelfOrg team elaborating on Neural Cellular Automata: how, under biologically realistic const…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1679868710373191683"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 15:01:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Check out our latest Creature Column from @nicolasrohner about cavefish, which describes why they are great models to study the genetic basis of morphological traits, behavior, metabolism, and more.
-https://t.co/roel88f0Ag</title>
-      <link>https://twitter.com/naturemethods/status/1679869107473207299</link>
-      <description>Check out our latest Creature Column from @nicolasrohner about cavefish, which describes why they are great models to study the genetic basis of morphological traits, behavior, metabolism, and more.
-https://t.co/roel88f0Ag</description>
-      <content:encoded>Check out our latest Creature Column from @nicolasrohner about cavefish, which describes why they are great models to study the genetic basis of morphological traits, behavior, metabolism, and more.
-https://t.co/roel88f0Ag&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1679869107473207299"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Fri, 14 Jul 2023 15:03:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jul 2023 13:21:24 +0000</lastBuildDate>
     <item>
       <title>🧐We are looking for our dream PR team to support the European quantum technologies and science creatively shine.
 
@@ -1849,6 +1783,91 @@ https://t.co/PJARsblTk…</description>
       <content:encoded>RT @Zeynep_Akbal_: I am happy to announce that my dissertation will soon be published as a monograph @transcriptweb 
 https://t.co/PJARsblTk…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1680190531383488512"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sat, 15 Jul 2023 12:20:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nothing remarkable here, just an octopus riding an eel
+
+[📹 Harrison Stubbs: https://t.co/kW3dhZEDOU]
+https://t.co/krP8BO4qQy</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680194852259069953</link>
+      <description>Nothing remarkable here, just an octopus riding an eel
+
+[📹 Harrison Stubbs: https://t.co/kW3dhZEDOU]
+https://t.co/krP8BO4qQy</description>
+      <content:encoded>Nothing remarkable here, just an octopus riding an eel
+
+[📹 Harrison Stubbs: https://t.co/kW3dhZEDOU]
+https://t.co/krP8BO4qQy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680194852259069953"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1301316088156884992/pu/img/S4eZZQEgSj426zS1.jpg" length="720" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 12:37:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Second-order dispersion and its effect on multiphoton imaging were introduced in the first part of the DeeperLook series. Here, we'll consider a few additional effects as well as look at the simplest form of dispersion compensation: the prism pre-chirper. 
+https://t.co/L2i7U7sjXN https://t.co/k29xx9Ys85</title>
+      <link>https://twitter.com/Scientifica_Int/status/1680195012162723840</link>
+      <description>Second-order dispersion and its effect on multiphoton imaging were introduced in the first part of the DeeperLook series. Here, we'll consider a few additional effects as well as look at the simplest form of dispersion compensation: the prism pre-chirper. 
+https://t.co/L2i7U7sjXN https://t.co/k29xx9Ys85</description>
+      <content:encoded>Second-order dispersion and its effect on multiphoton imaging were introduced in the first part of the DeeperLook series. Here, we'll consider a few additional effects as well as look at the simplest form of dispersion compensation: the prism pre-chirper. 
+https://t.co/L2i7U7sjXN https://t.co/k29xx9Ys85&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1680195012162723840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1FAdVPXgAA3mK8.jpg" length="1200" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 12:38:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack of the Clones: Cosima Tatiana Baldari recommends this @NatureComms work from @GIST_science &amp;amp; others showing how T cells shed TCRs associated with microvillar particles by trogocytic molting, enabling clonal expansion upon activation.
+
+https://t.co/aDQf2AMd2Y https://t.co/0bBFSdFwKT</title>
+      <link>https://twitter.com/H1Connect/status/1680195514984435714</link>
+      <description>Attack of the Clones: Cosima Tatiana Baldari recommends this @NatureComms work from @GIST_science &amp;amp; others showing how T cells shed TCRs associated with microvillar particles by trogocytic molting, enabling clonal expansion upon activation.
+
+https://t.co/aDQf2AMd2Y https://t.co/0bBFSdFwKT</description>
+      <content:encoded>Attack of the Clones: Cosima Tatiana Baldari recommends this @NatureComms work from @GIST_science &amp;amp; others showing how T cells shed TCRs associated with microvillar particles by trogocytic molting, enabling clonal expansion upon activation.
+
+https://t.co/aDQf2AMd2Y https://t.co/0bBFSdFwKT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/H1Connect/status/1680195514984435714"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1FA6pjXwAAgt1V.jpg" length="764" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 12:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The bearded vulture is the only known animal whose diet is almost exclusively bone 
+
+[read more: https://t.co/qB0mtM0TqT] https://t.co/yGLauWlU47</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680200542528897024</link>
+      <description>The bearded vulture is the only known animal whose diet is almost exclusively bone 
+
+[read more: https://t.co/qB0mtM0TqT] https://t.co/yGLauWlU47</description>
+      <content:encoded>The bearded vulture is the only known animal whose diet is almost exclusively bone 
+
+[read more: https://t.co/qB0mtM0TqT] https://t.co/yGLauWlU47&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680200542528897024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1EbHVqWwAAsJmC.jpg" length="680" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polignac's conjecture states that every positive even number can be expressed as the difference of two consecutive primes in infinitely many ways. The conjecture has never been proven true or refuted. https://t.co/HHWeAriCeD</title>
+      <link>https://twitter.com/fermatslibrary/status/1680200812297965571</link>
+      <description>Polignac's conjecture states that every positive even number can be expressed as the difference of two consecutive primes in infinitely many ways. The conjecture has never been proven true or refuted. https://t.co/HHWeAriCeD</description>
+      <content:encoded>Polignac's conjecture states that every positive even number can be expressed as the difference of two consecutive primes in infinitely many ways. The conjecture has never been proven true or refuted. https://t.co/HHWeAriCeD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1680200812297965571"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1FFu9AWcAAL4FV.png" length="1200" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 13:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Basic research funding for all professors, pretty revolutionary: https://t.co/HgDOaUe9r0</title>
+      <link>https://twitter.com/PessoaBrain/status/1680204285517103105</link>
+      <description>Basic research funding for all professors, pretty revolutionary: https://t.co/HgDOaUe9r0</description>
+      <content:encoded>Basic research funding for all professors, pretty revolutionary: https://t.co/HgDOaUe9r0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1680204285517103105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sat, 15 Jul 2023 13:14:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>The exact physiological basis of crown shyness is not certain. The phenomenon has been discussed in scientific literature since the 1920s. A prominent hypothesis is that canopy shyness has to do with mutual light sensing by adjacent plants 
+
+[read more: https://t.co/SfCYqzXfg7] https://t.co/SxyOKUhiFo</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680205574234058754</link>
+      <description>The exact physiological basis of crown shyness is not certain. The phenomenon has been discussed in scientific literature since the 1920s. A prominent hypothesis is that canopy shyness has to do with mutual light sensing by adjacent plants 
+
+[read more: https://t.co/SfCYqzXfg7] https://t.co/SxyOKUhiFo</description>
+      <content:encoded>The exact physiological basis of crown shyness is not certain. The phenomenon has been discussed in scientific literature since the 1920s. A prominent hypothesis is that canopy shyness has to do with mutual light sensing by adjacent plants 
+
+[read more: https://t.co/SfCYqzXfg7] https://t.co/SxyOKUhiFo&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680205574234058754"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1E5-ciWIAEQGDO.jpg" length="511" type="photo"/>
+      <pubDate>Sat, 15 Jul 2023 13:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
