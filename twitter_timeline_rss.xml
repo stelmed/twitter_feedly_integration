@@ -6,153 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Jul 2023 15:16:48 +0000</lastBuildDate>
-    <item>
-      <title>Glasswing butterflies (Methona confusa) use mostly transparent wings to hide in plain sight. 
-
-This is how they make their wings transparent: https://t.co/neEyImcIkq 
-
-[📹 Adrian Kozakiewicz: https://t.co/rSZyBATMYm]
-https://t.co/FXNorCi59z</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680132337378504704</link>
-      <description>Glasswing butterflies (Methona confusa) use mostly transparent wings to hide in plain sight. 
-
-This is how they make their wings transparent: https://t.co/neEyImcIkq 
-
-[📹 Adrian Kozakiewicz: https://t.co/rSZyBATMYm]
-https://t.co/FXNorCi59z</description>
-      <content:encoded>Glasswing butterflies (Methona confusa) use mostly transparent wings to hide in plain sight. 
-
-This is how they make their wings transparent: https://t.co/neEyImcIkq 
-
-[📹 Adrian Kozakiewicz: https://t.co/rSZyBATMYm]
-https://t.co/FXNorCi59z&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680132337378504704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1448913276092534831/pu/img/q1GbpZUViWcXufNE.jpg" length="640" type="photo"/>
-      <pubDate>Sat, 15 Jul 2023 08:28:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔮 For those interested in the tech behind #AmadeusGPT, the way this works is we built a series of retrieval-augmented LLMs to limit factual errors/bad code, as we execute it immediately. Your prompts can be auto-rephrased with another LLM to match our core API style, and … ⬇️ https://t.co/DT0LpMm4DI</title>
-      <link>https://twitter.com/TrackingActions/status/1680134301583650816</link>
-      <description>🔮 For those interested in the tech behind #AmadeusGPT, the way this works is we built a series of retrieval-augmented LLMs to limit factual errors/bad code, as we execute it immediately. Your prompts can be auto-rephrased with another LLM to match our core API style, and … ⬇️ https://t.co/DT0LpMm4DI</description>
-      <content:encoded>🔮 For those interested in the tech behind #AmadeusGPT, the way this works is we built a series of retrieval-augmented LLMs to limit factual errors/bad code, as we execute it immediately. Your prompts can be auto-rephrased with another LLM to match our core API style, and … ⬇️ https://t.co/DT0LpMm4DI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1680134301583650816"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 15 Jul 2023 08:36:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>any errors are attempted with another LLM code fixer (in the demo app due to cost we limit this, and rather print “error” than false code/analysis btw!). Lastly, our “explainer LLM” interprets the results, but this is speculative 🤗. ⬇️</title>
-      <link>https://twitter.com/TrackingActions/status/1680134305211613184</link>
-      <description>any errors are attempted with another LLM code fixer (in the demo app due to cost we limit this, and rather print “error” than false code/analysis btw!). Lastly, our “explainer LLM” interprets the results, but this is speculative 🤗. ⬇️</description>
-      <content:encoded>any errors are attempted with another LLM code fixer (in the demo app due to cost we limit this, and rather print “error” than false code/analysis btw!). Lastly, our “explainer LLM” interprets the results, but this is speculative 🤗. ⬇️&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1680134305211613184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 15 Jul 2023 08:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>To overcome token limits @shaokaiyeah built a dual-memory system, inspired by “fast and slow” systems in neuro🧠, which can store to disk or RAM! This can be quickly recalled and loaded by the user. In many ways, #AmadeusGPT is like it’s own OS, with a special syntax 🪄🔮🤓 /end</title>
-      <link>https://twitter.com/TrackingActions/status/1680134308453838849</link>
-      <description>To overcome token limits @shaokaiyeah built a dual-memory system, inspired by “fast and slow” systems in neuro🧠, which can store to disk or RAM! This can be quickly recalled and loaded by the user. In many ways, #AmadeusGPT is like it’s own OS, with a special syntax 🪄🔮🤓 /end</description>
-      <content:encoded>To overcome token limits @shaokaiyeah built a dual-memory system, inspired by “fast and slow” systems in neuro🧠, which can store to disk or RAM! This can be quickly recalled and loaded by the user. In many ways, #AmadeusGPT is like it’s own OS, with a special syntax 🪄🔮🤓 /end&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1680134308453838849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 15 Jul 2023 08:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congrats Tesla Team! https://t.co/FPUgBqBpdY</title>
-      <link>https://twitter.com/elonmusk/status/1680140839107051520</link>
-      <description>Congrats Tesla Team! https://t.co/FPUgBqBpdY</description>
-      <content:encoded>Congrats Tesla Team! https://t.co/FPUgBqBpdY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1680140839107051520"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 15 Jul 2023 09:02:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nice talking with Kristoffer Viita from @ttnyhetsbyran on the impact of #AI on culture and entertainment business, related to the #HollywoodStrike 
-https://t.co/ND6tqGy6mI
-#ResponsibleAI</title>
-      <link>https://twitter.com/vdignum/status/1680143974277758976</link>
-      <description>Nice talking with Kristoffer Viita from @ttnyhetsbyran on the impact of #AI on culture and entertainment business, related to the #HollywoodStrike 
-https://t.co/ND6tqGy6mI
-#ResponsibleAI</description>
-      <content:encoded>Nice talking with Kristoffer Viita from @ttnyhetsbyran on the impact of #AI on culture and entertainment business, related to the #HollywoodStrike 
-https://t.co/ND6tqGy6mI
-#ResponsibleAI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1680143974277758976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 15 Jul 2023 09:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is a 3D HREM visualization by Richard Behringer of a human embryo in its fifth week 
-
-It has a fishlike appearance because humans &amp;amp; fish share some DNA &amp;amp; a common ancestor, not because we go through a “fish stage”
-
-[read more: https://t.co/oZorYW0WFh]
-https://t.co/OLLAF4QxYh https://t.co/sWG1r6pULh</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680152474378706944</link>
-      <description>This is a 3D HREM visualization by Richard Behringer of a human embryo in its fifth week 
-
-It has a fishlike appearance because humans &amp;amp; fish share some DNA &amp;amp; a common ancestor, not because we go through a “fish stage”
-
-[read more: https://t.co/oZorYW0WFh]
-https://t.co/OLLAF4QxYh https://t.co/sWG1r6pULh</description>
-      <content:encoded>This is a 3D HREM visualization by Richard Behringer of a human embryo in its fifth week 
-
-It has a fishlike appearance because humans &amp;amp; fish share some DNA &amp;amp; a common ancestor, not because we go through a “fish stage”
-
-[read more: https://t.co/oZorYW0WFh]
-https://t.co/OLLAF4QxYh https://t.co/sWG1r6pULh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680152474378706944"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1205671458002886656/pu/img/wiVnIpSrl6OvZ94p.jpg" length="736" type="photo"/>
-      <pubDate>Sat, 15 Jul 2023 09:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In 1924, The Metropolitan Museum released two films about Arms and Armor. "A Visit to the Armor Galleries" was especially popular and includes this famous scene that shows the flexibility of a medieval armor
-
-[video + read more: https://t.co/lusuuWu9yU]
-https://t.co/W7BjDnUbbK</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680153627225194497</link>
-      <description>In 1924, The Metropolitan Museum released two films about Arms and Armor. "A Visit to the Armor Galleries" was especially popular and includes this famous scene that shows the flexibility of a medieval armor
-
-[video + read more: https://t.co/lusuuWu9yU]
-https://t.co/W7BjDnUbbK</description>
-      <content:encoded>In 1924, The Metropolitan Museum released two films about Arms and Armor. "A Visit to the Armor Galleries" was especially popular and includes this famous scene that shows the flexibility of a medieval armor
-
-[video + read more: https://t.co/lusuuWu9yU]
-https://t.co/W7BjDnUbbK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680153627225194497"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1615707876152020992/pu/img/Q4Gw_lxYbBNdKIp-.jpg" length="502" type="photo"/>
-      <pubDate>Sat, 15 Jul 2023 09:53:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transcriptomic analysis identifies synapse-enriched lncRNAs required for glutamatergic synapse development and fear memory consolidation. https://t.co/m83lo59hiN https://t.co/aIinO6cdc9</title>
-      <link>https://twitter.com/bxv_neurosci/status/1680155254560808961</link>
-      <description>Transcriptomic analysis identifies synapse-enriched lncRNAs required for glutamatergic synapse development and fear memory consolidation. https://t.co/m83lo59hiN https://t.co/aIinO6cdc9</description>
-      <content:encoded>Transcriptomic analysis identifies synapse-enriched lncRNAs required for glutamatergic synapse development and fear memory consolidation. https://t.co/m83lo59hiN https://t.co/aIinO6cdc9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/bxv_neurosci/status/1680155254560808961"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1EcTLUaIAEQNmV.png" length="252" type="photo"/>
-      <pubDate>Sat, 15 Jul 2023 10:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Today is #worldyouthskillsday💡
-
-ERC-funded research shows that each newly acquired #skill builds upon previous ones, forming the foundation of human capital. Without a strong base, addressing future skill deficiencies becomes challenging 👉 https://t.co/3jtYdH8NpK 
-
-#YouthLead https://t.co/kSQk2ocTAR</title>
-      <link>https://twitter.com/ERC_Research/status/1680155336660111361</link>
-      <description>Today is #worldyouthskillsday💡
-
-ERC-funded research shows that each newly acquired #skill builds upon previous ones, forming the foundation of human capital. Without a strong base, addressing future skill deficiencies becomes challenging 👉 https://t.co/3jtYdH8NpK 
-
-#YouthLead https://t.co/kSQk2ocTAR</description>
-      <content:encoded>Today is #worldyouthskillsday💡
-
-ERC-funded research shows that each newly acquired #skill builds upon previous ones, forming the foundation of human capital. Without a strong base, addressing future skill deficiencies becomes challenging 👉 https://t.co/3jtYdH8NpK 
-
-#YouthLead https://t.co/kSQk2ocTAR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1680155336660111361"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1680155245035528193/pu/img/UlxOWe4DZDSYluDK.jpg" length="1200" type="photo"/>
-      <pubDate>Sat, 15 Jul 2023 10:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Single-cell analysis of the nervous system at small and large scales with instant partitions  https://t.co/9HJEU12XJy #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1680159132781871104</link>
-      <description>Single-cell analysis of the nervous system at small and large scales with instant partitions  https://t.co/9HJEU12XJy #biorxiv_neursci</description>
-      <content:encoded>Single-cell analysis of the nervous system at small and large scales with instant partitions  https://t.co/9HJEU12XJy #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680159132781871104"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 15 Jul 2023 10:15:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visualization and estimation of stroke infarct volumes in rodents  https://t.co/MCcTDYkoba #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1680159234523103232</link>
-      <description>Visualization and estimation of stroke infarct volumes in rodents  https://t.co/MCcTDYkoba #biorxiv_neursci</description>
-      <content:encoded>Visualization and estimation of stroke infarct volumes in rodents  https://t.co/MCcTDYkoba #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680159234523103232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 15 Jul 2023 10:15:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Jul 2023 16:21:54 +0000</lastBuildDate>
     <item>
       <title>Neural representation of spatial and non-spatial auditory attention in EEG signals  https://t.co/qSSs4Ib9Xi #biorxiv_neursci</title>
       <link>https://twitter.com/biorxiv_neursci/status/1680159332913012736</link>
@@ -1853,6 +1707,141 @@ https://t.co/7XXIj9Xrkx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <content:encoded>Researchers teach an AI to write better chart captions: A new dataset can help scientists develop automatic systems that generate richer, more descriptive captions for online charts. https://t.co/fmqY7itLx9 https://t.co/dFsLt6Gl3g&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1680594443152379905"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F1KrvKYWYAEmvzc.jpg" length="1200" type="photo"/>
       <pubDate>Sun, 16 Jul 2023 15:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Review in @NatRevPhys focuses on quantum computing for financial applications and provides a summary for physicists on potential advantages and limitations of quantum techniques, as well as challenges that they could help tackle. 🔒 https://t.co/WULm2saItu https://t.co/0svrD0aema</title>
+      <link>https://twitter.com/NaturePortfolio/status/1680600447592046596</link>
+      <description>A Review in @NatRevPhys focuses on quantum computing for financial applications and provides a summary for physicists on potential advantages and limitations of quantum techniques, as well as challenges that they could help tackle. 🔒 https://t.co/WULm2saItu https://t.co/0svrD0aema</description>
+      <content:encoded>A Review in @NatRevPhys focuses on quantum computing for financial applications and provides a summary for physicists on potential advantages and limitations of quantum techniques, as well as challenges that they could help tackle. 🔒 https://t.co/WULm2saItu https://t.co/0svrD0aema&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NaturePortfolio/status/1680600447592046596"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1KxLxfWYAQAz4v.jpg" length="1066" type="photo"/>
+      <pubDate>Sun, 16 Jul 2023 15:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nice to be back at the monastery Schöntal for the annual retreat of the Interdisciplinary Center for Neurosciences #IZN @UniHeidelberg 
+Looking forward to insightful scientific talks and discussions over local beers https://t.co/1C1K26oAIt</title>
+      <link>https://twitter.com/SimWieg/status/1680601063387197441</link>
+      <description>Nice to be back at the monastery Schöntal for the annual retreat of the Interdisciplinary Center for Neurosciences #IZN @UniHeidelberg 
+Looking forward to insightful scientific talks and discussions over local beers https://t.co/1C1K26oAIt</description>
+      <content:encoded>Nice to be back at the monastery Schöntal for the annual retreat of the Interdisciplinary Center for Neurosciences #IZN @UniHeidelberg 
+Looking forward to insightful scientific talks and discussions over local beers https://t.co/1C1K26oAIt&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/SimWieg/status/1680601063387197441"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1KxwGMXsAAojAA.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 16 Jul 2023 15:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tower climber Kevin Schmidt shows what it takes to change a lightbulb on the top of a 457 meter high television broadcast antenna over the South Dakota plains 
+
+[source and full video: https://t.co/9kpyYrXj2a] https://t.co/So9uhjZRjk</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680604150650793984</link>
+      <description>Tower climber Kevin Schmidt shows what it takes to change a lightbulb on the top of a 457 meter high television broadcast antenna over the South Dakota plains 
+
+[source and full video: https://t.co/9kpyYrXj2a] https://t.co/So9uhjZRjk</description>
+      <content:encoded>Tower climber Kevin Schmidt shows what it takes to change a lightbulb on the top of a 457 meter high television broadcast antenna over the South Dakota plains 
+
+[source and full video: https://t.co/9kpyYrXj2a] https://t.co/So9uhjZRjk&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680604150650793984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1680604026826547201/pu/img/fmC3ZRe3DB_EIpDn.jpg" length="720" type="photo"/>
+      <pubDate>Sun, 16 Jul 2023 15:43:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watching on @Disney the farewell concert of Elton @eltonofficial on @Dodgers stadium. I was not born yet when he started his career but then joined the crowd of fans in my teenage years. Amazing realizing this and appreciating his talent! 🫶</title>
+      <link>https://twitter.com/ewadorotaz/status/1680607790883037184</link>
+      <description>Watching on @Disney the farewell concert of Elton @eltonofficial on @Dodgers stadium. I was not born yet when he started his career but then joined the crowd of fans in my teenage years. Amazing realizing this and appreciating his talent! 🫶</description>
+      <content:encoded>Watching on @Disney the farewell concert of Elton @eltonofficial on @Dodgers stadium. I was not born yet when he started his career but then joined the crowd of fans in my teenage years. Amazing realizing this and appreciating his talent! 🫶&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1680607790883037184"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 16 Jul 2023 15:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>This single game in the Wimbledon final. 27 minutes of brilliance. https://t.co/kGEUjgT64A</title>
+      <link>https://twitter.com/andpru/status/1680609083504689153</link>
+      <description>This single game in the Wimbledon final. 27 minutes of brilliance. https://t.co/kGEUjgT64A</description>
+      <content:encoded>This single game in the Wimbledon final. 27 minutes of brilliance. https://t.co/kGEUjgT64A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1680609083504689153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F1K5DBIWYAI8_Tu.jpg" length="498" type="photo"/>
+      <pubDate>Sun, 16 Jul 2023 16:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Most puffer fish have four, continually growing teeth in the front of their mouths that form a “beak,” enabling them to chomp through the hard shells of crustaceans and mollusks.
+
+[📹barry_thepuffer: https://t.co/7H1qLEwbPQ]
+https://t.co/H7Axp8Gel1</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680609418071756801</link>
+      <description>Most puffer fish have four, continually growing teeth in the front of their mouths that form a “beak,” enabling them to chomp through the hard shells of crustaceans and mollusks.
+
+[📹barry_thepuffer: https://t.co/7H1qLEwbPQ]
+https://t.co/H7Axp8Gel1</description>
+      <content:encoded>Most puffer fish have four, continually growing teeth in the front of their mouths that form a “beak,” enabling them to chomp through the hard shells of crustaceans and mollusks.
+
+[📹barry_thepuffer: https://t.co/7H1qLEwbPQ]
+https://t.co/H7Axp8Gel1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680609418071756801"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1680492376052170754/pu/img/sYJ7mYhcjkhuxaB0.jpg" length="675" type="photo"/>
+      <pubDate>Sun, 16 Jul 2023 16:04:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Someone submitted the link to Hacker News:
+
+https://t.co/xoJqfSYppK
+
+I'm not really a member of that community, but I'll try to watch the thread for interesting questions or ideas.</title>
+      <link>https://twitter.com/AndrewGYork/status/1680610459706327041</link>
+      <description>Someone submitted the link to Hacker News:
+
+https://t.co/xoJqfSYppK
+
+I'm not really a member of that community, but I'll try to watch the thread for interesting questions or ideas.</description>
+      <content:encoded>Someone submitted the link to Hacker News:
+
+https://t.co/xoJqfSYppK
+
+I'm not really a member of that community, but I'll try to watch the thread for interesting questions or ideas.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AndrewGYork/status/1680610459706327041"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 16 Jul 2023 16:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Once again I missing #inhibitiongrc. I attended the first one organized by Istvan Mody and Peter Somogyi. Man … that first one ☝️. I guess you never forget the first ☝️! 🙈🙊🙉 
+
+Look for @CoherentLaser logo at the GRC and enjoy conferencing. https://t.co/WDtVx0dkwj</title>
+      <link>https://twitter.com/ewadorotaz/status/1680611180685975552</link>
+      <description>Once again I missing #inhibitiongrc. I attended the first one organized by Istvan Mody and Peter Somogyi. Man … that first one ☝️. I guess you never forget the first ☝️! 🙈🙊🙉 
+
+Look for @CoherentLaser logo at the GRC and enjoy conferencing. https://t.co/WDtVx0dkwj</description>
+      <content:encoded>Once again I missing #inhibitiongrc. I attended the first one organized by Istvan Mody and Peter Somogyi. Man … that first one ☝️. I guess you never forget the first ☝️! 🙈🙊🙉 
+
+Look for @CoherentLaser logo at the GRC and enjoy conferencing. https://t.co/WDtVx0dkwj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1680611180685975552"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 16 Jul 2023 16:11:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good read 👇 https://t.co/hRhrioaPeK</title>
+      <link>https://twitter.com/vdignum/status/1680612153798131713</link>
+      <description>Good read 👇 https://t.co/hRhrioaPeK</description>
+      <content:encoded>Good read 👇 https://t.co/hRhrioaPeK&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/vdignum/status/1680612153798131713"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 16 Jul 2023 16:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matej Kren’s “Idiom” is an art installation where hundreds of books are stacked in a cylindrical tower. Mirrors placed at the bottom and the top give the exhibit the illusion of being infinite
+
+[source, read more: https://t.co/40yyRpSlGf]
+https://t.co/WSdRzKtHlO</title>
+      <link>https://twitter.com/Rainmaker1973/status/1680613020928450560</link>
+      <description>Matej Kren’s “Idiom” is an art installation where hundreds of books are stacked in a cylindrical tower. Mirrors placed at the bottom and the top give the exhibit the illusion of being infinite
+
+[source, read more: https://t.co/40yyRpSlGf]
+https://t.co/WSdRzKtHlO</description>
+      <content:encoded>Matej Kren’s “Idiom” is an art installation where hundreds of books are stacked in a cylindrical tower. Mirrors placed at the bottom and the top give the exhibit the illusion of being infinite
+
+[source, read more: https://t.co/40yyRpSlGf]
+https://t.co/WSdRzKtHlO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680613020928450560"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1360343881687138306/pu/img/X4z-735zum0n8_aH.jpg" length="406" type="photo"/>
+      <pubDate>Sun, 16 Jul 2023 16:19:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @StephenMaren: If you are a scientist from an underrepresented group and would like an invitation to the annual ACNP meeting please reac…</title>
+      <link>https://twitter.com/PessoaBrain/status/1680613089496932352</link>
+      <description>RT @StephenMaren: If you are a scientist from an underrepresented group and would like an invitation to the annual ACNP meeting please reac…</description>
+      <content:encoded>RT @StephenMaren: If you are a scientist from an underrepresented group and would like an invitation to the annual ACNP meeting please reac…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1680613089496932352"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 16 Jul 2023 16:19:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research: Redistribution of the astrocyte phenotypes in the medial vestibular nuclei after unilateral labyrinthectomy: Astrocytes are highly heterogeneous and involved in different aspects of fundamental functions in the central nervous… #Neuroscience https://t.co/oqxM7Nj7ct</title>
+      <link>https://twitter.com/FrontNeurosci/status/1680613654306361345</link>
+      <description>New Research: Redistribution of the astrocyte phenotypes in the medial vestibular nuclei after unilateral labyrinthectomy: Astrocytes are highly heterogeneous and involved in different aspects of fundamental functions in the central nervous… #Neuroscience https://t.co/oqxM7Nj7ct</description>
+      <content:encoded>New Research: Redistribution of the astrocyte phenotypes in the medial vestibular nuclei after unilateral labyrinthectomy: Astrocytes are highly heterogeneous and involved in different aspects of fundamental functions in the central nervous… #Neuroscience https://t.co/oqxM7Nj7ct&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1680613654306361345"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 16 Jul 2023 16:21:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
