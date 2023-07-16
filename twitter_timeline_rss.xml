@@ -6,36 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Jul 2023 19:13:53 +0000</lastBuildDate>
-    <item>
-      <title>The bearded vulture is the only known animal whose diet is almost exclusively bone 
-
-[read more: https://t.co/qB0mtM0TqT] https://t.co/yGLauWlU47</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680200542528897024</link>
-      <description>The bearded vulture is the only known animal whose diet is almost exclusively bone 
-
-[read more: https://t.co/qB0mtM0TqT] https://t.co/yGLauWlU47</description>
-      <content:encoded>The bearded vulture is the only known animal whose diet is almost exclusively bone 
-
-[read more: https://t.co/qB0mtM0TqT] https://t.co/yGLauWlU47&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680200542528897024"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1EbHVqWwAAsJmC.jpg" length="680" type="photo"/>
-      <pubDate>Sat, 15 Jul 2023 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polignac's conjecture states that every positive even number can be expressed as the difference of two consecutive primes in infinitely many ways. The conjecture has never been proven true or refuted. https://t.co/HHWeAriCeD</title>
-      <link>https://twitter.com/fermatslibrary/status/1680200812297965571</link>
-      <description>Polignac's conjecture states that every positive even number can be expressed as the difference of two consecutive primes in infinitely many ways. The conjecture has never been proven true or refuted. https://t.co/HHWeAriCeD</description>
-      <content:encoded>Polignac's conjecture states that every positive even number can be expressed as the difference of two consecutive primes in infinitely many ways. The conjecture has never been proven true or refuted. https://t.co/HHWeAriCeD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1680200812297965571"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1FFu9AWcAAL4FV.png" length="1200" type="photo"/>
-      <pubDate>Sat, 15 Jul 2023 13:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Basic research funding for all professors, pretty revolutionary: https://t.co/HgDOaUe9r0</title>
-      <link>https://twitter.com/PessoaBrain/status/1680204285517103105</link>
-      <description>Basic research funding for all professors, pretty revolutionary: https://t.co/HgDOaUe9r0</description>
-      <content:encoded>Basic research funding for all professors, pretty revolutionary: https://t.co/HgDOaUe9r0&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1680204285517103105"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sat, 15 Jul 2023 13:14:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Jul 2023 20:17:35 +0000</lastBuildDate>
     <item>
       <title>The exact physiological basis of crown shyness is not certain. The phenomenon has been discussed in scientific literature since the 1920s. A prominent hypothesis is that canopy shyness has to do with mutual light sensing by adjacent plants 
 
@@ -1721,13 +1692,6 @@ Mondino proposed that the third ventricle serves as an “integrator” of body 
       <pubDate>Sun, 16 Jul 2023 17:45:21 +0000</pubDate>
     </item>
     <item>
-      <title>See you soon @MalacridaLab @cziscience! https://t.co/8uCuXd43t5</title>
-      <link>https://twitter.com/FitzpatrickLab/status/1680637883319721985</link>
-      <description>See you soon @MalacridaLab @cziscience! https://t.co/8uCuXd43t5</description>
-      <content:encoded>See you soon @MalacridaLab @cziscience! https://t.co/8uCuXd43t5&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1680637883319721985"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Sun, 16 Jul 2023 17:57:50 +0000</pubDate>
-    </item>
-    <item>
       <title>The students won't cheat in exams if they value their learning more than we value their grades.</title>
       <link>https://twitter.com/ProfFeynman/status/1680639536714625024</link>
       <description>The students won't cheat in exams if they value their learning more than we value their grades.</description>
@@ -1804,6 +1768,54 @@ https://t.co/sC4odJUaMw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @nytimes: Scientists have made a white paint that can make surfaces as much as eight degrees Fahrenheit cooler than air temperatures at…</description>
       <content:encoded>RT @nytimes: Scientists have made a white paint that can make surfaces as much as eight degrees Fahrenheit cooler than air temperatures at…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1680655592728190976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Sun, 16 Jul 2023 19:08:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @chrisjackwhyte: Very excited to share the latest preprint from the Shine lab with an all-star cast of coauthors
+
+@DrBMunn @jaaanaru @ma…</title>
+      <link>https://twitter.com/tyrell_turing/status/1680661012951752704</link>
+      <description>RT @chrisjackwhyte: Very excited to share the latest preprint from the Shine lab with an all-star cast of coauthors
+
+@DrBMunn @jaaanaru @ma…</description>
+      <content:encoded>RT @chrisjackwhyte: Very excited to share the latest preprint from the Shine lab with an all-star cast of coauthors
+
+@DrBMunn @jaaanaru @ma…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1680661012951752704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 16 Jul 2023 19:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new study in @ScienceAdvances indicates intensive exercise training can undo some of the effects of #Parkinsons disease by benefiting motor and cognitive performances. https://t.co/Aa0AGb6rxi https://t.co/62sCjUtYLy</title>
+      <link>https://twitter.com/ScienceMagazine/status/1680661103343271938</link>
+      <description>A new study in @ScienceAdvances indicates intensive exercise training can undo some of the effects of #Parkinsons disease by benefiting motor and cognitive performances. https://t.co/Aa0AGb6rxi https://t.co/62sCjUtYLy</description>
+      <content:encoded>A new study in @ScienceAdvances indicates intensive exercise training can undo some of the effects of #Parkinsons disease by benefiting motor and cognitive performances. https://t.co/Aa0AGb6rxi https://t.co/62sCjUtYLy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1680661103343271938"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1LoXXsXwAAU7dA.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 16 Jul 2023 19:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @leafs_s: On Connectome and Geometric Eigenmodes of Brain Activity: The Eigenbasis of the Mind?
+https://t.co/2AOanAnGl8</title>
+      <link>https://twitter.com/PessoaBrain/status/1680669167517663235</link>
+      <description>RT @leafs_s: On Connectome and Geometric Eigenmodes of Brain Activity: The Eigenbasis of the Mind?
+https://t.co/2AOanAnGl8</description>
+      <content:encoded>RT @leafs_s: On Connectome and Geometric Eigenmodes of Brain Activity: The Eigenbasis of the Mind?
+https://t.co/2AOanAnGl8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1680669167517663235"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Sun, 16 Jul 2023 20:02:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Faculty Review published! 'Endoscopic screening and surveillance for gastric cancer: challenges and opportunities,' by Vikneswaran Namasivayam @mysgh @dukenus
+#GastricIntestinalMetaplasia, #gastric #cancer #screening, #endoscopy
+
+https://t.co/2GKEHqPtao https://t.co/1tgiqd1Tey</title>
+      <link>https://twitter.com/H1Connect/status/1680669822466531330</link>
+      <description>New Faculty Review published! 'Endoscopic screening and surveillance for gastric cancer: challenges and opportunities,' by Vikneswaran Namasivayam @mysgh @dukenus
+#GastricIntestinalMetaplasia, #gastric #cancer #screening, #endoscopy
+
+https://t.co/2GKEHqPtao https://t.co/1tgiqd1Tey</description>
+      <content:encoded>New Faculty Review published! 'Endoscopic screening and surveillance for gastric cancer: challenges and opportunities,' by Vikneswaran Namasivayam @mysgh @dukenus
+#GastricIntestinalMetaplasia, #gastric #cancer #screening, #endoscopy
+
+https://t.co/2GKEHqPtao https://t.co/1tgiqd1Tey&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/H1Connect/status/1680669822466531330"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1LwS_4WYAMEQQB.jpg" length="1200" type="photo"/>
+      <pubDate>Sun, 16 Jul 2023 20:04:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
