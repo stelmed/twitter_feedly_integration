@@ -6,90 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Jul 2023 19:14:15 +0000</lastBuildDate>
-    <item>
-      <title>A novel polycistronic method tailored for engineering split GECIs  https://t.co/eAoXTFEsBE #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1680793354999570433</link>
-      <description>A novel polycistronic method tailored for engineering split GECIs  https://t.co/eAoXTFEsBE #biorxiv_neursci</description>
-      <content:encoded>A novel polycistronic method tailored for engineering split GECIs  https://t.co/eAoXTFEsBE #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680793354999570433"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 04:15:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @DanielFelsky: Made it to #Amsterdam for #AAIC23. Such a beautiful city. Can't wait to see my friends and colleagues and share all of th…</title>
-      <link>https://twitter.com/wake_sleep/status/1680795367795826688</link>
-      <description>RT @DanielFelsky: Made it to #Amsterdam for #AAIC23. Such a beautiful city. Can't wait to see my friends and colleagues and share all of th…</description>
-      <content:encoded>RT @DanielFelsky: Made it to #Amsterdam for #AAIC23. Such a beautiful city. Can't wait to see my friends and colleagues and share all of th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/wake_sleep/status/1680795367795826688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 04:23:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>To provide insights into human ribosome assembly, a new Science study used a combination of genome editing, #cryo-EM, and functional studies to reveal the structures of human pre-60S particles as they matured in the nucleolus and nucleus.
-
-Learn more: https://t.co/psex26N8ED https://t.co/IzHhSVoVG4</title>
-      <link>https://twitter.com/ScienceMagazine/status/1680797001796009985</link>
-      <description>To provide insights into human ribosome assembly, a new Science study used a combination of genome editing, #cryo-EM, and functional studies to reveal the structures of human pre-60S particles as they matured in the nucleolus and nucleus.
-
-Learn more: https://t.co/psex26N8ED https://t.co/IzHhSVoVG4</description>
-      <content:encoded>To provide insights into human ribosome assembly, a new Science study used a combination of genome editing, #cryo-EM, and functional studies to reveal the structures of human pre-60S particles as they matured in the nucleolus and nucleus.
-
-Learn more: https://t.co/psex26N8ED https://t.co/IzHhSVoVG4&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1680797001796009985"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1Nj9rCWIAUFOuM.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 04:30:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some folks write books or paint on their spare time. I code :-)
-Given the recent social network debacle, I made my own « micro-blogging » website. https://t.co/P7z89c7eYB</title>
-      <link>https://twitter.com/LecoqJerome/status/1680799043142955009</link>
-      <description>Some folks write books or paint on their spare time. I code :-)
-Given the recent social network debacle, I made my own « micro-blogging » website. https://t.co/P7z89c7eYB</description>
-      <content:encoded>Some folks write books or paint on their spare time. I code :-)
-Given the recent social network debacle, I made my own « micro-blogging » website. https://t.co/P7z89c7eYB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1680799043142955009"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 04:38:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Because I like to try new things, I built it on top of the decentralized polygon network. All posts are emitted on chain using a custom smart contract. It costs around 1c to post. I coded the entire stack from scratch.</title>
-      <link>https://twitter.com/LecoqJerome/status/1680799045231718400</link>
-      <description>Because I like to try new things, I built it on top of the decentralized polygon network. All posts are emitted on chain using a custom smart contract. It costs around 1c to post. I coded the entire stack from scratch.</description>
-      <content:encoded>Because I like to try new things, I built it on top of the decentralized polygon network. All posts are emitted on chain using a custom smart contract. It costs around 1c to post. I coded the entire stack from scratch.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1680799045231718400"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 04:38:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>As I improve the platform, I will post more personal things over there. I might explain how it all works too, if there is interest. It is an interesting code stack that involves, solidity, node.js, polygon, firebase, ipfs, moralis…</title>
-      <link>https://twitter.com/LecoqJerome/status/1680799047127564288</link>
-      <description>As I improve the platform, I will post more personal things over there. I might explain how it all works too, if there is interest. It is an interesting code stack that involves, solidity, node.js, polygon, firebase, ipfs, moralis…</description>
-      <content:encoded>As I improve the platform, I will post more personal things over there. I might explain how it all works too, if there is interest. It is an interesting code stack that involves, solidity, node.js, polygon, firebase, ipfs, moralis…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1680799047127564288"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 04:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>This could actually work as a full scale social network but for now the smart contract only accept posts from few wallet addresses :-)</title>
-      <link>https://twitter.com/LecoqJerome/status/1680799048847224832</link>
-      <description>This could actually work as a full scale social network but for now the smart contract only accept posts from few wallet addresses :-)</description>
-      <content:encoded>This could actually work as a full scale social network but for now the smart contract only accept posts from few wallet addresses :-)&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/LecoqJerome/status/1680799048847224832"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 04:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @geochurch: https://t.co/e3nHM4BG1a
-#ArtificialInteligence #LLMs #protein #MachineLearning #biotech</title>
-      <link>https://twitter.com/sofroniewn/status/1680799152907882496</link>
-      <description>RT @geochurch: https://t.co/e3nHM4BG1a
-#ArtificialInteligence #LLMs #protein #MachineLearning #biotech</description>
-      <content:encoded>RT @geochurch: https://t.co/e3nHM4BG1a
-#ArtificialInteligence #LLMs #protein #MachineLearning #biotech&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/sofroniewn/status/1680799152907882496"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 04:38:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @mbeisen: Since everyone insists on calling @eLife's new model "an experiment", we should also call the standard publishing model what i…</title>
-      <link>https://twitter.com/manlius84/status/1680805947248197639</link>
-      <description>RT @mbeisen: Since everyone insists on calling @eLife's new model "an experiment", we should also call the standard publishing model what i…</description>
-      <content:encoded>RT @mbeisen: Since everyone insists on calling @eLife's new model "an experiment", we should also call the standard publishing model what i…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1680805947248197639"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 05:05:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @russpoldrack: Is a Glass of Wine Harmless? Wrong Question https://t.co/31PcxZTUME - great piece by @ProfEmilyOster on the complexities…</title>
-      <link>https://twitter.com/blamlab/status/1680808749345443840</link>
-      <description>RT @russpoldrack: Is a Glass of Wine Harmless? Wrong Question https://t.co/31PcxZTUME - great piece by @ProfEmilyOster on the complexities…</description>
-      <content:encoded>RT @russpoldrack: Is a Glass of Wine Harmless? Wrong Question https://t.co/31PcxZTUME - great piece by @ProfEmilyOster on the complexities…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/blamlab/status/1680808749345443840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 05:16:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Jul 2023 20:19:23 +0000</lastBuildDate>
     <item>
       <title>🧠🐭🔭 Neuroscience is in a new era: we’ve never been able to collect as much neural &amp;amp; behavior data as we can now,🔋 by new eng &amp;amp; AI.
 
@@ -1883,13 +1800,6 @@ https://t.co/AWp8y9PHUf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <pubDate>Mon, 17 Jul 2023 17:16:37 +0000</pubDate>
     </item>
     <item>
-      <title>https://t.co/hdu7x5Gd7V</title>
-      <link>https://twitter.com/ewadorotaz/status/1680991497603149827</link>
-      <description>https://t.co/hdu7x5Gd7V</description>
-      <content:encoded>https://t.co/hdu7x5Gd7V&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1680991497603149827"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 17:22:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Have you registered yet? 🤔 
 
 Attend the live webinar to join the conversation with @FiblaLaia and @DeltaSpencer to participate in the Q&amp;amp;A! https://t.co/TjNMBOEbAl</title>
@@ -2133,6 +2043,123 @@ https://t.co/ux4WPQXoUB</description>
 https://t.co/ux4WPQXoUB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681018210059993090"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1573367070015852547/pu/img/GbdQoIZNvGayVy1N.jpg" length="675" type="photo"/>
       <pubDate>Mon, 17 Jul 2023 19:09:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combining the characteristics of high-rise firefighting, this fire department in China used  high-rise fire fighting drones to quickly put out the fire during a drill
+
+[video: https://t.co/xLYyTfT1wk]
+https://t.co/PdrRkDWGd2</title>
+      <link>https://twitter.com/Rainmaker1973/status/1681022846082924546</link>
+      <description>Combining the characteristics of high-rise firefighting, this fire department in China used  high-rise fire fighting drones to quickly put out the fire during a drill
+
+[video: https://t.co/xLYyTfT1wk]
+https://t.co/PdrRkDWGd2</description>
+      <content:encoded>Combining the characteristics of high-rise firefighting, this fire department in China used  high-rise fire fighting drones to quickly put out the fire during a drill
+
+[video: https://t.co/xLYyTfT1wk]
+https://t.co/PdrRkDWGd2&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681022846082924546"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1680932275750412289/pu/img/SUqlYjMTWgDRAD4E.jpg" length="576" type="photo"/>
+      <pubDate>Mon, 17 Jul 2023 19:27:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @NetanelOfer: Thank you for the opportunity to visit @AllenInstitute and to study the modeling software tools. https://t.co/RYRFJRmNVb</title>
+      <link>https://twitter.com/AllenInstitute/status/1681022960641900549</link>
+      <description>RT @NetanelOfer: Thank you for the opportunity to visit @AllenInstitute and to study the modeling software tools. https://t.co/RYRFJRmNVb</description>
+      <content:encoded>RT @NetanelOfer: Thank you for the opportunity to visit @AllenInstitute and to study the modeling software tools. https://t.co/RYRFJRmNVb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1681022960641900549"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 17 Jul 2023 19:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New research in Science reveals how a three-protein complex allows bacteriophages to kill and lyse host cells. The results may be useful in developing effective phage therapeutics.
+
+📄: https://t.co/kQeq9WNkie
+#SciencePerspective: https://t.co/7fpscvCXji https://t.co/OXYwkCTrQW</title>
+      <link>https://twitter.com/ScienceMagazine/status/1681023618535260161</link>
+      <description>New research in Science reveals how a three-protein complex allows bacteriophages to kill and lyse host cells. The results may be useful in developing effective phage therapeutics.
+
+📄: https://t.co/kQeq9WNkie
+#SciencePerspective: https://t.co/7fpscvCXji https://t.co/OXYwkCTrQW</description>
+      <content:encoded>New research in Science reveals how a three-protein complex allows bacteriophages to kill and lyse host cells. The results may be useful in developing effective phage therapeutics.
+
+📄: https://t.co/kQeq9WNkie
+#SciencePerspective: https://t.co/7fpscvCXji https://t.co/OXYwkCTrQW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1681023618535260161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1QyEfCWYAEAw2I.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 17 Jul 2023 19:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congratulations to @HongkuiZeng and Christof Koch on their election to the @WashAcad of Sciences! They were recognized for their #neuroscience leadership and contributions to society's understanding of the cells and connections of the brain. #NeuroTwitter https://t.co/pwEJmFmDDL</title>
+      <link>https://twitter.com/AllenInstitute/status/1681023648294146048</link>
+      <description>Congratulations to @HongkuiZeng and Christof Koch on their election to the @WashAcad of Sciences! They were recognized for their #neuroscience leadership and contributions to society's understanding of the cells and connections of the brain. #NeuroTwitter https://t.co/pwEJmFmDDL</description>
+      <content:encoded>Congratulations to @HongkuiZeng and Christof Koch on their election to the @WashAcad of Sciences! They were recognized for their #neuroscience leadership and contributions to society's understanding of the cells and connections of the brain. #NeuroTwitter https://t.co/pwEJmFmDDL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/AllenInstitute/status/1681023648294146048"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1QxlfbakAAdzAI.jpg" length="1200" type="photo"/>
+      <pubDate>Mon, 17 Jul 2023 19:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @SuryaGanguli: 1/ Our new paper lead by @AllanRaventos @mansiege , @FCHEN_AI asks when in-context learning of regression can solve funda…</title>
+      <link>https://twitter.com/tyrell_turing/status/1681030711543775233</link>
+      <description>RT @SuryaGanguli: 1/ Our new paper lead by @AllanRaventos @mansiege , @FCHEN_AI asks when in-context learning of regression can solve funda…</description>
+      <content:encoded>RT @SuryaGanguli: 1/ Our new paper lead by @AllanRaventos @mansiege , @FCHEN_AI asks when in-context learning of regression can solve funda…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1681030711543775233"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 17 Jul 2023 19:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prioritizing teacher well-being leads to stronger student learning https://t.co/EXy5LeHSIp</title>
+      <link>https://twitter.com/ChanZuckerberg/status/1681031212591136768</link>
+      <description>Prioritizing teacher well-being leads to stronger student learning https://t.co/EXy5LeHSIp</description>
+      <content:encoded>Prioritizing teacher well-being leads to stronger student learning https://t.co/EXy5LeHSIp&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1681031212591136768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1Q4-n6XoAE2Tdy.png" length="960" type="photo"/>
+      <pubDate>Mon, 17 Jul 2023 20:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let's rephrase this headline for accuracy:
+
+Canadians don't understand how a British parliamentary system actually works https://t.co/YlhTsyq7Ye</title>
+      <link>https://twitter.com/tyrell_turing/status/1681031459056893953</link>
+      <description>Let's rephrase this headline for accuracy:
+
+Canadians don't understand how a British parliamentary system actually works https://t.co/YlhTsyq7Ye</description>
+      <content:encoded>Let's rephrase this headline for accuracy:
+
+Canadians don't understand how a British parliamentary system actually works https://t.co/YlhTsyq7Ye&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1681031459056893953"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 17 Jul 2023 20:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>pET26b_Nb.b201
+Depositor: Andrew Kruse
+Purpose: E. coli periplasmic expression of nanobody Nb.b201 recognizing human serum albumin
+
+https://t.co/2dhIDBlcW3 https://t.co/qBONHC5fz1</title>
+      <link>https://twitter.com/Addgene/status/1681032028685230081</link>
+      <description>pET26b_Nb.b201
+Depositor: Andrew Kruse
+Purpose: E. coli periplasmic expression of nanobody Nb.b201 recognizing human serum albumin
+
+https://t.co/2dhIDBlcW3 https://t.co/qBONHC5fz1</description>
+      <content:encoded>pET26b_Nb.b201
+Depositor: Andrew Kruse
+Purpose: E. coli periplasmic expression of nanobody Nb.b201 recognizing human serum albumin
+
+https://t.co/2dhIDBlcW3 https://t.co/qBONHC5fz1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Addgene/status/1681032028685230081"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/F1Q5tujWYAEU6-u.jpg" length="480" type="photo"/>
+      <pubDate>Mon, 17 Jul 2023 20:04:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>@tyrell_turing I'm not sure it matters though. A few elections in rapid succession to sort it out under whatever rules people understand may be more effective than some contorted political standoff.</title>
+      <link>https://twitter.com/andpru/status/1681032930095661057</link>
+      <description>@tyrell_turing I'm not sure it matters though. A few elections in rapid succession to sort it out under whatever rules people understand may be more effective than some contorted political standoff.</description>
+      <content:encoded>@tyrell_turing I'm not sure it matters though. A few elections in rapid succession to sort it out under whatever rules people understand may be more effective than some contorted political standoff.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1681032930095661057"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 17 Jul 2023 20:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@Ian_Duguid @wellcometrust Couldn't have gone to a better man.
+
+Is that a real mugshot?</title>
+      <link>https://twitter.com/trabranco/status/1681035363513425920</link>
+      <description>@Ian_Duguid @wellcometrust Couldn't have gone to a better man.
+
+Is that a real mugshot?</description>
+      <content:encoded>@Ian_Duguid @wellcometrust Couldn't have gone to a better man.
+
+Is that a real mugshot?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/trabranco/status/1681035363513425920"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Mon, 17 Jul 2023 20:17:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
