@@ -6,69 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jul 2023 08:21:40 +0000</lastBuildDate>
-    <item>
-      <title>Whatever sins this platform may have, being boring is not one of them</title>
-      <link>https://twitter.com/elonmusk/status/1680891465172484096</link>
-      <description>Whatever sins this platform may have, being boring is not one of them</description>
-      <content:encoded>Whatever sins this platform may have, being boring is not one of them&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1680891465172484096"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 10:45:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scientists have hardly ever seen anglerfish alive in their natural environment. That’s why this video, captured in the waters around Portugal’s Azores islands, has stunned deep-sea biologists 
-
-[source: https://t.co/Atuco8P8fj]
-https://t.co/aERPeIvahs</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680896196779577344</link>
-      <description>Scientists have hardly ever seen anglerfish alive in their natural environment. That’s why this video, captured in the waters around Portugal’s Azores islands, has stunned deep-sea biologists 
-
-[source: https://t.co/Atuco8P8fj]
-https://t.co/aERPeIvahs</description>
-      <content:encoded>Scientists have hardly ever seen anglerfish alive in their natural environment. That’s why this video, captured in the waters around Portugal’s Azores islands, has stunned deep-sea biologists 
-
-[source: https://t.co/Atuco8P8fj]
-https://t.co/aERPeIvahs&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680896196779577344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1559173923400466432/pu/img/w0kxxB9Zcx3YqT8k.jpg" length="640" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 11:04:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here's why the @UN Security Council should agree that AI in nuclear command-and-control is a terrible idea when they discuss the topic tomorrow: https://t.co/qhnhj4RGNF</title>
-      <link>https://twitter.com/tegmark/status/1680896345152925699</link>
-      <description>Here's why the @UN Security Council should agree that AI in nuclear command-and-control is a terrible idea when they discuss the topic tomorrow: https://t.co/qhnhj4RGNF</description>
-      <content:encoded>Here's why the @UN Security Council should agree that AI in nuclear command-and-control is a terrible idea when they discuss the topic tomorrow: https://t.co/qhnhj4RGNF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tegmark/status/1680896345152925699"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 11:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>@tegmark @UN Absolutely</title>
-      <link>https://twitter.com/elonmusk/status/1680896934914015232</link>
-      <description>@tegmark @UN Absolutely</description>
-      <content:encoded>@tegmark @UN Absolutely&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1680896934914015232"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 11:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Burning Man seen from above: a temporary city built in the middle of nowhere for 75,000 people (and then disassembled)
-
-[read more: https://t.co/hiach0vjJ8]
-https://t.co/UgodBAcqdx</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680898427377385473</link>
-      <description>The Burning Man seen from above: a temporary city built in the middle of nowhere for 75,000 people (and then disassembled)
-
-[read more: https://t.co/hiach0vjJ8]
-https://t.co/UgodBAcqdx</description>
-      <content:encoded>The Burning Man seen from above: a temporary city built in the middle of nowhere for 75,000 people (and then disassembled)
-
-[read more: https://t.co/hiach0vjJ8]
-https://t.co/UgodBAcqdx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680898427377385473"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1680660667450228736/pu/img/LuJBsYOqBuSzEzkU.jpg" length="720" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 11:13:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @KouMurayama: Reviewing grant proposals is so hard because they all talk about dreams.</title>
-      <link>https://twitter.com/PessoaBrain/status/1680904433096437760</link>
-      <description>RT @KouMurayama: Reviewing grant proposals is so hard because they all talk about dreams.</description>
-      <content:encoded>RT @KouMurayama: Reviewing grant proposals is so hard because they all talk about dreams.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/PessoaBrain/status/1680904433096437760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 11:37:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jul 2023 09:17:17 +0000</lastBuildDate>
     <item>
       <title>RT @maxplancklaw: Launching the new Max Planck Lawcast! Join our host, Chris Murphy, as he discusses topical issues with our researchers. E…</title>
       <link>https://twitter.com/maxplanckpress/status/1680906911456149504</link>
@@ -2068,6 +2006,110 @@ P257.https://t.co/ZAyB7s78G8
 [source and more artworks by the author: https://t.co/NtT6gg05KK] https://t.co/ilNr5pBVnZ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681215995724156929"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F1Tg78uWwAAs1Hu.jpg" length="564" type="photo"/>
       <pubDate>Tue, 18 Jul 2023 08:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @carmensandi10: Just out from the lab! New read!
+We show that mitochondrial mitofusin 2 in nucleus accumbens D2, but not D1, medium spin…</title>
+      <link>https://twitter.com/TrackingActions/status/1681218452810264578</link>
+      <description>RT @carmensandi10: Just out from the lab! New read!
+We show that mitochondrial mitofusin 2 in nucleus accumbens D2, but not D1, medium spin…</description>
+      <content:encoded>RT @carmensandi10: Just out from the lab! New read!
+We show that mitochondrial mitofusin 2 in nucleus accumbens D2, but not D1, medium spin…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/TrackingActions/status/1681218452810264578"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 08:24:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>New exciting workshop at the University of Bremen! 
+Cortical Prostheses – Interdisciplinary Research Towards Artificial Vision for the Blind 
+with Bernstein members  Udo Ernst, Dirk Jancke and  Fabian Sinz
+Find details here 👉 https://t.co/ESQOq51wS6
+ @sinz @UniBremen https://t.co/bBDWSHAua8</title>
+      <link>https://twitter.com/BernsteinNeuro/status/1681218607185838080</link>
+      <description>New exciting workshop at the University of Bremen! 
+Cortical Prostheses – Interdisciplinary Research Towards Artificial Vision for the Blind 
+with Bernstein members  Udo Ernst, Dirk Jancke and  Fabian Sinz
+Find details here 👉 https://t.co/ESQOq51wS6
+ @sinz @UniBremen https://t.co/bBDWSHAua8</description>
+      <content:encoded>New exciting workshop at the University of Bremen! 
+Cortical Prostheses – Interdisciplinary Research Towards Artificial Vision for the Blind 
+with Bernstein members  Udo Ernst, Dirk Jancke and  Fabian Sinz
+Find details here 👉 https://t.co/ESQOq51wS6
+ @sinz @UniBremen https://t.co/bBDWSHAua8&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/BernsteinNeuro/status/1681218607185838080"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1TjIYaWIAEOq-e.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 08:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>@trabranco @wellcometrust It really does look that way - just missing the chalk board and height markers 😂</title>
+      <link>https://twitter.com/Ian_Duguid/status/1681220702576291840</link>
+      <description>@trabranco @wellcometrust It really does look that way - just missing the chalk board and height markers 😂</description>
+      <content:encoded>@trabranco @wellcometrust It really does look that way - just missing the chalk board and height markers 😂&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Ian_Duguid/status/1681220702576291840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 08:33:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>A pleasure to discuss with Dr. Sabelli about my study. It’s rare (and also largely appreciated) to receive a lot of genuine technical questions, well beyond just ‘the message’.
+
+Click the link below for full coverage of the work on @NatureItaly 👇 https://t.co/qd8SXeHljS</title>
+      <link>https://twitter.com/manlius84/status/1681222449667489792</link>
+      <description>A pleasure to discuss with Dr. Sabelli about my study. It’s rare (and also largely appreciated) to receive a lot of genuine technical questions, well beyond just ‘the message’.
+
+Click the link below for full coverage of the work on @NatureItaly 👇 https://t.co/qd8SXeHljS</description>
+      <content:encoded>A pleasure to discuss with Dr. Sabelli about my study. It’s rare (and also largely appreciated) to receive a lot of genuine technical questions, well beyond just ‘the message’.
+
+Click the link below for full coverage of the work on @NatureItaly 👇 https://t.co/qd8SXeHljS&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/manlius84/status/1681222449667489792"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 08:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Now out with peer-review stamp 
+PD entails major changes in aperiodic activity suggesting change in exc-inh balance landscape 
+Congrats @PascalHelson 
+Thanks @NatMEG_KI  @PerSvenningsson @mc_vinding for great collaboration
+https://t.co/1LfnpCYcHV 
+Thanks @dig_futures 
+@SWEBAGS_1 https://t.co/XT6O9xn4kb</title>
+      <link>https://twitter.com/arvin_neuro/status/1681223059695337472</link>
+      <description>Now out with peer-review stamp 
+PD entails major changes in aperiodic activity suggesting change in exc-inh balance landscape 
+Congrats @PascalHelson 
+Thanks @NatMEG_KI  @PerSvenningsson @mc_vinding for great collaboration
+https://t.co/1LfnpCYcHV 
+Thanks @dig_futures 
+@SWEBAGS_1 https://t.co/XT6O9xn4kb</description>
+      <content:encoded>Now out with peer-review stamp 
+PD entails major changes in aperiodic activity suggesting change in exc-inh balance landscape 
+Congrats @PascalHelson 
+Thanks @NatMEG_KI  @PerSvenningsson @mc_vinding for great collaboration
+https://t.co/1LfnpCYcHV 
+Thanks @dig_futures 
+@SWEBAGS_1 https://t.co/XT6O9xn4kb&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/arvin_neuro/status/1681223059695337472"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1TmomhWwAEpXTx.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 08:43:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in Science: #CRISPR editing has enabled scientists to design wood in which lignin is more suitable for fiber production. The approach could make paper production less polluting.
+
+Learn more ⬇️
+📄: https://t.co/DDrd88R1bW
+#SciencePerspective: https://t.co/ILAG7Wa2SH https://t.co/IxD3ZiHjNw</title>
+      <link>https://twitter.com/ScienceMagazine/status/1681227371418886144</link>
+      <description>New in Science: #CRISPR editing has enabled scientists to design wood in which lignin is more suitable for fiber production. The approach could make paper production less polluting.
+
+Learn more ⬇️
+📄: https://t.co/DDrd88R1bW
+#SciencePerspective: https://t.co/ILAG7Wa2SH https://t.co/IxD3ZiHjNw</description>
+      <content:encoded>New in Science: #CRISPR editing has enabled scientists to design wood in which lignin is more suitable for fiber production. The approach could make paper production less polluting.
+
+Learn more ⬇️
+📄: https://t.co/DDrd88R1bW
+#SciencePerspective: https://t.co/ILAG7Wa2SH https://t.co/IxD3ZiHjNw&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1681227371418886144"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1TrYh_XsAAcFL8.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 09:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lightning, for obvious reasons, is difficult to study. But scientists have built a device that enables them to make their own bolts of electrical power on demand. This is a rocket-triggered lightning launch site just, hit by lightning, 1M frames per second https://t.co/F2bXkmxXvQ https://t.co/i05bAqncHW</title>
+      <link>https://twitter.com/Rainmaker1973/status/1681231492679098368</link>
+      <description>Lightning, for obvious reasons, is difficult to study. But scientists have built a device that enables them to make their own bolts of electrical power on demand. This is a rocket-triggered lightning launch site just, hit by lightning, 1M frames per second https://t.co/F2bXkmxXvQ https://t.co/i05bAqncHW</description>
+      <content:encoded>Lightning, for obvious reasons, is difficult to study. But scientists have built a device that enables them to make their own bolts of electrical power on demand. This is a rocket-triggered lightning launch site just, hit by lightning, 1M frames per second https://t.co/F2bXkmxXvQ https://t.co/i05bAqncHW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681231492679098368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1TvIVhXoAAXUgc.jpg" length="680" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 09:16:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
