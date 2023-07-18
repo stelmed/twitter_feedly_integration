@@ -6,61 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jul 2023 09:17:17 +0000</lastBuildDate>
-    <item>
-      <title>RT @maxplancklaw: Launching the new Max Planck Lawcast! Join our host, Chris Murphy, as he discusses topical issues with our researchers. E…</title>
-      <link>https://twitter.com/maxplanckpress/status/1680906911456149504</link>
-      <description>RT @maxplancklaw: Launching the new Max Planck Lawcast! Join our host, Chris Murphy, as he discusses topical issues with our researchers. E…</description>
-      <content:encoded>RT @maxplancklaw: Launching the new Max Planck Lawcast! Join our host, Chris Murphy, as he discusses topical issues with our researchers. E…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/maxplanckpress/status/1680906911456149504"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 11:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet Bobi, 31 years old, the oldest dog in recorded history.
-
-He smashed the previous record, an Australian cattle dog named Bluey, who lived to be 29 years and 5 months old.
-
-[📹 Rodney Habib: https://t.co/jC2FRJsgF1 ]
-https://t.co/7CNIo2aLTR</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680910054910730240</link>
-      <description>Meet Bobi, 31 years old, the oldest dog in recorded history.
-
-He smashed the previous record, an Australian cattle dog named Bluey, who lived to be 29 years and 5 months old.
-
-[📹 Rodney Habib: https://t.co/jC2FRJsgF1 ]
-https://t.co/7CNIo2aLTR</description>
-      <content:encoded>Meet Bobi, 31 years old, the oldest dog in recorded history.
-
-He smashed the previous record, an Australian cattle dog named Bluey, who lived to be 29 years and 5 months old.
-
-[📹 Rodney Habib: https://t.co/jC2FRJsgF1 ]
-https://t.co/7CNIo2aLTR&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680910054910730240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1680899239218499584/img/nM_OLsKkaWDQ5Bk2.jpg" length="598" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 11:59:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disney's invention of the multiplane camera was a groundbreaking achievement in film, enhancing the feeling of depth in traditional animation. This clip shows the difference between a classic vs a multiplane camera zoom 
-
-[video: https://t.co/dYOOrpYHko]
-https://t.co/Mb40Srpo0f</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680912706407223298</link>
-      <description>Disney's invention of the multiplane camera was a groundbreaking achievement in film, enhancing the feeling of depth in traditional animation. This clip shows the difference between a classic vs a multiplane camera zoom 
-
-[video: https://t.co/dYOOrpYHko]
-https://t.co/Mb40Srpo0f</description>
-      <content:encoded>Disney's invention of the multiplane camera was a groundbreaking achievement in film, enhancing the feeling of depth in traditional animation. This clip shows the difference between a classic vs a multiplane camera zoom 
-
-[video: https://t.co/dYOOrpYHko]
-https://t.co/Mb40Srpo0f&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680912706407223298"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1160090712102395904/pu/img/yf0KmEdmojww1D_h.jpg" length="632" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 12:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tutorial on MUedit: An open-source software for identifying and analysing the discharge timing of motor units from electromyographic ...  https://t.co/kUe0UCR5bq #biorxiv_neursci</title>
-      <link>https://twitter.com/biorxiv_neursci/status/1680914209855401984</link>
-      <description>Tutorial on MUedit: An open-source software for identifying and analysing the discharge timing of motor units from electromyographic ...  https://t.co/kUe0UCR5bq #biorxiv_neursci</description>
-      <content:encoded>Tutorial on MUedit: An open-source software for identifying and analysing the discharge timing of motor units from electromyographic ...  https://t.co/kUe0UCR5bq #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1680914209855401984"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 12:15:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jul 2023 10:18:27 +0000</lastBuildDate>
     <item>
       <title>AI-based nuclear command-and-control - what could possibly go wrong? @UN Security Council discusses this tomorrow. https://t.co/fYd5NCFct4</title>
       <link>https://twitter.com/tegmark/status/1680915224675639296</link>
@@ -2110,6 +2056,77 @@ Learn more ⬇️
       <content:encoded>Lightning, for obvious reasons, is difficult to study. But scientists have built a device that enables them to make their own bolts of electrical power on demand. This is a rocket-triggered lightning launch site just, hit by lightning, 1M frames per second https://t.co/F2bXkmxXvQ https://t.co/i05bAqncHW&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681231492679098368"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F1TvIVhXoAAXUgc.jpg" length="680" type="photo"/>
       <pubDate>Tue, 18 Jul 2023 09:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Germanium (and germanium oxide) are opaque in visible light, but transparent in infrared. This clip demonstrate this property of the element
+
+[read more: https://t.co/is4DfzivDo]
+[📹 Cody's Lab: https://t.co/vE1T3QzjE0]
+https://t.co/1FMlmQxJHF</title>
+      <link>https://twitter.com/Rainmaker1973/status/1681240717031616513</link>
+      <description>Germanium (and germanium oxide) are opaque in visible light, but transparent in infrared. This clip demonstrate this property of the element
+
+[read more: https://t.co/is4DfzivDo]
+[📹 Cody's Lab: https://t.co/vE1T3QzjE0]
+https://t.co/1FMlmQxJHF</description>
+      <content:encoded>Germanium (and germanium oxide) are opaque in visible light, but transparent in infrared. This clip demonstrate this property of the element
+
+[read more: https://t.co/is4DfzivDo]
+[📹 Cody's Lab: https://t.co/vE1T3QzjE0]
+https://t.co/1FMlmQxJHF&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681240717031616513"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1281337295371743232/pu/img/w2tqUCvvwpYki8nU.jpg" length="420" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 09:53:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated preprint for the ultra long working distance Cousa objective. 20 mm air immersion, 2 mm x 2 mm field-of-view, 0.5 NA. https://t.co/bO9Cwq6cRZ 
+Blog post on it: https://t.co/QiCSKalC2Z https://t.co/1OXYYbsTBX</title>
+      <link>https://twitter.com/Labrigger/status/1681241685366575111</link>
+      <description>Updated preprint for the ultra long working distance Cousa objective. 20 mm air immersion, 2 mm x 2 mm field-of-view, 0.5 NA. https://t.co/bO9Cwq6cRZ 
+Blog post on it: https://t.co/QiCSKalC2Z https://t.co/1OXYYbsTBX</description>
+      <content:encoded>Updated preprint for the ultra long working distance Cousa objective. 20 mm air immersion, 2 mm x 2 mm field-of-view, 0.5 NA. https://t.co/bO9Cwq6cRZ 
+Blog post on it: https://t.co/QiCSKalC2Z https://t.co/1OXYYbsTBX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Labrigger/status/1681241685366575111"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1T3-9vaMAIlRCk.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 09:57:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🆕New issue of ERC Magazine focuses on #ResearchAssessment: 
+🔎 President Maria Leptin on recent changes at the ERC
+🔎 James Wilsdon @RoRInstitute on global trends 
+🔎 Grantee Anja Leist @uni_lu on experience with narrative CV for grant applicants
+👉 https://t.co/GsTXVbC1fz https://t.co/Ia7Q3KA5Wg</title>
+      <link>https://twitter.com/ERC_Research/status/1681245713664032768</link>
+      <description>🆕New issue of ERC Magazine focuses on #ResearchAssessment: 
+🔎 President Maria Leptin on recent changes at the ERC
+🔎 James Wilsdon @RoRInstitute on global trends 
+🔎 Grantee Anja Leist @uni_lu on experience with narrative CV for grant applicants
+👉 https://t.co/GsTXVbC1fz https://t.co/Ia7Q3KA5Wg</description>
+      <content:encoded>🆕New issue of ERC Magazine focuses on #ResearchAssessment: 
+🔎 President Maria Leptin on recent changes at the ERC
+🔎 James Wilsdon @RoRInstitute on global trends 
+🔎 Grantee Anja Leist @uni_lu on experience with narrative CV for grant applicants
+👉 https://t.co/GsTXVbC1fz https://t.co/Ia7Q3KA5Wg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ERC_Research/status/1681245713664032768"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1T7joEXoAA0BnS.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 10:13:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>This augmented reality environment is made from a simple PDF file, projecting a 2D image that looks real and helps create a floor plan for interior design and structures
+
+[read more: https://t.co/jKjqQRCaW0]
+[📹 Adam Cook: https://t.co/Ow7Klja8G2]
+https://t.co/zjQj6KTOAe</title>
+      <link>https://twitter.com/Rainmaker1973/status/1681245759503491073</link>
+      <description>This augmented reality environment is made from a simple PDF file, projecting a 2D image that looks real and helps create a floor plan for interior design and structures
+
+[read more: https://t.co/jKjqQRCaW0]
+[📹 Adam Cook: https://t.co/Ow7Klja8G2]
+https://t.co/zjQj6KTOAe</description>
+      <content:encoded>This augmented reality environment is made from a simple PDF file, projecting a 2D image that looks real and helps create a floor plan for interior design and structures
+
+[read more: https://t.co/jKjqQRCaW0]
+[📹 Adam Cook: https://t.co/Ow7Klja8G2]
+https://t.co/zjQj6KTOAe&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681245759503491073"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1526423217618841601/pu/img/KAFDlh0WGJqNaY9x.jpg" length="540" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 10:13:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
