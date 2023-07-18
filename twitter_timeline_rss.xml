@@ -6,25 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jul 2023 03:02:01 +0000</lastBuildDate>
-    <item>
-      <title>Some 🔥 comments</title>
-      <link>https://twitter.com/elonmusk/status/1680864122919944192</link>
-      <description>Some 🔥 comments</description>
-      <content:encoded>Some 🔥 comments&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1680864122919944192"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 08:56:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>A recent study by researchers @Yale found the immune system plays a pivotal role in altering our behaviours, especially in response to allergic triggers. Read more here https://t.co/iPKhadfHBP
-#neuroscience https://t.co/BNbpE42njE</title>
-      <link>https://twitter.com/Scientifica_Int/status/1680864964540526592</link>
-      <description>A recent study by researchers @Yale found the immune system plays a pivotal role in altering our behaviours, especially in response to allergic triggers. Read more here https://t.co/iPKhadfHBP
-#neuroscience https://t.co/BNbpE42njE</description>
-      <content:encoded>A recent study by researchers @Yale found the immune system plays a pivotal role in altering our behaviours, especially in response to allergic triggers. Read more here https://t.co/iPKhadfHBP
-#neuroscience https://t.co/BNbpE42njE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1680864964540526592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1OhxwdXwAc56vx.jpg" length="766" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 09:00:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jul 2023 04:20:00 +0000</lastBuildDate>
     <item>
       <title>A retrospective analysis of #MRI data from 273 patients demystifies brain connectivity patterns in #depression after traumatic brain injury. @ScienceTM
 
@@ -2014,6 +1996,20 @@ Trained on QM energ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https:
       <content:encoded>The genome’s 3D architecture has a significant impact in controlling memory T helper 2 cells’ ability to recall an inflammatory gene expression program, according to a new @SciImmunology study. https://t.co/3aGXLmSy4a https://t.co/hMwiUHSraY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1681136744077328384"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F1SY9ZXXwAEplpR.jpg" length="1200" type="photo"/>
       <pubDate>Tue, 18 Jul 2023 03:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>SynLight: a dicistronic strategy for simultaneous active zone and cell labeling in the Drosophila nervous system  https://t.co/2Bfy5pH027 #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1681140692326727681</link>
+      <description>SynLight: a dicistronic strategy for simultaneous active zone and cell labeling in the Drosophila nervous system  https://t.co/2Bfy5pH027 #biorxiv_neursci</description>
+      <content:encoded>SynLight: a dicistronic strategy for simultaneous active zone and cell labeling in the Drosophila nervous system  https://t.co/2Bfy5pH027 #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1681140692326727681"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 03:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intranasal CRMP2-Ubc9 Inhibitor Regulates NaV1.7 to Alleviate Trigeminal Neuropathic Pain  https://t.co/RtGgIrYs4c #biorxiv_neursci</title>
+      <link>https://twitter.com/biorxiv_neursci/status/1681140786048401408</link>
+      <description>Intranasal CRMP2-Ubc9 Inhibitor Regulates NaV1.7 to Alleviate Trigeminal Neuropathic Pain  https://t.co/RtGgIrYs4c #biorxiv_neursci</description>
+      <content:encoded>Intranasal CRMP2-Ubc9 Inhibitor Regulates NaV1.7 to Alleviate Trigeminal Neuropathic Pain  https://t.co/RtGgIrYs4c #biorxiv_neursci&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/biorxiv_neursci/status/1681140786048401408"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 03:16:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
