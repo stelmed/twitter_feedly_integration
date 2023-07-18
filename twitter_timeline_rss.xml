@@ -6,261 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jul 2023 13:22:47 +0000</lastBuildDate>
-    <item>
-      <title>A News &amp;amp; Views from @LinTianPhD highlights three studies describing new voltage sensors. https://t.co/vgxnV9hR7y https://t.co/GJywZMI0VM</title>
-      <link>https://twitter.com/naturemethods/status/1680953354229280771</link>
-      <description>A News &amp;amp; Views from @LinTianPhD highlights three studies describing new voltage sensors. https://t.co/vgxnV9hR7y https://t.co/GJywZMI0VM</description>
-      <content:encoded>A News &amp;amp; Views from @LinTianPhD highlights three studies describing new voltage sensors. https://t.co/vgxnV9hR7y https://t.co/GJywZMI0VM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1680953354229280771"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1PxbuCWAAMZq1r.png" length="788" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 14:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>QuasAr6 variants from the lab of @AdamEzraCohen:
-https://t.co/av2fB7LS9r</title>
-      <link>https://twitter.com/naturemethods/status/1680953355990859776</link>
-      <description>QuasAr6 variants from the lab of @AdamEzraCohen:
-https://t.co/av2fB7LS9r</description>
-      <content:encoded>QuasAr6 variants from the lab of @AdamEzraCohen:
-https://t.co/av2fB7LS9r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1680953355990859776"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:51:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpikeyGi and SpikeyGi2 from the labs of @ChenLabNeuro and @vpieribone:
-https://t.co/MXag9vR8dv</title>
-      <link>https://twitter.com/naturemethods/status/1680953357303701505</link>
-      <description>SpikeyGi and SpikeyGi2 from the labs of @ChenLabNeuro and @vpieribone:
-https://t.co/MXag9vR8dv</description>
-      <content:encoded>SpikeyGi and SpikeyGi2 from the labs of @ChenLabNeuro and @vpieribone:
-https://t.co/MXag9vR8dv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1680953357303701505"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:51:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ASAP4 variants from the lab of @MichaelLinLab:
-https://t.co/0zi4gVe1y1</title>
-      <link>https://twitter.com/naturemethods/status/1680953358557892610</link>
-      <description>ASAP4 variants from the lab of @MichaelLinLab:
-https://t.co/0zi4gVe1y1</description>
-      <content:encoded>ASAP4 variants from the lab of @MichaelLinLab:
-https://t.co/0zi4gVe1y1&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/naturemethods/status/1680953358557892610"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:51:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @NatureHumBehav: In this multi-author Feature Article, a diverse group of scientists shares their views, hopes, and predictions about th…</title>
-      <link>https://twitter.com/andpru/status/1680954630388187146</link>
-      <description>RT @NatureHumBehav: In this multi-author Feature Article, a diverse group of scientists shares their views, hopes, and predictions about th…</description>
-      <content:encoded>RT @NatureHumBehav: In this multi-author Feature Article, a diverse group of scientists shares their views, hopes, and predictions about th…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1680954630388187146"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:56:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @tomasdoddsr: 🔓 95% of Latin American journals are diamond open access! 
-
-"In Latin America, scientific outputs are considered a public…</title>
-      <link>https://twitter.com/andpru/status/1680954822642499585</link>
-      <description>RT @tomasdoddsr: 🔓 95% of Latin American journals are diamond open access! 
-
-"In Latin America, scientific outputs are considered a public…</description>
-      <content:encoded>RT @tomasdoddsr: 🔓 95% of Latin American journals are diamond open access! 
-
-"In Latin America, scientific outputs are considered a public…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1680954822642499585"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is why circles, right triangles, sine, cosine, π and even waves are all related
-
-[source: https://t.co/NxiYm3UQzr]
-https://t.co/VwMRPwppRQ</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680954986111414272</link>
-      <description>This is why circles, right triangles, sine, cosine, π and even waves are all related
-
-[source: https://t.co/NxiYm3UQzr]
-https://t.co/VwMRPwppRQ</description>
-      <content:encoded>This is why circles, right triangles, sine, cosine, π and even waves are all related
-
-[source: https://t.co/NxiYm3UQzr]
-https://t.co/VwMRPwppRQ&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680954986111414272"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/tweet_video_thumb/FnV-x_GWIBU7U2W.jpg" length="338" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 14:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>What jobs and industries in the U.S. are projected to be most likely affected by language models?
-
-Learn more in #TheBatch: https://t.co/jjxCwzI21O</title>
-      <link>https://twitter.com/DeepLearningAI_/status/1680955516405575680</link>
-      <description>What jobs and industries in the U.S. are projected to be most likely affected by language models?
-
-Learn more in #TheBatch: https://t.co/jjxCwzI21O</description>
-      <content:encoded>What jobs and industries in the U.S. are projected to be most likely affected by language models?
-
-Learn more in #TheBatch: https://t.co/jjxCwzI21O&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1680955516405575680"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Creating artificial empathy is the key to preventing robots and AI from turning malicious, apathetic, and/or antisocial, asserts a new @SciRobotics Viewpoint. https://t.co/PNiR4E1OIP https://t.co/WvCxnnIPed</title>
-      <link>https://twitter.com/ScienceMagazine/status/1680955557933469698</link>
-      <description>Creating artificial empathy is the key to preventing robots and AI from turning malicious, apathetic, and/or antisocial, asserts a new @SciRobotics Viewpoint. https://t.co/PNiR4E1OIP https://t.co/WvCxnnIPed</description>
-      <content:encoded>Creating artificial empathy is the key to preventing robots and AI from turning malicious, apathetic, and/or antisocial, asserts a new @SciRobotics Viewpoint. https://t.co/PNiR4E1OIP https://t.co/WvCxnnIPed&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1680955557933469698"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1P0K_NXsAEJPwU.jpg" length="1040" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 15:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mathias Kolle’s color-changing materials take inspiration from butterflies and mollusks. https://t.co/tkG4dOdgI1 https://t.co/hjPQ27ICmy</title>
-      <link>https://twitter.com/MIT/status/1680956191407521793</link>
-      <description>Mathias Kolle’s color-changing materials take inspiration from butterflies and mollusks. https://t.co/tkG4dOdgI1 https://t.co/hjPQ27ICmy</description>
-      <content:encoded>Mathias Kolle’s color-changing materials take inspiration from butterflies and mollusks. https://t.co/tkG4dOdgI1 https://t.co/hjPQ27ICmy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MIT/status/1680956191407521793"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1P0v1xXgAM4Ds2.jpg" length="900" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 15:02:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>How can AI work better with human experts in areas like medicine where safety is paramount? 🩺
-
-With @GoogleAI, we propose CoDoC: a model that learns when predictive AI is offering correct information - and when it's better to defer to a clinician. https://t.co/gZtLxBVRSr https://t.co/8Y07THi9TX</title>
-      <link>https://twitter.com/GoogleDeepMind/status/1680959507822772224</link>
-      <description>How can AI work better with human experts in areas like medicine where safety is paramount? 🩺
-
-With @GoogleAI, we propose CoDoC: a model that learns when predictive AI is offering correct information - and when it's better to defer to a clinician. https://t.co/gZtLxBVRSr https://t.co/8Y07THi9TX</description>
-      <content:encoded>How can AI work better with human experts in areas like medicine where safety is paramount? 🩺
-
-With @GoogleAI, we propose CoDoC: a model that learns when predictive AI is offering correct information - and when it's better to defer to a clinician. https://t.co/gZtLxBVRSr https://t.co/8Y07THi9TX&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GoogleDeepMind/status/1680959507822772224"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1P2tEXXgAENLJL.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 15:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>When developing CoDoC, we had 3 criteria:
-
-⚪ Non-AI experts including clinicians could use the system on a single computer
-⚪ Training would require a relatively small amount of data
-⚪ CoDoC could be compatible with many proprietary AI models
-
-https://t.co/zIG0B6LvvB</title>
-      <link>https://twitter.com/GoogleDeepMind/status/1680959511832526849</link>
-      <description>When developing CoDoC, we had 3 criteria:
-
-⚪ Non-AI experts including clinicians could use the system on a single computer
-⚪ Training would require a relatively small amount of data
-⚪ CoDoC could be compatible with many proprietary AI models
-
-https://t.co/zIG0B6LvvB</description>
-      <content:encoded>When developing CoDoC, we had 3 criteria:
-
-⚪ Non-AI experts including clinicians could use the system on a single computer
-⚪ Training would require a relatively small amount of data
-⚪ CoDoC could be compatible with many proprietary AI models
-
-https://t.co/zIG0B6LvvB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GoogleDeepMind/status/1680959511832526849"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 15:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔵 How was CoDoC trained?
-
-It needs 3 anonymised inputs for each case in the dataset:
-
-🔘 A confidence score from the predictive AI
-🔘 The clinician’s opinion on the medical image
-🔘 The ground truth of whether disease was present, established via clinical follow-up https://t.co/7ec0dbdyaE</title>
-      <link>https://twitter.com/GoogleDeepMind/status/1680959513703096321</link>
-      <description>🔵 How was CoDoC trained?
-
-It needs 3 anonymised inputs for each case in the dataset:
-
-🔘 A confidence score from the predictive AI
-🔘 The clinician’s opinion on the medical image
-🔘 The ground truth of whether disease was present, established via clinical follow-up https://t.co/7ec0dbdyaE</description>
-      <content:encoded>🔵 How was CoDoC trained?
-
-It needs 3 anonymised inputs for each case in the dataset:
-
-🔘 A confidence score from the predictive AI
-🔘 The clinician’s opinion on the medical image
-🔘 The ground truth of whether disease was present, established via clinical follow-up https://t.co/7ec0dbdyaE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GoogleDeepMind/status/1680959513703096321"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1P3JY-X0AEEiEb.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 15:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔵 What were the results?
-
-In hypothetical simulations where an AI could act autonomously at certain points, CoDoC reduced the number of clinician reads required by 66%.
-
-We also showed how it can help examine chest X-rays to decide if a TB test is needed. https://t.co/gZtLxBVRSr https://t.co/FJmmKkEvLP</title>
-      <link>https://twitter.com/GoogleDeepMind/status/1680959515598921729</link>
-      <description>🔵 What were the results?
-
-In hypothetical simulations where an AI could act autonomously at certain points, CoDoC reduced the number of clinician reads required by 66%.
-
-We also showed how it can help examine chest X-rays to decide if a TB test is needed. https://t.co/gZtLxBVRSr https://t.co/FJmmKkEvLP</description>
-      <content:encoded>🔵 What were the results?
-
-In hypothetical simulations where an AI could act autonomously at certain points, CoDoC reduced the number of clinician reads required by 66%.
-
-We also showed how it can help examine chest X-rays to decide if a TB test is needed. https://t.co/gZtLxBVRSr https://t.co/FJmmKkEvLP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GoogleDeepMind/status/1680959515598921729"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1P3R9MWYAIlxIQ.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 15:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔵 What's next?
-
-Our theoretical research explores how to harness this type of human-AI collaboration in safety-critical applications.
-
-We are open sourcing CoDoC's code so others can build on our work improving the safety of AI models for the real world: https://t.co/Wr0tSSJGmm</title>
-      <link>https://twitter.com/GoogleDeepMind/status/1680959517570244611</link>
-      <description>🔵 What's next?
-
-Our theoretical research explores how to harness this type of human-AI collaboration in safety-critical applications.
-
-We are open sourcing CoDoC's code so others can build on our work improving the safety of AI models for the real world: https://t.co/Wr0tSSJGmm</description>
-      <content:encoded>🔵 What's next?
-
-Our theoretical research explores how to harness this type of human-AI collaboration in safety-critical applications.
-
-We are open sourcing CoDoC's code so others can build on our work improving the safety of AI models for the real world: https://t.co/Wr0tSSJGmm&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GoogleDeepMind/status/1680959517570244611"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 15:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>CoDoC is a collaboration with partners including:
-🔵 The @StopTB partnership
-🔵 The @RoyalSurrey Foundation Trust who developed the UK Mammography OPTIMAM imaging database, funded by @CR_UK
-🔵 Teams at @NYUGrossman
-
-And many more: https://t.co/gZtLxBVRSr</title>
-      <link>https://twitter.com/GoogleDeepMind/status/1680959519399071746</link>
-      <description>CoDoC is a collaboration with partners including:
-🔵 The @StopTB partnership
-🔵 The @RoyalSurrey Foundation Trust who developed the UK Mammography OPTIMAM imaging database, funded by @CR_UK
-🔵 Teams at @NYUGrossman
-
-And many more: https://t.co/gZtLxBVRSr</description>
-      <content:encoded>CoDoC is a collaboration with partners including:
-🔵 The @StopTB partnership
-🔵 The @RoyalSurrey Foundation Trust who developed the UK Mammography OPTIMAM imaging database, funded by @CR_UK
-🔵 Teams at @NYUGrossman
-
-And many more: https://t.co/gZtLxBVRSr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/GoogleDeepMind/status/1680959519399071746"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 15:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>📝 Sign here https://t.co/Kk7B03K016</title>
-      <link>https://twitter.com/anna_beyeler/status/1680960234242596868</link>
-      <description>📝 Sign here https://t.co/Kk7B03K016</description>
-      <content:encoded>📝 Sign here https://t.co/Kk7B03K016&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/anna_beyeler/status/1680960234242596868"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 15:18:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Princess Juliana International Airport on the Caribbean island of Saint Martin has very low-altitude flyover landing approaches because one end of its runway is extremely close to the shore and Maho Beach
-
-[📹 CIA SXM: https://t.co/V3Hm5ZaX1F]
-https://t.co/J6HrGLOHiY</title>
-      <link>https://twitter.com/Rainmaker1973/status/1680961314720555010</link>
-      <description>Princess Juliana International Airport on the Caribbean island of Saint Martin has very low-altitude flyover landing approaches because one end of its runway is extremely close to the shore and Maho Beach
-
-[📹 CIA SXM: https://t.co/V3Hm5ZaX1F]
-https://t.co/J6HrGLOHiY</description>
-      <content:encoded>Princess Juliana International Airport on the Caribbean island of Saint Martin has very low-altitude flyover landing approaches because one end of its runway is extremely close to the shore and Maho Beach
-
-[📹 CIA SXM: https://t.co/V3Hm5ZaX1F]
-https://t.co/J6HrGLOHiY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1680961314720555010"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1618448299710709761/img/3yI4IFpx5grHiet-.jpg" length="720" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 15:23:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jul 2023 14:16:14 +0000</lastBuildDate>
     <item>
       <title>A study in @CommsEng suggests that underground climate change can represent a silent hazard for civil infrastructure in the Chicago Loop and other urban areas worldwide, but also an opportunity to reutilize or minimize waste heat in the ground. https://t.co/x5zqxOOby7 https://t.co/Vs8lfEeFVS</title>
       <link>https://twitter.com/NaturePortfolio/status/1680962835482804224</link>
@@ -2138,6 +1884,190 @@ https://t.co/oIzEmhBlAT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https
       <description>RT @selmaanchettih: Our (updated) preprint is out! On discovering a hippocampal mechanism underlying episodic memory, using data from food-…</description>
       <content:encoded>RT @selmaanchettih: Our (updated) preprint is out! On discovering a hippocampal mechanism underlying episodic memory, using data from food-…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1681292309068124161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <pubDate>Tue, 18 Jul 2023 13:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>UNDRIP was adopted in 2007 by 144 countries to ensure protection of Indigenous rights and self-determination.
+
+A new #SciencePolicyForum argues that "researchers … have a responsibility to understand and advance these rights." https://t.co/YTuwAP0vbI</title>
+      <link>https://twitter.com/ScienceMagazine/status/1681295265612042240</link>
+      <description>UNDRIP was adopted in 2007 by 144 countries to ensure protection of Indigenous rights and self-determination.
+
+A new #SciencePolicyForum argues that "researchers … have a responsibility to understand and advance these rights." https://t.co/YTuwAP0vbI</description>
+      <content:encoded>UNDRIP was adopted in 2007 by 144 countries to ensure protection of Indigenous rights and self-determination.
+
+A new #SciencePolicyForum argues that "researchers … have a responsibility to understand and advance these rights." https://t.co/YTuwAP0vbI&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ScienceMagazine/status/1681295265612042240"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @Mila_Quebec: @g_lajoie_, membre académique principal de Mila, a récemment proposé quatre sources pour mieux comprendre les origines et…</title>
+      <link>https://twitter.com/tyrell_turing/status/1681295268585562112</link>
+      <description>RT @Mila_Quebec: @g_lajoie_, membre académique principal de Mila, a récemment proposé quatre sources pour mieux comprendre les origines et…</description>
+      <content:encoded>RT @Mila_Quebec: @g_lajoie_, membre académique principal de Mila, a récemment proposé quatre sources pour mieux comprendre les origines et…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/tyrell_turing/status/1681295268585562112"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>A refrigerator is a delicate machine working through the Second Law of Thermodynamics, dealing with condensation, ice accumulation, impurities and isolation. Some simple tricks for a longer life
+
+[📹 https://t.co/8Aa7k9IvTn]
+https://t.co/AbBtF22bX8 https://t.co/cnikYs4uZ3</title>
+      <link>https://twitter.com/Rainmaker1973/status/1681295618579505153</link>
+      <description>A refrigerator is a delicate machine working through the Second Law of Thermodynamics, dealing with condensation, ice accumulation, impurities and isolation. Some simple tricks for a longer life
+
+[📹 https://t.co/8Aa7k9IvTn]
+https://t.co/AbBtF22bX8 https://t.co/cnikYs4uZ3</description>
+      <content:encoded>A refrigerator is a delicate machine working through the Second Law of Thermodynamics, dealing with condensation, ice accumulation, impurities and isolation. Some simple tricks for a longer life
+
+[📹 https://t.co/8Aa7k9IvTn]
+https://t.co/AbBtF22bX8 https://t.co/cnikYs4uZ3&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681295618579505153"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1680817548361863168/pu/img/jFIEfsjmC7oT63Ki.jpg" length="576" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 13:31:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@KordingLab Agree that most things don't need traditional peer review, I made a case here for rare 'peer validation'. https://t.co/zlKZUSMcBL</title>
+      <link>https://twitter.com/andpru/status/1681295945617555458</link>
+      <description>@KordingLab Agree that most things don't need traditional peer review, I made a case here for rare 'peer validation'. https://t.co/zlKZUSMcBL</description>
+      <content:encoded>@KordingLab Agree that most things don't need traditional peer review, I made a case here for rare 'peer validation'. https://t.co/zlKZUSMcBL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/andpru/status/1681295945617555458"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @carbonplanorg: As broad swaths of the United States are gripped by heatwaves and record-breaking electricity demand, we are releasing a…</title>
+      <link>https://twitter.com/thefreemanlab/status/1681297255117074432</link>
+      <description>RT @carbonplanorg: As broad swaths of the United States are gripped by heatwaves and record-breaking electricity demand, we are releasing a…</description>
+      <content:encoded>RT @carbonplanorg: As broad swaths of the United States are gripped by heatwaves and record-breaking electricity demand, we are releasing a…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/thefreemanlab/status/1681297255117074432"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:37:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind each journal is a pioneer. Under the guidance of Chief Editors Idan Segev, Larry Abbott, Jon H KaaS and Henry Markram, 56,608 authors have chosen Frontiers in Neuroscience as the trusted home for their research.
+
+With 244,011 citations, together we're making an impact ⬇</title>
+      <link>https://twitter.com/FrontNeurosci/status/1681302563944280064</link>
+      <description>Behind each journal is a pioneer. Under the guidance of Chief Editors Idan Segev, Larry Abbott, Jon H KaaS and Henry Markram, 56,608 authors have chosen Frontiers in Neuroscience as the trusted home for their research.
+
+With 244,011 citations, together we're making an impact ⬇</description>
+      <content:encoded>Behind each journal is a pioneer. Under the guidance of Chief Editors Idan Segev, Larry Abbott, Jon H KaaS and Henry Markram, 56,608 authors have chosen Frontiers in Neuroscience as the trusted home for their research.
+
+With 244,011 citations, together we're making an impact ⬇&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1681302563944280064"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @LeadingEdgeSymp: Applying for faculty positions in the life sciences this cycle (R1s)? 
+
+Members of the Leading Edge community have pub…</title>
+      <link>https://twitter.com/ewadorotaz/status/1681303199133876225</link>
+      <description>RT @LeadingEdgeSymp: Applying for faculty positions in the life sciences this cycle (R1s)? 
+
+Members of the Leading Edge community have pub…</description>
+      <content:encoded>RT @LeadingEdgeSymp: Applying for faculty positions in the life sciences this cycle (R1s)? 
+
+Members of the Leading Edge community have pub…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1681303199133876225"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 14:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @F1000Research: ⚖️ Upholding #ResearchIntegrity is more important now than ever. 
+
+In this webinar, expert speakers from the @F1000 Publ…</title>
+      <link>https://twitter.com/INCForg/status/1681303501924876289</link>
+      <description>RT @F1000Research: ⚖️ Upholding #ResearchIntegrity is more important now than ever. 
+
+In this webinar, expert speakers from the @F1000 Publ…</description>
+      <content:encoded>RT @F1000Research: ⚖️ Upholding #ResearchIntegrity is more important now than ever. 
+
+In this webinar, expert speakers from the @F1000 Publ…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1681303501924876289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 14:02:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kick off of the Tübingen AI Center @uni_tue with @BMBF_Bund @mwk__bw https://t.co/6RhfDtJ1vP</title>
+      <link>https://twitter.com/CellTypist/status/1681304272615673863</link>
+      <description>Kick off of the Tübingen AI Center @uni_tue with @BMBF_Bund @mwk__bw https://t.co/6RhfDtJ1vP</description>
+      <content:encoded>Kick off of the Tübingen AI Center @uni_tue with @BMBF_Bund @mwk__bw https://t.co/6RhfDtJ1vP&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/CellTypist/status/1681304272615673863"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1UxGW5akAMm9BU.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 14:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have your say: Review the SPARC Data Structure today!
+
+What works?
+What doesn't?
+What needs tweaking?
+What you love about it
+
+Give us your thoughts here: https://t.co/jLSDVhcgyI https://t.co/QgXMqeSC7u</title>
+      <link>https://twitter.com/INCForg/status/1681304343662977028</link>
+      <description>Have your say: Review the SPARC Data Structure today!
+
+What works?
+What doesn't?
+What needs tweaking?
+What you love about it
+
+Give us your thoughts here: https://t.co/jLSDVhcgyI https://t.co/QgXMqeSC7u</description>
+      <content:encoded>Have your say: Review the SPARC Data Structure today!
+
+What works?
+What doesn't?
+What needs tweaking?
+What you love about it
+
+Give us your thoughts here: https://t.co/jLSDVhcgyI https://t.co/QgXMqeSC7u&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1681304343662977028"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 14:06:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @RemiGau: In case that is useful to anyone, I created an ics file to make easy to import the #OHBM2023 schedule in your calendar.
+
+Can b…</title>
+      <link>https://twitter.com/INCForg/status/1681304642930745351</link>
+      <description>RT @RemiGau: In case that is useful to anyone, I created an ics file to make easy to import the #OHBM2023 schedule in your calendar.
+
+Can b…</description>
+      <content:encoded>RT @RemiGau: In case that is useful to anyone, I created an ics file to make easy to import the #OHBM2023 schedule in your calendar.
+
+Can b…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/INCForg/status/1681304642930745351"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 14:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>A journey from the Indian town of Shimla to the Pangi Valley along the Himalayan mountain range 
+
+[read more: https://t.co/Ipim9sASKc]
+https://t.co/oKoCtTQyBx</title>
+      <link>https://twitter.com/Rainmaker1973/status/1681304905804570626</link>
+      <description>A journey from the Indian town of Shimla to the Pangi Valley along the Himalayan mountain range 
+
+[read more: https://t.co/Ipim9sASKc]
+https://t.co/oKoCtTQyBx</description>
+      <content:encoded>A journey from the Indian town of Shimla to the Pangi Valley along the Himalayan mountain range 
+
+[read more: https://t.co/Ipim9sASKc]
+https://t.co/oKoCtTQyBx&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681304905804570626"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1679853377377689603/pu/img/TlIcjxdy-gMS_I2y.jpg" length="675" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 14:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/QYuDL1l9o9</title>
+      <link>https://twitter.com/elonmusk/status/1681306302394568704</link>
+      <description>https://t.co/QYuDL1l9o9</description>
+      <content:encoded>https://t.co/QYuDL1l9o9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1681306302394568704"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1UzKsZakAAJJcG.jpg" length="900" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 14:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚨New Research Topic Alert🚨
+
+We are delighted to welcome submissions to this fascinating new topic hosted by @lyndiawu1, @LaksariLab, and Calvin Kuo. 
+
+For full information, please visit the topic homepage here➡️https://t.co/egQdiizPzl https://t.co/QbWuNbgxzg</title>
+      <link>https://twitter.com/FrontNeurosci/status/1681306717014073344</link>
+      <description>🚨New Research Topic Alert🚨
+
+We are delighted to welcome submissions to this fascinating new topic hosted by @lyndiawu1, @LaksariLab, and Calvin Kuo. 
+
+For full information, please visit the topic homepage here➡️https://t.co/egQdiizPzl https://t.co/QbWuNbgxzg</description>
+      <content:encoded>🚨New Research Topic Alert🚨
+
+We are delighted to welcome submissions to this fascinating new topic hosted by @lyndiawu1, @LaksariLab, and Calvin Kuo. 
+
+For full information, please visit the topic homepage here➡️https://t.co/egQdiizPzl https://t.co/QbWuNbgxzg&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1681306717014073344"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1Uxvg8aEAUbPog.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 14:15:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
