@@ -6,157 +6,7 @@
     <description>RSS feed generated from a Twitter user's timeline</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jul 2023 12:34:44 +0000</lastBuildDate>
-    <item>
-      <title>RT @olivia_rifai: The advance article for our study identifying 2 distinct neuroinflammatory signatures that span across C9-ALS, sporadic A…</title>
-      <link>https://twitter.com/FitzpatrickLab/status/1680947029592141825</link>
-      <description>RT @olivia_rifai: The advance article for our study identifying 2 distinct neuroinflammatory signatures that span across C9-ALS, sporadic A…</description>
-      <content:encoded>RT @olivia_rifai: The advance article for our study identifying 2 distinct neuroinflammatory signatures that span across C9-ALS, sporadic A…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1680947029592141825"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:26:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Social odor discrimination and its enhancement by associative learning in the hippocampal CA2 region" 🧠 New research from @Columbia using a Scientifica #multiphoton system. Congratulations to the team! 💡👏 Read the paper here: https://t.co/JUllFw9YkL</title>
-      <link>https://twitter.com/Scientifica_Int/status/1680947588743278592</link>
-      <description>"Social odor discrimination and its enhancement by associative learning in the hippocampal CA2 region" 🧠 New research from @Columbia using a Scientifica #multiphoton system. Congratulations to the team! 💡👏 Read the paper here: https://t.co/JUllFw9YkL</description>
-      <content:encoded>"Social odor discrimination and its enhancement by associative learning in the hippocampal CA2 region" 🧠 New research from @Columbia using a Scientifica #multiphoton system. Congratulations to the team! 💡👏 Read the paper here: https://t.co/JUllFw9YkL&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Scientifica_Int/status/1680947588743278592"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Regulatory T cells aid stem-cell therapy for Parkinson’s disease. This super N&amp;amp;V by @Tang_Lab_UCSF discusses the implications. https://t.co/cwWiP7BWEv</title>
-      <link>https://twitter.com/NatureNV/status/1680948674501672965</link>
-      <description>Regulatory T cells aid stem-cell therapy for Parkinson’s disease. This super N&amp;amp;V by @Tang_Lab_UCSF discusses the implications. https://t.co/cwWiP7BWEv</description>
-      <content:encoded>Regulatory T cells aid stem-cell therapy for Parkinson’s disease. This super N&amp;amp;V by @Tang_Lab_UCSF discusses the implications. https://t.co/cwWiP7BWEv&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNV/status/1680948674501672965"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:32:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Red wine test https://t.co/MbIqZaZV3A</title>
-      <link>https://twitter.com/elonmusk/status/1680948743359586306</link>
-      <description>Red wine test https://t.co/MbIqZaZV3A</description>
-      <content:encoded>Red wine test https://t.co/MbIqZaZV3A&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1680948743359586306"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:33:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infrared spectral imaging isn’t just for visualizing worms. It may help researchers explore biology in real time + see things like:
-🔬 Cancer
-🔬 Diseased cells
-🔬Tissue growth 
-
-📸 Dmitry Fishman #ImagingTheFuture https://t.co/1pzFrR4IeE</title>
-      <link>https://twitter.com/ChanZuckerberg/status/1680949949582770176</link>
-      <description>Infrared spectral imaging isn’t just for visualizing worms. It may help researchers explore biology in real time + see things like:
-🔬 Cancer
-🔬 Diseased cells
-🔬Tissue growth 
-
-📸 Dmitry Fishman #ImagingTheFuture https://t.co/1pzFrR4IeE</description>
-      <content:encoded>Infrared spectral imaging isn’t just for visualizing worms. It may help researchers explore biology in real time + see things like:
-🔬 Cancer
-🔬 Diseased cells
-🔬Tissue growth 
-
-📸 Dmitry Fishman #ImagingTheFuture https://t.co/1pzFrR4IeE&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ChanZuckerberg/status/1680949949582770176"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1680949922583945216/pu/img/qAt-2NxM51QUYA3n.jpg" length="776" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 14:37:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research: The identification of protein and RNA interactors of the splicing factor Caper in the adult Drosophila nervous system: Post-transcriptional gene regulation is a fundamental mechanism that helps regulate the… #Molecular #Neuroscience https://t.co/xaq1Zsd2QO</title>
-      <link>https://twitter.com/FrontNeurosci/status/1680950362700914688</link>
-      <description>New Research: The identification of protein and RNA interactors of the splicing factor Caper in the adult Drosophila nervous system: Post-transcriptional gene regulation is a fundamental mechanism that helps regulate the… #Molecular #Neuroscience https://t.co/xaq1Zsd2QO</description>
-      <content:encoded>New Research: The identification of protein and RNA interactors of the splicing factor Caper in the adult Drosophila nervous system: Post-transcriptional gene regulation is a fundamental mechanism that helps regulate the… #Molecular #Neuroscience https://t.co/xaq1Zsd2QO&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1680950362700914688"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🙋‍♀️ Have you missed the first session of the Quantum Technology Training for Policymakers ? 
-No worries... we got your back ! Head over to our YouTube Channel to watch ⏯️ the replay with Tommaso Calarco's full talk.
-
-https://t.co/2Tk2HWEl87</title>
-      <link>https://twitter.com/QuantumFlagship/status/1680950446985302022</link>
-      <description>🙋‍♀️ Have you missed the first session of the Quantum Technology Training for Policymakers ? 
-No worries... we got your back ! Head over to our YouTube Channel to watch ⏯️ the replay with Tommaso Calarco's full talk.
-
-https://t.co/2Tk2HWEl87</description>
-      <content:encoded>🙋‍♀️ Have you missed the first session of the Quantum Technology Training for Policymakers ? 
-No worries... we got your back ! Head over to our YouTube Channel to watch ⏯️ the replay with Tommaso Calarco's full talk.
-
-https://t.co/2Tk2HWEl87&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/QuantumFlagship/status/1680950446985302022"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:39:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @nevernorminal: Turning out to be a bit more ambitious than originally anticipated 🙃 #Starship https://t.co/XnXivMlOVf</title>
-      <link>https://twitter.com/MichaelGalanin/status/1680952369595523072</link>
-      <description>RT @nevernorminal: Turning out to be a bit more ambitious than originally anticipated 🙃 #Starship https://t.co/XnXivMlOVf</description>
-      <content:encoded>RT @nevernorminal: Turning out to be a bit more ambitious than originally anticipated 🙃 #Starship https://t.co/XnXivMlOVf&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1680952369595523072"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1HJR26X0AApp_g.jpg" length="900" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 14:47:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @thePrimalSpace: Stunning views during the separation of Chandrayaan-3 separation! 
-
-📹: ISRO https://t.co/4uOG9U0Rfr</title>
-      <link>https://twitter.com/MichaelGalanin/status/1680952418891100160</link>
-      <description>RT @thePrimalSpace: Stunning views during the separation of Chandrayaan-3 separation! 
-
-📹: ISRO https://t.co/4uOG9U0Rfr</description>
-      <content:encoded>RT @thePrimalSpace: Stunning views during the separation of Chandrayaan-3 separation! 
-
-📹: ISRO https://t.co/4uOG9U0Rfr&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/MichaelGalanin/status/1680952418891100160"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1680615136858370048/img/Si_fWUk-Vz3sJZxE.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 14:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @IUSMPharmTox: Dr. Sabrina Absalon(@sabrina_absalon) was featured as a SEED/STEM mentor in the CTSI news:
-
-https://t.co/Qkonwngzvj</title>
-      <link>https://twitter.com/FitzpatrickLab/status/1680952789172666369</link>
-      <description>RT @IUSMPharmTox: Dr. Sabrina Absalon(@sabrina_absalon) was featured as a SEED/STEM mentor in the CTSI news:
-
-https://t.co/Qkonwngzvj</description>
-      <content:encoded>RT @IUSMPharmTox: Dr. Sabrina Absalon(@sabrina_absalon) was featured as a SEED/STEM mentor in the CTSI news:
-
-https://t.co/Qkonwngzvj&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FitzpatrickLab/status/1680952789172666369"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:49:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @dlevenstein: What’s the golden rule of data analysis and why is it “plot everything”?</title>
-      <link>https://twitter.com/neurograce/status/1680953140831477760</link>
-      <description>RT @dlevenstein: What’s the golden rule of data analysis and why is it “plot everything”?</description>
-      <content:encoded>RT @dlevenstein: What’s the golden rule of data analysis and why is it “plot everything”?&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/neurograce/status/1680953140831477760"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <pubDate>Mon, 17 Jul 2023 14:50:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT @turbowilly_231: Nothing like the beauty of the Janelia Research Campus. https://t.co/c2rRL5fIY9</title>
-      <link>https://twitter.com/HHMIJanelia/status/1680953289603465216</link>
-      <description>RT @turbowilly_231: Nothing like the beauty of the Janelia Research Campus. https://t.co/c2rRL5fIY9</description>
-      <content:encoded>RT @turbowilly_231: Nothing like the beauty of the Janelia Research Campus. https://t.co/c2rRL5fIY9&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/HHMIJanelia/status/1680953289603465216"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1PucANWcAQzytA.jpg" length="900" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 14:51:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontiers in Aging Neuroscience has a new collection that is 
-
-📣OPEN FOR SUBMISSIONS📣
-
-To learn more about the project or to register your interest, follow this link: https://t.co/HkzM7fYClV
-
-#research #callforpapers #neurodegeneration #SubmissionsWelcome https://t.co/5f2HalVwNy</title>
-      <link>https://twitter.com/FrontNeurosci/status/1680953353486974976</link>
-      <description>Frontiers in Aging Neuroscience has a new collection that is 
-
-📣OPEN FOR SUBMISSIONS📣
-
-To learn more about the project or to register your interest, follow this link: https://t.co/HkzM7fYClV
-
-#research #callforpapers #neurodegeneration #SubmissionsWelcome https://t.co/5f2HalVwNy</description>
-      <content:encoded>Frontiers in Aging Neuroscience has a new collection that is 
-
-📣OPEN FOR SUBMISSIONS📣
-
-To learn more about the project or to register your interest, follow this link: https://t.co/HkzM7fYClV
-
-#research #callforpapers #neurodegeneration #SubmissionsWelcome https://t.co/5f2HalVwNy&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/FrontNeurosci/status/1680953353486974976"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
-      <enclosure url="http://pbs.twimg.com/media/F1PtZT6WAAIZqbv.jpg" length="1200" type="photo"/>
-      <pubDate>Mon, 17 Jul 2023 14:51:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jul 2023 13:22:47 +0000</lastBuildDate>
     <item>
       <title>A News &amp;amp; Views from @LinTianPhD highlights three studies describing new voltage sensors. https://t.co/vgxnV9hR7y https://t.co/GJywZMI0VM</title>
       <link>https://twitter.com/naturemethods/status/1680953354229280771</link>
@@ -2122,6 +1972,172 @@ https://t.co/hJDwjegj0a https://t.co/QMyQlTnyL6&lt;blockquote class="twitter-twe
       <content:encoded>Compared to other kinds of therapists, psychoanalysts are much more likely to report sexual attraction to patients https://t.co/699x6yOLsG Possibly because their training tells them that they are always attracted to patients and vice versa https://t.co/E3rV2qJSYD&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1681280962078883840"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
       <enclosure url="http://pbs.twimg.com/media/F1UcD3jWcAALgz-.png" length="751" type="photo"/>
       <pubDate>Tue, 18 Jul 2023 12:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Waterspout spotted on the Kama River, Perm region, Russia, on July 13, 2023
+
+[source: https://t.co/aNOdYuODnL]
+https://t.co/F9322SBg0r</title>
+      <link>https://twitter.com/Rainmaker1973/status/1681281574711484416</link>
+      <description>Waterspout spotted on the Kama River, Perm region, Russia, on July 13, 2023
+
+[source: https://t.co/aNOdYuODnL]
+https://t.co/F9322SBg0r</description>
+      <content:encoded>Waterspout spotted on the Kama River, Perm region, Russia, on July 13, 2023
+
+[source: https://t.co/aNOdYuODnL]
+https://t.co/F9322SBg0r&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681281574711484416"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/amplify_video_thumb/1680995439212888066/img/50jTC563qhRcuK1r.jpg" length="464" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 12:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerating the #drugdiscovery process: New work in @NatureComms by @jccaicedo @broadinstitute looks at tools that assess chemical structures in order to predict compound activity – recommended by @ProfMOlson &amp;amp; Amin Nooranikhojasteh
+
+https://t.co/bE3o2FKNTR https://t.co/voofllX6rM</title>
+      <link>https://twitter.com/H1Connect/status/1681282674722328577</link>
+      <description>Accelerating the #drugdiscovery process: New work in @NatureComms by @jccaicedo @broadinstitute looks at tools that assess chemical structures in order to predict compound activity – recommended by @ProfMOlson &amp;amp; Amin Nooranikhojasteh
+
+https://t.co/bE3o2FKNTR https://t.co/voofllX6rM</description>
+      <content:encoded>Accelerating the #drugdiscovery process: New work in @NatureComms by @jccaicedo @broadinstitute looks at tools that assess chemical structures in order to predict compound activity – recommended by @ProfMOlson &amp;amp; Amin Nooranikhojasteh
+
+https://t.co/bE3o2FKNTR https://t.co/voofllX6rM&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/H1Connect/status/1681282674722328577"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1UdrrbXoAEiYrv.jpg" length="764" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 12:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>"The Potential Use of Sex Robots in Adults with Autism" https://t.co/xraY2LqJqV There's so many papers like this. Can we wait until sex robots actually exist before asking such questions? The devil is always going to be in the details. It's like speculations about "AI" in 1990s https://t.co/94X3BdDggl</title>
+      <link>https://twitter.com/Neuro_Skeptic/status/1681285067266572289</link>
+      <description>"The Potential Use of Sex Robots in Adults with Autism" https://t.co/xraY2LqJqV There's so many papers like this. Can we wait until sex robots actually exist before asking such questions? The devil is always going to be in the details. It's like speculations about "AI" in 1990s https://t.co/94X3BdDggl</description>
+      <content:encoded>"The Potential Use of Sex Robots in Adults with Autism" https://t.co/xraY2LqJqV There's so many papers like this. Can we wait until sex robots actually exist before asking such questions? The devil is always going to be in the details. It's like speculations about "AI" in 1990s https://t.co/94X3BdDggl&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Neuro_Skeptic/status/1681285067266572289"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1UeErDXgAAZA3g.png" length="876" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 12:49:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>The hypothesis of fundal cognition — a Journal Club article by Kevin S. Weiner
+
+https://t.co/4eJf2b4b6M
+
+@neuroKevin https://t.co/MhdaEBdnTh</title>
+      <link>https://twitter.com/NatRevNeurosci/status/1681287707383693313</link>
+      <description>The hypothesis of fundal cognition — a Journal Club article by Kevin S. Weiner
+
+https://t.co/4eJf2b4b6M
+
+@neuroKevin https://t.co/MhdaEBdnTh</description>
+      <content:encoded>The hypothesis of fundal cognition — a Journal Club article by Kevin S. Weiner
+
+https://t.co/4eJf2b4b6M
+
+@neuroKevin https://t.co/MhdaEBdnTh&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatRevNeurosci/status/1681287707383693313"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1P9uJ-XoAIsEWM.jpg" length="1066" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Class is in session! We just announced the teams selected for our ECOLE program. They will attempt to create #AI agents capable of continually learning and helping humans produce reliable/robust analysis. More: https://t.co/o8nulpJltK https://t.co/3aD0EP1RFB</title>
+      <link>https://twitter.com/DARPA/status/1681287809871626244</link>
+      <description>Class is in session! We just announced the teams selected for our ECOLE program. They will attempt to create #AI agents capable of continually learning and helping humans produce reliable/robust analysis. More: https://t.co/o8nulpJltK https://t.co/3aD0EP1RFB</description>
+      <content:encoded>Class is in session! We just announced the teams selected for our ECOLE program. They will attempt to create #AI agents capable of continually learning and helping humans produce reliable/robust analysis. More: https://t.co/o8nulpJltK https://t.co/3aD0EP1RFB&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DARPA/status/1681287809871626244"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1UiWoAXwAA_xon.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starlink for sale in Kenya!
+
+Note, buying a Starlink with global roaming allows you to travel almost anywhere. https://t.co/Gg8krpPpwY</title>
+      <link>https://twitter.com/elonmusk/status/1681288404716204032</link>
+      <description>Starlink for sale in Kenya!
+
+Note, buying a Starlink with global roaming allows you to travel almost anywhere. https://t.co/Gg8krpPpwY</description>
+      <content:encoded>Starlink for sale in Kenya!
+
+Note, buying a Starlink with global roaming allows you to travel almost anywhere. https://t.co/Gg8krpPpwY&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/elonmusk/status/1681288404716204032"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is the value of science?
+
+Richard Feynman struggled with this question after World War II. In this 1955 essay he presents what he believes to be the true value of science.
+
+A great paper for your summer ☀️ reading list 📚 : https://t.co/NA9CKJoOUY https://t.co/861YG4yN4R</title>
+      <link>https://twitter.com/fermatslibrary/status/1681290229808807937</link>
+      <description>What is the value of science?
+
+Richard Feynman struggled with this question after World War II. In this 1955 essay he presents what he believes to be the true value of science.
+
+A great paper for your summer ☀️ reading list 📚 : https://t.co/NA9CKJoOUY https://t.co/861YG4yN4R</description>
+      <content:encoded>What is the value of science?
+
+Richard Feynman struggled with this question after World War II. In this 1955 essay he presents what he believes to be the true value of science.
+
+A great paper for your summer ☀️ reading list 📚 : https://t.co/NA9CKJoOUY https://t.co/861YG4yN4R&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/fermatslibrary/status/1681290229808807937"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/media/F1UkjVhWwAE9IA4.jpg" length="1200" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 13:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mossy leaf-tailed geckos are nocturnal and arboreal. These geckos rely on their stunning camouflage as they dwell among the trees.
+
+[read more: https://t.co/8Pd0vJ2fYW]
+[source: https://t.co/l95cVhLjv9]
+https://t.co/GrgQbXaIab</title>
+      <link>https://twitter.com/Rainmaker1973/status/1681290326009413633</link>
+      <description>Mossy leaf-tailed geckos are nocturnal and arboreal. These geckos rely on their stunning camouflage as they dwell among the trees.
+
+[read more: https://t.co/8Pd0vJ2fYW]
+[source: https://t.co/l95cVhLjv9]
+https://t.co/GrgQbXaIab</description>
+      <content:encoded>Mossy leaf-tailed geckos are nocturnal and arboreal. These geckos rely on their stunning camouflage as they dwell among the trees.
+
+[read more: https://t.co/8Pd0vJ2fYW]
+[source: https://t.co/l95cVhLjv9]
+https://t.co/GrgQbXaIab&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/Rainmaker1973/status/1681290326009413633"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <enclosure url="http://pbs.twimg.com/ext_tw_video_thumb/1605128620665720833/pu/img/2-MYm_CfpIZ9Q4MK.jpg" length="675" type="photo"/>
+      <pubDate>Tue, 18 Jul 2023 13:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good morning, I'm on the market to buy the 3 in 1 charging station. Please send your suggestions in.</title>
+      <link>https://twitter.com/ewadorotaz/status/1681291247099469824</link>
+      <description>Good morning, I'm on the market to buy the 3 in 1 charging station. Please send your suggestions in.</description>
+      <content:encoded>Good morning, I'm on the market to buy the 3 in 1 charging station. Please send your suggestions in.&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/ewadorotaz/status/1681291247099469824"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keeping your code organized is crucial for efficient development. 
+
+What are  your best practices when organizing your code? 👇</title>
+      <link>https://twitter.com/DeepLearningAI_/status/1681291477392019456</link>
+      <description>Keeping your code organized is crucial for efficient development. 
+
+What are  your best practices when organizing your code? 👇</description>
+      <content:encoded>Keeping your code organized is crucial for efficient development. 
+
+What are  your best practices when organizing your code? 👇&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/DeepLearningAI_/status/1681291477392019456"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:14:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Morphometric INverse Divergence (MIND): a method to estimate within-subject similarity between cortical areas based on the divergence between their distributions of multiple MRI features
+
+New from @isaac_sebenius @Sarah_Morgan_UK @edbullmore et al.
+
+https://t.co/oIzEmhBlAT</title>
+      <link>https://twitter.com/NatureNeuro/status/1681291480076374016</link>
+      <description>Morphometric INverse Divergence (MIND): a method to estimate within-subject similarity between cortical areas based on the divergence between their distributions of multiple MRI features
+
+New from @isaac_sebenius @Sarah_Morgan_UK @edbullmore et al.
+
+https://t.co/oIzEmhBlAT</description>
+      <content:encoded>Morphometric INverse Divergence (MIND): a method to estimate within-subject similarity between cortical areas based on the divergence between their distributions of multiple MRI features
+
+New from @isaac_sebenius @Sarah_Morgan_UK @edbullmore et al.
+
+https://t.co/oIzEmhBlAT&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/NatureNeuro/status/1681291480076374016"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT @selmaanchettih: Our (updated) preprint is out! On discovering a hippocampal mechanism underlying episodic memory, using data from food-…</title>
+      <link>https://twitter.com/brainsOnMyMind/status/1681292309068124161</link>
+      <description>RT @selmaanchettih: Our (updated) preprint is out! On discovering a hippocampal mechanism underlying episodic memory, using data from food-…</description>
+      <content:encoded>RT @selmaanchettih: Our (updated) preprint is out! On discovering a hippocampal mechanism underlying episodic memory, using data from food-…&lt;blockquote class="twitter-tweet"&gt;&lt;a href="https://twitter.com/brainsOnMyMind/status/1681292309068124161"&gt;&lt;/a&gt;&lt;/blockquote&gt;</content:encoded>
+      <pubDate>Tue, 18 Jul 2023 13:18:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
